@@ -102,4 +102,8 @@ theme: ayer
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/techidaily/site
+  # example, https://github.com/hexojs/hexojs.github.io
+  # 执行 hexo clean && hexo deploy 。
+  branch: gh-pages
