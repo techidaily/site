@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TechiDaily</title>
+  
+  <subtitle>Enjoy life easier but more creative!</subtitle>
+  <link href="https://techidaily.com/atom.xml" rel="self"/>
+  
+  <link href="https://techidaily.com/"/>
+  <updated>2024-01-31T07:04:31.210Z</updated>
+  <id>https://techidaily.com/</id>
+  
+  <author>
+    <name>TechiDaily</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TechiDaily</title>
+    <link href="https://techidaily.com/2024/01/31/hello-world/"/>
+    <id>https://techidaily.com/2024/01/31/hello-world/</id>
+    <published>2024-01-31T05:19:05.615Z</published>
+    <updated>2024-01-31T07:04:31.210Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to TechiDaily.com !</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to TechiDaily.com !&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
