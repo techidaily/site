@@ -5,7 +5,7 @@
 # Site
 title: TechiDaily
 subtitle: 'Enjoy life easier but more creative!'
-description: 'Techidaily is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
+description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
 keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
 author: TechiDaily
 language: en
@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://techidaily.com
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -96,8 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
-
+theme: redefine
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
