@@ -1,0 +1,648 @@
+---
+title: Unable to Save Excel 2007 Workbook Issue Fix 2024 | Stellar
+date: 2024-03-13 15:14:55
+updated: 2024-03-14 22:21:59
+tags: 
+  - repair
+  - repair excel
+  - fix excel
+categories: 
+  - apps
+  - windows
+description: This article describes Unable to Save Excel 2007 Workbook Issue Fix 2024
+excerpt: This article describes Unable to Save Excel 2007 Workbook Issue Fix 2024
+keywords: repair excel 2013,repair damaged .xlsm files,repair .xltm files,repair damaged excel,repair corrupt .xlb files,repair corrupt .csv
+thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+---
+
+## 'Unable to Save Excel Workbook' Issue [Fix 2024]
+
+**Summary:** You may unable to save your Excel Workbooks due to several reasons. Many users have reported this issue on the Tech Forums. This blog will discuss a few instances when users cannot save their Excel files. It lists the causes behind the issue and their possible solutions. It also mentions the Stellar Repair for Excel to fix the saving error if it is due to corruption in the Excel file.
+
+[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+It is easy to work with Microsoft Excel but sometimes, the application may create issues thereby hampering the smooth functioning of the workbook. One such issue is “unable to Save Excel Workbook”.
+
+## Let’s take a look at the issue of Unable to Save Excel Workbook
+
+### **Instance 1:**
+
+In an organization, users connected to one of the servers (Windows 2008 R2) using Citrix – a Terminal Server configured with Windows 2008 R2 –and accessed their data through a File Server, also configured with Windows 2008R2. Since the connectivity to Shared Drive was established through a Terminal server, any conflict amongst the server configuration may create conflict in shared file.
+
+This issue was discussed at length at one of the [Tech Forums](https://community.spiceworks.com/topic/371563-excel-document-not-saved-issue), where the users were unable to access their workbooks stored on the shared drive. The File menu did not work. As a result, the users were forced to save the workbook by creating quick access shortcuts or locally on the desktop. In many cases, the saving option was ruled out completely.
+
+### **Instance 2:**
+
+A [similar problem](https://www.dell.com/support/article/in/en/indhs1/sln308103/unable-to-save-workbook-in-microsoft-excel?lang=en) was reported, wherein the users received an error when saving an Excel workbook after inserting a chart in an existing workbook (previously saved) or copying values from an existing workbook. A system is configured with Windows 7 and Microsoft Office 10 configuration. The issue arises when the user is unable to save the changes after editing in a saved spreadsheet. The following message displays on the screen:
+
+![Image of Error message while trying to save excel file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Excel-Error.png)
+
+Figure: Unable to Save Excel WorkBook Issue
+
+**Further, if the user clicks ‘Continue’, the following error message is received:**
+
+“Excel encountered errors during save. However, Excel was able to minimally save your file to <**filename.xlsx**\>”.
+
+**Note:** This issue impacts build Version 1707 (Build 8326.2086) and later, and also only occurs with files that are stored locally, such as on the desktop. This problem does not occur if you manually enter values or insert a chart in a newly created workbook.
+
+## Plausible reasons for the ‘Unable to save Excel workbook’ Issue
+
+1. The issue was detected in Microsoft Office Professional Plus 2010 32-bit, Service Pack 14.0.6029.1000.
+2. Excel version on the user system may or may not match with Excel version on File server.
+3. The issue of ‘Unable to Save Excel Workbook’ impacts only the Build Version 1707 (Build 8326.2086) and later.
+4. In case of Issue 2, the problem surfaces when the user adds files, tables or charts in the locally saved excel files, such as on the desktop.
+
+## Methods to fix the ‘Unable to Save Excel Workbook’ Issue
+
+There may be an issue with the Build version or the Registry Values settings may not be appropriate, which does not allow the Excel workbooks to save.
+
+**But, before starting to resolve the issue, verify the following:**
+
+1. **The location where the file is to be saved may not have enough space to save the Excel file**: Check the available space and save again. You may also use the option of ‘Save As’ to save the file at a new location.
+2. **Excel file may be a shared one where edits are not allowed by a specific user**: There are restrictions attached to documents and other files shared over the network. Check for these restrictions.
+3. **Antivirus may interrupt in during file saving**: Antivirus in the system may not allow saving of the files. Request the system administrator to uninstall the antivirus and reinstall after saving.
+4. **The file is not saved within 218 characters**: If the file is not saved due to the naming issue, then check the character length and try again.
+5. **Differences in Windows versions** of the local system and those on network drive may cause excel not saved issues. Check that all the systems have the same configuration and are updated to the recently available versions.
+6. **Excel spreadsheet is corrupt**: If none of the above factors have not caused hindrance in saving the file, then there may be a probability of [corruption in the Excel spreadsheet](https://www.stellarinfo.com/blog/simple-way-to-open-corrupt-excel-file-without-any-backup/).
+
+Once verified, look for a healthy and restorable backup. If backup is missing, resolve the issue of “Unable to open Excel File” with manual settings on local system or through a reliable Excel repair software.
+
+### Method 1: Modify Registry Entries
+
+If multiple users are unable to access their workbooks stored on the shared drive and facing unable to save Excel file problem (see Instance 1 above), then follow the below steps:
+
+1. Go to ‘Registry Entry’. To do this, type ‘regedit’ in the Start Search box, and press ENTER
+
+![Image of Run window with the command 'regedit" that is to be Run](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Registry-Entry.jpg)
+
+Figure: Edit Registry
+
+2. You are prompted for the administrator password or for a confirmation, type the password, or click Continue
+3. Locate the following registry subkey, and right-click it: **HKEY\_LOCAL\_MACHINE\\System\\CurrentControlSet\\Services\\CSC**
+
+![Image of Registry Editor window, locating the registry subkey](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/CSC-Location.jpg)
+
+Figure: CSC Location
+
+4. Point the cursor to New, and click Key
+
+![Image of Registry Window, Right clicking on the subkey 'CSC', hover over "New" and clicking on "Key"](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/New-Key.jpg)
+
+Figure: Create new key
+
+5. Type ‘File Parameters’ in the available box
+
+!['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
+
+Figure: File parameters
+
+6. Right-click Parameters, point the cursor to New, and click DWORD (32-bit) Value
+
+![Image of selecting DWORD (32-bit) Value under "New" by right clicking on "File Parameters" in the Registry Editor](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/DWORD32bit.jpg)
+
+Figure: File parameter (DWORD – 32 bit) value
+
+7. Type ‘FormatDatabase’, and press ‘ENTER’. Right-click ‘FormatDatabase’, and click ‘Modify’
+
+![Image of clicking on "Modify..." by right-clicking on FormatDatabase that was entered](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Modify.jpg)
+
+Figure: Modify format database
+
+8. In the Value data box, type ‘1’, and click ‘OK’
+
+![Image of Value Data set as 1 in the Value data box 1 after clicking on "Modify..."](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/value-data.jpg)
+
+Figure: Value data
+
+9. Exit ‘Registry Editor’
+10. Restart the system and verify if the files can be saved now
+
+### Method 2: Try Google Uploads
+
+If the user is unable to save the changes after editing in a locally saved spreadsheet (see Instance 2 above), then follow these steps:
+
+1. Upload the unsaved Excel file to Google Docs. Ensure that the file gets converted to Google Sheets format.
+2. Check if all the formulae are active and working.
+3. Make changes to the Google Sheet and verify that all the changes are working fine.
+4. Use the Google Sheets export feature to download the file in Excel format.
+
+### Method 3: Resolve manually with Open and Repair
+
+**If the Excel file is found to have corruption, try out the Excel Open and Repair utility:**
+
+1. Open a blank Excel File. Go to **File** and Click **Open**.
+2. Go to **Computers** and click **Browse**.
+3. Access the **Location and Folder** and click the arrow icon beside **Open** followed by **Open and Repair.**
+
+![Image of Open and Repair built-in utility in the browse window.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Open-and-Repair-1024x549.png)
+
+Figure: Illustrates Steps to use ‘Open and Repair’ method
+
+The Open and Repair utility is not competitive enough and may not fix corruption in severely corrupted files. Hence, if you are unable to save Excel workbook after applying the manual methods, then you can search for a useful software-based repair utility.
+
+### Method 4: Excel File Repair Software
+
+Specifically meant to resolve Excel file corruption. **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** helps you to repair every single object including charts, tables, their formatting, shared formulae and rules and more.
+
+1. **Install** and **Open** the software and **select** the corrupt Excel File. You can also click the **Find** option if the file location is not known.
+2. Click **Scan** and allow the software to **scan and repair** the corrupt Excel file.
+3. Once repaired, the software displays the fixed file components to verify its content.
+4. Click **Save** to save the file data in a blank new file as **‘Recovered\_abc.xls’**, where abc.xls is the name of the original file.
+
+See the working of the software which has been declared as a tool that provides **100% integrity and precision**.
+
+<iframe title="How to Repair and Recover Corrupted Excel Files?" width="750" height="422" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" nitro-og-src="https://www.youtube.com/embed/3SiJqmP7iMU?feature=oembed&amp;autoplay=1" nitro-lazy-src="data:text/html;https://www.youtube.com/embed/3SiJqmP7iMU?feature=oembed&amp;autoplay=1;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1YmUuY29tL3ZpLzNTaUpxbVA3aU1VLzAuanBnKSBjZW50ZXIvMTAwJSBuby1yZXBlYXQnPjxzdHlsZT5ib2R5ey0tYnRuQmFja2dyb3VuZDpyZ2JhKDAsMCwwLC42NSk7fWJvZHk6aG92ZXJ7LS1idG5CYWNrZ3JvdW5kOnJnYmEoMCwwLDApO2N1cnNvcjpwb2ludGVyO30jcGxheUJ0bntkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7Y2xlYXI6Ym90aDt3aWR0aDoxMDBweDtoZWlnaHQ6NzBweDtsaW5lLWhlaWdodDo3MHB4O2ZvbnQtc2l6ZTo0NXB4O2JhY2tncm91bmQ6dmFyKC0tYnRuQmFja2dyb3VuZCk7dGV4dC1hbGlnbjpjZW50ZXI7Y29sb3I6I2ZmZjtib3JkZXItcmFkaXVzOjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3Bvc2l0aW9uOmFic29sdXRlO3RvcDo1MCU7bGVmdDo1MCU7bWFyZ2luLWxlZnQ6LTUwcHg7bWFyZ2luLXRvcDotMzVweH0jcGxheUFycm93e3dpZHRoOjA7aGVpZ2h0OjA7Ym9yZGVyLXRvcDoxNXB4IHNvbGlkIHRyYW5zcGFyZW50O2JvcmRlci1ib3R0b206MTVweCBzb2xpZCB0cmFuc3BhcmVudDtib3JkZXItbGVmdDoyNXB4IHNvbGlkICNmZmY7fTwvc3R5bGU+PGRpdiBpZD0ncGxheUJ0bic+PGRpdiBpZD0ncGxheUFycm93Jz48L2Rpdj48L2Rpdj48c2NyaXB0PmRvY3VtZW50LmJvZHkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpe3dpbmRvdy5wYXJlbnQucG9zdE1lc3NhZ2Uoe2FjdGlvbjogJ3BsYXlCdG5DbGlja2VkJ30sICcqJyk7fSk7PC9zY3JpcHQ+PC9ib2R5Pg=="></iframe>
+
+The **Excel repair software** takes care to save the repaired data in a new file to minimize the chances of further corruption.
+
+## **Conclusion**
+
+‘Unable to save Excel file’ is a generic problem that may appear due to various reasons. In this blog post, we presented some of the actual instances reported by users on community forums.
+
+Windows updates, the Build versions, the Service Packs of the local systems and those on the network drive must be either similar or in sync with each other. Any deviation may cause issues in accessing or saving the Microsoft files, as reported in Instance 1 is caused where user is unable to save Microsoft Excel file on the Network Drive. In case, the user is unable to save the file on network drive then the problem lies with the Registry value.
+
+Another case is when the users receive an error while saving an Excel workbook after they insert a chart in an existing workbook or copying values from an existing workbook. This issue is known to affect build Version 1707 (Build 8326.2086) and later, and only occurs with locally stored files.
+
+When a user is unable to save a specific Excel file, then the problem can be resolved using the manual methods or the software based utility. The mode of repair depends upon the level of corruption in Excel file.
+
+Hence, it is suggested to analyze the nature of the problem and decide an appropriate resolution method.
+
+
+## Data Disappears in Excel - How to get it back
+
+**Summary:** You may face the issue of ‘Excel spreadsheet data disappeared’ after changing Excel file properties and formatting rows and columns. This blog discusses the possible reasons for data disappearance and the solutions to fix the issue. Also, it mentions an Excel file repair tool to retrieve the data from the file. Sometimes, while editing or formatting a cell in an Excel spreadsheet, the data may go missing or disappear. Let’s discuss in detail the reasons that may cause the ‘Excel data disappeared’ issue along with the solutions.
+
+[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+## **Probable Reasons for Data Disappearing in MS Excel and Solutions Thereof**
+
+### Reason 1 – Unsaved Data
+
+While entering data in an Excel spreadsheet, it is important to save the data at frequent intervals. Doing so prevents any unsaved data from disappearing if you lose power or accidentally click ‘No’ when prompted to save the file. Unfortunately, such a situation is quite common as users often close the file without saving the recently made changes to a spreadsheet.
+
+### Solution – Use the ‘AutoSave’ Feature
+
+With the AutoSave feature enabled in Excel, data won’t be lost in the event of power failure or abruptly closing the Excel program. By default, Excel automatically saves the information in a spreadsheet after every 10 minutes. You can reduce the limit to a few seconds to reduce the chances of Excel file data lost after being saved.
+
+![Change excel autosave internal](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/09/change-excel-autosave-interval-img-1-1.png)
+
+### Reason 2 – Changing Excel Format
+
+You can save an Excel file in various formats, like spreadsheet, text, webpage, and more. However, at times, saving the spreadsheet in a different format may lead to missing data. For example, when you save a workbook to a text file format, all formulas and calculations applied to the data will be lost.
+
+### Solution – Adjust a Spreadsheet for the Changed Format 
+
+If you’re changing the format of a spreadsheet, make space for the rows and columns. Also, remove all calculations before saving the file.
+
+**Note:** If the sheet is shared on multiple computers, then save the file in compatibility mode.
+
+### Reason 3 – Merging Cells
+
+You can combine two or more cells data to make one large cell. This technique is primarily used to fit the text of a title in a sheet. If there is data in two or more cells, then only the data in the top-left cell is displayed and the data in all other cells is deleted. If the other merged cells have been populated with data after merging, the data is not featured and it does not appear even after remerging the cells.
+
+### Solution – Merge Cells inside One Column
+
+To merge cells without data loss, combine all the cells you want to merge within a column and do the following:
+
+-   Select the cells to be combined.
+-   Ensure that column width is wide enough to fit the contents of a cell.
+-   In the spreadsheet, under the Editing group, click ‘Fill,’ and then click ‘Justify.’
+
+![excel-fill-option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/09/excel-fill-option-img-2-1-1024x253.png)
+
+-   Under Alignment, click on the ‘Merge & Center’ option to center align the text. Or, click on ‘Merge Cells’.
+
+**Note:** This solution works for text only. You cannot use it to merge formulas or any numerical values. If you need to combine two or more cells with formula into a single cell, try using the [Excel CONCAT function](https://support.microsoft.com/en-us/office/combine-text-from-two-or-more-cells-into-one-cell-81ba0946-ce78-42ed-b3c3-21340eb164a6).
+
+### Reason 4 – Cell Formatting
+
+Cells and text in the cells can be displayed in different colors to make the spreadsheet simple to create and infer. You may experience data loss when you try to modify the data or change the color or size of the data. Though the information may exist, the data may show an error due to the following reasons:  
+
+-   White-colored text will not show in a white-colored cell
+-   Large font-sized data may not appear in small-sized cell
+-   Calculations may show (#VALUE) error after cell-formatting
+
+### Solution – Check and Clear Formatting
+
+Make sure to use dark-colored text on a white-colored cell. Also, resize the cell to fit the text size. Check if numbers in a cell are entered as text. If so, you need to apply a number format to the text-formatted numbers. Read more about it, from [here](https://support.microsoft.com/en-us/office/fix-text-formatted-numbers-by-applying-a-number-format-6599c03a-954d-4d83-b78a-23af2c8845d0).
+
+## What Else You Can Do to Resolve the ‘Excel Data Disappeared’ Issue?
+
+If you can’t recover the missing Excel file data, try to repair or extract the data from the file using the built-in **Excel repair tool**. Follow the below steps to use the tool:
+
+-   Open MS Excel, click File > Open > Computer > Browse.
+-   On the ‘Open’ window, select the file you want to repair and then click on the Open dropdown.
+-   Select Open and Repair.
+
+![Open and repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/09/open-and-repair-img-3-1.png)
+
+Use the ‘Repair’ option to repair the file and recover as much data as you can from the repaired file. If this doesn’t work, use the ‘Extract’ option to recover the data.
+
+If you fail to retrieve the disappeared data from that file using the above-listed steps, opt for an [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), like Stellar Repair for Excel. This software has a proven track record of repairing corrupt or damaged Excel files and recover all the data.
+
+[![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Free-download-for-windows-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+
+### The software helps:
+
+-   Fix all corruption errors. It helps in getting back the data which has disappeared.
+-   Repair a single as well as multiple Excel files.
+-   Recover all components of XLS/XLSX files – tables, chart sheet, cell comment, image and more.
+-   Preserve the worksheet properties and cell formatting.
+-   Support the latest Excel 2019 and earlier versions.
+
+### The Excel repair software repairs the Excel file in these simple steps:
+
+-   Launch and open the software.
+-   Select the corrupt Excel file by using the ‘Browse’ option. If the file location is not available, then find the Excel file using the ‘Search’ option.
+
+![Browse and Search](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/Browse-and-Search.jpg)
+
+-   Click ‘Repair’ to scan the corrupt file.
+
+![Scan corrupt file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/22-search-file.png)
+
+-   Once the repair process is complete, verify the components of Excel file and check if the available preview shows complete data that disappeared from Excel.
+
+![Disappeared from excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/4-preview.png)
+
+-   **Save** file at default location or preferred location.
+
+![Default location](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/6-save-file.jpg)
+
+The Excel file with all the restored data will be saved at the selected location.
+
+## Conclusion
+
+It is better to repair the affected Excel file than suffer the loss when data or text disappears in Excel. A professional software ensures that users get back all the data in the form of a new Excel file. **Stellar Repair for Excel** software repairs the corrupt file without modifying the original content and file format. The software’s easy-to-use user interface lets you perform the functions without formal software training and technical expertise.
+
+
+## How to fix Microsoft Excel has stopped working error?
+
+**Summary:** This blog discusses the possible reasons behind ‘Microsoft Excel has stopped working’ error and solutions to resolve the error manually. You can use Stellar Repair for Excel to quickly repair the file and recover all its data in a hassle-free manner.
+
+[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+Has your Microsoft Excel program stopped working or is acting strange? Excel not responding is a common issue you may experience on launching the application or opening a spreadsheet.
+
+![Microsoft Excel has stopped working](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/07/Excel-has-stopped-working.jpg)
+
+Figure 1 – Microsoft Excel Has Stopped Working Error Message
+
+## **Possible Causes behind ‘Microsoft Excel has Stopped Working’ Error, and Solutions Thereof**
+
+_**Note:** Several users have reported about encountering the ‘_**_Excel has stopped working’ issue on Windows 10, 8, and 7 OS_** _after installing an update for Excel (KB3118373). If you too have installed the update, then uninstall it and check if it solves the error. For detailed information, refer to this_ [link](https://docs.microsoft.com/en-us/office/troubleshoot/excel/excel-has-stopped-working-error)_._
+
+## \[Fixed\] Excel PivotTable Overlap Error | Troubleshooting Guide
+
+In Excel, you need to refresh the pivot table data source after adding new data. However, sometimes, while refreshing the pivot table, you may experience an error “PivotTable Report cannot Overlap.” This issue usually appears when there are multiple pivot tables in a single worksheet. It often occurs when you try to place one pivot table on top of another or if you try to set a common cell range to multiple pivot tables. However, there are many other causes associated with the error.
+
+## **Reasons for a pivot table report cannot overlap another pivot table report issue:**
+
+- Merged cells in a pivot table may cause the overlap issue
+- Using the same range of cells for multiple pivot tables
+- Hidden columns
+- Preserve formatting option is enabled
+- Modifying the pivot table using a macro that is corrupted
+- Using the workbook.RefreshAll method incorrectly
+- Number of pivot items goes beyond the number of cells available
+- Excel file is corrupt
+- [Corrupted Pivot table](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+- Some columns are labeled with the same name
+
+## Methods to Fix Excel PivotTable Report Cannot Overlap Error
+
+You can get the pivot table overlapping issue if the field in pivot table crossed the maximum items limit. According to the Microsoft guide, you can specify up to 1,048,576 items to return per field. Check the cell fields in your pivot table. Also, make sure each column’s label is unique. Sometimes, the hidden columns or hidden sheets can also prevent you from modifying the pivot tables. You can check for hidden columns in the Data view.
+
+If the error still persists, then try the below-mentioned methods to fix the error.
+
+### **1\. Move the Pivot Table to a New Worksheet**
+
+The “PivotTable Report cannot Overlap” error can occur if there is an issue with the columns in the pivot table. In this case, you can try moving the pivot table to a new worksheet. Moving the pivot table to a different worksheet automatically resets the column width according to the new sheet and creates space that can help in preventing the overlapping issue. Here are the steps to do so:
+
+### **2\. Disable the Background Refresh Option**
+
+When the background refresh option is enabled, then Excel updates the pivot table in the background after every minor change. It may create issue if you have a large-sized Excel file with multiple pivot tables. You can try disabling the background refresh option. Here’s how:
+
+- The **Connection Properties** dialog box is displayed. Unselect the “**Enable background refresh”** option and select the **“Refresh data when opening the file”**
+- Click **OK.  
+
+    ![enable background refresh in connection properties window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivottable/enable-background-refresh-in-connection-properties-window.jpg)
+
+    **
+
+### **3\. Disable Autofit Column Widths**
+
+When the Autofit column widths option is enabled, Excel automatically resizes the pivot table whenever you make changes to it. These automatic adjustments can sometimes add or remove fields which can result in the PivotTable Report cannot Overlap issue. To fix this, you can disable the “Autofit column widths on update” option. To do this, follow these steps:
+
+- Right-click on any field on the pivot table.
+- Select **PivotTable Options.  
+
+    ![Select Pivot Table](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivottable/select-pivot-table.jpg)
+
+    **
+
+- In the **PivotTable Options** window, unselect **Autofit column widths on update**.  
+
+    ![select autofit column widths in pivot table options](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivottable/select-autofit-column-widths-in-pivottable-options.jpg)
+
+- Click on the **OK.**
+
+### **4\. Check the Workbook.RefreshAll Method**
+
+Several users have reported experiencing the “Excel PivotTable Report cannot Overlap” error when using the Workbook.RefreshAll method. This method is used to refresh data ranges in the pivot report. Sometimes, the error can occur due to missing variable that is representing an object (workbook) in a query. So, make sure you’re using the Workbook.RefreshAll function correctly.
+
+### **5\. Repair your Excel File**
+
+You may also encounter the “A PivotTable Report cannot Overlap” error if the Excel file is corrupted. You can use the inbuilt utility in Excel - Open and Repair to repair the corrupt file. Here’s how:
+
+- In your Excel application, click on the **File** tab and then click **Open**.
+- Click **Browse** to select the desired file.
+- In the **Open** dialog box, click on the corrupted file.
+- Click on the arrow next to the **Open** button and then click **Open and Repair**.
+- Click on the **Repair**
+- In the displayed message, click **Close**.
+
+If the “Open and Repair” utility fails to fix the issue, then it means there is high level of corruption in the Excel file. To tackle this, you can take the help of a professional Excel file repair tool, such as Stellar Repair for Excel. The tool can easily repair severely corrupted Excel file and recover all the objects of the file, such as pivot tables, macros, charts, etc. with 100% integrity. You can download the free trial version of the tool to check its functionality.
+
+## **Conclusion**
+
+In this article, we have discussed the possible reasons behind the “PivotTable Report cannot overlap” error in Excel. You can follow the methods mentioned above to fix the issue. The error may also occur if the Excel file gets corrupted. In this case, you can try repairing the corrupted Excel file using the Open and Repair utility or consider using [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). The tool makes the process of repairing the Excel file smooth and quick.
+
+
+## \[Fixed\] The Workbook Cannot Be Opened or Repaired By Microsoft Excel
+
+An MS Excel workbook (.XLS/.XLSX) file may not open due to damage or corruption caused by various reasons, such as:
+
+- Sudden power failure
+- System crash
+- Virus or malware intrusion
+- Large or oversized Excel file
+- Incompatible add-ins
+- Drive errors
+- Damaged MS Office/Excel program files
+
+As a result, when you try to open or access a corrupt Excel document, the program displays errors, such as "_The workbook cannot be opened or repaired by Microsoft Excel because it is corrupt_." This may lead to a data loss situation.
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/excel-workbook-corruption-1.jpg)
+
+## **Methods to Fix 'The Workbook Cannot Be Opened' Error**
+
+When an Excel workbook gets corrupt, MS Excel automatically detects and starts the file recovery mode to open and repair the file. However, when it fails to repair the corruption or recover the Excel file automatically, it displays the error message, "_The workbook cannot be opened or repaired by Microsoft Excel because it is corrupt_." In such a situation, you can follow these methods to repair and recover the Excel document manually.
+
+If the manual methods fail to resolve the error, you can use an Excel repair software, such as Stellar Repair for Excel. The software repairs corrupt XLS/XLSX file, recovers all the data, and saves it in a new Excel document with 100% precision, while keeping the cell formatting and properties intact.
+
+**_NOTE:_** _Before performing the below methods to repair or recover Excel documents, create a backup copy of the original file. This will help you recover data by using an [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) and avoid permanent data loss._  
+
+### 1\. Repair Excel Workbook Manually
+
+If the automatic repair fails, you may try manual repair to fix the damage or extract the data from the damaged Excel workbook. The steps are as follows:
+
+- Navigate to **File > Open** and then go to the location where the spreadsheet is located.
+- In the **Open** window, select the corrupted workbook that you want to fix and then click on the arrow next to the Open button.
+- From the available options, choose **Open and Repair**…  
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/open-and-repair-excel-2.png)
+
+- Then click '**Repair**' if you want to recover maximum data from the workbook or click '**Extract data**' if the repair option fails to fix the issue. It will extract all the values, formulas, tables, etc., from the corrupt workbook.  
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/repair-or-extract-data-3.png)
+
+If both options fail to fix the issue, head to the next method.
+
+### 2\. Remove Faulty or Incompatible Add-ins
+
+Faulty or incompatible add-ins may also cause this error. To find and remove such add-ins, follow these steps:
+
+- Press **Windows key + R.  
+    **
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/excel-safe-mode-4.png)
+
+- Type **Excel /safe** and press '**Enter**' or click '**OK.'** This opens MS Excel in **Safe Mode.**
+- Go to **File > Options** and then select '**Add-ins.**'  
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/Excel-add-ins-5.png)
+
+- Choose '**Excel Add-ins**' from **Manage:** option and then click on the **Go** button to view all Add-ins.  
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/Excel-add-ins-5.png)
+
+- Uncheck the checkboxes of **Add-ins** and then click '**OK**' to disable them.
+
+Now close the Excel program and run it normally. Click '**File > Open**' and choose the Excel file you want to access.
+
+### 3\. Repair MS Office Installation
+
+Damaged Excel program files may also lead to such errors. However, you can easily repair MS Office installation to fix the problem. The steps are as follows:
+
+- Open **Control Panel** and select '**Uninstall a program.**'  
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/control-panel-7.png)
+
+- Search and choose _MS Office_ from the programs list. Then click on the '**Change'** button.  
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/reapir-ms-office-8.png)
+
+- Select '**Repair'** and follow the wizard to fix the damaged program files.  
+
+![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/repair-or-reinstall-ms-office-9.png)
+
+If this fails to address the issue, you can uninstall and then fresh install MS Office on your system. Alternatively, try accessing the file on another PC.
+
+### 4\. Use Excel Repair Software
+
+The best option is to use an Excel repair software, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), to repair the file, resolve the error, and access the Excel (XLS/XLSX) worksheet. The software can repair an Excel file without any size limitation.
+
+After recovering the Excel file using the software, you can open it in any MS Excel program without encountering the error message.
+
+## Conclusion
+
+A corrupt or damaged Excel workbook may lead to errors, such as _"The workbook cannot be opened or repaired by Microsoft Excel because it is corrupt,"_ and cause a data loss situation. The most efficient way to fix such corrupt Excel files is to repair them by using an Excel repair tool, such as Stellar Repair for Excel.
+
+Unlike manual methods that may fail to resolve the issue or lead to further damage, this software extracts the data from the damaged Excel file and saves it in a new Excel workbook. Thus, it is 100% safe to run on an original Excel file, as it does not overwrite or alter the original file.
+
+The software is free to download. You can scan, repair, and preview a corrupt Excel file by using the demo version. Once you are satisfied with the results, activate the software to save the repaired Excel workbook data in a new sheet.
+
+
+## Best Excel Repair Software till Date - Try Now
+
+**Summary:** In this blog, we overview and conclude Stellar Repair for Excel as Best Excel Repair software till date – based on its distinctive features and capabilities. Also, you’ll get to know what makes it the top Excel repair software from the perspective of recognized review websites, tech community forums, and users. In addition, you’ll find the simple and step-wise process of repairing Excel by using the software.
+
+[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+Corruption in Excel files can hamper workflow, bringing productivity to a halt. And what can be more concerning is that you may lose sensitive data if the corrupt or damaged file is not repaired on time. An Excel file may get corrupted due to various reasons.
+
+## **Common Reasons Behind Excel File Corruption**
+
+- Abrupt system shutdown
+- Human errors such as accidental deletion, formatting, or overwriting an Excel workbook
+- Damaged Excel installation
+- Hardware failure
+- Virus infection or malware attack
+- Bad sectors on the hard drive on which Excel files reside
+- Large-sized Excel file
+
+Regardless of the reason, manually troubleshooting corruption errors in an Excel file can drain time, resources and may even cause data loss. However, using a third-party professional tool such as Stellar Repair for Excel can save you the manual efforts and time in repairing Excel files, keeping the original data intact.
+
+## **What Makes Stellar Repair for Excel the Best Software?**
+
+While there is no dearth of Excel file repair tools, Stellar Repair for Excel software has garnered considerable interest and [positive reviews by MVPs](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). The software has remarkable features that make it the Excel file repair specialist.
+
+### **Key Features of Stellar Repair for Excel Software**
+
+Though the software encompasses several great features and a simple-to-use and intuitive user interface, some of the key features that make it the **best Excel repair software** are:
+
+- **<u>Restores Excel (XLS / XLSX) File in Original, Intact State</u>**
+
+The software [repairs corrupt Excel files](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) and restores all the data in the original format. Also, it helps restore the original properties of cell formatting of the workbook.
+
+- **<u>Capability to Resolve all Excel Related Errors</u>**
+
+Most errors that crop up unexpectedly while working with Excel files are the result of damages caused due to human errors, virus infection, power surges, etc. The software can help you easily fix corrupted Excel files to get rid of errors such as “[Excel is not responding](https://www.stellarinfo.com/blog/fix-microsoft-excel-is-not-responding-error/)”, “[Excel found unreadable content in name.xls](https://www.stellarinfo.com/article/excel-found-unreadable-content-in-filename-xlsx-error.php)”, “Excel cannot open the file filename.xlsx”, etc.
+
+- **<u>Real-Time Pre-Recovery Preview</u>**
+
+It provides users with the opportunity to preview recoverable Excel file items before saving them. This helps users estimate how much data they will be able to salvage by using the tool, thus helping them make an informed decision about investing in the software.
+
+Besides these features, some other aspects that make the software a recommended choice for Excel repair are as follows:
+
+- **<u>100% Secure</u>****:** Downloading and installing this software is 100% safe and secure, since Norton antivirus security comes installed with it.
+- **<u>Tested by MVPs</u>****:** Stellar Repair for Excel software is tried and tested by credible MVPs.
+- **<u>Allows Testing before Purchase</u>:** The software’s demo version lets you understand the tool and its advantages before buying it.
+- **<u>Stellar is Microsoft Gold Partner</u>****:** The software’s vendor, Stellar Data Recovery, is a certified Gold partner for Microsoft.
+
+### **Stellar Repair for Excel – The Most Recommended Software**
+
+Check out the user ratings and reviews to understand why Stellar Repair for Excel ranks as the top Excel file repair software, and why you should choose it over its competitors:
+
+- [**Capterra**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) **– 4/5**
+
+A user has shared how effectively the Stellar Repair for Excel software repaired and restored the corrupted Excel file.
+
+![Stellar Repair for Excel software review by capterra](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/best-excel-repair-software-1-1-1024x344.jpg)
+
+- [**g2.com**](https://www.g2.com/products/stellar-repair-for-excel/reviews) **– 4.5/5**
+
+The Excel Repair software got a rating of 4.5/5 on g2.com based on the positive reviews of the users.
+
+![Stellar Repair for Excel software by g2.com](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/best-excel-repair-software-2.jpg)
+
+- [**Softpedia**](http://www.softpedia.com/get/System/Back-Up-and-Recovery/Stellar-Excel-Recovery-MS-Excel-Repair-Recovery-Software.shtml) **–** **3.5/5**
+
+Softpedia gave the product a rating of 3.5/5 and reported it as 100% clean (meaning without malware).
+
+![Stellar Repair for Excel software by softpedia](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/best-excel-repair-software-3.jpg)
+
+**Support and Compatibility**  
+Stellar Repair for Excel software supports the latest MS Excel versions 2019, 2016, 2013, and lower versions. It can operate smoothly on Windows 11, 10, 8.1, 8, 7, and earlier operating systems.  
+**System Requirements**  
+Stellar Repair for Excel requires a minimum Pentium Class Processor with 2 GB minimum memory and 250 MB of free storage drive space.
+
+[![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+
+## **How to Use Stellar Repair for Excel Software to Repair Excel Files?**
+
+Follow these steps for repairing damaged or corrupt Excel files:
+
+- Run the software and from the main software screen, select the corrupt Excel files you want to repair by clicking **Browse** or **Search**.
+
+![select corrupt excel file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/22-search-file.png)
+
+- Once the file is selected, click **Repair** to begin repairing the corrupt file.
+
+![Repair corrupt Excel file with Stellar repair for Excel software](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/best-excel-repair-software-4.jpg)
+
+- When the scanning finishes, all recoverable data is displayed in the left-pane of the preview window. Click on any item to preview its content in the right-pane.
+
+![Preview of recoverable excel file data](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/4-preview.png)
+
+- For saving the file, click the **Save File** button on the **Home** menu.
+- When prompted, select a target location to save the repaired file and click **OK**.
+
+![save repaired excel file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/6-save-file.jpg)
+
+The repaired Excel file will now get saved in the selected target location.
+
+## **Concluding Lines**
+
+[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) software empowers users to repair Excel (.XLS/.XLSX) files and restore worksheet data in the event of file corruption and data loss. More importantly, the software performs granular-level recovery to restore the complete file items while preserving worksheet properties and visual representation.
+
+
+## Recover Excel Files from Virus-Infected Pen Drives for Free
+
+**Summary:** Imagine you lost your important Excel file on which you had been working since the morning and in the next moment you realized that the file was not saved and you just lost hours of work. Wondering how to deal with this situation? Read this blog to know how Stellar free data recovery software can help you.
+
+[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+From making annual reports to business growth representation figures, excel is a commonly used program for organizing data, creating pivot tables, charts etc. People from all walks of life, know the importance of Excel and the part it plays. Although it is a common file, there is a probability that you may accidentally delete excel files while working or are unable to access it due to unexpected errors. In addition, one of the major issues users face is to recover excel files from a virus infected pen drive.
+
+Pen drives have made it possible to store and carry our important files such as excel, word document, photos, videos, etc. with us day in and day out. They just fit perfectly in our pockets and are compatible with almost every device; hence, they are widely used for transferring data from one system to another. But what if your pen drive is infected by a virus and due to it you end up losing your excel files, how will you recover your excel files for free?
+
+A user reported that his pen drive got virus-infected and to remove the virus from it, he ran an antivirus program which removed the virus but also deleted excel files stored on it.
+
+When your pen drive is infected by a virus, the first thing you ought to do is stop using it, even not for removing virus as an antivirus utility may remove your files as well. Further, if you have a backup, then you can recover your excel files from it, else you can use these free data recovery methods to recover your excel files.
+
+**1\. [Free File Recovery Software Approach](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**
+
+Stellar Windows Data Recovery – Free Edition is an easy to use tool to recover files from a virus-infected pen drive. The software is equipped with powerful utilities to recover lost and deleted files for free. Further, it supports a wide range of file systems and is efficient in recovering files such as Excel, emails, word files, photos, audio and video files.
+
+Using **Stellar Windows Data Recovery – Free Edition**, you can recover your files from all storage devices for free. Here’s how the software works:
+
+- From the website, [**download**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) Stellar Windows Data Recovery – Free Edition. Connect your pen drive to your system and launch the software
+- On ‘**Select What to Recover**’ screen, select file types from the given option that you wish to recover. For instance, if you want to recover photos, then under **Multimedia Files**, select ‘**Photos**’ and click on ‘**Next**’
+
+![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR1-2-1024x721.png)
+
+- From ‘**Select Location**’ screen, select the connected pen drive and click ‘**Scan**’
+
+![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR2-1-1024x717.png)
+
+- The scanning process starts and once the process is complete, software lists all the recoverable files
+
+![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR3-2-1024x714.png)
+
+- Select the files from the list and click on ‘**Recover**’ to save the files
+
+**2\. Restore Excel File from the Previous Version**
+
+If excel files are deleted from your pen drive or from your system; then you can recover them from the previous version. This feature works when Windows Backup option is enabled, else, it will not work.
+
+Follow these steps to recover excel files:
+
+- Connect your pen drive to your system, go to This PC and navigate to the folder of excel files
+- Select the folder, right-click on it and select ‘Restore previous versions’
+- From the available version of excel files, select the required one and click on ‘Restore’
+
+**3\. Use Command Line to Recover Excel Files**
+
+The Command prompt should be your first choice to recover excel files from the virus-infected pen drive. Here’s how command prompt recovers your files:
+
+- Connect your virus-infected pen drive to your system and then in the search box type ‘CMD’ and hit ‘Enter’
+- In the command window, type in attrib –h-r-s /s/ drive letter:\\\*.\*”, for example, “attrib -h -r -s /s /d G:\\\*.\*” and hit ‘Enter’
+
+![attrib command](https://www.stellarinfo.com/blog/wp-content/uploads/2017/10/attrib-command.png)
+
+- Windows starts repairing the virus-infected pen drive and once the process is complete, you can access your pen drive and recover excel files.
+
+Even after following the above-mentioned steps you’re unable to recover your excel files, then try a Home approach i.e. a data recovery tool.
+
+**To Sum Up**
+
+It is always a good idea to create a backup of important files since no one can anticipate what might go wrong. The scenario presented in the blog paints a clear picture of how you can recover your Microsoft excel files for free from a virus-infected pen drive. For quick and better results, you can always go with Stellar Windows Data Recovery – Free Edition.
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>
+
+

@@ -1,0 +1,279 @@
+---
+title: Solved Photos Disappeared from iPhone X Suddenly | Stellar
+date: 2024-05-20T10:20:30.028Z
+updated: 2024-05-21T10:20:30.028Z
+tags: 
+  - ios device recovery
+  - iphone recovery
+categories:
+  - ios
+description: This article describes Solved Photos Disappeared from iPhone X Suddenly
+excerpt: This article describes Solved Photos Disappeared from iPhone X Suddenly
+keywords: recover iPhone X data after reset,recover iPhone data after backup,recover data from iPhone,recover iPhone X data without backup,recover lost data from iPhone X,recover iPhone data after iOS update,recover deleted data from iPhone,recover iPhone X data after restore without backup
+thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+---
+
+## Solved: Photos Disappeared from iPhone Suddenly
+
+_‘I noticed that over 500 old photos from iPhone 11 have disappeared and now only the recently shot pictures are showing! I lost almost all of my best memories saved in my phone. I am sure I did not delete them. Where did the pictures disappeared from iPhone? How do I get back photos missing from iPhone? Please help.’_
+
+Photos suddenly disappearing from iPhone or random photos missing from Camera Roll or Gallery is a common complaint. Usually, photos get disappeared after iOS update, iPhone reset/restore, or when the device storage is full. You may also lose pictures after installing any new software, or jailbreaking. Sometimes, running an iPhone cleaning software without checking what it is deleting on your iOS device can also result in loss of photos.
+
+The situation is stressful, even more when you don’t have any copies or backup of lost photos.
+
+So how to recover the missing or lost photos on iPhone? This post shares the effective methods to get back the missing photos from Camera Roll, Gallery, or iCloud on your iPhone.
+
+![Photos Disappeared from iPhone Suddenly](https://www.stellarinfo.com/blog/wp-content/uploads/2021/11/Featured-Methods-to-Recover-Disappeared-Photos-from-iPhone.jpg)
+
+In any such sudden photo loss situation, the best solution is to use a secure photo recovery tool for iPhone that can recover photos lost due to any reason. Besides, there are free methods that might restore disappeared photos from iPhone, which you should try once.
+
+### **Method 1: Restart your iPhone**
+
+If your photos suddenly disappeared from iPhone, first restart the iOS device. Then open the Photo app, Camera Roll, or Photo Stream to see if the missing photos are showing or not.
+
+You can check [here the steps to restart your iPhone model](https://support.apple.com/en-us/HT201559).
+
+### **Method 2: Restore photos from Recently Deleted folder on iPhone**
+
+You might have accidentally deleted the photos on iPhone. Check and recover the photos from the ‘Recently Deleted’ folder of your Photos app.
+
+**Steps to recover photos on iPhone from ‘Recently Deleted’:**
+
+- On your iPhone, click to follow **Photos > Albums.**
+- Scroll down to **Utilities** and click **Recently Deleted**.
+- Look for your missing photo, tap on it and choose **Recover**. If there are multiple photos, click on ‘Select’ followed by ‘Recover’.
+
+**Note:** Photos deleted on iPhone stay in your ‘Recently Deleted’ folder only for 30 days, after which they are permanently removed from the iOS device.
+
+### **Method 3: Unhide photos on iPhone**
+
+Photos disappeared from iPhone can be in the hidden folder in Photos app. Simply, check the Hidden folder on your device and unhide the required photos.
+
+- Open Photos app on iPhone.
+- Click on **Albums.**
+- Under **Utilities** click on **Hidden** folder. In case you don’t see the ‘Hidden’ folder, go to ‘Settings’ of your iPhone. Click on ‘Photos’ and toggle on ‘Hidden Album’.
+- If you see the disappeared photos, select and click on the ‘Share’ button (the arrow icon).
+- Next, tap **Unhide** to move the pictures to their original location on iPhone.
+
+### **Method 4: Enable iCloud Photos**
+
+iCloud Photos store images in iCloud and syncs them to your iPhone, iPad, iCloud.com, iPod touch, Mac, and Apple TV. This means that any changes done to pictures library on one device will show up on your other iOS devices as well. If the photos are disappearing from iPhone only, may be the iCloud Photo is not synced or turned on. So enable iCloud Photos to get back the disappeared pictures on iPhone.
+
+**Steps to enable iCloud Photos on iPhone:**
+
+- Turn on Wi-Fi of your iPhone.
+- On iPhone, navigate to **Settings.**
+- Click on your name and tap **iCloud > Photos.**
+- Toggle on **iCloud Photos.**
+
+Now check if the missing photos are showing up on iPhone or not.
+
+### **Method 5: Recover iPhone photos from iTunes backup**
+
+If you have created iTunes backup, restore the disappeared photos on iPhone from it. However, this will replace your existing iPhone data with iTunes backup data.
+
+**Steps to recover photos from iTunes:**
+
+- Connect your iPhone to computer.
+- Launch iTunes.
+- Select your iPhone under the device list and click on **Summary**.
+- Click **Restore Backup**.
+- In the **Restore from Backup** box, select the backup date that contains your photos.
+
+![Restore from Backup](https://www.stellarinfo.com/image/catalog/article/photo-recovery-7.jpg)
+
+- Click **Restore**. Wait until the process finishes and your iPhone restarts. All your disappeared photos will be recovered on iPhone.
+
+### **Method 6: Restore photos from iCloud Backup**
+
+You can restore the previous iCloud backup that has the missing photos. However, like iTunes, this method will also replace the current data on your iPhone.
+
+**Steps to recover disappeared photos from iCloud:**
+
+- On your iPhone, go to **Settings > General > Reset.**
+- Click on **Erase all Contents and Settings.** In the dialog box, choose **Erase Now.**
+- On the **Apps & Data** screen, click **Restore from iCloud Backup.** Enter your **Apple ID.** In case you have forgot your Apple ID, [click here](https://www.stellarinfo.com/blog/how-to-recover-forgotten-apple-id-password/) to know how to recover it.
+
+![Restore from iCloud Backup](https://www.stellarinfo.com/blog/wp-content/uploads/2021/11/iphone11-ios14-apps-data-restore-from-icloud-backup-Image-3.jpg)
+
+- Select the recent backup and click **Restore**. The lost photos should now appear on iPhone.
+
+### **Method 7: Recover lost photos with an iPhone data recovery software**
+
+The [advanced iPhone recovery software](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) — **Stellar Data Recovery for iPhone**, can restore photos lost, deleted, or missing due to any reason. Whether your photos disappeared from iPhone after update, due to low storage, or any other reason, the software can recover in all situations.
+
+The biggest advantage of using the software is that it doesn’t remove your existing iPhone data. Further, the software shows the preview of the recoverable photos. Hence, its easy to select and recover only the required disappeared pictures from Camera Roll, iCloud Photo Library, Gallery, or those shared on chat messages, etc. Stellar Data Recovery for iPhone is compatible with the latest iPhone 14/13/12/11, iPad, and iPod touch.  The software supports recovery from the latest iOS 16 and older versions.
+
+**Quick steps to recover disappeared photos from iPhone:**
+
+- Download Stellar Data Recovery for iPhone on PC or Mac.
+- Connect your iPhone to computer.
+- Launch the software and select **Recover from iPhone** option from the left panel.
+
+![Recover from iPhone](https://www.stellarinfo.com/screenshots/data-ios/win/1.png)
+
+- Select the Camera Roll or Photo Stream from where the photos have disappeared and click **Next** to the start the scanning process.
+- Now preview the recoverable photos, select them, and click **Save** to restore on iPhone or computer.
+
+![Click Save](https://www.stellarinfo.com/screenshots/data-ios/win/4.png)
+
+**Note:** You can also recover the lost photos from backup by choosing [Recover from iCloud backup](https://www.stellarinfo.com/support/kb/index.php/article/recover-deleted-lost-icloud-data) or [Recover from iTunes backup](https://www.stellarinfo.com/support/kb/index.php/article/recover-data-from-itunes-backup), options in the software.
+
+## **Conclusion**
+
+When you find suddenly photos disappearing from iPhone try any of the above 7 methods to get back the lost pictures. However, of all we recommend solutions Stellar Data Recovery for iPhone software is quick and easy to use. It is also of great help when you don’t want to recover from iCloud or iTunes backup that removes the existing data on iPhone.
+
+___
+
+
+
+## What to do if iPhone is not listed when I run the software?
+
+
+Your iPhone will only appear in the software if it is visible in iTunes on your computer. If your iOS device is not listed in the software, it means iTunes is not installed on your PC or Mac.
+
+Download the latest version of iTunes and then launch the Stellar Data Recovery for iPhone software.
+
+**To launch iTunes on your computer:**
+
+When iTunes is not installed on your computer, [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)  automatically generates the below message. It asks to download and install iTunes. You can click on _‘Click here’_ to download iTunes.
+
+If iTunes is already install on your computer and you don’t see your iPhone in the software, update your iTunes to the latest version.
+
+## How To Recover Whatsapp Chat History From iPhone
+
+**Summary:** Losing the WhatsApp chat history from iPhone can be annoying. It may contain important details, photos, videos, and audio recordings. This post brings easy and quick methods to recover lost or deleted WhatsApp chat on iPhone using Stellar Data Recovery for iPhone.
+
+ [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
+
+With social media engulfing our lives, it becomes all the more important to keep track of people close to us through various social media apps, not only personally but professionally as well.
+
+Messaging apps such as WhatsApp gives you total access to chat and share data with your family, friends, and even with your business or work colleagues 24\*7. Each day, billions of people all over the globe, chat and share videos, audio, photos, etc. over this one messaging app. Therefore, it contains information that is of great value.  
+But it is important to know that this app is not fail-safe. Sometimes due to some technical issues, WhatsApp chats and other valuable information gets erased from the phone and chances of recovery are slim. If you are an iPhone user, it is a common scenario that due to tech issues such as jail breaking or when you upgrade your iPhone, your data as well as your WhatsApp chats may get erased from the iPhone.
+
+Losing the chat history which also contains your priceless photos, videos, and audio can be quite frustrating! Hence, recovery becomes imperative! So in order to help you recover the data lost from your iPhone including your WhatsApp chats, we suggest the following steps that can help restore your chat history.
+
+## **Recover Deleted Messages from WhatsApp Chat iCloud Backup**
+
+![How To Recover Whatsapp Chat History From iPhone](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/Capture.jpg)
+
+![HOW TO RECOVER WHATSAPP CHAT HISTORY FROM IPHONE](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/4-2.jpg)
+
+1- First of all, make sure that you have created a backup of all your WhatsApp chats and data on iCloud. In order to check that, go to the WhatsApp settings and check it on the Chat Backup present in the Chats.  
+2- Next, uninstall the existing WhatsApp and then reinstall it again from the app store and log in with your number. When you log in, a dialogue box will appear asking you to backup the chats: click on the confirm button to proceed.
+
+## **Recover Deleted WhatsApp Messages Without Backup**
+
+1- Download and install [iPhone Data Recovery Software](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) by Stellar on your computer and then register the product using the product key.
+
+![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/1-Mui.png)
+
+2- Now after connecting the iPhone, click on Recover from iPhone option. Select the file type you want to recover and click “Next”. The scan will initiate thereafter.
+
+3- Select Only Show Deleted option on the top to focus only on the deleted data. Then select the conversations you want to save. Then click Save.
+
+4- Choose the desired location on your computer where you want to save the files or you can save it directly to your iPhone. Then click OK.
+
+![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/5recover-file6.png)
+
+![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/9.jpg)
+
+After a wait of 5-10 minutes, the lost data will be saved within form of a HTML page which can be opened using any browser.  
+
+## **Restore Deleted WhatsApp Messages from iTunes Backup**
+
+![HOW TO RECOVER WHATSAPP CHAT HISTORY FROM IPHONE](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/10.jpg)
+
+If you have backed up your WhatsApp chats and files in the iTunes app of the iPhone, then you can easily get back all your chats and files easily from it by following the below steps—  
+
+1- Open the iTunes app on your computer and then connect your iPhone into it. Next, click on the iPhone icon and then select restore backup. Then select the backup file that contains the WhatsApp messages and then select the recover option.
+
+If you face any difficulty to [recover your data from iTunes backup](https://www.stellarinfo.com/support/kb/index.php/article/recover-data-from-itunes-backup) then use **Stellar Data Recovery** for iPhone to recover lost or deleted Contacts, Call history, Voice Memo, Messages, Notes, Reminders, Calendar, Safari Bookmarks from iOS device iTunes backup file.
+
+![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/iTunes-backup-2.png)
+
+## **Restore Deleted WhatsApp Messages from iCloud Backup**
+
+Just like iTunes, you can even back up your files and WhatsApp chats on iCloud present in your iPhone. However, before getting started, make sure that the data and chats are securely backed up in the app from which you have to recover.  
+1- The first step contains erasing of all the content and settings present in the iPhone. This can be done by going to the general setting present in the iPhone.  
+2- A setup screen will be displayed. Follow the steps to get to the apps and data, then select on restore from iCloud backup from it.  
+3- Select the files and data that you wish to backup and then click on the restore button and let the system restore all the backed up data into your phone.
+
+![HOW TO RECOVER WHATSAPP CHAT HISTORY FROM IPHONE](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/11.jpg)
+
+If you face any difficulty to [recover your data from iCloud](https://www.stellarinfo.com/support/kb/index.php/article/recover-deleted-lost-icloud-data) backup then use **Stellar Data Recovery** for iPhone to recover lost or deleted Contacts, Call history, Voice Memo, Messages, Notes, Reminders, Calendar, Safari Bookmarks from iOS device iCloud backup file.
+
+![Stellar Data Recovery for iPhone- Recover WhatsApp Chat from iCloud](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/iCloud-2.png)
+
+## **C**onclusion
+
+Losing chats and other data from WhatsApp may lead to a situation of despair. Therefore, to ease you off your worries, the above simple steps will help restore all your chats as well as your lost photos, audio, and videos from your iPhone.
+
+## What should I do if I don’t find the deleted iPhone files after scanning?
+
+Stellar Data Recovery for iPhone is an efficient software to recover all kinds of lost data from iPhone, iTunes, and iCloud.
+
+In case you are unable to find the lost data after quick scan through [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/?utm_source=KB&utm_medium=find_deleted_file&utm_campaign=iPhoneDataRecovery), choose to perform Deep Scan.
+
+Deep scan is a next level of aggressive scanning. It involves thorough scan of the device and the backups (iTunes and iCloud) using advanced algorithms. Deep Scan recovers as much data as possible from the selected device or backup. It searches for lost files on the basis of file signature. This recovery option recovers everything that is found in the selected source. This option is especially helpful in case of severely deleted and corrupted iPhone data.
+
+**How to perform Deep Scan?**
+
+Once quick scan is completed, in the preview window choose **Click Here** option at the bottom left of the window to start Deep Scan.
+
+![Stellar Data Recovery for iPhone - Click Deep Scan](https://www.stellarinfo.com/images/kb/Deep-scan1.png)
+
+When the scanning process is completed, a dialog box displaying the message ‘Deep Scan completed’ is displayed.
+
+![Stellar Data Recovery for iPhone - Deep Scan process](https://www.stellarinfo.com/images/kb/Deep-scan2.png)
+
+In case the additional data is not recovered through Deep Scan, the dialog box displays the message ‘Deep Scan completed. No additional data found.’
+
+![Stellar Data Recovery for iPhone - Deep Scan Completed](https://www.stellarinfo.com/images/kb/Deep-scan3.png)
+
+Files found during Deep Scan can be viewed in the preview window and saved at any desired location.
+
+Stellar Data Recovery for iPhone® Stellar Data Recovery for iPhone® is the best DIY software to recover missing or accidentally deleted Contacts, Messages, Calendar, Photos, Videos, Call History etc directly from iPhone or iPad.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/tecno-spark-20-proplus-video-recovery-recover-deleted-videos-from-tecno-spark-20-proplus-by-fonelab-android-recover-video/"><u>Tecno Spark 20 Pro+ Video Recovery - Recover Deleted Videos from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-8-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 8 System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor X50</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-itel-a70-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Itel A70.</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2019-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2019 Read Only Documents | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2022-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2022) System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-11-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 11 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-neo-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT Neo 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Oppo Find X7</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-itel-a70-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel A70 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password90-lite-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(90 Lite)</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-honor-x50-gt-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Honor X50 GT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-k70-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi K70 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 4G Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y55s 5G (2023) to Outlook | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-adding-audio-in-wondershare-filmora-for-2024/"><u>Guide Adding Audio in Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+</ul></div>
+
+

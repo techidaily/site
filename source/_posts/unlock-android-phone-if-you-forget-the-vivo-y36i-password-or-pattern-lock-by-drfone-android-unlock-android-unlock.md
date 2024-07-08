@@ -1,0 +1,213 @@
+---
+title: Unlock android phone if you forget the Vivo Y36i password or pattern lock
+date: 2024-06-11T09:00:58.777Z
+updated: 2024-06-12T09:00:58.777Z
+tags: 
+  - android unlock
+  - android devices unlock
+categories: 
+  - unlock
+  - wondershare
+  - dr.fone
+  - android
+description: This guide and software available for downloading from this page are to help you how to unlock android phone. Here We will present you unlock Vivo Y36i software that works on any cell phone that use android programing services . All android mobile phones use similar android software and each of them can be unlocked thanks to our unlocking software.
+excerpt: This guide and software available for downloading from this page are to help you how to unlock android phone. Here We will present you unlock Vivo Y36i software that works on any cell phone that use android programing services . All android mobile phones use similar android software and each of them can be unlocked thanks to our unlocking software.
+keywords: remove password,turn off fingerprint,Vivo Y36i unlock,remove Y36i pattern,remove Y36i fingerprint,forgotten screen lock,remove android lock screen,forgotten my android phone's lock,remove android phone password,remove android phone pattern,remove android phone PIN,how to unlock android phone if i forget the password
+thumbnail: https://img0mobiles.techidaily.com/images/best-assets/devices/vivo/vivo-y36i/3.jpg
+---
+
+<img src="https://img0mobiles.techidaily.com/images/best-assets/devices/vivo/vivo-y36i/3.jpg" class="atpl-imgstyle"  />
+
+<div class="atpl-content atpl-for-drfone-android-unlock android-unlock">
+
+<div class="atpl-post-description-part-1">
+This guide and software available for downloading from this page are to help you how to unlock android phone. Here We will present you unlock Vivo Y36i software that works on any cell phone that use android programing services . All android mobile phones use similar android software and each of them can be unlocked thanks to our unlocking software.
+</div>
+
+<div class="atpl-post-description-part-2">
+<div class="tpl-content-sub-paragraph-question">
+    "I've forgotten my Android phone's lock. Is there a way to remove the lock and don't lose my data? "
+</div>
+<div class="tpl-content-sub-paragraph-content">
+  <p>
+    Have you encountered the same situation? Don't worry. You can try our software to unlock the screen lock without losing your data on Vivo Y36i. It supports to remove Android phone password, PIN, pattern and fingerprint.
+  </p>
+  <p>
+    Let’s see how it works.
+  </p>
+</div>
+</div>
+
+<ul>
+  <li>Part 1: <strong><a href="#p1"> Remove Screen Lock Without Losing Data for Part Vivo Devices</a></strong></li>
+  <li>Part 2: <strong><a href="#p2"> Screen Lock Removal For Most Android Device Brands</a></strong></li>
+</ul>
+
+
+
+<!-- Part 1 -->
+<a id="p1" name="p1" ></a><hr>
+
+<div>
+  <span class="atpl-step-part-style">Part 1. Remove Screen Lock Without Losing Data for Part Vivo Devices</span>
+</div>  
+
+The first method involves removing the screen lock of the Android device without putting the data at risk. The platform does not perform in-depth operations for this particular mechanism, which is why the data is protected in this case. To know how this is achieved, follow the guidelines provided next:
+
+> This tool can remove the Android lock screen without losing data only for part of the Vivo devices in this list. For other devices, you can direct to Part 2, which can remove the lock screen by erasing data.
+
+<!-- Step1 -->
+<span class="atpl-stepstyle-a"><span>Step 1: </span></span> Open Screen Unlock Tool
+
+
+Install the latest version of [Wondershare Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) on your computer and connect your Android device with a USB cable. Once it connects, navigate under the **Toolbox > Screen Unlock** to open the unlock screen tool.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/open-screen-unlock-tool.png" class="atpl-imgstyle"  />
+
+>Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible.
+
+<iframe width="930" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" title="How To Unlock Android Lock Screen?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!-- Step2 -->
+<span class="atpl-stepstyle-a"><span>Step 2: </span></span> Proceed to Select Android Screen Unlocking
+
+As you are directed to a new screen, select the Android option to continue unlocking your Android screen lock.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/proceed-to-select-android-screen-unlocking.png" class="atpl-imgstyle"  />
+
+<!-- Step3 -->
+<span class="atpl-stepstyle-a"><span>Step 3: </span></span> Continue With Appropriate Operation
+
+Proceed to select **Unlock Android Screen** out of the two options on the next screen.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/continue-with-appropriate-operation.png" class="atpl-imgstyle"  />
+
+<!-- Step4 -->
+<span class="atpl-stepstyle-a"><span>Step 4: </span></span> Select to Remove Screen Lock Without Data Loss
+
+Following this, you will be directed to another screen where you have to select the device brand, Samsung. And choose **Remove without Data Loss**.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/select-your-device-brand-to-remove-the-lock.png" class="atpl-imgstyle"  />
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/unlock-promt.png" class="atpl-imgstyle"  />
+
+<!-- Step5 -->
+<span class="atpl-stepstyle-a"><span>Step 5: </span></span> Define Device Details
+
+Next, you will have to select the **Brand, Device Name, and Device Model** to unlock the Android screen. Turn on the checkmark showing the option of I agree with the warning, and I am ready to proceed. Continue by clicking Next to unlock the screen.
+
+eg. your device is Samsung Galaxy Note 4 Edge, you can select the brand as Samsung, the device name as Galaxy Note 4 Edge, and the device model as SM-N915F.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/define-device-details.png" class="atpl-imgstyle"  />
+
+<!-- Step6 -->
+<span class="atpl-stepstyle-a"><span>Step 6: </span></span> Confirm to Unlock Screen
+
+You will be prompted to confirm the process by typing "000000". On writing the code, click **Confirm** to execute the required operation.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/confirm-to-unlock-screen.png" class="atpl-imgstyle"  />
+
+<!-- Step7 -->
+<span class="atpl-stepstyle-a"><span>Step 7: </span></span> Put Android in Download Mode
+
+[Wondershare Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) will guide you to put your Android device into Download Mode according to the model you have identified. Once you have followed the instructions, the platform automatically leads to the next screen to execute the process.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/put-android-in-download-mode.png" class="atpl-imgstyle"  />
+
+<!-- Step8 -->
+<span class="atpl-stepstyle-a"><span>Step 8: </span></span> Observe the Unlock Process
+
+The following screen shows the progress of the screen unlocking process, where the required drivers and the configuration file are downloaded on the platform.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/observe-the-unlock-process.png" class="atpl-imgstyle"  />
+
+
+<!-- Step9 -->
+<span class="atpl-stepstyle-a"><span>Step 9: </span></span> Remove Screen Lock Successfully
+
+You will be prompted with a new screen showing the completion of the process.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/remove-screen-lock-successfully.png" class="atpl-imgstyle"  />
+
+
+<!-- Part 2 -->
+<a id="p2" name="p2" ></a><hr>
+
+<div>
+  <span class="atpl-step-part-style">Part 2. Screen Lock Removal For Most Android Device Brands</span>
+</div>  
+
+Unlock Android screen without data loss is restricted to specific Vivo devices. If you don't find your device in the supported device list and feel a problem unlocking the device screen, you can try removing the lock screen in another way [Wondershare Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) provided. The guidelines are as below: 
+
+
+<!-- Step1 -->
+<span class="atpl-stepstyle-a"><span>Step 1: </span></span> Look for the Method to Remove Locks of Most Android Devices
+
+After you have accessed **Screen Unlock > Android**, continue to select the **Unlock Android Screen** option.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/android-screen-unlock-3.png" class="atpl-imgstyle"  />
+
+
+<!-- Step2 -->
+<span class="atpl-stepstyle-a"><span>Step 2: </span></span> Select Device Brand and Put Device into Specific Mode to Wipe All data.
+
+Select the device brand that you want to unlock the screen. 
+
+> For other Vivo devices that are not supported to unlock without losing data, choose **"100% Remove Screen lock"** after taping Vivo icon.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/screen-unlock-any-android-device-2.png" class="atpl-imgstyle"  />
+
+Choosing the Vivo brand will automatically lead you to enter the specific mode. Dr.Fone will start to unlock Android screen after getting into the specific mode. Note that the processes to enter specific modes vary according to different device brands. Here taking Google phones as an example:
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/unlock-android-screen-google.png" class="atpl-imgstyle"  />
+
+
+<!-- Step3 -->
+<span class="atpl-stepstyle-a"><span>Step 3: </span></span> Screen Unlocked Successfully
+
+Wait for the unlock process to complete. If it has failed, click **Try Again** to make another effort. If you have successfully unlocked the screen of your Android device, tap **Done**.
+
+<img src="https://tools.techidaily.com/images/apps/wondershare/dr.fone-android-unlock/screen-unlock-any-android-device.png" class="atpl-imgstyle"  />
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+
+</div>
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-x6-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find X6 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-y78plus-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Y78+</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo Y78t on Windows</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-s17-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo S17 Pro on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi 12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic5-ultimate-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic5 Ultimate Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-90-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor 90 Pro.</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-a79-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo A79 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/beginning-your-instagram-live-journey-for-2024/"><u>Beginning Your Instagram Live Journey for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/influencing-factors-for-popular-youtube-videos/"><u>Influencing Factors for Popular YouTube Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/win-and-apple-users-favorites-top-picks-for-audio-recording-technology-mp3-for-2024/"><u>Win & Apple Users Favorites Top Picks for Audio Recording Technology (MP3) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-online-influence-for-earnings-through-brand-collaborations-on-youtube/"><u>2024 Approved  Maximizing Your Online Influence for Earnings Through Brand Collaborations on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cutthroat-countdown-best-zombies-in-gaming-unveiled/"><u>In 2024, Cutthroat Countdown  Best Zombies In Gaming Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-edge-reached-for-subscribers-above-500/"><u>[Updated] In 2024, Earning Edge Reached for Subscribers Above 500</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-tools-for-free-web-conferencing-a-comprehensible-guide/"><u>[Updated] Essential Tools for FREE Web Conferencing  A Comprehensible Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Reno 8T | Dr.fone</u></a></li>
+</ul></div>

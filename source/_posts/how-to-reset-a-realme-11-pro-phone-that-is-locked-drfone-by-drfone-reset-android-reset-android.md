@@ -1,0 +1,404 @@
+---
+title: How to Reset a Realme 11 Pro Phone That Is Locked | Dr.fone
+date: 2024-05-20T10:20:20.178Z
+updated: 2024-05-21T10:20:20.178Z
+tags: 
+  - reset
+categories:
+  - android
+description: This article describes How to Reset a Realme 11 Pro Phone That Is Locked
+excerpt: This article describes How to Reset a Realme 11 Pro Phone That Is Locked
+keywords: soft reset,Realme 11 Pro soft reset,Realme 11 Pro hard reset,hard reset,Realme 11 Pro factory reset,factory reset
+thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+---
+
+## How to Reset a Realme 11 Pro Phone That Is Locked
+
+_“Looking for the best solutions on how to factory reset Realme 11 Pro phone when locked?”_
+
+The need to reset a Realme 11 Pro phone arises in several situations like forgetting the password, PIN, or pattern, purchasing a second-hand device that is locked, accidentally changing the password or setting a wrong one, and others. In all these and other similar situations, you would need to reset your Realme 11 Pro phone and this can be done using different methods and tools.
+
+In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
+
+## Part 1: Things You Should Be Aware of Before Resetting Realme 11 Pro Phones
+
+Before you start resetting your Realme 11 Pro device through any of the methods, there are certain important things that should be considered and taken care of. Check them out as below.
+
+- First of all, ensure that your Realme 11 Pro phone is charged so that the battery does not go off in between and stop the ongoing process.
+- Ensure to clear the cache on your Realme 11 Pro phone.
+- If your Realme 11 Pro phone is not locked, make sure to take the backup of the Realme 11 Pro device to prevent accidental loss of data. If the Realme 11 Pro device is locked, ensure that from next time you keep taking the backup on regular basis.
+
+## Part 2: How to Reset Realme 11 Pro Phone When Locked?
+
+Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Realme 11 Pro phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
+
+### Method 1: Reset Realme 11 Pro using Google's Android Device Manager
+
+The Android Device Manager which is also known as Find My Phone is an excellent feature that is majorly used for locating the lost or the stolen phone. This feature also allows the users to unlock and reset their devices. The Android Device Manager can only function if you know the Google ID and password that was used for device initialization. The feature can be used to erase the Realme 11 Pro device data and reset it.
+
+#### Steps to reset Realme 11 Pro phone using Google Android Device Manager
+
+![android device manager](https://images.wondershare.com/drfone/article/2022/06/android-device-manager.jpg)
+
+- **Step 1.** On your PC browser, using your Google account, sign in to the Google Find My Device.
+- **Step 2.** The list of devices will appear on the screen, from which you need to choose the Realme 11 Pro phone that you want to unlock and reset.
+- **Step 3.** Now, from the available options, click on **ERASE DEVICE**.
+- **Step 4.** Again, tap on **ERASE DEVICE**, and to continue you need to log in to your Google account.
+
+With the completion of the above steps, your Realme 11 Pro phone will reset.
+
+### Method 2: Perform a Hard Reset on Realme 11 Pro with Hardware Keys
+
+Hard reset which is also termed factory reset is a feature that will reset all the Realme 11 Pro device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
+
+#### Steps to hard reset Realme 11 Pro Phone
+
+- **Step 1.** Using the **Power button**, turn off your Realme 11 Pro phone.
+- **Step 2.** Press and hold the **Volume Up** and **Power** button together for a few seconds.
+- **Step 3.** In some time, the Recovery mode will load on the screen. From the menu, choose to Wipe data/factory reset using the Volume Up/Down buttons and the selected option can be confirmed using the Power button.
+- **Step 4.** At the space provided, enter the word Yes and then click on the Wipe data/factory reset button.
+- **Step 5.** Again, to confirm the hard reset, click on the **Wipe data/factory reset** button.
+- **Step 6.** The process of hard resetting will start and when completed, click on **Reboot system now** for restarting the unlocked phone.
+
+![hard reset with hardware keys](https://images.wondershare.com/drfone/article/2022/06/hard-reset.jpg)
+
+_**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Realme 11 Pro device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Realme 11 Pro FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Realme 11 Pro codes that can be used to bypass the FRP lock._
+
+### Method 3: An Efficient Alternative to Reset Locked Realme 11 Pro Phone
+
+If the above-listed methods do not work for any reason, we recommend using [Dr.Fone-Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) as the best alternative. This is a Windows and Mac-based tool that can help bypass and remove all types of screen locks including PIN, passcode, pattern, Face ID as well as a fingerprint. The software not only works with Realme 11 Pro but all other popular Android devices including Realme 11 Pro, LG, Oppo, and more.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/yjlTG2d0gSY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+The screen locks can be removed without rooting, and the software is completely safe to use.
+
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+The Best Tool for factory reset Realme 11 Pro Phone When Locked
+
+- Work perfectly to reset your Realme 11 Pro without a password.
+- It’s the only solution available that works with both Windows and Mac to help you regain access to your device easily.
+- Everybody can handle it without any technical background.
+- Except for resetting, it also unlocks the locked Realme 11 Pro if you are using a PIN, fingerprint, or other screen locks.
+
+**4,464,992** people have downloaded it
+
+#### Steps on how to factory reset Realme 11 Pro phone without password using Dr. Fone - Screen Unlock
+
+- **Step 1.** Download, install and launch the [Dr.Fone](https://download.wondershare.com/drfone_unlock_full3372.exe) software on your PC and from the main menu choose the **Screen Unlock** feature.
+- **Step 2.** Next, your Realme 11 Pro phone needs to be connected to the system using a USB cable, and then from the interface select **Unlock Android Screen** option.
+
+![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+- **Step 3.** In the next step, select your Realme 11 Pro phone's brand from the supported list in Dr.Fone to ensure it enters the correct specific mode.
+
+![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+- **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
+
+![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+## Part 3. How to Reset Realme 11 Pro Phone at Normal Cases?
+
+In normal situations, the Realme 11 Pro phones can be reset using the settings menu or the Android Factory Reset code. Both these methods and their guide to getting the process done are listed below.
+
+### Method 1: Reset Realme 11 Pro phones through the Phone Settings menu
+
+To unlock the screen and reset your Realme 11 Pro phone, the settings menu of the Realme 11 Pro device can be used. For this method, you do not need to make your device enter the recovery mode. The steps for the process are as follows.
+
+- **Step 1.** On your Realme 11 Pro phone, open the Settings app and look for the **Backup and Reset** option from the **Personalization** section.
+- **Step 2.** Next, select **Factory Data Reset** Option.
+- **Step 3.** Go through the on-screen details and then click on the **Reset device** button.
+
+The steps above will reset your phone to the default factory settings.
+
+### Method 2: Reset Realme 11 Pro phones with factory reset code
+
+There are Android Reset Codes for different brands of phones that can be used for resetting the Realme 11 Pro device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Realme 11 Pro phones is **\*#\*#2846579#\*#\***.
+
+Steps to reset Realme 11 Pro phone using secret reset code
+
+- **Step 1.** On your Realme 11 Pro phone, go to the dialer and type the code- **\*#\*#2846579#\*#\***.
+- **Step 2.** From the menu, click on the **Restore Factory** option.
+- **Step 3.** Finally, to confirm the resetting of the Realme 11 Pro device, click on the **OK** button.
+
+The above methods can also be tried if you get stuck in a situation on how to factory reset Realme 11 Pro tablets without password. Also, we recently covered a method of how to bypass the Google account on Realme 11 Pro after a factory reset, we have now had the opportunity to test this with many people with different models of Android and have found mixed results.
+
+## Conclusion
+
+The above given are multiple options that can be used for resetting your Realme 11 Pro phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Realme 11 Pro device as it supports removing all types of screen locks in a hassle-free manner.
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+## Hard Resetting an Realme 11 Pro Device Made Easy
+
+If you have owned any Realme 11 Pro smartphone, you should know about the UI features these handsets offer. The new age of Color OS has been giving the best client experience. Moreover, it is easier to hard reset your Realme 11 Pro phone if you need to sell a phone. This article will guide you on **resetting Realme 11 Pro phone** with simple steps.
+
+We have shared a step-by-step manual on how you can perform **Realme 11 Pro hard reset**. Several methods are mentioned in this article, and all of them are tested. Resetting any Realme 11 Pro phone is not a hard task. You should know about the right steps. However, we suggest you use Dr.Fone - Data Eraser for better results and more commands. It is hassle-free software and lets you selectively delete the desired data from your phone.
+
+## Part 1: Some Common Causes of Realme 11 Pro Hard Reset
+
+There are many occasions when a person may want to hard reset their Realme 11 Pro phone. Some of these are:
+
+- If your Realme 11 Pro runs too slowly, you may need to reset it to clear some space.
+- When you lose your password or pattern, you will need to reset your device hard to remove the screen lock.
+- You can repair a frozen or stuck screen using a hard reset.
+- If your phone is constantly crashing, and you want to make your experience smoother, a hard reset may help.
+- Lastly, you need to remove everything from your phone when you are looking to sell your phone. In such cases, a hard reset will do your work quickly.
+
+## Part 2: 2 simple ways to hard reset your Realme 11 Pro
+
+### 1\. Hard Reset from Settings
+
+- **Step 1.** Go to the Settings application on your Realme 11 Pro phone and open System Settings.
+
+![system settings](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-1.jpg)
+
+- **Step 2.** Go to the “Backup and Reset” menu and click the “Reset Phone” option.
+- **Step 3.** The phone will show numerous choices to reset. It includes resetting network settings, system settings only, contacts, call logs, messages, etc. Moreover, there will be the “Erase All Data” option too.
+- **Step 4.** To **hard reset Realme 11 Pro**, pick the Erase All Data option to reset your device and bring it to factory settings.
+
+![erase all data](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-2.jpg)
+
+### 2\. From Recovery Mode (By Hardware Keys)
+
+Hard resetting Realme 11 Pro smartphones is also simple, assuming you know the right steps. The following are the steps to get to the recovery mode on Realme 11 Pro smartphones and do an **Oppo hard rese**t. This method is quite helpful when you don't remember your phone's screen lock.
+
+- **Step 1:** Make sure to power off your Realme 11 Pro smartphone to get started. Press and hold the power key on your Realme 11 Pro phone for about 10 seconds.
+- **Step 2:** Simultaneously, press and hold the power and Volume down keys until the Realme 11 Pro logo springs up on the screen. This will bring the Recovery mode screen.
+- **Step 3:** Select your preferred language using the Volume and Power buttons, and then tap on “Wipe Data”.
+
+![wipe data](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-3.jpg)
+
+- **Step 4:** You will be approached to enter the confirmation code (screen lock PIN).
+- **Step 5:** Complete step 4 and afterward select the Format data choice.
+- **Step 6:** Select OK to finish the hard reset strategy on your Oppo device.
+
+## Part 3: Best Tools to Make your Realme 11 Pro Hard Reset Easier
+
+To make your **Oppo hard reset** experience easier, you need to look for an expert service. We would suggest you use Wondershare Dr.Fone. Dr.Fone is an all-in-one professional software for screen unlock, data erasure, data recovery, system repair, and more. In case of a hard reset, if you have forgotten the screen lock, you can use their Screen Unlock feature. Interestingly, their Data Erasure software provides the full command to its users. You can use it to delete the desired files or fully reset your phone. Overall, it is a safe tool with an almost 100% access rate. It works with almost 99% of the Android phones available in the market and has great customer support service. Therefore, download it right away and make your hard reset experience smoother.
+
+### Steps to Use [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+- **Step 1:** After launching Dr.Fone, please use a USB cable to connect your Realme 11 Pro phone. And tap the “Screen Unlock” option.
+- **Step 2:** Please select the left part with 3 phones, “Unlock Android Screen” to proceed.
+
+![without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+- **Step 3:** To unlock Realme 11 Pro phone, the left “100% Remove Screen Lock” is the only feasible way. In this interface, we include most android brands. And as Realme 11 Pro user, it’s also in the list we offered.
+
+![select phone model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+- **Step 4:** Recovery mode is the key step for the whole process. Here is a simple guide to help you hard reset your Realme 11 Pro device.
+
+![unlock oppo ](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+- Congrats! You’re able to access your Realme 11 Pro phone without hassle and it’s already hard reset!
+
+![unlock finisded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+### Steps to Use [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
+
+- **Step 1:** Open Dr.Fone's program and select the “Data Eraser” tool.
+- **Step 2:** Connect your Realme 11 Pro phone to the PC through a USB connector.
+- **Step 3:** Click on the “Erase All Data” button to begin. Ensure you have backed up your important files before you continue.
+
+![start erase](https://images.wondershare.com/drfone/guide/android-erase-02.png)
+
+- **Step 4:** Then type in “000000” to affirm your action. Then Dr.Fone will begin deleting all data on your phone.
+
+![type the code](https://images.wondershare.com/drfone/guide/android-erase-03.png)
+
+- **Step 5:** Tap on Factory Data Reset or Erase All Data on the phone. This will assist you with totally cleaning up the settings on the phone.
+
+![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
+
+- Presently, your Android phone has been wiped, and it can be used as a new one.
+
+![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+## Conclusion
+
+Resetting an Realme 11 Pro phone can be tricky sometimes; therefore, it should be finished with the right tools and strategies. Above, we have listed multiple ways to **hard reset Realme 11 Pro**. You need to pick the best strategy according to your situation. However, for an easy, solid, protected, and speedy technique, we recommend [Dr.Fone by Wondershare](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It provides multiple tools in a single program and has a higher success ratio compared to the other methods. So install it right away for a speedy hard reset of your Realme 11 Pro device.
+
+## You Might Also Like
+
+## How to Reset a Realme 11 Pro Phone That Is Locked
+
+_“Looking for the best solutions on how to factory reset Realme 11 Pro phone when locked?”_
+
+The need to reset a Realme 11 Pro phone arises in several situations like forgetting the password, PIN, or pattern, purchasing a second-hand device that is locked, accidentally changing the password or setting a wrong one, and others. In all these and other similar situations, you would need to reset your Realme 11 Pro phone and this can be done using different methods and tools.
+
+In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
+
+## Part 1: Things You Should Be Aware of Before Resetting Realme 11 Pro Phones
+
+Before you start resetting your Realme 11 Pro device through any of the methods, there are certain important things that should be considered and taken care of. Check them out as below.
+
+- First of all, ensure that your Realme 11 Pro phone is charged so that the battery does not go off in between and stop the ongoing process.
+- Ensure to clear the cache on your Realme 11 Pro phone.
+- If your Realme 11 Pro phone is not locked, make sure to take the backup of the Realme 11 Pro device to prevent accidental loss of data. If the Realme 11 Pro device is locked, ensure that from next time you keep taking the backup on regular basis.
+
+## Part 2: How to Reset Realme 11 Pro Phone When Locked?
+
+Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Realme 11 Pro phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
+
+### Method 1: Reset Realme 11 Pro using Google's Android Device Manager
+
+The Android Device Manager which is also known as Find My Phone is an excellent feature that is majorly used for locating the lost or the stolen phone. This feature also allows the users to unlock and reset their devices. The Android Device Manager can only function if you know the Google ID and password that was used for device initialization. The feature can be used to erase the Realme 11 Pro device data and reset it.
+
+#### Steps to reset Realme 11 Pro phone using Google Android Device Manager
+
+![android device manager](https://images.wondershare.com/drfone/article/2022/06/android-device-manager.jpg)
+
+- **Step 1.** On your PC browser, using your Google account, sign in to the Google Find My Device.
+- **Step 2.** The list of devices will appear on the screen, from which you need to choose the Realme 11 Pro phone that you want to unlock and reset.
+- **Step 3.** Now, from the available options, click on **ERASE DEVICE**.
+- **Step 4.** Again, tap on **ERASE DEVICE**, and to continue you need to log in to your Google account.
+
+With the completion of the above steps, your Realme 11 Pro phone will reset.
+
+### Method 2: Perform a Hard Reset on Realme 11 Pro with Hardware Keys
+
+Hard reset which is also termed factory reset is a feature that will reset all the Realme 11 Pro device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
+
+#### Steps to hard reset Realme 11 Pro Phone
+
+- **Step 1.** Using the **Power button**, turn off your Realme 11 Pro phone.
+- **Step 2.** Press and hold the **Volume Up** and **Power** button together for a few seconds.
+- **Step 3.** In some time, the Recovery mode will load on the screen. From the menu, choose to Wipe data/factory reset using the Volume Up/Down buttons and the selected option can be confirmed using the Power button.
+- **Step 4.** At the space provided, enter the word Yes and then click on the Wipe data/factory reset button.
+- **Step 5.** Again, to confirm the hard reset, click on the **Wipe data/factory reset** button.
+- **Step 6.** The process of hard resetting will start and when completed, click on **Reboot system now** for restarting the unlocked phone.
+
+![hard reset with hardware keys](https://images.wondershare.com/drfone/article/2022/06/hard-reset.jpg)
+
+_**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Realme 11 Pro device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Realme 11 Pro FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Realme 11 Pro codes that can be used to bypass the FRP lock._
+
+### Method 3: An Efficient Alternative to Reset Locked Realme 11 Pro Phone
+
+If the above-listed methods do not work for any reason, we recommend using [Dr.Fone-Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) as the best alternative. This is a Windows and Mac-based tool that can help bypass and remove all types of screen locks including PIN, passcode, pattern, Face ID as well as a fingerprint. The software not only works with Realme 11 Pro but all other popular Android devices including Realme 11 Pro, LG, Oppo, and more.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/yjlTG2d0gSY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+The screen locks can be removed without rooting, and the software is completely safe to use.
+
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+The Best Tool for factory reset Realme 11 Pro Phone When Locked
+
+- Work perfectly to reset your Realme 11 Pro without a password.
+- It’s the only solution available that works with both Windows and Mac to help you regain access to your device easily.
+- Everybody can handle it without any technical background.
+- Except for resetting, it also unlocks the locked Realme 11 Pro if you are using a PIN, fingerprint, or other screen locks.
+
+**4,464,992** people have downloaded it
+
+#### Steps on how to factory reset Realme 11 Pro phone without password using Dr. Fone - Screen Unlock
+
+- **Step 1.** Download, install and launch the [Dr.Fone](https://download.wondershare.com/drfone_unlock_full3372.exe) software on your PC and from the main menu choose the **Screen Unlock** feature.
+- **Step 2.** Next, your Realme 11 Pro phone needs to be connected to the system using a USB cable, and then from the interface select **Unlock Android Screen** option.
+
+![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+- **Step 3.** In the next step, select your Realme 11 Pro phone's brand from the supported list in Dr.Fone to ensure it enters the correct specific mode.
+
+![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+- **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
+
+![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+## Part 3. How to Reset Realme 11 Pro Phone at Normal Cases?
+
+In normal situations, the Realme 11 Pro phones can be reset using the settings menu or the Android Factory Reset code. Both these methods and their guide to getting the process done are listed below.
+
+### Method 1: Reset Realme 11 Pro phones through the Phone Settings menu
+
+To unlock the screen and reset your Realme 11 Pro phone, the settings menu of the Realme 11 Pro device can be used. For this method, you do not need to make your device enter the recovery mode. The steps for the process are as follows.
+
+- **Step 1.** On your Realme 11 Pro phone, open the Settings app and look for the **Backup and Reset** option from the **Personalization** section.
+- **Step 2.** Next, select **Factory Data Reset** Option.
+- **Step 3.** Go through the on-screen details and then click on the **Reset device** button.
+
+The steps above will reset your phone to the default factory settings.
+
+### Method 2: Reset Realme 11 Pro phones with factory reset code
+
+There are Android Reset Codes for different brands of phones that can be used for resetting the Realme 11 Pro device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Realme 11 Pro phones is **\*#\*#2846579#\*#\***.
+
+Steps to reset Realme 11 Pro phone using secret reset code
+
+- **Step 1.** On your Realme 11 Pro phone, go to the dialer and type the code- **\*#\*#2846579#\*#\***.
+- **Step 2.** From the menu, click on the **Restore Factory** option.
+- **Step 3.** Finally, to confirm the resetting of the Realme 11 Pro device, click on the **OK** button.
+
+The above methods can also be tried if you get stuck in a situation on how to factory reset Realme 11 Pro tablets without password. Also, we recently covered a method of how to bypass the Google account on Realme 11 Pro after a factory reset, we have now had the opportunity to test this with many people with different models of Android and have found mixed results.
+
+## Conclusion
+
+The above given are multiple options that can be used for resetting your Realme 11 Pro phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Realme 11 Pro device as it supports removing all types of screen locks in a hassle-free manner.
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y78t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78t without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Open Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-poco-f5-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco F5 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-play-7t-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor Play 7T</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>The way to get back lost music from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-camon-20-premier-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Camon 20 Premier 5G</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-infinix-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-google-pixel-7a-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Google Pixel 7a Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-c67-4g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from C67 4G</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-honor-x50-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor X50</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Note 30i</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-f5-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco F5 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-c67-4g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme C67 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-p55-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel P55</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-a78-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo A78 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-the-art-of-comics-learn-how-to-do-funny-cartoon-drawings/"><u>New 2024 Approved The Art of Comics - Learn How to Do Funny Cartoon Drawings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-12-sim-lock-by-drfone-ios/"><u>How to Remove iPhone 12 SIM Lock?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping-for-2024/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/detailed-tutorial-to-resize-your-video-in-vlc-for-2024/"><u>Detailed Tutorial to Resize Your Video in VLC for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-videopad-video-editor-review-pros-cons-and-alternatives/"><u>In 2024, Videopad Video Editor Review Pros, Cons, and Alternatives</u></a></li>
+</ul></div>
+
+
