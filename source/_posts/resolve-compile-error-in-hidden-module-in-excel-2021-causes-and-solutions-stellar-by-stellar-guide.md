@@ -1,7 +1,7 @@
 ---
 title: Resolve Compile Error in Hidden Module in Excel 2021 Causes & Solutions | Stellar
-date: 2024-05-20T10:20:28.124Z
-updated: 2024-05-21T10:20:28.124Z
+date: 2024-07-07T11:02:42.775Z
+updated: 2024-07-08T11:02:42.775Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Resolve Compile Error in Hidden Module in Excel 2021 Causes & Solutions
 excerpt: This article describes Resolve Compile Error in Hidden Module in Excel 2021 Causes & Solutions
 keywords: repair corrupt .xls files,repair corrupt .xlsx,repair damaged .xltx,repair .xlb files,repair excel 2003,repair excel 2021,repair damaged .xltm,repair corrupt .xls
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Resolve Compile Error in Hidden Module in Excel: Causes & Solutions
@@ -441,7 +441,7 @@ Figure 5 – Open Trust Center Settings
 
 - Next, choose **‘Protected View**’ and uncheck all the options including ‘**Enable Protected View for Outlook attachments’** if you use Outlook for email.
 
-![change protected view settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Uncheck-protected-view-settings.jpg)
+![change protected view settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Uncheck-protected-view-settings.jpg)
 
 Figure 6 – Uncheck Protected View Settings
 

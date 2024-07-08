@@ -1,7 +1,7 @@
 ---
 title: How To Free Up Apple iPhone 12 mini Space | Dr.fone
-date: 2024-05-20T10:20:17.367Z
-updated: 2024-05-21T10:20:17.367Z
+date: 2024-07-07T11:03:17.255Z
+updated: 2024-07-08T11:03:17.255Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Free Up Apple iPhone 12 mini Space
 excerpt: This article describes How To Free Up Apple iPhone 12 mini Space
 keywords: erase Apple iPhone 12 mini data without password,erase iPhone data without recovery,erase Apple iPhone 12 mini data completely,erase iPhone data without passcode,erase Apple iPhone 12 mini data without restore,erase iPhone data,erase iPhone data without backup,erase iPhone,erase iPhone data without password,erase Apple iPhone 12 mini data without recovery
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## How To Free Up Apple iPhone 12 mini Space With Dr.Fone?

@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 11 Pro devices? | Dr.fone
-date: 2024-05-20T10:20:24.723Z
-updated: 2024-05-21T10:20:24.723Z
+date: 2024-07-07T11:02:47.588Z
+updated: 2024-07-08T11:02:47.588Z
 tags: 
   - transfer whatsapp
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 11 Pro devices?
 excerpt: This article describes How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 11 Pro devices?
 keywords: transfer whatsapp from Apple iPhone 6s to other iPhone,transfer whatsapp from iPhone,transfer whatsapp from iPhone to other iPhone,transfer whatsapp from Apple iPhone 6s to other iPhone devices,transfer whatsapp from iPhone to other iPhone devices,transfer whatsapp from iPhone to Android,transfer whatsapp from Apple iPhone 6s,transfer whatsapp from Apple iPhone 6s to Android
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## How To Transfer WhatsApp From Apple iPhone 6s to Android/iOS?

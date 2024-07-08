@@ -1,7 +1,7 @@
 ---
 title: Resolve Compile Error in Hidden Module in Excel Causes & Solutions | Stellar
-date: 2024-06-11T09:00:29.609Z
-updated: 2024-06-12T09:00:29.609Z
+date: 2024-07-07T11:02:29.758Z
+updated: 2024-07-08T11:02:29.758Z
 tags: 
   - repair
   - repair excel
@@ -304,7 +304,7 @@ You may get the “Microsoft Excel cannot access the file” error if the [Prote
 - In Excel, go to **File** and then click **Options**.
 - In the **Excel Options** window, click **Trust Center** and then click **Trust Center Settings.**
 
-![Go To Trust Center and Click on Trust Center Settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
+![Go To Trust Center and Click on Trust Center Settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
 
 - Click **Protected View** from the left pane in the **Trust Center Settings** window.
 - Unselect the options under **Protected View**. Click **OK.**

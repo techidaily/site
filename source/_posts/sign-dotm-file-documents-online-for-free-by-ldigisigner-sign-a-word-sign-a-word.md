@@ -1,7 +1,7 @@
 ---
 title: Sign .dotm file Documents Online for Free
-date: 2024-05-20T10:20:28.306Z
-updated: 2024-05-21T10:20:28.306Z
+date: 2024-07-07T11:02:45.268Z
+updated: 2024-07-08T11:02:45.268Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Sign .dotm file Documents Online for Free
 excerpt: This article describes Sign .dotm file Documents Online for Free
 keywords: .ott file signature free,.wbk file signature tool,.docx file signer online
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## 1. Sign .dotm file Documents Online for Free

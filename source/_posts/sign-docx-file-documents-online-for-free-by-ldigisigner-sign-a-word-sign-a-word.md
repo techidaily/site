@@ -1,7 +1,7 @@
 ---
 title: Sign .docx file Documents Online for Free
-date: 2024-05-20T10:20:28.298Z
-updated: 2024-05-21T10:20:28.298Z
+date: 2024-07-07T11:02:43.903Z
+updated: 2024-07-08T11:02:43.903Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Sign .docx file Documents Online for Free
 excerpt: This article describes Sign .docx file Documents Online for Free
 keywords: sign .dotx file online,sign .docx file,word signature free
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## 1. Sign .docx file Documents Online for Free

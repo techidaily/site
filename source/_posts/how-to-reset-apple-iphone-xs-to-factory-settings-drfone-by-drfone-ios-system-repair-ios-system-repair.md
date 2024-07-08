@@ -1,7 +1,7 @@
 ---
 title: How to Reset Apple iPhone XS to Factory Settings? | Dr.fone
-date: 2024-05-20T10:20:20.625Z
-updated: 2024-05-21T10:20:20.625Z
+date: 2024-07-07T11:02:39.323Z
+updated: 2024-07-08T11:02:39.323Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset Apple iPhone XS to Factory Settings?
 excerpt: This article describes How to Reset Apple iPhone XS to Factory Settings?
 keywords: recovery mode on iPhone,recovery mode on Apple iPhone XS,reset Apple iPhone XS,repair Apple iPhone XS system issues,upgrade or downgrade Apple iPhone XS without iTunes,DFU mode on Apple iPhone XS
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## How To Repair Apple iPhone XS iOS System Issues?

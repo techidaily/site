@@ -1,7 +1,7 @@
 ---
 title: Sign .csv files Online for Free
-date: 2024-05-20T10:20:28.289Z
-updated: 2024-05-21T10:20:28.289Z
+date: 2024-07-07T11:02:40.591Z
+updated: 2024-07-08T11:02:40.591Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Sign .csv files Online for Free
 excerpt: This article describes Sign .csv files Online for Free
 keywords: excel signature best,excel signature software,excel signature tool
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## 1. Sign .csv files Online for Free

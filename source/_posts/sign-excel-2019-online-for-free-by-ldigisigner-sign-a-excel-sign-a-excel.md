@@ -1,7 +1,7 @@
 ---
 title: Sign Excel 2019 Online for Free
-date: 2024-05-20T10:20:28.318Z
-updated: 2024-05-21T10:20:28.318Z
+date: 2024-07-07T11:02:37.192Z
+updated: 2024-07-08T11:02:37.192Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Sign Excel 2019 Online for Free
 excerpt: This article describes Sign Excel 2019 Online for Free
 keywords: excel signature online,sign a excel,.xlsx signature,best sign .xlsx,best sign excel,sign a .xlsx
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## 1. Sign Excel 2019 Online for Free
