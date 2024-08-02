@@ -1,6 +1,6 @@
 ---
 title: Unable to Save Excel 2019 Workbook Issue Fix 2024
-date: 2024-03-02 19:22:13
+date: 2024-08-01T18:13:03.037Z
 tags: 
   - repair
   - repair excel
@@ -32,6 +32,9 @@ This issue was discussed at length at one of the [Tech Forums](https://community
 
 A [similar problem](https://www.dell.com/support/article/in/en/indhs1/sln308103/unable-to-save-workbook-in-microsoft-excel?lang=en) was reported, wherein the users received an error when saving an Excel workbook after inserting a chart in an existing workbook (previously saved) or copying values from an existing workbook. A system is configured with Windows 7 and Microsoft Office 10 configuration. The issue arises when the user is unable to save the changes after editing in a saved spreadsheet. The following message displays on the screen:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Image of Error message while trying to save excel file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Excel-Error.png)
 
 Figure: Unable to Save Excel WorkBook Issue
@@ -42,6 +45,9 @@ Figure: Unable to Save Excel WorkBook Issue
 
 **Note:** This issue impacts build Version 1707 (Build 8326.2086) and later, and also only occurs with files that are stored locally, such as on the desktop. This problem does not occur if you manually enter values or insert a chart in a newly created workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Plausible reasons for the ‘Unable to save Excel workbook’ Issue
 
 1. The issue was detected in Microsoft Office Professional Plus 2010 32-bit, Service Pack 14.0.6029.1000.
@@ -49,6 +55,9 @@ Figure: Unable to Save Excel WorkBook Issue
 3. The issue of ‘Unable to Save Excel Workbook’ impacts only the Build Version 1707 (Build 8326.2086) and later.
 4. In case of Issue 2, the problem surfaces when the user adds files, tables or charts in the locally saved excel files, such as on the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Methods to fix the ‘Unable to Save Excel Workbook’ Issue
 
 There may be an issue with the Build version or the Registry Values settings may not be appropriate, which does not allow the Excel workbooks to save.
@@ -64,12 +73,18 @@ There may be an issue with the Build version or the Registry Values settings may
 
 Once verified, look for a healthy and restorable backup. If backup is missing, resolve the issue of “Unable to open Excel File” with manual settings on local system or through a reliable Excel repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Modify Registry Entries
 
 If multiple users are unable to access their workbooks stored on the shared drive and facing unable to save Excel file problem (see Instance 1 above), then follow the below steps:
 
 1. Go to ‘Registry Entry’. To do this, type ‘regedit’ in the Start Search box, and press ENTER
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Run window with the command 'regedit" that is to be Run](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Registry-Entry.jpg)
 
 Figure: Edit Registry
@@ -89,6 +104,18 @@ Figure: Create new key
 
 5. Type ‘File Parameters’ in the available box
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 !['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
 Figure: File parameters
@@ -101,12 +128,18 @@ Figure: File parameter (DWORD – 32 bit) value
 
 7. Type ‘FormatDatabase’, and press ‘ENTER’. Right-click ‘FormatDatabase’, and click ‘Modify’
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Image of clicking on "Modify..." by right-clicking on FormatDatabase that was entered](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Modify.jpg)
 
 Figure: Modify format database
 
 8. In the Value data box, type ‘1’, and click ‘OK’
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Image of Value Data set as 1 in the Value data box 1 after clicking on "Modify..."](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/value-data.jpg)
 
 Figure: Value data
@@ -123,6 +156,10 @@ If the user is unable to save the changes after editing in a locally saved sprea
 3. Make changes to the Google Sheet and verify that all the changes are working fine.
 4. Use the Google Sheets export feature to download the file in Excel format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Method 3: Resolve manually with Open and Repair
 
 **If the Excel file is found to have corruption, try out the Excel Open and Repair utility:**
@@ -131,6 +168,9 @@ If the user is unable to save the changes after editing in a locally saved sprea
 2. Go to **Computers** and click **Browse**.
 3. Access the **Location and Folder** and click the arrow icon beside **Open** followed by **Open and Repair.**
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Open and Repair built-in utility in the browse window.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Open-and-Repair-1024x549.png)
 
 Figure: Illustrates Steps to use ‘Open and Repair’ method
@@ -180,3 +220,42 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-blueprint-for-building-a-profitable-presence/"><u>[New] 2024 Approved  Instagram's Blueprint for Building a Profitable Presence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-pioneering-success-innovative-youtube-strategies/"><u>[New] 2024 Approved  Pioneering Success  Innovative YouTube Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-easy-to-use-games-recorders-ranked-no-1-10/"><u>[New] Easy-to-Use Games Recorders Ranked No. 1-10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capturing-skype-chats-an-obs-guide/"><u>[Updated] In 2024, Capturing Skype Chats  An OBS Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-creating-professional-gameplay-archives-with-fbx/"><u>[Updated] In 2024, Creating Professional Gameplay Archives with FBX</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-generate-humor-picmagic-creation/"><u>2024 Approved  Generate Humor  PicMagic Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-icy-immortals-top-athletes-from-the-freeze/"><u>2024 Approved  Icy Immortals  Top Athletes From the Freeze</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-g42-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia G42 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-narzo-60-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme Narzo 60 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-pop-8-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Pop 8</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y36i-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y36i in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-c300-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia C300 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-8-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Asus ROG Phone 8 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-professional-gamers-toolkit-advanced-recording-tactics/"><u>In 2024, Professional Gamers' Toolkit  Advanced Recording Tactics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-14-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/scalping-and-copy-trading-on-mt4-and-mt5-by-mt4copier-guide/"><u>Scalping and Copy Trading on MT4 and MT5</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-tecno-pova-6-pro-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-motorola-edge-2023-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Motorola Edge 2023</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2021-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2021</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Infinix Note 30</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic-v2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic V2</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-blaze-2-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava Blaze 2 5G.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zoom-masterclass-unveiling-best-practices-in-video-reformatting/"><u>Zoom Masterclass  Unveiling Best Practices in Video Reformatting</u></a></li>
+<li><a href="https://techidaily.com/zte-axon-40-lite-music-recovery-recover-deleted-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>ZTE Axon 40 Lite Music Recovery - Recover Deleted Music from ZTE Axon 40 Lite</u></a></li>
+</ul></div>

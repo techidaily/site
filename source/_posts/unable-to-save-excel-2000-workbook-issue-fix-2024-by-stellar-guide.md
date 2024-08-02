@@ -1,6 +1,6 @@
 ---
 title: Unable to Save Excel 2000 Workbook Issue Fix 2024
-date: 2024-03-04 10:44:50
+date: 2024-08-01T18:12:53.651Z
 tags: 
   - repair
   - repair excel
@@ -22,12 +22,18 @@ It is easy to work with Microsoft Excel but sometimes, the application may creat
 
 ## Let’s take a look at the issue of Unable to Save Excel Workbook
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Instance 1:**
 
 In an organization, users connected to one of the servers (Windows 2008 R2) using Citrix – a Terminal Server configured with Windows 2008 R2 –and accessed their data through a File Server, also configured with Windows 2008R2. Since the connectivity to Shared Drive was established through a Terminal server, any conflict amongst the server configuration may create conflict in shared file.
 
 This issue was discussed at length at one of the [Tech Forums](https://community.spiceworks.com/topic/371563-excel-document-not-saved-issue), where the users were unable to access their workbooks stored on the shared drive. The File menu did not work. As a result, the users were forced to save the workbook by creating quick access shortcuts or locally on the desktop. In many cases, the saving option was ruled out completely.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Instance 2:**
 
 A [similar problem](https://www.dell.com/support/article/in/en/indhs1/sln308103/unable-to-save-workbook-in-microsoft-excel?lang=en) was reported, wherein the users received an error when saving an Excel workbook after inserting a chart in an existing workbook (previously saved) or copying values from an existing workbook. A system is configured with Windows 7 and Microsoft Office 10 configuration. The issue arises when the user is unable to save the changes after editing in a saved spreadsheet. The following message displays on the screen:
@@ -70,6 +76,9 @@ If multiple users are unable to access their workbooks stored on the shared driv
 
 1. Go to ‘Registry Entry’. To do this, type ‘regedit’ in the Start Search box, and press ENTER
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Image of Run window with the command 'regedit" that is to be Run](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Registry-Entry.jpg)
 
 Figure: Edit Registry
@@ -89,24 +98,37 @@ Figure: Create new key
 
 5. Type ‘File Parameters’ in the available box
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 !['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
 Figure: File parameters
 
 6. Right-click Parameters, point the cursor to New, and click DWORD (32-bit) Value
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Image of selecting DWORD (32-bit) Value under "New" by right clicking on "File Parameters" in the Registry Editor](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/DWORD32bit.jpg)
 
 Figure: File parameter (DWORD – 32 bit) value
 
 7. Type ‘FormatDatabase’, and press ‘ENTER’. Right-click ‘FormatDatabase’, and click ‘Modify’
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Image of clicking on "Modify..." by right-clicking on FormatDatabase that was entered](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Modify.jpg)
 
 Figure: Modify format database
 
 8. In the Value data box, type ‘1’, and click ‘OK’
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Value Data set as 1 in the Value data box 1 after clicking on "Modify..."](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/value-data.jpg)
 
 Figure: Value data
@@ -123,6 +145,9 @@ If the user is unable to save the changes after editing in a locally saved sprea
 3. Make changes to the Google Sheet and verify that all the changes are working fine.
 4. Use the Google Sheets export feature to download the file in Excel format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3: Resolve manually with Open and Repair
 
 **If the Excel file is found to have corruption, try out the Excel Open and Repair utility:**
@@ -137,6 +162,9 @@ Figure: Illustrates Steps to use ‘Open and Repair’ method
 
 The Open and Repair utility is not competitive enough and may not fix corruption in severely corrupted files. Hence, if you are unable to save Excel workbook after applying the manual methods, then you can search for a useful software-based repair utility.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Excel File Repair Software
 
 Specifically meant to resolve Excel file corruption. **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** helps you to repair every single object including charts, tables, their formatting, shared formulae and rules and more.
@@ -152,6 +180,9 @@ See the working of the software which has been declared as a tool that provides 
 
 The **Excel repair software** takes care to save the repaired data in a new file to minimize the chances of further corruption.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 ‘Unable to save Excel file’ is a generic problem that may appear due to various reasons. In this blog post, we presented some of the actual instances reported by users on community forums.
@@ -180,3 +211,47 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-learn-youtube-live-streaming-with-easy-obs-guide/"><u>[New] 2024 Approved  Learn YouTube Live Streaming with Easy OBS Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-detailed-steps-to-record-hulu-on-every-os-and-device-type-for-2024/"><u>[New] Detailed Steps to Record Hulu on Every OS and Device Type for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jokejumper-generate-meme-graphics-instantly/"><u>[Updated] JokeJumper  Generate Meme Graphics Instantly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-complete-igtv-user-manual/"><u>[Updated] The Complete IGTV User Manual</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-become-the-star-of-your-match-unique-tinder-profile-ideas-to-try/"><u>2024 Approved  Become the Star of Your Match - Unique Tinder Profile Ideas to Try</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-lava-agni-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Agni 2 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-gt-5-240w-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme GT 5 (240W) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-choices-best-mics-enhancing-4k-video-quality/"><u>Expert Choices  Best Mics Enhancing 4K Video Quality</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-11-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 11 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-90-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor 90 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x8b-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X8b Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c02-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C02 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-make-collab-videos-and-grow-your-channel-for-2024/"><u>How to Make Collab Videos And Grow Your Channel for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-8-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 8 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-a38-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo A38 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-g22-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia G22 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ae-text-preset-collection-the-best-of-both-worlds/"><u>In 2024, AE Text Preset Collection  The Best of Both Worlds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>In 2024, Clear and Bright  Optimizing Visuals in Zoom Calls</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-6s-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone 6s without Apple ID?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-m6-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco M6 5G Phone that is Locked?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-horizon-based-approaches-to-post-on-igtv/"><u>In 2024, Unveiling Horizon-Based Approaches to Post on IGTV</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>In 2024, Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-multilingual-content-fb-posting-guide/"><u>Maximizing Multilingual Content: FB Posting Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/rediscovering-the-riches-delving-into-literary-masterpieces-of-yore-for-2024/"><u>Rediscovering the Riches  Delving Into Literary Masterpieces of Yore for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y27s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo Y27s</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-motorola-moto-g34-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Moto G34 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Hot 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-a14-4g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-samsung-galaxy-m34-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Samsung Galaxy M34</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-f54-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy F54 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-12-pro-max-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 12 Pro Max Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-c53-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme C53</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s18-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S18 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-sony-xperia-5-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Sony Xperia 5 V?</u></a></li>
+</ul></div>

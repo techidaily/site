@@ -1,7 +1,7 @@
 ---
 title: Hard Reset Xiaomi Civi 3 in 3 Efficient Ways | Dr.fone
-date: 2024-05-20T10:20:12.520Z
-updated: 2024-05-21T10:20:12.520Z
+date: 2024-08-01T13:53:31.472Z
+updated: 2024-08-02T13:53:31.472Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Hard Reset Xiaomi Civi 3 in 3 Efficient Ways
 excerpt: This article describes Hard Reset Xiaomi Civi 3 in 3 Efficient Ways
 keywords: Xiaomi Civi 3 hard reset,Xiaomi Civi 3 soft reset,factory reset,Xiaomi Civi 3 factory reset,hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## How to Reset Xiaomi Civi 3 without Losing Data
@@ -24,6 +24,9 @@ There are two types of reset for every Android device, soft and hard resets. A [
 
 A hard reset, also known as a factory reset and a master reset, returns the Xiaomi Civi 3 device to the condition it was in when it left the factory. Performing a factory reset will permanently delete any and all personal data you have on your device. This includes any personal settings, apps, pictures, documents, and music stored on your device. A factory reset is irreversible, which means before considering taking this step, it is a good idea to back your data and settings up. A factory reset is a great way to purge buggy updates and other malfunctioning software and can give your phone a new lease of life.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
 ### Signs You Need to Reset Phone
@@ -46,6 +49,9 @@ Dr.Fone - Phone Backup (Android) enables you to backup all your data, including 
 
 Back up and restore data from your device to a computer with a single click. It's a tried and tested program and compatible with over 8000+ devices. To use it, click the link, download it and follow these instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
@@ -59,6 +65,9 @@ Backup & Restore Data Turns Flexible
 
 **3,823,152** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to backup Android phone with Dr.Fone Basic
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
@@ -67,6 +76,9 @@ Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **M
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
@@ -77,6 +89,9 @@ Also, you can watch this video to learn more details.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/bVYDAhCnKOU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 3: How to Factory Reset Android Phone
@@ -107,6 +122,9 @@ Step 1. Press and hold the Volume up button and the Power button at the same tim
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/14587119349819.jpg)
 
 Step 3. If done correctly. You'll find an image of an Android robot alongside a red exclamation mark and the words 'No command'.
@@ -127,18 +145,27 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Xiaomi Civi 3 to the Internet and login into your Google account when prompted.
 
 Once you have restarted your mobile, connect it to your PC and open Dr.Fone on your computer. Select Phone Backup, and click on the Restore button to start restoring the data to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
@@ -147,18 +174,27 @@ Dr.Fone will display all the backup files. Select the backup file you would like
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Everything from Old Devices to New Devices in 1 Click!
@@ -172,6 +208,9 @@ Transfer Everything from Old Devices to New Devices in 1 Click!
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Resetting your Android device can resolve performance issues and prepare it for resale or gifting. However, a factory reset erases all personal data, making it essential to back up your data before proceeding.
@@ -186,10 +225,16 @@ Xiaomi Civi 3 is a popular smartphone brand that has a wide range of models. If 
 
 If your Xiaomi Civi 3 phone is very slow or hangs, and you cannot fix it even working with memory and other stuff, then you can solve this issue using Xiaomi Civi 3 hard reset. This also works if you have forgotten your PIN or password or you want to bypass the screen lock. So, how to hard reset a Xiaomi Civi 3 phone?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: 4 easy ways to hard reset your Xiaomi Civi 3
 
 Hard reset Xiaomi Civi 3 is an excellent solution for bypassing screen lock and recovering locked Xiaomi Civi 3 phone. It is also an option to format your Xiaomi Civi 3 phone if you are handing over or selling your phone and want to keep your data secure. So, what are the tools or techniques for Xiaomi Civi 3 hard reset?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Google Find My Device (data loss)
 
 Google Find My Device is your best bet if you want to reset your Xiaomi Civi 3 phone hard remotely. So, here is the step-by-step guide for this method.
@@ -200,6 +245,9 @@ Google Find My Device is your best bet if you want to reset your Xiaomi Civi 3 p
 
 4. In the Erase all data menu, click the Erase option.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase device](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-1.jpg)
 
 ### 2\. Gmail account
@@ -210,11 +258,17 @@ If you opt for a Xiaomi Civi 3 hard reset because of screen lock or phone lockin
 2. When you attempt your phone incorrectly multiple times, you will see the Forgot pattern option.
 3. Click the Forgot pattern option.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![google account](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-2.jpg)
 
 4. Fill in your Google Account credentials to log in.
 5. Now, unlock your device and choose a new password.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Answer security questions
 
 Google security questions or your device company Security questions will help you to reset your phone password without data loss.
@@ -227,6 +281,9 @@ Google security questions or your device company Security questions will help yo
 3. Click on the "Answer question".
 4. Answer the security questions correctly to unlock your phones and choose a new password or pattern lock.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Use [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
 
 If the reason for hard resetting your phone is any issue with the deleting data of the phone, second-hand phone for sale, then your phone need to data erasing. Since it is a complicated technical procedure for a layman, we recommend using Dr.Fone - Data Eraser because of its ease of use and efficiency. You can erase all types of data using this software. Let us see how it works.
@@ -245,12 +302,23 @@ Connect your Android phone to the computer using a USB cable. Make sure you have
 
 Then Dr.Fone will automatically recognize and connect your Android device. Click on the "Erase All Data" button to start erasing all your data.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![erase start](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 Since all the erased data are not recoverable, make sure you [have backed up all the needed data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before you proceed. Then key in “000000” into the box to confirm your operation.
 
 Type in "000000" to confirm and move on. Since you may lose your data in system repair and in case of a Xiaomi Civi 3 hard reset, your phone's memory is wiped, it is always important to keep a backup of your phone data. More on this in the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![code to confirm](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 Then Dr.Fone will start erasing all data on your Android phone. The whole process takes only a few minutes. Please don't disconnect the phone or open any other phone management software on the computer.
@@ -267,6 +335,9 @@ After all app data, photos, and all other private data have been completely eras
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to keep my data safe?
 
 The best thing you can do to keep your data secure, even in case of unwanted crashes and accidents, is to periodically back up your phone and computer. So, you might ask what the best way to back up my phone is. We recommend [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) because it is part of your phone's comprehensive suite of solutions and works efficiently without any technical input from you.
@@ -291,6 +362,9 @@ Performing a factory reset on your phone is a significant step as it wipes all e
 
 Sometimes, erasing all data on your phone is an evident need. If you want to delete all apps on your phone or restore them to factory settings, a direct factory reset provides a simple solution for this.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Forgotten Passwords
 
 Forgetting your phone's password is a catastrophe, and everyone is prone to it. If you end up locking yourself out of your phone after too many attempted tries to unlock it, a hard factory reset is sometimes the only option left. You can learn **how to factory reset your Xiaomi Civi 3phone when locked** and end up with a clean slate without any password.
@@ -303,10 +377,17 @@ If you choose to sell your Xiaomi Civi 3phone and move on to a new one, you will
 
 If a virus or malware attacks your device, it can slow down your phone and put your data at risk. To ensure that no trace of malicious software is left on the Xiaomi Civi 3 device, you will need to perform a factory reset on your Xiaomi Civi 3phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Slow Performance
 
 Apps installed from third-party sources can often hog up the storage on your phone and result in slow system performance. If your phone is acting slower than usual, you can factory reset it to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2: What Should You Do Before Formatting Your Xiaomi Civi 3?
 
 If any of the above-mentioned reasons check a box and you wish to format your Xiaomi Civi 3phone, it can be done in a few instants. However, keeping in mind the severity of the consequences, it is better to keep a few things in mind before proceeding with the process.
@@ -315,12 +396,18 @@ Performing a factory reset on your device cleans every last bit of data from it.
 
 The [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) tool for Android is a competent software that can help you make a complete backup of your data. With a single click, you can transfer all the data on your phone to your computer. You can also sync your Android data to popular cloud storage services such as Google Drive, Dropbox, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![drfone phone backup tool](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-1.jpg)
 
 Before formatting your device, you have to keep in consideration Google's Factory Reset Protection (FRP) feature. This is a security feature in Android phones that prevents unauthorized use of devices. FRP makes sure that only the owner of the Google account signed into the Xiaomi Civi 3 device can perform a factory reset on it. If you have forgotten your Google account password, reset it in advance so you can format your phone. Note that you have to wait for 72 hours after changing your Google account's password before formatting a linked phone.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 3: How to Factory Reset Xiaomi Civi 3
 
 If you know the passcode to your device, the procedure to factory reset your device is easy as a breeze. The following methods indicate how to factory reset a Xiaomi Civi 3phone when it is not locked.
@@ -331,10 +418,16 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 **Step 1:** Go to the settings of your Xiaomi Civi 3phone and scroll down to find the "Factory Reset" option. Typically, this option is under the "About Phone" or "Additional Settings" menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose factory reset option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-2.jpg)
 
 **Step 2:** Now click on "Erase all data" at the bottom of your Xiaomi Civi 3phone screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on erase all data](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-3.jpg)
 
 **Step 3:** You will be prompted to type your phone's passcode to proceed. Afterward, you can create a backup of your phone's data by clicking on the "Back up" option. If not, hit the "Factory Reset" button and click "Next."
@@ -345,6 +438,9 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 ![tap on ok to confirm](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Method 2: Permanently Erase Everything with Dr.Fone - Data Eraser (100% Wipe Data)
 
 Although the settings app provides an easy way to wipe your phone's data, the feature has certain drawbacks. Luckily, [Wondershare Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) offers an easy alternative for resetting your phone using its Data Eraser tool.
@@ -355,12 +451,18 @@ Dr.Fone can permanently and completely wipe all data, including contacts, messag
 
 Install and launch Dr.Fone on your computer, and select the "Data Eraser" tool from the program's main interface.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![choose data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Enable USB Debugging**
 
 Now connect your Xiaomi Civi 3phone to your computer via a tethering cable and enable USB debugging on your Xiaomi Civi 3phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on start button](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 **Step 3: Start Erasing Xiaomi Civi 3Device**
@@ -389,16 +491,25 @@ One of the go-to methods for factory resetting a locked Xiaomi Civi 3phone is vi
 
 **Step 2:** Once the Xiaomi Civi 3logo appears on the screen and you feel a vibration, let go of the Power button but keep pressing the Volume Up button. Let go once you see the "Recovery Mode" screen on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![access the recovery mode](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-9.jpg)
 
 **Step 3:** Use the volume keys to scroll down the screen and find the "Wipe Data" option, then hit the Power button to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose wipe data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-10.jpg)
 
 **Step 4:** Press the Power button again on the "Wipe All Data" option and do the same on the "Confirm" option. After the resetting process is complete, select the "Back to Main Menu" option and reboot your device.
 
 ![confirm the wipe data process](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Via Find Device
 
 Xiaomi offers a "Find Device" option, using which you can learn to **factory reset your Xiaomi Civi 3phone without a password** using your Xiaomi Civi 3account. Note that for this process to work, you will require an active internet connection and a signed-in Xiaomi Civi 3account on your phone. Then, you can perform the following steps to wipe data from your Xiaomi Civi 3phone:
@@ -409,8 +520,14 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 
 **Step 2:** Click on the "Find Device" option and select your phone from the screen's upper-right corner. Next, tap on "Erase Data" and confirm the process to erase all data from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Using ADB Fastboot Tools
 
 The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB commands quickly and easily. The app comes with a range of beneficial tools that can help you wipe all data from your phone. Following is a step-by-step guide on **how to reset Xiaomi Civi 3phone when locked** using the ADB Fastboot Tools:
@@ -425,6 +542,9 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 
 **Step 4:** Under the "Wiper" section in the app, click on "Wipe cache and user data" to reset your locked Xiaomi Civi 3phone.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
@@ -435,6 +555,9 @@ If you are searching for a reliable way to reset your Xiaomi Civi 3phone without
 
 Launch Dr.Fone's Repair Toolkit on your computer. From the "Home" tab in the main interface, click on "Screen Unlock." Now attach your phone to the computer using a USB cable and click on "Unlock Android Screen."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![opt for screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Enable Xiaomi Civi 3Download Mode**
@@ -492,3 +615,54 @@ Xiaomi Civi 3is a famous brand that serves a large number of consumers worldwide
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlock-social-potential-xbox-games-via-facebook-livestream/"><u>[New] 2024 Approved  Unlock Social Potential  Xbox Games via Facebook Livestream</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sifting-through-centuries-online-unlicensed-treasures/"><u>[New] Sifting Through Centuries  Online Unlicensed Treasures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synthesize-vision-constructing-dynamic-photographic-ensembles/"><u>[New] Synthesize Vision  Constructing Dynamic Photographic Ensembles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-fullscreen-capturing-software-pcmac-edition/"><u>[Updated] 2024 Approved  Top Fullscreen Capturing Software, PC/Mac Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-stream-without-interruptions-fix-mobile-video-problems/"><u>[Updated] In 2024, Stream Without Interruptions - Fix Mobile Video Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-must-know-iphone-x-tricks-to-enhance-usage/"><u>10 Must-Know iPhone X Tricks to Enhance Usage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-bi-panel-screen-transcription/"><u>2024 Approved  Bi-Panel Screen Transcription</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>2024 Approved How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/amour-en-vues-cinematic-language-lessons/"><u>Amour en Vues: Cinematic Language Lessons</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/digital-domain-decision-which-platform-for-your-videos-in-2024/"><u>Digital Domain Decision  Which Platform for Your Videos, In 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-the-power-combine-zoom-and-google-mail/"><u>Harnessing the Power  Combine Zoom & Google Mail</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c12-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C12 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-vip-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 VIP If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-11-proplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 11 Pro+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-x100-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo X100 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-poco-x6-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco X6 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g04-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G04 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-zte-blade-a73-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset ZTE Blade A73 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix GT 10 Pro Lock Screen Password</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-iphone-photo-watermarking-sites-list/"><u>In 2024, Ultimate iPhone Photo Watermarking Sites List</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-nord-n30-se-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nord N30 SE</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-lava-blaze-2-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Lava Blaze 2 5G on Mac</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-redmi-note-12-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Redmi Note 12 4G</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-overcoming-macs-system-freeze/"><u>Step-by-Step: Overcoming Mac's System Freeze</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nubia-red-magic-9-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-tecno-spark-10c-by-fonelab-android-recover-music/"><u>The way to get back lost music from Tecno Spark 10C</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-realme-c55-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Realme C55</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-rog-phone-7-ultimate-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on ROG Phone 7 Ultimate without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-c55-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-zero-30-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-p55plus-by-fonelab-android-recover-music/"><u>Undelete lost music from P55+</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-nokia-g42-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Nokia G42 5G fingerprint</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-xiaomi-14-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-14-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi 14 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Motorola ?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo G2 | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Is your Infinix Smart 8 HD working too slow? Heres how you can hard reset it | Dr.fone
-date: 2024-05-20T10:20:26.421Z
-updated: 2024-05-21T10:20:26.421Z
+date: 2024-08-01T16:36:39.470Z
+updated: 2024-08-02T16:36:39.470Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Is your Infinix Smart 8 HD working too slow? Heres how you can hard reset it
 excerpt: This article describes Is your Infinix Smart 8 HD working too slow? Heres how you can hard reset it
 keywords: factory reset,Infinix Smart 8 HD soft reset,Infinix Smart 8 HD factory reset,hard reset,soft reset,Infinix Smart 8 HD hard reset
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## Is your Infinix Smart 8 HD working too slow? Here's how you can hard reset it
@@ -18,10 +18,16 @@ If Infinix Smart 8 HD 3.4 hard reset or Infinix Smart 8 HD hard reset is the onl
 
 The following instructions will show you how to completely wipe up all of your data and restore the Infinix Smart 8 HD to its factory-fresh condition.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why do I Need to Hard Reset My Infinix Smart 8 HD?
 
 We advise you to remove all accounts from the Infinix Smart 8 HD device before performing a factory reset, especially if you plan to sell, give away, or donate the 3.4. It is also a good idea to unlink the Google account. By doing this, we can prevent issues for new users as some more recent smartphones have a feature called FRP, or Factory Reset Protection, which requires the Google account or PIN number that was originally used to set up the Infinix Smart 8 HD when a device is factory restored.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Hard Reset My Infinix Smart 8 HD
 
 ### 1\. Fastboot Mode
@@ -48,8 +54,14 @@ _reboot bootloader using adb_
 - Press and hold the Power and Volume Up buttons at the same time until the Infinix Smart 8 HD device vibrates. Release all the presses if the Infinix Smart 8 HD logo or Recovery screen shows.
 - You can give your phone up to 30 seconds to display the recovery screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Bonus Tips
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)(delete all data completely)
 
 Dr.Fone - Data Eraser helps you quickly get rid of all the unwanted information and all of your data however it is always advisable to back it up using the Dr.Fone - Phone Backup.
@@ -62,6 +74,18 @@ Let's see how you can delete completely all the data using Dr.Fone - Data Eraser
 
 Connect your Infinix Smart 8 HD to the PC via a USB wire. Ensure that your phone has USB debugging turned on. You will see a pop-up window on your phone asking you to approve USB debugging.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect to device](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 **Step 2:** Begin wiping your Infinix Smart 8 HD phone.
@@ -76,6 +100,9 @@ Before proceeding, ensure that you have backed up any critical data because dele
 
 Dr. Fone will next proceed to wipe the data on your Infinix Smart 8 HD phone. The entire procedure takes only a few minutes. Turn off the phone and do not run any phone administration programs on the PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 **Step 3:** Reset your phone's factory data.
@@ -88,6 +115,9 @@ Your Infinix Smart 8 HD phone has now been completely wiped, giving it the appea
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)(easy backup before a new hard reset)
 
 **Step 1:** Connect your Infinix Smart 8 HD phone to your PC.
@@ -108,6 +138,9 @@ If you have previously used this application to back up your device, you may exa
 
 After connecting the Infinix Smart 8 HD phone, pick the file types you wish to back up. Dr.Fone has already tested all of the file kinds for you. Then, to begin the backup process, click Backup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![file types](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
 The backup will take a few moments. Please do not detach your Infinix Smart 8 HD phone, use it, or erase any data from it during the backup process.
@@ -118,26 +151,41 @@ When the backup is finished, you can view the contents of the backup file by cli
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 Now that you know how to hard reset Infinix Smart 8 HD it is time to implement all the possible ways and see which one works for you. We also recommend you to proceed with backing up and restoration of all the information so that you will not have to repent in the end. It is all about using smart tools like Dr.Fone - Data Eraser and Dr.Fone - Phone Backup.
 
 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Different Methods for Resetting Infinix Smart 8 HD Phones with Screen Locked and Not
 
 The Infinix Smart 8 HD has made its place in the smartphone industry at a fast pace. Infinix Smart 8 HDis dealing with a broad spectrum of products from flagship phones to smartwatches and security cameras. No worries if you own a smartphone owned by the label and don't know how to reset your Infinix Smart 8 HDphone without a password.
 
 In the following article, you can learn all about factory resetting Infinix Smart 8 HDphones, including an apt checklist of things to do before wiping all the data from your device. Also, discover multiple easy methods to reset a Infinix Smart 8 HDphone with or without a password.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: When Should You Reset Your Infinix Smart 8 HD?
 
 Performing a factory reset on your phone is a significant step as it wipes all existing data on your device and leaves you with a blank slate. Here are some plausible reasons why you might want to reset your Infinix Smart 8 HDphone:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Performing a Full Wipe
 
 Sometimes, erasing all data on your phone is an evident need. If you want to delete all apps on your phone or restore them to factory settings, a direct factory reset provides a simple solution for this.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 2\. Forgotten Passwords
 
 Forgetting your phone's password is a catastrophe, and everyone is prone to it. If you end up locking yourself out of your phone after too many attempted tries to unlock it, a hard factory reset is sometimes the only option left. You can learn **how to factory reset your Infinix Smart 8 HDphone when locked** and end up with a clean slate without any password.
@@ -146,10 +194,16 @@ Forgetting your phone's password is a catastrophe, and everyone is prone to it. 
 
 If you choose to sell your Infinix Smart 8 HDphone and move on to a new one, you will need to wipe all data from your device. Deleting everything from your phone before changing it is essential to protect the integrity and privacy of your data. In such a situation, you can perform a factory reset, and your phone will be good as new.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Virus and Malware Attacks
 
 If a virus or malware attacks your device, it can slow down your phone and put your data at risk. To ensure that no trace of malicious software is left on the Infinix Smart 8 HD device, you will need to perform a factory reset on your Infinix Smart 8 HDphone.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Slow Performance
 
 Apps installed from third-party sources can often hog up the storage on your phone and result in slow system performance. If your phone is acting slower than usual, you can factory reset it to resolve the issue.
@@ -172,6 +226,9 @@ Before formatting your device, you have to keep in consideration Google's Factor
 
 If you know the passcode to your device, the procedure to factory reset your device is easy as a breeze. The following methods indicate how to factory reset a Infinix Smart 8 HDphone when it is not locked.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Factory Reset Infinix Smart 8 HD via Android Settings (Factory Reset)
 
 The easiest way to perform a complete wipe on your phone is via your phone's settings. Here are the steps for that:
@@ -182,6 +239,9 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 **Step 2:** Now click on "Erase all data" at the bottom of your Infinix Smart 8 HDphone screen.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on erase all data](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-3.jpg)
 
 **Step 3:** You will be prompted to type your phone's passcode to proceed. Afterward, you can create a backup of your phone's data by clicking on the "Back up" option. If not, hit the "Factory Reset" button and click "Next."
@@ -214,6 +274,10 @@ Now connect your Infinix Smart 8 HDphone to your computer via a tethering cable 
 
 After attaching your phone to the computer, click on "Start." Now, type in the confirmation code present on the screen and tap on the "Erase Now" button to reset your Infinix Smart 8 HDdevice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![click on erase now button](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 ### The Difference Between These Two Methods
@@ -224,6 +288,9 @@ The benefit of using Dr.Fone as your data eraser tool is that it can permanently
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Factory Reset Infinix Smart 8 HD When Locked
 
 If you got locked out of your Infinix Smart 8 HDphone, the process to factory reset your phone can differ slightly. The following methods describe **how to factory reset Infinix Smart 8 HDphone when locked**.
@@ -236,22 +303,37 @@ One of the go-to methods for factory resetting a locked Infinix Smart 8 HDphone 
 
 **Step 2:** Once the Infinix Smart 8 HDlogo appears on the screen and you feel a vibration, let go of the Power button but keep pressing the Volume Up button. Let go once you see the "Recovery Mode" screen on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the recovery mode](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-9.jpg)
 
 **Step 3:** Use the volume keys to scroll down the screen and find the "Wipe Data" option, then hit the Power button to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose wipe data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-10.jpg)
 
 **Step 4:** Press the Power button again on the "Wipe All Data" option and do the same on the "Confirm" option. After the resetting process is complete, select the "Back to Main Menu" option and reboot your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm the wipe data process](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Via Find Device
 
 Xiaomi offers a "Find Device" option, using which you can learn to **factory reset your Infinix Smart 8 HDphone without a password** using your Infinix Smart 8 HDaccount. Note that for this process to work, you will require an active internet connection and a signed-in Infinix Smart 8 HDaccount on your phone. Then, you can perform the following steps to wipe data from your Infinix Smart 8 HDphone:
 
 **Step 1:** Launch the official website of Infinix Smart 8 HD and sign in using your Infinix Smart 8 HDaccount.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![proceed with find device](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-12.jpg)
 
 **Step 2:** Click on the "Find Device" option and select your phone from the screen's upper-right corner. Next, tap on "Erase Data" and confirm the process to erase all data from your device.
@@ -272,6 +354,9 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 
 **Step 4:** Under the "Wiper" section in the app, click on "Wipe cache and user data" to reset your locked Infinix Smart 8 HDphone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
@@ -288,6 +373,9 @@ Launch Dr.Fone's Repair Toolkit on your computer. From the "Home" tab in the mai
 
 Dr.Fone will detect and display your device information on the screen. Now boot your phone into Download Mode using the instructions present on the screen and download the recovery package for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 3: Remove Infinix Smart 8 HDScreen Completely**
@@ -322,6 +410,9 @@ If this method does not work, you can wait for the battery to drain fully from y
 
 Infinix Smart 8 HDis a famous brand that serves a large number of consumers worldwide. If you are also a Infinix Smart 8 HDuser, you now know **how to factory reset your Infinix Smart 8 HDphone without a password** owing to the in-depth guide mentioned above. Using these easy methods, such as Dr.Fone for resetting your device, can help save you a great deal of trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 3 Best Tools to Hard Reset Infinix Smart 8 HD
 
 Smartphones have become a must-have gadget in our lives. We need them to support us in work, schedules, keeping contacts, sharing data, and our banking information. Since they are so important, the questions related to them are also critical and must be solved as soon as possible. So, today we are going to discuss and solve the problem of how to Infinix Smart 8 HD Y20 hard reset without a password.
@@ -336,14 +427,37 @@ Hard resetting is usually not easy because it means erasing all your phone data 
 
 It is frustrating when you are between some work, and your phone turns off because of battery drain. If this is not a physical battery problem, then any setting or too many applications may cause your battery to eat up quickly. When you hard reset your Infinix Smart 8 HD phone, there is a high chance of solving this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Constant crashes
 
 Frequent restarts, hanging up of phone, and crashed phone systems are the most common causes why you may want to hard reset your Infinix Smart 8 HD. Usually, there are system glitches, wrong memory configuration, or unwanted applications behind these crashes and a hard reset has the potential to solve this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Virus attack
 
 When you suspect your phone is affected by a virus attack, your best bet is to reset your Infinix Smart 8 HD hard because pinpointing the actual malware or virus file is tricky.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Part 2: What can we do to hard reset Infinix Smart 8 HD without a password?
 
 You can try to hard reset your Infinix Smart 8 HD using different methods depending on the primary cause of the issue. Google has introduced different methods to bypass screen locks in case of a forgotten password. However, it would help if you had the proper configuration of your account in the phone before locking it. Let us review these methods and how to use them for vivo y20 hard reset without a password.
@@ -364,11 +478,17 @@ If you have configured your phone with a Gmail account, then your Gmail account 
 
 1. Enter the wrong password a few times, and then you can see a Forgot Pattern/Password option on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock using google account details](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-2.jpg)
 
 2. Choose Forgot Pattern/Password option and enter your Google account credentials to start the process.
 3. When you are done signing in, bypass your screen lock is complete, and you can configure a new password, pattern, or PIN.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Answer security questions
 
 Another way is to use a Google account to bypass your screen lock on the phone. How does it work? Let us show you the step-by-step process.
@@ -376,6 +496,9 @@ Another way is to use a Google account to bypass your screen lock on the phone. 
 1. If you enter the wrong password a few times, you will see a "Forgot password" button at the bottom of the screen. Click on this button.
 2. Click on the "Answer question" option and answer the pre-configured questions to unlock your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock vivo by answering questions](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-3.jpg)
 
 3. When you answer the questions correctly, your phone is unlocked.
@@ -404,14 +527,24 @@ Let us review how Wondershare Dr.Fone works.
 
 **Step 1.** Start Dr. Fone's software on your computer, and choose "My Backup" from the function list.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your Infinix Smart 8 HD to the computer via a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 **Step 3.** Click the Backup up Now button to start the backup process of Infinix Smart 8 HD phone data. Keep your Infinix Smart 8 HD connected to the computer till your Infinix Smart 8 HD backup is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backing up device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 **Step 4.** When the backup is complete, your latest backup will show in the list of previous backups.
@@ -428,18 +561,27 @@ When you have an updated phone backup, you can restore it right after the Infini
 
 **Step 2.** Preview the selected file and confirm. Click on Restore to Device it to your Infinix Smart 8 HD.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 **Step 3.** Keep your Infinix Smart 8 HD connected to the computer till the process is complete.
 
 ![data restored](https://images.wondershare.com/drfone/guide/android-backup-and-restore-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 Smartphones are a critical part of our personal and professional lives now. Keeping them updated, backed up, and fully functional is essential. If your phone has issues or you have forgotten your password, Infinix Smart 8 HD hard reset is a reliable solution. However, it results in the wiping of data. On the other hand, you can use robust software like [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to solve your phone's performance or locking issues without data loss.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## You Might Also Like
 
 
@@ -459,3 +601,60 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-essential-strategies-for-flawless-cricket-livestreams/"><u>[New] Essential Strategies for Flawless Cricket Livestreams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>[New] The Essence of Sound Diminishment  A Lumafusion Insight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-breaking-down-instagrams-video-cap-limit-for-2024/"><u>[Updated] Breaking Down Instagram's Video Cap Limit for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-guide-for-snapchat-business-for-2024/"><u>[Updated] Guide for Snapchat Business for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-7-cost-effective-user-friendly-movie-software-for-2024/"><u>[Updated] Top 7 Cost-Effective, User-Friendly Movie Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-compatible-console-recreation-software-ps3-for-pcs/"><u>2024 Approved  Best Compatible Console Recreation Software (PS3) for PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-big-catch-bigger-views-top-5-aquatic-cameras/"><u>2024 Approved  Big Catch, Bigger Views - Top 5 Aquatic Cameras</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-14-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 14 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-hot-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Hot 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/beyond-fbx-cutting-edge-options-for-game-recorders/"><u>Beyond FBX  Cutting-Edge Options for Game Recorders</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-rdp-authentication-a-windows-11-guide/"><u>Bypassing RDP Authentication: A Windows 11 Guide</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-e13-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto E13 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-11-proplus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme 11 Pro+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-g2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo G2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-civi-3-disney-100th-anniversary-edition-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Civi 3 Disney 100th Anniversary Edition in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-12-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 12 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-vip-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 VIP in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s18-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S18 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-8-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 8 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Plus Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-x6-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find X6 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m14-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M14 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to Android? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-g24-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto G24 online without jailbreak</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-gionee-f3-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Gionee F3 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-blaze-2-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Blaze 2 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-spark-10-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Spark 10 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v17-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v1.7 files on my Mac using tool | Stellar</u></a></li>
+<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-15-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 15 Pro Max screen lock</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v29e-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Google Pixel Fold</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-lava-blaze-2-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola without backup.</u></a></li>
+<li><a href="https://techidaily.com/unable-to-save-excel-2003-workbook-issue-fix-2024-stellar-by-stellar-guide/"><u>Unable to Save Excel 2003 Workbook Issue Fix 2024 | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo .</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-redmi-a2-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Redmi A2</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-narzo-n55-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme Narzo N55 on Mac?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-magic5-ultimate-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor Magic5 Ultimate Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13-ultra-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi 13 Ultra can't play MP4 video files</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy F04 | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Google Pixel 8 If I Forgot Security Code or Password? | Dr.fone
-date: 2024-05-20T10:20:15.335Z
-updated: 2024-05-21T10:20:15.335Z
+date: 2024-08-01T14:26:24.997Z
+updated: 2024-08-02T14:26:24.997Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Factory Reset Google Pixel 8 If I Forgot Security Code or Password?
 excerpt: This article describes How to Factory Reset Google Pixel 8 If I Forgot Security Code or Password?
 keywords: factory reset,Google Pixel 8 hard reset,soft reset,Google Pixel 8 factory reset,hard reset,Google Pixel 8 soft reset
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## How to Reset Google Pixel 8 without Losing Data
@@ -24,8 +24,14 @@ There are two types of reset for every Android device, soft and hard resets. A [
 
 A hard reset, also known as a factory reset and a master reset, returns the Google Pixel 8 device to the condition it was in when it left the factory. Performing a factory reset will permanently delete any and all personal data you have on your device. This includes any personal settings, apps, pictures, documents, and music stored on your device. A factory reset is irreversible, which means before considering taking this step, it is a good idea to back your data and settings up. A factory reset is a great way to purge buggy updates and other malfunctioning software and can give your phone a new lease of life.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Signs You Need to Reset Phone
 
 You'll probably already know if your phone needs a reset, but if you're unsure, look for some of the following signs. If you recognize any of the following symptoms then a factory reset is probably a good idea.
@@ -46,8 +52,14 @@ Dr.Fone - Phone Backup (Android) enables you to backup all your data, including 
 
 Back up and restore data from your device to a computer with a single click. It's a tried and tested program and compatible with over 8000+ devices. To use it, click the link, download it and follow these instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -59,6 +71,9 @@ Backup & Restore Data Turns Flexible
 
 **3,823,152** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to backup Android phone with Dr.Fone Basic
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
@@ -67,18 +82,32 @@ Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **M
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![complete android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 Also, you can watch this video to learn more details.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/bVYDAhCnKOU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Factory Reset Android Phone
 
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
@@ -97,6 +126,9 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Google Pixel 8 device resets itself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Method 2. Resetting Your Phone in Recovery Mode
 
 If your phone is misbehaving it might be easier to reset it via Recovery Mode. To do this you must turn your device off first.
@@ -107,6 +139,9 @@ Step 1. Press and hold the Volume up button and the Power button at the same tim
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/14587119349819.jpg)
 
 Step 3. If done correctly. You'll find an image of an Android robot alongside a red exclamation mark and the words 'No command'.
@@ -133,6 +168,9 @@ Please note: this reset will also delete Android Device Manager and you will the
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Google Pixel 8 to the Internet and login into your Google account when prompted.
@@ -151,6 +189,9 @@ Then you will be able to select what files you want to restore. You can click Re
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
@@ -159,6 +200,9 @@ After factory resetting your Android Phone, your phone should work smoothly. But
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Everything from Old Devices to New Devices in 1 Click!
@@ -172,6 +216,9 @@ Transfer Everything from Old Devices to New Devices in 1 Click!
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Resetting your Android device can resolve performance issues and prepare it for resale or gifting. However, a factory reset erases all personal data, making it essential to back up your data before proceeding.
@@ -180,6 +227,9 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Easiest Methods to Hard Reset Google Pixel 8
 
 You can use **Google Pixel 8 A37 hard reset** to solve your various smartphone problems. If your Google Pixel 8 runs slower and its screen gets stuck, a hard reset can clear these problems. A hard reset also helps when you want to erase all data from your device before you sell. Suppose your phone runs out of storage. You can save your data on cloud storage and do a factory reset to free up space. You can also use it to unlock your device by removing the screen lock.
@@ -196,16 +246,28 @@ Most people **hard reset Google Pixel 8** because they forgot the lock screen pa
 
 If your Google Pixel 8 works slowly, such as taking time when you open any app, you can use a hard reset to fix this problem. When you are using a smartphone, you can easily find out if it's working slower or not. If your device takes time to load games or shows lag when you watch videos, you can do a hard reset to clear its storage. When you **reset Google Pixel 8**, you clear its storage and cache, which helps your device work faster. It also removes junk files from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### 3: Constant Crashes
 
 Suppose your phone constantly crashes for no reason at all. Chances are that there is some problem with its software or new updates. When your device crashes, the screen gets stuck for some seconds before it automatically recovers. If it happens once in a while, then it is not a big problem. But, if it happens constantly, then you will need to fix your device before it gets even worse. An **Google Pixel 8 hard reset** reverts it to its factory settings by deleting all data, personalization, settings, and updates. Doing so removes any type of threat and bug from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part 2: What to do to Hard Reset Google Pixel 8? 3 Easiest Ways for You
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1: Hard Reset from Settings (password/pattern Needed)
 
 The fastest way to hard reset Google Pixel 8 is to use the factory reset option from settings. Although you don't need a third-party tool for this method, it requires the Google Pixel 8 device's password or pattern. You can't use this method on a locked Google Pixel 8 device. Suppose your phone has some issues like slow working, frozen screen, app crashes, or keeps rebooting. In these situations, the **Google Pixel 8 hard reset** is the best solution. Before factory resetting your device, create a data backup to recover it afterward. Here are the steps to hard reset Google Pixel 8 from settings.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![oppo a37 settings menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-hard-reset-01.jpg)
 
 - Power on your Google Pixel 8 and open "Settings."
@@ -251,20 +313,35 @@ Hard Reset Oppo A37 Without Any Hassle!
 
 - Enable USB debugging on your mobile phone and connect it to your PC via a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect your Google Pixel 8](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 - After the connection is complete, Dr.Fone will recognize your smartphone and open the "Erase All Data" screen. Click on the "Start" option to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start erasing all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 - Next, type the code that appears on the screen for confirmation. After you enter the code, Dr.Fone will start erasing data from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![erase data confirmation](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 - Once the process ends, Dr.Fone will ask you to tap on the "Factory Reset" option on your smartphone. It will erase all settings and complete the factory reset.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![data erased](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Conclusion
@@ -277,6 +354,9 @@ Smartphones have become a must-have gadget in our lives. We need them to support
 
 Before dealing with the possible solutions and tools, let us get some background knowledge in the following section.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Some Common Causes we need to hard reset our Google Pixel 8
 
 Hard resetting is usually not easy because it means erasing all your phone data and coming out with a clean phone. Unless you follow a minimalist lifestyle inspired by Marie Kondo, it's a tough deal. So what may be the reasons for Google Pixel 8 hard reset?
@@ -285,10 +365,16 @@ Hard resetting is usually not easy because it means erasing all your phone data 
 
 It is frustrating when you are between some work, and your phone turns off because of battery drain. If this is not a physical battery problem, then any setting or too many applications may cause your battery to eat up quickly. When you hard reset your Google Pixel 8 phone, there is a high chance of solving this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Constant crashes
 
 Frequent restarts, hanging up of phone, and crashed phone systems are the most common causes why you may want to hard reset your Google Pixel 8. Usually, there are system glitches, wrong memory configuration, or unwanted applications behind these crashes and a hard reset has the potential to solve this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Virus attack
 
 When you suspect your phone is affected by a virus attack, your best bet is to reset your Google Pixel 8 hard because pinpointing the actual malware or virus file is tricky.
@@ -307,12 +393,18 @@ Google Find my device can hard reset your Google Pixel 8 y20 phone if you alread
 
 ![vivo unlock find my device](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Gmail account
 
 If you have configured your phone with a Gmail account, then your Gmail account supports recovering from screen lock. Here is how it works.
 
 1. Enter the wrong password a few times, and then you can see a Forgot Pattern/Password option on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock using google account details](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-2.jpg)
 
 2. Choose Forgot Pattern/Password option and enter your Google account credentials to start the process.
@@ -325,10 +417,20 @@ Another way is to use a Google account to bypass your screen lock on the phone. 
 1. If you enter the wrong password a few times, you will see a "Forgot password" button at the bottom of the screen. Click on this button.
 2. Click on the "Answer question" option and answer the pre-configured questions to unlock your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock vivo by answering questions](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-3.jpg)
 
 3. When you answer the questions correctly, your phone is unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Part 3: The best tool to fix your problem
 
 If you have not configured your phone earlier with a Google account and have not taken preventive measures, then, unfortunately, you cannot use the above methods. Then how are you going to reset your Google Pixel 8 y20 phone hard? We recommend using the Dr. Fone product suite to solve the issues leading to the decision of the Google Pixel 8 y20 hard reset. The main product you may use is [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) Let us review them one by one.
@@ -357,10 +459,16 @@ Let us review how Wondershare Dr.Fone works.
 
 **Step 2.** Connect your Google Pixel 8 to the computer via a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 **Step 3.** Click the Backup up Now button to start the backup process of Google Pixel 8 phone data. Keep your Google Pixel 8 connected to the computer till your Google Pixel 8 backup is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backing up device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 **Step 4.** When the backup is complete, your latest backup will show in the list of previous backups.
@@ -410,3 +518,63 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-treat-tracks-review-exhaustive-guide-on-frozen-food-filming/"><u>[New] 2024 Approved  Treat Tracks Review  Exhaustive Guide on Frozen Food Filming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-anonymous-artifacts-auction-2023-the-quest-for-digital-secrecy-for-2024/"><u>[New] Anonymous Artifacts Auction-2023  The Quest for Digital Secrecy for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ingenious-approaches-to-facebook-video-ad-crafting/"><u>[New] Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-tones-where-to-access-google-pixel-music-for-2024/"><u>[New] Top Tones  Where to Access Google Pixel Music for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-breaking-down-the-abcd-a-guide-to-crafting-compelling-fb-text/"><u>[Updated] 2024 Approved  Breaking Down the ABCD  A Guide to Crafting Compelling FB Text</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-reinvent-your-video-storytelling-in-obs-studio/"><u>[Updated] 2024 Approved  Reinvent Your Video Storytelling in OBS Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-paint-your-paradigm-the-8-essential-drawing-apps-for-iphone-users/"><u>[Updated] Paint Your Paradigm  The 8 Essential Drawing Apps for iPhone Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-socialsnatcher-hd-extractor-for-2024/"><u>[Updated] SocialSnatcher HD Extractor for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tailored-content-creation-how-to-cropped-and-export-videos-for-instagram/"><u>[Updated] Tailored Content Creation  How to Cropped & Export Videos for Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-screen-recorder-alternatives-to-xboxs-game-bar/"><u>2024 Approved  Top Screen Recorder Alternatives to Xbox’s Game Bar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tune-the-frame-diy-music-video-production-with-iphone/"><u>2024 Approved  Tune the Frame  DIY Music Video Production with iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/action-footage-enhanced-top-mic-picks-for-2024/"><u>Action Footage Enhanced  Top Mic Picks for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-sony-xperia-10-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Sony Xperia 10 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-11-proplus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 11 Pro+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-neo-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-5-v-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 5 V If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c210-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-11-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6s-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 6s Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y27s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y27s without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y28-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y28 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s18-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S18</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oneplus-ace-3-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From OnePlus Ace 3 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-managing-excessive-tiktoks-mastering-edits-and-deletions/"><u>In 2024, Managing Excessive TikToks  Mastering Edits & Deletions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-m14-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy M14 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-step-into-style-choosing-and-applying-new-bg-for-tiktok-vids/"><u>In 2024, Step Into Style  Choosing and Applying New BG for TikTok Vids</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-zero-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Zero 30 5G</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-note-30-vip-racing-edition-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Note 30 VIP Racing Edition unlock screen</u></a></li>
+<li><a href="https://techidaily.com/sign-jpeg-online-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign .jpeg online for free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-asus-rog-phone-8-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2000-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2000 | Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-product-assurance-clause/"><u>Tech Product Assurance Clause</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-c55-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme C55</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-spark-10-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Spark 10 Pro.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-pova-5-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-yuva-2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-8-plus-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 8 Plus SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-v27e-by-fonelab-android-recover-messages/"><u>Undelete lost messages from V27e</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-defy-2-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Defy 2</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-6-plus-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 6 Plus lock with iCloud</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2010-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2010 File Error | Stellar</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi K70E won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Narzo 60x 5G | Dr.fone</u></a></li>
+</ul></div>

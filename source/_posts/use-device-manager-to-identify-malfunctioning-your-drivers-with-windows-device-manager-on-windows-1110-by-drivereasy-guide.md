@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11/10
-date: 2024-03-03 23:23:59
+date: 2024-08-01T18:41:42.838Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -51,8 +57,15 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -92,6 +105,11 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -103,6 +121,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -115,6 +136,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -144,6 +168,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -166,6 +193,18 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -195,6 +234,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -222,3 +264,57 @@ And without all these drivers, none of your devices will work.
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-shun-crossplay-in-apex-legends-your-guide-to-platform-choices/"><u>[New] In 2024, How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-top-10-high-quality-no-cost-recording-tools-for-2024/"><u>[New] Ultimate Guide  Top 10 High-Quality, No-Cost Recording Tools for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-captivating-content-through-words-top-5-innovative-tiktok-caption-ideas/"><u>[Updated] 2024 Approved  Captivating Content Through Words  Top 5 Innovative TikTok Caption Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-decreasing-obs-stream-quality/"><u>[Updated] Decreasing OBS Stream Quality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-discover-12-cutting-edge-flip-screen-cams-for-video-content-for-2024/"><u>[Updated] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortless-techniques-for-iphone-screen-recordings/"><u>[Updated] In 2024, Effortless Techniques for Iphone Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-youtube-viewing-experience-with-right-video-formats/"><u>[Updated] In 2024, Enhancing YouTube Viewing Experience with Right Video Formats</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-blueprint-for-a-thriving-portfolio-in-graphics/"><u>2024 Approved  Blueprint for a Thriving Portfolio in Graphics</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-smart-8-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Smart 8 HD Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/clone-without-cutting-corners-windows-edition/"><u>Clone Without Cutting Corners: Windows Edition</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G34 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conexants-high-definition-audio-driver-for-windows-11-success/"><u>Conexant's High Definition Audio Driver for Windows 11 Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-xr21-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia XR21 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-e13-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto E13 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-12-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 12 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s17t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S17t without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-7-hd-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 7 HD phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-narzo-60x-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme Narzo 60x 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oppo-find-n3-flip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Oppo Find N3 Flip to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-direct-mp3-download-for-fb-video-tracks/"><u>In 2024, Direct MP3 Download for FB Video Tracks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fundamentals-of-copywriting-for-engaging-fb-campaigns/"><u>In 2024, Fundamentals of Copywriting for Engaging FB Campaigns</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-civi-3-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Civi 3?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lighting-setup-to-make-your-videos-stand-out/"><u>In 2024, Lighting Setup to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nt-techniques-mix-up-your-youtube-watchlist/"><u>Instant Techniques  Mix Up Your YouTube Watchlist</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-moto-g-5g-2023-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Moto G 5G (2023) working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-jaycut-essentials-learn-how-to-use-free-online-video-editing-software-like-a-pro/"><u>New In 2024, Jaycut Essentials Learn How to Use Free Online Video Editing Software Like a Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-pace-facebook-videos-prime-extensions-tips-and-tricks-list/"><u>Quick-Pace Facebook Videos  Prime Extensions, Tips & Tricks List</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y77t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y77t</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-find-n3-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Find N3</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2023-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2023 Spreadsheet Disappears after Opening</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/your-views-iphones-looping-feature/"><u>Sync Your Views  IPhone's Looping Feature</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20-pro-video-recovery-recover-deleted-videos-from-tecno-spark-20-pro-by-fonelab-android-recover-video/"><u>Tecno Spark 20 Pro Video Recovery - Recover Deleted Videos from Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for G54 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-x50-gt-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor X50 GT</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-note-30-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Note 30 without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-note-30-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Note 30 Pro.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g84-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-itel-p55-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Itel P55</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-images-without-spending-a-dime-quick-tips-here-for-2024/"><u>YouTube Images Without Spending a Dime – Quick Tips Here for 2024</u></a></li>
+</ul></div>

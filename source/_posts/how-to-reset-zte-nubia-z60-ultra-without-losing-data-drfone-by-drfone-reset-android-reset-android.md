@@ -1,7 +1,7 @@
 ---
 title: How to Reset ZTE Nubia Z60 Ultra without Losing Data | Dr.fone
-date: 2024-05-20T10:20:22.275Z
-updated: 2024-05-21T10:20:22.275Z
+date: 2024-08-01T15:42:54.536Z
+updated: 2024-08-02T15:42:54.536Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Reset ZTE Nubia Z60 Ultra without Losing Data
 excerpt: This article describes How to Reset ZTE Nubia Z60 Ultra without Losing Data
 keywords: soft reset,ZTE Nubia Z60 Ultra factory reset,ZTE Nubia Z60 Ultra hard reset,ZTE Nubia Z60 Ultra soft reset,factory reset,hard reset
-thumbnail: https://www.lifewire.com/thmb/jNpQ-FANgbEnW9RjbyV2cn6aRhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-10-best-password-managers-of-2022-6543213-7650bf3ab2eb41a08dbee8713ce811e3.jpg
+thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg
 ---
 
 ## How to Reset ZTE Nubia Z60 Ultra without Losing Data
@@ -24,6 +24,9 @@ There are two types of reset for every Android device, soft and hard resets. A [
 
 A hard reset, also known as a factory reset and a master reset, returns the ZTE Nubia Z60 Ultra device to the condition it was in when it left the factory. Performing a factory reset will permanently delete any and all personal data you have on your device. This includes any personal settings, apps, pictures, documents, and music stored on your device. A factory reset is irreversible, which means before considering taking this step, it is a good idea to back your data and settings up. A factory reset is a great way to purge buggy updates and other malfunctioning software and can give your phone a new lease of life.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
 ### Signs You Need to Reset Phone
@@ -38,6 +41,9 @@ You'll probably already know if your phone needs a reset, but if you're unsure, 
 
 Remember factory resetting will erase everything on your device, so it's essential that you back up anything you can't afford to lose.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Back Up Your Data Before Factory Reset
 
 There are a number of Android data backup software for PC out there. Having a Google account will help you save your contacts and settings, but it won't save your pictures, documents, or music. There are numerous cloud-based systems available like Dropbox and Onedrive where your data is saved onto a cloud-based server, but you'll need a data connection or wi-fi to restore to your device and of course, you are trusting a third party with your data. We recommend [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). It's easy to use and will save everything and best of all you know exactly where it is.
@@ -48,6 +54,9 @@ Back up and restore data from your device to a computer with a single click. It'
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -63,14 +72,23 @@ Backup & Restore Data Turns Flexible
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![complete android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 Also, you can watch this video to learn more details.
@@ -93,16 +111,25 @@ Step 2. Find the option for 'Back up and Restore' (please note - using Google to
 
 Step 3. Press the button for 'Factory Data Reset' (please note - this is irreversible)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![factory reset android from settings menu](https://images.wondershare.com/drfone/others/factory-reset-from-settings.jpg)
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the ZTE Nubia Z60 Ultra device resets itself.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Resetting Your Phone in Recovery Mode
 
 If your phone is misbehaving it might be easier to reset it via Recovery Mode. To do this you must turn your device off first.
 
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
@@ -133,12 +160,18 @@ Please note: this reset will also delete Android Device Manager and you will the
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your ZTE Nubia Z60 Ultra to the Internet and login into your Google account when prompted.
 
 Once you have restarted your mobile, connect it to your PC and open Dr.Fone on your computer. Select Phone Backup, and click on the Restore button to start restoring the data to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
@@ -151,12 +184,24 @@ Then you will be able to select what files you want to restore. You can click Re
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
@@ -191,10 +236,16 @@ If you are facing some troubles with **ZTE Nubia Z60 Ultra hard reset**, then we
 
 ## Using ZTE Nubia Z60 Ultra Hard Reset in What Situations?
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1: Erase All Data and Settings
 
 One of the most common reasons for a hard reset is to erase all data and settings from the phone. When your phone runs out of storage, you can only delete the previous data if you want to save something new. Although ZTE Nubia Z60 Ultra phones provide a lot of storage and support SD cards, you can only erase unwanted data if you run out of space. Here is the deal, you can save your data on another device like your laptop and do an **ZTE Nubia Z60 Ultra hard reset**. This way, you can keep your previous data, make room for new data, and save time.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2: Restore Your Phone Back to Original Operating System and Apps
 
 If your phone is working slower than usual or starts lagging, you can do a factory reset instead of wasting time figuring out the problem. Most problems in a phone come from trash file build-up and software updates. Suppose your phone doesn't work properly after an update. In that case, you can revert it back to the original operating system by using a factory reset. You can also do it if you don't like an update's new features and settings. Before your **ZTE Nubia Z60 Ultra hard reset**, make sure to backup your data on cloud storage to restore it afterward.
@@ -203,6 +254,9 @@ If your phone is working slower than usual or starts lagging, you can do a facto
 
 Aside from the two situations discussed earlier, you might also have to hard reset your phone in other cases. Let's say you want to buy a new phone or upgrade to a newer model. You will not use your old phone and will probably sell it. Before you sell it, you have to erase all data and personal information like passwords and accounts from your phone. In another scenario, let's say your phone is stolen or you lost it. All you need to do is use the **ZTE Nubia Z60 Ultra hard reset** to ensure no one can access your personal data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### 1: Hard Reset from Settings (if you have password)
 
 The easiest way to do an **ZTE Nubia Z60 Ultra hard reset** is by using the factory reset option in the settings. This method will erase all data and settings, and you can easily do it in two easy steps. But it only works if you know the password of your phone. If you don't know the password and the phone is unlocked, it will still require a password for confirmation. Follow these steps for a hard reset from settings.
@@ -224,12 +278,19 @@ Suppose you want to hard reset your locked ZTE Nubia Z60 Ultra phone, use the re
 
 ### 3: [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) (delete all data and settings)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 If you want to hard reset your phone just to erase all its data and settings, instead of using the long factory reset method, erase data with Dr.Fone. With third-party software like Dr.Fone, you can erase anything from your mobile in one click. It helps you save time, and you don't have to set up your phone after you are done. You can also restore the erased data using Dr.Fone as well. Here are the steps for erasing data from your mobile using Dr.Fone.
 
 - Launch Dr.Fone on your computer, select "Data Erase", and connect your mobile with your computer using a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Click on the Start button to erase the data on your mobile.
@@ -242,6 +303,9 @@ If you want to hard reset your phone just to erase all its data and settings, in
 
 - Dr.Fone will erase all types of data on your device, and you can see the progress on your computer screen.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erasing data progress interface](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 ### 4: [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) (when you forget password)
@@ -278,6 +342,9 @@ If your phone is lagging, or you want to fix software problems, doing a factory 
 
 ![code confirmation interface](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Bottom Line
 
 This concludes our article on five ways to hard reset ZTE Nubia Z60 Ultra phones. You might be wondering which method is best for your **ZTE Nubia Z60 Ultra hard reset**. The best way to factory reset your phone, erase all data, or unlock the screen is by using Dr.Fone. It is multipurpose software that enables users to fix various problems without doing anything. All you need to do is install Dr.Fone on your computer and connect your phone with it. Dr.Fone has various other features like WhatsApp transfer, data recovery, and device transfer.
@@ -286,6 +353,9 @@ This concludes our article on five ways to hard reset ZTE Nubia Z60 Ultra phones
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is your ZTE Nubia Z60 Ultra working too slow? Here's how you can hard reset it
 
 If ZTE Nubia Z60 Ultra 3.4 hard reset or ZTE Nubia Z60 Ultra hard reset is the only option for your mobile phone, you can perform a factory reset to make your device function as it did on the first day. You may need a hard reset if it works slowly, hangs, you want to bypass screen lock, your memory is full, and you want to erase everything, you want to sell or give your device away, and you don't want anyone to be able to access your files or passwords.
@@ -298,6 +368,9 @@ We advise you to remove all accounts from the ZTE Nubia Z60 Ultra device before 
 
 ## Part 2: How to Hard Reset My ZTE Nubia Z60 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### 1\. Fastboot Mode
 
 - Shut down your phone.
@@ -311,6 +384,9 @@ _reboot bootloader using adb_
 
 - After some time, you will see that your ZTE Nubia Z60 Ultra has been hard reset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Hard reset with hardware key button
 
 - Choose "wipe data/factory reset" on your ZTE Nubia Z60 Ultra to do a hard reset. Scroll down with the Volume buttons, and press the Power key to agree.
@@ -322,6 +398,9 @@ _reboot bootloader using adb_
 - Press and hold the Power and Volume Up buttons at the same time until the ZTE Nubia Z60 Ultra device vibrates. Release all the presses if the ZTE Nubia Z60 Ultra logo or Recovery screen shows.
 - You can give your phone up to 30 seconds to display the recovery screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Bonus Tips
 
 ### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)(delete all data completely)
@@ -342,36 +421,60 @@ Connect your ZTE Nubia Z60 Ultra to the PC via a USB wire. Ensure that your phon
 
 Dr.Fone will then automatically recognize and connect to your ZTE Nubia Z60 Ultra smartphone. To begin wiping all of your data, select "Erase All Data.".
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 Before proceeding, ensure that you have backed up any critical data because deleted data cannot be retrieved. After that, type "000000" to confirm your activity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![code to erase](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 Dr. Fone will next proceed to wipe the data on your ZTE Nubia Z60 Ultra phone. The entire procedure takes only a few minutes. Turn off the phone and do not run any phone administration programs on the PC.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 **Step 3:** Reset your phone's factory data.
 
 Once all app data, photos, and other private data have been completely erased, Dr.Fone will advise you to touch on Factory Data Reset or Erase All Data on the phone. You may use this to completely delete the phone's settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
 Your ZTE Nubia Z60 Ultra phone has now been completely wiped, giving it the appearance of being brand new.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)(easy backup before a new hard reset)
 
 **Step 1:** Connect your ZTE Nubia Z60 Ultra phone to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![drfone home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Launch Dr.Fone on your PC and choose "Phone Backup" from the list of options.
 
 Then, connect your ZTE Nubia Z60 Ultra phone to the computer using a USB cord. Please ensure that the phone is in USB debugging mode. If your ZTE Nubia Z60 Ultra version is 4.2.2 or higher, a pop-up window on the ZTE Nubia Z60 Ultra phone will prompt you to accept USB Debugging. Please press the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 To begin backing up the data on your ZTE Nubia Z60 Ultra phone, click Backup.
@@ -390,6 +493,9 @@ The backup will take a few moments. Please do not detach your ZTE Nubia Z60 Ultr
 
 When the backup is finished, you can view the contents of the backup file by clicking the View the backup button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### The Bottom Line
@@ -413,3 +519,45 @@ Now that you know how to hard reset ZTE Nubia Z60 Ultra it is time to implement 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-az-capture-in-depth-app-analysis-and-reviews/"><u>[New] 2024 Approved  AZ Capture  In-Depth App Analysis & Reviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-time-potential-with-gratuitous-clock-tools/"><u>[New] Unleash Your Time Potential with Gratuitous Clock Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-the-art-of-making-an-effective-podcast-launch-video/"><u>2024 Approved  Mastering the Art of Making an Effective Podcast Launch Video</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-x90s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo X90S Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-asus-rog-phone-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Asus ROG Phone 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-s23-fe-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy S23 FE Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lava-yuva-2-device-sim-by-drfone-android/"><u>Easily Unlock Your Lava Yuva 2 Device SIM</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A2 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-14-ultra-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi 14 Ultra Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-fold-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel Fold without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y200e-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y200e 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-v2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic V2 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-earnings-from-a-million-youtube-globals/"><u>In 2024, Earnings From a Million YouTube Globals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy S24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-smart-8-hd-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 8 HD working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Max Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-moto-g73-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Moto G73 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-c02-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from C02</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-out-windows-11-drag-and-drop-issues/"><u>Smooth Out Windows 11 Drag-and-Drop Issues</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-lava-blaze-2-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lava-blaze-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Blaze Pro 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-90-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from 90.</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-huawei-p60-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Huawei P60.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-se-2022-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone SE (2022) screen lock</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor X7b</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-and-leveraging-snapchat-spotlight/"><u>Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-you-should-do-if-calls-are-dropping-on-your-iphone/"><u>What You Should Do If Calls Are Dropping on Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X50i+ | Dr.fone</u></a></li>
+</ul></div>

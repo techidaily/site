@@ -1,7 +1,7 @@
 ---
 title: How to Reset Vivo Y36i Without the Home Button | Dr.fone
-date: 2024-05-20T10:20:21.901Z
-updated: 2024-05-21T10:20:21.901Z
+date: 2024-08-01T15:39:54.962Z
+updated: 2024-08-02T15:39:54.962Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Reset Vivo Y36i Without the Home Button
 excerpt: This article describes How to Reset Vivo Y36i Without the Home Button
 keywords: Vivo Y36i hard reset,soft reset,factory reset,Vivo Y36i soft reset,hard reset,Vivo Y36i factory reset
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## 5 Ways to Reset Vivo Y36i Without Volume Buttons
@@ -23,6 +23,9 @@ If the Android device is working well, to hard reset Android tablet without usin
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Part 1: Reset Android without volume buttons using Dr.Fone - Data Eraser (Android)
 
 If you need to reset an Android device that doesn't have functional volume buttons, [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can assist you in securely erasing all data and performing a reset. This software provides a reliable solution that doesn't require volume buttons.
@@ -37,12 +40,21 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 
 - **Step 2:** Click “Erase” to start erasing all data on the Android device. Think again about whether you want to delete all data and type “000000” to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![start data earser](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 - **Step 3:** Wait for the erase process to end, and you can view the erasure report to check the data type erased after erasing completes.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-07.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -71,18 +83,30 @@ Using the home button to navigate, move down to the “Wipe data/factory reset�
 
 You may have to confirm your choice by selecting “Yes”.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![select yes](https://images.wondershare.com/drfone/article/2017/04/14925874254055.jpg)
 
 - **Step 5: Reboot your device.**
 
 After the reset is complete, navigate to the “reboot system now” option and select it to reboot your device. At the end of this process, your device will be reset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Reset Android with the reset pinhole
 
 There are many reasons for opting to reset an Android smartphone or tablet. Sometimes, a forgotten password might get your tablet locked. At times, the screen of your smartphone or tablet might get stuck and fail to respond. Or your device might come with a non-removable battery to make matters worse. For all these problems and many others, you might want to reset your device. But if your device does not come with a home button or volume buttons, you might want to use a different method. Generally, such devices come with a reset pinhole on the Vivo Y36i device which can be used to reset the Vivo Y36i device. To perform a tablet hard reset without the volume button, follow the simple steps described below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![choose yes](https://images.wondershare.com/drfone/article/2017/04/14931910627827.jpg)
 
 - **Step 1: Find the Reset pinhole.**
@@ -107,6 +131,9 @@ Tap on the Settings app in the app section of your device to open it.
 
 After that, navigate or scroll down until you can find the “Backup and Reset” option. Tap on it to open the folder.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the data reset folder](https://images.wondershare.com/drfone/article/2017/04/14931914941646.jpg)
 
 - **Step 3: Tap on Factory data reset.**
@@ -117,12 +144,26 @@ Now swipe down to find the “Factory data reset” option and tap on it. A new 
 
 At the end of the process, your device will be reset and ready to use after it completes the mandatory reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Part 5: Reset Android tablet to unlock Android using Dr.Fone - Screen Unlock (Android)
 
 If you are facing the challenge of resetting an Android tablet to unlock the lock screen, the easiest way is to use a dedicated tool. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is recommended in this case. It is a helpful software that provides a solution to bypass screen lock and perform a reset on your Android tablet.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Android and Solve Your Screen Locks
@@ -140,6 +181,9 @@ Here are the steps about how to reset Android to unlock lock screen.
 
 First, install and launch Wondershare Dr.Fone on your computer. Select the “Screen Unlock” option from the main interface and then click “Android” > “Unlock Android Screen”. Using a USB cable, connect your Android tablet to the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![choose screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 2: Select your device brand and follow the guide to restart your device.**
@@ -168,6 +212,9 @@ The need to reset a Vivo Y36i phone arises in several situations like forgetting
 
 In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Things You Should Be Aware of Before Resetting Vivo Y36i Phones
 
 Before you start resetting your Vivo Y36i device through any of the methods, there are certain important things that should be considered and taken care of. Check them out as below.
@@ -176,6 +223,9 @@ Before you start resetting your Vivo Y36i device through any of the methods, the
 - Ensure to clear the cache on your Vivo Y36i phone.
 - If your Vivo Y36i phone is not locked, make sure to take the backup of the Vivo Y36i device to prevent accidental loss of data. If the Vivo Y36i device is locked, ensure that from next time you keep taking the backup on regular basis.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Reset Vivo Y36i Phone When Locked?
 
 Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Vivo Y36i phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
@@ -186,6 +236,9 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 
 #### Steps to reset Vivo Y36i phone using Google Android Device Manager
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android device manager](https://images.wondershare.com/drfone/article/2022/06/android-device-manager.jpg)
 
 - **Step 1.** On your PC browser, using your Google account, sign in to the Google Find My Device.
@@ -195,6 +248,9 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 
 With the completion of the above steps, your Vivo Y36i phone will reset.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Method 2: Perform a Hard Reset on Vivo Y36i with Hardware Keys
 
 Hard reset which is also termed factory reset is a feature that will reset all the Vivo Y36i device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
@@ -208,6 +264,15 @@ Hard reset which is also termed factory reset is a feature that will reset all t
 - **Step 5.** Again, to confirm the hard reset, click on the **Wipe data/factory reset** button.
 - **Step 6.** The process of hard resetting will start and when completed, click on **Reboot system now** for restarting the unlocked phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![hard reset with hardware keys](https://images.wondershare.com/drfone/article/2022/06/hard-reset.jpg)
 
 _**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Vivo Y36i device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Vivo Y36i FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Vivo Y36i codes that can be used to bypass the FRP lock._
@@ -222,8 +287,14 @@ If the above-listed methods do not work for any reason, we recommend using [Dr.F
 
 The screen locks can be removed without rooting, and the software is completely safe to use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool for factory reset Vivo Y36i Phone When Locked
@@ -240,6 +311,9 @@ The Best Tool for factory reset Vivo Y36i Phone When Locked
 - **Step 1.** Download, install and launch the [Dr.Fone](https://download.wondershare.com/drfone_unlock_full3372.exe) software on your PC and from the main menu choose the **Screen Unlock** feature.
 - **Step 2.** Next, your Vivo Y36i phone needs to be connected to the system using a USB cable, and then from the interface select **Unlock Android Screen** option.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3.** In the next step, select your Vivo Y36i phone's brand from the supported list in Dr.Fone to ensure it enters the correct specific mode.
@@ -254,6 +328,9 @@ The Best Tool for factory reset Vivo Y36i Phone When Locked
 
 In normal situations, the Vivo Y36i phones can be reset using the settings menu or the Android Factory Reset code. Both these methods and their guide to getting the process done are listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Reset Vivo Y36i phones through the Phone Settings menu
 
 To unlock the screen and reset your Vivo Y36i phone, the settings menu of the Vivo Y36i device can be used. For this method, you do not need to make your device enter the recovery mode. The steps for the process are as follows.
@@ -284,6 +361,10 @@ The above given are multiple options that can be used for resetting your Vivo Y3
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Different Methods for Resetting Vivo Y36i Phones with Screen Locked and Not
 
 The Vivo Y36i has made its place in the smartphone industry at a fast pace. Vivo Y36iis dealing with a broad spectrum of products from flagship phones to smartwatches and security cameras. No worries if you own a smartphone owned by the label and don't know how to reset your Vivo Y36iphone without a password.
@@ -302,6 +383,9 @@ Sometimes, erasing all data on your phone is an evident need. If you want to del
 
 Forgetting your phone's password is a catastrophe, and everyone is prone to it. If you end up locking yourself out of your phone after too many attempted tries to unlock it, a hard factory reset is sometimes the only option left. You can learn **how to factory reset your Vivo Y36iphone when locked** and end up with a clean slate without any password.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Selling or Replacing Phone
 
 If you choose to sell your Vivo Y36iphone and move on to a new one, you will need to wipe all data from your device. Deleting everything from your phone before changing it is essential to protect the integrity and privacy of your data. In such a situation, you can perform a factory reset, and your phone will be good as new.
@@ -310,10 +394,16 @@ If you choose to sell your Vivo Y36iphone and move on to a new one, you will nee
 
 If a virus or malware attacks your device, it can slow down your phone and put your data at risk. To ensure that no trace of malicious software is left on the Vivo Y36i device, you will need to perform a factory reset on your Vivo Y36iphone.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Slow Performance
 
 Apps installed from third-party sources can often hog up the storage on your phone and result in slow system performance. If your phone is acting slower than usual, you can factory reset it to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: What Should You Do Before Formatting Your Vivo Y36i?
 
 If any of the above-mentioned reasons check a box and you wish to format your Vivo Y36iphone, it can be done in a few instants. However, keeping in mind the severity of the consequences, it is better to keep a few things in mind before proceeding with the process.
@@ -352,6 +442,9 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 ![tap on ok to confirm](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Method 2: Permanently Erase Everything with Dr.Fone - Data Eraser (100% Wipe Data)
 
 Although the settings app provides an easy way to wipe your phone's data, the feature has certain drawbacks. Luckily, [Wondershare Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) offers an easy alternative for resetting your phone using its Data Eraser tool.
@@ -362,6 +455,9 @@ Dr.Fone can permanently and completely wipe all data, including contacts, messag
 
 Install and launch Dr.Fone on your computer, and select the "Data Eraser" tool from the program's main interface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Enable USB Debugging**
@@ -384,10 +480,16 @@ The benefit of using Dr.Fone as your data eraser tool is that it can permanently
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Part 4: How to Factory Reset Vivo Y36i When Locked
 
 If you got locked out of your Vivo Y36iphone, the process to factory reset your phone can differ slightly. The following methods describe **how to factory reset Vivo Y36iphone when locked**.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Via the Recovery Mode
 
 One of the go-to methods for factory resetting a locked Vivo Y36iphone is via the recovery mode. You can follow the steps given below to boot your phone in recovery mode and perform a factory reset on your Vivo Y36iphone without a password:
@@ -400,10 +502,16 @@ One of the go-to methods for factory resetting a locked Vivo Y36iphone is via th
 
 **Step 3:** Use the volume keys to scroll down the screen and find the "Wipe Data" option, then hit the Power button to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose wipe data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-10.jpg)
 
 **Step 4:** Press the Power button again on the "Wipe All Data" option and do the same on the "Confirm" option. After the resetting process is complete, select the "Back to Main Menu" option and reboot your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm the wipe data process](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-11.jpg)
 
 ### Method 2: Via Find Device
@@ -418,6 +526,10 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Method 3: Using ADB Fastboot Tools
 
 The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB commands quickly and easily. The app comes with a range of beneficial tools that can help you wipe all data from your phone. Following is a step-by-step guide on **how to reset Vivo Y36iphone when locked** using the ADB Fastboot Tools:
@@ -432,6 +544,10 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 
 **Step 4:** Under the "Wiper" section in the app, click on "Wipe cache and user data" to reset your locked Vivo Y36iphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
@@ -442,6 +558,9 @@ If you are searching for a reliable way to reset your Vivo Y36iphone without a p
 
 Launch Dr.Fone's Repair Toolkit on your computer. From the "Home" tab in the main interface, click on "Screen Unlock." Now attach your phone to the computer using a USB cable and click on "Unlock Android Screen."
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![opt for screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Enable Vivo Y36iDownload Mode**
@@ -454,10 +573,19 @@ Dr.Fone will detect and display your device information on the screen. Now boot 
 
 Once the download is complete, click "Remove Now" to access your phone without a passcode. Then, you can factory reset your Vivo Y36iphone from the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![tap on remove now button](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: FAQs about Vivo Y36i
 
 1. **How can I hard reset my Vivo Y36iphone without a PC?**
@@ -499,3 +627,62 @@ Vivo Y36iis a famous brand that serves a large number of consumers worldwide. If
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-picsart-2024-analysis-and-tutorial/"><u>[New] Comprehensive PicsArt 2024 Analysis & Tutorial</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-diving-deep-reviewing-your-old-tweets-for-2024/"><u>[New] Diving Deep  Reviewing Your Old Tweets for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-roadmap-to-youtube-fame-accruing-more-subscribers/"><u>[New] The Roadmap to YouTube Fame  Accruing More Subscribers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-a-compreenasian-guide-to-obs-installation-on-apple-systems/"><u>[Updated] 2024 Approved  A Compreenasian Guide to OBS Installation on Apple Systems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-step-into-style-choosing-and-applying-new-bg-for-tiktok-vids/"><u>[Updated] 2024 Approved  Step Into Style  Choosing and Applying New BG for TikTok Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-tips-for-ppt-video-production-for-2024/"><u>[Updated] Essential Tips for PPT Video Production for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mobile-editing-hacks-for-visual-storytelling/"><u>[Updated] Mobile Editing Hacks for Visual Storytelling</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-appraisal-unconventional-thoughts/"><u>2024 Approved  Future Appraisal  Unconventional Thoughts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860304258-2024-approved-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>2024 Approved  PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-8-video-boosters-say-goodbye-to-slow-mo/"><u>2024 Approved  Top 8 Video Boosters  Say Goodbye to Slow Mo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-6-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 6 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-guide-to-solo-youtube-broadcasting-from-yourphone/"><u>Beginner's Guide to Solo YouTube Broadcasting From Yourphone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-x-fold-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo X Fold 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-13-proplus-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 13 Pro+ 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-xr-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone XR When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-lite-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 Lite in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27s-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27s in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-x8b-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X8b Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-m54-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy M54 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-xcover-7-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy XCover 7 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-pro-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 Pro without passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-se-2022-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone SE (2022) In Different Conditionsin</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-12r-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus 12R Location Settings | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y78-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y78 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-s23plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy S23+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-superior-visuals-leading-hdmi-21-monitors-for-ps5-gaming/"><u>In 2024, Superior Visuals  Leading HDMI 2.1 Monitors for PS5 Gaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-narzo-60x-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme Narzo 60x 5G Users</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-huawei-mate-x3-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Huawei Mate X3</u></a></li>
+<li><a href="https://techidaily.com/sign-docx-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .docx file Online with DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/sign-jpg-online-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign JPG Online for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-tecno-spark-10-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-x100-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo X100</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-x100-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo X100 Pro</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-oppo-find-x7-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-image-editing-luts-in-adobe-photoshop-cc-for-2024/"><u>Streamlining Image Editing  LUTs in Adobe PhotoShop CC for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-y200e-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo Y200e 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-130-music-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia 130 Music Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-samsung-galaxy-s21-fe-5g-2023-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-13-pro-max-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 13 Pro Max without itunes or icloud</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-pro-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Pro lock with iCloud</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/video-setup-made-simple-your-step-by-step-logitech-guide/"><u>Video Setup Made Simple  Your Step-by-Step Logitech Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/win-friendly-free-software-optimal-and-safe-options/"><u>Win-Friendly Free Software: Optimal and Safe Options</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-bypass-tools-to-bypass-lock-screen-xiaomi-redmi-k70-pro-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Bypass Tools to Bypass Lock Screen(Xiaomi Redmi K70 Pro)</u></a></li>
+</ul></div>

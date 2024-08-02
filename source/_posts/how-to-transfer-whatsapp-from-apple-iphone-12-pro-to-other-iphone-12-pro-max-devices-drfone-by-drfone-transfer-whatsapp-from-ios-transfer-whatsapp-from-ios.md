@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 Pro Max devices? | Dr.fone
-date: 2024-05-20T10:20:24.288Z
-updated: 2024-05-21T10:20:24.288Z
+date: 2024-08-01T16:07:54.209Z
+updated: 2024-08-02T16:07:54.209Z
 tags: 
   - transfer whatsapp
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 Pro Max devices?
 excerpt: This article describes How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 Pro Max devices?
 keywords: transfer whatsapp from Apple iPhone 12 Pro,transfer whatsapp from Apple iPhone 12 Pro to Android,transfer whatsapp from Apple iPhone 12 Pro to other iPhone devices,transfer whatsapp from Apple iPhone 12 Pro to other iPhone,transfer whatsapp from iPhone,transfer whatsapp from iPhone to other iPhone,transfer whatsapp from iPhone to Android,transfer whatsapp from iPhone to other iPhone devices
-thumbnail: https://www.lifewire.com/thmb/sc_11h-4MIwIvQmqfGAXxwLWyt8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istabletworthit-a75b20684e5241b8a64efc0733092fcd.jpg
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
 ## How To Transfer WhatsApp From Apple iPhone 12 Pro to Android/iOS?
@@ -43,12 +43,18 @@ A new window opens, where you have to select the **Transfer WhatsApp messages** 
 
 On the following screen, you will have to set the source and destination devices for this process. Continue with setting the iPhone as the **Source** and the Android as the **Destination** of this process. However, if the selection is different, you can use the **Flip** button. Lead to the next screen by clicking the **Transfer** button on the bottom-right of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set source and destination devices](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-2.png)
 
 - **Step 4** Backup Previous Data or Continue
 
 A prompt appears on the screen warning about the current WhatsApp data existing in the destination device. If the user wishes to back it up, they can proceed with the **Backup** option before transferring WhatsApp data. However, if you are considering continuing with transferring the WhatsApp data, select **Continue.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![backup previous data or continue](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-3.png)
 
 - **Step 5** Transfer WhatsApp From iOS to Android
@@ -57,6 +63,9 @@ The screen displays the progress of the WhatsApp transfer between iOS and Androi
 
 ![transfer successfully from ios to android](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Part 2: Transfer WhatsApp From iOS To iOS
 
 The process of shifting WhatsApp data from an iOS device to another iOS device is probable with Wondershare Dr.Fone - WhatsApp Transfer. While this feature makes the process as simple as a one-click solution, you can easily cover the entire process by following the guidelines shown next:
@@ -83,6 +92,9 @@ The next screen shows the progress of the WhatsApp transfer between iOS and iOS 
 
 When this process concludes, a prompt message will appear on the window of its completion. Click **OK** to conclude transferring WhatsApp data. However, if the process does not operate properly, an error will come in the display, and you might have to click **Retry** to repeat the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![conclude or retry the transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-4.png)
 
 
@@ -96,6 +108,9 @@ Managing WhatsApp data is very important when it comes to shifting your Apple iP
 [Upgrade to the Newest Dr.Fone Manage Your Phone Wherever You Go](https://secure.2checkout.com/order/checkout.php?PRODS=27852413&QTY=1&AFFILIATE=108875&CART=1)
 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 1: Transfer WhatsApp From iOS To Android
 
 For the first task, you are asked to transfer WhatsApp from your iOS device to another Android device. The process with Dr.Fone - WhatsApp Transfer is essentially simple, which has been reviewed in the steps as follows:
@@ -104,6 +119,9 @@ For the first task, you are asked to transfer WhatsApp from your iOS device to a
 
 Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/) on your computer, followed by establishing a wired connection between iOS and Android devices with the computer. Once both devices are connected and detected, continue to the **Toolbox > WhatsApp Transfer** navigation.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open the whatsapp transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 _The Dr.Fone Mac version still has the old interface, but it does not affect the use of the Dr.Fone function.We will update it as soon as possible._
@@ -112,6 +130,9 @@ _The Dr.Fone Mac version still has the old interface, but it does not affect the
 
 A new window opens, where you have to select the **Transfer WhatsApp messages** button while staying in the **WhatsApp** section on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start transferring whatsapp](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-1.png)
 
 - **Step 3** Set Source and Destination Devices
@@ -132,6 +153,9 @@ The screen displays the progress of the WhatsApp transfer between iOS and Androi
 
 ![transfer successfully from ios to android](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Part 2: Transfer WhatsApp From iOS To iOS
 
 The process of shifting WhatsApp data from an iOS device to another iOS device is probable with Wondershare Dr.Fone - WhatsApp Transfer. While this feature makes the process as simple as a one-click solution, you can easily cover the entire process by following the guidelines shown next:
@@ -140,18 +164,28 @@ The process of shifting WhatsApp data from an iOS device to another iOS device i
 
 After launching **the WhatsApp Transfer** tool and selecting the option of **Transfer WhatsApp messages,** continue to set the Source and Destination device for this process. You need to put your old iPhone in the **Source** section and the new one in the **Destination** section. To alter the sides, use the **Flip** button in the center of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![set source and destination ios devices](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-1.png)
 
 - **Step 2** Initiate Transfer of WhatsApp Data
 
 As you click **Transfer** on the bottom of the screen, a pop-up will appear on the front. While it will be a warning about the deletion of previous data from the Destination device, the platform will be offering the user a chance to **back up** the existing WhatsApp data. If you wish to proceed, click the **Continue** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![start ios to ios transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-2.png)
 
 - **Step 3** View the Progress of WhatsApp Transfer Between iOS and iOS
 
 The next screen shows the progress of the WhatsApp transfer between iOS and iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![view whatsapp transfer progress](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-3.png)
 
 - **Step 4** Check the Status of the Transfer and Conclude
@@ -177,3 +211,54 @@ When this process concludes, a prompt message will appear on the window of its c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ocial-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[New] Social Broadcast Battleground  FB Live, YT Live, TwitVision</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-most-reliable-9-mic-devices-for-recording-for-2024/"><u>[New] Unveiling the Most Reliable 9 Mic Devices for Recording for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-secrets-of-facebook-video-content-success/"><u>[New] Unveiling the Secrets of Facebook Video Content Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-broadcast-strategies-utilizing-obs-for-youtube-and-twitch-success/"><u>[Updated] 2024 Approved  Efficient Broadcast Strategies  Utilizing OBS for YouTube & Twitch Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-highest-quality-noiseless-text-converters-for-2024/"><u>[Updated] Highest Quality Noiseless Text Converters for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023s-undisclosed-video-download-tools-1-8-rankings-for-2024/"><u>2023'S Undisclosed Video Download Tools #1-8 Rankings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-art-of-selecting-effective-youtube-tags/"><u>2024 Approved  The Art of Selecting Effective YouTube Tags</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/7-best-and-free-srt-translation-websites-unveiled-for-2024/"><u>7 Best & Free SRT Translation Websites Unveiled for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-12-pro-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 12 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>Cutting Edge Filmmaking  The Essential Cinematic Tips of '24</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-g42-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia G42 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/diy-text-memes-unleash-your-humor-with-a-generator/"><u>DIY Text Memes  Unleash Your Humor with a Generator</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-poco-c65-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco C65 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-xs-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-11-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 11 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-a2plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi A2+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2020) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-x-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone X to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone SE (2020)?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-power-play-top-10-apps-to-increase-followers-and-posts/"><u>In 2024, Instagram Power Play  Top 10 Apps to Increase Followers & Posts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-is-a-quick-subscribe-worthwhile-for-youtubers/"><u>In 2024, Is a Quick Subscribe Worthwhile for YouTubers?</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-smart-8-plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 8 Plus working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-hot-40i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Hot 40i Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-multitask-media-consumption-employing-picture-in-picture-functionality-for-2024/"><u>Master Multitask Media Consumption  Employing Picture-in-Picture Functionality for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-text-animation-made-easy-best-motion-tracking-tools/"><u>New 2024 Approved Text Animation Made Easy Best Motion Tracking Tools</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-galaxy-xcover-6-pro-tactical-edition-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Galaxy XCover 6 Pro Tactical Edition on Windows</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Oppo Find X7</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-tecno-pova-5-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Tecno Pova 5</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-seamless-journey-of-filming-and-editing-haul-videos-for-2024/"><u>The Seamless Journey of Filming and Editing Haul Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-t2x-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo T2x 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-nubia-red-magic-8s-proplus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-data/"><u>Undelete lost data from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18e-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18e Device</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 | Dr.fone</u></a></li>
+</ul></div>

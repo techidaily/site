@@ -1,6 +1,6 @@
 ---
 title: Y36i support - Turn Off Screen Lock.
-date: 2024-02-22 23:18:24
+date: 2024-08-01T19:05:41.227Z
 tags: 
   - android unlock
   - android devices unlock
@@ -184,3 +184,53 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-enhance-youtube-creations-with-soundtrack-perfection-guide/"><u>[New] 2024 Approved  Enhance YouTube Creations with Soundtrack Perfection Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ideal-screencasting-software-for-effective-teaching/"><u>[New] 2024 Approved  Ideal Screencasting Software for Effective Teaching</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-extra-memory-for-sony-a7c-model/"><u>[New] Ideal Extra Memory for Sony A7C Model</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-10-free-graphics-websites-a-compreran-analysis/"><u>[New] In 2024, Top 10 FREE Graphics Websites  A Compreran Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unraveling-the-secrets-of-viral-content-creation/"><u>[New] Unraveling the Secrets of Viral Content Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-introduction-mastering-zoom-sessions-split/"><u>[Updated] In 2024, Introduction  Mastering Zoom Sessions Split</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-users-manual-on-durecorder-for-2024/"><u>[Updated] The Complete User’s Manual on DuRecorder for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-webinar-session-screening-for-2024/"><u>[Updated] Webinar Session Screening for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-calculate-and-change-aspect-ratio-online/"><u>2024 Approved  How to Calculate and Change Aspect Ratio Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-vocal-ensemble-in-the-digital-age-tiktok-edition/"><u>2024 Approved  Vocal Ensemble in the Digital Age  TikTok Edition</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y27-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y27 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-your-lost-footage-no-vids-on-a6400-for-2024/"><u>Finding Your Lost Footage  No Vids On A6400 for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-reno-10-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Reno 10 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-xr21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia XR21 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a79-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A79 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-m6-pro-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco M6 Pro 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-yuva-2-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 2 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-x6-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find X6 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-magic5-ultimate-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic5 Ultimate working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-dead-keys-a-comprehensive-fix-for-broken-wireless-keyboards-on-pcs-with-windows-os/"><u>No More Dead Keys – A Comprehensive Fix for Broken Wireless Keyboards on PCs with Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-acer-drivers-update-for-boosted-windows-10-performance/"><u>Quick & Easy Acer Drivers Update for Boosted Windows 10 Performance</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60s-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60s on Mac</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X50 GT</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-magic-vs-2-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor Magic Vs 2</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-11-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from 11 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-x50i-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor X50i</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-the-best-practices-for-timing-and-organizing-google-collaborations-for-2024/"><u>Unveiling the Best Practices for Timing and Organizing Google Collaborations for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-proplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 Pro+ on Windows?</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-moto-g04-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Moto G04?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

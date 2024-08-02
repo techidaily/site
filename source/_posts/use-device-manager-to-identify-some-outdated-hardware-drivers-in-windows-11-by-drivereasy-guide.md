@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify some outdated hardware drivers in Windows 11
-date: 2024-03-02 18:58:26
+date: 2024-08-01T18:44:59.927Z
 tags: 
   - driver
   - device driver
@@ -21,6 +21,9 @@ Identifying outdated drivers with Device Manager is a very tedious process. You 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -33,8 +36,14 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -75,6 +84,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -85,6 +97,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -139,6 +154,9 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -181,3 +199,39 @@ The free version will identify all your outdated drivers, and allow you to downl
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-creation-the-complete-review-of-sj-cam-s6/"><u>[Updated] Mastering Video Creation  The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-up-the-guide-to-youtube-fame-in-gaming/"><u>[Updated] Starting Up  The Guide to YouTube Fame in Gaming</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-beyond-vidcon-top-50-youtube-celebrations/"><u>2024 Approved  Beyond VidCon  Top 50 YouTube Celebrations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-immediate-techniques-for-instagram-video-audio-extraction-mp3/"><u>2024 Approved  Immediate Techniques for Instagram Video Audio Extraction (MP3)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-c55-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme C55 to Roku | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a25-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A25 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-8-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 8 without Security Questions?</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-v30t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme V30T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-s24plus-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy S24+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-polishing-job-experience-descriptions/"><u>In 2024, Polishing Job Experience Descriptions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-art-of-anime-adaptation-jujutsu-kaisens-tiktok-success/"><u>In 2024, The Art of Anime Adaptation  Jujutsu Kaisen's TikTok Success</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-11-pro-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from 11 Pro</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-motorola-moto-g-stylus-2023-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2016-causes-and-solutions-stellar-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2016 Causes & Solutions | Stellar</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f34-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy F34 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/sign-wbk-file-online-add-signature-to-wbk-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online - Add Signature to .wbk file for Free</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2003-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2003 Online for Free</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-130-music-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia 130 Music</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-2020-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE (2020) Suddenly | Stellar</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-seamlessly-replace-backgrounds-on-instagram-for-2024/"><u>Step-by-Step Guide to Seamlessly Replace Backgrounds on Instagram for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-x7b-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor X7b</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Galaxy Z Flip 5</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-xperia-1-v-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xperia 1 V</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Plus without Passcode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-simplest-tone-adjustments-in-pubg/"><u>Unveiling the Simplest Tone Adjustments in PUBG</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco X6 Pro</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi 12 Hard Reset | Dr.fone</u></a></li>
+</ul></div>

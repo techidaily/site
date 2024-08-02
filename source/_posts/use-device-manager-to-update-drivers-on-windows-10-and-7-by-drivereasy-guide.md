@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to update drivers on Windows 10 & 7
-date: 2024-03-01 10:14:40
+date: 2024-08-01T18:47:16.828Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -34,6 +37,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -83,14 +89,23 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -98,6 +113,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -115,6 +133,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 ## Download Driver Easy FREE
@@ -149,3 +170,40 @@ The free version will identify all your outdated drivers, and allow you to downl
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktoks-new-wave-popular-rap-songs-to-sync-with/"><u>[Updated] 2024 Approved  TikTok's New Wave  Popular Rap Songs to Sync With</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-ascend-video-rankings-top-seo-gadgets-revealed/"><u>[Updated] Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-the-mold-pushing-a-video-into-hot-water-for-2024/"><u>[Updated] Breaking the Mold  Pushing a Video Into Hot Water for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-clearing-the-fuzziness-tips-to-improve-chrome-videography/"><u>[Updated] In 2024, Clearing the Fuzziness  Tips to Improve Chrome Videography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-meme-mechanic-generating-online-engagement-through-videos-for-2024/"><u>[Updated] The Meme Mechanic  Generating Online Engagement Through Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c12-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C12 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/film-at-a-leisurely-pace-with-your-iphone/"><u>Film at a Leisurely Pace with Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Pro Max Data Completely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y200-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y200 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m14-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M14 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-beginners-roadmap-for-mobile-screening-on-snapchat/"><u>In 2024, A Beginner’s Roadmap for Mobile Screening on Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-augmented-reality-shading-exploiting-free-lut-resources-for-ar/"><u>In 2024, Augmented Reality Shading  Exploiting Free LUT Resources for AR</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-protect-your-videos-with-these-free-watermarking-tools/"><u>In 2024, Protect Your Videos with These Free Watermarking Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/premier-asian-linguistic-trinity-backup-and-organize-lists/"><u>Premier Asian Linguistic Trinity: Backup & Organize Lists</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-s18-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo S18 Pro</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-nokia-105-classic-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Nokia 105 Classic on Mac</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-find-x7-ultra-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo Find X7 Ultra on Mac</u></a></li>
+<li><a href="https://techidaily.com/sign-a-pdf-file-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a .pdf file document with digital signature software</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-tecno-camon-20-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Tecno Camon 20</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-100-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on 100 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oneplus-open-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from OnePlus Open.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-samsung-galaxy-a05s-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Samsung Galaxy A05s</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-nokia-130-music-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Nokia 130 Music password or pattern lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unravel-time-on-your-mobile-screen-with-videos-for-2024/"><u>Unravel Time on Your Mobile Screen with Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update drivers in Windows 11/10</u></a></li>
+</ul></div>

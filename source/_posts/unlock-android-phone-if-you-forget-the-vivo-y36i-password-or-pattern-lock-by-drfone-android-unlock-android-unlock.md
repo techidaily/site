@@ -1,7 +1,7 @@
 ---
 title: Unlock android phone if you forget the Vivo Y36i password or pattern lock
-date: 2024-06-11T09:00:58.777Z
-updated: 2024-06-12T09:00:58.777Z
+date: 2024-08-01T18:36:55.790Z
+updated: 2024-08-02T18:36:55.790Z
 tags: 
   - android unlock
   - android devices unlock
@@ -189,3 +189,63 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-fareless-streaming-and-recording-software/"><u>[New] In 2024, Prime Fareless Streaming & Recording Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-profile-video-attraction/"><u>[New] Mastering the Art of Profile Video Attraction</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-pixelpatchwork-android-and-ios-instagram-collage/"><u>[New] PixelPatchwork  Android & iOS Instagram Collage</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-address-chromes-problematic-facebook-vids/"><u>[Updated] 2024 Approved  Address Chrome's Problematic Facebook Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-syncing-tweeting-videos-onto-snapchat-channels/"><u>[Updated] In 2024, Direct Syncing  Tweeting Videos Onto Snapchat Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-metaverse-chronicles-the-best-sci-fi-movies-to-explore-new-universes-for-2024/"><u>[Updated] Metaverse Chronicles  The Best Sci-Fi Movies to Explore New Universes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unmatched-video-quality-leading-windows-phones-apps/"><u>[Updated] Unmatched Video Quality  Leading Windows Phones Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-tutorial-for-effective-morphvox-audio-changes/"><u>2024 Approved  Step-by-Step Tutorial for Effective MorphVOX Audio Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-managing-fast-forward-functions/"><u>2024 Approved  The Ultimate Guide to Managing Fast Forward Functions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-value-online-image-editors-leading-15-at-zero-cost/"><u>Best Value Online Image Editors - Leading 15 at Zero Cost</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bilingual-bliss-dive-into-new-language-realities-with-vr/"><u>Bilingual Bliss: Dive Into New Language Realities with VR</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-functionality-latest-drivers-for-dell-computers/"><u>Boost Functionality: Latest Drivers for Dell Computers</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-note-30i-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Note 30i Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y77t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y77t in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v27-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V27 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>How Can We Bypass Honor Magic 5 Lite FRP?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-lite-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 Lite 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100t in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nokia-c12-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nokia C12 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-v29-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo V29 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-srt-conversion-compendium-for-media-professionals/"><u>In 2024, SRT Conversion Compendium for Media Professionals</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-play-40c-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Play 40C working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-storm-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Storm 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mp4-editor-for-mavericks-edit-mp4-in-os-x-mavericks-for-2024/"><u>MP4 Editor for Mavericks Edit MP4 in OS X Mavericks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premier-guidelines-for-broadcasting-sports-online/"><u>Premier Guidelines for Broadcasting Sports Online</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-mini-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 mini Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-a18-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of A18 on Mac</u></a></li>
+<li><a href="https://techidaily.com/samsung-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung  won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-y27-4g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Y27 4G</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-into-a-new-dimension-mastering-3d-image-posts-on-facebook/"><u>Step Into a New Dimension: Mastering 3D Image Posts on Facebook</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-reno-10-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo Reno 10 5G</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-meizu-21-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Meizu 21 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-realme-c33-2023-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Realme C33 2023</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-nokia-105-classic-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nokia 105 Classic</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleashing-your-inner-instagram-reel-mastermind-for-2024/"><u>Unleashing Your Inner Instagram Reel Mastermind for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-7-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 7 Plus without Face ID</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Redmi Note 12T Pro</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-pro-5g-music-recovery-recover-deleted-music-from-vivo-t2-pro-5g-by-fonelab-android-recover-music/"><u>Vivo T2 Pro 5G Music Recovery - Recover Deleted Music from Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Civi 3 | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->

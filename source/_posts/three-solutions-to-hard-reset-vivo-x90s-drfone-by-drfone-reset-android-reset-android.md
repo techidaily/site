@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset Vivo X90S? | Dr.fone
-date: 2024-03-16 12:34:11
-updated: 2024-03-19 12:47:52
+date: 2024-08-01T18:07:54.653Z
+updated: 2024-08-02T18:07:54.653Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Vivo X90S phone?
 excerpt: This article describes How to Soft Reset Vivo X90S phone?
 keywords: Vivo X90S soft reset,hard reset,Vivo X90S hard reset,soft reset,factory reset,Vivo X90S factory reset
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## 3 Solutions to Hard Reset Vivo X90S Phone Using PC
@@ -24,12 +24,30 @@ Factory reset will delete all your user data from internal storage. Thus it is a
 You must ensure that all the steps are followed in sync so that the hard reset Android via PC is successful.
 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Back up Android before hard reset
 
 Since factory reset involves removing all data, adjusted settings and logged accounts from the Vivo X90S device; therefore, it is very important to back up all the data before moving on with the factory reset process. So, in this section, we will show you how to first back up your Android device using the [Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This is an easy-to-use and very convenient [Android backup software](https://drfone.wondershare.com/backup/android-backup-software.html) that can be used to back up an Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexiblely Back up and Restore Android Data
@@ -51,6 +69,9 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 **Step 3:** Click on "Backup pow"  to proceed with the process. The backup process will start, keeping connected the Vivo X90S device during the phone backup process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Click on “backup” again](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 **Step 4:** Within a few minutes, your whole device will be backed up. You can click "View Backups" to view all data that is backed up.
@@ -59,8 +80,16 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 Phone Backup is one of the handiest and easy-to-use features within Wondershare Dr.Fone. Users can select their opted files manually to restore. This tool supports 8000+ Android devices worldwide. Users will feel safe and secure using this revolutionary software.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Hard Reset Android using Dr.Fone - Screen Unlock (Android)
 
 Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps you unlock your Android device if you forget the passcode, pattern lock, PIN, or face/fingerprint lock. It supports various Android devices, allows you to bypass lock screens without data loss, and provides step-by-step instructions for easy unlocking. It also helps with FRP unlock and works on both Windows and Mac systems.
@@ -77,6 +106,9 @@ Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps yo
 
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 In this process, we will learn how to hard reset Android phone to factory settings from a computer using SDK. This involves removing all data from the Vivo X90S device using a PC.
@@ -87,6 +119,9 @@ Follow the given steps to know how to hard reset an Android phone using PC.
 
 • PC that runs on Windows (Linux/Mac installer is also available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download android adb](https://images.wondershare.com/drfone/article/2023/05/hard-reset-android-phone-using-pc.jpg)
 
 • You have to download Android ADB tools on your computer. Android ADB Download: [https://developer.android.com/studio](https://developer.android.com/studio)  
@@ -143,10 +178,17 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 
 **Step 4:** Select "Erase Device" to reset your device. Once you select this option, the interface will take over and complete the job. Congratulations! You have successfully used the Android Device Manager (ADM) to reset your Android smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 So these were the third different methods through which you can hard reset your Android device. Resetting the Vivo X90S device involves removing every data from the Vivo X90S device. The phone gets back to the same state as it was out of the box. Hence, most importantly, do not forget to back up data using Phone Backup and restore beforehand so that you do not end up losing anything important.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Different Methods for Resetting Vivo X90S Phones with Screen Locked and Not
 
 The Vivo X90S has made its place in the smartphone industry at a fast pace. Vivo X90Sis dealing with a broad spectrum of products from flagship phones to smartwatches and security cameras. No worries if you own a smartphone owned by the label and don't know how to reset your Vivo X90Sphone without a password.
@@ -157,10 +199,16 @@ In the following article, you can learn all about factory resetting Vivo X90Spho
 
 Performing a factory reset on your phone is a significant step as it wipes all existing data on your device and leaves you with a blank slate. Here are some plausible reasons why you might want to reset your Vivo X90Sphone:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Performing a Full Wipe
 
 Sometimes, erasing all data on your phone is an evident need. If you want to delete all apps on your phone or restore them to factory settings, a direct factory reset provides a simple solution for this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Forgotten Passwords
 
 Forgetting your phone's password is a catastrophe, and everyone is prone to it. If you end up locking yourself out of your phone after too many attempted tries to unlock it, a hard factory reset is sometimes the only option left. You can learn **how to factory reset your Vivo X90Sphone when locked** and end up with a clean slate without any password.
@@ -169,6 +217,9 @@ Forgetting your phone's password is a catastrophe, and everyone is prone to it. 
 
 If you choose to sell your Vivo X90Sphone and move on to a new one, you will need to wipe all data from your device. Deleting everything from your phone before changing it is essential to protect the integrity and privacy of your data. In such a situation, you can perform a factory reset, and your phone will be good as new.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Virus and Malware Attacks
 
 If a virus or malware attacks your device, it can slow down your phone and put your data at risk. To ensure that no trace of malicious software is left on the Vivo X90S device, you will need to perform a factory reset on your Vivo X90Sphone.
@@ -185,10 +236,16 @@ Performing a factory reset on your device cleans every last bit of data from it.
 
 The [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) tool for Android is a competent software that can help you make a complete backup of your data. With a single click, you can transfer all the data on your phone to your computer. You can also sync your Android data to popular cloud storage services such as Google Drive, Dropbox, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone phone backup tool](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-1.jpg)
 
 Before formatting your device, you have to keep in consideration Google's Factory Reset Protection (FRP) feature. This is a security feature in Android phones that prevents unauthorized use of devices. FRP makes sure that only the owner of the Google account signed into the Vivo X90S device can perform a factory reset on it. If you have forgotten your Google account password, reset it in advance so you can format your phone. Note that you have to wait for 72 hours after changing your Google account's password before formatting a linked phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 3: How to Factory Reset Vivo X90S
@@ -201,6 +258,10 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 **Step 1:** Go to the settings of your Vivo X90Sphone and scroll down to find the "Factory Reset" option. Typically, this option is under the "About Phone" or "Additional Settings" menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![choose factory reset option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-2.jpg)
 
 **Step 2:** Now click on "Erase all data" at the bottom of your Vivo X90Sphone screen.
@@ -215,6 +276,9 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 ![tap on ok to confirm](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Permanently Erase Everything with Dr.Fone - Data Eraser (100% Wipe Data)
 
 Although the settings app provides an easy way to wipe your phone's data, the feature has certain drawbacks. Luckily, [Wondershare Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) offers an easy alternative for resetting your phone using its Data Eraser tool.
@@ -259,16 +323,25 @@ One of the go-to methods for factory resetting a locked Vivo X90Sphone is via th
 
 **Step 2:** Once the Vivo X90Slogo appears on the screen and you feel a vibration, let go of the Power button but keep pressing the Volume Up button. Let go once you see the "Recovery Mode" screen on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the recovery mode](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-9.jpg)
 
 **Step 3:** Use the volume keys to scroll down the screen and find the "Wipe Data" option, then hit the Power button to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![choose wipe data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-10.jpg)
 
 **Step 4:** Press the Power button again on the "Wipe All Data" option and do the same on the "Confirm" option. After the resetting process is complete, select the "Back to Main Menu" option and reboot your device.
 
 ![confirm the wipe data process](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Method 2: Via Find Device
 
 Xiaomi offers a "Find Device" option, using which you can learn to **factory reset your Vivo X90Sphone without a password** using your Vivo X90Saccount. Note that for this process to work, you will require an active internet connection and a signed-in Vivo X90Saccount on your phone. Then, you can perform the following steps to wipe data from your Vivo X90Sphone:
@@ -281,12 +354,18 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Using ADB Fastboot Tools
 
 The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB commands quickly and easily. The app comes with a range of beneficial tools that can help you wipe all data from your phone. Following is a step-by-step guide on **how to reset Vivo X90Sphone when locked** using the ADB Fastboot Tools:
 
 **Step 1:** Hold down the Power button and the Volume Down button at the same time until you see the Fastboot splash screen.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable fastboot on mi phone](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-14.jpg)
 
 **Step 2:** Use a USB cable to attach your Vivo X90Sphone to your computer and launch the Xiaomi ADB Fastboot Tools application.
@@ -297,6 +376,9 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
 
 If you are searching for a reliable way to reset your Vivo X90Sphone without a password, Dr.Fone can come in handy. Using the Screen Unlock feature of the tool, you can easily remove the screen lock and then perform a complete wipe on your device. Here is **how to factory reset a locked Vivo X90Sphone** using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/):
@@ -311,16 +393,28 @@ Launch Dr.Fone's Repair Toolkit on your computer. From the "Home" tab in the mai
 
 Dr.Fone will detect and display your device information on the screen. Now boot your phone into Download Mode using the instructions present on the screen and download the recovery package for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enable the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 3: Remove Vivo X90SScreen Completely**
 
 Once the download is complete, click "Remove Now" to access your phone without a passcode. Then, you can factory reset your Vivo X90Sphone from the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![tap on remove now button](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: FAQs about Vivo X90S
 
 1. **How can I hard reset my Vivo X90Sphone without a PC?**
@@ -341,6 +435,9 @@ Use the Volume Up and Down buttons to navigate your way through the recovery mod
 
 If this method does not work, you can wait for the battery to drain fully from your phone and reboot it normally.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Vivo X90Sis a famous brand that serves a large number of consumers worldwide. If you are also a Vivo X90Suser, you now know **how to factory reset your Vivo X90Sphone without a password** owing to the in-depth guide mentioned above. Using these easy methods, such as Dr.Fone for resetting your device, can help save you a great deal of trouble.
@@ -360,6 +457,9 @@ Some of the most common situations that require **Vivo X90S Hard Reset** are:
 - If your device functions too slowly, a hard reset will make it faster. A hard reset will clear the cache and unwanted files, so your phone runs smoothly.
 - Lastly, an **Vivo X90S hard reset** prevents your device from constant crashes. Therefore, if your phone has some software issue, look no further.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Easy Ways for Your Vivo X90S Hard Reset
 
 ### 1\. Hard Reset from Settings
@@ -374,6 +474,9 @@ Some of the most common situations that require **Vivo X90S Hard Reset** are:
 
 ![reset from settings](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-hard-reset-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### 2\. Recovery Mode
 
 Recovery mode assists you in opening the hidden features on your Vivo X90S. By utilizing the Recovery mode, you can perform a hard reset on your device and wipe data. The following are the steps to get to the recovery mode on Vivo X90S and complete the hard reset:
@@ -398,6 +501,9 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 - Open Dr.Fone on your PC and select "Data Eraser," among other tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Connect your Vivo X90S phone to the PC through a USB cable.
@@ -410,16 +516,25 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 - Key in "000000" into the popup window to affirm your activity.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![key in the code](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 - Then, at that point, Dr.Fone will begin deleting all data on your Vivo X90S phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 - Then click the Factory Data Reset or Erase All Data on the phone. That will assist you with totally cleaning all the settings on the phone.
 
 ![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### 4\. Dr.Fone-Phone Backup
@@ -432,6 +547,9 @@ Dr.Fone Phone Backup (Android) is a wonderful tool for backups and restoration t
 
 - Then, at that point, connect your Vivo X90S phone to the PC through a USB cable and tap on OK.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect your Vivo X90S](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 - Click Backup to begin the Backup of Vivo X90S phone data.
@@ -445,8 +563,15 @@ Dr.Fone Phone Backup (Android) is a wonderful tool for backups and restoration t
 
 - After it is finished, you can tap on View the backup button to see what's in the backup record.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Above are some strategies with which you can do an **Vivo X90S hard reset**. However, a backup is needed if you don't want to lose your data after a reset. Therefore, in the end, we have mentioned the best tools for that purpose. You must consider these tools before going for a simple reset. Anybody can perform the last two sections (Dr.Fone tools) without issue. Therefore, we strongly suggest you download and install the Dr.Fone tool by Wondershare.
@@ -468,3 +593,62 @@ Above are some strategies with which you can do an **Vivo X90S hard reset**. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-behind-the-scenes-youtubes-view-count-algorithm-for-2024/"><u>[New] Behind the Scenes  YouTube's View Count Algorithm for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>[New] Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-curated-selection-of-best-ps3-simulators-pc-edition/"><u>[New] Expert-Curated Selection of Best PS3 Simulators (PC Edition)</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/blur-free-photography-ranked-10-best-web-editing-tools/"><u>Blur-Free Photography  Ranked 10 Best Web Editing Tools</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-edge-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Edge 2023 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-k70-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi K70 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decisional-balance/"><u>Decisional Balance</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-12-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 12 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-n30-se-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord N30 SE Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-c55-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco C55 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-devhome-your-nexus-for-windows-11-innovation/"><u>Discovering DevHome: Your Nexus for Windows 11 Innovation</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-itel-p55t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P55T in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-c53-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme C53 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-11-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 11 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s24-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy S24 Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-v-purse-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor V Purse without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g14-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G14 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-11-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 11 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-100-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from 100 Pro.</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-v29e-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo V29e Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-hot-40-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Hot 40 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-infinix-note-30-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Infinix Note 30</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-find-x6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X6 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-narzo-n53-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme Narzo N53</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-an-in-depth-investigation-into-androids-adobe-lightroom/"><u>In 2024, An In-Depth Investigation Into Android's Adobe Lightroom</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-backwards-viewing-a-new-lens-for-analyzing-youtube-content/"><u>In 2024, Backwards Viewing  A New Lens for Analyzing YouTube Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionizing-reports-with-paper-less-prints/"><u>Revolutionizing Reports with Paper-Less Prints</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-edge-40-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Edge 40</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tailoring-your-techniques-for-itunes-videos-for-2024/"><u>Tailoring Your Techniques for iTunes Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>The Ultimate Guide to Affordable Cloud Space  Best of the 20</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nokia-c12-plus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nokia C12 Plus</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-xiaomi-redmi-k70-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Xiaomi Redmi K70 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-13t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi 13T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nokia-c12-plus-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nokia C12 Plus</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-honor-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-oppo-find-x6-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-find-x6-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo Find X6 Pro.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-reno-11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo Reno 11 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-hot-30-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-gt-5-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from GT 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-realme-gt-5-by-fonelab-android-recover-music/"><u>Undelete lost music from Realme GT 5</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g04-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G04 fingerprint</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/upgrade-your-photo-presence-best-border-selection-tips-for-instagram-for-2024/"><u>Upgrade Your Photo Presence  Best Border Selection Tips for Instagram for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-13-pro-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 13 Pro takes time in scanning my iPhone? | Stellar</u></a></li>
+</ul></div>

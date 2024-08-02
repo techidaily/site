@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-02-29 20:33:51
+date: 2024-08-01T18:42:36.171Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -36,6 +39,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -59,10 +65,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -73,6 +85,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -95,6 +110,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -163,15 +181,29 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -227,3 +259,65 @@ The free version will identify all your outdated drivers, and allow you to downl
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-getting-ahead-with-professional-itunes-capture-methods/"><u>[New] 2024 Approved  Getting Ahead with Professional iTunes Capture Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-beginners-blueprint-for-creating-a-sports-chain-on-mac/"><u>[New] The Beginner's Blueprint for Creating a Sports Chain on Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-path-to-picsart-proficiency-for-2024/"><u>[New] The Ultimate Path to PicsArt Proficiency for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-budget-headphones-to-enhance-game-sounds-for-2024/"><u>[New] Ultimate Budget Headphones to Enhance Game Sounds for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-integrating-masks-and-filters-to-improve-google-meet-engagement/"><u>[Updated] 2024 Approved  Integrating Masks and Filters to Improve Google Meet Engagement</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transform-your-trip-diary-into-haul-video-hype/"><u>[Updated] 2024 Approved  Transform Your Trip Diary Into Haul Video Hype</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-spectrum-kinetics-examination/"><u>[Updated] Full Spectrum Kinetics Examination</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-flawless-top-timelapse-capturer/"><u>[Updated] In 2024, Flawless Top Timelapse Capturer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework/"><u>[Updated] In 2024, Thrive on InstaVid  A Guide to Creating a Solid Video Marketing Framework</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nightly-narratives-video-guide-and-critiques/"><u>[Updated] Nightly Narratives  Video Guide & Critiques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva/"><u>[Updated] The Path to Perfect Presentation  Cutting Out Image Backdrops on Canva</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-top-9-tools-for-making-gifs/"><u>2024 Approved  The Ultimate Guide  Top 9 Tools for Making GIFs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-transform-photos-with-the-premier-11-edits/"><u>2024 Approved  Transform Photos with the Premier 11 Edits</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/choosing-between-podcast-and-youtube-for-content-delivery-for-2024/"><u>Choosing Between Podcast and YouTube for Content Delivery for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/comparative-analysis-of-game-streaming-software-obs-vs-shadowplay/"><u>Comparative Analysis of Game Streaming Software  OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopro-video-faceoff-expert-review-of-max-360-and-hero-11-capabilities/"><u>GoPro Video Faceoff  Expert Review of Max 360 & Hero 11 Capabilities</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-huawei-nova-y71-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Huawei Nova Y71?</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-c50-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco C50 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23 Ultra Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-3-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord 3 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-s23-fe-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy S23 FE by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a38-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A38</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-pova-5-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Pova 5 is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tracking-your-channels-ad-revenue-accrual/"><u>In 2024, Tracking Your Channel's Ad Revenue Accrual</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-v30-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme V30 and Browser | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-z50-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Z50 Ultra</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-blade-a73-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Blade A73 5G</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a15-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy A15 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://techidaily.com/sign-doc-file-online-add-signature-to-doc-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .doc file Online - Add Signature to .doc file for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-narzo-n53-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Narzo N53</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-into-the-virtual-realm-with-updated-android-tips/"><u>Step Into the Virtual Realm with Updated Android Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-best-iphone-selfie-devices-ranked-8/"><u>The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-gif-to-sticker-methodology-how-to-express-yourself-better-on-discord-for-2024/"><u>The GIF-to-Sticker Methodology  How to Express Yourself Better on Discord for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-price-point-in-online-advertising-for-2024/"><u>The Price Point in Online Advertising for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-huawei-nova-y91-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Huawei Nova Y91 without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c12-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C12 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-150-2023-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia 150 (2023).</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Google Pixel Fold</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-y78-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Y78 5G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-the-secrets-of-effective-video-cropping-for-instagram/"><u>Unlock the Secrets of Effective Video Cropping for Instagram</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-motorola-moto-g73-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Motorola Moto G73 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 10
-date: 2024-06-11T09:00:43.999Z
+date: 2024-08-01T18:41:19.474Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +38,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -44,6 +53,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## What happens if a driver is missing or outdated?
@@ -60,6 +72,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -68,6 +83,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -87,6 +105,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -119,6 +140,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -185,10 +209,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -221,3 +251,64 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-peek-into-past-posts-panel/"><u>[New] 2024 Approved  Peek Into Past Posts Panel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-present-day-virtual-reality-overview/"><u>[New] Present Day Virtual Reality Overview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stepping-through-the-art-of-subtle-volume-lowering-in-audacity/"><u>[New] Stepping Through the Art of Subtle Volume Lowering in Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-harmonize-your-hours-synchronized-video-playback-across-platforms-for-2024/"><u>[Updated] Harmonize Your Hours  Synchronized Video Playback Across Platforms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-breaking-the-mold-unique-post-vidcon-events/"><u>[Updated] In 2024, Breaking the Mold  Unique Post-VidCon Events</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-innovative-approaches-to-social-media-video-making/"><u>[Updated] Innovative Approaches to Social Media Video Making</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mobile-audio-speed-the-fastest-app-list/"><u>[Updated] Mobile Audio Speed  The Fastest App List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-note-12-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi Note 12 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breathe-life-into-images-step-by-step-text-editing-guide/"><u>2024 Approved  Breathe Life Into Images  Step-by-Step Text Editing Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-hot-off-the-tiktok-menu-top-dishes-and-challenges/"><u>2024 Approved  Hot Off the TikTok Menu  Top Dishes & Challenges</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-produce-playful-photoshopped-gifs-via-giphy/"><u>2024 Approved  Produce Playful Photoshopped Gifs via Giphy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-windows-10s-complete-guide-to-saving-mov-content-with-ease/"><u>2024 Approved  Windows 10'S Complete Guide to Saving .mov Content with Ease</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-x6-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find X6 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic5-ultimate-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic5 Ultimate without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-huawei-p60-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Huawei P60 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-m54-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x90s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X90S without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y100t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100t Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-of-your-youtube-channel-subscribers/"><u>In 2024, Unlocking the Potential of Your YouTube Channel (Subscribers)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovate-your-screenshots-unveiling-ezvides-screen-casting-features-for-2024/"><u>Innovate Your Screenshots  Unveiling EZvide's Screen Casting Features for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-in-this-article-we-are-going-to-take-you-through-15-best-apps-you-can-use-to-cartoon-yourself-and-increase-the-number-of-likes-your-posts-/"><u>New 2024 Approved In This Article We Are Going to Take You Through 15 Best Apps You Can Use to Cartoon Yourself and Increase the Number of Likes Your Posts on All Major Social Media Platforms Are Getting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-motorola-moto-g73-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Moto G73 5G</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-sony-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Sony</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v12-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF v1.2 File using PDF Repair Tool | Stellar</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-g310-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of G310 on Mac</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-x100-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo X100 Pro on Windows</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-play-8t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Play 8T on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-time-secrets-in-depth-recorder-guide-for-2024/"><u>Screen Time Secrets  In-Depth Recorder Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nubia-z50-ultra-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-spark-20-proplus-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor Magic Vs 2 FRP</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-tecno-camon-20-by-fonelab-android-recover-data/"><u>The way to get back lost data from Tecno Camon 20</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-a70-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on A70 without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-y28-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo Y28 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y100-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y100 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-100-pro-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor 100 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-xiaomi-13t-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xiaomi 13T</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-g42-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from G42 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-12-pro-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 Pro screen lock without data loss</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Sony Xperia 5 V</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-asus-rog-phone-8-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Asus ROG Phone 8</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-note-30-vip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Note 30 VIP Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-civi-3-disney-100th-anniversary-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Civi 3 Disney 100th Anniversary Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy M54 5G ?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-lava-storm-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Lava Storm 5G | Dr.fone</u></a></li>
+</ul></div>

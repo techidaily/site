@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify some outdated drivers on Windows 11
-date: 2024-02-27 22:16:24
+date: 2024-08-01T18:44:50.894Z
 tags: 
   - driver
   - device driver
@@ -21,6 +21,9 @@ Identifying outdated drivers with Device Manager is a very tedious process. You 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -30,6 +33,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -42,6 +48,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## Download Driver Easy FREE
@@ -76,6 +85,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -88,6 +100,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -139,6 +154,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -181,3 +199,63 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-achieving-virality-in-instagram-videos-practical-advice/"><u>[New] Achieving Virality in Instagram Videos  Practical Advice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-faster-adjustment-of-youtube-videos-for-mac-pixels/"><u>[New] In 2024, Faster Adjustment of YouTube Videos for Mac Pixels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-shorts-a-deep-dive-into-content-creation-and-revenue/"><u>[New] In 2024, YouTube's Shorts  A Deep Dive Into Content Creation and Revenue</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-method-retain-tweets-video-on-your-android-gadget-for-2024/"><u>[New] Quick Method  Retain Tweets' Video on Your Android Gadget for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-reviving-shadows-and-highlights-in-iphone-hdr-footage-with-premiere-pro/"><u>[New] Reviving Shadows and Highlights in iPhone HDR Footage with Premiere Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-sound-fidelity-preservation-computer-sounds-and-dialogue/"><u>[Updated] 2024 Approved  Sound Fidelity Preservation  Computer Sounds & Dialogue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-guide-mastering-screenshot-and-screen-record-on-mac-for-2024/"><u>[Updated] Quick Guide  Mastering Screenshot & Screen Record on Mac for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-guide-from-camera-roll-capture-to-snapchat-posting/"><u>[Updated] Simplified Guide  From Camera Roll Capture to Snapchat Posting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-radial-blur-made-easy-pro-techniques-in-adobe-ps/"><u>2024 Approved  Radial Blur Made Easy  Pro Techniques in Adobe PS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-new-face-of-sony-updates-to-s6500-blu-rayhd-player/"><u>2024 Approved  The New Face of Sony  Updates to S6500 Blu-Ray/HD Player</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-12-solutions-to-decipher-and-display-hidden-video-posts-on-fb/"><u>2024 Approved  Top 12 Solutions to Decipher and Display Hidden Video Posts on FB</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-pova-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Pova 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-13c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi 13C Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/detailed-examination-of-sound-forges-functionality/"><u>Detailed Examination of Sound Forges Functionality</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2010-file-by-stellar-guide/"><u>Get Rid of corrupt Excel 2010 File</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-pro-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Pro Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-hot-30i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 30i in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-edge-40-neo-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Edge 40 Neo in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y100a-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y100A in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-reno-10-proplus-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo Reno 10 Pro+ 5G Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-80-pro-straight-screen-edition-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 80 Pro Straight Screen Edition Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-nord-n30-se-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Nord N30 SE Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a78-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A78 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-mini-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 12 mini to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-f5-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco F5 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-pro-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-s23plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel S23+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-itel-p55t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Itel P55T Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-s23-fe-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy S23 FE Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-iphone-apps-uncover-strategies-for-finding-them-again/"><u>Missing iPhone Apps? Uncover Strategies for Finding Them Again</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>New 2024 Approved Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-stunning-movies-online-for-free-top-9-options/"><u>New In 2024, Create Stunning Movies Online for Free Top 9 Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-reset-failed-in-windows-11/"><u>Overcoming 'Device Reset Failed' In Windows 11</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-redmi-note-13-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://techidaily.com/sign-wps-file-online-add-signature-to-wps-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wps file Online - Add Signature to .wps file for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-c51-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from C51</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X50</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-t2-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-choosing-a-screen-for-superior-4k-video-for-2024/"><u>The Ultimate Guide to Choosing a Screen for Superior 4K Video for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-c300-by-fonelab-android-recover-music/"><u>The way to get back lost music from C300</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-a1x-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo A1x 5G</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a79-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A79 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor X50i+</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oneplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from OnePlus</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a1-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A1 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>

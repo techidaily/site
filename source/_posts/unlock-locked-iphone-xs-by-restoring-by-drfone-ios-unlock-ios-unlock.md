@@ -1,6 +1,6 @@
 ---
 title: Unlock locked iPhone XS by restoring
-date: 2024-02-28 18:53:51
+date: 2024-08-01T18:39:28.841Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -64,11 +64,17 @@ The user is requested to wait for some time, as the firmware update is being dow
 
 The application will now ask for the confirmation code. Just provide the on-screen confirmation code and let the process complete itself. As soon as that is done, the application will notify you through the interface. The process can also be repeated by clicking on the 'Try Again' button.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Confirmation Code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/6.avif)
 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Unlock Locked iPhone XS by Restoring it to Default Settings – iTunes
 
 iPhone users make sure that they connect and sync their devices with iTunes because their data is safe. iPhone users live without the fear of losing their data because it is backed up. Taking more advantage of this, iPhone users can restore their phone to default settings and can even unlock their iPhone without using a passcode.
@@ -81,6 +87,9 @@ Let us show you how to unlock iPhone XS without using a passcode;
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/7.avif)
 
 4. After the summary screen is opened, you will see the option of 'Restore iPhone'; click on that option. 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/8.avif)
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 6. As soon as that is done and iTunes has finished the process, your iPhone XS will be restored to default settings.
@@ -99,6 +108,9 @@ Unlocking an iPhone XS without a passcode is possible, but it's not as simple as
 
 And we are going to teach all those methods with some simple steps. So, without any further ado, let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Use Find My iPhone
 
 Once you have activated the `Find My iPhone` function, then you can try it to unlock your iPhone XS without a passcode. This is an easy and effective method to complete this task. Here's how you can do it:
@@ -112,6 +124,9 @@ Once you have activated the `Find My iPhone` function, then you can try it to un
 - **Step 5**: Click the 'Erase' option to confirm your action.
 - **Step 6**: Once your device has been erased, you can set it up again and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock it with iTunes
 
 Another way to unlock your iPhone XS without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your iPhone XS:
@@ -124,6 +139,9 @@ Another way to unlock your iPhone XS without a passcode is by using iTunes. For 
 - **Step 4**: Now, click on the 'Restore iPhone' button in the right sidebar.
 - **Step 5**: Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Use Recovery Mode
 
 If you have never tried to sync your device with iTunes or used the Find My iPhone feature, you can use recovery mode to unlock your device. This more complex method will erase all the data on your device. So, ensure that you have backed up your data before proceeding with this method. Here's how you can use recovery mode to unlock your iPhone XS:
@@ -143,20 +161,36 @@ If you are unable to unlock your iPhone XS using the above methods, you can use 
 
 - **Step 1**: Start Dr.Fone on your computer. Then, launch the program and select `Screen Unlock`.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/4.avif)
 
 - **Step 2**: Create the connection from your iPhone XS to the computer with a lightning cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![create connection](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/5.avif)
 
 - **Step 3**: Follow the image on the screen to make your device enter in `DFU mode` or `Recovery mode`.
 
 - **Step 4**: Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your iPhone XS.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![choose firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/6.avif)
 
 - **Step 5**: Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/7.avif)
 
 You only need to wait for some time as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your iPhone XS.
@@ -181,6 +215,9 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 - **Step 2**: Scroll and tap the option `"Reset Face ID"` to remove Face ID on your iPhone iPhone XS.
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/9.avif)
 
 ## How to use Face ID on iPhone XS to pay with Apple Pay
@@ -199,6 +236,9 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 
 - **Step6**: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your iPhone XS, and wait for the Done message and checkmark to finish the process.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Difference Between Activation Lock and Locked Apple ID
 
 Apple being Apple, does a lot to make sure that users get the smoothest experience possible when interacting with their Apple products, both hardware, and software. Yet, sometimes, the messaging gets confusing, and people are not sure what is what. One such thing is the difference between iCloud Activation Lock and Apple ID Lock. While people are more likely to encounter Activation Lock and less likely to encounter Apple ID Lock, they are often confused when they encounter Apple ID Lock and struggle to figure out what that means and how to resolve the issue.
@@ -207,6 +247,9 @@ Activation Lock is when your supported Apple device is locked for a number of re
 
 A locked Apple ID usually happens when the user has forgotten their password to their Apple ID account and attempts to figure out the password have been unsuccessful. Sometimes, Apple ID gets locked automatically under some conditions, and that requires users to reset their password to gain access. A locked Apple ID does not mean that your device is locked for your use. You can keep using it so long as you do not try to use another Apple ID with it since to do that you would have to sign out of your current Apple ID (which is locked) and you won't be able to do that. On the other hand, Activation Lock renders the entire device unusable till the lock is cleared.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Locked Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/1.webp)
 
 In short, Apple ID Lock is about a user's account with Apple, akin to how Google Account works on Android devices. Apple ID Lock locks a user's account with Apple while retaining complete usage of the device whereas Activation Lock locks the device and prevents anyone from using it until the correct credentials are entered. This is about verifying the ownership of the device and works to deter theft of Apple devices.
@@ -221,6 +264,9 @@ Find My is available both online via the iCloud website and on iOS devices and o
 
 - **Step 2**: Go to Find My, select your iPhone XS.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Select your iphone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
 - **Step 3**: Click Erase iPhone and confirm.
@@ -243,3 +289,47 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-step-by-step-journey-through-the-landscape-of-instagram-reels/"><u>[New] 2024 Approved  A Step-by-Step Journey Through the Landscape of Instagram Reels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-brightening-filmmaking-ranking-the-17-best-lights/"><u>[New] 2024 Approved  Brightening Filmmaking  Ranking the 17 Best Lights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-blueprinting-breathtaking-cinematic-sketches/"><u>[New] Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-core-principles-in-crafting-persuasive-facebook-ads-for-2024/"><u>[New] Core Principles in Crafting Persuasive Facebook Ads for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-streamlining-instagram-story-captioning-techniques/"><u>[New] In 2024, Streamlining Instagram Story Captioning Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-30-trendy-discord-tags-for-instant-fame/"><u>[New] Top 30 Trendy Discord Tags for Instant Fame</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-expert-recommendations-for-efficient-gif-makers/"><u>[Updated] Expert Recommendations for Efficient GIF Makers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-hangout-history-top-4-strategies/"><u>[Updated] In 2024, Hangout History  Top 4 Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-switch-knockouts-the-ultimate-list-for-2024/"><u>[Updated] Top 10 Switch Knockouts  The Ultimate List for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-superiority-in-choosing-drones-lipo-energizers/"><u>[Updated] Unveiling Superiority in Choosing Drones' LiPo Energizers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-video-grabber-tool-decompiler/"><u>2024 Approved  Video Grabber Tool Decompiler</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/audience-engagement-meets-technology-four-recording-ways-on-facebook-for-2024/"><u>Audience Engagement Meets Technology  Four Recording Ways on Facebook for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/beyond-the-screen-shaping-perceptions-on-instagram-through-captions/"><u>Beyond the Screen - Shaping Perceptions on Instagram Through Captions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls-for-2024/"><u>Echoes of the Northmen  Essential Sites to Grab GoT Audio Calls for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-x9a-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y100-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y100 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v30-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V30 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-13t-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 13T Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-13t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 13T Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-civi-3-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Civi 3 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-x50i-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X50i phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-films-finest-closure-kits-grab-em-without-cost/"><u>In 2024, Film's Finest Closure Kits – Grab 'Em Without Cost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-11x-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 11X 5G</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-perfect-game-video-edits-made-easy-for-newcomers/"><u>In 2024, Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-c110-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C110 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-oppo-reno-9a-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Oppo Reno 9A</u></a></li>
+<li><a href="https://techidaily.com/samsung-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/smiles-on-signal-best-humorous-tones-online/"><u>Smiles on Signal  Best Humorous Tones Online</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-90-lite-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-play-8t-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Play 8T</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-edge-40-neo-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-14-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi 14 Ultra Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-magic-vs-2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor Magic Vs 2.</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-x100-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo X100 Pro</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-pro-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi 13T Pro can’t play AVCHD .mts video</u></a></li>
+</ul></div>

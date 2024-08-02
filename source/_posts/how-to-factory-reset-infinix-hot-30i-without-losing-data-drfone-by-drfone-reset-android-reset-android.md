@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Infinix Hot 30i without Losing Data | Dr.fone
-date: 2024-05-20T10:20:15.523Z
-updated: 2024-05-21T10:20:15.523Z
+date: 2024-08-01T14:28:47.507Z
+updated: 2024-08-02T14:28:47.507Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Factory Reset Infinix Hot 30i without Losing Data
 excerpt: This article describes How to Factory Reset Infinix Hot 30i without Losing Data
 keywords: hard reset,Infinix Hot 30i factory reset,Infinix Hot 30i soft reset,factory reset,Infinix Hot 30i hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## How to Reset Infinix Hot 30i without Losing Data
@@ -24,6 +24,9 @@ There are two types of reset for every Android device, soft and hard resets. A [
 
 A hard reset, also known as a factory reset and a master reset, returns the Infinix Hot 30i device to the condition it was in when it left the factory. Performing a factory reset will permanently delete any and all personal data you have on your device. This includes any personal settings, apps, pictures, documents, and music stored on your device. A factory reset is irreversible, which means before considering taking this step, it is a good idea to back your data and settings up. A factory reset is a great way to purge buggy updates and other malfunctioning software and can give your phone a new lease of life.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
 ### Signs You Need to Reset Phone
@@ -38,6 +41,9 @@ You'll probably already know if your phone needs a reset, but if you're unsure, 
 
 Remember factory resetting will erase everything on your device, so it's essential that you back up anything you can't afford to lose.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Back Up Your Data Before Factory Reset
 
 There are a number of Android data backup software for PC out there. Having a Google account will help you save your contacts and settings, but it won't save your pictures, documents, or music. There are numerous cloud-based systems available like Dropbox and Onedrive where your data is saved onto a cloud-based server, but you'll need a data connection or wi-fi to restore to your device and of course, you are trusting a third party with your data. We recommend [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). It's easy to use and will save everything and best of all you know exactly where it is.
@@ -46,8 +52,14 @@ Dr.Fone - Phone Backup (Android) enables you to backup all your data, including 
 
 Back up and restore data from your device to a computer with a single click. It's a tried and tested program and compatible with over 8000+ devices. To use it, click the link, download it and follow these instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -71,6 +83,9 @@ Step 2. Wait for the backup process to complete. A progress bar will show you ho
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![complete android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 Also, you can watch this video to learn more details.
@@ -79,6 +94,18 @@ Also, you can watch this video to learn more details.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Factory Reset Android Phone
 
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
@@ -97,12 +124,18 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Infinix Hot 30i device resets itself.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Method 2. Resetting Your Phone in Recovery Mode
 
 If your phone is misbehaving it might be easier to reset it via Recovery Mode. To do this you must turn your device off first.
 
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
@@ -119,6 +152,9 @@ Step 6. Scroll to 'Yes - erase all user data' and to complete the process press 
 
 Please note: Devices running Android 5.1 or above, will still require you to enter your Google Password to complete this reset.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3. Resetting Your Phone Remotely With Android Device Manager
 
 You can also perform a factory reset by using the Android Device manager App. Obviously, you'll need to have Android Device Manager installed on your phone for which you'll need a Google Account.
@@ -127,18 +163,27 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Infinix Hot 30i to the Internet and login into your Google account when prompted.
 
 Once you have restarted your mobile, connect it to your PC and open Dr.Fone on your computer. Select Phone Backup, and click on the Restore button to start restoring the data to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
@@ -151,6 +196,9 @@ Then you will be able to select what files you want to restore. You can click Re
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
@@ -180,6 +228,9 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Hard Resetting an Infinix Hot 30i Device Made Easy
 
 If you have owned any Infinix Hot 30i smartphone, you should know about the UI features these handsets offer. The new age of Color OS has been giving the best client experience. Moreover, it is easier to hard reset your Infinix Hot 30i phone if you need to sell a phone. This article will guide you on **resetting Infinix Hot 30i phone** with simple steps.
@@ -196,18 +247,27 @@ There are many occasions when a person may want to hard reset their Infinix Hot 
 - If your phone is constantly crashing, and you want to make your experience smoother, a hard reset may help.
 - Lastly, you need to remove everything from your phone when you are looking to sell your phone. In such cases, a hard reset will do your work quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 2 simple ways to hard reset your Infinix Hot 30i
 
 ### 1\. Hard Reset from Settings
 
 - **Step 1.** Go to the Settings application on your Infinix Hot 30i phone and open System Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![system settings](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-1.jpg)
 
 - **Step 2.** Go to the “Backup and Reset” menu and click the “Reset Phone” option.
 - **Step 3.** The phone will show numerous choices to reset. It includes resetting network settings, system settings only, contacts, call logs, messages, etc. Moreover, there will be the “Erase All Data” option too.
 - **Step 4.** To **hard reset Infinix Hot 30i**, pick the Erase All Data option to reset your device and bring it to factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase all data](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-2.jpg)
 
 ### 2\. From Recovery Mode (By Hardware Keys)
@@ -218,6 +278,9 @@ Hard resetting Infinix Hot 30i smartphones is also simple, assuming you know the
 - **Step 2:** Simultaneously, press and hold the power and Volume down keys until the Infinix Hot 30i logo springs up on the screen. This will bring the Recovery mode screen.
 - **Step 3:** Select your preferred language using the Volume and Power buttons, and then tap on “Wipe Data”.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe data](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-3.jpg)
 
 - **Step 4:** You will be approached to enter the confirmation code (screen lock PIN).
@@ -233,6 +296,9 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 - **Step 1:** After launching Dr.Fone, please use a USB cable to connect your Infinix Hot 30i phone. And tap the “Screen Unlock” option.
 - **Step 2:** Please select the left part with 3 phones, “Unlock Android Screen” to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3:** To unlock Infinix Hot 30i phone, the left “100% Remove Screen Lock” is the only feasible way. In this interface, we include most android brands. And as Infinix Hot 30i user, it’s also in the list we offered.
@@ -241,12 +307,18 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 
 - **Step 4:** Recovery mode is the key step for the whole process. Here is a simple guide to help you hard reset your Infinix Hot 30i device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![unlock oppo ](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 - Congrats! You’re able to access your Infinix Hot 30i phone without hassle and it’s already hard reset!
 
 ![unlock finisded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Steps to Use [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
@@ -263,6 +335,9 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 
 - **Step 5:** Tap on Factory Data Reset or Erase All Data on the phone. This will assist you with totally cleaning up the settings on the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
 - Presently, your Android phone has been wiped, and it can be used as a new one.
@@ -283,10 +358,17 @@ Smartphones have become a must-have gadget in our lives. We need them to support
 
 Before dealing with the possible solutions and tools, let us get some background knowledge in the following section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: Some Common Causes we need to hard reset our Infinix Hot 30i
 
 Hard resetting is usually not easy because it means erasing all your phone data and coming out with a clean phone. Unless you follow a minimalist lifestyle inspired by Marie Kondo, it's a tough deal. So what may be the reasons for Infinix Hot 30i hard reset?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### The battery drains too fast
 
 It is frustrating when you are between some work, and your phone turns off because of battery drain. If this is not a physical battery problem, then any setting or too many applications may cause your battery to eat up quickly. When you hard reset your Infinix Hot 30i phone, there is a high chance of solving this problem.
@@ -299,10 +381,16 @@ Frequent restarts, hanging up of phone, and crashed phone systems are the most c
 
 When you suspect your phone is affected by a virus attack, your best bet is to reset your Infinix Hot 30i hard because pinpointing the actual malware or virus file is tricky.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What can we do to hard reset Infinix Hot 30i without a password?
 
 You can try to hard reset your Infinix Hot 30i using different methods depending on the primary cause of the issue. Google has introduced different methods to bypass screen locks in case of a forgotten password. However, it would help if you had the proper configuration of your account in the phone before locking it. Let us review these methods and how to use them for vivo y20 hard reset without a password.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Google Find My Device (data loss)
 
 Google Find my device can hard reset your Infinix Hot 30i y20 phone if you already have configured your device in your Google account. Since it can work remotely, you can use it even if you do not hold your phone. Let us see how it works for hard reset Infinix Hot 30i y20.
@@ -311,8 +399,14 @@ Google Find my device can hard reset your Infinix Hot 30i y20 phone if you alrea
 2. Choose your Infinix Hot 30i from the "All Devices" list, and click the Erase Device option.
 3. Click Erase All Data>Erase and confirm. That's it; Infinix Hot 30i y20 hard reset is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![vivo unlock find my device](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Gmail account
 
 If you have configured your phone with a Gmail account, then your Gmail account supports recovering from screen lock. Here is how it works.
@@ -335,6 +429,9 @@ Another way is to use a Google account to bypass your screen lock on the phone. 
 
 3. When you answer the questions correctly, your phone is unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: The best tool to fix your problem
 
 If you have not configured your phone earlier with a Google account and have not taken preventive measures, then, unfortunately, you cannot use the above methods. Then how are you going to reset your Infinix Hot 30i y20 phone hard? We recommend using the Dr. Fone product suite to solve the issues leading to the decision of the Infinix Hot 30i y20 hard reset. The main product you may use is [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) Let us review them one by one.
@@ -359,20 +456,42 @@ Let us review how Wondershare Dr.Fone works.
 
 **Step 1.** Start Dr. Fone's software on your computer, and choose "My Backup" from the function list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your Infinix Hot 30i to the computer via a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 **Step 3.** Click the Backup up Now button to start the backup process of Infinix Hot 30i phone data. Keep your Infinix Hot 30i connected to the computer till your Infinix Hot 30i backup is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![backing up device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 **Step 4.** When the backup is complete, your latest backup will show in the list of previous backups.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![completed backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 4: Restore the backup to your Android phone
@@ -395,6 +514,9 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## You Might Also Like
 
 
@@ -414,3 +536,61 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-add-music-to-facebook-story-in-2024/"><u>[New] How to Add Music to Facebook Story, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-add-youtube-end-screen-and-cards-effectively/"><u>[New] How to Add YouTube End Screen and Cards Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-videos-impact-with-top-ranking-software-solutions/"><u>[New] In 2024, Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube/"><u>[New] In 2024, Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaining-ground-on-the-groundswell-of-online-viewers/"><u>[New] In 2024, Gaining Ground on the Groundswell of Online Viewers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-essential-list-7-cost-free-video-tags-extractors-on-youtube-for-2024/"><u>[Updated] Essential List  7 Cost-Free Video Tags Extractors on YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-advanced-hue-adjustment-strategies-for-professionals/"><u>[Updated] In 2024, Advanced Hue Adjustment Strategies for Professionals</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-outwit-youtube-visitors-tips-to-evade-automated-audiences/"><u>[Updated] Outwit YouTube Visitors  Tips to Evade Automated Audiences</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/10t-5g-music-recovery-recover-deleted-music-from-10t-5g-by-fonelab-android-recover-music/"><u>10T 5G Music Recovery - Recover Deleted Music from 10T 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-google-chromes-advanced-multiscreen-capabilities/"><u>2024 Approved  Explore Google Chrome's Advanced Multiscreen Capabilities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamlining-your-instagram-video-experience/"><u>2024 Approved  Streamlining Your Instagram Video Experience</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x8b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X8b Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fcps-ultimate-effect-upgrade-the-best-10-plugins/"><u>FCP’s Ultimate Effect Upgrade  The Best 10 Plugins</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-s17t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S17t in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-80-pro-straight-screen-edition-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 80 Pro Straight Screen Edition If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s21-fe-5g-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S21 FE 5G (2023) Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-c67-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme C67 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-narzo-n53-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Narzo N53 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-flip-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Flip Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-fault-recovered-and-running-smoothly/"><u>IGFX Fault: Recovered and Running Smoothly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-asus-rog-phone-8-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Asus ROG Phone 8 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-note-30i-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Note 30i Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-mp4-conversion-made-simple-fb-video-to-720p-1080p-at-zero-charge/"><u>In 2024, MP4 Conversion Made Simple  FB Video to 720P, 1080P at Zero Charge</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/playwrights-tactics-creating-compelling-dialogues-for-2024/"><u>Playwrights' Tactics  Creating Compelling Dialogues for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12-proplus-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12 Pro+ 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password-find-x7-ultra-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(Find X7 Ultra)</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-g54-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of G54 5G on Mac</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-13-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy A25 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://extra-information.techidaily.com/snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>Snappy Picture Assemblies  A Brisk Guide to Google Collages</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20-proplus-video-recovery-recover-deleted-videos-from-tecno-spark-20-proplus-by-fonelab-android-recover-video/"><u>Tecno Spark 20 Pro+ Video Recovery - Recover Deleted Videos from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-find-x6-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo Find X6</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-c210-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia C210 without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-reno-11-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Reno 11 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-100-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 100 without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-razr-40-ultra-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Razr 40 Ultra without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-nokia-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Nokia</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-a05s-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy A05s.</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-xiaomi-14-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-13-mini-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 13 mini takes time in scanning my iPhone? | Stellar</u></a></li>
+</ul></div>

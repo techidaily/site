@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to reinstall hardware drivers on Windows 10
-date: 2024-03-03 17:30:47
+date: 2024-08-01T18:46:20.147Z
 tags: 
   - driver
   - device driver
@@ -18,11 +18,17 @@ To reinstall a device’s driver in Windows Device Manager:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 
 - **Step3**: Expand a category to see the devices in that category. Right-click the device whose driver you’d like to reinstall, and select Uninstall.
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/5.jpg)
 
 - **Step4**: Restart your PC.
@@ -66,6 +72,13 @@ And without all these drivers, none of your devices will work.
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -78,6 +91,10 @@ There are two reasons why…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -94,6 +111,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -113,6 +133,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -139,3 +162,65 @@ To automatically update to the correct version of all the drivers that are missi
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[New] 2024 Approved  How to Skip the Slip-Ups  The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-2024s-premier-camera-lens-choices-the-ultimate-top-10-list/"><u>[New] 2024'S Premier Camera Lens Choices  The Ultimate Top 10 List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-current-applications-to-future-drone-horizons/"><u>[New] From Current Applications to Future Drone Horizons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-instagram-stardom-crafting-attractive-unboxing-videos/"><u>[New] Unlock Instagram Stardom  Crafting Attractive Unboxing Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-efficient-meeting-management-with-slack-and-filmora-tools/"><u>[Updated] 2024 Approved  Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-decoding-the-new-era-of-bite-sized-videos-for-2024/"><u>[Updated] Facebook   Decoding the New Era of Bite-Sized Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-facebook-giveaways-a-step-by-step-guide/"><u>[Updated] Mastering Facebook Giveaways  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-superior-free-reproduction-tools-for-switch-games-for-2024/"><u>[Updated] Superior Free Reproduction Tools for Switch Games for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-earnings-breakdown-youtubes-adsense-payments-by-thousands-of-views/"><u>2024 Approved  Earnings Breakdown  Youtube's AdSense Payments by Thousands of Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-innovators-to-watch-leading-av-and-acoustic-artisans/"><u>2024 Approved  Innovators to Watch  Leading Av & Acoustic Artisans</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-superior-online-emporiums-where-boxes-reflect-your-style/"><u>2024 Approved  Superior Online Emporiums  Where Boxes Reflect Your Style</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-yi-in-focus-the-future-of-4k-filmmaking/"><u>2024 Approved  Yi in Focus  The Future of 4K Filmmaking</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-google-pixel-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Google Pixel 8 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g13-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G13 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-manual-on-morphvox-sound-alteration/"><u>Comprehensive Manual on MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-tools-for-quality-4k-video-recording-for-2024/"><u>Essential Tools for Quality 4K Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/global-youtube-rich-list-pinnacle-for-2024/"><u>Global YouTube Rich List Pinnacle for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-driver-crash-averted-now-working-fine/"><u>GPU Driver Crash Averted, Now Working Fine</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-c53-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme C53 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-12-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus 12 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a1-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A1 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-x9a-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor X9a Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-ce-3-lite-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord CE 3 Lite 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-3-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 3 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-pop-8-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pop 8 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-100-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 100 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-zero-5g-2023-turbo-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Zero 5G 2023 Turbo phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-civi-3-disney-100th-anniversary-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Civi 3 Disney 100th Anniversary Edition phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to others devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-g24-power-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Motorola G24 Power Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-revolutionize-your-facebook-experience-with-auto-play-videos/"><u>In 2024, Revolutionize Your Facebook Experience with Auto-Play Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-swift-growing-youtube-sources-for-inspiration/"><u>In 2024, Unveiling the Swift-Growing YouTube Sources for Inspiration</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-galaxy-s24-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Galaxy S24</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-infinix-hot-40i-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Hot 40i</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic-5-lite-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic 5 Lite</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-lenovo-thinkphone-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Lenovo ThinkPhone on Windows</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-nokia-c12-plus-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Nokia C12 Plus</u></a></li>
+<li><a href="https://techidaily.com/sign-pdf-documents-online-for-free-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign PDF Documents Online for Free</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v20-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v2.0 File | Stellar</u></a></li>
+<li><a href="https://techidaily.com/tecno-data-retrieval-tool-restore-lost-data-from-tecno-spark-20-proplus-by-fonelab-android-recover-data/"><u>Tecno Data Retrieval tool – restore lost data from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-tecno-pova-5-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-redmi-k70-by-fonelab-android-recover-data/"><u>The way to get back lost data from Redmi K70</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12t-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12T Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-70-lite-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor 70 Lite 5G.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 7</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-reno-10-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo Reno 10 5G on Windows?</u></a></li>
+</ul></div>
