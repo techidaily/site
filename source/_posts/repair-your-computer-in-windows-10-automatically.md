@@ -1,7 +1,7 @@
 ---
 title: Repair Your Computer in Windows 10 Automatically
-date: 2024-08-14 18:45:21
-updated: 2024-08-16 12:31:26
+date: 2024-08-18T03:48:23.335Z
+updated: 2024-08-19T03:48:23.335Z
 tags:
   - win11
   - win10
@@ -58,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -90,14 +93,23 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Step 4: Perform a system restore
 
  When you have successfully booted into the Advanced repair option page, there is another thing that you can do: do a system restore, on the basis that you have turned this feature on previously. Here is how you do it:
@@ -130,10 +142,16 @@ chkdsk c: /r /x
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e3a862c3ed.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 3) Wait for the scan process to finish.
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -148,16 +166,25 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c40902d4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
  For more information about resetting your computer from the options listed, please refer to this post here:
   
 [**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
@@ -176,3 +203,53 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-essential-guide-to-vitas-complete-video-editing-software/"><u>[New] In 2024, The Essential Guide to Vita's Complete Video Editing Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-echoesexaminer-reviewing-recorded-voices/"><u>[Updated] 2024 Approved  EchoesExaminer  Reviewing Recorded Voices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-in-depth-recmaster-screen-capture-analysis/"><u>[Updated] 2024 Approved  In-Depth Recmaster Screen Capture Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revealing-clarity-mastering-the-eraser-feature-in-psx/"><u>[Updated] In 2024, Revealing Clarity  Mastering the Eraser Feature in PSX</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-launch-free-portable-dvd-software-today/"><u>[Updated] Launch Free, Portable DVD Software Today</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-turn-a-blank-slate-on-fb-videos-for-2024/"><u>[Updated] Turn a Blank Slate on FB Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-endless-buffering-solving-photo-booth-freezes/"><u>2024 Approved  Endless Buffering  Solving Photo Booth Freezes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-endorsed-techniques-for-iphone-audio-retrieval/"><u>2024 Approved  Expert-Endorsed Techniques for iPhone Audio Retrieval</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-beyond-youtube-with-these-top-5-video-tools/"><u>2024 Approved  Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Realme</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a56s-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 12R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-breakdown-for-switch-online-expansion/"><u>Budget Breakdown for Switch Online Expansion</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-asus-rog-phone-8-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Asus ROG Phone 8 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-20-proplus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark 20 Pro+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-130-music-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia 130 Music Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-mini-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 mini Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-mobile-entertainment-funimates-apk-pathway/"><u>In 2024, Step Into Mobile Entertainment  Funimate's APK Pathway</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A23 5G Phone</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-zero-30-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Zero 30 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2022-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2022) Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-vivo-x-fold-2-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Vivo X Fold 2</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/smooth-steps-top-20-chill-out-country-hits-for-grooving-tiktok/"><u>Smooth Steps  Top 20 Chill-Out Country Hits for Grooving (TikTok)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/streamlining-your-drone-footage-with-advanced-techniques-for-2024/"><u>Streamlining Your Drone Footage with Advanced Techniques for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-tecno-pova-5-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Tecno Pova 5</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-90-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 90 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-40-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 40 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-g310-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia G310 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-magic5-ultimate-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-y36-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Y36</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unleashing-potential-a-step-by-step-approach-to-youtube-links/"><u>Unleashing Potential  A Step-by-Step Approach to YouTube Links</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy F34 5G ?</u></a></li>
+<li><a href="https://techidaily.com/will-samsung-galaxy-z-flip-5-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Samsung Galaxy Z Flip 5 play AVCHD mts files?</u></a></li>
+</ul></div>

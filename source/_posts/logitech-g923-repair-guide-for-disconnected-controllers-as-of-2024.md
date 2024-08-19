@@ -1,7 +1,7 @@
 ---
 title: Logitech G923 Repair Guide for Disconnected Controllers as of 2024
-date: 2024-08-14 14:13:29
-updated: 2024-08-16 11:32:18
+date: 2024-08-18T03:41:18.157Z
+updated: 2024-08-19T03:41:18.157Z
 tags:
   - win11
   - win10
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/b715f9d9400fe89c8b9a306e0f9ed90d4ce3c93f7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### How can I set up a VPN on Xbox One?
 
  There are two methods to set up a VPN for Xbox One: through either your Wi-Fi router or your computer. The step-by-step guides for both ways will be shown below.  
@@ -82,10 +85,17 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
  Usually it’s located in the tab called ‘**Basic** ‘, ‘**Network** ‘, or ‘**WAN Setup** ‘. It varies from different router models.  
@@ -93,12 +103,18 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
@@ -131,6 +147,9 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
@@ -175,3 +194,43 @@ Enjoy playing Xbox One games!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-capture-igtv-media-step-by-step-guide-for-pc-and-mac-devices-for-2024/"><u>[New] Capture IGTV Media  Step-by-Step Guide for PC & Mac Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-videos-with-tiktok-effects/"><u>[New] Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckling-challenge-brainstroming-7-humorous-youtube-videos-for-2024/"><u>[Updated] Chuckling Challenge  Brainstroming 7 Humorous YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-flying-rivals-dji-drone-vs-gopro/"><u>[Updated] High-Flying Rivals  DJI Drone vs GoPro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>[Updated] The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>2024 Approved  Mastering Soundscapes  The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-brightening-essentials-stepwise-demystification/"><u>Android Brightening Essentials - Stepwise Demystification</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-ubisoft-connect-problems-expert-advice-for-players/"><u>Bypassing Ubisoft Connect Problems: Expert Advice for Players</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-itel-a05s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel A05s Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-12-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-6-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 6 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 14 Pro to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y100t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100t without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-pova-6-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-reel-to-share-creating-perfect-vt-videos-in-fcpx/"><u>In 2024, From Reel to Share  Creating Perfect VT Videos in FCPX</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-goovision-chromium-captures-on-screen/"><u>In 2024, GooVision  Chromium Captures On-Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-x-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone X Is Unlocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-the-common-windows-update-error-code-0x80070652/"><u>Quick Solutions: Resolving the Common Windows Update Error Code 0X80070652</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password-yuva-2-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(Yuva 2)</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Realme unlock screen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-poco-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Poco</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-a2-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi A2 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192562-transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-11-proplus-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme 11 Pro+</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-find-x6-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Find X6 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A78 | Dr.fone</u></a></li>
+</ul></div>

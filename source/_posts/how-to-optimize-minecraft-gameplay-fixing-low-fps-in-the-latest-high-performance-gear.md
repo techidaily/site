@@ -1,7 +1,7 @@
 ---
 title: "How to Optimize Minecraft Gameplay: Fixing Low FPS in the Latest High-Performance Gear"
-date: 2024-08-13 15:51:56
-updated: 2024-08-16 10:50:22
+date: 2024-08-18T03:40:08.511Z
+updated: 2024-08-19T03:40:08.511Z
 tags:
   - win11
   - win10
@@ -53,6 +53,9 @@ Once done, restart your game and check the performance.
 
 If you don’t see any changes, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Fix 2: Check for system updates
 
  Windows 11 is fairly new, and the devs are still working on some major bugs. If you want to get the latest system updates, you can get one step ahead of the schedule checking and check for updates manually.
@@ -60,12 +63,18 @@ If you don’t see any changes, simply continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the system updates, restart your PC and check the gameplay.
 
 If the performance is still crappy, take a look at the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update all your drivers
 
  The latest computer drivers improve overall stability and performance. And this is especially true for gaming PCs, as they usually need the up-to-date GPU drivers to unleash the full potential on new titles. So if you don’t remember when was the last time you checked for driver updates, definitely do it now.
@@ -76,6 +85,9 @@ If the performance is still crappy, take a look at the next method.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
@@ -96,12 +108,22 @@ If the performance is still crappy, take a look at the next method.
 1. On your keyboard, press Win+R (the Windows logo key and the R key) to open the Run dialog. Type**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
 4. Make sure**Memory integrity** is set to**Off** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
 5. Restart your computer and test the gameplay again.
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 
  If this trick doesn’t do the charm for you, check out the next method below.
 
@@ -114,6 +136,10 @@ If the performance is still crappy, take a look at the next method.
 2. In the**Other users** section, click**Add account** . In the pop-up window, follow the on-screen instructions to complete the process. (You can just create a local account so you won’t need another Microsoft account.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user.jpg)
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 
 ### Fix 6: Scan and repair Windows
 
@@ -149,3 +175,43 @@ If the performance is still crappy, take a look at the next method.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-lenovo-perfecting-screen-capture-techniques/"><u>[New] Mastering Lenovo  Perfecting Screen Capture Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speedy-fixes-for-slow-mo-videos-in-a-flash/"><u>[New] Speedy Fixes for Slow-Mo Videos in a Flash</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bidding-farewell-to-ads-in-the-win-11-startup/"><u>Bidding Farewell to Ads in the Win 11 Startup</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-lava-yuva-2-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Yuva 2 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-miles-morales-elevates-the-spider-verse-a-comprehensive-review/"><u>How Miles Morales Elevates the Spider-Verse: A Comprehensive Review</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a38-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A38 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 12 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-neo-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Neo Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X Flip without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-p55-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P55 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y28-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y28 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-x-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone X and iPad?</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-x-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone X Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2020-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2020) Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-smart-8-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Smart 8 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-easy-cross-posting-of-tiktok-videos-on-fb/"><u>In 2024, Navigating Easy Cross-Posting of TikTok Videos on FB</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-synthesizing-elements-crafting-a-captivating-youtube-video-start/"><u>In 2024, Synthesizing Elements  Crafting a Captivating YouTube Video Start</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-12-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 12 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-a54-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Asus ROG Phone 8</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-blaze-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Blaze 2</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-premier-photography-frame-selection-24/"><u>The Premier Photography Frame Selection '24</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-10t-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on 10T 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-reno-11-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo Reno 11 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-realme-c55-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Realme C55 fingerprint</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-premier-free-mp3-harmonizer-software/"><u>Updated Premier Free MP3 Harmonizer Software</u></a></li>
+<li><a href="https://techidaily.com/will-huawei-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Huawei play AVCHD mts files?</u></a></li>
+</ul></div>

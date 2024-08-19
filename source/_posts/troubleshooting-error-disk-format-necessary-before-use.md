@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Error: Disk Format Necessary Before Use"
-date: 2024-08-14 19:41:10
-updated: 2024-08-16 12:13:20
+date: 2024-08-18T03:41:39.429Z
+updated: 2024-08-19T03:41:39.429Z
 tags:
   - win11
   - win10
@@ -68,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Method 3: Check if your card reader is disabled
 
  If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
@@ -76,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
@@ -84,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Method 4: Test your SD card in another PC
 
  If your SD card is faulty, your PC won’t recognize it. To check, you’ll need to locate another PC with a card reader, and test your SD card in that computer, to see if it works.
@@ -112,10 +121,16 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
  4) Go to**Driver** tab. Click**Disable Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
@@ -128,6 +143,9 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ---
 
  We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
@@ -146,3 +164,52 @@ If you’re not sure how to do that, refer steps below:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[Updated] The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>2024 Approved  Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xr-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XR without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-x50-gt-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor X50 GT Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-nokia-105-classic-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Nokia 105 Classic.</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V27 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-rings-battery-powered-smart-video-doorbell/"><u>Expert Insights on Ring's Battery-Powered Smart Video Doorbell</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167382104-free-isnt-always-best-explore-these-5-reasons-to-pay-up/"><u>Free Isn't Always Best: Explore These 5 Reasons to Pay Up!</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-gt-5-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme GT 5 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-note-13-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi Note 13 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-go-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark Go (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y36-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y36 Lock Screen Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6s-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6s Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-14-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 14 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-7-plus-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 7 Plus to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-magic-v2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor Magic V2 Phone Hassle-Free</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-meizu-21-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Meizu 21 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-elite-free-vst-plugin-catalogue-top-picks-and-downloading-platforms/"><u>New 2024 Approved The Elite Free VST Plugin Catalogue Top Picks and Downloading Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-installation-hurdles-a-solution-for-securing-age-of-empires-iv-from-the-ms-store/"><u>Overcoming Installation Hurdles: A Solution for Securing Age of Empires IV From the MS Store</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-c51-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of C51</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stylish-and-functional-the-top-10-gear-for-sj4000-enthusiasts/"><u>Stylish and Functional  The Top 10 Gear for SJ4000 Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno without backup.</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-15-plus-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 15 Plus SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-viral-victory-hot-talk-highlights-for-2024/"><u>Twitter's Viral Victory  Hot Talk Highlights for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings-for-2024/"><u>Ultimate Source Guide  Buying and Downloading Your Favorite YouTube Rings for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Hot 40</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-90-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor 90 password or pattern lock</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-yuva-2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Yuva 2</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi A2 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
