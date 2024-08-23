@@ -1,7 +1,7 @@
 ---
 title: Optimized with Advanced Web Tracking - The Power of Cookiebot Technology
-date: 2024-08-21 11:52:21
-updated: 2024-08-22 12:39:30
+date: 2024-08-22T08:27:31.979Z
+updated: 2024-08-23T08:27:31.979Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce5256805ecd4c390c919b578ebe.jpg
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 **プロセスインテリジェンスは、ビジネスオペレーションの分析と強化に特化した、データ主導型の機能の組み合わせです**。企業独自の情報システムからのデータを使用して、新たな業務効率化への道を指し示すパターンとインサイトを明確に示します。**持続可能なプロセスインテリジェンスに不可欠な5つの柱は、プロセスディスカバリー、プロセス分析、プロセスモニタリング、プロセス予測、プロセスシミュレーションです**。組織はこれらのインサイトを利用して、プロセスの発見、理解、実行管理をより効果的に行うことができます。
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### プロセスインテリジェンスの5つの柱
 
 #### 1\. プロセスディスカバリー 
@@ -57,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 プロセスシミュレーションは、過去のプロセス履歴を活用して自動的にシミュレーションを構築する手法です。このモデルは、プロセス自体やリソースの割り当てを変更した場合の影響を実際に導入する前に把握できるようにするため、提案された変更に合わせて調整することができます。例えば、銀行はこのアプローチを使って、融資承認部門の人員配置レベルを変更した場合の影響を理解することができます。これにより、リーダーはリソース配分やプロセス変更に関する情報に基づいた意思決定を行うことができ、最終的には業務効率の最適化と顧客満足度の向上につながります。
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## プロセスインテリジェンスのメリットとは？ 
 
 従来のビジネスプロセス改善手法は、手作業による観察、インタビュー、調査に大きく依存していました。これらはいずれも主観的になりやすく、また時間がかかってしまうという課題がありました。これに対して、プロセスインテリジェンスは、企業が保有するシステムからのデータにアクセスしてプロセス最適化を推進し、継続的な改善を可能にするためのモニタリングを自動化します。 
@@ -77,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 どのような業界でも、[デジタルトランスフォーメーション戦略にプロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/)を組み込むことで、組織は提案された変更の将来的な影響を評価し、より効果的に移行を管理し、実装された自動化ステップのパフォーマンスを確保し、継続的な改善のためのフィードバックループを確保することができます。業界を問わず、企業はプロセスインテリジェンスを活用し、さまざまなユースケースで成果を上げています。
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 医療機関 
 
 病院やその他の医療機関は、プロセスインテリジェンスを活用することで、患者体験と臨床効果を改善し、品質基準を維持し、コンプライアンスリスクを回避することができます。臨床業務をリアルタイムで監視し、プロトコルが守られていない場合やプロセスの逸脱が検出された場合には積極的にスタッフにアラートを発しながら、コンプライアンスの遵守をサポートしてくれます。 
@@ -113,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 [体験版を申し込む](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## よくある質問 
 
 [プロセスインテリジェンス戦略とは？](https://tools.techidaily.com/abbyy/products/)
@@ -145,6 +157,11 @@ Chief Technology Officer at ABBYY
 
 スコット・オーピッツは、最高技術責任者として、グローバルな製品戦略開発とその遂行を担当しています。それ以前は、マーケティング部門の最高責任者として、グローバルなマーケティング戦略を担当していました。ABBYYには、TimelinePIの買収に伴い入社しました。共同設立者として立ち上げたTimelinePIでは設立時から、社長兼CEOを務めていました。この役職において、TimelinePIのプロセスインテリジェンス製品(現在の
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -207,10 +224,16 @@ Connect with us
 [プロセスインテリジェンスとIPAの組み合わせ](https://tools.techidaily.com/abbyy/products/)  
 [よくある質問](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## プロセスインテリジェンスとは？ 
 
 **プロセスインテリジェンスは、ビジネスオペレーションの分析と強化に特化した、データ主導型の機能の組み合わせです**。企業独自の情報システムからのデータを使用して、新たな業務効率化への道を指し示すパターンとインサイトを明確に示します。**持続可能なプロセスインテリジェンスに不可欠な5つの柱は、プロセスディスカバリー、プロセス分析、プロセスモニタリング、プロセス予測、プロセスシミュレーションです**。組織はこれらのインサイトを利用して、プロセスの発見、理解、実行管理をより効果的に行うことができます。
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### プロセスインテリジェンスの5つの柱
 
 #### 1\. プロセスディスカバリー 
@@ -251,14 +274,37 @@ Connect with us
 
 **コスト削減** プロセスインテリジェンスは、企業がコスト削減を実現する強力な手段です。具体的には、非効率なプロセスを特定・排除することで、運用コストを削減することができます。費用対効果の高いリソースの割り当てを可能にし、手作業による介入やエラーに伴う不必要な出費を回避するのにも役立ちます。 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## プロセスインテリジェンスの使用例 
 
 どのような業界でも、[デジタルトランスフォーメーション戦略にプロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/)を組み込むことで、組織は提案された変更の将来的な影響を評価し、より効果的に移行を管理し、実装された自動化ステップのパフォーマンスを確保し、継続的な改善のためのフィードバックループを確保することができます。業界を問わず、企業はプロセスインテリジェンスを活用し、さまざまなユースケースで成果を上げています。
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 医療機関 
 
 病院やその他の医療機関は、プロセスインテリジェンスを活用することで、患者体験と臨床効果を改善し、品質基準を維持し、コンプライアンスリスクを回避することができます。臨床業務をリアルタイムで監視し、プロトコルが守られていない場合やプロセスの逸脱が検出された場合には積極的にスタッフにアラートを発しながら、コンプライアンスの遵守をサポートしてくれます。 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### 銀行 
 
 プロセスインテリジェンスは、銀行をはじめとする金融機関がデジタルトランスフォーメーションを推進し、リスク管理および規制遵守の優先事項をサポートします。金融機関は、ほぼリアルタイムで取引データを分析することにより、顧客サービスの向上、報告精度の向上、コストのかかるエラーのリスク低減を実現できます。プロセスモニタリングは、サービスレベル合意 (SLA)、コンプライアンス要件、法令順守を確実に維持するのに役立ち、見落とされがちなコストのかかるミス防止に貢献します。 
@@ -267,6 +313,9 @@ Connect with us
 
 保険会社は、プロセスインテリジェンスを活用することで、リスク評価、リスク選別、引受決定をより効率的に行うことができます。また、自動化されたモニタリングと修復によりコンプライアンスを強化し、データのストレートスルー処理を可能にすることで生産性を向上させることもできます。プロセス分析は、社内スタッフだけでなく、契約アジャスター、外部サポート組織、その他のパートナーにもビジネス上の価値を提供します。 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## プロセスインテリジェンスとインテリジェントプロセスオートメーションの組み合わせ 
 
 デジタルトランスフォーメーションとは、事業のあらゆる分野にデジタル技術を統合し、事業の運営方法や顧客への価値の提供方法を根本的に変えることを意味しています。DX を成功させるには、テクノロジー、人材、プロセスをどのように活用するかについて組織全体で抜本的な見直しを行う必要があります。[インテリジェントプロセスオートメーション（IPA）](https://tools.techidaily.com/abbyy/products/)は、この変革の中心にあります。人工知能（AI）と自動化を組み合わせたIPAは、状況に合わせて適応・進化するスマートな業務プロセスを実現します。
@@ -341,3 +390,48 @@ Share
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-precision-preservation-adding-dates-to-photos-with-ease/"><u>[New] In 2024, Precision Preservation  Adding Dates to Photos with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-techniques-for-effortless-documentation-of-your-online-classesmeets/"><u>[New] In 2024, Top Techniques for Effortless Documentation of Your Online Classes/Meets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>[New] Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
+<li><a href="https://techidaily.com/solved-download-directx-12-for-windows-11/"><u>[SOLVED] Download DirectX 12 for Windows 11</u></a></li>
+<li><a href="https://techidaily.com/easy-tutorial-updating-and-downloading-epson-scanner-software-compatible-with-windows-11/"><u>Easy Tutorial: Updating and Downloading Epson Scanner Software Compatible with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/effortless-driver-updates-for-windows-7810-systems-a-guide/"><u>Effortless Driver Updates for Windows 7/8/10 Systems - A Guide</u></a></li>
+<li><a href="https://techidaily.com/expert-tutorial-enabling-and-using-remote-desktop-feature-in-windows-11/"><u>Expert Tutorial: Enabling and Using Remote Desktop Feature in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/exploring-vpn-tunneling-protocols-an-overview-and-typology/"><u>Exploring VPN Tunneling Protocols: An Overview and Typology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-accessible-entertainment-on-crackle-see-movies-and-shows-at-zero-cost/"><u>Get Accessible Entertainment on Crackle – See Movies & Shows at Zero Cost!</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-icon-size-on-windows-11/"><u>How to Change Icon Size on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 11 Pro Max Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-securely-transfer-windows-11-documents-in-just-seven-steps/"><u>How to Securely Transfer Windows 11 Documents in Just Seven Steps!</u></a></li>
+<li><a href="https://techidaily.com/how-to-unblock-torrent-sites-or-check-torrent-site-alternatives/"><u>How to Unblock Torrent Sites (Or Check Torrent Site Alternatives)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-12-mini-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 12 mini? How to Fix it?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-g84-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto G84 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/instant-vpn-configuration-tips-a-simple-step-by-step-process-for-secure-browsing/"><u>Instant VPN Configuration Tips: A Simple Step-by-Step Process for Secure Browsing</u></a></li>
+<li><a href="https://howto.techidaily.com/instinct-mi1300-sales-outlook-raised-by-amd-to-4-billion-lags-behind-nvidias-projected-10x-at-40b/"><u>Instinct MI1300 Sales Outlook Raised by AMD to $4 Billion, Lags Behind Nvidia's Projected 10X at $40B</u></a></li>
+<li><a href="https://techidaily.com/master-safe-mode-on-windows-10-explore-4-effective-methods-and-their-screenshots/"><u>Master Safe Mode on Windows 10: Explore 4 Effective Methods and Their Screenshots</u></a></li>
+<li><a href="https://techidaily.com/maximize-your-pubg-matches-expert-strategies-to-skyrocket-fps-in-2020/"><u>Maximize Your PUBG Matches: Expert Strategies to Skyrocket FPS in 2020</u></a></li>
+<li><a href="https://techidaily.com/overcome-high-disk-usage-problems-a-successful-fix-for-windows-10s-task-manager-dilemma/"><u>Overcome High Disk Usage Problems - A Successful Fix for Windows 10’S Task Manager Dilemma</u></a></li>
+<li><a href="https://techidaily.com/quick-fix-removing-temporary-data-and-cache-for-a-smoother-windows-10-experience/"><u>Quick Fix: Removing Temporary Data & Cache for a Smoother Windows 10 Experience</u></a></li>
+<li><a href="https://techidaily.com/quick-guide-how-to-seamlessly-translate-pages-with-google-chrome-mozilla-firefox-and-microsoft-edge/"><u>Quick Guide: How to Seamlessly Translate Pages with Google Chrome, Mozilla Firefox, and Microsoft Edge</u></a></li>
+<li><a href="https://techidaily.com/reset-this-pc-windows-11-when-and-how-to-use-it/"><u>Reset This PC Windows 11 - When & How to Use It</u></a></li>
+<li><a href="https://techidaily.com/simple-guide-discovering-your-pcs-specifications-on-windows-11/"><u>Simple Guide: Discovering Your PC's Specifications on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-for-finding-deleted-microsoft-word-documents-on-windows-10-plus-images/"><u>Simple Steps for Finding Deleted Microsoft Word Documents on Windows 10 + Images!</u></a></li>
+<li><a href="https://techidaily.com/sleeker-starts-for-windows-10-systems-mastering-quick-boots/"><u>Sleeker Starts for Windows 10 Systems – Mastering Quick Boots</u></a></li>
+<li><a href="https://techidaily.com/solution-found-thaw-your-stalled-windows-update-now/"><u>Solution Found: Thaw Your Stalled Windows Update Now</u></a></li>
+<li><a href="https://techidaily.com/solving-non-functional-f8-on-windows-11-a-step-by-step-guide-for-successful-access-to-safe-mode/"><u>Solving Non-Functional F8 on Windows 11: A Step-by-Step Guide for Successful Access to Safe Mode</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-capturing-high-quality-videos-directly-from-your-pc/"><u>Step-by-Step Guide: Capturing High-Quality Videos Directly From Your PC</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-creating-a-bootable-win-11-usb-drive-from-iso-file/"><u>Step-by-Step Guide: Creating a Bootable Win 11 USB Drive From ISO File</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-techniques-to-overcome-latency-problems-with-your-logitech-mouse/"><u>Step-by-Step Techniques to Overcome Latency Problems with Your Logitech Mouse</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-configuring-a-three-monitor-workstation/"><u>Step-by-Step Tutorial on Configuring a Three-Monitor Workstation</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-enablingdisabling-hibernate-mode-for-windows-10-users/"><u>Step-by-Step Tutorial on Enabling/Disabling Hibernate Mode for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/successful-guide-disabling-onedrive-integration-in-windows-11-file-explorer/"><u>Successful Guide: Disabling OneDrive Integration in Windows 11 File Explorer</u></a></li>
+<li><a href="https://techidaily.com/tech-guide-detailed-steps-to-perform-a-complete-factory-reset-on-your-toshiba-computer/"><u>Tech Guide: Detailed Steps to Perform a Complete Factory Reset on Your Toshiba Computer</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-comic-strip-conundrum-facebooks-new-policy/"><u>The Comic Strip Conundrum: Facebook’s New Policy</u></a></li>
+<li><a href="https://techidaily.com/top-rated-vpn-services-for-enhancing-your-pc-gaming-experience/"><u>Top Rated VPN Services for Enhancing Your PC Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-resolving-windows-11-desktop-apps-and-data-sync-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Desktop Apps and Data Sync Issues</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-steps-for-reinstating-your-network-cards-driver-on-windows-10-devices/"><u>Troubleshooting Steps for Reinstating Your Network Card's Driver on Windows 10 Devices</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-your-audio-recordings-essential-tips-for-using-microsofts-voice-recording-tool-in-windows-11/"><u>Troubleshooting Your Audio Recordings: Essential Tips for Using Microsoft's Voice Recording Tool in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitter-vids-to-mp3-easy-extraction-techniques-for-2024/"><u>Twitter Vids to MP3  Easy Extraction Techniques for 2024</u></a></li>
+</ul></div>

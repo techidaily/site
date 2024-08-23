@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Document Scanning: Unleash the Best in ABBYY FineScanner Mobile App"
-date: 2024-08-21 21:36:43
-updated: 2024-08-22 10:40:59
+date: 2024-08-22T08:28:00.422Z
+updated: 2024-08-23T08:28:00.422Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8ad5bcae0b9a32715b7cc063.jpg
@@ -55,6 +55,9 @@ Moreover, we want you to be able to find the photos that you need even quicker t
 
 ![search_fs_8](https://static1.abbyy.com/abbyycommedia/31421/search_fs_8.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 Simply begin typing your search phrase into the bar at the top of the Gallery screen. You can also search through documents from a specific category (e.g. A4) by navigating to the appropriate document category folder and searching there. Doing so will restrict your search to that specific document type.
 
 ## Activating the new smart gallery and the search feature
@@ -103,6 +106,9 @@ To learn more about key updates for other ABBYY mobile apps that have been imple
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -155,6 +161,9 @@ Connect with us
 
 ![](https://static4.abbyy.com/abbyycommedia/31472/fs-8-blog-main-no-sign.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Editorial note: FineReader PDF Mobile for Android, Business Card Reader for Android, and Text Grabber for Android & iOS have been discontinued since September 2023\. You can learn more about that [here](https://tools.techidaily.com/abbyy/products/)._
 
 ---
@@ -183,6 +192,9 @@ Sections for the various document formats will be displayed at the top of the Ga
 
 ![classification_search_fs_8](https://static1.abbyy.com/abbyycommedia/31422/classification_search_fs_8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 “Training” our neural network involved studying tens of thousands of photographs provided by a multitude of ABBYY employees. Artificial intelligence, like any diligent student, requires a wealth of knowledge to learn from. As part of this process, ABBYY developers meticulously marked out each provided photo by hand. This was how the AI was “taught” the difference between books and A4 documents, business cards and ID’s, and so on. We decided to implement seven distinct sections for the most popular document types uploaded to [FineScanner](https://go.onelink.me/0oMB/2b084a0a). This data was obtained by means of a questionnaire answered by our users.
 
 According to testing results, the accuracy of classification is approximately 90 – 95%. But it depends on the quality of photos in your gallery.
@@ -195,6 +207,9 @@ Moreover, we want you to be able to find the photos that you need even quicker t
 
 Simply begin typing your search phrase into the bar at the top of the Gallery screen. You can also search through documents from a specific category (e.g. A4) by navigating to the appropriate document category folder and searching there. Doing so will restrict your search to that specific document type.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Activating the new smart gallery and the search feature
 
 And now for some technical details – let’s have a look at how it all actually works. Once you have updated [FineScanner](https://go.onelink.me/0oMB/2b084a0a), you need to activate the smart gallery and text search features.
@@ -227,6 +242,9 @@ To measure your document using augmented reality, do the following:
 
 ![arkit_fs_8](https://static1.abbyy.com/abbyycommedia/31423/arkit_fs_8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If the size of your document corresponds to one of the standard sizes (e.g. A4 or driver’s license), [FineScanner](https://go.onelink.me/0oMB/2b084a0a) will ask you whether you want to set the document to be treated as a document of that particular size. For documents of non-standard size, you can choose to save the detected size for later use. To do so, tap the detected document measurements and switch “Save to list” to “On”. Once that is done, specify a name for your new format, for example, “Flyer”.
 
 The sooner [you update your FineScanner app](https://go.onelink.me/0oMB/2b084a0a), the sooner you’ll be able to try out all of these new features! We look forward to reading your feedback and requests on the application page in both the App Store and Google Play.
@@ -241,6 +259,9 @@ To learn more about key updates for other ABBYY mobile apps that have been imple
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share
@@ -259,3 +280,59 @@ Share
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-11-missing/"><u>[Fixed] Advanced Display Settings Windows 11 Missing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-amplify-youtube-twits-with-superior-hd-views/"><u>[New] In 2024, Amplify YouTube Twits with Superior HD Views</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-snapping-your-view-on-windows-devices-for-2024/"><u>[New] Snapping Your View on Windows Devices for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-efficient-zooming-strategies-for-youtube-videos/"><u>[Updated] Efficient Zooming Strategies for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-excellent-screen-grabber-aid-for-youtube-content-creators/"><u>[Updated] In 2024, Excellent Screen Grabber Aid for YouTube Content Creators</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-transforming-raw-footage-into-polished-youtube-videos-with-finalcut/"><u>[Updated] In 2024, Transforming Raw Footage Into Polished YouTube Videos with FinalCut</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-thriving-onscreen-financial-growth-in-the-youtube-arena/"><u>[Updated] Thriving Onscreen  Financial Growth in the YouTube Arena</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-time-stamping-your-photos/"><u>2024 Approved  The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unraveling-video-dimensions-a-complete-approach-for-yt-content/"><u>2024 Approved  Unraveling Video Dimensions  A Complete Approach for YT Content</u></a></li>
+<li><a href="https://techidaily.com/1723808292958-2024-techniques-step-up-your-game-with-improved-fortnite-fps/"><u>2024 Techniques: Step Up Your Game with Improved Fortnite FPS!</u></a></li>
+<li><a href="https://techidaily.com/1723808129333-disable-windows-defender-on-windows-10-3-ways/"><u>Disable Windows Defender on Windows 10 – 3 Ways</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-gaming-audio-with-steelseries-arctis-5-download-and-instructions/"><u>Enhance Your Gaming Audio with SteelSeries Arctis 5: Download & Instructions</u></a></li>
+<li><a href="https://techidaily.com/1723808237896-getting-your-pc-ready-for-enhanced-innovation-with-windows-11-creators-updates-key-steps/"><u>Getting Your PC Ready for Enhanced Innovation with Windows 11 Creator's Updates: Key Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-infinix-note-30-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Infinix Note 30 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-civi-3-disney-100th-anniversary-edition-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Civi 3 Disney 100th Anniversary Edition using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/icecream-screen-recorder-indepth-review-for-2024/"><u>Icecream Screen Recorder Indepth Review for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-12-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-xs-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone XS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-12-techniques-for-storing-web-based-songs-for-2024/"><u>In-Depth Look at 12 Techniques for Storing Web-Based Songs for 2024</u></a></li>
+<li><a href="https://techidaily.com/1723808000322-premier-mac-video-editing-software-by-apple-elevate-your-editing-skills-today/"><u>Premier Mac Video Editing Software by Apple - Elevate Your Editing Skills Today!</u></a></li>
+<li><a href="https://techidaily.com/resolving-windows-10-installation-issue-fix-error-code-80/"><u>Resolving Windows 10 Installation Issue - Fix Error Code 80 #</u></a></li>
+<li><a href="https://techidaily.com/seamless-website-translation-swift-conversion-in-chrome-firefox-and-edge/"><u>Seamless Website Translation: Swift Conversion in Chrome, Firefox & Edge</u></a></li>
+<li><a href="https://techidaily.com/simple-guide-capturing-images-on-your-pc-using-windows-7/"><u>Simple Guide: Capturing Images on Your PC Using Windows 7</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-to-determine-your-current-windows-operating-system/"><u>Simple Steps to Determine Your Current Windows Operating System</u></a></li>
+<li><a href="https://techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily!</u></a></li>
+<li><a href="https://techidaily.com/solving-frame-rate-issues-why-do-i-experience-drop-in-frames-per-second-fps-while-playing-diablo-4-on-pc/"><u>Solving Frame Rate Issues: Why Do I Experience Drop in Frames Per Second (FPS) While Playing Diablo 4 on PC?</u></a></li>
+<li><a href="https://techidaily.com/step-inside-the-boot-options-of-windows-10-with-this-comprehensive-guide/"><u>Step Inside the Boot Options of Windows 10 with This Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-boot-your-windows-7vistaxp-into-safe-mode/"><u>Step-by-Step Guide: Boot Your Windows 7/Vista/XP Into Safe Mode</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-enabling-wireless-internet-on-your-computer-or-laptop/"><u>Step-by-Step Guide: Enabling Wireless Internet on Your Computer or Laptop</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-removing-temp-files-on-windows-10-made-easy/"><u>Step-by-Step Guide: Removing Temp Files on Windows 10 Made Easy</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-repairing-drag-and-drop-mechanism-in-windows-environment/"><u>Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment</u></a></li>
+<li><a href="https://techidaily.com/stop-mouse-acceleration-easily-tips-and-tricks-inside/"><u>Stop Mouse Acceleration Easily - Tips & Tricks Inside</u></a></li>
+<li><a href="https://techidaily.com/successful-resolution-overcoming-windows-10-setup-issues/"><u>Successful Resolution: Overcoming Windows 10 Setup Issues</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/surround-yourself-with-silence-and-symphony-the-ultimate-collection-of-natural-sounds-on-mobile/"><u>Surround Yourself with Silence and Symphony The Ultimate Collection of Natural Sounds on Mobile</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>Tailor Your Text to Voice  Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
+<li><a href="https://techidaily.com/1723808292864-the-moody-chart-is-used-to-find-the-friction-factor-f-for-calculating-pressure-drops-in-both-laminar-and-turbulent-flows-within-pipes/"><u>The Moody Chart Is Used to Find the Friction Factor (F) for Calculating Pressure Drops in Both Laminar and Turbulent Flows Within Pipes.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-what-you-need-to-know-before-investing-in-a-smart-tv/"><u>The Ultimate Checklist: What You Need to Know Before Investing in a Smart TV</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktok-to-mp4-quick-and-easy-file-download-and-conversion-for-2024/"><u>TikTok to MP4  Quick and Easy File Download & Conversion for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-c12-plus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia C12 Plus for Parents | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshoot-standard-video-glitches/"><u>Troubleshoot Standard Video Glitches</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-audio-issues-in-windows-nt-an-in-depth-tutorial-for-checking-mic-performance/"><u>Troubleshooting Audio Issues in Windows nT: An In-Depth Tutorial for Checking Mic Performance</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-external-hard-drives-not-detected-on-windows-11-systems-expert-solutions/"><u>Troubleshooting External Hard Drives Not Detected on Windows 11 Systems: Expert Solutions</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-fixing-sluggish-windows-11-startup-times/"><u>Troubleshooting Tips: Fixing Sluggish Windows 11 Startup Times</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-windows-11-user-authentication-problems-solutions-inside/"><u>Troubleshooting Windows 11 User Authentication Problems - Solutions Inside!</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-correct-steps-to-format-your-hard-drive-and-avoid-errors/"><u>Troubleshooting: Correct Steps to Format Your Hard Drive and Avoid Errors</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-create-a-bootable-usb-drive-from-windows-10-iso/"><u>Ultimate Guide: Create a Bootable USB Drive From Windows 10 ISO</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-configuring-remote-access-for-your-windows-10-machine/"><u>Ultimate Tutorial on Configuring Remote Access for Your Windows 10 Machine</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-resetting-your-pc-to-factory-settings-in-windows-11-a-step-by-step-approach/"><u>Ultimate Tutorial on Resetting Your PC to Factory Settings in Windows 11 – A Step by Step Approach</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-secrets-of-windows-10s-boot-configuration-a-step-by-step-guide/"><u>Unlocking the Secrets of Windows 10'S Boot Configuration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/windows-11-guide-improve-your-gaming-experience-by-disabling-mouse-acceleration/"><u>Windows 11 Guide: Improve Your Gaming Experience by Disabling Mouse Acceleration</u></a></li>
+<li><a href="https://techidaily.com/wirelessly-projecting-laptop-content-on-a-television-with-an-hdmi-connection-a-visual-guide/"><u>Wirelessly Projecting Laptop Content on a Television with an HDMI Connection - A Visual Guide</u></a></li>
+</ul></div>

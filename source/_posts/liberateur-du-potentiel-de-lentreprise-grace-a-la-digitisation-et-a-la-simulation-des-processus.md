@@ -1,7 +1,7 @@
 ---
 title: Libérateur Du Potentiel De L'entreprise Grâce À La Digitisation Et À La Simulation Des Processus
-date: 2024-08-20 22:24:44
-updated: 2024-08-22 12:41:45
+date: 2024-08-22T08:23:41.906Z
+updated: 2024-08-23T08:23:41.906Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a552d02652e6a8d502a42f3f.jpg
@@ -49,6 +49,9 @@ Les jumeaux numériques ont permis d’accélérer les innovations dans l’ing�
 
 ![process-simulation-image](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/realizing-promise-of-digital-twins-with-process-simulation/process-simulation-image-2024-03-05-23-51-33-401.png?h=477&w=848)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Exemples dans différents secteurs d’activité 
 
 ##### Santé 
@@ -67,6 +70,9 @@ Une banque veut accélérer son processus d’approbation des prêts. Après avo
 
 Un vendeur en ligne veut optimiser son processus de retour des produits afin d’améliorer la satisfaction de ses clients. En simulant les changements comme la mise en place d’un remboursement instantané, la simplification des étiquettes de retour ou la mise à disposition d’un service de ramassage, il peut évaluer l’impact sur la fidélisation des clients, sur les frais de fonctionnement et sur la gestion des stocks. 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tester les processus 
 
 Dans l’ingénierie, le passage de plans statiques de production à des jumeaux numériques dynamiques a changé la donne. Dans le domaine des processus métier, nous sommes à une croisée similaire des chemins. La [process discovery](https://tools.techidaily.com/abbyy/products/) (découverte des processus) permet d’avoir le plan mais ne pas faire de simulation, c’est comme concevoir un réacteur sans jamais le tester en conditions réelles de vol. 
@@ -133,3 +139,57 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[New] In 2024, Capture Perfection  The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ace-the-game-crafting-a-pro-gaming-channels-success-story/"><u>[Updated] In 2024, Ace the Game  Crafting a Pro Gaming Channels Success Story</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pixel-perfection-for-those-just-starting-out/"><u>[Updated] In 2024, Pixel Perfection for Those Just Starting Out</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-perfect-unboxing-tunes-a-guide/"><u>[Updated] Selecting Perfect Unboxing Tunes  A Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-about-usb-selective-suspend-in-depth-information-you-cant-miss/"><u>All About USB Selective Suspend: In-Depth Information You Can't Miss</u></a></li>
+<li><a href="https://techidaily.com/an-overview-of-the-expanding-use-cases-for-ethereum-based-applications-including-gaming-social-media-supply-chain-management-and-more/"><u>An Overview of the Expanding Use Cases for Ethereum-Based Applications, Including Gaming, Social Media, Supply Chain Management, and More</u></a></li>
+<li><a href="https://techidaily.com/beginners-guide-top-5-essential-safety-tips-for-navigating-the-web-securely/"><u>Beginner's Guide: Top 5 Essential Safety Tips for Navigating the Web Securely</u></a></li>
+<li><a href="https://techidaily.com/bios-setup-hands-on-starting-up-into-system-firmware-on-windows-versions/"><u>BIOS Setup Hands-On: Starting Up Into System Firmware on Windows Versions</u></a></li>
+<li><a href="https://techidaily.com/boost-your-laptops-performance-swiftly-on-windows-11781-with-these-easy-tips/"><u>Boost Your Laptop's Performance Swiftly on Windows 11/7/8.1 with These Easy Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-to-correctly-address-internal-errors-within-the-video-scheduler-of-windows-11/"><u>Comprehensive Solutions to Correctly Address Internal Errors Within the Video Scheduler of Windows 11</u></a></li>
+<li><a href="https://techidaily.com/connecting-multiple-screens-to-your-computer-explained/"><u>Connecting Multiple Screens to Your Computer Explained</u></a></li>
+<li><a href="https://techidaily.com/diablo-ii-reimagined-ultimate-tips-and-tricks-for-maximizing-frame-rate/"><u>Diablo II Reimagined: Ultimate Tips & Tricks for Maximizing Frame Rate</u></a></li>
+<li><a href="https://techidaily.com/directx-12-downloading-made-easy-tips-and-steps-for-windows-10-users/"><u>DirectX 12 Downloading Made Easy - Tips & Steps for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/easy-guide-sharing-gameplay-experiences-with-loved-ones-on-xbox-one/"><u>Easy Guide: Sharing Gameplay Experiences with Loved Ones on Xbox One</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-for-instant-vpn-connection-a-simple-guide/"><u>Easy Steps for Instant VPN Connection: A Simple Guide</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-determining-your-computer-screens-refresh-rate/"><u>Easy Steps: Determining Your Computer Screen's Refresh Rate</u></a></li>
+<li><a href="https://techidaily.com/efficient-methods-to-immediately-restore-camera-functionality-using-device-manager/"><u>Efficient Methods to Immediately Restore Camera Functionality Using Device Manager</u></a></li>
+<li><a href="https://techidaily.com/effortless-ways-to-modify-the-country-of-origin-on-netflix/"><u>Effortless Ways to Modify the Country of Origin on Netflix</u></a></li>
+<li><a href="https://techidaily.com/expert-tips-to-improve-godfall-performance-and-end-the-frustrating-lag/"><u>Expert Tips to Improve Godfall Performance and End the Frustrating Lag</u></a></li>
+<li><a href="https://techidaily.com/facing-issues-with-chatgpt-implement-these-5-straightforward-fixes-to-resume-your-interaction/"><u>Facing Issues With ChatGPT? Implement These 5 Straightforward Fixes to Resume Your Interaction!</u></a></li>
+<li><a href="https://techidaily.com/fix-desktop-icons-gone-astray-on-windows-11-now-resolved/"><u>Fix Desktop Icons Gone Astray on Windows 11 - Now Resolved</u></a></li>
+<li><a href="https://techidaily.com/fix-it-right-away-tackling-the-problem-of-itunes-and-iphone-connection-failure-due-to-invalid-response-errors/"><u>Fix It Right Away: Tackling the Problem of iTunes and iPhone Connection Failure Due to Invalid Response Errors</u></a></li>
+<li><a href="https://techidaily.com/fixing-persistent-latency-how-to-resolve-windows-compatible-wireless-keyboard-delays/"><u>Fixing Persistent Latency: How to Resolve Windows-Compatible Wireless Keyboard Delays</u></a></li>
+<li><a href="https://techidaily.com/fixing-unsafe-connection-warnings-for-your-website-in-google-chrome/"><u>Fixing Unsafe Connection Warnings for Your Website in Google Chrome</u></a></li>
+<li><a href="https://techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://techidaily.com/get-your-free-updated-dell-driver-packs-for-optimal-performance-on-windows-11/"><u>Get Your Free Updated Dell Driver Packs for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/1723808261745-guide-preventing-unwanted-windows-11-updates-without-hitches/"><u>Guide: Preventing Unwanted Windows 11 Updates Without Hitches</u></a></li>
+<li><a href="https://techidaily.com/guide-turning-off-windows-security-in-windows-11-with-three-effective-methods/"><u>Guide: Turning Off Windows Security in Windows 11 with Three Effective Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-poco-c55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco C55 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-activatedeactivate-boot-time-applications-on-your-pc-running-windows-7/"><u>How to Activate/Deactivate Boot-Time Applications on Your PC Running Windows 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-burn-windows-10-iso-to-usb/"><u>How to Burn Windows 10 ISO to USB</u></a></li>
+<li><a href="https://techidaily.com/how-to-confirm-if-your-laptop-comes-with-bluetooth-connectivity-a-two-step-guide/"><u>How to Confirm if Your Laptop Comes with Bluetooth Connectivity: A Two-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-setup-a-google-account-a-detailed-walkthrough/"><u>How to Easily Setup a Google Account: A Detailed Walkthrough</u></a></li>
+<li><a href="https://techidaily.com/how-to-open-task-manager-in-windows-11-solved/"><u>How to Open Task Manager in Windows 11 [Solved]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-a54-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy A54 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-sony-xperia-10-v-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Sony Xperia 10 V</u></a></li>
+<li><a href="https://techidaily.com/in-depth-guide-turning-off-windows-10s-continuous-system-updates/"><u>In Depth Guide: Turning Off Windows 10'S Continuous System Updates</u></a></li>
+<li><a href="https://techidaily.com/kodi-superrepo-install-superrepo-on-kodi-step-by-step/"><u>Kodi SuperRepo – Install SuperRepo on Kodi Step by Step</u></a></li>
+<li><a href="https://techidaily.com/mastering-performance-troubleshooting-and-improving-elder-scrolls-online-frame-rate/"><u>Mastering Performance: Troubleshooting and Improving Elder Scrolls Online Frame Rate</u></a></li>
+<li><a href="https://techidaily.com/mastering-system-recovery-the-definitive-4-step-process-for-a-clean-windows-10-installation/"><u>Mastering System Recovery: The Definitive 4-Step Process for a Clean Windows 10 Installation</u></a></li>
+<li><a href="https://techidaily.com/mastering-window-10-screen-shot-techniques-using-simple-shortcuts/"><u>Mastering Window 10 Screen Shot Techniques Using Simple Shortcuts</u></a></li>
+<li><a href="https://techidaily.com/miracast-in-windows-7-everything-you-need-to-know/"><u>Miracast in Windows 7 - Everything You Need to Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/next-gen-gaming-the-best-oculus-players-uncovered/"><u>Next-Gen Gaming  The Best Oculus Players Uncovered</u></a></li>
+<li><a href="https://techidaily.com/obs-dropped-frame-troubleshooting-guide-latest-tips-and-techniques/"><u>OBS Dropped Frame Troubleshooting Guide - Latest Tips & Techniques</u></a></li>
+<li><a href="https://techidaily.com/overcome-slowness-in-windows-11-with-these-effective-8-step-solutions/"><u>Overcome Slowness in Windows 11 with These Effective 8-Step Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-battlenet-wont-open-challenge-a-comprehensive-guide/"><u>Overcoming the Battle.net Won't Open Challenge: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mapping-drives-in-macos/"><u>Step-by-Step Guide: Mapping Drives in macOS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-8-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 8 on MetroPCS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nail-wizardry-top-8-tools-to-boost-view-counts-for-2024/"><u>Thumbnail Wizardry  Top 8 Tools to Boost View Counts for 2024</u></a></li>
+</ul></div>

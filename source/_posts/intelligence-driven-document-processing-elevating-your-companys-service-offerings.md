@@ -1,7 +1,7 @@
 ---
 title: "Intelligence-Driven Document Processing: Elevating Your Company's Service Offerings"
-date: 2024-08-20 15:12:58
-updated: 2024-08-22 10:12:34
+date: 2024-08-22T08:27:22.827Z
+updated: 2024-08-23T08:27:22.827Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d3d66d8b680735b12538b785459e7f45b24c283f5d64f2076c6321e51a771e5e.jpg
@@ -29,6 +29,18 @@ In this blog post, we want to provide insight into a few of the technology integ
 
 One of the first connector integrations we love is incorporating the ABBYY Vantage experience with a virtual assistant to take the customer journey to the next level. By combining voice, conversational AI, and document intelligence by way of Vantage Document Skills into a unified mobile experience, virtual assistants are able to deliver great service to a customer without needing an agent. Take a look at the [Cognigy](https://www.cognigy.com/) video explaining it below!
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Automation of screens and IT operations
 
 [Micro Focus](https://www.microfocus.com/en-us/products/robotic-process-automation/overview) RPA is a powerful automation and orchestration platform that combines screen automation and IT operation steps to automate entire enterprise processes. Orchestrating different IT systems, APIs, and desktop applications is exactly what Micro Focus excels in. With their low-code/no-code design studio, you can create bots to automate tasks with ease. And now, with the additional asset of Vantage Skills, available from within the ABBYY Marketplace, they have just reached a new level of cognitive awareness. Take a look at the video below to see the powerful combination in action!
@@ -39,10 +51,20 @@ RPA bots are great for automating simple, repetitive tasks, but imagine if robot
 
 ![Kyron ABBYY skills for rpa](https://static1.abbyy.com/abbyycommedia/32872/abbyy-kryon-customer-story.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Leveraging the power of SAP Business Technology Platform
 
 If you are looking to enhance and upgrade your SAP cloud environment, Incutre's [Cherrywork platform](https://incture.com/cherrywork-intelligent-digital-applications/) provides enterprises with pre-packaged and ready-to-deploy intelligent digital applications, and also seamlessly integrates with ABBYY Vantage. With a click of a button, you can enable your SAP cloud with the ability to understand documents and structure data that can be integrated into your SAP processes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Tapping into the power of the Microsoft Power platform
 
 Power Automate has made big strides in bringing automation to every business user, providing Microsoft partners with an opportunity to connect other technologies and services into the automation platform. One ABBYY partner who has done just that is [Roborana](https://roborana.be/), who has developed a Vantage Connector to the Power Automate platform for building an end-to-end solution. Take a look below to see how this great Power App came together and how easy and seamless it is to connect Vantage to the Power Automate platform.
@@ -53,6 +75,9 @@ The [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/) offers an 
 
 ![preview ABBYY Marketplace](https://static1.abbyy.com/abbyycommedia/32870/marketplace.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 Do you have a great idea for a new Cognitive skill? Want to build a connector for your platform? Reach out to us and we’ll gladly help you get started!
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -61,6 +86,9 @@ Do you have a great idea for a new Cognitive skill? Want to build a connector fo
 
 ![Bill Galusha ABBYY](https://static5.abbyy.com/abbyycommedia/25718/billgalusha-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Galusha
 
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
@@ -75,6 +103,9 @@ Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
 ![](https://static4.abbyy.com/abbyycommedia/32000/stefanschmainta-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Stefan Schmainta
 
 ### Like, share or repost
@@ -139,3 +170,60 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiling-prime-5-chrome-tools-for-facebook-vids-for-2024/"><u>[New] Unveiling Prime 5 Chrome Tools for Facebook Vids for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-easycast-essential-steps-for-beginner-podcast-streamers-for-2024/"><u>[Updated] EasyCast  Essential Steps for Beginner Podcast Streamers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-soundsnatch-aural-replay-analysis-for-2024/"><u>[Updated] SoundSnatch  Aural Replay Analysis for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-an-all-inclusive-examination-of-inshots-video-edits/"><u>2024 Approved  An All-Inclusive Examination of InShot's Video Edits</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-preserving-pixels-in-the-sky-selecting-best-photo-cloud-storages/"><u>2024 Approved  Preserving Pixels in the Sky  Selecting Best Photo Cloud Storages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-graphics-issue-in-windowsminecraft/"><u>Address Graphics Issue in Windows/Minecraft</u></a></li>
+<li><a href="https://techidaily.com/all-about-wsus-your-complete-introduction-to-windows-server-updates-management/"><u>All About WSUS: Your Complete Introduction to Windows Server Updates Management</u></a></li>
+<li><a href="https://techidaily.com/annual-energy-usage-how-a-modern-ai-powered-gpu-can-use-up-to-37mwh-surpassing-the-power-needs-of-over-13-million-homes/"><u>Annual Energy Usage: How a Modern AI-Powered GPU Can Use Up to 3.7MWh - Surpassing the Power Needs of Over 1.3 Million Homes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/annual-list-highest-rated-free-lut-sources-online-for-2024/"><u>Annual List  Highest Rated FREE LUT Sources Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/1723808190964-boost-your-pcs-gameplay-in-windows-11-top-tips-and-tricks/"><u>Boost Your PC's Gameplay in Windows 11 – Top Tips and Tricks</u></a></li>
+<li><a href="https://techidaily.com/build-an-advanced-computing-device-with-asrocks-deskmate-x600-and-nvidia-gpu-a-china-exclusive-opportunity-at-roughly-193-usd/"><u>Build an Advanced Computing Device with ASRock's DeskMate X600 and NVIDIA GPU – A China-Exclusive Opportunity at Roughly $193 USD</u></a></li>
+<li><a href="https://techidaily.com/compact-chinese-desktop-features-reversible-design-with-external-pcie-port/"><u>Compact Chinese Desktop Features Reversible Design with External PCIe Port</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-12-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 12</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-a-space-for-feedback-talking-with-your-viewers/"><u>Creating a Space for Feedback  Talking with Your Viewers</u></a></li>
+<li><a href="https://techidaily.com/cyberpunk-2077-graphics-appear-fuzzy-solutions-inside/"><u>Cyberpunk 2077 Graphics Appear Fuzzy: Solutions Inside</u></a></li>
+<li><a href="https://techidaily.com/discover-top-hardware-picks-with-toms-technology-experts/"><u>Discover Top Hardware Picks with Tom's Technology Experts</u></a></li>
+<li><a href="https://techidaily.com/discover-your-motherboard-type-with-simple-steps/"><u>Discover Your Motherboard Type with Simple Steps</u></a></li>
+<li><a href="https://techidaily.com/easy-to-convert-pdf-to-excel/"><u>Easy to Convert PDF to Excel</u></a></li>
+<li><a href="https://techidaily.com/1723808333609-effortless-connection-pair-your-bluetooth-speaker-with-your-laptop-today/"><u>Effortless Connection: Pair Your Bluetooth Speaker with Your Laptop Today!</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-update-your-gmail-passkey-in-just-a-few-clicks/"><u>Effortlessly Update Your Gmail Passkey in Just a Few Clicks</u></a></li>
+<li><a href="https://techidaily.com/1722977121169-enhance-your-wireless-experience-with-updated-mpow-bluetooth-drivers-for-win11win8win7-secure-download-now/"><u>Enhance Your Wireless Experience with Updated MPOW Bluetooth Drivers for Win11/Win8/Win7 - Secure Download Now!</u></a></li>
+<li><a href="https://techidaily.com/experience-the-future-microsofts-ai-powered-desktop-pc-with-inbuilt-1080p-touch-display/"><u>Experience the Future: Microsoft's AI-Powered Desktop PC with Inbuilt 1080P Touch Display</u></a></li>
+<li><a href="https://techidaily.com/1723262342685-explore-the-latest-in-computer-components-at-your-site-name-innovation-like-never-before/"><u>Explore the Latest in Computer Components at [Your Site Name] - Innovation Like Never Before</u></a></li>
+<li><a href="https://techidaily.com/exploring-innovations-with-toms-computing-chronicles/"><u>Exploring Innovations with Tom's Computing Chronicles</u></a></li>
+<li><a href="https://techidaily.com/exploring-tencentclouds-latest-release-an-exclusive-os-tailored-for-chinese-cpu-chips-including-huawei-kunpeng-and-sugon-hygon/"><u>Exploring TencentCloud’s Latest Release – An Exclusive OS Tailored for Chinese CPU Chips Including Huawei Kunpeng and Sugon Hygon</u></a></li>
+<li><a href="https://techidaily.com/from-indiegogo-to-your-desk-meet-ayaneos-newly-released-amd-am01-classic-inspired-mini-computer/"><u>From Indiegogo to Your Desk: Meet Ayaneo's Newly Released AMD AM01 Classic Inspired Mini Computer</u></a></li>
+<li><a href="https://techidaily.com/gamers-choice-review-cyberpowerpc-gamer-xtreme-quality-on-a-budget-with-customization-options/"><u>Gamer's Choice Review: CyberPowerPC Gamer Xtreme - Quality on a Budget with Customization Options</u></a></li>
+<li><a href="https://techidaily.com/geekom-g1-elegant-aquarium-design-housing-an-intense-fusion-of-intel-i9-and-nvidias-gpu-prowess-for-gamers/"><u>Geekom G1: Elegant Aquarium Design Housing an Intense Fusion of Intel I9 & NVIDIA's GPU Prowess for Gamers.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-8-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 8 Plus or iPad?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-access-royalty-free-clip-art-tips/"><u>In 2024, Unlocking Access  Royalty-Free Clip Art Tips</u></a></li>
+<li><a href="https://techidaily.com/inside-toms-world-of-hardware-innovation-stay-ahead-in-the-digital-age/"><u>Inside Tom’s World of Hardware Innovation: Stay Ahead in the Digital Age</u></a></li>
+<li><a href="https://techidaily.com/keep-your-logitech-m510-running-smoothly-with-new-drivers-a-comprehensive-guide/"><u>Keep Your Logitech M510 Running Smoothly with New Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/1723262408382-master-the-art-of-tech-with-toms-detailed-gadget-reviews-and-analysis/"><u>Master The Art Of Tech With Tom's Detailed Gadget Reviews and Analysis!</u></a></li>
+<li><a href="https://techidaily.com/master-your-tech-choices-toms-in-depth-hardware-evaluations/"><u>Master Your Tech Choices: Tom's In-Depth Hardware Evaluations</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-canon-wi-fi-connection-process/"><u>Mastering the Canon-Wi-Fi Connection Process</u></a></li>
+<li><a href="https://techidaily.com/minisforum-s100-the-ultimate-portable-computer-with-alder-lake-n-poe-and-fast-ethernet/"><u>Minisforum S100: The Ultimate Portable Computer with Alder Lake-N, PoE & Fast Ethernet</u></a></li>
+<li><a href="https://techidaily.com/navigate-through-high-tech-terrains-with-toms-hardware-guides/"><u>Navigate Through High-Tech Terrains with Tom's Hardware Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-shortcut-towards-timeline-template-for-2024/"><u>New Top Shortcut Towards Timeline Template for 2024</u></a></li>
+<li><a href="https://techidaily.com/1723808142135-quick-tips-to-resolve-slow-boot-on-windows-1011-boost-your-pcs-performance/"><u>Quick Tips to Resolve Slow Boot on Windows 10/11 - Boost Your PC's Performance!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/switching-mac-screenshot-types-easily/"><u>Switching Mac Screenshot Types Easily</u></a></li>
+<li><a href="https://techidaily.com/the-future-of-portable-computing-the-atomman-g7-ti-a-screenless-laptop-replica-with-cutting-edge-cpu-and-rtx-gpu-capabilities/"><u>The Future of Portable Computing: The AtomMan G7 Ti, a Screenless Laptop Replica with Cutting-Edge CPU & RTX GPU Capabilities</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-insight-into-netflixs-online-media-library-and-services/"><u>The Ultimate Insight Into Netflix's Online Media Library and Services</u></a></li>
+<li><a href="https://techidaily.com/toms-tech-insights-gadget-reviews-and-news/"><u>Tom's Tech Insights: Gadget Reviews and News</u></a></li>
+<li><a href="https://techidaily.com/1723808247115-transform-your-skryim-adventure-discover-the-game-changer-with-the-special-editions-fps-upgrade/"><u>Transform Your Skryim Adventure: Discover the Game Changer with the Special Edition's FPS Upgrade</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-selecting-the-perfect-mobile-case-for-your-device/"><u>Ultimate Guide: Selecting the Perfect Mobile Case for Your Device</u></a></li>
+<li><a href="https://techidaily.com/unleashing-the-spectrum-sibolan-szbox-s69-ryzen-mini-pc-vibrant-power-rangers-hues-with-classic-hardware-value/"><u>Unleashing the Spectrum: Sibolan SZBox S69 Ryzen Mini PC - Vibrant Power Rangers Hues with Classic Hardware Value</u></a></li>
+<li><a href="https://techidaily.com/unlock-new-looks-with-these-15-free-windows-11-themes-for-personalized-computing/"><u>Unlock New Looks with These 15 Free Windows 11 Themes for Personalized Computing</u></a></li>
+<li><a href="https://techidaily.com/unlock-serious-savings-shop-ibuypowers-memorial-day-blowout-for-next-gen-gaming-systems/"><u>Unlock Serious Savings: Shop iBUYPOWER's Memorial Day Blowout for Next-Gen Gaming Systems</u></a></li>
+<li><a href="https://techidaily.com/1723808215753-unlock-the-secrets-of-your-digital-footprint-find-your-ip-for-free-now/"><u>Unlock the Secrets of Your Digital Footprint: Find Your IP for Free Now!</u></a></li>
+<li><a href="https://techidaily.com/unlocking-performance-potential-the-toms-hardware-handbook/"><u>Unlocking Performance Potential: The Tom's Hardware Handbook</u></a></li>
+<li><a href="https://techidaily.com/unveiling-hardware-secrets-with-toms-guidance/"><u>Unveiling Hardware Secrets with Tom's Guidance</u></a></li>
+</ul></div>

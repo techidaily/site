@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Healthcare Document Management Software: Digitize Your Medical Records Efficiently"
-date: 2024-08-19 11:43:21
-updated: 2024-08-22 10:37:57
+date: 2024-08-22T08:28:39.892Z
+updated: 2024-08-23T08:28:39.892Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg
@@ -100,6 +100,18 @@ Partager  True ?  : ""
 
 [Tous les sièges d’ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -120,3 +132,57 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-captivating-content-the-essential-six-video-formats/"><u>[New] 2024 Approved  Captivating Content  The Essential Six Video Formats</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-effective-approaches-to-capturing-high-def-live-games/"><u>[New] 2024 Approved  Effective Approaches to Capturing High-Def Live Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-the-complete-creator-hub-guide/"><u>[New] 2024 Approved  From Novice to Pro  The Complete Creator Hub Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-seamlessly-add-vimeo-videos-to-insta-feed/"><u>[New] 2024 Approved  How to Seamlessly Add Vimeo Videos to Insta Feed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-instagram-photography-guide-for-crafting-perfect-covers/"><u>[New] The Ultimate Instagram Photography Guide for Crafting Perfect Covers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-top-15-affordable-online-image-enhancers-for-2024/"><u>[New] The Ultimate List  Top 15 Affordable Online Image Enhancers for 2024</u></a></li>
+<li><a href="https://techidaily.com/solved-cant-install-google-chrome-on-windows-11-in-s-mode/"><u>[SOLVED] | Can't Install Google Chrome on Windows 11 in S Mode</u></a></li>
+<li><a href="https://techidaily.com/solved-restore-windows-photo-viewer-in-windows-10/"><u>[SOLVED] Restore Windows Photo Viewer in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/solved-what-are-the-system-requirements-for-fortnite/"><u>[Solved] What Are the System Requirements for Fortnite?</u></a></li>
+<li><a href="https://techidaily.com/solved-windows-11-black-and-white-screen/"><u>[SOLVED] Windows 11 Black and White Screen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-tips-for-creating-insta-groups/"><u>2024 Approved  Quick & Easy Tips for Creating Insta Groups</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-showcasing-contributions-and-thought-leadership/"><u>2024 Approved  Showcasing Contributions & Thought Leadership</u></a></li>
+<li><a href="https://techidaily.com/correcting-encryption-conflict-issues-on-windows-systems/"><u>Correcting Encryption Conflict Issues on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-for-snapping-photos-of-your-desktop-in-windows-11/"><u>Easy Steps for Snapping Photos of Your Desktop in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/easy-tutorial-setting-up-your-pc-for-remote-desktop-on-windows-10/"><u>Easy Tutorial: Setting Up Your PC for Remote Desktop on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/effortless-guide-resetting-your-facebook-password-in-a-flash/"><u>Effortless Guide: Resetting Your Facebook Password in a Flash</u></a></li>
+<li><a href="https://techidaily.com/enable-seamless-voice-calls-via-wi-fi-with-this-simple-guide/"><u>Enable Seamless Voice Calls via Wi-Fi with This Simple Guide</u></a></li>
+<li><a href="https://techidaily.com/error-message-solved-install-windows-10-without-code-80240020-issues/"><u>Error Message Solved! Install Windows 10 Without Code #80240020 Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-z-flip-5-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy Z Flip 5 Pattern Lock Screen</u></a></li>
+<li><a href="https://techidaily.com/getting-chatgpt-working-again-discover-five-effective-solutions-today/"><u>Getting ChatGPT Working Again: Discover Five Effective Solutions Today</u></a></li>
+<li><a href="https://techidaily.com/guide-to-increasing-bluetooth-signal-range-on-your-windows-11-pc/"><u>Guide to Increasing Bluetooth Signal Range on Your Windows 11 PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-redmi-note-13-proplus-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Redmi Note 13 Pro+ 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-system-language-on-windows-10-easy-steps/"><u>How to Change System Language on Windows 10? Easy Steps!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-download-acpi-drivers/"><u>How to Download ACPI Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-securely-connect-via-vpn-a-visual-tutorial-for-configuring-netgear-routers/"><u>How to Securely Connect Via VPN: A Visual Tutorial for Configuring Netgear Routers</u></a></li>
+<li><a href="https://techidaily.com/how-to-snapping-photos-of-your-lenovo-computer-screen-in-seconds/"><u>How-To: Snapping Photos of Your Lenovo Computer Screen in Seconds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/invisible-web-journeys-strategies-for-anonymous-internet-use/"><u>Invisible Web Journeys: Strategies for Anonymous Internet Use</u></a></li>
+<li><a href="https://techidaily.com/maximize-savings-on-driver-easy-use-this-exclusive-2er-2024-discount-code-for-a-smaller-price-tag/"><u>Maximize Savings on Driver Easy – Use This Exclusive 2Er-2024 Discount Code for a Smaller Price Tag!</u></a></li>
+<li><a href="https://techidaily.com/maximize-speed-on-windows-11-for-optimal-functionality-a-step-by-step-tutorial/"><u>Maximize Speed on Windows 11 for Optimal Functionality – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/maximizing-your-privacy-with-the-tor-browser-in-a-windows-11-environment/"><u>Maximizing Your Privacy with the Tor Browser in a Windows 11 Environment</u></a></li>
+<li><a href="https://techidaily.com/no-more-interruptions-disable-the-lock-screen-on-windows-10-effortlessly/"><u>No More Interruptions: Disable the Lock Screen on Windows 10 Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/overcoming-common-hurdles-in-configuring-miracast-for-windows-11-users/"><u>Overcoming Common Hurdles in Configuring Miracast for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/rapid-and-simple-guide-to-assessing-cpu-speed-with-a-comprehensive-benchmark/"><u>Rapid and Simple Guide to Assessing CPU Speed with a Comprehensive Benchmark</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-samsung-galaxy-a23-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Samsung Galaxy A23 5G has been deleted.</u></a></li>
+<li><a href="https://techidaily.com/resolved-complete-hard-drive-consumption-on-task-manager-with-windows-10/"><u>Resolved: Complete Hard Drive Consumption on Task Manager with Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-your-minecraft-game-crashes-a-step-by-step-guide/"><u>Resolving Your Minecraft Game Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/solution-found-accelerating-your-slow-and-unresponsive-laptop-or-desktop-system/"><u>Solution Found: Accelerating Your Slow and Unresponsive Laptop or Desktop System</u></a></li>
+<li><a href="https://techidaily.com/solved-realtek-pcie-gbe-family-controller-driver-issue-for-windows-7/"><u>Solved Realtek PCIe GBE Family Controller Driver Issue for Windows 7</u></a></li>
+<li><a href="https://techidaily.com/solving-graphics-card-problems-and-boosting-performance-in-windows/"><u>Solving Graphics Card Problems and Boosting Performance in Windows</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-installing-windows-10-via-usb-drive-with-illustrative-images/"><u>Step-by-Step Guide: Installing Windows 10 via USB Drive with Illustrative Images</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-torrents/"><u>Step-by-Step Guide: Mastering the Art of Downloading Torrents</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-performing-a-complete-system-restore-on-windows-11/"><u>Step-by-Step Guide: Performing a Complete System Restore on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-removing-your-printers-drivers-from-windows-computers/"><u>Step-by-Step Guide: Removing Your Printer's Drivers From Windows Computers</u></a></li>
+<li><a href="https://techidaily.com/the-complete-guide-to-dualplusmonitor-configurations-for-enhanced-productivity/"><u>The Complete Guide to Dual+Monitor Configurations for Enhanced Productivity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-narzo-n53-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Narzo N53 Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-x-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone X Making It Possible</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-gameplay-display-issues-resolving-screen-latency-in-dual-setup-with-windows-11/"><u>Troubleshooting Gameplay Display Issues: Resolving Screen Latency in Dual Setup with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-top-five-ways-to-restart-non-functioning-chatgpt/"><u>Troubleshooting Guide: Top Five Ways to Restart Non-Functioning ChatGPT</u></a></li>
+</ul></div>

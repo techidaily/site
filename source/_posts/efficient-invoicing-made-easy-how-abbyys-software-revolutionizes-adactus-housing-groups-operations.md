@@ -1,7 +1,7 @@
 ---
 title: "Efficient Invoicing Made Easy: How ABBYY's Software Revolutionizes Adactus Housing Group's Operations"
-date: 2024-08-19 17:29:18
-updated: 2024-08-22 10:39:35
+date: 2024-08-22T08:22:22.923Z
+updated: 2024-08-23T08:22:22.923Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b52b80b737f6be60e6367144.PNG
@@ -61,14 +61,23 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 
 ###### SEE HOW ABBYY CAN HELP
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Up to **60,000**
 
 paper invoices are normally received each year
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **24** suppliers
 
 represent 50% of the transactions stream
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **4** full time staff
 
 minimum intervention in invoice processing
@@ -115,14 +124,23 @@ The benefit of introducing this solution is a slicker way of working which limit
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/14325/1a-adactus-1-real-estate-en_small.jpg)](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 [read more](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -153,3 +171,45 @@ We'd love to help you along your automation journey.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-embedding-youtube-music-in-media-files-for-2024/"><u>[New] Embedding YouTube Music in Media Files for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fb-live-guide-audiences/"><u>[New] In 2024, FB Live Guide Audiences</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-obs-the-ultimate-tutorial-for-live-broadcasts-for-2024/"><u>[New] Mastering OBS  The Ultimate Tutorial for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-gear-helmet-cams-the-most-trusted-choice-riders/"><u>[New] Top Gear Helmet Cams - The Most Trusted Choice Riders</u></a></li>
+<li><a href="https://techidaily.com/solved-oculus-quest-2-not-connecting-to-pc/"><u>[SOLVED] Oculus Quest 2 Not Connecting to PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-buys-in-the-realm-of-4k-video-tools/"><u>[Updated] 2024 Approved  Best Buys in the Realm of 4K Video Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-filmmaking-fundamentals-for-engaging-facebook-groups/"><u>[Updated] 2024 Approved  Filmmaking Fundamentals for Engaging Facebook Groups</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-how-to-use-inshot-for-laptoppc-and-alternatives-video-editor/"><u>2024 Approved  How to Use Inshot for Laptop/PC and Alternatives Video Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>2024 Approved  Top Shots and Their Tales  The Most Shared Stock Memes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>Avoiding Pitfalls  Common Mistakes in Instagram Filmmaking</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ergoheads-ultimate-standing-desk-mat-assessed-unmatched-endurance-and-ease-over-hours-of-work/"><u>Ergohead's Ultimate Standing Desk Mat Assessed - Unmatched Endurance and Ease Over Hours of Work</u></a></li>
+<li><a href="https://article-posts.techidaily.com/exploring-peak-performance-best-oculus-rift-players/"><u>Exploring Peak Performance  Best Oculus Rift Players</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fusing-iphones-media-for-cohesive-outputs-for-2024/"><u>Fusing iPhones' Media for Cohesive Outputs for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
+<li><a href="https://techidaily.com/hiberfilsys-windows-11-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 11 & How to Delete It? [Solved]</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-display-language-in-windows-7/"><u>How to Change Display Language in Windows 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-disable-pop-up-blocker-in-chrome-firefox-edge-and-ie/"><u>How to Disable Pop-Up Blocker in Chrome, Firefox, Edge and IE</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily!</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-11/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-unfreeze-a-computer-in-windows-10/"><u>How to Unfreeze a Computer in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-realtek-pcie-fe-family-controller-drivers-in-windows-7/"><u>How to Update Realtek PCIe FE Family Controller Drivers in Windows 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-xs-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone XS?</u></a></li>
+<li><a href="https://techidaily.com/laptop-projector-connection-made-simple-expert-tips-and-techniques/"><u>Laptop-Projector Connection Made Simple: Expert Tips and Techniques</u></a></li>
+<li><a href="https://techidaily.com/lowering-processor-consumption-tips-for-smoother-performance-on-windows-systems/"><u>Lowering Processor Consumption: Tips for Smoother Performance on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/master-your-mouse-control-a-comprehensive-tutorial-for-tweaking-and-troubleshooting-sensitivity-problems/"><u>Master Your Mouse Control: A Comprehensive Tutorial for Tweaking and Troubleshooting Sensitivity Problems</u></a></li>
+<li><a href="https://techidaily.com/mastering-system-recovery-in-windows-11-accessing-boot-settings-explained/"><u>Mastering System Recovery in Windows 11: Accessing Boot Settings Explained</u></a></li>
+<li><a href="https://techidaily.com/mastering-the-art-of-effortless-screen-captures-in-windows-8/"><u>Mastering the Art of Effortless Screen Captures in Windows 8</u></a></li>
+<li><a href="https://techidaily.com/navigating-the-uninstallation-of-nvidia-drivers-in-windows-11/"><u>Navigating the Uninstallation of NVIDIA Drivers in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/optimizing-pubg-gameplay-mastering-nvidia-graphics-card-settings/"><u>Optimizing PUBG Gameplay: Mastering Nvidia Graphics Card Settings</u></a></li>
+<li><a href="https://techidaily.com/overcoming-challenges-in-installing-oculus-on-the-latest-versions-of-windows-os/"><u>Overcoming Challenges in Installing Oculus on the Latest Versions of Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-logitech-g-hub-malfunctions-tips-and-tricks-for-windows-users/"><u>Overcoming Logitech G Hub Malfunctions: Tips and Tricks for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/protecting-your-data-with-easy-backup-how-to-make-restore-points-in-windows-xp/"><u>Protecting Your Data with Easy Backup: How to Make Restore Points in Windows XP</u></a></li>
+<li><a href="https://techidaily.com/quick-guide-identifying-the-latest-nvidia-drivers-on-your-system/"><u>Quick Guide: Identifying the Latest NVIDIA Drivers on Your System</u></a></li>
+<li><a href="https://techidaily.com/quick-guide-seamlessly-linking-bluetooth-speaker-and-laptop-together/"><u>Quick Guide: Seamlessly Linking Bluetooth Speaker and Laptop Together</u></a></li>
+<li><a href="https://techidaily.com/quickly-find-out-how-much-ram-you-have-in-windows-easy-tutorial-inside/"><u>Quickly Find Out How Much RAM You Have in Windows – Easy Tutorial Inside</u></a></li>
+<li><a href="https://techidaily.com/solving-gameplay-interruptions-a-guide-to-handling-fps-drops-in-beyond-light/"><u>Solving Gameplay Interruptions: A Guide to Handling FPS Drops in BEYOND LIGHT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-strategy-behind-automatic-youtube-playback-on-fb-for-2024/"><u>The Strategy Behind Automatic YouTube Playback on FB for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-playbook-for-earning-via-youtube-shorts/"><u>The Ultimate Playbook for Earning via YouTube Shorts</u></a></li>
+</ul></div>
