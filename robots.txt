@@ -1,13 +1,15 @@
-Sitemap: https://techidaily.com/sitemap_index.xml.gz
-User-agent: Googlebot
-Disallow:
-
-User-agent: Googlebot-image
-Disallow: 
+Sitemap: https://techidaily.com/sitemap_index.xml
 
 User-agent: *
-Disallow: /scripts
-Disallow: /public 
+Allow: /
+ 
+
+
+
+
+User-agent: *
+Disallow: /scripts/
+Disallow: /public/ 
 Disallow: /css/ 
 Disallow: /images/ 
 Disallow: /content/ 
