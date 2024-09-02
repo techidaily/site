@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-08-27 16:29:53
-updated: 2024-08-29 12:28:21
+date: 2024-09-01T02:17:09.824Z
+updated: 2024-09-02T02:17:09.824Z
 tags:
   - desktop
 categories:
@@ -30,12 +30,18 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
@@ -48,6 +54,9 @@ Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3\. Use the Original Charger
 
  You should also ensure that you're using the original charger that came with your laptop for optimal charging. While third-party chargers may advertise [fast charging](https://snapchat-videos.techidaily.com/new-elevate-your-social-media-presence-by-pining-on-snapchat/) or other advantages, they often end up harming the device.
@@ -56,6 +65,13 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
@@ -70,10 +86,21 @@ Aman Kumar / How-To Geek
 
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -106,6 +133,9 @@ Aman Kumar / How-To Geek
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  8\. Test for a Defective Battery
 
  Lastly, you should check to see if your laptop battery is the source of the problem. You can do this by removing the battery from your laptop and then charging your laptop.
@@ -122,6 +152,9 @@ Aman Kumar / How-To Geek
 
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Aman Kumar / How-To Geek
 
  So, if your laptop has a non-removable battery, we recommend you take it to a qualified technician who can safely examine the battery and remove it if necessary. The technician will tell you if you should replace your battery or perform any other fix.
@@ -144,3 +177,51 @@ Aman Kumar / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-archive-mastery-how-and-why/"><u>[New] 2024 Approved  Instagram Archive Mastery  How and Why?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-streamlining-media-formats-from-srt-to-advanced-standards/"><u>[New] 2024 Approved  Streamlining Media Formats  From SRT to Advanced Standards</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/huckle-campaign-7-ingenious-ideas-for-funny-youtube-videos-for-2024/"><u>[New] Chuckle Campaign  7 Ingenious Ideas for Funny YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-peeling-the-onion-understanding-instagram-story-audiences/"><u>[New] In 2024, Peeling the Onion  Understanding Instagram Story Audiences</u></a></li>
+<li><a href="https://techidaily.com/solved-cant-install-google-chrome-on-windows-11-in-s-mode/"><u>[SOLVED] | Can't Install Google Chrome on Windows 11 in S Mode</u></a></li>
+<li><a href="https://techidaily.com/solved-restore-windows-photo-viewer-in-windows-10/"><u>[SOLVED] Restore Windows Photo Viewer in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/solved-what-are-the-system-requirements-for-fortnite/"><u>[Solved] What Are the System Requirements for Fortnite?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mitigating-virtual-reality-nausea/"><u>[Updated] 2024 Approved  Mitigating Virtual Reality Nausea</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pinnacle-graphics-the-ultimate-4k-game-enhancement/"><u>[Updated] Pinnacle Graphics  The Ultimate 4K Game Enhancement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-sharecast-extracting-fb-media/"><u>2024 Approved  ShareCast  Extracting Fb Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-writers-workshop-online-for-2024/"><u>Best Writer’s Workshop Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/easy-tutorial-setting-up-your-pc-for-remote-desktop-on-windows-10/"><u>Easy Tutorial: Setting Up Your PC for Remote Desktop on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/effortless-guide-resetting-your-facebook-password-in-a-flash/"><u>Effortless Guide: Resetting Your Facebook Password in a Flash</u></a></li>
+<li><a href="https://techidaily.com/enable-seamless-voice-calls-via-wi-fi-with-this-simple-guide/"><u>Enable Seamless Voice Calls via Wi-Fi with This Simple Guide</u></a></li>
+<li><a href="https://techidaily.com/error-message-solved-install-windows-10-without-code-80240020-issues/"><u>Error Message Solved! Install Windows 10 Without Code #80240020 Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/forge-funny-frameworks/"><u>Forge Funny Frameworks</u></a></li>
+<li><a href="https://techidaily.com/getting-chatgpt-working-again-discover-five-effective-solutions-today/"><u>Getting ChatGPT Working Again: Discover Five Effective Solutions Today</u></a></li>
+<li><a href="https://techidaily.com/guide-to-increasing-bluetooth-signal-range-on-your-windows-11-pc/"><u>Guide to Increasing Bluetooth Signal Range on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/heartstrings-harmony-best-music-to-accompany-your-engagement-for-2024/"><u>Heartstrings Harmony  Best Music to Accompany Your Engagement for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/highlights-of-snowboard-cross-olympics-2022/"><u>Highlights of Snowboard Cross Olympics 2022</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-system-language-on-windows-10-easy-steps/"><u>How to Change System Language on Windows 10? Easy Steps!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-100-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor 100</u></a></li>
+<li><a href="https://techidaily.com/how-to-securely-connect-via-vpn-a-visual-tutorial-for-configuring-netgear-routers/"><u>How to Securely Connect Via VPN: A Visual Tutorial for Configuring Netgear Routers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-tecno-camon-30-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Tecno Camon 30 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://techidaily.com/how-to-snapping-photos-of-your-lenovo-computer-screen-in-seconds/"><u>How-To: Snapping Photos of Your Lenovo Computer Screen in Seconds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-phased-opening-visuals/"><u>In 2024, Phased Opening Visuals</u></a></li>
+<li><a href="https://techidaily.com/invisible-web-journeys-strategies-for-anonymous-internet-use/"><u>Invisible Web Journeys: Strategies for Anonymous Internet Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-acid-pro-unveiled-assessing-comparable-software/"><u>Magix ACID Pro Unveiled  Assessing Comparable Software</u></a></li>
+<li><a href="https://techidaily.com/maximize-savings-on-driver-easy-use-this-exclusive-2er-2024-discount-code-for-a-smaller-price-tag/"><u>Maximize Savings on Driver Easy – Use This Exclusive 2Er-2024 Discount Code for a Smaller Price Tag!</u></a></li>
+<li><a href="https://techidaily.com/maximize-speed-on-windows-11-for-optimal-functionality-a-step-by-step-tutorial/"><u>Maximize Speed on Windows 11 for Optimal Functionality – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/maximizing-your-privacy-with-the-tor-browser-in-a-windows-11-environment/"><u>Maximizing Your Privacy with the Tor Browser in a Windows 11 Environment</u></a></li>
+<li><a href="https://techidaily.com/no-more-interruptions-disable-the-lock-screen-on-windows-10-effortlessly/"><u>No More Interruptions: Disable the Lock Screen on Windows 10 Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/overcoming-common-hurdles-in-configuring-miracast-for-windows-11-users/"><u>Overcoming Common Hurdles in Configuring Miracast for Windows 11 Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y77t-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y77t Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-photography-with-canons-complimentary-luts/"><u>Professional Photography with Canon's Complimentary LUTs</u></a></li>
+<li><a href="https://techidaily.com/rapid-and-simple-guide-to-assessing-cpu-speed-with-a-comprehensive-benchmark/"><u>Rapid and Simple Guide to Assessing CPU Speed with a Comprehensive Benchmark</u></a></li>
+<li><a href="https://techidaily.com/resolved-complete-hard-drive-consumption-on-task-manager-with-windows-10/"><u>Resolved: Complete Hard Drive Consumption on Task Manager with Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/revel-in-social-network-supporters/"><u>Revel in Social Network Supporters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-media-conversion-from-avis-to-striking-gif-images-via-filmora-software-windowsmacos-for-2024/"><u>Seamless Media Conversion  From AVIs to Striking GIF Images via Filmora Software (Windows/macOS) for 2024</u></a></li>
+<li><a href="https://techidaily.com/solution-found-accelerating-your-slow-and-unresponsive-laptop-or-desktop-system/"><u>Solution Found: Accelerating Your Slow and Unresponsive Laptop or Desktop System</u></a></li>
+<li><a href="https://techidaily.com/solved-realtek-pcie-gbe-family-controller-driver-issue-for-windows-7/"><u>Solved Realtek PCIe GBE Family Controller Driver Issue for Windows 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-instructions-how-to-turn-off-or-erase-facebook-access-on-your-iphone/"><u>Ultimate Instructions: How to Turn Off or Erase Facebook Access on Your iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-narzo-60-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme Narzo 60 Pro 5G Users</u></a></li>
+</ul></div>

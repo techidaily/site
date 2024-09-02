@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC"
-date: 2024-08-28 20:28:20
-updated: 2024-08-29 11:46:46
+date: 2024-09-01T02:19:18.418Z
+updated: 2024-09-02T02:19:18.418Z
 tags:
   - deals
 categories:
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
@@ -53,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
@@ -71,22 +77,38 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using a PS5 Controller for Non-Steam PC Games
 
  Outside of Steam, your DualSense controller might work natively with other PC gaming clients in Windows 10\. However, more likely than not, you'll need to jump through some additional hoops to get your PS5 controller working with other PC games. While the Xbox controller natively works with many PC games, you'll need to take a few extra steps to ensure the DualSense works with most PC games outside of Steam.
@@ -113,3 +135,49 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-chromeandroidios-the-ultimate-guide-to-tiktok-video-uploads-for-2024/"><u>[New] Chrome/Android/iOS  The Ultimate Guide to TikTok Video Uploads for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[New] Get HD Quality Quickly  Enable AV1 in YouTube Settings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-android-video-capture-the-best-5-picks/"><u>[Updated] 2024 Approved  Essential Android Video Capture  The Best 5 Picks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-step-by-step-techniques-for-earning-profits-on-vimeo/"><u>[Updated] 2024 Approved  Step-by-Step Techniques for Earning Profits on Vimeo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-9-powerful-youtube-video-downloader-for-android-for-2024/"><u>[Updated] 9 Powerful YouTube Video Downloader for Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-digital-diagnosis-the-vll-perspective-on-apps-for-2024/"><u>[Updated] Digital Diagnosis  The VLL Perspective on Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[Updated] In 2024, A Time Traveler’s Guide to YouTube Queue  Watch From End to Start</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-superior-tools-for-downloading-vimeo-videos/"><u>[Updated] In 2024, Superior Tools for Downloading Vimeo Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-haul-content-production-and-post-production-techniques/"><u>[Updated] Understanding Haul Content  Production & Post-Production Techniques</u></a></li>
+<li><a href="https://techidaily.com/abbyy-champions-humanitys-cause-by-enhancing-ai-oversight-with-innovative-audit-solutions/"><u>ABBYY Champions Humanity's Cause by Enhancing AI Oversight with Innovative Audit Solutions</u></a></li>
+<li><a href="https://techidaily.com/abbyy-intelligente-dateiabrufstechnologie-schnellere-digitalisierung-von-unternehmensablaufen/"><u>ABBYY Intelligente Dateiabrufstechnologie - Schnellere Digitalisierung Von Unternehmensabläufen</u></a></li>
+<li><a href="https://techidaily.com/abbyy-leitet-munchens-digitale-revolution-modernisierung-von-bauburomaterialien/"><u>ABBYY Leitet Münchens Digitale Revolution: Modernisierung Von Baubüromaterialien</u></a></li>
+<li><a href="https://techidaily.com/accelerating-hospital-transfers-strategies-for-expedited-consultations-and-superior-treatment-results/"><u>Accelerating Hospital Transfers: Strategies for Expedited Consultations & Superior Treatment Results</u></a></li>
+<li><a href="https://techidaily.com/boost-your-digital-campaigns-using-the-advanced-tools-of-cookiebot/"><u>Boost Your Digital Campaigns Using the Advanced Tools of Cookiebot</u></a></li>
+<li><a href="https://techidaily.com/boosting-web-traffic-with-cookiebot-integration-techniques/"><u>Boosting Web Traffic with Cookiebot Integration Techniques</u></a></li>
+<li><a href="https://techidaily.com/butagas-erleichtert-energiewechsel-professionelles-datenerfassungssystem-von-abbyy-fur-privatkunden/"><u>Butagas Erleichtert Energiewechsel - Professionelles Datenerfassungssystem Von ABBYY Für Privatkunden</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-conversions-boosting-online-presence-through-smart-data-tracking/"><u>Cookiebot-Driven Conversions: Boosting Online Presence Through Smart Data Tracking</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-data-collection-enhancing-user-experience/"><u>Cookiebot-Driven Data Collection: Enhancing User Experience</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-performance-enhancing-your-sites-visibility/"><u>Cookiebot-Driven Performance: Enhancing Your Site's Visibility</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-web-analytics-enhancing-user-experience-with-smart-tracking/"><u>Cookiebot-Driven Web Analytics: Enhancing User Experience with Smart Tracking</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-user-experience-for-your-website/"><u>Cookiebot-Enhanced User Experience for Your Website</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-user-experience-the-ultimate-power-boost-for-your-website/"><u>Cookiebot-Enhanced User Experience: The Ultimate Power Boost for Your Website</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-tailor-your-sites-user-experience-with-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced: Tailor Your Site's User Experience with Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driving-optimized-traffic-with-powerful-analytics/"><u>Cookiebot: Driving Optimized Traffic with Powerful Analytics</u></a></li>
+<li><a href="https://techidaily.com/customizing-content-curation-with-the-help-of-advanced-cookiebot-technologies/"><u>Customizing Content Curation with the Help of Advanced Cookiebot Technologies</u></a></li>
+<li><a href="https://techidaily.com/elevate-your-tech-savviness-learn-to-transact-with-phones-edit-stunning-images-and-compose-original-poems-tips-straight-from-the-abbyy-experts/"><u>Elevate Your Tech Savviness: Learn to Transact with Phones, Edit Stunning Images, and Compose Original Poems - Tips Straight From the ABBYY Experts</u></a></li>
+<li><a href="https://techidaily.com/embrace-the-future-with-ai-discover-abbyys-essential-guide-to-adoption-in-your-organization/"><u>Embrace the Future with AI: Discover ABBYY's Essential Guide to Adoption in Your Organization</u></a></li>
+<li><a href="https://techidaily.com/empower-your-website-with-cookiebot-technology-the-ultimate-tracking-solution/"><u>Empower Your Website with Cookiebot Technology – The Ultimate Tracking Solution</u></a></li>
+<li><a href="https://techidaily.com/enhance-client-support-and-expedite-purchase-orders-using-gemluxs-integrated-abbyy-idp-technology-in-netsuite/"><u>Enhance Client Support & Expedite Purchase Orders Using GEMLUX's Integrated ABBYY IDP Technology in NetSuite</u></a></li>
+<li><a href="https://techidaily.com/enhance-conversions-with-cookiebot-seamless-retargeting-and-automated-marketing-insights/"><u>Enhance Conversions with Cookiebot: Seamless Retargeting & Automated Marketing Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-personalizing-your-office-2016-title-bar-appearance/"><u>Guide: Personalizing Your Office 2016 Title Bar Appearance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-xs-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone XS Max?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-se-2022-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone SE (2022) iCloud Lock</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-club-chronicles-expertly-picked-dj-videos/"><u>In 2024, Club Chronicles  Expertly Picked DJ Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-the-most-out-of-pc-hdr-videos/"><u>In 2024, Getting the Most Out of PC HDR Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-11-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus 11 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-10-best-cartoon-video-maker-apps-on-android-and-iphone/"><u>New 2024 Approved 10 Best Cartoon Video Maker Apps on Android and iPhone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-audio-experts-manual-to-identifying-superior-sound-formats/"><u>New In 2024, The Audio Experts Manual to Identifying Superior Sound Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-sound-functionality-in-your-acer-computer-step-by-step-troubleshooting/"><u>Restore Sound Functionality in Your Acer Computer - Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-source-for-all-things-technical-discover-toms-hardware-wisdom/"><u>The Definitive Source for All Things Technical: Discover Tom's Hardware Wisdom</u></a></li>
+</ul></div>

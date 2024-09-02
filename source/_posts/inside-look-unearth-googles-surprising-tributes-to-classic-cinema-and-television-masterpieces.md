@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-08-26 14:26:35
-updated: 2024-08-29 11:18:11
+date: 2024-09-01T02:14:32.791Z
+updated: 2024-09-02T02:14:32.791Z
 tags:
   - web
 categories:
@@ -53,8 +53,15 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A small dog standing under a hair dryer with the Google search results for legally blonde in the background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-small-dog-standing-under-a-hair-dryer-with-the-google-search-results-for-legally-blonde-in-the-background.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Recreate the Burn Book From “Mean Girls”
 
  “Mean Girls” is another classic that has been blessed with its own Google Easter egg. In the movie, the girls have a pink journal called the "Burn Book" where they write mean things about their classmates. Google plays off this by letting you create your very own Burn Book right there in search.
@@ -63,8 +70,14 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A transparent pink background with kiss and scribble designs on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-transparent-pink-background-with-kiss-and-scribble-designs-on-it.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Kick-Start the Cordyceps Infection From “The Last of Us”
 
  If you’re in the mood for something a little more chilling and slightly disgusting, Google has something in store for you too. “[The Last of Us” was already immensely popular as a game](https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/), and it only got bigger with the TV series release.
@@ -73,6 +86,12 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
 
  Unlike the [other Easter eggs](https://youtube-zero.techidaily.com/rt-of-youtube-channels-crafting-brands-that-attract-viewers-for-2024/) I've mentioned, this one is so subtle even die-hard fans could miss it. When you search for **war in Ba Sing Se**, Google asks, "Did you mean there is no war in Ba Sing Se?"
@@ -87,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  Solve Time Travel Puzzles With “Doctor Who”
 
 [If you live in the US](https://video-screen-grab.techidaily.com/new-academic-anchors-identifying-top-10-lecture-preservation-tools-for-2024/), you might not be familiar with Doctor Who, but in England, it's all the rage. The show features the Doctor and his trusty companion, and together, they travel through space and time in their time machine/spacecraft called the TARDIS, which masquerades as a police box.
@@ -95,8 +118,14 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A minigame with buildings and robots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-minigame-with-buildings-and-robots.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Unleash the Force With Baby Yoda From “The Mandalorian”
 
  These days, there's a lot of debate about the quality of the new Star Wars series, but I think "The Mandalorian" gets a pass simply for introducing us to the adorableness that is Baby Yoda.
@@ -125,6 +154,9 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
 
 ##  Travel to the World of Oz
@@ -157,3 +189,41 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-5-best-monitors-for-playstation5/"><u>[New] 2024 Approved  Top 5 Best Monitors for PlayStation5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-vidtap-chatcam-sniper-app/"><u>[Updated] 2024 Approved  VidTap - ChatCam Sniper App</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-dji-drone-visor-revolution-an-in-depth-review/"><u>[Updated] In 2024, The DJI Drone Visor Revolution  An In-Depth Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-best-in-class-racing-games-for-2024/"><u>[Updated] The Ultimate Guide to Best-in-Class Racing Games for 2024</u></a></li>
+<li><a href="https://techidaily.com/1-enhanced-marketing-automation-with-the-advanced-cookiebot-integration/"><u>1. Enhanced Marketing Automation with the Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtubes-creative-commons-license-explained-simply/"><u>2024 Approved  YouTube's Creative Commons License Explained Simply</u></a></li>
+<li><a href="https://techidaily.com/abby-ocr/"><u>Abby OCR技術で実現! 完全内製化による税務収納業務生産性の飛躍的向上と外部コスト削減</u></a></li>
+<li><a href="https://techidaily.com/abbyy-flexicapture-12/"><u>ABBYY 最新リリース:「FlexiCapture 12」が日本で登場！</u></a></li>
+<li><a href="https://techidaily.com/abbyy-bolsters-regional-influence-by-establishing-operations-hub-in-hong-kong-asia/"><u>ABBYY Bolsters Regional Influence by Establishing Operations Hub in Hong Kong, Asia</u></a></li>
+<li><a href="https://techidaily.com/abbyy-celebrates-major-achievements-in-third-quarter-of-2019/"><u>ABBYY Celebrates Major Achievements in Third Quarter of 2019</u></a></li>
+<li><a href="https://techidaily.com/abbyys-revolutionary-ocr-software-enhances-interactive-education-insights-from-the-official-abbyy-blog/"><u>ABBYY's Revolutionary OCR Software Enhances Interactive Education - Insights From the Official ABBYY Blog</u></a></li>
+<li><a href="https://techidaily.com/abbyystarpie-warp-abbyy/"><u>ABBYYのフローテンプレートがSTARPIE WARPに登場！あなたの時間管理を革命化します - ABBYYブログ特集</u></a></li>
+<li><a href="https://techidaily.com/ai-and-robotic-collaborators-set-to-skyrocket-by-half-in-upcoming-years-shaping-the-future-of-tech-jobs/"><u>AI & Robotic Collaborators Set to Skyrocket by Half in Upcoming Years, Shaping the Future of Tech Jobs</u></a></li>
+<li><a href="https://techidaily.com/ai-driven-document-automation-within-health-services-real-world-examples/"><u>AI-Driven Document Automation Within Health Services: Real World Examples</u></a></li>
+<li><a href="https://techidaily.com/boost-your-marketing-results-with-cookiebots-powerful-cookie-based-solutions/"><u>Boost Your Marketing Results with Cookiebot's Powerful Cookie-Based Solutions</u></a></li>
+<li><a href="https://techidaily.com/boost-your-online-presence-with-cookiebot-technology/"><u>Boost Your Online Presence with Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/boost-your-sites-engagement-with-cookiebot-the-ultimate-analytics-solution/"><u>Boost Your Site's Engagement with Cookiebot - The Ultimate Analytics Solution!</u></a></li>
+<li><a href="https://techidaily.com/boosting-digital-engagement-with-advanced-cookiebot-solutions/"><u>Boosting Digital Engagement with Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://techidaily.com/boosting-website-traffic-with-advanced-automated-tracking-featuring-cookiebot-technology/"><u>Boosting Website Traffic with Advanced Automated Tracking - Featuring Cookiebot Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-life-and-movement-to-stills-with-illustrator-techniques-for-2024/"><u>Bring Life & Movement to Stills with Illustrator Techniques for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-chatgpt-enterprise-features-value-proposition-and-distinctive-aspects/"><u>Comprehensive Guide to ChatGPT Enterprise - Features, Value Proposition, and Distinctive Aspects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005933639-conquer-ghost-recon-breakpoint-glitches-with-ease-and-speed/"><u>Conquer 'Ghost Recon Breakpoint' Glitches with Ease & Speed!</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-insights-and-marketing-successes/"><u>Cookiebot-Driven Insights and Marketing Successes</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-websites-visitor-tracking-efficiency/"><u>Cookiebot-Enabled: Enhance Your Website's Visitor Tracking Efficiency</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciphering-sharex-comparisons-and-replacements-for-2024/"><u>Deciphering ShareX  Comparisons & Replacements for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 13 Pro?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapshots-of-progress-windows-10s-new-features/"><u>Snapshots of Progress  Windows 10'S New Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-homeowners-handbook-to-diagnosing-and-repairing-everyday-tv-issues/"><u>The Homeowner's Handbook to Diagnosing and Repairing Everyday TV Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-recommended-television-streaming-services/"><u>Top Recommended Television Streaming Services</u></a></li>
+<li><a href="https://techidaily.com/understanding-through-cognition-revolutionizing-data-processing-with-abbyy/"><u>Understanding Through Cognition: Revolutionizing Data Processing with ABBYY</u></a></li>
+<li><a href="https://techidaily.com/uniting-strengths-of-abbyy-and-bizagi-to-power-corporate-leap-into-advanced-digital-solutions/"><u>Uniting Strengths of ABBYY and Bizagi to Power Corporate Leap Into Advanced Digital Solutions</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-true-potential-of-ai-insights-from-the-ai-summit-diving-deeper-with-abbyy/"><u>Unveiling the True Potential of AI: Insights From the AI Summit - Diving Deeper with ABBYY</u></a></li>
+<li><a href="https://techidaily.com/utilizing-advanced-cookiebot-tools-for-enhanced-performance/"><u>Utilizing Advanced Cookiebot Tools for Enhanced Performance</u></a></li>
+</ul></div>

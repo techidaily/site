@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-08-27 17:32:50
-updated: 2024-08-29 10:20:32
+date: 2024-09-01T02:15:15.434Z
+updated: 2024-09-02T02:15:15.434Z
 tags:
   - mobile
 categories:
@@ -39,10 +39,16 @@ Joe Fedewa / How-To Geek
 
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  How It Works and What You Need
 
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The first thing I did was look for small portable head units on Amazon. The smallest I could find was 5-inches, which is still pretty big for a bike. Plus, it would need to be plugged into a power source. That's no good. So what about that old phone idea again?
@@ -51,6 +57,9 @@ Joe Fedewa / How-To Geek
 
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  I was honestly amazed at how well this all worked. I had an old phone with a cracked screen, perfect for the job. It really is exactly the same as using Android Auto in a car. Now, I've got a simplified interface with Google Maps navigation and music controls front and center. To complete the setup, I 3D printed a Quad Lock mounting system for the bike and phone, but any bike mount would work.
@@ -73,3 +82,49 @@ Joe Fedewa / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-achieving-professional-quality-remotely/"><u>[New] 2024 Approved  Achieving Professional Quality Remotely</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-learn-the-easy-way-unlocking-iphone-screen-recording/"><u>[New] 2024 Approved  Learn the Easy Way  Unlocking Iphone Screen Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-best-unlimited-cloud-storage-service-recommendations/"><u>[New] Best Unlimited Cloud Storage Service Recommendations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-expedient-techniques-to-spot-and-expel-deceptive-insta-connections-for-2024/"><u>[New] Expedient Techniques to Spot and Expel Deceptive Insta Connections for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-art-of-integrating-b-footage-into-main-shots-for-2024/"><u>[New] The Art of Integrating B-Footage Into Main Shots for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-game-to-glass-obs-edition/"><u>[Updated] 2024 Approved  Game to Glass  OBS Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-easy-gaming-memories-start-recording-now/"><u>[Updated] In 2024, Easy Gaming Memories  Start Recording Now</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>[Updated] In 2024, Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-melodic-mastery-for-game-dominance-in-free-fire/"><u>2024 Approved  Melodic Mastery for Game Dominance in Free Fire</u></a></li>
+<li><a href="https://techidaily.com/abbyy-champions-humanitys-cause-by-enhancing-ai-oversight-with-innovative-audit-solutions/"><u>ABBYY Champions Humanity's Cause by Enhancing AI Oversight with Innovative Audit Solutions</u></a></li>
+<li><a href="https://techidaily.com/abbyy-intelligente-dateiabrufstechnologie-schnellere-digitalisierung-von-unternehmensablaufen/"><u>ABBYY Intelligente Dateiabrufstechnologie - Schnellere Digitalisierung Von Unternehmensabläufen</u></a></li>
+<li><a href="https://techidaily.com/abbyy-leitet-munchens-digitale-revolution-modernisierung-von-bauburomaterialien/"><u>ABBYY Leitet Münchens Digitale Revolution: Modernisierung Von Baubüromaterialien</u></a></li>
+<li><a href="https://techidaily.com/cookiebots-revolutionary-impact-on-seo-and-conversion-optimization-for-enhanced-digital-marketing-results/"><u>Cookiebot's Revolutionary Impact on SEO and Conversion Optimization for Enhanced Digital Marketing Results</u></a></li>
+<li><a href="https://techidaily.com/drive-traffic-with-cutting-edge-automated-tracking-the-power-of-cookiebot/"><u>Drive Traffic with Cutting-Edge Automated Tracking: The Power of Cookiebot</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-installing-amd-radeon-rx-590-drivers-on-windows-systems/"><u>Easy Guide to Installing AMD Radeon RX 590 Drivers on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/elevate-user-engagement-optimized-tracking-through-innovative-cookiebot-solutions/"><u>Elevate User Engagement: Optimized Tracking Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://techidaily.com/enhanced-targeting-with-the-cookiebot-technology/"><u>Enhanced Targeting with the Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/entendiendo-la-politica-de-recetas-en-el-software-abbyy-una-guia-completa/"><u>Entendiendo La Política De Recetas en El Software Abbyy: Una Guía Completa</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/evaluating-the-mediocre-features-of-the-portable-viewsonic-va1655-monitor/"><u>Evaluating the Mediocre Features of the Portable ViewSonic VA1655 Monitor</u></a></li>
+<li><a href="https://techidaily.com/experience-swift-scanning-solutions-with-new-abbyy-finescanner-for-ios-maximizing-your-productivity-and-streamlining-document-management/"><u>Experience Swift Scanning Solutions with New ABBYY FineScanner for iOS - Maximizing Your Productivity and Streamlining Document Management!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-how-to-fix-your-broken-logiteche-g633-headset-microphone/"><u>Expert Advice on How to Fix Your Broken Logiteche G633 Headset Microphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-selected-premier-power-inverter-brands-for-maximum-output/"><u>Expertly Selected Premier Power Inverter Brands for Maximum Output</u></a></li>
+<li><a href="https://techidaily.com/explore-the-future-of-document-management-with-abbyy-join-us-at-pegaworld-inspire-2023-event/"><u>Explore the Future of Document Management with ABBYY - Join Us at PegaWorld Inspire 2023 Event</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-fingerprint-scanner-app-installed-on-windows-systems-now/"><u>Get Your Fingerprint Scanner App Installed on Windows Systems Now!</u></a></li>
+<li><a href="https://techidaily.com/harnessing-cookiebot-technology-for-improved-online-engagement/"><u>Harnessing Cookiebot Technology for Improved Online Engagement</u></a></li>
+<li><a href="https://techidaily.com/how-artificial-intelligence-is-reshaping-accounts-payable-a-deep-dive-with-abbyy-experts/"><u>How Artificial Intelligence Is Reshaping Accounts Payable - A Deep Dive with ABBYY Experts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-motorola-razr-40-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Motorola Razr 40</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-14-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 14 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/intelligence-driven-document-processing-elevating-your-companys-service-offerings/"><u>Intelligence-Driven Document Processing: Elevating Your Company's Service Offerings</u></a></li>
+<li><a href="https://techidaily.com/is-upgrading-to-ios-14-a-smart-move-pros-and-cons-explored/"><u>Is Upgrading to iOS 14 a Smart Move? – Pros and Cons Explored</u></a></li>
+<li><a href="https://techidaily.com/leveraging-cookiebots-power-for-superior-web-presence/"><u>Leveraging Cookiebot's Power for Superior Web Presence</u></a></li>
+<li><a href="https://techidaily.com/maximizing-efficiency-in-invoice-management-an-insightful-webinar-on-leveraging-ai-for-ap-systems/"><u>Maximizing Efficiency in Invoice Management: An Insightful Webinar on Leveraging AI for AP Systems</u></a></li>
+<li><a href="https://techidaily.com/navigating-through-the-obstacles-of-digital-transformation-insights-from-abbyy-tech-summit-july-2017/"><u>Navigating Through the Obstacles of Digital Transformation - Insights From ABBYY Tech Summit, July 2017</u></a></li>
+<li><a href="https://techidaily.com/nec/"><u>NECソリューションイノベータが業務効率向上に貢献</u></a></li>
+<li><a href="https://techidaily.com/optimized-with-advanced-web-tracking-the-power-of-cookiebot-technology/"><u>Optimized with Advanced Web Tracking - The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/should-you-break-free-an-analysis-of-using-chatgpt-jailbreak-tools/"><u>Should You Break Free? An Analysis of Using ChatGPT Jailbreak Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-insiders-edge-building-snaps-with-powertoys/"><u>The Insider's Edge: Building Snaps with PowerToys</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-turning-memories-into-snaps-for-2024/"><u>The Ultimate Guide to Turning Memories Into Snaps for 2024</u></a></li>
+<li><a href="https://techidaily.com/transform-documents-into-editable-files-on-ios-using-ocr-enabled-scanner-apps-like-finereader-pro/"><u>Transform Documents Into Editable Files on iOS Using OCR-Enabled Scanner Apps Like FineReader Pro</u></a></li>
+<li><a href="https://techidaily.com/transform-your-photos-to-searchable-text-on-ios-using-scannerplusocr-by-docuscan-technologies/"><u>Transform Your Photos to Searchable Text on iOS Using Scanner+OCR by DocuScan Technologies</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-premium-voice-alteration-software-without-pay-mastering-sound-changes-in-filmora-videos/"><u>Updated 2024 Approved Exploring Premium Voice Alteration Software Without Pay Mastering Sound Changes in Filmora Videos</u></a></li>
+</ul></div>

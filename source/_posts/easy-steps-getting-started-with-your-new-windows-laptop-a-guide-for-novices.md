@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2024-08-28 15:48:26
-updated: 2024-08-29 12:15:47
+date: 2024-09-01T02:19:37.159Z
+updated: 2024-09-02T02:19:37.159Z
 tags:
   - deals
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -52,14 +55,27 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 4  Set Up Automatic Data Backups 
 
  It's essential to back up the non-techie person's data to protect against accidental deletion and corruption of important files. While they could use an external drive, this method can be time-consuming and challenging. Therefore, I recommend using a cloud storage service, which will automatically back up their data without requiring any action from them (or you).
 
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  Foolproof the System's Security 
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
@@ -87,10 +103,33 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 8  Teach Them Basic Windows Actions 
 
  Although this isn’t strictly a setup step, it’s essential to teach a few basic skills to someone new to Windows. You can show them how to use Task Manager to find and close processes consuming too many resources. You can also teach them to [check for and install Windows updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), connect to Wi-Fi or Ethernet, and [adjust brightness](https://win-blog.techidaily.com/wwe-2k22-pc-performance-issues-understanding-and-solving-sudden-game-exits/) and volume.
@@ -115,3 +154,62 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mobile-magic-no-cost-image-transformation-tool/"><u>[New] In 2024, Mobile Magic  No-Cost Image Transformation Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-zombie-survival-quest-top-8-game-guide-for-2024/"><u>[New] Zombie Survival Quest - Top 8 Game Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boost-your-creativity-on-instagram-with-free-filters/"><u>[Updated] 2024 Approved  Boost Your Creativity on Instagram with Free Filters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-template-to-tutorial-gamers-channel-design/"><u>[Updated] From Template to Tutorial  Gamers' Channel Design</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-intercept-non-requested-youtube-video-alerts/"><u>[Updated] Intercept Non-Requested YouTube Video Alerts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimize-your-presence-mastering-snapchat-business-use-for-2024/"><u>[Updated] Optimize Your Presence  Mastering Snapchat Business Use for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveil-your-video-potential-streaming-google-meet-to-youtube-guide/"><u>[Updated] Unveil Your Video Potential  Streaming Google Meet to YouTube Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-14-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi 14 Ultra Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-perfecting-the-science-of-converting-speech-to-text-with-google/"><u>2024 Approved  Perfecting the Science of Converting Speech to Text with Google</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-prime-flood-and-flow-video-game-reviews/"><u>2024 Approved  Prime Flood & Flow Video Game Reviews</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-quest-for-your-own-distinctive-stream-tagline/"><u>2024 Approved  The Quest for Your Own Distinctive Stream Tagline</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-what-does-the-blue-marker-on-fb-chat-reveal/"><u>2024 Approved  What Does the Blue Marker on FB Chat Reveal?</u></a></li>
+<li><a href="https://techidaily.com/1723808292958-2024-techniques-step-up-your-game-with-improved-fortnite-fps/"><u>2024 Techniques: Step Up Your Game with Improved Fortnite FPS!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerate-language-acquisition-through-advanced-chatgpt-plus-methods/"><u>Accelerate Language Acquisition Through Advanced ChatGPT Plus Methods</u></a></li>
+<li><a href="https://techidaily.com/accelerate-your-pc-the-ultimate-guide-to-resolving-windows-cuhb-11-lags-and-delays/"><u>Accelerate Your PC: The Ultimate Guide to Resolving Windows Cuhb 11 Lags and Delays</u></a></li>
+<li><a href="https://techidaily.com/all-about-wsus-the-definitive-insight-into-windows-server-updates/"><u>All About WSUS: The Definitive Insight Into Windows Server Updates</u></a></li>
+<li><a href="https://techidaily.com/best-vpn-for-kodi-in-2020-the-ultimate-guide/"><u>Best VPN for Kodi in 2020 [the Ultimate Guide]</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-halting-windows-11-updates-permanently/"><u>Complete Guide: Halting Windows 11 Updates Permanently</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-solution-updating-huion-graphics-tablet-software-for-pcs/"><u>Complete Solution: Updating Huion Graphics Tablet Software for PCs</u></a></li>
+<li><a href="https://techidaily.com/complete-steps-for-disabling-the-voice-assistant-in-windows-11/"><u>Complete Steps for Disabling the Voice Assistant in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/dell-drivers-download-for-windows-7/"><u>Dell Drivers Download for Windows 7</u></a></li>
+<li><a href="https://techidaily.com/1723808129333-disable-windows-defender-on-windows-10-3-ways/"><u>Disable Windows Defender on Windows 10 – 3 Ways</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-choices-exclusive-guide-to-the-best-oversized-mouse-pads-2er-2024/"><u>Elite Choices: Exclusive Guide to the Best Oversized Mouse Pads - 2Er 2024</u></a></li>
+<li><a href="https://techidaily.com/1723808237896-getting-your-pc-ready-for-enhanced-innovation-with-windows-11-creators-updates-key-steps/"><u>Getting Your PC Ready for Enhanced Innovation with Windows 11 Creator's Updates: Key Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-functionality-on-an-iphone-with-a-broken-display/"><u>Guide to Restoring Functionality on an Iphone With a Broken Display</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-non-ejectable-disc-player-tips-and-solutions/"><u>How to Repair a Non-Ejectable Disc Player: Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-windows-7-startup-and-fix-boot-lag/"><u>How to Speed Up Your Windows 7 Startup and Fix Boot Lag</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/1723808000322-premier-mac-video-editing-software-by-apple-elevate-your-editing-skills-today/"><u>Premier Mac Video Editing Software by Apple - Elevate Your Editing Skills Today!</u></a></li>
+<li><a href="https://techidaily.com/step-inside-the-boot-options-of-windows-10-with-this-comprehensive-guide/"><u>Step Inside the Boot Options of Windows 10 with This Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-boot-your-windows-7vistaxp-into-safe-mode/"><u>Step-by-Step Guide: Boot Your Windows 7/Vista/XP Into Safe Mode</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-enabling-wireless-internet-on-your-computer-or-laptop/"><u>Step-by-Step Guide: Enabling Wireless Internet on Your Computer or Laptop</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-removing-temp-files-on-windows-10-made-easy/"><u>Step-by-Step Guide: Removing Temp Files on Windows 10 Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-stream-or-save-your-ps4-gameplays-effortlessly/"><u>Step-by-Step Tutorial: How To Stream or Save Your PS4 Gameplays Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-repairing-drag-and-drop-mechanism-in-windows-environment/"><u>Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment</u></a></li>
+<li><a href="https://techidaily.com/stop-mouse-acceleration-easily-tips-and-tricks-inside/"><u>Stop Mouse Acceleration Easily - Tips & Tricks Inside</u></a></li>
+<li><a href="https://techidaily.com/successful-resolution-overcoming-windows-10-setup-issues/"><u>Successful Resolution: Overcoming Windows 10 Setup Issues</u></a></li>
+<li><a href="https://techidaily.com/1723808292864-the-moody-chart-is-used-to-find-the-friction-factor-f-for-calculating-pressure-drops-in-both-laminar-and-turbulent-flows-within-pipes/"><u>The Moody Chart Is Used to Find the Friction Factor (F) for Calculating Pressure Drops in Both Laminar and Turbulent Flows Within Pipes.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-using-asus-chromebook-c202sa-in-education-a-review-focused-on-longevity/"><u>The Ultimate Guide to Using Asus Chromebook C202SA in Education - A Review Focused on Longevity</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-audio-issues-in-windows-nt-an-in-depth-tutorial-for-checking-mic-performance/"><u>Troubleshooting Audio Issues in Windows nT: An In-Depth Tutorial for Checking Mic Performance</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-external-hard-drives-not-detected-on-windows-11-systems-expert-solutions/"><u>Troubleshooting External Hard Drives Not Detected on Windows 11 Systems: Expert Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-connection-delays-in-the-elder-scrolls-onlines-blackwood-area/"><u>Troubleshooting Guide: Overcoming Connection Delays in The Elder Scrolls Online’s Blackwood Area</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-fixing-sluggish-windows-11-startup-times/"><u>Troubleshooting Tips: Fixing Sluggish Windows 11 Startup Times</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-windows-11-user-authentication-problems-solutions-inside/"><u>Troubleshooting Windows 11 User Authentication Problems - Solutions Inside!</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-correct-steps-to-format-your-hard-drive-and-avoid-errors/"><u>Troubleshooting: Correct Steps to Format Your Hard Drive and Avoid Errors</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-create-a-bootable-usb-drive-from-windows-10-iso/"><u>Ultimate Guide: Create a Bootable USB Drive From Windows 10 ISO</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-configuring-remote-access-for-your-windows-10-machine/"><u>Ultimate Tutorial on Configuring Remote Access for Your Windows 10 Machine</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-resetting-your-pc-to-factory-settings-in-windows-11-a-step-by-step-approach/"><u>Ultimate Tutorial on Resetting Your PC to Factory Settings in Windows 11 – A Step by Step Approach</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-secrets-of-windows-10s-boot-configuration-a-step-by-step-guide/"><u>Unlocking the Secrets of Windows 10'S Boot Configuration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/windows-11-guide-improve-your-gaming-experience-by-disabling-mouse-acceleration/"><u>Windows 11 Guide: Improve Your Gaming Experience by Disabling Mouse Acceleration</u></a></li>
+<li><a href="https://techidaily.com/wirelessly-projecting-laptop-content-on-a-television-with-an-hdmi-connection-a-visual-guide/"><u>Wirelessly Projecting Laptop Content on a Television with an HDMI Connection - A Visual Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-windows-speed-up-overcoming-slow-net-issues/"><u>Zoom Windows Speed Up: Overcoming Slow Net Issues</u></a></li>
+</ul></div>

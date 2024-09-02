@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2024-08-27 21:38:30
-updated: 2024-08-29 11:37:53
+date: 2024-09-01T02:17:18.424Z
+updated: 2024-09-02T02:17:18.424Z
 tags:
   - desktop
 categories:
@@ -89,6 +89,9 @@ ls | lolcat
 
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
 
  Let's display the contents of a file in a rainbow spectrum using lolcat:
@@ -113,6 +116,9 @@ vim ~/.bashrc
 
 ![Setting up an alias for the ls -l command in the ~/.bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/alias-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After creating the alias, don’t forget to log out and back in to apply the changes.
 
  Now, when you type **lolls**, the system will execute the command ls -l and pipe its output to lolcat for a colorful display.
@@ -121,6 +127,21 @@ lolls
 
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ##  Animate Your Text Using lolcat
 
  Why settle for static colors when you can animate them? One of the most entertaining features of lolcat is its ability to animate text, making it feel like the colors are dancing across your terminal. To animate the output, simply add the -a or --animate flag:
@@ -169,6 +190,12 @@ figlet -f slant "Welcome to HTG" | lolcat
 
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Make Things Interesting With cowsay
 
  Want to make things more funny? Let's combine lolcat with [cowsay](https://github.com/cowsay-org/cowsay). This fun command allows you to create speech bubbles with cute animal characters that display a message you provide.
@@ -191,6 +218,9 @@ cowsay "Linux is Funny" | lolcat
 
 ![Displaying a rainbow-colored cow in the terminal window with some text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  But why stop at cows? Cowsay comes with a whole menagerie of ASCII animals. Let's see what a rainbow tux has to say:
 
 cowsay -f tux "Linux is cool" | lolcat
@@ -217,3 +247,51 @@ cowsay -f tux "Linux is cool" | lolcat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-10-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 10 Creators Update</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-innovative-tech-voice-changing-apps-reviewed/"><u>[Updated] 2024 Approved  Innovative Tech  Voice-Changing Apps Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-memories-best-apps-to-enhance-photos/"><u>[Updated] Capture Memories  Best Apps to Enhance Photos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-compliance-with-copyright-law-when-sharing-media-through-fb-for-2024/"><u>[Updated] Compliance with Copyright Law when Sharing Media Through FB for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-blur-it-out-free-iphones-tips-for-crisp-image-edits/"><u>[Updated] In 2024, Blur It Out  Free iPhones Tips for Crisp Image Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-no-frills-screensaver-windows-compatible/"><u>[Updated] In 2024, No Frills Screensaver - Windows Compatible</u></a></li>
+<li><a href="https://techidaily.com/amd-driver-woes-be-gone-master-the-art-of-uninstallation-on-windows-devices/"><u>AMD Driver Woes Be Gone: Master the Art of Uninstallation on Windows Devices</u></a></li>
+<li><a href="https://techidaily.com/banishing-delays-efficient-solutions-for-fast-booting-windows-11-systems/"><u>Banishing Delays: Efficient Solutions for Fast-Booting Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/connect-play-and-enjoy-wirelessly-linking-bluetooth-speaker-and-laptop-easily/"><u>Connect, Play & Enjoy: Wirelessly Linking Bluetooth Speaker and Laptop Easily.</u></a></li>
+<li><a href="https://techidaily.com/decoding-rundll32exe-its-functions-and-implications-for-your-pc/"><u>Decoding rundll32.exe: Its Functions and Implications for Your PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-image-synergy-tactics/"><u>Digital Image Synergy Tactics</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earnings-escalation-via-youtube-channel-initiatives-for-2024/"><u>Earnings Escalation via YouTube Channel Initiatives for 2024</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-for-taking-snapshots-on-windows-10-pcs/"><u>Easy Steps for Taking Snapshots on Windows 10 PCs</u></a></li>
+<li><a href="https://techidaily.com/effortless-printing-how-to-set-up-your-laptop-with-any-printer-cable-or-wi-fi/"><u>Effortless Printing: How to Set Up Your Laptop with Any Printer, Cable or Wi-Fi</u></a></li>
+<li><a href="https://techidaily.com/ensuring-backwards-compatibility-how-to-run-vintage-software-seamlessly-on-windows-10/"><u>Ensuring Backwards Compatibility: How to Run Vintage Software Seamlessly on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/error-code-80240020-comprehensive-troubleshooting-steps-for-windows-10-installation-issues-resolved/"><u>Error Code 80240020: Comprehensive Troubleshooting Steps for Windows 10 Installation Issues Resolved</u></a></li>
+<li><a href="https://techidaily.com/essential-guide-to-fixing-windows-hardware-driver-problems/"><u>Essential Guide to Fixing Windows Hardware Driver Problems</u></a></li>
+<li><a href="https://techidaily.com/get-your-latest-asus-device-support-download-tailored-drivers-for-windows-10-and-7/"><u>Get Your Latest ASUS Device Support: Download Tailored Drivers for Windows 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/get-your-system-optimized-complimentary-updated-dell-drivers-for-windows-10-available-now/"><u>Get Your System Optimized: Complimentary Updated Dell Drivers for Windows 10 Available Now!</u></a></li>
+<li><a href="https://techidaily.com/guide-to-activating-and-using-your-iphones-hotspot-feature-as-a-wi-fi-router/"><u>Guide to Activating and Using Your iPhone's Hotspot Feature as a Wi-Fi Router</u></a></li>
+<li><a href="https://techidaily.com/guide-accessing-and-analyzing-windows-crash-reports/"><u>Guide: Accessing and Analyzing Windows Crash Reports</u></a></li>
+<li><a href="https://techidaily.com/1723808290812-how-to-connect-ps4-controller-to-ps3-easily/"><u>How to Connect PS4 Controller to PS3. Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-convert-your-iphones-cellular-data-into-a-personal-wi-fi-network/"><u>How to Convert Your iPhone's Cellular Data Into a Personal Wi-Fi Network</u></a></li>
+<li><a href="https://techidaily.com/how-to-fix-logitech-keyboards-not-detected-by-windows-11-a-step-by-step-guide/"><u>How to Fix Logitech Keyboards Not Detected by Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-id-password-2020-guide/"><u>How to Reset Apple ID Password [2020 Guide]</u></a></li>
+<li><a href="https://techidaily.com/how-to-uninstall-printer-driver-on-windows/"><u>How to Uninstall Printer Driver on Windows</u></a></li>
+<li><a href="https://techidaily.com/identifying-bluetooth-capability-in-laptops-a-tutorial-with-two-effective-techniques/"><u>Identifying Bluetooth Capability in Laptops: A Tutorial with Two Effective Techniques</u></a></li>
+<li><a href="https://techidaily.com/identifying-cpu-heat-issues-solutions-to-cool-down-your-system/"><u>Identifying CPU Heat Issues - Solutions to Cool Down Your System</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-exploring-the-features-of-the-nook-glowlight-4/"><u>In-Depth Analysis: Exploring the Features of the Nook GlowLight 4</u></a></li>
+<li><a href="https://techidaily.com/installing-and-configuring-superrepo-for-kodi-a-detailed-tutorial/"><u>Installing and Configuring SuperRepo for Kodi - A Detailed Tutorial</u></a></li>
+<li><a href="https://techidaily.com/1723808310103-installing-your-epson-printer-made-simple-follow-these-steps/"><u>Installing Your Epson Printer Made Simple: Follow These Steps!</u></a></li>
+<li><a href="https://techidaily.com/kodi-users-get-your-exodus-add-on-up-and-running-with-these-july-2020-tips/"><u>Kodi Users: Get Your Exodus Add-On Up and Running with These July 2020 Tips</u></a></li>
+<li><a href="https://techidaily.com/offline-adventures-in-minecraft-for-windows-11-users-how-to-tutorials-and-tricks/"><u>Offline Adventures in Minecraft for Windows 11 Users: How-To Tutorials and Tricks</u></a></li>
+<li><a href="https://techidaily.com/open-group-policy-editor-gpeditmsc-in-windows-11-in-5-ways/"><u>Open Group Policy Editor (gpedit.msc) in Windows 11 in 5 Ways</u></a></li>
+<li><a href="https://techidaily.com/overcoming-windows-setup-obstacles-gpt-and-compatibility-solutions/"><u>Overcoming Windows Setup Obstacles: GPT and Compatibility Solutions</u></a></li>
+<li><a href="https://techidaily.com/resolving-the-issue-of-missing-amd-graphics-drivers-in-device-manager-step-by-step-solution/"><u>Resolving the Issue of Missing AMD Graphics Drivers in Device Manager - Step-by-Step Solution</u></a></li>
+<li><a href="https://techidaily.com/restoring-illumination-fixes-for-non-functioning-keylight-on-lenovo-devices/"><u>Restoring Illumination: Fixes for Non-Functioning Keylight on Lenovo Devices</u></a></li>
+<li><a href="https://techidaily.com/rip-dvds-with-ease-using-windows-11-the-ultimate-how-to/"><u>Rip DVDs with Ease Using Windows 11 - The Ultimate How-To</u></a></li>
+<li><a href="https://techidaily.com/seagate-external-hd-invisible-on-windows-11-solutions-to-reappear-it-back/"><u>Seagate External HD Invisible on Windows 11: Solutions to Reappear It Back</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/subtle-music-level-decrease-for-pcmac-users-for-2024/"><u>Subtle Music Level Decrease for PC/Mac Users for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-newest-apple-tv-4k-series-gen-3-insights/"><u>The Ultimate Guide to the Newest Apple TV 4K Series - Gen 3 Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-success-overcoming-horizon-zero-dawns-pc-malfunction/"><u>Troubleshooting Success: Overcoming Horizon Zero Dawn's PC Malfunction</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-guide-to-the-finest-ios-device-transfer-apps-user-ratings-and-insights/"><u>Ultimate Guide to the Finest iOS Device Transfer Apps: User Ratings and Insights</u></a></li>
+<li><a href="https://techidaily.com/1723808226582-unlock-the-power-of-advanced-startup-in-windows-11-easy-methods-revealed/"><u>Unlock the Power of Advanced Startup in Windows 11: Easy Methods Revealed</u></a></li>
+</ul></div>

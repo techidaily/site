@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux"
-date: 2024-08-27 23:47:37
-updated: 2024-08-29 12:33:31
+date: 2024-09-01T02:16:17.989Z
+updated: 2024-09-02T02:16:17.989Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  If you're the system administrator that responsibility falls to you. Here's how to go about it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Why Delete an Account?
 
  There's any number of reasons an account might need to be deleted. A staff member might be moving to a different team or leaving the company altogether. The account might have been set up for a short term collaboration with a visitor from another company. Team-ups are common in academia, where research projects can span departments, different universities, and even commercial entities. At the conclusion of the project, the system administrator has to perform the housekeeping and remove unnecessary accounts.
@@ -47,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  Everything's set. All eyes are on you.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Check the Login
 
  Let's see if he really is logged in and, if he is, how many sessions he's working with. The `who` command [will list active sessions](http://man7.org/linux/man-pages/man1/who.1.html).
@@ -55,6 +62,9 @@ who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
  Eric is logged in once. Let's see what processes he's running.
 
 ##  Reviewing The User's Processes
@@ -87,6 +97,9 @@ sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
 
 ![sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/20-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The awk command [parses fields from text files](http://man7.org/linux/man-pages/man1/awk.1p.html) and optionally manipulates them. We're using the `-F` (field separator) option to tell `awk` that the file uses a colon " `:` " to separate the fields. We're going to search for a line with the pattern "eric" in it. For matching lines, we'll print the first and second fields. These are the account name and the encrypted password.
 
  The entry for user account eric is printed for us.
@@ -140,6 +153,10 @@ sudo tar cfjv eric-20200820.tar.bz /home/eric
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  A lot of screen output will scroll in the terminal window. To check the archive has been created, use the `ls` command. We're using the `-l` (long format) and `-h` (human-readable) options.
 
 ls -lh eric-20200802.tar.bz
@@ -148,6 +165,9 @@ ls -lh eric-20200802.tar.bz
 
  A file of 722 MB has been created. This can be copied somewhere safe for later review.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ##  Removing cron Jobs
 
  We'd better check in case there are any `cron` jobs scheduled for user account `eric`. A `cron` job is a command that is triggered at specified times or intervals. We can check if there are any `cron` jobs scheduled for this user account by using `ls`:
@@ -156,14 +176,23 @@ sudo ls -lh /var/spool/cron/crontabs/eric
 
 ![sudo ls -lh /var/spool/cron/crontabs/eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If anything exists in this location it means there are `cron` jobs queued for that user account. We can delete them with this `crontab` command. The `-r` (remove) option will remove the jobs, and the `-u` (user) option tells `crontab` [whose jobs to remove](http://man7.org/linux/man-pages/man1/crontab.1.html).
 
 sudo crontab -r -u eric
 
 ![sudo crontab -r -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Removing Print Jobs
 
  Perhaps the user had pending print jobs? Just to be sure, we can purge the print queue of any jobs belonging to user account `eric`. The `lprm` command [removes jobs from the print queue](http://man7.org/linux/man-pages/man1/lprm.1.html). The `-U` (username) option lets you remove jobs owned by the named user account:
@@ -174,6 +203,9 @@ lprm -U eric
 
  The jobs are removed and you are returned to the command line.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Deleting the User Account
 
  We've already backed up the files from the `/home/eric/` directory, so we can go ahead and delete the user account and delete the `/home/eric/` directory at the same time.
@@ -188,6 +220,9 @@ type userdel
 
 ![type deluser in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/22-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  Although they're both available, the recommendation is to use `deluser` [on Debian-derived distributions](http://manpages.ubuntu.com/manpages/eoan/man8/userdel.8.html):
 
  "`userdel` is a low level utility for removing users. On Debian, administrators should usually use `deluser`(8) instead."
@@ -208,12 +243,18 @@ ls /home
 
 ![ls /home in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The `eric` group has also been removed because the user account `eric` was the only entry in it. We can check this quite easily by piping the contents of `/etc/group` through `grep`:
 
 sudo less /etc/group | grep eric
 
 ![sudo less /etc/group | grep eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  It's a Wrap
 
  Eric, for his sins, is gone. Security is still walking him out of the building and you've already secured and archived his files, deleted his account, and purged the system of any remnants.
@@ -234,3 +275,44 @@ sudo less /etc/group | grep eric
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ishowu-audio-capture-download-and-review/"><u>[New] 2024 Approved  IShowU Audio Capture Download and Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-studios-power-for-professional-edits/"><u>[New] Unlocking YouTube Studio's Power for Professional Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-macs-finest-for-gif-saving-the-leading-apps/"><u>[Updated] In 2024, Mac's Finest for GIF Saving  The Leading Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-captioning-for-social-video-content-from-snapchat-to-igtv/"><u>2024 Approved  Captioning for Social Video Content  From Snapchat to IGTV</u></a></li>
+<li><a href="https://techidaily.com/abbyy-champions-humanitys-cause-by-enhancing-ai-oversight-with-innovative-audit-solutions/"><u>ABBYY Champions Humanity's Cause by Enhancing AI Oversight with Innovative Audit Solutions</u></a></li>
+<li><a href="https://techidaily.com/abbyy-intelligente-dateiabrufstechnologie-schnellere-digitalisierung-von-unternehmensablaufen/"><u>ABBYY Intelligente Dateiabrufstechnologie - Schnellere Digitalisierung Von Unternehmensabläufen</u></a></li>
+<li><a href="https://techidaily.com/abbyy-leitet-munchens-digitale-revolution-modernisierung-von-bauburomaterialien/"><u>ABBYY Leitet Münchens Digitale Revolution: Modernisierung Von Baubüromaterialien</u></a></li>
+<li><a href="https://techidaily.com/accelerating-hospital-transfers-strategies-for-expedited-consultations-and-superior-treatment-results/"><u>Accelerating Hospital Transfers: Strategies for Expedited Consultations & Superior Treatment Results</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-hd-6350-fresh-driver-download-and-updates-for-windows-users/"><u>AMD Radeon HD 6350 - Fresh Driver Download & Updates for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/boost-your-digital-campaigns-using-the-advanced-tools-of-cookiebot/"><u>Boost Your Digital Campaigns Using the Advanced Tools of Cookiebot</u></a></li>
+<li><a href="https://techidaily.com/boosting-web-traffic-with-cookiebot-integration-techniques/"><u>Boosting Web Traffic with Cookiebot Integration Techniques</u></a></li>
+<li><a href="https://techidaily.com/butagas-erleichtert-energiewechsel-professionelles-datenerfassungssystem-von-abbyy-fur-privatkunden/"><u>Butagas Erleichtert Energiewechsel - Professionelles Datenerfassungssystem Von ABBYY Für Privatkunden</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-conversions-boosting-online-presence-through-smart-data-tracking/"><u>Cookiebot-Driven Conversions: Boosting Online Presence Through Smart Data Tracking</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-data-collection-enhancing-user-experience/"><u>Cookiebot-Driven Data Collection: Enhancing User Experience</u></a></li>
+<li><a href="https://techidaily.com/enhanced-targeting-with-the-cookiebot-technology/"><u>Enhanced Targeting with the Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/entendiendo-la-politica-de-recetas-en-el-software-abbyy-una-guia-completa/"><u>Entendiendo La Política De Recetas en El Software Abbyy: Una Guía Completa</u></a></li>
+<li><a href="https://techidaily.com/experience-swift-scanning-solutions-with-new-abbyy-finescanner-for-ios-maximizing-your-productivity-and-streamlining-document-management/"><u>Experience Swift Scanning Solutions with New ABBYY FineScanner for iOS - Maximizing Your Productivity and Streamlining Document Management!</u></a></li>
+<li><a href="https://techidaily.com/explore-the-future-of-document-management-with-abbyy-join-us-at-pegaworld-inspire-2023-event/"><u>Explore the Future of Document Management with ABBYY - Join Us at PegaWorld Inspire 2023 Event</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-intel-graphics-software-stuck-in-error-state/"><u>Fixes & Solutions: Intel Graphics Software Stuck in Error State</u></a></li>
+<li><a href="https://techidaily.com/harnessing-cookiebot-technology-for-improved-online-engagement/"><u>Harnessing Cookiebot Technology for Improved Online Engagement</u></a></li>
+<li><a href="https://techidaily.com/how-artificial-intelligence-is-reshaping-accounts-payable-a-deep-dive-with-abbyy-experts/"><u>How Artificial Intelligence Is Reshaping Accounts Payable - A Deep Dive with ABBYY Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-a-spectacited-photographic-display/"><u>In 2024, Crafting a Spectacited Photographic Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sprinting-to-victory-key-moments-from-2-omics-games/"><u>In 2024, Sprinting to Victory  Key Moments From 2 Omics Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-into-better-imaging-with-these-gopro-extras/"><u>In 2024, Step Into Better Imaging with These GoPro Extras</u></a></li>
+<li><a href="https://techidaily.com/intelligence-driven-document-processing-elevating-your-companys-service-offerings/"><u>Intelligence-Driven Document Processing: Elevating Your Company's Service Offerings</u></a></li>
+<li><a href="https://techidaily.com/is-upgrading-to-ios-14-a-smart-move-pros-and-cons-explored/"><u>Is Upgrading to iOS 14 a Smart Move? – Pros and Cons Explored</u></a></li>
+<li><a href="https://techidaily.com/leveraging-cookiebots-power-for-superior-web-presence/"><u>Leveraging Cookiebot's Power for Superior Web Presence</u></a></li>
+<li><a href="https://techidaily.com/maximizing-efficiency-in-invoice-management-an-insightful-webinar-on-leveraging-ai-for-ap-systems/"><u>Maximizing Efficiency in Invoice Management: An Insightful Webinar on Leveraging AI for AP Systems</u></a></li>
+<li><a href="https://techidaily.com/navigating-through-the-obstacles-of-digital-transformation-insights-from-abbyy-tech-summit-july-2017/"><u>Navigating Through the Obstacles of Digital Transformation - Insights From ABBYY Tech Summit, July 2017</u></a></li>
+<li><a href="https://techidaily.com/nec/"><u>NECソリューションイノベータが業務効率向上に貢献</u></a></li>
+<li><a href="https://techidaily.com/optimized-with-advanced-web-tracking-the-power-of-cookiebot-technology/"><u>Optimized with Advanced Web Tracking - The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-unknown-hardware-in-windows-1110/"><u>Steps to Solve Unknown Hardware in Windows 11/10</u></a></li>
+<li><a href="https://techidaily.com/transform-documents-into-editable-files-on-ios-using-ocr-enabled-scanner-apps-like-finereader-pro/"><u>Transform Documents Into Editable Files on iOS Using OCR-Enabled Scanner Apps Like FineReader Pro</u></a></li>
+<li><a href="https://techidaily.com/transform-your-photos-to-searchable-text-on-ios-using-scannerplusocr-by-docuscan-technologies/"><u>Transform Your Photos to Searchable Text on iOS Using Scanner+OCR by DocuScan Technologies</u></a></li>
+</ul></div>

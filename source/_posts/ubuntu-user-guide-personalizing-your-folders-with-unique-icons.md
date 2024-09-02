@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu User Guide: Personalizing Your Folders with Unique Icons"
-date: 2024-08-28 14:52:20
-updated: 2024-08-29 10:25:37
+date: 2024-09-01T02:16:33.659Z
+updated: 2024-09-02T02:16:33.659Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  Want to personalize folder icons on Ubuntu? Try changing the icons or color of your folders. It helps you organize your files better, makes your folders more recognizable, and adds some flair to your Linux desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Change Folder Icons on Ubuntu
 
  Changing folder icons on [Ubuntu](https://common-error.techidaily.com/overcoming-graphics-card-not-supported-hurdles-in-fortnite-for-windows-users/) can make your folders stand out. For example, if you have a lot of folders on your home screen, it can be hard to find the one you need quickly. By changing the icons of your folders, you can make them more distinctive and easier to spot. Additionally, you have the flexibility to assign various icons to different folder types, such as music, documents, pictures, and more.
@@ -34,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 [Icon Archive](https://www.iconarchive.com/), [Iconfinder](https://www.iconfinder.com/), and [Flaticon](https://www.flaticon.com/) offer a wide variety of attractive folder icons and themes that work on Linux. Just download the icon you like and save it to any [directory on your system](https://some-tips.techidaily.com/2024-approved-unveiling-beats-optimal-background-music-for-vids/). Then you can apply it to any folder you want.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  How to Set a Custom Folder Icon on Ubuntu
 
  Setting a custom folder icon on Ubuntu is easy. All you need to do is right-click on the folder and open the "Properties" window. From there, click on the current folder icon and select a new one. This will apply a new custom icon to your selected folder. Let's break this down!
@@ -46,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  Inside the "Properties" section, click on the default folder icon.
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-4.png) 
@@ -54,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![A window for selecting a custom icon to set it as a folder icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
  That's it, the icon for the selected folder will be changed.
 
 ![Folder icon with new look](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-4.png) 
@@ -82,10 +95,16 @@ nautilus -q
 
 ![Nautilus file manager showing home directory after changing color to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Similarly, you can also add emblems to your folder icon.
 
 ![Nautilus file manager shows the home directory after adding an emblem to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can change the color of multiple folders at once. Select all the folders, then right-click and choose a suitable color for the folders.
 
 ##  How to Restore a Folder's Icon to Its Default Look
@@ -96,10 +115,16 @@ nautilus -q
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  Within the properties, click on the currently used custom icon shown in the "Basic" section of folder properties.
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lastly, tap the "Revert" option to restore the custom icon to its default look.
 
 ![A window for reverting a custom icon to its default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-1.png) 
@@ -114,12 +139,18 @@ nautilus -q
 
 ![A window showing the main context menu along with the color tool submenu with the default option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The folder icon with the default color will be restored successfully.
 
 ![Nautilus file manager showing home directory after restoring videos folder color icon to default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16.png) 
 
  The "Default" button of the folder-color extension will also revert any changes made from the folder's "Properties" section. However, any changes made using the folder-color extension, like changing the color, emblem, and others are irreversible through the "Revert" button under folder properties.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Customize Ubuntu the Way You Want
 
  Changing your folder or directory icon is a great way to customize your Linux system. But that's not all, you can try [customizing your Ubuntu terminal](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/), or make [Ubuntu look more like Windows](https://instagram-video-files.techidaily.com/updated-navigating-instagram-data-a-complete-analysis-for-businesses-and-individuals/). You can also [hide the Ubuntu top bar and dock](https://win11-tips.techidaily.com/reimagining-taskbar-dynamics-top-6-suggestions-for-windows-11-enhancement/) to get more screen space.
@@ -140,3 +171,52 @@ nautilus -q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-exclusive-list-of-the-top-10-digital-recording-apps/"><u>[New] 2024 Approved  Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-experts-choice-top-10-streamer-pickers-guide/"><u>[New] 2024 Approved  The Expert's Choice  Top 10 Streamer Pickers Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtual-voyages-unveiled-the-ultimate-gaming-odyssey-top-10/"><u>[New] 2024 Approved  Virtual Voyages Unveiled  The Ultimate Gaming Odyssey (Top 10)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevating-ad-engagement-through-three-principle-copy-structures-for-2024/"><u>[New] Elevating Ad Engagement Through Three Principle Copy Structures for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom/"><u>[Updated] Crafting Spectacular HDR Images  Blending Tips in Adobe Lightroom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cutting-techniques-for-sports-entertainment-films/"><u>[Updated] Cutting Techniques for Sports Entertainment Films</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mosaic-masterpieces-elevating-your-living-space/"><u>2024 Approved  Mosaic Masterpieces  Elevating Your Living Space</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-professional-post-processing-how-to-erase-image-borders-easily/"><u>2024 Approved  Professional Post-Processing  How to Erase Image Borders Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212265344-apex-legends-basic-anti-tamper-bug-effortless-solution-inside/"><u>Apex Legends Basic Anti-Tamper Bug - Effortless Solution Inside!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-knowledge-for-no-cost/"><u>Discovering Knowledge for No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-or-fantasy-debunking-9-key-ai-chatbot-beliefs/"><u>Fact or Fantasy? Debunking 9 Key AI Chatbot Beliefs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-and-repair-your-non-functional-logitech-g733-microphone/"><u>Fixing the Issue: How to Troubleshoot and Repair Your Non-Functional Logitech G733 Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-efficiently-process-game-console-returns/"><u>How to Efficiently Process Game Console Returns</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone SE?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-vivo-y77t-by-fonelab-android-recover-music/"><u>How to restore wiped music on Vivo Y77t</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-plot-crafting-platform/"><u>In 2024, Ideal Plot Crafting Platform</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/interactive-insights-archive-for-2024/"><u>Interactive Insights Archive for 2024</u></a></li>
+<li><a href="https://techidaily.com/overcoming-restrictions-enabling-access-to-websites-on-google-chrome/"><u>Overcoming Restrictions: Enabling Access to Websites on Google Chrome</u></a></li>
+<li><a href="https://techidaily.com/pc-gaming-basics-essential-guide-to-getting-started-with-fortnite/"><u>PC Gaming Basics: Essential Guide to Getting Started with Fortnite</u></a></li>
+<li><a href="https://techidaily.com/preventing-thermal-damage-steps-for-finding-and-fixing-an-overheated-processor/"><u>Preventing Thermal Damage: Steps for Finding & Fixing an Overheated Processor</u></a></li>
+<li><a href="https://techidaily.com/processor-power/"><u>Processor Power</u></a></li>
+<li><a href="https://techidaily.com/quick-fix-how-to-retrieve-a-missing-word-file-on-windows-10-visual-guide/"><u>Quick Fix: How to Retrieve a Missing Word File on Windows 10 (Visual Guide)</u></a></li>
+<li><a href="https://techidaily.com/refreshing-windows-11-performance-a-comprehensive-guide-to-hard-reset-techniques/"><u>Refreshing Windows 11 Performance: A Comprehensive Guide to Hard Reset Techniques</u></a></li>
+<li><a href="https://techidaily.com/revive-your-arch-bluetooth-mouse-compatibility-following-the-latest-windows-amoled-update/"><u>Revive Your Arch Bluetooth Mouse Compatibility Following the Latest Windows Amoled Update</u></a></li>
+<li><a href="https://techidaily.com/seamlessly-transfer-your-dvd-content-a-step-by-step-guide-for-windows-11-users/"><u>Seamlessly Transfer Your DVD Content: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/secure-your-ipad-with-a-virtual-private-network-simple-setup-steps-for-enhanced-privacy/"><u>Secure Your iPad with a Virtual Private Network: Simple Setup Steps for Enhanced Privacy</u></a></li>
+<li><a href="https://techidaily.com/simple-solutions-resolve-your-logitech-keyboard-delay-issues-with-these-effortless-tips/"><u>Simple Solutions: Resolve Your Logitech Keyboard Delay Issues with These Effortless Tips</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-switching-your-windows-10-connection-from-public-to-private-mode/"><u>Simple Steps: Switching Your Windows 10 Connection From Public to Private Mode</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-process-for-pairing-android-smartphone-with-pc-using-bluetooth-technology/"><u>Step-by-Step Process for Pairing Android Smartphone with PC Using Bluetooth Technology</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-solutions-to-enhance-fps-and-reduce-stuttering-in-call-of-duty-modern-warfares-cold-war-2nv-update/"><u>Step-by-Step Solutions to Enhance FPS & Reduce Stuttering in Call of Duty: Modern Warfare's Cold War (2Nv) Update</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-solutions-making-drag-and-drop-functional-again-on-your-pc/"><u>Step-by-Step Solutions: Making Drag & Drop Functional Again on Your PC</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-linking-a-printer-in-windows-11-os/"><u>Step-by-Step Tutorial on Linking a Printer in Windows 11 OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-most-effective-gamingcomputer-extension-mats-of-202er/"><u>The Most Effective Gaming/Computer Extension Mats of 202Er</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-tutorial-on-updating-device-drivers-in-windows-10-and-11-systems/"><u>The Ultimate Tutorial on Updating Device Drivers in Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-rated-windows-8-podcast-platforms/"><u>Top-Rated Windows 8 Podcast Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-set-design-top-8-sites-providing-free-green-screen-footage-and-backdrop-for-2024/"><u>Transform Your Set Design  Top 8 Sites Providing Free Green Screen Footage & Backdrop for 2024</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-dealing-with-unresponsive-spotify-apps-in-windows-environments/"><u>Troubleshooting Tips: Dealing with Unresponsive Spotify Apps in Windows Environments</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-configuring-and-activating-a-virtual-private-network-vpn-on-android-with-ease/"><u>Ultimate Guide: Configuring and Activating a Virtual Private Network (VPN) on Android with Ease</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-resolving-zoom-share-screen-issues/"><u>Ultimate Guide: Resolving 'Zoom Share Screen' Issues</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-setting-up-your-triple-monitor-display/"><u>Ultimate Guide: Setting Up Your Triple-Monitor Display</u></a></li>
+<li><a href="https://techidaily.com/unlock-internet-freedom-in-the-usa-exclusive-free-vpn-trial-offers-for-secure-browsing/"><u>Unlock Internet Freedom in the USA: Exclusive Free VPN Trial Offers for Secure Browsing</u></a></li>
+<li><a href="https://techidaily.com/unlock-your-browsing-guide-to-unblocking-sites-in-chrome/"><u>Unlock Your Browsing: Guide to Unblocking Sites in Chrome</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c67-4g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C67 4G Device</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-secrets-of-disk-management-a-beginners-tutorial-for-windows-11-users/"><u>Unlocking the Secrets of Disk Management: A Beginner's Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+</ul></div>

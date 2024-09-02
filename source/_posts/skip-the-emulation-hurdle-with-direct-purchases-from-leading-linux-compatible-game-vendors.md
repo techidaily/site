@@ -1,7 +1,7 @@
 ---
 title: Skip the Emulation Hurdle with Direct Purchases From Leading Linux-Compatible Game Vendors
-date: 2024-08-28 21:11:20
-updated: 2024-08-29 10:28:50
+date: 2024-09-01T02:17:03.361Z
+updated: 2024-09-02T02:17:03.361Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,9 @@ Jason Fitzpatrick / How-To Geek
 
  To find native Linux games on Steam, navigate to the "Categories" tab and select "SteamOS + Linux" to view all games native to Linux on Steam. You can also look up a specific game title and check its compatible platforms. If there's a small Steam icon alongside the Windows icon, it indicates compatibility with SteamOS and Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  GOG
 
 ![GOG.com store homepage with banner for new release game Wartales and a highlighted deal for others games](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gog-com-store-homepage-with-banner-for-new-release-game-wartales-and-a-highlighted-deal-for-others-games.png) 
@@ -49,14 +52,23 @@ Jason Fitzpatrick / How-To Geek
 
 ![Humble Choice promotion banner on Humble Bundle website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/humble-choice-promotion-banner-on-humble-bundle-website.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Humble Bundle](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002762/https://www.humblebundle.com/) is more than just a game store; it's a platform that offers incredible deals on games, ebooks, software, and more. It has become a beloved destination for Linux gamers seeking diverse and affordable gaming experiences. The platform regularly features bundles that include native Linux titles, allowing users to support charitable causes while expanding their gaming library. Additionally, Humble Bundle's subscription service, Humble Choice, also offers a handpicked selection of games each month, including several Linux-compatible titles.
 
  To find native Linux games on Humble Bundle, simply click on "Games" at the top of the page, then select "Linux" from the Platforms section. You can also spot games compatible with Linux by looking for a small penguin icon beside the usual Windows and Apple logos on the game’s page.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  itch.io
 
 ![itch.io homepage displaying a list of top games for Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/itch-io-homepage-displaying-a-list-of-top-games-for-linux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [itch.io](https://itch.io/) is an indie game marketplace and community where independent developers can sell their games directly to players. It offers a wide range of games for Linux, many of which are not available in other game stores. From short, experimental experiences to full-fledged indie gems, itch.io is a treasure trove for Linux gamers seeking unique and innovative titles, often at affordable prices.
 
  To find native Linux games on itch.io, click on the "Browse Games" tab at the top. Next, on the left sidebar, under the Platform section, select "Linux". This will filter the games to show only those compatible with Linux. You can also narrow down your search by using the "Tags" section to select specific genres or themes.
@@ -65,14 +77,23 @@ Jason Fitzpatrick / How-To Geek
 
 ![Gamejolt store page displaying a list of top games for Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gamejolt-stoe-page-displaying-a-list-of-top-games-for-linux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [Game Jolt](https://gamejolt.com/games) is a lesser-known platform that offers a vast selection of indie games. It's worth mentioning that not all games on Game Jolt offer Linux support, but many do. They have a growing library of native Linux games, including many that are free or pay-what-you-want. It is a fantastic platform that caters specifically to independent game developers and enthusiasts.
 
  Finding native Linux games on Game Jolt is as simple as other platforms. Firstly, visit the Game Jolt website and tap on the "Store" section. Then, select the "Linux" filter from the OS drop-down menu. This will filter the games to show only those compatible with Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  ArchWiki's List of Games Page
 
 ![Arch Linux logo on the ArchWiki website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/archlinux.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  The ArchWiki is a great resource for Linux gamers who are looking for hard-to-find games, available through either third-party sources or the AUR. The [Arch User Repository](https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-k70-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) (AUR) is a community-driven repository for Arch Linux users that includes many native Linux games.
@@ -121,3 +142,47 @@ Jordan Gloor / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-10-webcam-covers-that-keep-you-safe-online/"><u>[New] 2024 Approved  10 Webcam Covers That Keep You Safe Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-preserve-your-memories-android-and-mac-snap-extraction-tips/"><u>[New] Preserve Your Memories  Android & Mac Snap Extraction Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-win-10s-best-recording-software-10-picks-for-2024/"><u>[New] Win 10'S Best Recording Software - 10 Picks for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-compelling-instagram-stories-a-guide-to-scaled-visuals/"><u>[Updated] 2024 Approved  Crafting Compelling Instagram Stories  A Guide to Scaled Visuals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-advice-hassle-free-recordings-with-ios-devices/"><u>[Updated] In 2024, Expert Advice  Hassle-Free Recordings with iOS Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shape-shifting-skills-a-comprehensive-pic-warping-manual/"><u>[Updated] Shape-Shifting Skills  A Comprehensive Pic Warping Manual</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-enhancing-your-android-and-iphone-snaps-for-2024/"><u>[Updated] The Ultimate Guide to Enhancing Your Android & iPhone Snaps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y78plus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y78+ System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-sticky-note-opening-on-windows-11/"><u>Breaking Down Sticky Note Opening on Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-transformation-from-zero-to-thousand-followers/"><u>Channel Transformation  From Zero to Thousand Followers</u></a></li>
+<li><a href="https://techidaily.com/complete-steps-for-disabling-the-voice-assistant-in-windows-11/"><u>Complete Steps for Disabling the Voice Assistant in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/dell-drivers-download-for-windows-7/"><u>Dell Drivers Download for Windows 7</u></a></li>
+<li><a href="https://techidaily.com/diagnosing-lag-problems-understanding-the-reason-behind-fps-drops-and-stutters-during-your-diablo-4-adventure/"><u>Diagnosing Lag Problems - Understanding the Reason Behind FPS Drops and Stutters During Your Diablo 4 Adventure</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-for-hooking-up-your-computers-to-a-wi-fi-network-securely-and-quickly/"><u>Easy Steps for Hooking up Your Computers to a Wi-Fi Network Securely and Quickly</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-to-download-and-generate-your-own-windows-ebyte-7-iso-file/"><u>Easy Steps to Download & Generate Your Own Windows Ebyte 7 ISO File</u></a></li>
+<li><a href="https://techidaily.com/easy-tutorial-updating-and-downloading-epson-scanner-software-compatible-with-windows-11/"><u>Easy Tutorial: Updating and Downloading Epson Scanner Software Compatible with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/effortless-driver-updates-for-windows-7810-systems-a-guide/"><u>Effortless Driver Updates for Windows 7/8/10 Systems - A Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhance-photo-clarity-with-snapchats-zoom-function/"><u>Enhance Photo Clarity with Snapchat's Zoom Function</u></a></li>
+<li><a href="https://techidaily.com/expert-tutorial-enabling-and-using-remote-desktop-feature-in-windows-11/"><u>Expert Tutorial: Enabling and Using Remote Desktop Feature in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/exploring-vpn-tunneling-protocols-an-overview-and-typology/"><u>Exploring VPN Tunneling Protocols: An Overview and Typology</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-icon-size-on-windows-11/"><u>How to Change Icon Size on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212186222-how-to-fix-unrecognized-usb-hardware-errors-on-your-pc-solutions-inside/"><u>How to Fix Unrecognized USB Hardware Errors on Your PC – Solutions Inside!</u></a></li>
+<li><a href="https://techidaily.com/how-to-securely-transfer-windows-11-documents-in-just-seven-steps/"><u>How to Securely Transfer Windows 11 Documents in Just Seven Steps!</u></a></li>
+<li><a href="https://techidaily.com/how-to-unblock-torrent-sites-or-check-torrent-site-alternatives/"><u>How to Unblock Torrent Sites (Or Check Torrent Site Alternatives)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cant-see-cursor-only-sony-a6400-glitch/"><u>In 2024, Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/instant-vpn-configuration-tips-a-simple-step-by-step-process-for-secure-browsing/"><u>Instant VPN Configuration Tips: A Simple Step-by-Step Process for Secure Browsing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/learn-the-erasure-technique-using-stellar-eraser-for-your-macos-on-any-device/"><u>Learn the Erasure Technique: Using Stellar Eraser for Your macOS on Any Device</u></a></li>
+<li><a href="https://techidaily.com/master-safe-mode-on-windows-10-explore-4-effective-methods-and-their-screenshots/"><u>Master Safe Mode on Windows 10: Explore 4 Effective Methods and Their Screenshots</u></a></li>
+<li><a href="https://techidaily.com/maximize-your-pubg-matches-expert-strategies-to-skyrocket-fps-in-2020/"><u>Maximize Your PUBG Matches: Expert Strategies to Skyrocket FPS in 2020</u></a></li>
+<li><a href="https://techidaily.com/overcome-high-disk-usage-problems-a-successful-fix-for-windows-10s-task-manager-dilemma/"><u>Overcome High Disk Usage Problems - A Successful Fix for Windows 10’S Task Manager Dilemma</u></a></li>
+<li><a href="https://techidaily.com/quick-fix-removing-temporary-data-and-cache-for-a-smoother-windows-10-experience/"><u>Quick Fix: Removing Temporary Data & Cache for a Smoother Windows 10 Experience</u></a></li>
+<li><a href="https://techidaily.com/quick-guide-how-to-seamlessly-translate-pages-with-google-chrome-mozilla-firefox-and-microsoft-edge/"><u>Quick Guide: How to Seamlessly Translate Pages with Google Chrome, Mozilla Firefox, and Microsoft Edge</u></a></li>
+<li><a href="https://techidaily.com/reset-this-pc-windows-11-when-and-how-to-use-it/"><u>Reset This PC Windows 11 - When & How to Use It</u></a></li>
+<li><a href="https://techidaily.com/simple-guide-discovering-your-pcs-specifications-on-windows-11/"><u>Simple Guide: Discovering Your PC's Specifications on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-for-finding-deleted-microsoft-word-documents-on-windows-10-plus-images/"><u>Simple Steps for Finding Deleted Microsoft Word Documents on Windows 10 + Images!</u></a></li>
+<li><a href="https://techidaily.com/sleeker-starts-for-windows-10-systems-mastering-quick-boots/"><u>Sleeker Starts for Windows 10 Systems – Mastering Quick Boots</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-5-essential-mac-live-streaming-apps/"><u>Top 5 Essential Mac Live Streaming Apps</u></a></li>
+</ul></div>
