@@ -1,7 +1,7 @@
 ---
 title: Optimize Windows File Management with This Ultimate User Setup
-date: 2024-09-01T02:18:05.552Z
-updated: 2024-09-02T02:18:05.552Z
+date: 2024-09-05T06:19:36.400Z
+updated: 2024-09-06T06:19:36.401Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Even with the addition of tabs, the file browsing experience on Windows is still lackluster. The search is as broken as ever. I’m still waiting for bulk renaming, file locks, a bookmarks bar, or secure deletion. Panes have limited file previews and organization is bare bones. Let’s fix it all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Search Anything With Everything
 
  The default file indexing is painfully slow on Windows, and it always has been. That’s why looking up files in Explorer can take such a long time. On occasion, I have manually located a file faster than Explorer search. That’s why I switched to [Everything](https://www.voidtools.com/downloads/).
@@ -29,15 +35,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Filer options in Everything Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-024646.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Whenever you update or add a file, Everything indexes it right away. It builds its database within seconds of the first installation, and it scans for changes in real time. It’s so fast that you don’t even have to complete the query to retrieve a file or folder. It pulls up files as you type. No progress bars.
 
  You can even search through network folders. Just press the hotkey—Ctrl+N by default—and start typing.
 
  It takes very few resources to run Everything and it’s completely free. If you have a lot of files on your computer, [Everything is a must-have](https://facebook-video-content.techidaily.com/seamless-share-youtube-videos-set-up-autoplay-on-fb-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Work Faster With PowerToys
 
  PowerToys isn’t built into Windows, but it is an official Microsoft product. It’s a set of utilities designed to enhance workflows on Windows. It’s installed as a single program and gives you access to a whole library of amazingly useful tools. Let's take a look at a few of these utilities (there are [a lot more](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/)).
@@ -46,6 +55,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Customizing FancyZones settings in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pt-fancyzones-multimon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  Preview panes on Windows show the contents of a file without opening it. Sadly, it’s mostly limited to image previews. With PowerToys, you can preview more than 150 types of files, including PDF files, source code files, [markdowns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c12-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), and more. If your workflow involves jumping between files often, PowerToys can save you some time.
@@ -53,16 +68,16 @@ Microsoft
 ![PowerToys preview pane.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/powertoys-fileexplorer-win11.gif) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Microsoft
 
@@ -85,14 +100,20 @@ Close
 ![Configuring file sorting automation in File Juggler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move-downloaded-pdf-files-1000-x2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  File Juggler can also read the contents of documents to automatically name them and move them wherever they belong based on their content. It’ll monitor new documents and organize them too.
 
  You only have to set it up once. After that, File Juggler will take over any incoming files.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Faster File Browsing with Explorer++
 
@@ -100,26 +121,24 @@ Close
 
 ![Explorer++ bookmark manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Explorer++
 
  Plenty of alternative file explorers have a bookmark manager, but I use Explorer++. It has tabbed browsing and a robust bookmark manager. You can bookmark a directory with Ctrl+D just like you would in a browser. It then appears on the dedicated bookmarks bar on top.
 
 ![Explorer ++ configuration.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 Explorer++
 
  Explorer++ also offers a few other neat options. Consider its "Destroy File" feature. Even after you empty the Recycle Bin, your deleted files aren’t really erased—they can be recovered using data recovery tools. In Explorer++, you can permanently delete files using the “Destory File” button. You can also split or merge files.
 
  Explorer++ is freeware and lightweight. Its UI is also customizable, so you can make it fit your particular workflow. 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Safely Delete Files With Eraser
 
  When you delete a file on Windows, it’s not the file that’s deleted but its index. Think of the index as the table of contents for a book. Even if you remove a chapter from the index, the actual pages of the chapter still remain in the book.
@@ -132,6 +151,12 @@ Explorer++
 
 ![Eraser context menu launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240806-135856.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can delete a file with Eraser from the right-click context menu. It might take a little longer than regular deletion though (especially for bigger files). You can [download Eraser](https://eraser.heidi.ie/download/) from the official website.
 
 <ins class="adsbygoogle"

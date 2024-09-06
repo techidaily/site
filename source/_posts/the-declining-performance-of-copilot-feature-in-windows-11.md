@@ -1,7 +1,7 @@
 ---
 title: The Declining Performance of Copilot Feature in Windows 11
-date: 2024-09-01T02:19:20.191Z
-updated: 2024-09-02T02:19:20.191Z
+date: 2024-09-05T06:19:37.272Z
+updated: 2024-09-06T06:19:37.272Z
 tags:
   - deals
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Declining Performance of Copilot Feature in Windows 11
 
 The Copilot chatbot AI is now a core component of Windows 10 and Windows 11, but the implementation has changed several times over the past year. It's changing again in Windows 11, and now it's even less useful.
@@ -17,6 +23,12 @@ The Copilot chatbot AI is now a core component of Windows 10 and Windows 11, but
 
 ![Asking Copilot to open Notepad, it responds with a step-by-step tutorial.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  While the core functionality of Copilot remains intact and you can still chat with it, Microsoft has removed the minimal integration that was previously available, including the ability to [adjust system settings and themes using voice commands](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/). Additionally, Copilot's experimental file transfer feature in Windows 10 has been scrapped.
 
  Even if you aren't a fan of Copilot, it's a bit annoying that the feature's system-level integrations have been removed. It seemed like Microsoft was working towards something like the Cortana assistant in the early days of Windows 10, with the ability to change settings and control applications with simple commands, but that's now gone. The chatbot now works exactly like the Copilot web app on other devices or the Copilot mobile apps.
@@ -96,7 +108,3 @@ The Copilot chatbot AI is now a core component of Windows 10 and Windows 11, but
 <li><a href="https://techidaily.com/utilizing-cookiebot-technology-for-dynamic-content-customization/"><u>Utilizing Cookiebot Technology for Dynamic Content Customization</u></a></li>
 <li><a href="https://tech-revival.techidaily.com/will-chatgpt-be-the-next-big-thing-in-advancing-global-health-systems/"><u>Will ChatGPT Be the Next Big Thing in Advancing Global Health Systems?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

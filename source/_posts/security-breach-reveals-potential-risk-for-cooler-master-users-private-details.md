@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-09-01T02:14:37.176Z
-updated: 2024-09-02T02:14:37.176Z
+date: 2024-09-05T06:19:33.944Z
+updated: 2024-09-06T06:19:33.944Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/cooler-master-masterfan-MF120R.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
 
 You might be familiar with Cooler Master for its PC cooling components, but the company has also expanded into PC cases, peripherals, and other hardware categories over the past few years. If you're a customer of the company, and especially if you've had to use its website for warranty information, you might be affected by a new data breach.
@@ -92,7 +98,3 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 <li><a href="https://techidaily.com/understanding-identity-proofing-why-its-essential-but-not-the-whole-security-answer/"><u>Understanding Identity Proofing: Why It's Essential but Not the Whole Security Answer</u></a></li>
 <li><a href="https://techidaily.com/unlock-greater-engagement-and-roi-through-advanced-cookiebot-integrated-solutions/"><u>Unlock Greater Engagement & ROI Through Advanced Cookiebot-Integrated Solutions!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

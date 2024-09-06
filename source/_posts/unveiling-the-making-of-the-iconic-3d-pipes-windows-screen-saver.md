@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver
-date: 2024-09-01T02:18:33.700Z
-updated: 2024-09-02T02:18:33.700Z
+date: 2024-09-05T06:19:36.711Z
+updated: 2024-09-06T06:19:36.711Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pipes.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver
 
 Windows used to include a screensaver called “3D Pipes,” which drew overlapping pipes on a black background. It’s a fond memory for many people, and a new blog post sheds some light on its origin.
@@ -102,7 +108,3 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 <li><a href="https://extra-tips.techidaily.com/ultimate-playwriting-workshop/"><u>Ultimate Playwriting Workshop</u></a></li>
 <li><a href="https://some-approaches.techidaily.com/ultimate-virtual-reality-controller-guide-for-2024/"><u>Ultimate Virtual Reality Controller Guide for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Introducing ProtonDrive: The Ultimate Free Online Spreadsheet Platform Mirroring Google Docs Features"
-date: 2024-09-01T02:14:34.365Z
-updated: 2024-09-02T02:14:34.365Z
+date: 2024-09-05T06:19:33.913Z
+updated: 2024-09-06T06:19:33.913Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fdfd2bc619bdcccf2bd014463.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing ProtonDrive: The Ultimate Free Online Spreadsheet Platform Mirroring Google Docs Features
 
 Proton has focused on building a suite of apps and services revolving around its main concept: privacy and security. It already has an email app, a cloud storage service, a VPN, a calendar, and a password manager. Now, a new document editor is joining the fray, albeit as a sub-feature of Proton Drive.
@@ -17,6 +23,12 @@ Proton has focused on building a suite of apps and services revolving around its
 
 ![proton docs blog cover@2x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/proton-docs-blog-cover-2x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Proton 
 
  The new tool aims to combine privacy with user-friendliness. It includes features like rich text editing, file compatibility with formats like .docx, commenting and collaboration tools, image embedding, and real-time collaborative cursors. Proton also plans to introduce additional collaboration features in the future. Looking at screenshots of the app, you might find Proton's Docs feature to be a bit more barebones than Google Docs or Microsoft Word. This is normal, as it's the very first version of the service. It's also a sub-feature of Proton Drive in theory, although Proton might still choose to give it some love.
@@ -92,7 +104,3 @@ Proton
 <li><a href="https://video-screen-grab.techidaily.com/top-screen-savers-webs-best-free-choices-for-2024/"><u>Top Screen Savers  Web's Best Free Choices for 2024</u></a></li>
 <li><a href="https://techidaily.com/understanding-ocr-vs-idp-key-differences-explained/"><u>Understanding OCR Vs. IDP: Key Differences Explained</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

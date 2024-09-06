@@ -1,7 +1,7 @@
 ---
 title: Spelling Assistance Now Available on Windows 지오피의 노트북 앱
-date: 2024-09-01T02:19:04.549Z
-updated: 2024-09-02T02:19:04.549Z
+date: 2024-09-05T06:19:37.067Z
+updated: 2024-09-06T06:19:37.067Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Spelling Assistance Now Available on Windows 지오피의 노트북 앱
 
 Notepad's basic functionality hasn't stopped it from being used for quick notes, editing configuration files, and everything in between. The most daring of you might have even used it to store passwords at one point or another (please don't do this). Still, Microsoft has been on a mission to make Notepad not as barebones and a bit more feature-rich, especially now that WordPad is gone for good. Now, Microsoft has added spellcheck to it.
@@ -19,6 +25,12 @@ Notepad's basic functionality hasn't stopped it from being used for quick notes,
 
 ![Screenshot of spellcheck suggestions in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/spellcheck-blog-post.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2024/03/21/spellcheck-in-notepad-begins-rolling-out-to-windows-insiders/)
 
  While the spellcheck feature is enabled by default for some file types, it is turned off by default for log files and other file types commonly associated with coding—after all, it might actually mess with those kinds of files. If you don't like having a spellcheck or autocorrect at all, you can toggle this setting on or off globally or for specific file types within the Notepad app settings or temporarily for the current file through the context menu.
@@ -83,7 +95,3 @@ Notepad's basic functionality hasn't stopped it from being used for quick notes,
 <li><a href="https://extra-tips.techidaily.com/the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

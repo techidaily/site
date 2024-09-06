@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Innovations: Enhanced Typing & Summary Features in Your Browsers"
-date: 2024-09-01T02:14:09.108Z
-updated: 2024-09-02T02:14:09.108Z
+date: 2024-09-05T06:19:33.633Z
+updated: 2024-09-06T06:19:33.633Z
 tags:
   - web
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c075541dbef1c38bbe62a795e13b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upcoming Innovations: Enhanced Typing & Summary Features in Your Browsers
 
 Google Chrome's AI team has proposed new APIs, dubbed Writing Assistance, for directly accessing language models built into web browsers and operating systems. It could lead to more sites and web apps adding AI writing integrations.
@@ -103,7 +115,3 @@ Google Chrome's AI team has proposed new APIs, dubbed Writing Assistance, for di
 <li><a href="https://techidaily.com/unleashing-traffic-with-cookiebot-technology-a-game-changer-for-seo-strategies/"><u>Unleashing Traffic with Cookiebot Technology: A Game-Changer for SEO Strategies</u></a></li>
 <li><a href="https://youtube-clips.techidaily.com/video-voyages-venturing-into-the-vlog-profit-world/"><u>Video Voyages  Venturing Into the Vlog Profit World</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

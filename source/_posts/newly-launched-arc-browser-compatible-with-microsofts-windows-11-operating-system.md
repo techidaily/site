@@ -1,7 +1,7 @@
 ---
 title: "Newly Launched: Arc Browser Compatible with Microsoft's Windows 11 Operating System"
-date: 2024-09-01T02:16:28.944Z
-updated: 2024-09-02T02:16:28.944Z
+date: 2024-09-05T06:19:35.300Z
+updated: 2024-09-06T06:19:35.300Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/4c674686d1a033251a256acfde6c5f560acb7a06d667c2bd3280ae37b703a9f2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Newly Launched: Arc Browser Compatible with Microsoft's Windows 11 Operating System
 
 Arc, a free web browser developed by The Browser Company, is now available on Windows 10\. The only caveat is that it doesn't work on Windows 10 build 1809, which Microsoft doesn’t support either.
@@ -19,6 +31,12 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 
 ![Arc browser running on macOS 13 Ventura](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/arc_browser_featured.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Arc is a new Chromium-based browser released in April 2022 that supports Chrome browser extensions from the Chrome Web Store out of the box. The app comes with [some interesting integrations](https://arc.net/integrations), like the ability to change visual elements of any page, with built-in apps hosted in a sidebar. In addition to Windows 10, Arc is available on iOS, iPadOS, macOS, iOS, and Windows 11\. Linux and Android are unsupported at the moment, but you can sign up for an [Android waitlist](https://browserco.typeform.com/to/i5p2MBU5) or a [Windows on ARM waitlist](https://browserco.typeform.com/Arc-Windows-ARM) to stay informed about when those versions will become available.
 
  Due to Apple's requirements, the iOS and iPadOS versions use Safari's WebKit layout engine. However, that could change for customers in the European Union, where Apple now permits third-party browsers with custom engines. For further information about the browser and what you can do with it, be sure to [peruse our Arc review](https://instagram-video-recordings.techidaily.com/the-art-of-sharing-horizontals-in-igtvs-vertical-world/).
@@ -81,7 +99,3 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 <li><a href="https://discover-alternatives.techidaily.com/unlocking-the-potential-of-digital-advertising-how-smart-tech-like-cookiebot-powers-results/"><u>Unlocking the Potential of Digital Advertising: How Smart Tech Like Cookiebot Powers Results</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-best-of-the-web-free-video-editors-for-online-use-for-2024/"><u>Updated Best of the Web Free Video Editors for Online Use for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity: New Notepad Updates Bring Advanced Features in Windows 11"
-date: 2024-09-01T02:19:42.284Z
-updated: 2024-09-02T02:19:42.284Z
+date: 2024-09-05T06:19:37.514Z
+updated: 2024-09-06T06:19:37.514Z
 tags:
   - deals
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbdad2027a1e368bc81a0dd6f11.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing Productivity: New Notepad Updates Bring Advanced Features in Windows 11
 
 Notepad received a signifiant overhaul with the first release of Windows 11, but Microsoft isn't done rolling out updates. Two more features are now on the way: a character count and a context menu option.
@@ -19,6 +25,12 @@ Notepad received a signifiant overhaul with the first release of Windows 11, but
 
 ![Character count in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/notepad-character-count.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2023/12/07/announcing-windows-11-insider-preview-build-26010-canary-channel/)
 
  The same update also introduces a new "Edit with Notepad" option in the right-click context menu in File Explorer. When you open the context menu on a file, the option will appear near the bottom of the list. The third-party Notepad++ editor added a similar menu option back in March for Windows 11 PCs. Several text editors, including Notepad++, already had a quick edit option on Windows 10 and earlier releases ([because the menu was reworked for Windows 11](https://youtube-stream.techidaily.com/in-2024-ultimate-collection-premium-dj-visuals-available-for-download/)).
@@ -27,6 +39,18 @@ Notepad received a signifiant overhaul with the first release of Windows 11, but
 
 ![Edit with Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/edit-with-notepad.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2023/12/07/announcing-windows-11-insider-preview-build-26010-canary-channel/)
 
  These aren't the only recent additions to Notepad. Microsoft [added automatic file saving](https://digital-screen-recording.techidaily.com/new-ios-snapshot-spectrum-your-quick-reference/) back in September, and the [long-awaited tabbed window support](https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/) was added in February. The initial release of Windows 11 in 2021 [introduced the new Notepad](https://screen-recording.techidaily.com/updated-step-by-step-screen-and-video-capture-on-android/) with a more modern interface, dark mode support, multi-level undo, and an upgraded find-and-replace feature.
@@ -105,7 +129,3 @@ Notepad received a signifiant overhaul with the first release of Windows 11, but
 <li><a href="https://techidaily.com/windows-10-anniversary-update-download-easily/"><u>Windows 10 Anniversary Update Download Easily</u></a></li>
 <li><a href="https://techidaily.com/windows-spotlight-not-working-in-windows-10-fixed/"><u>Windows Spotlight Not Working in Windows 10 [Fixed]</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->

@@ -1,22 +1,46 @@
 ---
 title: "Automated User Tracking with Cookiebot: Boost Your Site's Visitor Insights"
-date: 2024-08-22T08:22:10.871Z
-updated: 2024-08-23T08:22:10.871Z
+date: 2024-09-05T06:19:37.733Z
+updated: 2024-09-06T06:19:37.733Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e5417264806aa41339dccc8726c59258.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Automated User Tracking with Cookiebot: Boost Your Site's Visitor Insights
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextGrabber for Android Now Captures Text in Real Time and Makes it Actionable
 
 December 15, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYY®, a global provider of intelligent capture solutions to improve business outcomes, today announced the release of TextGrabber 2.0 for Android with Real-Time Recognition and a completely redesigned interface. Now TextGrabber for both iOS and Android transforms text within a camera viewer into digital data in real time, to help users capture, share, translate, and use text, links, phone numbers, addresses, promo codes, and other printed information on the go. This new capability works in both online and offline modes.
 
 With TextGrabber 2.0, Android users can lift printed text of any color from any background in live video stream, directly on the camera preview screen of a mobile device, without the need to take a photo or crop it. Recognition is performed locally on the device, no Internet connection is needed. The technology works with 61 languages, the biggest number on the market in its category.
@@ -126,7 +150,3 @@ Connect with us
 <li><a href="https://techidaily.com/windows-10-anniversary-update-download-easily/"><u>Windows 10 Anniversary Update Download Easily</u></a></li>
 <li><a href="https://techidaily.com/windows-spotlight-not-working-in-windows-10-fixed/"><u>Windows Spotlight Not Working in Windows 10 [Fixed]</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Sale Alert! Get Your Hands-On an Affordable M1 iMac at Only $800 - The Ultimate Workstation
-date: 2024-09-01T02:18:14.023Z
-updated: 2024-09-02T02:18:14.023Z
+date: 2024-09-05T06:19:36.485Z
+updated: 2024-09-06T06:19:36.485Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/imac-2021.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sale Alert! Get Your Hands-On an Affordable M1 iMac at Only $800 - The Ultimate Workstation
 
 The M1 iMac might have released in 2021, but this all-in-one computer is still a powerhouse, and Best Buy has them on sale.
@@ -23,6 +29,18 @@ The M1 iMac might have released in 2021, but this all-in-one computer is still a
 
 ![imac m1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/imac-m1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Apple iMac (M1 chip, 8-core)
 
 $799.99 $1249.99 Save $450 
@@ -35,6 +53,12 @@ Currently down to $900, the M1 iMac is still a productivity powerhouse, and unle
 
 ![macbook pro 2021](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macbook-pro-2021.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Refurbished MacBook Pro (M1, 13.3-inch)
 
 $784.99 $1499.99 Save $715 
@@ -119,7 +143,3 @@ If you don't mind refurbished, you can get the powerful MacBook Pro with an M1 c
 <li><a href="https://techidaily.com/whats-new-in-windows-11-creators-update-insider-preview-build-1503/"><u>What's New in Windows 11 Creators Update: Insider Preview Build 1503</u></a></li>
 <li><a href="https://techidaily.com/windows-11-dvd-ripping-tutorial-quick-and-effortless-methods/"><u>Windows 11 DVD Ripping Tutorial - Quick and Effortless Methods!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

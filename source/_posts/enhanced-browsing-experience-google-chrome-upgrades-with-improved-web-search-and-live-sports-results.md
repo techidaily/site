@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Browsing Experience: Google Chrome Upgrades with Improved Web Search & Live Sports Results"
-date: 2024-09-01T02:15:35.265Z
-updated: 2024-09-02T02:15:35.265Z
+date: 2024-09-05T06:19:34.640Z
+updated: 2024-09-06T06:19:34.640Z
 tags:
   - mobile
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91b571c6dca277d98979ab8b4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhanced Browsing Experience: Google Chrome Upgrades with Improved Web Search & Live Sports Results
 
 Google has announced a few new features and improvements coming to the Chrome web browser on Android, iPhone, and iPad. There are a lot of changes to search and the address bar, plus sports scores in the New Tab Page.
@@ -17,6 +23,12 @@ Google has announced a few new features and improvements coming to the Chrome we
 
 ![Search for 'verdan valley' in Chrome for Android, showing Call, Directions, and Reviews buttons in the first result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/chrome1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  There are also new shortcut suggestions in the address bar on Android, iPhone, and iPad, a bit like [the search suggestions that rolled out in desktop Chrome](https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/) earlier this year. Google explained in the blog post, “maybe you usually type in ‘schedules’ to see times for the City Metro because that word is a part of the site’s description. Thanks to this new feature, City Metro will now appear higher up in your search suggestions whenever you search schedules.” The ‘trending searches’ section in search results already available in the Android version is also coming to iPhone and iPad.
@@ -25,6 +37,12 @@ Google
 
 ![Chrome address bar search on an Android tablet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/chrome2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  Finally, live sports cards are now available in the Discover Feed on the New Tab page on iPhone, iPad, and Android. You’ll see automatic updates for games if you’ve followed the team or “expressed interest” in the game or team in the past (presumably, searching for it or reading articles about it). The Discover Feed already has recommended articles, videos, and other web content, so it’s not surprising to see sports scores also make an appearance. The regular Google app and home screen Discover Feed on Android phones already had similar functionality.
@@ -127,8 +145,3 @@ Google
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-top-10-free-game-download-sites-for-pc-android-and-mobile-for-2024/"><u>Updated The Ultimate List Top 10 Free Game Download Sites for PC, Android, and Mobile for 2024</u></a></li>
 <li><a href="https://techidaily.com/utilizing-advanced-cookiebot-tools-for-enhanced-performance/"><u>Utilizing Advanced Cookiebot Tools for Enhanced Performance</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: New Windows 11 Update Allows Integration of Smartphone Images
-date: 2024-09-01T02:18:04.013Z
-updated: 2024-09-02T02:18:04.013Z
+date: 2024-09-05T06:19:36.382Z
+updated: 2024-09-06T06:19:36.382Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/33.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Windows 11 Update Allows Integration of Smartphone Images
 
 Windows PCs can link to an iPhone or Android device for notification mirroring, easy file transfers, texting, and other features. Microsoft is now testing another feature: automatic notifications for new photos and screenshots.
@@ -17,6 +29,12 @@ Windows PCs can link to an iPhone or Android device for notification mirroring, 
 
 ![Notification on Windows that says "New photo, select here to view, edit, or share the photo. Via Mobile devices."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/cross-device-notif.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2024/01/18/announcing-windows-11-insider-preview-build-23619-dev-channel/)
 
  Microsoft said in a blog post, "We are also beginning to gradually roll out a new feature for Windows that introduces the ability to effortlessly access and edit your most recent photos and screenshots from your Android mobile device in Snipping Tool on your PC. With this feature, you’ll receive instant notifications on your PC whenever a new photo or screenshot is captured on your Android device."
@@ -114,7 +132,3 @@ Windows PCs can link to an iPhone or Android device for notification mirroring, 
 <li><a href="https://tech-revival.techidaily.com/unraveling-ransomware-with-mobile-economy-wisdom/"><u>Unraveling Ransomware with Mobile Economy Wisdom</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A38? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

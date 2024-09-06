@@ -1,7 +1,7 @@
 ---
 title: "Google Chrome Version 127: Enhanced Security Against Web-Based Threats"
-date: 2024-09-01T02:14:29.625Z
-updated: 2024-09-02T02:14:29.625Z
+date: 2024-09-05T06:19:33.854Z
+updated: 2024-09-06T06:19:33.854Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d3a287d0f50c6226ff3d146f.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Chrome Version 127: Enhanced Security Against Web-Based Threats
 
 In an effort to fight infostealer malware, the recent Chrome 127 update now utilizes App-Bound Encryption on Windows. This should prevent infostealer malware from accessing critical user data, specifically browser cookies and saved passwords.
@@ -104,7 +110,3 @@ In an effort to fight infostealer malware, the recent Chrome 127 update now util
 <li><a href="https://techidaily.com/utilizing-cookiebot-technology-for-dynamic-content-customization/"><u>Utilizing Cookiebot Technology for Dynamic Content Customization</u></a></li>
 <li><a href="https://win-howtos.techidaily.com/windows-update-cannot-currently-check-for-updates-solved/"><u>Windows Update Cannot Currently Check For Updates [SOLVED]</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->

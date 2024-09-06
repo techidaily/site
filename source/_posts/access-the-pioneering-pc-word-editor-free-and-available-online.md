@@ -1,7 +1,7 @@
 ---
 title: "Access the Pioneering PC Word Editor: Free and Available Online!"
-date: 2024-09-01T02:17:19.942Z
-updated: 2024-09-02T02:17:19.942Z
+date: 2024-09-05T06:19:35.898Z
+updated: 2024-09-06T06:19:35.898Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0a46b5b738c8bb20ba9b672f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Access the Pioneering PC Word Editor: Free and Available Online!
 
 WordStar, the first mainstream PC word processor, was just re-released for free. It’s been almost half a century since its launch. Those decades come with a strange history and a user base which includes Arthur C. Clark and George R.R. Martin.
@@ -81,8 +87,3 @@ WordStar, the first mainstream PC word processor, was just re-released for free.
 <li><a href="https://techidaily.com/wireless-playstation-4-controllers-setup-made-simple/"><u>Wireless Playstation 4 Controllers Setup Made Simple</u></a></li>
 <li><a href="https://techidaily.com/1723808151422-your-sd-card-not-detected-heres-the-fix/"><u>Your SD Card Not Detected? Here's the Fix</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->

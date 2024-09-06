@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: The Next Concept - Inflammation and Repair"
-date: 2024-09-01T02:16:02.824Z
-updated: 2024-09-02T02:16:02.824Z
+date: 2024-09-05T06:19:34.987Z
+updated: 2024-09-06T06:19:34.987Z
 tags:
   - mobile
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d9331983d1675009edb51b8de0939e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Section 3A: The Next Concept - Inflammation and Repair
 
 Google Pixel phones might be the most iPhone-like Android phone, complete with Google's vision of a pure Android software and hardware experience. The Pixel 9 series has now arrived, with three models to choose from and a folding variant.
@@ -17,18 +23,36 @@ Google Pixel phones might be the most iPhone-like Android phone, complete with G
 
 ![Pixel 9_T_Porcelain copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/pixel-9_t_porcelain-copy.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google 
 
  All three phones are powered by the Tensor G4 processor, paired with 12GB RAM on the base Pixel 9, or a whopping 16GB RAM on the two Pixel 9 Pro models. The Pixel 9 Pro has Google's most advanced camera system yet, with a pro triple rear camera and a fully upgraded 42MP front camera. It also introduces Super Res Zoom to video and allows users to enhance videos to 8K resolution with Video Boost. The Pixel 9, on the other hand, offers an impressive 50MP main lens and a new 48MP ultrawide camera for stunning photos and videos.
 
 ![Pixel 9 Pro_T_RoseQuartz copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/pixel-9-pro_t_rosequartz-copy.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google 
 
  Both phones come with upgraded displays, with the Pixel 9 Pro sporting a "Super Actua" display that Google says is its most immersive yet. The phone is available in two sizes, 6.3" and 6.8", for the first time. The Pixel 9 boasts a 6.3-inch Actua display that is sharper, more vibrant, and 35% brighter than its predecessor.
 
 [![Person holding multiple Google Pixel 9 and 9 Pro smartphones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/person-holding-multiple-google-pixel-9-and-9-pro-smartphones.jpg)](https://digital-screen-recording.techidaily.com/the-ultimate-guide-to-the-best-10-spotify-recorders/) Related 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### [Hands on With the Google Pixel 9 Series, 9 Pro Fold, Watch 3, and Buds Pro 2](https://extra-skills.techidaily.com/in-2024-prime-pick-top-10-streamers-for-cutting-edge-tv-content/) 
 
 The Pixel Watch 3 and Buds Pro 2 might look familiar, but Google gave the Pixel 9 series a bold new look.
@@ -45,10 +69,28 @@ The Google Pixel 9 features a sleek design with a powerful Tensor G4 processor, 
 [See at Google Store](https://store.google.com/product/pixel%5F9) [$799 at Amazon](https://www.amazon.com/dp/B0D7HWJDQM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004789&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgoogle-pixel-9-series-reveal%2F&asc%5Fcampaign=Short-Term) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-128gb-unlocked-wintergreen%2F6587823.p%3FskuId%3D6587823) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004789/https://www.verizon.com/smartphones/google-pixel-9/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004789/https://www.att.com/buy/phones/google-pixel-9.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9)
 * ![Porcelain Google Pixel 9 Pro on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/porcelain-google-pixel-9-pro-on-a-white-background.jpg)  
 #####  Google Pixel 9 Pro  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Google Pixel 9 Pro features a sophisticated design, a powerful Tensor G4 processor, and 16 GB of RAM, making it ideal for advanced AI applications, stunning photos, and videos. It includes a pro triple rear camera system, a 42 MP front camera, and the brightest Super Actua display, offering an immersive experience in two sizes. Pricing starts at $999.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HXM4HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004789&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgoogle-pixel-9-series-reveal%2F&asc%5Fcampaign=Short-Term) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-128gb-unlocked-hazel%2F6587889.p%3FskuId%3D6587889) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004789/https://www.verizon.com/smartphones/google-pixel-9-pro/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9p) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004789/https://www.att.com/buy/phones/google-pixel-9-pro.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro)
 * ![Rose Quartz Google Pixel 9 Pro XL on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rose-quartz-google-pixel-9-pro-xl-on-a-white-background.jpg)  
 #####  Google Pixel 9 Pro XL  
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Google Pixel 9 Pro XL offers an expansive 6.8-inch Super Actua display, combined with the powerful Tensor G4 processor and 16 GB of RAM for top-tier AI performance and advanced photography. It features Google's most advanced camera system, including a pro triple rear camera and a 42 MP front camera, all within a sleek design starting at $1,099.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HSJ7ZP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004789&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgoogle-pixel-9-series-reveal%2F&asc%5Fcampaign=Short-Term) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-xl-128gb-unlocked-obsidian%2F6587896.p%3FskuId%3D6587896) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004789/https://www.verizon.com/smartphones/google-pixel-9-pro-xl/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9l) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004789/https://www.att.com/buy/phones/google-pixel-9-pro-xl.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-xl)
 
@@ -121,8 +163,3 @@ The Google Pixel 9 Pro XL offers an expansive 6.8-inch Super Actua display, comb
 <li><a href="https://techidaily.com/transform-your-photos-to-searchable-text-on-ios-using-scannerplusocr-by-docuscan-technologies/"><u>Transform Your Photos to Searchable Text on iOS Using Scanner+OCR by DocuScan Technologies</u></a></li>
 <li><a href="https://driver-install.techidaily.com/winos-upgrade-toolkit-medd/"><u>WinOS Upgrade Toolkit: MEDD</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

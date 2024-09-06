@@ -1,7 +1,7 @@
 ---
 title: "Access Apple's Latest Podcasting Platform: Introducing the New Web App"
-date: 2024-09-01T02:13:19.461Z
-updated: 2024-09-02T02:13:19.461Z
+date: 2024-09-05T06:19:33.040Z
+updated: 2024-09-06T06:19:33.040Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca356425cc09b3b80d75840cf25d77.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Access Apple's Latest Podcasting Platform: Introducing the New Web App
 
 Apple Podcasts finally has an official web app. You can browse any show available on the Apple Podcasts service, access the podcast charts, play anything from your library, buy subscriptions, and more.
@@ -19,12 +25,30 @@ Apple Podcasts finally has an official web app. You can browse any show availabl
 
 ![Splash screen in the Apple Podcasts web app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/apple-podcasts-web-app-splash-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Apple Podcasts has had those web previews (and an embeddable web player) for years. However, you must click a URL on the search results page to listen to an episode in the browser, and that's pretty much all you can do. The new site at [podcasts.apple.com](https://shop-links.co/link/?exclusive=1&publisher%5Fslug=howtogeek&u1=UUhtgUeUpU2005008&article%5Fname=Apple+Podcasts+Now+Has+a+Web+App&article%5Furl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-podcasts-web-app%2F&url=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fbrowse&ourl=https%3A%2F%2Fpodcasts.apple.com%2F) is a proper web app with features that used to be available only in the native podcast software preinstalled on the iPhone, iPad, and Mac.
 
  For example, you can freely browse the millions of shows on the Apple Podcasts platform and even buy subscriptions to access paywalled shows. It updates play progress, so you can always continue where you left off no matter the device. You can also follow any channel or creator from the web app, search for news shows, and more. Anything you previously added awaits you in the Library section on the web, provided you sign in with your Apple Account to unlock advanced features.
 
 ![The Apple Podcasts web app with the Home tab selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/apple-podcasts-web-app-home-tab-selected.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Otherwise, your experience will be restricted to browsing the Apple Podcasts catalog and listening to episodes with no personalization or advanced features. The web app is also a boon for creators, as they can now share links to their episodes, shows, and channels, knowing that people who follow these URLs will get a proper web-based experience. Some of the features available in Podcasts on my iPhone are missing, such as 2x faster playback, though Apple will probably add them over time. Like with App Store weblinks, following an Apple Podcasts URL on an Apple device will instead launch the native Podcasts app (my workaround is right-clicking the link and selecting the menu option to open it in a new tab).
 
  Apple provides web interfaces for other services. Both Apple Music and Apple TV have [web-based interfaces for playing music](https://extra-skills.techidaily.com/updated-laugh-loom-robotic-deadlines/) and watching Apple TV+ on any device in a browser. And recently, the company [launched an Apple Maps web app](https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a24-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/) nearly twelve years after the service debuted. Though not as developed as the Google Maps web app, Apple Maps on the web will only improve over time as Apple challenges Google's dominance in mapping.
@@ -98,7 +122,3 @@ Apple Podcasts finally has an official web app. You can browse any show availabl
 <li><a href="https://techidaily.com/wirtschaftsblickpunkte-mit-dem-handelsblatt-entdecken-sie-unseren-podcast-die-geschaftswelt-horen/"><u>Wirtschaftsblickpunkte Mit Dem Handelsblatt - Entdecken Sie Unseren Podcast 'Die Geschäftswelt Hören'“</u></a></li>
 <li><a href="https://techidaily.com/44or44k944kz44oz5yid5a2m6icf44gu44gf44kb44gu5zplus65pys55qe44gq5pon5l2c44ks44kk44oj/"><u>パソコン初学者のための基本的な操作ガイド</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

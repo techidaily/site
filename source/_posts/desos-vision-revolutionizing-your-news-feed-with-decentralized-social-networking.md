@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2024-08-27 16:37:36
-updated: 2024-08-29 10:33:12
+date: 2024-09-05T06:16:16.686Z
+updated: 2024-09-06T06:16:16.686Z
 tags:
   - cutting-edge
 categories:
@@ -62,20 +62,56 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  This effectively turns the social graph each Web2 social media company controls into a moat that they use to keep you there. If you want to go to a different platform, you have to start all over again, building a following and creating and sharing content.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Benefits of DeSo Built with an Open Social Graph** 
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Control** 
 
  Control is a major factor and point of difference between Web2 legacy social media and the Web3 version. All this newfound power can be overwhelming given the plethora of new opportunities and possibilities when working in this paradigm. The question in DeSo becomes how we balance the control and power we gain with DeSo with the ease of use and convenience of the applications we have grown accustomed to using.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Insight** 
 
  Information asymmetry in the current social graph model is the norm. Spotify or YouTube has a ton of data on us but it's hard to understand and act on it. Platforms tend to know more about us than we do. How can we use blockchain activity and the general transparency in the Web3 space not only to gain more trust but offer more insights as well? The insights discovered using an open social graph can help us understand and reflect on ourselves and our communities in new ways.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Portability** 
 
  In Web3, there's an emphasis on ownership, including your data. This means you are able to choose how you experience content and how much of yourself you reveal to a protocol. Your friends list or followers moves with you and doesn't need to be established again. This makes the applications treat the users much nicer because you can leave and are not locked into their platform based on the power or influence of their network.
@@ -92,14 +128,32 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Case Study: Lens Protocol, An Open Social Graph** 
 
 ![Lens Protocol](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-05-at-1.51.56-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Lens Protocol](https://lens.xyz/)_
 
 [Lens is a protocol](https://lens.xyz/) that is changing the nature of social media in Web3 by creating an open, decentralized, and composable social graph. Because it's permissionless, it can be leveraged and built upon by anyone else with a desire to create a front-end social experience tailored to the user experience, audience, and types of content or data they want to bring to the surface. Lens allows designers and developers to pull specific details from the underwater section of the iceberg to the surface at will depending on their goals.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Lens Is Composable and Modular** 
 
  Instead of siloed and mostly hidden social graphs owned and data-mined by the dominant legacy social media companies in Web2, the Lens Protocol social graph is composable, community-governed, and modular.
@@ -136,3 +190,67 @@ _[Lens Protocol](https://lens.xyz/)_
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-camstudio-reimagined-the-complete-screen-recorder-review-for-2024/"><u>[New] CamStudio Reimagined  The Complete Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-file-streamlining-top-strategies-for-smooth-pc-integration/"><u>[New] File Streamlining  Top Strategies for Smooth PC Integration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-boosting-post-engagement-strategies-for-2024/"><u>[New] Mastering Instagram  Boosting Post Engagement Strategies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-capture-app-windows-10-edition/"><u>[New] Ultimate Capture App - Windows 10 Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-comprehensive-guide-to-injecting-vimeo-videos-into-decks/"><u>[Updated] 2024 Approved  Comprehensive Guide to Injecting Vimeo Videos Into Decks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-download-premium-quality-designs-at-no-cost-for-youtube-creators/"><u>[Updated] In 2024, Download Premium-Quality Designs at No Cost – For YouTube Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-zooming-into-better-visuals-implementing-video-effects-for-2024/"><u>[Updated] Zooming Into Better Visuals  Implementing Video Effects for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-find-n3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-photography-excellence-tips-and-tools/"><u>Android Photography Excellence  Tips and Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://techidaily.com/effective-strategies-for-using-chatgpt-to-generate-professional-resumes-tailored-for-various-positions/"><u>Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elite-edition-ultimate-guide-to-superior-cardboard-vr-gaming-for-2024/"><u>Elite Edition  Ultimate Guide to Superior Cardboard VR Gaming for 2024</u></a></li>
+<li><a href="https://techidaily.com/enhance-vintage-memories-with-ai-no-more-photoshop-simplify-upgrading-and-coloring-old-images/"><u>Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images</u></a></li>
+<li><a href="https://techidaily.com/essential-factors-to-evaluate-before-buying-an-electric-bicycle/"><u>Essential Factors to Evaluate Before Buying an Electric Bicycle</u></a></li>
+<li><a href="https://media-tips.techidaily.com/evolution-in-kodi-platform-shifting-towards-flatpak-approach-for-enhanced-linux-setup-experience/"><u>Evolution in Kodi Platform: Shifting Towards Flatpak Approach for Enhanced Linux Setup Experience</u></a></li>
+<li><a href="https://techidaily.com/excessive-dependence-of-modern-tech-on-internet-connectivity/"><u>Excessive Dependence of Modern Tech on Internet Connectivity</u></a></li>
+<li><a href="https://techidaily.com/experience-office-suite-immersion-microsoft-word-powerpoint-and-excel-available-in-virtual-reality-with-quest-headsets/"><u>Experience Office Suite Immersion: Microsoft Word, PowerPoint & Excel Available in Virtual Reality with Quest Headsets</u></a></li>
+<li><a href="https://techidaily.com/exploring-factors-behind-electric-car-battery-longe-gro-the-science-explained/"><u>Exploring Factors Behind Electric Car Battery Longe Gro: The Science Explained</u></a></li>
+<li><a href="https://techidaily.com/exploring-next-gen-virtual-reality-the-quest-for-true-multi-sense-immersion-with-taste-touch-and-smell-features/"><u>Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features</u></a></li>
+<li><a href="https://techidaily.com/exploring-the-best-substitutes-for-chatgpt-discover-8-affordable-and-advanced-ai-solutions/"><u>Exploring the Best Substitutes for ChatGPT: Discover 8 Affordable and Advanced AI Solutions</u></a></li>
+<li><a href="https://techidaily.com/exploring-the-mechanics-of-regenerative-braking-systems/"><u>Exploring the Mechanics of Regenerative Braking Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-realtek-drivers-for-windows-10/"><u>Free Download: Compatible Realtek Drivers for Windows 10</u></a></li>
+<li><a href="https://techidaily.com/generating-artificial-intelligence-graphics-with-googles-latest-search-features/"><u>Generating Artificial Intelligence Graphics with Google's Latest Search Features</u></a></li>
+<li><a href="https://techidaily.com/how-cryptocurrency-miners-are-destroying-pc-performance-and-lifespan/"><u>How Cryptocurrency Miners Are Destroying PC Performance and Lifespan</u></a></li>
+<li><a href="https://techidaily.com/how-norton-360-software-became-a-surprising-player-in-the-cryptocurrency-mining-scene/"><u>How Norton 360 Software Became a Surprising Player in the Cryptocurrency Mining Scene</u></a></li>
+<li><a href="https://techidaily.com/ideogram-versus-midjourney-an-in-depth-analysis-of-their-strengths-and-weaknesses/"><u>Ideogram versus Midjourney - An In-Depth Analysis of Their Strengths and Weaknesses</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-twitdance-choreographed-videos-go-viral-online/"><u>In 2024, TwitDance  Choreographed Videos Go Viral Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-the-potential-of-autoplay-vids-on-fb-platform/"><u>In 2024, Unlock the Potential of Autoplay Vids on FB Platform</u></a></li>
+<li><a href="https://techidaily.com/innovative-humanoid-workers-revolutionize-production-processes-in-bmw-automobile-manufacturing/"><u>Innovative Humanoid Workers Revolutionize Production Processes in BMW Automobile Manufacturing</u></a></li>
+<li><a href="https://techidaily.com/interactive-voice-engagement-introducing-the-new-era-of-google-gemini-for-smartphones/"><u>Interactive Voice Engagement: Introducing the New Era of Google Gemini for Smartphones</u></a></li>
+<li><a href="https://techidaily.com/introducing-chatgpts-new-stealth-modes-privacy-enhanced-conversations/"><u>Introducing ChatGPT's New Stealth Modes: Privacy Enhanced Conversations</u></a></li>
+<li><a href="https://techidaily.com/introducing-gemma-the-new-open-source-artificial-intelligence-solution-from-google/"><u>Introducing Gemma: The New Open-Source Artificial Intelligence Solution From Google</u></a></li>
+<li><a href="https://techidaily.com/leading-vr-devices-of-the-year-2023-expert-roundup-and-comparisons/"><u>Leading VR Devices of the Year 2023: Expert Roundup and Comparisons</u></a></li>
+<li><a href="https://techidaily.com/mars-lander-insight-nasa-bids-farewell-to-its-historic-martian-explorer/"><u>Mars Lander 'InSight': NASA Bids Farewell to Its Historic Martian Explorer</u></a></li>
+<li><a href="https://techidaily.com/maximizing-your-free-access-to-chatgpt-4-tips-and-tricks-unveiled/"><u>Maximizing Your Free Access to ChatGPT #4 - Tips and Tricks Unveiled!</u></a></li>
+<li><a href="https://techidaily.com/metas-horizon-os-the-collaborative-venture-between-asus-lenovo-in-developing-next-gen-vr-headsets/"><u>Meta's Horizon OS: The Collaborative Venture Between ASUS, Lenovo in Developing Next-Gen VR Headsets</u></a></li>
+<li><a href="https://techidaily.com/nasa-confirms-operational-bluetooth-technology-now-available-aboard-the-international-space-station/"><u>NASA Confirms: Operational Bluetooth Technology Now Available Aboard the International Space Station</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-tablets-a-user-friendly-guide-to-size-matters-and-carrying-comfort/"><u>Navigating Through Tablets: A User-Friendly Guide to Size Matters and Carrying Comfort</u></a></li>
+<li><a href="https://techidaily.com/next-gen-players-unveiled-googles-innovative-table-tennis-machine-outperforms-amateurs/"><u>Next-Gen Players Unveiled: Google's Innovative Table Tennis Machine Outperforms Amateurs</u></a></li>
+<li><a href="https://techidaily.com/nvidia-revives-classic-april-fools-prank-introducing-the-revolutionary-g-assist-ai/"><u>NVIDIA Revives Classic April Fool's Prank: Introducing the Revolutionary G-Assist AI</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-roblox-boot-up-obstacles-a-comprehensive-guide-updated/"><u>Overcoming Roblox Boot-Up Obstacles: A Comprehensive Guide [Updated ]</u></a></li>
+<li><a href="https://techidaily.com/resolving-chatgpt-internal-server-issues-and-handling-frequent-gpt-3-mishaps/"><u>Resolving ChatGPT Internal Server Issues & Handling Frequent GPT-3 Mishaps</u></a></li>
+<li><a href="https://techidaily.com/resolving-the-access-denied-code-1020-issue-in-chatgpt/"><u>Resolving the 'Access Denied - Code 1020' Issue in ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/revived-limewire-aims-to-transform-music-sales-with-innovative-nft-offerings/"><u>Revived LimeWire Aims to Transform Music Sales with Innovative NFT Offerings</u></a></li>
+<li><a href="https://techidaily.com/smart-savings-with-ai-how-mixing-no-cost-programs-can-meet-your-needs/"><u>Smart Savings with AI: How Mixing No-Cost Programs Can Meet Your Needs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-optimizing-your-pc-with-defragmentation-in-windows-amoled-by-revo-uninstaller/"><u>Step-by-Step Guide: Optimizing Your PC with Defragmentation in Windows Amoled by Revo Uninstaller</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-art-of-curating-credible-outro-vibes/"><u>The Art of Curating Credible Outro Vibes</u></a></li>
+<li><a href="https://techidaily.com/the-evolution-from-vr-to-xr-understanding-how-extended-reality-could-dominate-the-market/"><u>The Evolution From VR to XR - Understanding How Extended Reality Could Dominate the Market.</u></a></li>
+<li><a href="https://techidaily.com/the-importance-of-accurately-assessing-ipd-in-enhancing-your-immersive-vr-journey/"><u>The Importance of Accurately Assessing IPD in Enhancing Your Immersive VR Journey</u></a></li>
+<li><a href="https://techidaily.com/the-inconspicuous-evolution-of-ai-why-the-most-significant-change-is-largely-overlooked/"><u>The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-key-to-infinite-entertainment-master-youtube-video-loops-for-2024/"><u>The Key to Infinite Entertainment  Master Youtube Video Loops for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-potential-impact-of-the-spacex-t-mobile-alliance-on-opposing-phone-carriers-according-to-atandt-and-verizon/"><u>The Potential Impact of the SpaceX-T-Mobile Alliance on Opposing Phone Carriers, According to AT&T and Verizon</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tips-for-sharpening-fuzzy-facebook-feed-videos-for-2024/"><u>Tips for Sharpening Fuzzy Facebook Feed Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-virtual-reality-game-experiences-oculus-quest-pc-and-ps-vr-edition/"><u>Top Virtual Reality Game Experiences: Oculus Quest, PC, & PS VR Edition</u></a></li>
+<li><a href="https://techidaily.com/top-virtual-reality-headset-picks-ultimate-guide/"><u>Top Virtual Reality Headset Picks : Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-superior-video-compression-in-av1-for-2024/"><u>Unveiling the Superior Video Compression in AV1 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-tiktok-video-reversal-made-easy-a-beginners-guide-updated/"><u>Updated 2024 Approved TikTok Video Reversal Made Easy A Beginners Guide Updated </u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windows-desktop-recording-techniques-no-cost-for-2024/"><u>Windows Desktop Recording Techniques - No Cost for 2024</u></a></li>
+</ul></div>

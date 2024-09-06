@@ -1,7 +1,7 @@
 ---
 title: "Top Tech News Recap: Unveiling New Windows Devices & Behind-the-Scenes of Spotify's Future"
-date: 2024-09-01T02:17:31.448Z
-updated: 2024-09-02T02:17:31.448Z
+date: 2024-09-05T06:19:36.025Z
+updated: 2024-09-06T06:19:36.025Z
 tags:
   - desktop
 categories:
@@ -9,26 +9,50 @@ categories:
 thumbnail: https://thmb.techidaily.com/aea0b058dad5a8a78b7176f739897c106c85c82d6e617b0cdb68b3405d4743da.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top Tech News Recap: Unveiling New Windows Devices & Behind-the-Scenes of Spotify's Future
 
 There was a whole lot of tech news this week, from the arrival of Copilot+ Windows laptops to the release of new Spotify plans. Here are the biggest stories you might have missed.
 
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Spotify Has a New Secret Premium Plan](https://fox-links.techidaily.com/updated-2024-approved-samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs/) 
 
  Spotify Basic is $1 cheaper per month for individuals, with one missing feature.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Android 15 Beta 3 Has Arrived](https://article-knowledge.techidaily.com/new-2024-approved-unveiling-cropped-lengths-imovies-automatic-trimming-logic/) 
 
  We're getting close to the final release of Android 15, and Google has now released the third beta for eager testers and app developers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Windows 11 24H2 Is Ready, but Not for Your PC](https://extra-tips.techidaily.com/beginners-guide-to-windows-11-audible-recording/) 
 
  This year's big Windows 11 update is on the first wave of Copilot+ PCs, but other PCs will have to wait a while longer.
@@ -39,22 +63,34 @@ There was a whole lot of tech news this week, from the arrival of Copilot+ Windo
 
 ![Screenshot of Vivaldi Mail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1920w_mail_preview.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Vivaldi
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Lenovo’s New Tablet Is All About All About That Bass](https://fox-glue.techidaily.com/updated-2024-approved-legacy-in-pixels-iphone-x-memories-photography/) 
 
  The Lenovo Tab Plus has eight integrated speakers.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Proton Drive Can Now Replace Google Photos on iPhone](https://win-amazing.techidaily.com/1722970879070-get-the-latest-realtek-pci-express-fe-chipset-drivers-on-windows-10-no-cost/) 
 
  Automated photo and video backups with full end-to-end encryption is coming to the Proton Drive app for iPhone and iPad.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### [Google is Selling a LEGO-Like Chrome Dinosaur Set](https://techno-recovery.techidaily.com/yahoo-mail-alert-what-to-do-when-your-inbox-stops-populating-emails/) 
 
  The pixelated dinosaur from Chrome’s offline error page now has its very own LEGO-like brick set. You can get it from Google’s online merch store.
@@ -63,16 +99,10 @@ Vivaldi
 
 Google / Corbin Davenport
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Microsoft Is Serious About Gaming on ARM Windows Laptops](https://some-knowledge.techidaily.com/updated-humorhatchery-app/) 
 
  ARM Windows laptops won't replace your gaming PC anytime soon, but now they can run many of the same games.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Other Stuff
 
  The first Copilot+ Windows laptops were [released earlier this week](https://blogs.windows.com/devices/2024/06/18/top-things-to-know-about-copilot-pcs-from-microsoft-surface-available-today-at-microsoft-com/), with Qualcomm’s ARM-based Snapdragon X Elite chipsets instead of the usual AMD or Intel processors found in PC laptops. We’ll have to wait and see how well they work over time, but they more closely match the power efficiency of Apple’s MacBook lineup (which use ARM-based Apple Silicon chips).

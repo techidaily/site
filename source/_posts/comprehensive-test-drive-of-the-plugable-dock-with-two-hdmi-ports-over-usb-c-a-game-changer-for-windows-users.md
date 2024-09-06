@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Test Drive of the Plugable Dock with Two HDMI Ports over USB-C – A Game Changer for Windows Users?
-date: 2024-09-01T02:19:33.756Z
-updated: 2024-09-02T02:19:33.756Z
+date: 2024-09-05T06:19:37.422Z
+updated: 2024-09-06T06:19:37.422Z
 tags:
   - deals
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-plugable-usb-c-dual-hdmi-docking-station-with-cables-plugged-in-and-the-light-on-1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comprehensive Test Drive of the Plugable Dock with Two HDMI Ports over USB-C – A Game Changer for Windows Users?
 
 ### Key Takeaways
@@ -54,6 +60,18 @@ The Plugable USB-C Dual HDMI Docking Station (UD-MSTH2) is a solid choice for yo
 
 [$149.95 at Plugable](https://plugable.com/products/ud-msth2) [$140 at Amazon](https://www.amazon.com/Plugable-Docking-Delivery-ChromeOS-Ethernet/dp/B0CKJNZRW3?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) 
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Plugable’s Docking Station Lets You Run Your Desk With a Single Cable
 
 ![The Plugable USB C Dual HDMI Docking Station set up at a desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-plugable-usb-c-dual-hdmi-docking-station-set-up-at-a-desk-1.jpg) 
@@ -64,53 +82,54 @@ Sergio Rodriguez / How-To Geek
 
  The nice thing about the multiple USB-C and A ports is that you can have things like your keyboard and mouse hooked up to the back of this dock, and still have access to both a USB-C and USB-A port on the front for charging your phone and plugging in a flash drive or SD card reader without having to unplug anything else. Plus, with the 3.5mm combo audio jack on the front, you can plug in speakers or headphones and always be ready to go with audio, both in and out, whenever you dock your computer at your desk.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  Thankfully macOS Still Works Even if It Isn’t Officially Supported
 
 ![Ports on the back of the Plugable USB C Dual HDMI Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/ports-on-the-back-of-the-plugable-usb-c-dual-hdmi-docking-station-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  It’s worth noting that Plugable recommends this dock to be used with Windows and ChromeOS computers, and not MacBooks, which is a pretty big letdown. I tested the dock with both my Windows laptop and a MacBook Pro, and found that it worked fairly well with the MacBook—you might run into issues with trying to run dual displays here. My M1 Max-powered MacBook Pro was able to drive a 1440p240 monitor at 1440p144 with ease and was still charged at 65W. While I can’t officially say all macOS setups are in the clear here, since Plugable does not officially support macOS, I can say that it does, in fact, function at least in my testing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  No SD Support Is a Disappointment
 
 ![Ports on the front of the Plugable USB C Dual HDMI Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/ports-on-the-front-of-the-plugable-usb-c-dual-hdmi-docking-station-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  While macOS support might not be official, it still does work in some scenarios. However, there’s no way to rig an SD slot built into the dock, and that’s a disappointment. As someone who does occasional video and photo work, having native SD support on my devices is a huge benefit these days. Sure, I can use an external USB adapter, but in the quest for a simpler and more fluid setup, I just don’t want to have to deal with that anymore. With other docks in this price range offering both SD and microSD on the front, I really wish Plugable would have gone the extra few steps to build that in for the added convenience it would have offered.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Native Dual 4K60 HDMI Outputs Make This Dock Perfect for Multi-Monitor Setups
 
  If you’re on the Windows or ChromeOS side of things (or have a MacBook and are willing to test), then this dock is perfect for those with multiple monitors. The fact that it can support dual 4K60 output natively without adapters makes it more capable than [Plugable’s Thunderbolt 4 dock](https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-drfone-by-drfone-ios/) that’s nearly twice the price. And, unlike that more expensive dock, 4K60 matches the price point here. I wouldn’t expect to see 4K120 support on a dock like this, especially not with it being a more bandwidth-constrained USB 5Gb/s uplink connection.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy Plugable’s USB-C Dock?
 
 ![The Plugable USB C Dual HDMI Docking Station with the provided cables and its box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-plugable-usb-c-dual-hdmi-docking-station-with-the-provided-cables-and-its-box-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [Plugable USB-C Dual HDMI Docking Station](https://www.amazon.com/Plugable-Docking-Delivery-ChromeOS-Ethernet/dp/B0CKJNZRW3?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) comes in at $150 from both Amazon and directly from Plugable. And, well, that’s an expected price with this feature set. It would have been nice to see the likes of SD card slots or official macOS support, but in the $150 range, there’s not much competition that offers 65W charging and dual display outputs. Stepping up another $15 gets you into [Anker’s 13-in-1 dock](https://www.amazon.com/Anker-Docking-PowerExpand-Charging-Ethernet/dp/B088F7SY6S?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) which delivers 65W of charging, dual display outputs (though it’s with one HDMI and one DisplayPort), official macOS support, and both SD and microSD.

@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Installing and Setting Up Bluetooth on a Laptop or Desktop"
-date: 2024-09-01T02:19:45.595Z
-updated: 2024-09-02T02:19:45.595Z
+date: 2024-09-05T06:19:37.551Z
+updated: 2024-09-06T06:19:37.551Z
 tags:
   - deals
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
 ## Expert Tips: Installing and Setting Up Bluetooth on a Laptop or Desktop
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Would I Want to Add Bluetooth?](https://youtube-stream.techidaily.com/in-2024-html-techniques-for-youtube-playlist-web-insertion/)
@@ -23,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
  Although the majority of [laptops—](https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/)and even desktops—now come with Bluetooth support, some of us still need Bluetooth upgrades. If you're rocking a PC without Bluetooth support, don't fret. We'll show you how to add Bluetooth support to any Windows computer—easily and cheaply.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Why Would I Want to Add Bluetooth?
 
  While you can get by just fine without Bluetooth support on your computer (especially if you're using a desktop) there are tens of thousands of peripherals and [accessories](https://digital-screen-recording.techidaily.com/2024-approved-unveiling-the-top-5-windows-screen-capturing-utilities/) that require—or would be made more convenient by—Bluetooth.
@@ -36,7 +38,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Even if you already have Bluetooth on your laptop or desktop PC, you may still want to follow along with this article. Why? Because depending on the age of your machine, it might only have Bluetooth 4.0 or older. Not only will the methods outlined in this article help you add Bluetooth to a computer that doesn't have it, but they will also help you add an updated Bluetooth connection to a computer with older Bluetooth hardware. Who knew upgrading a Bluetooth 4.2 connection to a [Bluetooth 5.0](https://instagram-clips.techidaily.com/new-2024-approved-copyright-aware-techniques-for-reposting-imagery/) connection would be so easy and inexpensive? If only every computer upgrade were so cheap and plug-and-play.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  See If Your Computer Already Has Bluetooth
 
@@ -46,19 +51,34 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  And remember, even if you have Bluetooth, but it's an older version you want to upgrade, that's no problem. We can upgrade it very easily in the next section of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Open the Bluetooth Devices Menu
 
  On Windows 10 and Windows 11, the fastest way to see if Bluetooth is installed and configured is simply opening up the Bluetooth devices menu. From the Start Menu search box, just type "Bluetooth" and select "Bluetooth and other devices settings" to jump there.
 
 ![The Bluetooth &amp; devices window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For more information, check out our guides to [using Bluetooth on Windows 10](https://instagram-video-files.techidaily.com/updated-in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/) and [activating Bluetooth on Windows 11](https://video-screen-grab.techidaily.com/updated-creative-filmmaking-on-a-budget-using-smartphones-as-webcams-for-2024/).
 
  If you see something like the screenshot above where Bluetooth is already on and the "Add device" button is ready, you can jump right to the end of the article to add a device—unless, of course, you're here to upgrade your Bluetooth connection.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Check the Windows "Network Connections" for Bluetooth
 
  It's simple to check for evidence of Bluetooth in Windows. You can check for Bluetooth by heading to [Control Panel](https://screen-sharing-recording.techidaily.com/new-in-2024-facetime-call-recording-securing-your-conversations/) \> Network and Internet > Network Connections.
@@ -70,7 +90,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![The Network Connections window in the Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Don't worry if it says "Not connected" under the Bluetooth entry. That simply indicates that there are presently no Bluetooth devices connected to your computer, not that there is a problem with the Bluetooth connection.
 
@@ -82,14 +105,44 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Device Manager showing Bluetooth devices on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows3.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We also suggest double-checking the stats on your PC just to be sure. Although unlikely, the hardware vendor behind your PC's hardware may use a specialty driver or some other tool that you need to download to enable the Bluetooth connection. A little poking around with Google will reveal if you have the proper hardware in the first place and if you need any special driver, [BIOS](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/), or other updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Add Bluetooth to Your PC
 
  If you've found that your PC does not have Bluetooth built-in, then you'll need to add it. And if you found that your PC does have Bluetooth, but it's old enough that you want to upgrade it for a better experience with Bluetooth headphones and accessories, you'll need an upgrade.
 
  The good news is that it's easy to do, and you won't need to spend much on the project. Better yet, the difference between adding Bluetooth to a computer that doesn't have it and upgrading the existing Bluetooth is just a single additional step.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Step One: Buy a USB Bluetooth Dongle
 
  You don't need a whole lot to follow along with this tutorial. Once you've determined that your computer is definitely in need of a Bluetooth radio (and not just a driver update), it's time to check that you have a free USB port. If you don't, and there's no making room because you need all your current ports, you should consider [getting a quality USB hub](https://www.amazon.com/Anker-Extended-MacBook-Surface-Notebook/dp/B07L32B9C2?tag=hotoge-20&ascsubtag=UUhtgUeUpU220533&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F201004%2Fthe-htg-guide-to-adding-bluetooth-to-your-computer%2F&asc%5Fcampaign=Evergreen) or a [USB expansion card](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nokia-c12-drfone-by-drfone-virtual/).
@@ -100,9 +153,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![316QBT8f0qL._SL160_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/316qbt8f0ql-_sl160_-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 #####  TP-Link USB Bluetooth 5.0 Adapter
 
 $13 $15 Save $2 
@@ -117,9 +167,6 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
 
  On the desktop side, the only reason we can see for not using the USB-based solution is if you're explicitly in the market for a [Wi-Fi](https://facebook-video-share.techidaily.com/updated-discovering-the-ultimate-10-free-youtube-artist-collaborators-for-2024/) PCI card for a desktop computer since [many Wi-Fi PCI cards come with Bluetooth](http://www.amazon.com/dp/B007GMPZ0A?tag=hotoge-20&ascsubtag=UUhtgUeUpU220533&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F201004%2Fthe-htg-guide-to-adding-bluetooth-to-your-computer%2F&asc%5Fcampaign=Evergreen)built-in. If you're undertaking either option, check out [our guide to upgrading or replacing the Wi-Fi card in your PC or laptop](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/). And if you do, don't forget to [use an antenna extender to boost the Wi-Fi reception](https://youtube-video-recordings.techidaily.com/updated-3-unconventional-tactics-for-subscriber-growth/) of your PC card.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step Two: Install the Bluetooth Dongle
 
  When installing the USB dongle on Windows 8.1, Windows 10, or Windows 11, the process is dead simple: just plug it in. Windows includes the basic Broadcom Bluetooth drivers required by the dongle and will install them automatically when it recognizes the new device.
@@ -128,13 +175,16 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
 
 ![Bluetooth radio properties in the Windows Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Depending on the version of Windows you're running, the "missing" Bluetooth dongle or card will either appear as a generic entry in the "Other Devices" section of the Device Manager or it will be identified as a Bluetooth radio but labeled "Generic Bluetooth Radio" because Windows can identify what kind of hardware it is but can't initialize it.
 
  In either case, you must visit the manufacturer's site and download the appropriate drivers. You can download the drivers from the two USB dongles we mentioned above by visiting either the [Kinivo driver page](http://support.kinivo.com/customer/portal/articles/664950-downloads#computer) or the [TP-Link driver page](https://www.tp-link.com/us/support/download/). Download the version for your operating system ([here's how to see if you're running 32-bit or 64-bit Windows](https://extra-tips.techidaily.com/acclaimed-websites-for-google-pixel-tonal-sounds-for-2024/)), run the installer, and you're good to go.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Step Three: If Upgrading, Disable the Old Bluetooth Device
 
  If you're adding Bluetooth to a computer that doesn't have Bluetooth or the old Bluetooth was a removable device (e.g., you're swapping out one USB dongle for another), then you can skip this step.
@@ -149,9 +199,6 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
 
  It's also useful to leave it installed, so it's ready to go on the off chance you need it. Let's say, for example, you realize a half hour into a flight that your laptop is missing the updated Bluetooth dongle. If you left everything installed, you can pop into the Device Manager and turn on the old Bluetooth radio. Because, hey, Bluetooth 4.0 might not be cutting edge these days, but old Bluetooth is better than no Bluetooth.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step Four: Pair Your Devices
 
  Now that you have the dongle installed, you're ready to pair a device. Now is a great time to turn the device on and ensure it is in pairing mode. (We're not going to say that every Bluetooth frustration we've ever had was related to failing to notice a device wasn't in pairing mode, but it's up there on the list of reasons.)
@@ -160,6 +207,12 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
 
 ![Using the Bluetooth system tray menu icon on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The specific steps you see next will vary based on which version of Windows you're using, but it's all pretty straightforward, and the general verbiage hasn't changed much over the years.
 
  For a closer look at the specifics of adding Bluetooth devices under different versions of Windows check out our guides to [adding Bluetooth to Windows 10](https://instagram-video-files.techidaily.com/updated-in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/) or [using Bluetooth on Windows 11](https://video-screen-grab.techidaily.com/updated-creative-filmmaking-on-a-budget-using-smartphones-as-webcams-for-2024/).

@@ -1,7 +1,7 @@
 ---
 title: "Experience Wikipedia in Style: Access the Newly Added Dark Theme"
-date: 2024-09-01T02:13:46.635Z
-updated: 2024-09-02T02:13:46.635Z
+date: 2024-09-05T06:19:33.349Z
+updated: 2024-09-06T06:19:33.349Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76e27e4ba95f164ba07265247.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience Wikipedia in Style: Access the Newly Added Dark Theme
 
 Wikipedia has rolled out a dark mode for its desktop website. Dark mode was already available in the mobile apps, but it was missing on the desktop site until now.
@@ -87,7 +93,3 @@ Close
 <li><a href="https://techidaily.com/understanding-ocr-vs-idp-key-differences-explained/"><u>Understanding OCR Vs. IDP: Key Differences Explained</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-say-goodbye-to-grainy-videos-top-enhancement-software-picks/"><u>Updated 2024 Approved Say Goodbye to Grainy Videos Top Enhancement Software Picks</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->

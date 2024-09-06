@@ -1,7 +1,7 @@
 ---
 title: "Enhanced User Interface: The Revamped Windows 11 Photos Application"
-date: 2024-09-01T02:19:40.596Z
-updated: 2024-09-02T02:19:40.596Z
+date: 2024-09-05T06:19:37.499Z
+updated: 2024-09-06T06:19:37.499Z
 tags:
   - deals
 categories:
@@ -17,14 +17,32 @@ Microsoft is now rolling out an updated Photos app to Windows 11 users on the Ca
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
@@ -33,12 +51,30 @@ Close
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)  
 Microsoft
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)  
 Microsoft
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  Today, the Windows 11 Photos app is fairly robust. It can remove image backgrounds, connect to third-party services like iCloud, and import images from external devices. So, Microsoft is now taking the time to fine-tune Photos with smaller UI changes and under-the-hood upgrades.
@@ -132,7 +168,3 @@ Close
 <li><a href="https://techidaily.com/update-usb-drivers-in-windows-11-7-8-and-81-easily/"><u>Update USB Drivers in Windows 11, 7, 8 & 8.1. Easily</u></a></li>
 <li><a href="https://techidaily.com/vitalik-buterins-proposal-of-ethereum-as-a-decentralized-platform/"><u>Vitalik Buterin's Proposal of Ethereum as a Decentralized Platform</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->

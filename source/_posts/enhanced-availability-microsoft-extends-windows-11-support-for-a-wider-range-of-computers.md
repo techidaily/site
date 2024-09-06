@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Availability: Microsoft Extends Windows 11 Support for a Wider Range of Computers"
-date: 2024-09-01T02:17:23.588Z
-updated: 2024-09-02T02:17:23.588Z
+date: 2024-09-05T06:19:35.933Z
+updated: 2024-09-06T06:19:35.933Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd0c150ddc024f76a0e2e4518.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhanced Availability: Microsoft Extends Windows 11 Support for a Wider Range of Computers
 
 Windows 11 is more of a stickler with hardware requirements than Windows 10, as it can't be officially installed on older CPUs, computers using MBR drives, and other legacy setups. However, some more specific devices were blocked from installing Windows 11 due to driver issues. One of those cases has now been fixed.
@@ -101,7 +107,3 @@ Windows 11 is more of a stickler with hardware requirements than Windows 10, as 
 <li><a href="https://techidaily.com/whats-new-in-windows-11-creators-update-insider-preview-build-1503/"><u>What's New in Windows 11 Creators Update: Insider Preview Build 1503</u></a></li>
 <li><a href="https://techidaily.com/windows-11-dvd-ripping-tutorial-quick-and-effortless-methods/"><u>Windows 11 DVD Ripping Tutorial - Quick and Effortless Methods!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

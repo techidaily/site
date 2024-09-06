@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Windows 11 Security Enhancement: Auto-Encryption Feature Now Available"
-date: 2024-09-01T02:19:12.210Z
-updated: 2024-09-02T02:19:12.210Z
+date: 2024-09-05T06:19:37.186Z
+updated: 2024-09-06T06:19:37.186Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b65951332a255432e2acfb47.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upcoming Windows 11 Security Enhancement: Auto-Encryption Feature Now Available
 
 With the upcoming Windows 11 24H2 update, Microsoft will automatically enable device encryption on even more computers. The new update is more inclusive with fewer restrictions for older systems.
@@ -85,7 +91,3 @@ With the upcoming Windows 11 24H2 update, Microsoft will automatically enable de
 <li><a href="https://techidaily.com/unlocking-performance-potential-the-toms-hardware-handbook/"><u>Unlocking Performance Potential: The Tom's Hardware Handbook</u></a></li>
 <li><a href="https://techidaily.com/unveiling-hardware-secrets-with-toms-guidance/"><u>Unveiling Hardware Secrets with Tom's Guidance</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
