@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -264,8 +321,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="TechiDaily" type="application/atom+xml">
 </head>
 
@@ -695,40 +750,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/future-proofing-your-pc-after-windows-11s-planned-discontinuation-choices-ahead/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/laptop-with-windows-10-and-a-no-updates-icon-next-to-the-text-windows-10.jpg" alt="Future-Proofing Your PC After Windows 11&#39;S Planned Discontinuation - Choices Ahead" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unveiling-the-lenovo-thinkbook-13x-gen-4-a-professionals-dream-in-a-lightweight-package/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff071d26df4ceb26b659a82cf.jpg" alt="Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional&#39;s Dream in a Lightweight Package" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/future-proofing-your-pc-after-windows-11s-planned-discontinuation-choices-ahead/">
-                            Future-Proofing Your PC After Windows 11&#39;S Planned Discontinuation - Choices Ahead
+                        <a href="/unveiling-the-lenovo-thinkbook-13x-gen-4-a-professionals-dream-in-a-lightweight-package/">
+                            Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional&#39;s Dream in a Lightweight Package
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            
-
-                    
-       
-       
-    
-    Click here 
-
-
-
-## Future-Proofing Your PC After Windows 11'S Planned Disconti...
+                            Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional’s Dream in a Lightweight PackageKey Takeaways A stunning 2.8K displa...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:18 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -764,7 +809,7 @@
         
     </div>
 
-    <a href="/future-proofing-your-pc-after-windows-11s-planned-discontinuation-choices-ahead/">Read more<span class="seo-reader-text">Future-Proofing Your PC After Windows 11&#39;S Planned Discontinuation - Choices Ahead</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unveiling-the-lenovo-thinkbook-13x-gen-4-a-professionals-dream-in-a-lightweight-package/">Read more<span class="seo-reader-text">Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional&#39;s Dream in a Lightweight Package</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -780,42 +825,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fastest-way-to-access-and-view-your-desktop-on-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/52780811147_bf0740ed7a_o.jpg" alt="Fastest Way to Access and View Your Desktop on Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/two-methods-for-formatting-drives-in-ubuntu-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41c01b4f05dc48044320b63e0.jpg" alt="Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fastest-way-to-access-and-view-your-desktop-on-windows-10/">
-                            Fastest Way to Access and View Your Desktop on Windows 10
+                        <a href="/two-methods-for-formatting-drives-in-ubuntu-a-comprehensive-guide/">
+                            Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            
-
-                    
-       
-       
-    
-    Click here 
-
-
-
-## Fastest Way to Access and View Your Desktop on Windows 10
-
-...
+                            Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide Key Takeaways Open the Disks app and select the di...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:17 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -851,7 +884,7 @@
         
     </div>
 
-    <a href="/fastest-way-to-access-and-view-your-desktop-on-windows-10/">Read more<span class="seo-reader-text">Fastest Way to Access and View Your Desktop on Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/two-methods-for-formatting-drives-in-ubuntu-a-comprehensive-guide/">Read more<span class="seo-reader-text">Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -867,31 +900,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exclusive-reveal-2024-best-of-ces-selections-by-how-to-geek-uncovered/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcfecec9d6029a84b03a72309d.jpg" alt="Exclusive Reveal: 2024 Best of CES Selections by How-To Geek Uncovered" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27daf3516cb90c9a543d54e11.jpeg" alt="The Essential Tutorial: Convert Strings with Base64 in the Linux Environment" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exclusive-reveal-2024-best-of-ces-selections-by-how-to-geek-uncovered/">
-                            Exclusive Reveal: 2024 Best of CES Selections by How-To Geek Uncovered
+                        <a href="/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/">
+                            The Essential Tutorial: Convert Strings with Base64 in the Linux Environment
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Exclusive Reveal: 2024 Best of CES Selections by How-To Geek UncoveredQuick Links
-Best Laptop: Lenovo Thinkpad X1 Carbon Gen ...
+                            The Essential Tutorial: Convert Strings with Base64 in the Linux EnvironmentWant to learn how to encode and decode strings us...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:16 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -927,7 +959,7 @@ Best Laptop: Lenovo Thinkpad X1 Carbon Gen ...
         
     </div>
 
-    <a href="/exclusive-reveal-2024-best-of-ces-selections-by-how-to-geek-uncovered/">Read more<span class="seo-reader-text">Exclusive Reveal: 2024 Best of CES Selections by How-To Geek Uncovered</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/">Read more<span class="seo-reader-text">The Essential Tutorial: Convert Strings with Base64 in the Linux Environment</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -943,32 +975,30 @@ Best Laptop: Lenovo Thinkpad X1 Carbon Gen ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/emulating-windowss-winrar-in-linux-environments-for-seamless-file-compression/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ubuntu.jpg" alt="Emulating Windows&#39;s WinRAR in Linux Environments for Seamless File Compression" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/supporting-intel-processors-exploring-macos-sequoia-functionalities/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/27d6b547bddc8e31d111fb6ac4a194fdf9932bb9effb0d2c901c0f3a526ef8b0.jpg" alt="Supporting Intel Processors: Exploring macOS Sequoia Functionalities" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/emulating-windowss-winrar-in-linux-environments-for-seamless-file-compression/">
-                            Emulating Windows&#39;s WinRAR in Linux Environments for Seamless File Compression
+                        <a href="/supporting-intel-processors-exploring-macos-sequoia-functionalities/">
+                            Supporting Intel Processors: Exploring macOS Sequoia Functionalities
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Emulating Windows’s WinRAR in Linux Environments for Seamless File CompressionQuick Links
-Can You Install WinRAR on Linux? 
-H...
+                            Supporting Intel Processors: Exploring macOS Sequoia Functionalities Key Takeaways Intel Macs don’t support AI functi...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:15 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -1004,7 +1034,7 @@ H...
         
     </div>
 
-    <a href="/emulating-windowss-winrar-in-linux-environments-for-seamless-file-compression/">Read more<span class="seo-reader-text">Emulating Windows&#39;s WinRAR in Linux Environments for Seamless File Compression</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/supporting-intel-processors-exploring-macos-sequoia-functionalities/">Read more<span class="seo-reader-text">Supporting Intel Processors: Exploring macOS Sequoia Functionalities</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1020,40 +1050,30 @@ H...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/elevating-vocal-clarity-in-tech-microsofts-breakthrough-speech-technology-expands-to-new-pc-lines/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0c231e30e1cde65144bf91e6e96a309bb581e79a51b0603eaf2331d2401d5ca6.jpg" alt="Elevating Vocal Clarity in Tech: Microsoft&#39;s Breakthrough Speech Technology Expands to New PC Lines" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/spelling-assistance-now-available-on-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg" alt="Spelling Assistance Now Available on Windows 지오피의 노트북 앱" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/elevating-vocal-clarity-in-tech-microsofts-breakthrough-speech-technology-expands-to-new-pc-lines/">
-                            Elevating Vocal Clarity in Tech: Microsoft&#39;s Breakthrough Speech Technology Expands to New PC Lines
+                        <a href="/spelling-assistance-now-available-on-windows/">
+                            Spelling Assistance Now Available on Windows 지오피의 노트북 앱
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            
-
-                    
-       
-       
-    
-    Click here 
-
-
-
-## Elevating Vocal Clarity in Tech: Microsoft's Breakthrough S...
+                            Spelling Assistance Now Available on Windows 지오피의 노트북 앱Notepad’s basic functionality hasn’t stopped it from being used for qu...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:13 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -1089,7 +1109,7 @@ H...
         
     </div>
 
-    <a href="/elevating-vocal-clarity-in-tech-microsofts-breakthrough-speech-technology-expands-to-new-pc-lines/">Read more<span class="seo-reader-text">Elevating Vocal Clarity in Tech: Microsoft&#39;s Breakthrough Speech Technology Expands to New PC Lines</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/spelling-assistance-now-available-on-windows/">Read more<span class="seo-reader-text">Spelling Assistance Now Available on Windows 지오피의 노트북 앱</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1105,40 +1125,30 @@ H...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/download-linux-mint-22-alpha-preview-test-the-latest-ubuntu-based-os/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/433c8db8db856104c9810f439aa52d5a8953c74930ec2a2b3bd8b6afbd328645.jpg" alt="Download Linux Mint 22 Alpha Preview: Test the Latest Ubuntu-Based OS!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/restore-your-online-connection-essential-guide-to-overcoming-wi-fi-problems-without-internet-on-windows-11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe1dcf99883081e6f54b5961f.jpg" alt="Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/download-linux-mint-22-alpha-preview-test-the-latest-ubuntu-based-os/">
-                            Download Linux Mint 22 Alpha Preview: Test the Latest Ubuntu-Based OS!
+                        <a href="/restore-your-online-connection-essential-guide-to-overcoming-wi-fi-problems-without-internet-on-windows-11/">
+                            Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            
-
-                    
-       
-       
-    
-    Click here 
-
-
-
-## Download Linux Mint 22 Alpha Preview: Test the Latest Ubunt...
+                            Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11Quick Links Ensure...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:12 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -1174,7 +1184,7 @@ H...
         
     </div>
 
-    <a href="/download-linux-mint-22-alpha-preview-test-the-latest-ubuntu-based-os/">Read more<span class="seo-reader-text">Download Linux Mint 22 Alpha Preview: Test the Latest Ubuntu-Based OS!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/restore-your-online-connection-essential-guide-to-overcoming-wi-fi-problems-without-internet-on-windows-11/">Read more<span class="seo-reader-text">Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1190,38 +1200,30 @@ H...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-fix-for-persistent-problems-microsofts-solution-to-windows-10-and-11-update-bugs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4393b505f580f9ee7960f313.jpg" alt="Updated Fix for Persistent Problems: Microsoft&#39;s Solution to Windows 10 and 11 Update Bugs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-windows-update-error-code-0x80070643-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1eea5d7fad50043a76fd78c0.jpg" alt="Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-fix-for-persistent-problems-microsofts-solution-to-windows-10-and-11-update-bugs/">
-                            Updated Fix for Persistent Problems: Microsoft&#39;s Solution to Windows 10 and 11 Update Bugs
+                        <a href="/resolving-windows-update-error-code-0x80070643-a-step-by-step-guide/">
+                            Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            
-
-  
-
-
-
-## Updated Fix for Persistent Problems: Microsoft's Solution to Windows 10 and 11 Update Bugs
-
-Accidents happen; not ...
+                            Resolving Windows Update Error Code 0X80070643: A Step-by-Step GuideQuick Links Is Downloading the Windows 10 KB5034441 Updat...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:11 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -1257,7 +1259,7 @@ Accidents happen; not ...
         
     </div>
 
-    <a href="/updated-fix-for-persistent-problems-microsofts-solution-to-windows-10-and-11-update-bugs/">Read more<span class="seo-reader-text">Updated Fix for Persistent Problems: Microsoft&#39;s Solution to Windows 10 and 11 Update Bugs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-windows-update-error-code-0x80070643-a-step-by-step-guide/">Read more<span class="seo-reader-text">Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1273,38 +1275,30 @@ Accidents happen; not ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unveiling-the-making-of-the-iconic-3d-pipes-windows-screen-saver/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pipes.jpg" alt="Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/optimizing-pc-settings-disabling-win-key-and-altplustab-features-for-enhanced-gaming-performance/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f26163c69b1bc0d92f7095e097d.JPG" alt="Optimizing PC Settings: Disabling Win-Key &amp; Alt+Tab Features for Enhanced Gaming Performance" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unveiling-the-making-of-the-iconic-3d-pipes-windows-screen-saver/">
-                            Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver
+                        <a href="/optimizing-pc-settings-disabling-win-key-and-altplustab-features-for-enhanced-gaming-performance/">
+                            Optimizing PC Settings: Disabling Win-Key &amp; Alt+Tab Features for Enhanced Gaming Performance
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            
-
-  
-
-
-
-## Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver
-
-Windows used to include a screensaver called “3D...
+                            Optimizing PC Settings: Disabling Win-Key &amp; Alt+Tab Features for Enhanced Gaming PerformanceQuick Links How to Disable th...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:09 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -1340,7 +1334,7 @@ Windows used to include a screensaver called “3D...
         
     </div>
 
-    <a href="/unveiling-the-making-of-the-iconic-3d-pipes-windows-screen-saver/">Read more<span class="seo-reader-text">Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/optimizing-pc-settings-disabling-win-key-and-altplustab-features-for-enhanced-gaming-performance/">Read more<span class="seo-reader-text">Optimizing PC Settings: Disabling Win-Key &amp; Alt+Tab Features for Enhanced Gaming Performance</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1356,38 +1350,30 @@ Windows used to include a screensaver called “3D...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef394a1d6fd8cfa20e2c4a0b6c3.jpg" alt="Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/nas-device-compatibility-issues-with-windows-11-update-24h2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-3.jpg" alt="NAS Device Compatibility Issues with Windows 11 Update 24H2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/">
-                            Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager
+                        <a href="/nas-device-compatibility-issues-with-windows-11-update-24h2/">
+                            NAS Device Compatibility Issues with Windows 11 Update 24H2
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            
-
-  
-
-
-
-## Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager
-
-Windows 11 22H2 introduced a new Task M...
+                            NAS Device Compatibility Issues with Windows 11 Update 24H2The Windows 11 24H2 update is nearing release, and it comes with a...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:08 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -1423,7 +1409,7 @@ Windows 11 22H2 introduced a new Task M...
         
     </div>
 
-    <a href="/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/">Read more<span class="seo-reader-text">Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/nas-device-compatibility-issues-with-windows-11-update-24h2/">Read more<span class="seo-reader-text">NAS Device Compatibility Issues with Windows 11 Update 24H2</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1439,40 +1425,30 @@ Windows 11 22H2 introduced a new Task M...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unraveling-the-mystery-the-story-behind-the-x-in-linux/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8a7664c56c7e33516dab19ed.jpg" alt="Unraveling the Mystery: The Story Behind the &#39;X&#39; In Linux" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-the-art-of-bookmarking-your-favorite-musicians-and-tunes-on-a-mac-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757ff19f24408692f694faf166.jpg" alt="Mastering the Art of Bookmarking Your Favorite Musicians &amp; Tunes on a Mac: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unraveling-the-mystery-the-story-behind-the-x-in-linux/">
-                            Unraveling the Mystery: The Story Behind the &#39;X&#39; In Linux
+                        <a href="/mastering-the-art-of-bookmarking-your-favorite-musicians-and-tunes-on-a-mac-a-comprehensive-guide/">
+                            Mastering the Art of Bookmarking Your Favorite Musicians &amp; Tunes on a Mac: A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Unraveling the Mystery: The Story Behind the ‘X’ In Linux
-
-  
-
-
-
-### Quick Links
-
-
-Before the X, There Was CS 
-MINIX, the Uni...
+                            Mastering the Art of Bookmarking Your Favorite Musicians &amp; Tunes on a Mac: A Comprehensive GuideQuick Links How to Favori...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 06:19:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 12 2024 01:10:07 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-12
                 
             </span>
         </span>
@@ -1508,7 +1484,7 @@ MINIX, the Uni...
         
     </div>
 
-    <a href="/unraveling-the-mystery-the-story-behind-the-x-in-linux/">Read more<span class="seo-reader-text">Unraveling the Mystery: The Story Behind the &#39;X&#39; In Linux</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-the-art-of-bookmarking-your-favorite-musicians-and-tunes-on-a-mac-a-comprehensive-guide/">Read more<span class="seo-reader-text">Mastering the Art of Bookmarking Your Favorite Musicians &amp; Tunes on a Mac: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>

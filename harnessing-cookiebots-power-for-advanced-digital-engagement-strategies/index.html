@@ -74,6 +74,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -261,7 +318,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -279,8 +336,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="TechiDaily" type="application/atom+xml">
 </head>
 
@@ -638,7 +693,7 @@
                 <img src="https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e440f8880873d74d5b6083f2.jpg" alt="Harnessing Cookiebot&#39;s Power for Advanced Digital Engagement Strategies" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
                 
                 <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Harnessing Cookiebot&#39;s Power for Advanced Digital Engagement Strategies</h1>
+                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-2xl md:text-2xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Harnessing Cookiebot&#39;s Power for Advanced Digital Engagement Strategies</h1>
                 </div>
             
             </div>
@@ -767,7 +822,7 @@
 <p><strong>Max</strong>: It’s an amazing and exciting world out there around OCR, especially intelligent document processing. From my end, use it as a great first use case of intelligent document processing: AP invoices. It’s a no brainer; ROI is incredibly high, as you (our partners) know as well. But then you can really get to work because you’ve already made back that investment. Then you can explore other use cases in your organizations. Because there are so many documents coming at us from every single angle, and there’s an incredible amount of useful data locked away in them that right now, businesses simply don’t have access to—so, let’s get to work. </p>
 <p><strong>Jake</strong>: Max, we’ve had a great conversation today about OCR, invoice scanning, and intelligent document processing, what (these technologies) can do for your business, how it fits in to work processes. We learned how it can not only simply processes, it can give you a lot of data to really be able to look into the details and make improvements for your business. Great conversation, again thank you so much for joining us, Max and ABBYY. We’re really happy to have you as a partner. </p>
 <p><strong>Max:</strong> It was really great to be here, Jake. Thanks again for inviting us (ABBYY). I think it was a great conversation. I hope the readers, listeners, viewers all find this interesting, too. Fell free to reach out, you can find me on <a class="link"   target="_blank" rel="noopener" href="https://www.linkedin.com/in/maximevermeir/" >LinkedIn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or come on over to the <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/abbyy/products/" >ABBYY website <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, there is a lot to explore (learn about <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/abbyy/products/" >AP Automation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>or <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/abbyy/products/" >Book a Demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>). I definitely hope to come back to your podcast, Jake, because it was a lot of fun. </p>
-<p><strong>Jake:</strong> We want to hear from you! <em>How has your business been positively impacted by intelligent document processing?</em> Let us know by emailing <a class="link"   href="mailto:&#x68;&#101;&#108;&#x6c;&#x6f;&#64;&#122;&#111;&#x6e;&#101;&#x61;&#110;&#x64;&#x63;&#x6f;&#46;&#99;&#111;&#109;" >&#x68;&#101;&#108;&#x6c;&#x6f;&#64;&#122;&#111;&#x6e;&#101;&#x61;&#110;&#x64;&#x63;&#x6f;&#46;&#99;&#111;&#109; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. “<a class="link"   target="_blank" rel="noopener" href="https://www.zoneandco.com/podcasts/how-a-i-powered-document-processing-and-ocr-are-changing-accounts-payable-with-maxime-vermeir-from-abbyy" >Finance in the Clouds <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>“ posts bi-weekly on Fridays. If you enjoyed today’s conversation, be sure to subscribe to “Finance in the Clouds” wherever you get your <a class="link"   target="_blank" rel="noopener" href="https://www.zoneandco.com/library/podcasts" >podcasts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or watch us on YouTube on the <a class="link"   target="_blank" rel="noopener" href="https://www.youtube.com/@zoneandco" >Zone &amp; Co YouTube <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> channel. Also, be on the lookout for articles and guides all about today’s topic at zoneandco.com. We’ll see you next time!</p>
+<p><strong>Jake:</strong> We want to hear from you! <em>How has your business been positively impacted by intelligent document processing?</em> Let us know by emailing <a class="link"   href="mailto:&#x68;&#101;&#108;&#x6c;&#111;&#x40;&#122;&#111;&#110;&#x65;&#97;&#x6e;&#x64;&#99;&#111;&#46;&#x63;&#111;&#x6d;" >&#x68;&#101;&#108;&#x6c;&#111;&#x40;&#122;&#111;&#110;&#x65;&#97;&#x6e;&#x64;&#99;&#111;&#46;&#x63;&#111;&#x6d; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. “<a class="link"   target="_blank" rel="noopener" href="https://www.zoneandco.com/podcasts/how-a-i-powered-document-processing-and-ocr-are-changing-accounts-payable-with-maxime-vermeir-from-abbyy" >Finance in the Clouds <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>“ posts bi-weekly on Fridays. If you enjoyed today’s conversation, be sure to subscribe to “Finance in the Clouds” wherever you get your <a class="link"   target="_blank" rel="noopener" href="https://www.zoneandco.com/library/podcasts" >podcasts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or watch us on YouTube on the <a class="link"   target="_blank" rel="noopener" href="https://www.youtube.com/@zoneandco" >Zone &amp; Co YouTube <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> channel. Also, be on the lookout for articles and guides all about today’s topic at zoneandco.com. We’ll see you next time!</p>
 <p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/abbyy/products/" >Accounts Payable Automation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/abbyy/products/" >Finance &amp; Accounting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://www.abbyy.com/blog/artificial-intelligence-ai/"  title="Artificial Intelligence (AI)">Artificial Intelligence (AI) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/abbyy/products/" >Intelligent Automation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/abbyy/products/" >Digital Transformation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> </p>
 <p><img  
                      lazyload

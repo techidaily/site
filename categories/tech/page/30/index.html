@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -266,8 +323,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="TechiDaily" type="application/atom+xml">
 </head>
 
@@ -634,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-05'>
                 
                     
-                        <a href="/unlocking-amazon-how-to-easily-set-up-and-use-passkeys-for-login/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unlocking Amazon: How to Easily Set Up and Use Passkeys for Login</span>
+                        <a href="/tech-giant-apple-advocates-for-widespread-us-right-to-repair-act/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tech Giant Apple Advocates for Widespread U.S. Right-to-Repair Act</span>
                         </a>
                     
               
                 
                     
-                        <a href="/understanding-bored-ape-yacht-club-an-introduction-to-unique-nfts/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs</span>
+                        <a href="/tcl-enters-the-augmented-reality-market-with-innovative-smart-eyewear/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">TCL Enters the Augmented Reality Market with Innovative Smart Eyewear</span>
                         </a>
                     
               
                 
                     
-                        <a href="/transform-your-pc-into-a-powerhouse-of-ai-generated-art-using-stable-diffusion-technology/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Transform Your PC Into a Powerhouse of AI-Generated Art Using Stable Diffusion Technology</span>
+                        <a href="/step-by-step-guide-interacting-with-uniswap-via-metamask-on-ios-and-android-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Interacting with Uniswap via MetaMask on iOS and Android Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-virtual-reality-headset-picks-ultimate-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Virtual Reality Headset Picks : Ultimate Guide</span>
+                        <a href="/step-by-step-guide-blocking-crypto-sites-in-your-brave-browser-experience/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Blocking Crypto Sites in Your Brave Browser Experience</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-virtual-reality-game-experiences-oculus-quest-pc-and-ps-vr-edition/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Virtual Reality Game Experiences: Oculus Quest, PC, &amp; PS VR Edition</span>
+                        <a href="/step-by-step-guide-activating-and-running-chatgpt-with-shellgpt-in-ubuntus-terminal-environment/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu&#39;s Terminal Environment</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-potential-impact-of-the-spacex-t-mobile-alliance-on-opposing-phone-carriers-according-to-atandt-and-verizon/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Potential Impact of the SpaceX-T-Mobile Alliance on Opposing Phone Carriers, According to AT&amp;T and Verizon</span>
+                        <a href="/revolutionize-your-kitchen-habits-make-chatgpt-your-go-to-source-for-delicious-recipes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Revolutionize Your Kitchen Habits: Make ChatGPT Your Go-To Source for Delicious Recipes</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-inconspicuous-evolution-of-ai-why-the-most-significant-change-is-largely-overlooked/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked</span>
+                        <a href="/revamping-school-friendly-deals-the-changing-landscape-of-apple-product-offers-in-america/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Revamping School-Friendly Deals: The Changing Landscape of Apple Product Offers in America</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-importance-of-accurately-assessing-ipd-in-enhancing-your-immersive-vr-journey/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Importance of Accurately Assessing IPD in Enhancing Your Immersive VR Journey</span>
+                        <a href="/record-up-to-three-minutes-unveiling-the-powerful-features-of-ray-ban-metasmart-eyewear/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Record Up To Three Minutes: Unveiling the Powerful Features of Ray Ban Metasmart Eyewear</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-evolution-from-vr-to-xr-understanding-how-extended-reality-could-dominate-the-market/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Evolution From VR to XR - Understanding How Extended Reality Could Dominate the Market.</span>
+                        <a href="/purchase-an-adult-smoosat-electric-scooter-and-receive-a-childs-e-scooter-for-free/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Purchase an Adult SmooSat Electric Scooter &amp; Receive a Child&#39;s E-Scooter for Free!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/smart-savings-with-ai-how-mixing-no-cost-programs-can-meet-your-needs/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Smart Savings with AI: How Mixing No-Cost Programs Can Meet Your Needs</span>
+                        <a href="/no-more-gratis-power-for-your-rivian-journeys-understanding-the-new-charge-policy-shift/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">No More Gratis Power for Your Rivian Journeys – Understanding the New Charge Policy Shift</span>
                         </a>
                     
               
