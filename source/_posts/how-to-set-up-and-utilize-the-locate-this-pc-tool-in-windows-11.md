@@ -1,7 +1,7 @@
 ---
 title: How to Set Up and Utilize the Locate This PC Tool in Windows 11
-date: 2024-09-05T06:19:36.257Z
-updated: 2024-09-06T06:19:36.257Z
+date: 2024-09-12T01:09:16.324Z
+updated: 2024-09-13T01:09:16.324Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/the-word-windows-11-with-a-map-pin-on-the-right-and-the-default-windows-11-wallpaper-as-background.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up and Utilize the Locate This PC Tool in Windows 11
 
 ### Quick Links
@@ -33,16 +27,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’d like to be able to locate and lock your Windows 11 PC when it’s lost or stolen, turn on the Find My Device option on it. We’ll tell you how the feature works, how to turn it on, and how to find your missing device with it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Is Find My Device on Windows 11?
 
  Find My Device is a [built-in Windows 11 feature](https://extra-lessons.techidaily.com/action-ammo-face-off-prodigy-cameras-compared-black-vs-session-for-2024/) that lets you track your PC’s location. Think of it as [Apple’s Find My feature](https://youtube-lab.techidaily.com/24-the-creators-guide-to-the-top-9-affordable-video-editing-apps/) but for Windows.
 
  Once turned on, you can use your Microsoft account to track your Windows 11 PC on a map. You can even [lock the PC](https://facebook.techidaily.com/renewable-revolution-complete-energy-for-fb/) so anyone who finds it can’t access your data. The feature also lets you display a message on the lost device, so if someone finds the device, they can return it to you.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn On Find My Device
 
@@ -52,18 +60,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Privacy & Security' and 'Find My Device' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-find-my-device-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, turn on the "Find My Device" toggle.
 
 !['Find My Device' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-enable-find-my-device.jpg) 
 
  And that’s all. You’ve successfully enabled the feature on your PC. You can now locate this specific device using your Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Locate or Lock a Device With Find My Device
 
  To trace or lock a Find My Device-enabled PC, launch a web browser on your device and head to [Microsoft’s Devices page](https://account.microsoft.com/devices). Sign in to the same Microsoft account that you use on the PC you want to locate.
@@ -73,16 +82,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Find My Device' highlighted on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-locate-device-find-my-device.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the device page, click "Find" to begin tracking the device’s location.
 
  If the device’s live location isn’t available, Microsoft will display the last recorded location.
 
 !['Find' highlighted for a device on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-start-finding-device.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the device is found, you’ll see its location on the map. To zoom in, click the "+" (plus) sign on the right of the map. This lets you find your device’s precise location.
 
@@ -93,33 +110,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A device's location displayed on a map on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-view-device-location.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to lock the device so every user on it gets logged out, click the "Lock" button.
 
 !['Lock' highlighted on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-lock-device.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the "Lock Device" window, add an optional message using the text box so that whoever finds the device has your contact information. Then, at the bottom, click "Lock."
 
 ![The message box and 'Lock' highlighted on the 'Lock Device' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-add-message-lock-device.jpg) 
 
  Microsoft has now locked your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Turn Off Find My Device
 
  If you don’t wish to be able to remotely find or [lock your Windows 11 PC](https://screen-activity-recording.techidaily.com/clear-vision-on-recordcast-usability/), turn off Find My Device.
@@ -132,12 +145,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Find My Device' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-disable-find-my-device.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You're set.
 
 ---
@@ -150,8 +157,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,45 +166,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-connoisseurs-melding-visionary-sounds-and-frames/"><u>[New] Connoisseurs Melding Visionary Sounds & Frames</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[Updated] From Ordinary to Outstanding  Crafting Unique Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work/"><u>2024 Approved  Elite Selection of Steadicams Suitable for Drones in Cinematic Work</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-make-facebook-videos-full-screen/"><u>2024 Approved  How to Make Facebook Videos Full Screen?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-studio-vs-bandicam-a-comprehensive-performance-review/"><u>2024 Approved  OBS Studio Vs. Bandicam  A Comprehensive Performance Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-shaping-imagery-the-most-innovative-vector-designers-ranked/"><u>2024 Approved  Shaping Imagery  The Most Innovative Vector Designers Ranked</u></a></li>
-<li><a href="https://techidaily.com/beginning-online-easy-instructions-for-crafting-a-google-id/"><u>Beginning Online: Easy Instructions for Crafting a Google ID</u></a></li>
-<li><a href="https://techidaily.com/boost-your-productivity-with-enhanced-precision-upgrading-mouse-sensitivity-and-performance/"><u>Boost Your Productivity with Enhanced Precision: Upgrading Mouse Sensitivity & Performance</u></a></li>
-<li><a href="https://techidaily.com/1723808102827-cant-access-chatgpt-here-are-5-quick-solutions-to-get-it-running-again/"><u>Can't Access ChatGPT? Here Are 5 Quick Solutions To Get It Running Again</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-tutorial-how-to-disable-and-rollback-recent-windows-10-patches/"><u>Comprehensive Tutorial: How to Disable and Rollback Recent Windows 10 Patches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-missing-pages-in-microsoft-store-windows/"><u>Dealing with Missing Pages in Microsoft Store Windows</u></a></li>
-<li><a href="https://techidaily.com/disabling-the-auto-update-feature-for-drivers-in-windows-10-a-comprehensive-guide/"><u>Disabling the Auto-Update Feature for Drivers in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13/iPad? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/easily-locate-and-launch-the-control-panel-on-your-windows-10-pc/"><u>Easily Locate and Launch the Control Panel on Your Windows 10 PC</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-for-swiftly-upgrading-to-windows-11-with-a-clean-slate-setup/"><u>Easy Steps for Swiftly Upgrading to Windows 11 with a Clean Slate Setup!</u></a></li>
-<li><a href="https://techidaily.com/effortless-setup-linking-wireless-headphones-to-your-desktop-computer-on-windows-10/"><u>Effortless Setup: Linking Wireless Headphones to Your Desktop Computer on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-roblox-experience-achieve-higher-fps-using-latest-techniques/"><u>Elevate Your Roblox Experience: Achieve Higher FPS Using Latest Techniques</u></a></li>
-<li><a href="https://techidaily.com/embark-on-a-lone-quest-with-offline-mode-in-minecraft-for-windows-10-users/"><u>Embark on a Lone Quest with Offline Mode in Minecraft for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/essential-techniques-to-refresh-bios-in-a-windows-11-environment/"><u>Essential Techniques to Refresh BIOS in a Windows 11 Environment</u></a></li>
-<li><a href="https://techidaily.com/five-effective-methods-to-utilize-the-open-group-policy-editor-in-windows-10/"><u>Five Effective Methods to Utilize the Open Group Policy Editor in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/fix-superfetchs-full-disk-utilization-issue-a-complete-guide/"><u>Fix Superfetch's Full Disk Utilization Issue: A Complete Guide</u></a></li>
-<li><a href="https://techidaily.com/1723808105093-fixing-a-frozen-windows-update-easily-get-your-system-updating-again/"><u>Fixing a Frozen Windows Update Easily – Get Your System Updating Again</u></a></li>
-<li><a href="https://techidaily.com/getting-started-with-fallout-3-compatibility-and-setup-for-windows-11-gaming/"><u>Getting Started with Fallout 3: Compatibility and Setup for Windows 11 Gaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/greatest-7-web-based-recording-tools-2023-for-2024/"><u>Greatest 7 Web-Based Recording Tools 2023 for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-mini-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-fix-battlenet-slow-download-speed-2024-tips/"><u>How to Fix Battle.net Slow Download Speed – 2024 Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-fix-cd-or-dvd-drive-issue-with-error-code-39/"><u>How to Fix CD or DVD Drive Issue with Error Code 39</u></a></li>
-<li><a href="https://techidaily.com/how-to-set-up-remote-desktop-on-windows-10/"><u>How to Set up Remote Desktop on Windows 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-xiaomi-redmi-note-12r-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Xiaomi Redmi Note 12R FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y200-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y200</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-v30-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo V30 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-best-top-9-gamers-hubs/"><u>In 2024, Unlock the Best  Top 9 Gamers' Hubs</u></a></li>
-<li><a href="https://techidaily.com/1723808210693-maintenance-therapy-typically-involves-lower-doses-of-steroids-with-azathioprine-or-continued-use-of-mycophenolate-mofetil-to-prevent-relapses/"><u>Maintenance Therapy Typically Involves Lower Doses of Steroids with Azathioprine or Continued Use of Mycophenolate Mofetil to Prevent Relapses.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-your-subtitle-skills-with-this-complete-guide-and-tips/"><u>Perfect Your Subtitle Skills with This Complete Guide & Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/reimagining-online-presence-adjusting-facebook-nickname/"><u>Reimagining Online Presence: Adjusting Facebook Nickname</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-successfully-strategies-to-deal-with-black-screen-issues/"><u>Troubleshoot Successfully: Strategies to Deal with Black Screen Issues</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-for-cddvd-device-malfunctions-and-overcoming-error-39/"><u>Troubleshooting Tips for CD/DVD Device Malfunctions and Overcoming Error 39</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-gaining-full-access-with-the-command-prompt-in-windows-through-admin-rights/"><u>Ultimate Tutorial: Gaining Full Access with the Command Prompt in Windows Through Admin Rights</u></a></li>
-<li><a href="https://techidaily.com/understanding-random-password-generators-a-comprehensive-guide-on-functionality-and-application/"><u>Understanding Random Password Generators: A Comprehensive Guide on Functionality & Application</u></a></li>
-<li><a href="https://techidaily.com/windows-10-tweaks-and-tips-for-a-superior-gaming-setup-enhance-your-play-today/"><u>Windows 10 Tweaks and Tips for a Superior Gaming Setup – Enhance Your Play Today!</u></a></li>
-<li><a href="https://techidaily.com/windows-users-unite-mastering-graphics-driver-resets-in-11-10-and-7/"><u>Windows Users Unite! Mastering Graphics Driver Resets in 11, 10 & 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences-for-2024/"><u>[New] Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-art-of-color-correction-best-practices-top-11/"><u>[New] The Art of Color Correction Best Practices (Top 11)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-reno-11-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Reno 11 5G? Try These Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-lenovos-budget-friendly-tab-m10-hd-your-ideal-companion-for-web-surfing-and-online-entertainment/"><u>Review of Lenovo's Budget-Friendly Tab M10 HD: Your Ideal Companion for Web Surfing and Online Entertainment</u></a></li>
+<li><a href="https://techidaily.com/reviving-old-phones-as-fun-safe-entertainment-hubs-for-childrens-music-and-podcasts/"><u>Reviving Old Phones as Fun, Safe Entertainment Hubs for Children's Music and Podcasts</u></a></li>
+<li><a href="https://techidaily.com/revolutionary-battery-saving-function-in-latest-android-version-how-it-transforms-your-devices-efficiency/"><u>Revolutionary Battery-Saving Function in Latest Android Version: How It Transforms Your Device's Efficiency</u></a></li>
+<li><a href="https://techidaily.com/save-on-budget-friendly-boost-mobiles-latest-5g-offers/"><u>Save on Budget-Friendly Boost Mobile's Latest 5G Offers</u></a></li>
 </ul></div>
+

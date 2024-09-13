@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver
-date: 2024-09-05T06:19:36.711Z
-updated: 2024-09-06T06:19:36.711Z
+date: 2024-09-12T01:09:49.781Z
+updated: 2024-09-13T01:09:49.781Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pipes.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver
 
 Windows used to include a screensaver called “3D Pipes,” which drew overlapping pipes on a black background. It’s a fond memory for many people, and a new blog post sheds some light on its origin.
@@ -37,8 +31,6 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,63 +40,19 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ialing-in-on-youtube-success-identifying-ranks-boosters-for-2024/"><u>[New] Dialing in on YouTube Success  Identifying Ranks Boosters for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-your-cinematic-expedition-through-border-techniques-for-2024/"><u>[New] Elevating Your Cinematic Expedition Through Border Techniques for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-drift-specter-snapshot-analysis/"><u>[New] In 2024, Drift Specter Snapshot Analysis</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-guiding-through-audio-transition-in-ableton-live/"><u>[New] In 2024, Guiding Through Audio Transition in Ableton Live</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-jest-jar-compreenas-best-no-cost-templates/"><u>[New] In 2024, Jest Jar  Compreenas Best No-Cost Templates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pushing-the-limits-revolutionary-image-distortions-with-ps/"><u>[New] Pushing the Limits  Revolutionary Image Distortions with PS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-samsung-gear-360-alternatives-updated-list-2023-for-2024/"><u>[New] Samsung Gear 360 Alternatives  Updated List 2023 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-survival-of-the-undead-cutthroat-top-8-zombie-titles-for-2024/"><u>[New] Survival of the Undead  Cutthroat Top 8 Zombie Titles for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-expertly-enhance-photos-with-free-technology/"><u>[Updated] In 2024, Expertly Enhance Photos with Free Technology</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-reclaim-your-view-2-ways-to-access-deleted-youtube/"><u>2024 Approved  Reclaim Your View  2 Ways to Access Deleted YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sony-fdr-x1000v-action-camera-complete-review/"><u>2024 Approved  Sony FDR-X1000V Action Camera Complete Review</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-pova-6-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Pova 6 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/pepsicoabbyy-direct/"><u>世界市場をリードするPepsiCoがABBYY Directの高度なデータキャプチャを活用した自動化済請求システム</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-recognition-server-hochleistungstauglich-auf-dem-gipfel/"><u>ABBYY Recognition Server: Hochleistungstauglich Auf Dem Gipfel</u></a></li>
-<li><a href="https://techidaily.com/abbyys-revolutionary-ocr-software-enhances-interactive-education-insights-from-the-official-abbyy-blog/"><u>ABBYY's Revolutionary OCR Software Enhances Interactive Education - Insights From the Official ABBYY Blog</u></a></li>
-<li><a href="https://techidaily.com/abbyystarpie-warp-abbyy/"><u>ABBYYのフローテンプレートがSTARPIE WARPに登場！あなたの時間管理を革命化します - ABBYYブログ特集</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/aesthetic-alchemy-transforming-youtube-videos-for-2024/"><u>Aesthetic Alchemy  Transforming YouTube Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/ai-and-robotic-collaborators-set-to-skyrocket-by-half-in-upcoming-years-shaping-the-future-of-tech-jobs/"><u>AI & Robotic Collaborators Set to Skyrocket by Half in Upcoming Years, Shaping the Future of Tech Jobs</u></a></li>
-<li><a href="https://techidaily.com/ai-driven-document-automation-within-health-services-real-world-examples/"><u>AI-Driven Document Automation Within Health Services: Real World Examples</u></a></li>
-<li><a href="https://techidaily.com/boost-your-marketing-results-with-cookiebots-powerful-cookie-based-solutions/"><u>Boost Your Marketing Results with Cookiebot's Powerful Cookie-Based Solutions</u></a></li>
-<li><a href="https://techidaily.com/boost-your-online-presence-with-cookiebot-technology/"><u>Boost Your Online Presence with Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/boost-your-sites-engagement-with-cookiebot-the-ultimate-analytics-solution/"><u>Boost Your Site's Engagement with Cookiebot - The Ultimate Analytics Solution!</u></a></li>
-<li><a href="https://techidaily.com/boosting-digital-engagement-with-advanced-cookiebot-solutions/"><u>Boosting Digital Engagement with Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://techidaily.com/boosting-website-traffic-with-advanced-automated-tracking-featuring-cookiebot-technology/"><u>Boosting Website Traffic with Advanced Automated Tracking - Featuring Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-insights-and-marketing-successes/"><u>Cookiebot-Driven Insights and Marketing Successes</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-websites-visitor-tracking-efficiency/"><u>Cookiebot-Enabled: Enhance Your Website's Visitor Tracking Efficiency</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-the-cutting-edge-engine-behind-customized-user-experiences-online/"><u>Cookiebot: The Cutting-Edge Engine Behind Customized User Experiences Online</u></a></li>
-<li><a href="https://techidaily.com/deutschlands-abbyy-verzeichnete-im-geschaftsjahr-2018-ein-umsatzwachstum-von-19-analyse-und-ausblicke/"><u>Deutschlands ABBYY Verzeichnete Im Geschäftsjahr 2018 Ein Umsatzwachstum Von 19%%: Analyse Und Ausblicke</u></a></li>
-<li><a href="https://techidaily.com/discover-abyabs-revolutionary-tools-for-rapid-digitalization-at-the-documation-salon-in-2017/"><u>Discover ABYAB's Revolutionary Tools for Rapid Digitalization at the Documation Salon in 2017</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-site-with-the-power-of-cookiebot-technology/"><u>Elevate Your Site with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/elevate-your-streaming-experience-a-comprehensive-review-of-the-opal-tadpole-upgrade-for-inferior-laptop-cams/"><u>Elevate Your Streaming Experience: A Comprehensive Review of the Opal Tadpole Upgrade for Inferior Laptop Cams</u></a></li>
-<li><a href="https://techidaily.com/enhanced-user-experience-with-automated-tracking-powered-by-cookiebot/"><u>Enhanced User Experience with Automated Tracking: Powered by Cookiebot</u></a></li>
-<li><a href="https://techidaily.com/enhancing-cognitive-abilities-smart-training-techniques-on-the-abbyy-blog/"><u>Enhancing Cognitive Abilities: Smart Training Techniques on the ABBYY Blog</u></a></li>
-<li><a href="https://techidaily.com/enhancing-website-personalization-with-cookiebot-technology/"><u>Enhancing Website Personalization with Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/erfolgreiches-scannen-mit-dem-abbyy-recognition-server-ihre-dokumente-fliegen-zur-spitze/"><u>Erfolgreiches Scannen Mit Dem ABBYY Recognition Server - Ihre Dokumente Fliegen Zur Spitze!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/extract-unlimited-photographic-content-from-esteemed-4-video-channels-for-2024/"><u>Extract Unlimited Photographic Content From Esteemed 4 Video Channels for 2024</u></a></li>
-<li><a href="https://techidaily.com/harnessing-cookiebots-power-for-advanced-digital-engagement-strategies/"><u>Harnessing Cookiebot's Power for Advanced Digital Engagement Strategies</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/how-to-watch-twitter-videos-in-full-hd-in-2024/"><u>How To Watch Twitter Videos in Full HD, In 2024</u></a></li>
-<li><a href="https://techidaily.com/improving-readability-the-impact-of-texthelp-and-abbyy-on-supporting-those-struggling-with-literacy-issues/"><u>Improving Readability: The Impact of Texthelp and ABBYY on Supporting Those Struggling with Literacy Issues</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-plot-puns-on-pop-culture/"><u>In 2024, Plot Puns on Pop Culture</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>In 2024, Speak with Synthetic Voices  Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6s-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6s Passcode without a Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/iphone-tips-achieve-softened-images-in-4-easy-steps/"><u>IPhone Tips  Achieve Softened Images in 4 Easy Steps</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/leveraging-cookiebot-technology-for-advanced-website-customization-and-analytics/"><u>Leveraging Cookiebot Technology for Advanced Website Customization and Analytics</u></a></li>
-<li><a href="https://techidaily.com/machine-learning-applications-for-streamlining-paperwork-in-investment-management/"><u>Machine Learning Applications for Streamlining Paperwork in Investment Management</u></a></li>
-<li><a href="https://techidaily.com/maximizing-online-visibility-essential-tips-for-effective-page-optimization/"><u>Maximizing Online Visibility: Essential Tips for Effective Page Optimization</u></a></li>
-<li><a href="https://techidaily.com/maximizing-visibility-key-techniques-for-effective-website-pages-optimization/"><u>Maximizing Visibility: Key Techniques for Effective Website Pages Optimization</u></a></li>
-<li><a href="https://techidaily.com/optimized-with-cookiebot-technology-elevate-user-engagement-and-conversion-rates/"><u>Optimized with Cookiebot Technology: Elevate User Engagement & Conversion Rates</u></a></li>
-<li><a href="https://techidaily.com/optimized-with-cookiebot-technology-enhance-your-websites-performance/"><u>Optimized with Cookiebot Technology: Enhance Your Website's Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-dx11-and-wwe-2k-battlegrounds-level-100-functionality-glitches/"><u>Overcoming DX11 and WWE 2K: Battlegrounds Level 10.0 Functionality Glitches</u></a></li>
-<li><a href="https://techidaily.com/redefine-your-customer-journey-with-advanced-interaction-automation/"><u>Redefine Your Customer Journey with Advanced Interaction Automation</u></a></li>
-<li><a href="https://techidaily.com/revolutionize-your-sites-performance-next-gen-visitor-tracking-technology/"><u>Revolutionize Your Site's Performance: Next-Gen Visitor Tracking Technology</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-a2-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo A2 Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-razr-40-ultra-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Razr 40 Ultra Android SIM Unlock APK</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-to-the-xbox-series-x-unleashing-high-definition-gaming/"><u>Ultimate Guide to the Xbox Series X: Unleashing High Definition Gaming</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-lg-gram-156-laptop-analysis-unveiling-an-exceptionally-portable-and-long-lasting-device-from-2018/"><u>Ultimate LG Gram 15.6 Laptop Analysis - Unveiling an Exceptionally Portable & Long-Lasting Device From 2018!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-playwriting-workshop/"><u>Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-virtual-reality-controller-guide-for-2024/"><u>Ultimate Virtual Reality Controller Guide for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-google-pixel-8-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Google Pixel 8 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-insights-into-simplified-ipad-and-iphone-recording/"><u>Quick Insights Into Simplified iPad & iPhone Recording</u></a></li>
+<li><a href="https://techidaily.com/tesla-electric-cars-with-the-greatest-distance-on-a-single-charge/"><u>Tesla Electric Cars with the Greatest Distance on a Single Charge</u></a></li>
+<li><a href="https://techidaily.com/the-downside-of-touch-button-overuse-why-companies-must-rethink-their-digital-interfaces/"><u>The Downside of Touch Button Overuse: Why Companies Must Rethink Their Digital Interfaces</u></a></li>
+<li><a href="https://techidaily.com/the-evolution-of-grok-into-it-jargon-tracing-its-origins-and-adoption-in-computing/"><u>The Evolution of 'Grok' Into IT Jargon: Tracing Its Origins and Adoption in Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/what-is-5g-ultra-connection-uc-and-how-does-it-impact-your-smartphone-experience/"><u>What Is 5G Ultra-Connection (UC) and How Does It Impact Your Smartphone Experience?</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

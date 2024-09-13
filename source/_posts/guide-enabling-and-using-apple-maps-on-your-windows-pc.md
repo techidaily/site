@@ -1,7 +1,7 @@
 ---
 title: "Guide: Enabling and Using Apple Maps on Your Windows PC"
-date: 2024-09-05T06:19:37.579Z
-updated: 2024-09-06T06:19:37.579Z
+date: 2024-09-12T01:10:49.658Z
+updated: 2024-09-13T01:10:49.658Z
 tags:
   - deals
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/675ce17ef0dabd739aa8ee3e2aac7844c7deb38c517ca3120730f7fc3392ff08.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Guide: Enabling and Using Apple Maps on Your Windows PC
 
 Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's how to install it on your Windows PC for easy access.
@@ -30,11 +18,12 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
  We'll use Microsoft Edge for installing the web app on Windows, since it works well with websites that aren't set up as true Progressive Web Apps (PWAs).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Install Apple Maps
 
  First, open Microsoft Edge on your Windows PC. You can search for "Edge" in the Start Menu to find it. Next, open the address [beta.maps.apple.com](https://beta.maps.apple.com/) in the address bar. That will open the Apple Maps web app.
@@ -42,47 +31,51 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Apple Maps web app screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After that, click the main toolbar menu button in Microsoft Edge (it's the button with three dots), then select Apps > Install this site as an app.
 
 ![Installing Apple Maps in Microsoft Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
+<span id="1983584">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Microsoft Edge will ask you to confirm the installation. Click the Install button to complete the process.
 
 ![Confirmation for Apple Maps installation in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Finally, the newly-installed web app will open in its own window. Edge will ask if you want to pin it to your Start menu, Taskbar, and desktop. You can leave Taskbar and desktop unselected, but Start menu needs to be selected, or you won't be able to search for it. Click the Allow button to confirm, and Windows might ask you one more time in a notification, depending on what you selected.
 
 ![Allowing Apple Maps to be installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You're done! Apple Maps is now an installed web app that you can quickly open at any time from the Start menu, and if you want, on your Taskbar and desktop as well. You'll always get the latest available version as Apple continues to improve the Apple Maps web app.
 
  If you want to uninstall Apple Maps at a later time, you can do it from the Installed apps page in the Windows Settings app, just like uninstalling any other software on your Windows PC. You can also do it from Edge's list of installed applications.
@@ -93,8 +86,6 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,51 +95,13 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-captivating-concepts-explore-14-innovative-text-movements/"><u>[New] Captivating Concepts  Explore 14 Innovative Text Movements</u></a></li>
-<li><a href="https://techidaily.com/1723808314537-solved-how-to-configure-vpn-on-android-quickly-and-easily/"><u>[SOLVED] How to Configure VPN on Android | Quickly & Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-journey-through-the-landscape-of-human-computer-interaction/"><u>[Updated] A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-through-challenges-with-non-functional-fb-video-share-for-2024/"><u>[Updated] Navigating Through Challenges with Non-Functional FB Video Share for 2024</u></a></li>
-<li><a href="https://techidaily.com/7-steps-to-backup-windows-10-files-to-another-drive/"><u>7 Steps to Backup Windows 10 Files to Another Drive</u></a></li>
-<li><a href="https://techidaily.com/ace-the-shot-expert-strategies-for-easy-and-effective-screenshotting-on-asus-machines/"><u>Ace the Shot: Expert Strategies for Easy and Effective Screenshotting on ASUS Machines</u></a></li>
-<li><a href="https://techidaily.com/adjusting-your-mouse-dpi-a-step-by-step-guide-to-optimizing-mouse-sensitivity/"><u>Adjusting Your Mouse DPI: A Step-by-Step Guide to Optimizing Mouse Sensitivity</u></a></li>
-<li><a href="https://techidaily.com/beginners-guide-to-wiping-clean-and-refreshing-your-hp-laptop-the-complete-factory-reset-method/"><u>Beginner's Guide to Wiping Clean and Refreshing Your HP Laptop - The Complete Factory Reset Method</u></a></li>
-<li><a href="https://techidaily.com/beginners-tutorial-on-boosting-cpu-performance-with-overclocking/"><u>Beginner's Tutorial on Boosting CPU Performance with Overclocking</u></a></li>
-<li><a href="https://techidaily.com/compattelrunnerexe-high-disk-usage-in-windows-10-and-7-solved/"><u>CompatTelRunner.exe High Disk Usage in Windows 10 & 7 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-mastering-system-restoration-on-windows-11-with-eight-key-steps/"><u>Complete Guide: Mastering System Restoration on Windows 11 with Eight Key Steps</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-how-to-unlink-onedrive-from-your-windows-11-pcs-file-system/"><u>Complete Tutorial: How to Unlink OneDrive From Your Windows 11 PC's File System</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-instructions-keeping-your-windows-n-update-cycle-on-pause/"><u>Comprehensive Instructions: Keeping Your Windows N Update Cycle On Pause</u></a></li>
-<li><a href="https://techidaily.com/connecting-your-playstation-4-controller-a-comprehensive-tutorial/"><u>Connecting Your PlayStation 4 Controller - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techidaily.com/cpu-at-100-effective-fixes-for-optimizing-your-systems-performance/"><u>CPU at 100%%? Effective Fixes for Optimizing Your System's Performance</u></a></li>
-<li><a href="https://techidaily.com/diagnosing-and-repairing-darkened-webcam-display-for-windows-users/"><u>Diagnosing and Repairing Darkened Webcam Display for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/discover-the-worlds-leading-torrent-platforms-a-comprehensive-top-10-guide/"><u>Discover the World's Leading Torrent Platforms: A Comprehensive Top 10 Guide</u></a></li>
-<li><a href="https://techidaily.com/effortless-way-to-upgrade-graphics-device-drivers-in-windows-10-system/"><u>Effortless Way to Upgrade Graphics Device Drivers in Windows 10 System</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-error-code-84-in-fortnite-a-comprehensive-solution-for-smooth-multiplayer-gaming/"><u>Eliminate Error Code 84 in Fortnite: A Comprehensive Solution for Smooth Multiplayer Gaming</u></a></li>
-<li><a href="https://techidaily.com/essential-tips-for-successful-windows-10-os-installation/"><u>Essential Tips for Successful Windows 10 OS Installation</u></a></li>
-<li><a href="https://techidaily.com/expert-recommendations-top-video-editors-specially-designed-for-mac-by-apple/"><u>Expert Recommendations: Top Video Editors Specially Designed for Mac by Apple</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/exploring-profit-sharing-in-youtube-short-creation/"><u>Exploring Profit Sharing in YouTube Short Creation</u></a></li>
-<li><a href="https://techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/fixing-an-undetected-sd-card-quick-troubleshooting-steps/"><u>Fixing an Undetected SD Card: Quick Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-activate-or-deactivate-hibernation-mode-on-your-windows-10-pc/"><u>How to Activate or Deactivate Hibernation Mode on Your Windows 10 PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-boost-fps-in-rust/"><u>How to Boost FPS in Rust</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-screen-resolution-windows-11-solved/"><u>How to Change Screen Resolution Windows 11 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/1723808240127-how-to-change-system-language-on-windows-10-easy-steps/"><u>How to Change System Language on Windows 10? Easy Steps</u></a></li>
-<li><a href="https://techidaily.com/how-to-connect-laptop-to-tv-with-hdmi-with-pictures/"><u>How to Connect Laptop to TV with HDMI [with Pictures]</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-find-and-install-new-driver-updates-for-windows-10-and-11/"><u>How to Easily Find and Install New Driver Updates for Windows 10 and 11</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-inf-drivers-windows-1178xpvista/"><u>How to Install Inf Drivers (Windows 11/7/8/XP/Vista)</u></a></li>
-<li><a href="https://techidaily.com/how-to-optimize-minecraft-gameplay-fixing-low-fps-in-the-latest-high-performance-gear/"><u>How to Optimize Minecraft Gameplay: Fixing Low FPS in the Latest High-Performance Gear</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-gt-neo-5-se-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme GT Neo 5 SE Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/1723807983333-mastering-the-basics-a-comprehensive-guide-to-starting-with-google-services-today/"><u>Mastering the Basics: A Comprehensive Guide to Starting with Google Services Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-release-ultimate-driver-software-for-the-brother-hl-2n40-series-on-windows/"><u>New Release: Ultimate Driver Software for the Brother HL-2n40 Series on Windows</u></a></li>
-<li><a href="https://techidaily.com/1723808024449-speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay</u></a></li>
-<li><a href="https://techidaily.com/ultimate-how-to-for-enjoying-fallout-3-adventures-on-windows-10-systems/"><u>Ultimate How-To for Enjoying Fallout 3 Adventures on Windows 10 Systems</u></a></li>
-<li><a href="https://techidaily.com/ultimate-how-to-enabling-wireless-connectivity-on-an-epson-printer/"><u>Ultimate How-To: Enabling Wireless Connectivity on an Epson Printer</u></a></li>
-<li><a href="https://techidaily.com/ultimate-walkthrough-erasing-all-data-with-an-acer-notebook-factory-reset-process/"><u>Ultimate Walkthrough: Erasing All Data with an Acer Notebook Factory Reset Process</u></a></li>
-<li><a href="https://techidaily.com/unlocking-windows-11s-startup-menu-secrets-for-easy-fixes/"><u>Unlocking Windows 11'S Startup Menu Secrets for Easy Fixes</u></a></li>
-<li><a href="https://techidaily.com/upgrading-made-simple-follow-this-detailed-windows-11-walkthrough/"><u>Upgrading Made Simple: Follow This Detailed Windows 11 Walkthrough</u></a></li>
-<li><a href="https://techidaily.com/voice-recorder-windows-10-how-to-use-it-and-fix-issues-with-it/"><u>Voice Recorder Windows 10 - How to Use It & Fix Issues with It?</u></a></li>
-<li><a href="https://techidaily.com/windows-10-settings-wont-open-solved/"><u>Windows 10 Settings Won’t Open ? [Solved]</u></a></li>
-<li><a href="https://techidaily.com/windows-10-troubleshooting-guide-making-your-external-hdd-visible-again/"><u>Windows 10 Troubleshooting Guide - Making Your External HDD Visible Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-tips-to-communicate-with-youtube-subscribers/"><u>[New] Tips to Communicate with YouTube Subscribers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 Plus and iPad Securely</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correct-your-ps4s-connection-woes-masterful-guidance-on-overcoming-nat-failures/"><u>Correct Your PS4's Connection Woes: Masterful Guidance on Overcoming NAT Failures</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-simplified-approach-to-overhauling-facebook-photo-background/"><u>In 2024, Simplified Approach to Overhauling Facebook Photo Background</u></a></li>
+<li><a href="https://techidaily.com/revamp-your-mac-with-fedora-asahi-an-enhanced-linux-experience/"><u>Revamp Your Mac with Fedora Asahi: An Enhanced Linux Experience</u></a></li>
+<li><a href="https://techidaily.com/revitalize-legacy-hardware-with-this-hidden-gem-of-a-linux-os/"><u>Revitalize Legacy Hardware with This Hidden Gem of a Linux OS</u></a></li>
+<li><a href="https://techidaily.com/revival-of-objectdock-introducing-mac-like-dock-features-to-enhance-windows-11-experience/"><u>Revival of ObjectDock: Introducing Mac-Like Dock Features to Enhance Windows 11 Experience</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/streamlining-home-entertainment-a-step-by-step-guide-to-converting-your-dvds-into-digital-format-on-synology-or-qnap-network-attached-storage-devices/"><u>Streamlining Home Entertainment: A Step-by-Step Guide to Converting Your DVDs Into Digital Format on Synology or QNAP Network Attached Storage Devices</u></a></li>
 </ul></div>
+

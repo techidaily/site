@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-09-05T06:19:37.482Z
-updated: 2024-09-06T06:19:37.482Z
+date: 2024-09-12T01:10:41.150Z
+updated: 2024-09-13T01:10:41.150Z
 tags:
   - deals
 categories:
@@ -11,6 +11,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Efficiently Deleting Files & Folders Using PowerShell Commands
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Before You Begin: How to Find a File or Folder’s Full Path](https://extra-lessons.techidaily.com/navigate-iphones-dual-task-capabilities-effortlessly/)
@@ -19,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete All Files in a Folder But Keep the Folder](https://extra-skills.techidaily.com/new-pushing-creative-boundaries-with-these-top-7-film-color-techniques/)
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,17 +53,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Delete a Specific File Using PowerShell
 
  To remove a specific file from your PC, use PowerShell’s "Remove-Item" [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/).
@@ -68,12 +77,6 @@ Remove-Item "C:\Users\username\Desktop\Old-List.txt"
 
 Remove-Item "C:\Users\username\Desktop\Old-List.txt" -Confirm
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Delete a Specific Folder Using PowerShell
 
  You can use PowerShell’s "Remove-Item" cmdlet to remove any directory from your PC.
@@ -91,17 +94,12 @@ Remove-Item "C:\Users\username\Desktop\Old Files"
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  How to Delete All Files in a Folder But Keep the Folder
 
  If you want to remove all files from a folder but retain the folder, use the "Remove-Item" cmdlet as follows.
@@ -116,20 +114,8 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
 
 ![The 'Remove-Item' cmdlet to delete all files inside a folder on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-delete-all-files-retain-folder-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Delete All Files From a Folder and Its Subfolders
 
  If you’re looking to remove all files from a folder and its subfolders, add the "Recurse" and "Include" parameters to the "Remove-Item" cmdlet.
@@ -147,11 +133,19 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Delete Files With Wildcards
 
  PowerShell offers wildcards, allowing you to delete various kinds of files by just specifying those file types in your command. In all the examples below, replace "PATH" with the full path to your folder.
@@ -180,8 +174,6 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,46 +183,15 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortlessly-access-fb-beats/"><u>[New] 2024 Approved  Effortlessly Access FB Beats</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-canvas-and-chroma-mastering-color-interaction/"><u>[New] Canvas and Chroma  Mastering Color Interaction</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snappy-secrets-learn-screen-recording-with-ease-on-smartphones/"><u>[New] In 2024, Snappy Secrets  Learn Screen Recording with Ease on Smartphones</u></a></li>
-<li><a href="https://techidaily.com/solved-download-directx-12-for-windows-11/"><u>[SOLVED] Download DirectX 12 for Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-smoothing-face-transitions-motion-blur-techniques-in-picsart/"><u>[Updated] Smoothing Face Transitions  Motion Blur Techniques in Picsart</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-passport-photo-creation-made-easy-10-images-at-no-cost/"><u>2024 Approved  Passport Photo Creation Made Easy  10 Images at No Cost</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/amplify-your-influence-an-instagram-guide/"><u>Amplify Your Influence  An Instagram Guide</u></a></li>
-<li><a href="https://techidaily.com/diagnosing-lag-problems-understanding-the-reason-behind-fps-drops-and-stutters-during-your-diablo-4-adventure/"><u>Diagnosing Lag Problems - Understanding the Reason Behind FPS Drops and Stutters During Your Diablo 4 Adventure</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-for-hooking-up-your-computers-to-a-wi-fi-network-securely-and-quickly/"><u>Easy Steps for Hooking up Your Computers to a Wi-Fi Network Securely and Quickly</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-to-download-and-generate-your-own-windows-ebyte-7-iso-file/"><u>Easy Steps to Download & Generate Your Own Windows Ebyte 7 ISO File</u></a></li>
-<li><a href="https://techidaily.com/easy-tutorial-updating-and-downloading-epson-scanner-software-compatible-with-windows-11/"><u>Easy Tutorial: Updating and Downloading Epson Scanner Software Compatible with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/effortless-driver-updates-for-windows-7810-systems-a-guide/"><u>Effortless Driver Updates for Windows 7/8/10 Systems - A Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-resolving-iphones-inability-to-place-calls-easily/"><u>Expert Tips: Resolving iPhone's Inability to Place Calls Easily</u></a></li>
-<li><a href="https://techidaily.com/expert-tutorial-enabling-and-using-remote-desktop-feature-in-windows-11/"><u>Expert Tutorial: Enabling and Using Remote Desktop Feature in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/exploring-vpn-tunneling-protocols-an-overview-and-typology/"><u>Exploring VPN Tunneling Protocols: An Overview and Typology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-muse-with-these-top-11-inspirational-films-to-watch-now/"><u>Find Your Muse with These Top 11 Inspirational Films to Watch Now</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-icon-size-on-windows-11/"><u>How to Change Icon Size on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-securely-transfer-windows-11-documents-in-just-seven-steps/"><u>How to Securely Transfer Windows 11 Documents in Just Seven Steps!</u></a></li>
-<li><a href="https://techidaily.com/how-to-unblock-torrent-sites-or-check-torrent-site-alternatives/"><u>How to Unblock Torrent Sites (Or Check Torrent Site Alternatives)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/instant-vpn-configuration-tips-a-simple-step-by-step-process-for-secure-browsing/"><u>Instant VPN Configuration Tips: A Simple Step-by-Step Process for Secure Browsing</u></a></li>
-<li><a href="https://techidaily.com/master-safe-mode-on-windows-10-explore-4-effective-methods-and-their-screenshots/"><u>Master Safe Mode on Windows 10: Explore 4 Effective Methods and Their Screenshots</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-pubg-matches-expert-strategies-to-skyrocket-fps-in-2020/"><u>Maximize Your PUBG Matches: Expert Strategies to Skyrocket FPS in 2020</u></a></li>
-<li><a href="https://techidaily.com/overcome-high-disk-usage-problems-a-successful-fix-for-windows-10s-task-manager-dilemma/"><u>Overcome High Disk Usage Problems - A Successful Fix for Windows 10’S Task Manager Dilemma</u></a></li>
-<li><a href="https://techidaily.com/quick-fix-removing-temporary-data-and-cache-for-a-smoother-windows-10-experience/"><u>Quick Fix: Removing Temporary Data & Cache for a Smoother Windows 10 Experience</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-how-to-seamlessly-translate-pages-with-google-chrome-mozilla-firefox-and-microsoft-edge/"><u>Quick Guide: How to Seamlessly Translate Pages with Google Chrome, Mozilla Firefox, and Microsoft Edge</u></a></li>
-<li><a href="https://techidaily.com/reset-this-pc-windows-11-when-and-how-to-use-it/"><u>Reset This PC Windows 11 - When & How to Use It</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-discovering-your-pcs-specifications-on-windows-11/"><u>Simple Guide: Discovering Your PC's Specifications on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/simple-steps-for-finding-deleted-microsoft-word-documents-on-windows-10-plus-images/"><u>Simple Steps for Finding Deleted Microsoft Word Documents on Windows 10 + Images!</u></a></li>
-<li><a href="https://techidaily.com/sleeker-starts-for-windows-10-systems-mastering-quick-boots/"><u>Sleeker Starts for Windows 10 Systems – Mastering Quick Boots</u></a></li>
-<li><a href="https://techidaily.com/solution-found-thaw-your-stalled-windows-update-now/"><u>Solution Found: Thaw Your Stalled Windows Update Now</u></a></li>
-<li><a href="https://techidaily.com/solving-non-functional-f8-on-windows-11-a-step-by-step-guide-for-successful-access-to-safe-mode/"><u>Solving Non-Functional F8 on Windows 11: A Step-by-Step Guide for Successful Access to Safe Mode</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-capturing-high-quality-videos-directly-from-your-pc/"><u>Step-by-Step Guide: Capturing High-Quality Videos Directly From Your PC</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-creating-a-bootable-win-11-usb-drive-from-iso-file/"><u>Step-by-Step Guide: Creating a Bootable Win 11 USB Drive From ISO File</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-techniques-to-overcome-latency-problems-with-your-logitech-mouse/"><u>Step-by-Step Techniques to Overcome Latency Problems with Your Logitech Mouse</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-on-configuring-a-three-monitor-workstation/"><u>Step-by-Step Tutorial on Configuring a Three-Monitor Workstation</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-on-enablingdisabling-hibernate-mode-for-windows-10-users/"><u>Step-by-Step Tutorial on Enabling/Disabling Hibernate Mode for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/successful-guide-disabling-onedrive-integration-in-windows-11-file-explorer/"><u>Successful Guide: Disabling OneDrive Integration in Windows 11 File Explorer</u></a></li>
-<li><a href="https://techidaily.com/tech-guide-detailed-steps-to-perform-a-complete-factory-reset-on-your-toshiba-computer/"><u>Tech Guide: Detailed Steps to Perform a Complete Factory Reset on Your Toshiba Computer</u></a></li>
-<li><a href="https://techidaily.com/top-rated-vpn-services-for-enhancing-your-pc-gaming-experience/"><u>Top Rated VPN Services for Enhancing Your PC Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-resolving-windows-11-desktop-apps-and-data-sync-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Desktop Apps and Data Sync Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-cant-change-resolution-solved/"><u>Windows 10 Can’t Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-live-stream-to-youtube-with-wirecast-in-2024/"><u>[New] How to Live Stream to Youtube with Wirecast, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-boosting-social-media-presence-with-effective-fb-instream-ad-plans-for-2024/"><u>[Updated] Boosting Social Media Presence with Effective FB Instream Ad Plans for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-documentarians-guide-to-captivating-audience/"><u>In 2024, The Documentarian's Guide to Captivating Audience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103424403-instantaneously-resolve-wireless-issues-windows/"><u>Instantaneously Resolve Wireless Issues, Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-phone-number-recovery-a-comprehensive-guide-for-rediscovering-lost-numbers-on-android-phones/"><u>Master the Art of Phone Number Recovery: A Comprehensive Guide for Rediscovering Lost Numbers on Android Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-revive-your-corsair-hs50-microphone-with-these-effective-techniques/"><u>Mastering the Art of Troubleshooting: Revive Your Corsair HS50 Microphone with These Effective Techniques</u></a></li>
+<li><a href="https://techidaily.com/optimizing-pc-settings-disabling-win-key-and-altplustab-features-for-enhanced-gaming-performance/"><u>Optimizing PC Settings: Disabling Win-Key & Alt+Tab Features for Enhanced Gaming Performance</u></a></li>
+<li><a href="https://techidaily.com/resolving-windows-update-error-code-0x80070643-a-step-by-step-guide/"><u>Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/restore-your-online-connection-essential-guide-to-overcoming-wi-fi-problems-without-internet-on-windows-11/"><u>Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11</u></a></li>
 </ul></div>
+

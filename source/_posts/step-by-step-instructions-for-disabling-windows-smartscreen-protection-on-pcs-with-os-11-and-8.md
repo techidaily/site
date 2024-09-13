@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Disabling Windows SmartScreen Protection on PCs with OS 11 & 8
-date: 2024-09-05T06:19:35.361Z
-updated: 2024-09-06T06:19:35.361Z
+date: 2024-09-12T01:08:13.942Z
+updated: 2024-09-13T01:08:13.942Z
 tags:
   - desktop
 categories:
@@ -26,17 +26,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The [SmartScreen filter built into Windows](https://instagram-video-recordings.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads/) automatically scans applications, files, downloads, and websites, blocking known-dangerous content and warning you before you run unknown applications. You can disable it, if you like.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Should You Disable SmartScreen? 
 
  We recommend you leave SmartScreen enabled. It provides an additional layer of security that helps protect your PC, whether you're [using antivirus](https://hardware-updates.techidaily.com/unveiling-the-power-of-the-lenovo-legion-pro-5i-gen-9-an-exceptional-gaming-laptop-with-an-excellent-price-tag/) or not. Even if SmartScreen automatically blocks an unknown application you know is safe, you can click through the warning to run the application anyway. 
@@ -50,14 +45,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then click on "Reputation-based Protection Settings." 
 
@@ -69,66 +72,45 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
 <ins class="adsbygoogle"
@@ -136,8 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,41 +128,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-use-your-recordings-for-a-seamless-live-experience-on-fb-for-2024/"><u>[New] How to Use Your Recordings for a Seamless Live Experience on FB for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-5-high-quality-android-screen-recording-solutions/"><u>[New] In 2024, Top 5 High-Quality Android Screen Recording Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-optimizing-video-output-the-adobe-presenter-way-for-2024/"><u>[New] Optimizing Video Output  The Adobe Presenter Way for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-innovative-desktopmobile-conferencing-tools-for-2024/"><u>[Updated] 10 Innovative Desktop/Mobile Conferencing Tools for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ultimate-live-streaming-recorders-for-youtube-maestros/"><u>[Updated] In 2024, Ultimate Live Streaming Recorders for YouTube Maestros</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-uav-selection-in-stock/"><u>[Updated] Premium UAV Selection in Stock</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transitioning-smoothly-the-technology-enhancers-handbook/"><u>[Updated] Transitioning Smoothly  The Technology Enhancer's Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>2024 Approved  Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capture-the-stars-top-skies-sites-reviewed/"><u>Capture the Stars  Top Skies Sites Reviewed</u></a></li>
-<li><a href="https://techidaily.com/effective-fixes-for-fortnite-audio-trouble-no-more-sound-delays-or-cuts/"><u>Effective Fixes for Fortnite Audio Trouble - No More Sound Delays or Cuts</u></a></li>
-<li><a href="https://techidaily.com/effortless-printer-to-pc-connection-techniques-in-windows-11-environment/"><u>Effortless Printer-to-PC Connection Techniques in Windows 11 Environment</u></a></li>
-<li><a href="https://techidaily.com/effortlessly-link-a-second-display-unit-in-your-windows-environment-a-comprehensive-guide/"><u>Effortlessly Link a Second Display Unit in Your Windows Environment – A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-eso-adventure-with-expert-techniques-for-overcoming-low-frames-per-second-fps/"><u>Elevate Your ESO Adventure with Expert Techniques for Overcoming Low Frames Per Second (FPS)</u></a></li>
-<li><a href="https://techidaily.com/enabling-local-play-of-minecraft-on-your-pc-an-in-depth-guide-for-windows-11-gamers/"><u>Enabling Local Play of Minecraft on Your PC: An In-Depth Guide for Windows 11 Gamers</u></a></li>
-<li><a href="https://techidaily.com/ensuring-successful-oculus-installation-on-your-pc-running-windows-11-or-10/"><u>Ensuring Successful Oculus Installation on Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://techidaily.com/expert-solutions-overcoming-lag-on-an-underperforming-hp-device/"><u>Expert Solutions: Overcoming Lag on an Underperforming HP Device</u></a></li>
-<li><a href="https://techidaily.com/fixed-repairing-disk-errors-on-windows-10/"><u>Fixed: Repairing Disk Errors on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/guide-to-executing-pre-windows-11-applications-via-compatibility-mode-in-windows-11/"><u>Guide to Executing Pre-Windows 11 Applications via Compatibility Mode in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/guide-successfully-navigating-the-windows-11-boot-settings-menu/"><u>Guide: Successfully Navigating the Windows 11 Boot Settings Menu</u></a></li>
-<li><a href="https://techidaily.com/how-to-eradicate-ghosting-effects-on-your-television-with-basic-tips/"><u>How to Eradicate Ghosting Effects on Your Television with Basic Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-play-fallout-3-on-windows-10/"><u>How to Play Fallout 3 on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-gmail-password-with-verification-code-2022-tips/"><u>How to RESET Your Gmail Password with Verification Code - 2022 Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-speed-up-your-slow-performing-frequently-freezing-pc-expert-tips/"><u>How to Speed Up Your Slow-Performing, Frequently Freezing PC - Expert Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-torrent-safely-without-getting-caught-without-virus/"><u>How to Torrent Safely [Without Getting Caught, Without Virus]</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-windows-10-drivers-if-you-cant-find-them-on-manufacturers-website/"><u>How to Update Windows 10 Drivers if You Can’t Find Them on Manufacturer’s Website</u></a></li>
-<li><a href="https://techidaily.com/improve-your-listening-experience-mastering-windows-10s-built-in-equalizer-features/"><u>Improve Your Listening Experience: Mastering Windows 10'S Built-In Equalizer Features</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-m54-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy M54 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S24+</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamlining-movie-capture-with-multiple-technology-systems/"><u>In 2024, Streamlining Movie Capture with Multiple Technology Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-core-of-vimeo-empowering-video-artists-and-audiences/"><u>In 2024, The Core of Vimeo  Empowering Video Artists & Audiences</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-time-travel-on-fb-accessing-historical-posts/"><u>In 2024, Time Travel on FB  Accessing Historical Posts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inside-look-a-detailed-review-of-the-android-lightroom-app-for-2024/"><u>Inside Look  A Detailed Review of the Android Lightroom App for 2024</u></a></li>
-<li><a href="https://techidaily.com/master-your-visuals-customizing-3d-settings-on-nvidias-dashboard/"><u>Master Your Visuals: Customizing 3D Settings on NVIDIA's Dashboard</u></a></li>
-<li><a href="https://techidaily.com/minecraft-offline-mode-a-step-by-step-tutorial-for-windows-10-users/"><u>Minecraft Offline Mode: A Step-by-Step Tutorial for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/msi-camera-malfunction-learn-how-to-repair-and-optimize-with-these-helpful-hints/"><u>MSI Camera Malfunction? Learn How to Repair & Optimize with These Helpful Hints</u></a></li>
-<li><a href="https://techidaily.com/optimizing-graphics-performance-a-guide-to-pubgs-configurations-on-nvidia-gpus/"><u>Optimizing Graphics Performance: A Guide to PUBG's Configurations on NVIDIA GPUs</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-maximize-visibility-with-well-structured-yt-summaries/"><u>[New] Maximize Visibility with Well-Structured YT Summaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-meme-template-toolkit/"><u>[Updated] The Essential Meme Template Toolkit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-mac-preview-experience-step-by-step/"><u>2024 Approved Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/enhancing-conversational-ai-with-a-human-touch-strategies-for-naturalizing-chatgpt-outputs/"><u>Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs</u></a></li>
+<li><a href="https://techidaily.com/enough-of-touch-screen-overload-time-automakers-embrace-simplicity/"><u>Enough of Touch Screen Overload: Time Automakers Embrace Simplicity</u></a></li>
+<li><a href="https://techidaily.com/experience-the-future-with-klings-advanced-ai-powered-video-creation/"><u>Experience the Future with Kling's Advanced AI-Powered Video Creation</u></a></li>
+<li><a href="https://techidaily.com/expert-tips-for-erasing-all-data-and-starting-fresh-with-your-oculus-quest-2-a-comprehensive-factory-reset-walkthrough/"><u>Expert Tips for Erasing All Data & Starting Fresh with Your Oculus Quest 2: A Comprehensive Factory Reset Walkthrough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470280121-fixing-cant-send-sms-on-iphone-discover-effective-steps-to-resolve-it/"><u>Fixing 'Can't Send SMS' On iPhone: Discover Effective Steps to Resolve It!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/scouring-social-media-locating-facebook-videos/"><u>Scouring Social Media Locating Facebook Videos</u></a></li>
 </ul></div>
+

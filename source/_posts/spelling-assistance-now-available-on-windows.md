@@ -1,7 +1,7 @@
 ---
 title: Spelling Assistance Now Available on Windows 지오피의 노트북 앱
-date: 2024-09-05T06:19:37.067Z
-updated: 2024-09-06T06:19:37.067Z
+date: 2024-09-12T01:10:13.701Z
+updated: 2024-09-13T01:10:13.701Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Spelling Assistance Now Available on Windows 지오피의 노트북 앱
 
 Notepad's basic functionality hasn't stopped it from being used for quick notes, editing configuration files, and everything in between. The most daring of you might have even used it to store passwords at one point or another (please don't do this). Still, Microsoft has been on a mission to make Notepad not as barebones and a bit more feature-rich, especially now that WordPad is gone for good. Now, Microsoft has added spellcheck to it.
@@ -25,12 +19,6 @@ Notepad's basic functionality hasn't stopped it from being used for quick notes,
 
 ![Screenshot of spellcheck suggestions in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/spellcheck-blog-post.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2024/03/21/spellcheck-in-notepad-begins-rolling-out-to-windows-insiders/)
 
  While the spellcheck feature is enabled by default for some file types, it is turned off by default for log files and other file types commonly associated with coding—after all, it might actually mess with those kinds of files. If you don't like having a spellcheck or autocorrect at all, you can toggle this setting on or off globally or for specific file types within the Notepad app settings or temporarily for the current file through the context menu.
@@ -45,8 +33,6 @@ Notepad's basic functionality hasn't stopped it from being used for quick notes,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -56,42 +42,28 @@ Notepad's basic functionality hasn't stopped it from being used for quick notes,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-expanding-your-instagram-audience-step-by-step/"><u>[New] 2024 Approved  Expanding Your Instagram Audience Step-by-Step</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-how-to-engage-your-audience-in-live-discord-streams-easily/"><u>[New] How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-investing-in-quality-the-path-to-top-tier-fb-video-ads/"><u>[New] Investing in Quality  The Path to Top-Tier FB Video Ads</u></a></li>
-<li><a href="https://techidaily.com/solved-oculus-quest-2-not-connecting-to-pc/"><u>[SOLVED] Oculus Quest 2 Not Connecting to PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-undercover-upsell-simple-image-saving/"><u>2024 Approved  The Undercover Upsell  Simple Image Saving</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bring-your-video-meetings-to-life-how-to-link-a-zoom-session-to-your-tv/"><u>Bring Your Video Meetings to Life – How to Link a Zoom Session to Your TV</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-senior-friendly-phone-contracts-of-2024/"><u>Discover the Finest Senior-Friendly Phone Contracts of 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-ai-dominance-generative-chatbot-showdown/"><u>Discovering AI Dominance - Generative Chatbot Showdown</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-tips-for-fully-restoring-iphone-to-factory-settings-via-desktop-compatible-with-windows-and-mac-powered-by-stellar/"><u>Expert Tips for Fully Restoring iPhone to Factory Settings via Desktop: Compatible with Windows and Mac, Powered by Stellar</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-display-language-in-windows-7/"><u>How to Change Display Language in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-disable-pop-up-blocker-in-chrome-firefox-edge-and-ie/"><u>How to Disable Pop-Up Blocker in Chrome, Firefox, Edge and IE</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily!</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-11/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-unfreeze-a-computer-in-windows-10/"><u>How to Unfreeze a Computer in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-realtek-pcie-fe-family-controller-drivers-in-windows-7/"><u>How to Update Realtek PCIe FE Family Controller Drivers in Windows 7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a1-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A1 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/laptop-projector-connection-made-simple-expert-tips-and-techniques/"><u>Laptop-Projector Connection Made Simple: Expert Tips and Techniques</u></a></li>
-<li><a href="https://techidaily.com/lowering-processor-consumption-tips-for-smoother-performance-on-windows-systems/"><u>Lowering Processor Consumption: Tips for Smoother Performance on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/master-your-mouse-control-a-comprehensive-tutorial-for-tweaking-and-troubleshooting-sensitivity-problems/"><u>Master Your Mouse Control: A Comprehensive Tutorial for Tweaking and Troubleshooting Sensitivity Problems</u></a></li>
-<li><a href="https://techidaily.com/mastering-system-recovery-in-windows-11-accessing-boot-settings-explained/"><u>Mastering System Recovery in Windows 11: Accessing Boot Settings Explained</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-effortless-screen-captures-in-windows-8/"><u>Mastering the Art of Effortless Screen Captures in Windows 8</u></a></li>
-<li><a href="https://techidaily.com/navigating-the-uninstallation-of-nvidia-drivers-in-windows-11/"><u>Navigating the Uninstallation of NVIDIA Drivers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/optimizing-pubg-gameplay-mastering-nvidia-graphics-card-settings/"><u>Optimizing PUBG Gameplay: Mastering Nvidia Graphics Card Settings</u></a></li>
-<li><a href="https://techidaily.com/overcoming-challenges-in-installing-oculus-on-the-latest-versions-of-windows-os/"><u>Overcoming Challenges in Installing Oculus on the Latest Versions of Windows OS</u></a></li>
-<li><a href="https://techidaily.com/protecting-your-data-with-easy-backup-how-to-make-restore-points-in-windows-xp/"><u>Protecting Your Data with Easy Backup: How to Make Restore Points in Windows XP</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-identifying-the-latest-nvidia-drivers-on-your-system/"><u>Quick Guide: Identifying the Latest NVIDIA Drivers on Your System</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-seamlessly-linking-bluetooth-speaker-and-laptop-together/"><u>Quick Guide: Seamlessly Linking Bluetooth Speaker and Laptop Together</u></a></li>
-<li><a href="https://techidaily.com/quickly-find-out-how-much-ram-you-have-in-windows-easy-tutorial-inside/"><u>Quickly Find Out How Much RAM You Have in Windows – Easy Tutorial Inside</u></a></li>
-<li><a href="https://techidaily.com/solving-gameplay-interruptions-a-guide-to-handling-fps-drops-in-beyond-light/"><u>Solving Gameplay Interruptions: A Guide to Handling FPS Drops in BEYOND LIGHT</u></a></li>
-<li><a href="https://techidaily.com/speedy-tutorial-protect-and-print-your-pdfs-for-free-with-enhanced-security-features/"><u>Speedy Tutorial: Protect and Print Your PDFs for Free with Enhanced Security Features</u></a></li>
-<li><a href="https://techidaily.com/steam-gaming-community-how-to-send-and-receive-games-effortlessly/"><u>Steam Gaming Community: How to Send and Receive Games Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-disabling-driver-signing-checks-for-windows-10-systems/"><u>Step-by-Step Tutorial: Disabling Driver Signing Checks for Windows 10 Systems</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-mastering-the-art-of-clearing-googles-track-record-seamlessly/"><u>Step-by-Step Tutorial: Mastering the Art of Clearing Google's Track Record Seamlessly</u></a></li>
-<li><a href="https://techidaily.com/steps-for-regaining-entry-to-your-misremembered-facebook-profile/"><u>Steps for Regaining Entry to Your Misremembered Facebook Profile</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-complete-vivacut-overview-editors-deep-dive-for-2024/"><u>The Complete VivaCut Overview  Editor's Deep Dive for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>[New] 2024 Approved Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-gpu-narrative-radeons-recent-revolution-for-2024/"><u>[Updated] GPU Narrative Radeon's Recent Revolution for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>2024 Approved Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimal-free-webcam-video-grabber-app/"><u>2024 Approved Optimal Free Webcam Video Grabber App</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-call-of-duty-blz-cold-war-performance-issues/"><u>Effective Solutions for Call of Duty BLZ Cold War Performance Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-12-proplus-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 12 Pro+ 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-elevating-your-digital-presence-best-vocal-tweakers-for-vtubers/"><u>In 2024, Elevating Your Digital Presence Best Vocal Tweakers for VTubers</u></a></li>
+<li><a href="https://techidaily.com/sharing-strategies-for-interactions-with-bard-ai-tips-and-techniques/"><u>Sharing Strategies for Interactions with Bard AI – Tips and Techniques</u></a></li>
+<li><a href="https://techidaily.com/top-5-free-ai-solutions-for-efficient-pdf-analysis/"><u>Top 5 Free AI Solutions for Efficient PDF Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/understanding-crypto-mining-a-comprehensive-guide-on-its-functionality/"><u>Understanding Crypto Mining: A Comprehensive Guide on Its Functionality</u></a></li>
+<li><a href="https://techidaily.com/understanding-stablecoins-a-comprehensive-guide/"><u>Understanding Stablecoins: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-cosmos-a-guide-on-using-your-pc-to-explore-and-identify-stars/"><u>Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-concept-of-wrapped-bitcoin-exploring-what-is-wbtc/"><u>Unveiling the Concept of Wrapped Bitcoin: Exploring What Is WBTC?</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-secret-how-the-gemini-side-panel-elevates-your-experience-with-google-workspace-apps/"><u>Unveiling the Secret: How the Gemini Side Panel Elevates Your Experience with Google Workspace Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-vimeo-content-specifications-aspect-ratios-disclosed/"><u>Updated Vimeo Content Specifications Aspect Ratios Disclosed</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

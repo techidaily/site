@@ -1,7 +1,7 @@
 ---
 title: "Discover the Unseen: Top 11 Underexplored Windows 11 Functions Enhancing Your PC Experience"
-date: 2024-09-05T06:19:36.147Z
-updated: 2024-09-06T06:19:36.147Z
+date: 2024-09-12T01:09:07.947Z
+updated: 2024-09-13T01:09:07.947Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,13 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 ---
 
 ## Discover the Unseen: Top 11 Underexplored Windows 11 Functions Enhancing Your PC Experience
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,63 +36,55 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
  Windows loves to hide many hidden gems under its familiar interface that can add magic to your regular Windows experience. From time-saving shortcuts to built-in tools that can rival third-party apps, today we unveil 11 functionalities on Windows 11 that you want to take advantage of.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Changing the Privacy Settings
 
  Among all the hype about [Microsoft's Recall feature on Windows](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/) and new privacy concerns, it's time to limit the data Microsoft collects from you. Luckily, you can tweak some of the privacy options from Windows Settings. Go to Settings > Privacy & Security. Under "Windows Permissions", go to "General."
 
 ![An instance of different Windows privacy and security settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-privacy-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  By default, everything is turned on. Use the toggle buttons to turn off the data you share with Windows.
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, return to the "Privacy & Security" menu and go to "Activity History" under Windows Permissions.
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This setting tracks the websites you browse and the apps you use on your system. Use the toggle button to turn it off. Then click the "Clear History" button to delete previously collected activity history.
 
 ![The option to turn off activity history on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-activity-history-on-windows-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  One last setting you should consider is the one that sends diagnostic data to Microsoft. Again, go back to "Privacy & Settings." This time, go to "Diagnostics & Feedback" under Windows Permissions.
 
 ![Different privacy and security settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diagnostics-and-feedback-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Toggle the buttons to turn off sending all types of diagnostic data. Then press the "Delete" button to clear any previously collected data.
 
 ![Diagnostics data collection settigns on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-diagnostics-data-collection-on-windows.png) 
@@ -93,11 +92,12 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
  There are more [privacy settings on Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) that you can change for a [better Windows user experience](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Live Captions Anywhere
 
  If you find it hard to listen to what's going on in meetings or want to read subtitles when watching videos, Live Captions on Windows 11 makes that happen. It works throughout your whole system, even if you're listening or watching something on your browser. To find Live Captions, go to Settings > Accessibility > Captions.
@@ -114,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
  You can play around the settings of the caption box to suit your preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Voice Typing Anywhere
 
  Another useful accessibility feature on Windows 11 is Voice Access. You can type by speaking whenever you're on a text prompt. Enable Voice Access by going into Settings > Accessibility > Speech.
@@ -126,18 +133,6 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Focus Sessions
 
  I use [Focus Mode on Android](https://extra-approaches.techidaily.com/in-2024-premier-podplay-writing-treasures/) a lot. When you need to get some work done free of distractions, it comes in handy. Windows has its own focus mode called Focus Sessions. To start a Focus Session, go to Settings > System > Focus.
@@ -149,12 +144,32 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 ![Windows Focus Sessions settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-focus-sessions-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  End Tasks From the Task Bar
 
@@ -166,22 +181,30 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![End task from taskbar option on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/end-task-from-taskbar-option-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After that, if you want to end a task, simply right-click on the icon of that task in the taskbar and click "End Task."
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Minimize Windows by Shaking
 
  This is a fun little feature when you have a lot of windows open together, and you need to minimize all of them quickly. You can drag a single window's title bar and shake it to minimize all other windows. To turn this feature on, go to Settings > System > Multitasking.
@@ -189,16 +212,31 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 ![Different Windows System settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-multitasking-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Turn on the "Title Bar Windows Shake" option.
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Scrolling Over the Volume Icon to Change the Volume
 
@@ -206,12 +244,6 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Instant Photo Transfer From Android
 
  A new Windows update now allows you to transfer photos and screenshots the moment you take them on your Android phone. But it's turned off by default. You first need to [connect your Android phone to your Windows PC](https://desktop-recording.techidaily.com/in-2024-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations/) via the Link to Windows app from Play Store. You may also need to log in using your Microsoft account on both.
@@ -224,13 +256,14 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Start Button Shortcuts
 
@@ -238,20 +271,8 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  OCR in the Snipping Tool
 
  If you need to quickly extract some text from an image, the Windows Snipping Tool can help you with that. It's known as the [Text Actions feature](https://fox-hovers.techidaily.com/updated-2024-approved-mastering-time-warp-in-video-editing/). Open the Snipping Tool and [take a screenshot](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/) of the image that you want to extract text from. If the photo is already on your PC, you can right-click it and open it in Snipping Tool.
@@ -261,11 +282,12 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Built-in Image Editing in the Photos App
 
  This is a big one for me personally. For small edits, I either had to rely on a large program like [Photoshop,](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) which would be overkill, or apps on the web, which would sometimes force watermarks and limit the resolution. Now, with some useful editing features integrated into the Windows Photos app, it's easier than ever to make small tweaks to give a perfect shape to your photos.
@@ -275,17 +297,18 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  No More Hiding Behind the Windows
 
  With every new update coming to Windows, we're also getting many new cool features or upgrades to previous features. There are still so many [features we wish Windows brings](https://android-location-track.techidaily.com/2-ways-to-monitor-poco-c65-activity-drfone-by-drfone-virtual-android/) in the future. On that note, it's worth keeping an eye deep inside the Windows environment to find many of these hidden features to bring the true potential out of the operating system.
@@ -296,8 +319,6 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -307,43 +328,17 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-filmmakers-gateway-to-fame-on-tiktok-join-now-for-2024/"><u>[New] Filmmaker's Gateway to Fame on TikTok - Join Now for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-optimal-video-sizing-for-an-instagram-standout/"><u>[New] In 2024, Optimal Video Sizing for an Instagram Standout</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-digital-sound-capturers-for-2024/"><u>[New] Top Digital Sound Capturers for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-64gb-ideal-for-light-video-content/"><u>[Updated] 64Gb  Ideal for Light Video Content?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-exclusive-top-5-list-of-fb-video-downloaders-for-2024/"><u>[Updated] Exclusive TOP 5 List of FB Video Downloaders for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-heart-of-vimeo-celebrating-independent-cinema/"><u>[Updated] In 2024, The Heart of Vimeo  Celebrating Independent Cinema</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superlative-soundstages-written-by-pros/"><u>[Updated] Superlative Soundstages Written by Pros</u></a></li>
-<li><a href="https://techidaily.com/1724313687620-abbyy/"><u>「ABBYYの最先端機能による知的なレシート管理ガイド」</u></a></li>
-<li><a href="https://techidaily.com/2-enhance-your-digital-footprint-naturally-discover-the-power-of-cookiebot-for-seo-success/"><u>2. Enhance Your Digital Footprint Naturally - Discover the Power of Cookiebot for SEO Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-journeying-beyond-boundaries-jaunt-vr-analysis/"><u>2024 Approved  Journeying Beyond Boundaries  Jaunt VR Analysis</u></a></li>
-<li><a href="https://techidaily.com/abbyy-lance-vantage-2-exploring-the-new-ai-marketplace-for-reinventing-digital-transformation/"><u>ABBYY Lance Vantage 2: Exploring the New AI Marketplace for Reinventing Digital Transformation</u></a></li>
-<li><a href="https://techidaily.com/abbyy-seminar-navigating-post-pandemic-success-after-business-automation-amidst-covid-19/"><u>ABBYY Seminar: Navigating Post-Pandemic Success After Business Automation Amidst COVID-19</u></a></li>
-<li><a href="https://techidaily.com/automated-vehicle-parts-supplier-enhances-billing-efficiency-using-abbyy-software/"><u>Automated Vehicle Parts Supplier Enhances Billing Efficiency Using ABBYY Software</u></a></li>
-<li><a href="https://techidaily.com/automatisierungstrategien-94-der-deutschen-firmen-erzielen-laut-abbey-studie-positive-ergebnisse/"><u>Automatisierungstrategien: 94%% Der Deutschen Firmen Erzielen Laut ABBEY-Studie Positive Ergebnisse</u></a></li>
-<li><a href="https://techidaily.com/boost-your-site-with-automated-cookie-tracking-solutions/"><u>Boost Your Site with Automated Cookie Tracking Solutions</u></a></li>
-<li><a href="https://techidaily.com/boosting-digital-marketing-with-cutting-edge-cookiebot-technology/"><u>Boosting Digital Marketing with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/comment-optimiser-vos-processus-grace-aux-donnees-ameliorer-lefficacite-de-la-chaine-dapprovisionnement/"><u>Comment Optimiser Vos Processus Grâce Aux Données : Améliorer L'efficacité De La Chaîne D'approvisionnement</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-automation-enhancing-user-experience/"><u>Cookiebot-Driven Automation: Enhancing User Experience</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-automation-enhancing-your-online-experience/"><u>Cookiebot-Driven Automation: Enhancing Your Online Experience</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-data-collection-enhancing-your-sites-visitor-insights/"><u>Cookiebot-Driven Data Collection: Enhancing Your Site's Visitor Insights</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-personalization-for-tailored-online-interactions-and-improved-engagement/"><u>Cookiebot-Driven Personalization for Tailored Online Interactions and Improved Engagement</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-solutions-for-optimized-website-performance-and-personalization/"><u>Cookiebot-Driven Solutions for Optimized Website Performance and Personalization</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-success-optimize-your-site-with-advanced-tracking/"><u>Cookiebot-Driven Success: Optimize Your Site with Advanced Tracking</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-sites-analytics-and-conversion-tracking/"><u>Cookiebot-Enabled: Enhance Your Site's Analytics and Conversion Tracking</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-websites-user-experience-and-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's User Experience & Analytics</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-enhancing-your-websites-user-experience-and-analytics/"><u>Cookiebot-Enabled: Enhancing Your Website's User Experience and Analytics</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-unleashing-advanced-personalization-on-your-site/"><u>Cookiebot-Enabled: Unleashing Advanced Personalization on Your Site</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enhanced-experience-optimizing-your-sites-performance/"><u>Cookiebot-Enhanced Experience: Optimizing Your Site's Performance</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-boost-your-sites-visibility-with-our-advanced-tracking-technology/"><u>Cookiebot: Boost Your Site's Visibility with Our Advanced Tracking Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/fitbit-versa-3-how-its-built-in-gps-and-comprehensive-health-apps-boost-motivation-for-exercise-enthusiasts/"><u>Fitbit Versa 3: How Its Built-In GPS and Comprehensive Health Apps Boost Motivation for Exercise Enthusiasts</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-10t-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme 10T 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24 Phones with/without a PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco F5 Pro 5G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-11-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 11 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a70-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel A70 Phone without PIN</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x9a-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor X9a Device</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-dimming-curtain-call-fade-techniques-for-pro/"><u>In 2024, The Dimming Curtain Call  Fade Techniques for Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-fast-track-to-voice-reduction-in-audacity/"><u>New In 2024, The Fast Track to Voice Reduction in Audacity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-creating-your-first-duet-video-on-tiktok/"><u>Step-by-Step Guide: Creating Your First Duet Video on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-splitcams-journey-to-video-excellence-an-overview-for-2024/"><u>[New] SplitCam's Journey to Video Excellence An Overview for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-maximize-collaboration-via-zooms-share-feature/"><u>[Updated] 2024 Approved Maximize Collaboration via Zoom's Share Feature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enhancing-media-top-5-streamlining-gadgets-for-2024/"><u>[Updated] Enhancing Media Top 5 Streamlining Gadgets for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-is-investing-in-a-monthly-youtube-premium-worthwhile/"><u>2024 Approved Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://techidaily.com/introducing-chrome-support-in-vivaldi-browser-version-66-a-new-era-of-web-panel-customization/"><u>Introducing Chrome Support in Vivaldi Browser Version 6.6: A New Era of Web Panel Customization</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/ios-excellence-seamless-youtube-video-upload-instructions-for-2024/"><u>IOS Excellence Seamless YouTube Video Upload Instructions for 2024</u></a></li>
+<li><a href="https://techidaily.com/linux-beginners-guide-discovering-the-best-alternatives-to-ubuntu/"><u>Linux Beginners' Guide: Discovering the Best Alternatives to Ubuntu</u></a></li>
+<li><a href="https://techidaily.com/mastering-tune-recognition-on-macos-a-step-by-step-guide/"><u>Mastering Tune Recognition on macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/maximize-your-remote-productivity-with-these-6-essential-windows-taskforcetools-in-windows-11-for-supercharged-remote-work-output/"><u>Maximize Your Remote Productivity with These 6 Essential Windows #TaskForceTools in Windows #11 for Supercharged Remote Work Output</u></a></li>
+<li><a href="https://techidaily.com/my-journey-away-from-windows-how-embracing-the-macbook-changed-everything/"><u>My Journey Away From Windows: How Embracing the MacBook Changed Everything</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Gionee F3 Pro? | Dr.fone</u></a></li>
 </ul></div>
+

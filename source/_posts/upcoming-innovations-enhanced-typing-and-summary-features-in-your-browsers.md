@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Innovations: Enhanced Typing & Summary Features in Your Browsers"
-date: 2024-09-05T06:19:33.633Z
-updated: 2024-09-06T06:19:33.633Z
+date: 2024-09-12T01:06:19.758Z
+updated: 2024-09-13T01:06:19.758Z
 tags:
   - web
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c075541dbef1c38bbe62a795e13b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upcoming Innovations: Enhanced Typing & Summary Features in Your Browsers
 
 Google Chrome's AI team has proposed new APIs, dubbed Writing Assistance, for directly accessing language models built into web browsers and operating systems. It could lead to more sites and web apps adding AI writing integrations.
@@ -69,8 +57,6 @@ Google Chrome's AI team has proposed new APIs, dubbed Writing Assistance, for di
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,38 +66,26 @@ Google Chrome's AI team has proposed new APIs, dubbed Writing Assistance, for di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>[New] In 2024, How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-channel-harmony-matching-your-narrative-with-the-right-mic/"><u>[New] YouTube Channel Harmony  Matching Your Narrative With the Right Mic</u></a></li>
-<li><a href="https://techidaily.com/1-idoc-scanner-app-effortless-pdf-conversion-using-ios-and-android/"><u>1. IDoc Scanner App - Effortless PDF Conversion Using iOS & Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>2024 Approved  From Basics to Advanced  A Polarr Photo Editor Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapchats-feature-the-spotlight-guide/"><u>2024 Approved  Snapchat's Feature  The Spotlight Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/aragon-research-recognizes-abbyy-as-top-performer-in-document-analysis-for-2019/"><u>Aragon Research Recognizes ABBYY as Top Performer in Document Analysis for 2019</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-service-issues-resolved-heres-how-we-fixed-it/"><u>BattlEye Service Issues Resolved? Here's How We Fixed It!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-barriers-strategies-to-enhance-multicultural-communication/"><u>Breaking Barriers: Strategies to Enhance Multicultural Communication</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-guide-to-the-abbyy-flexicapture-cloud-services-agreement-in-the-united-states/"><u>Comprehensive Guide to the ABBYY FlexiCapture Cloud Services Agreement in the United States</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-websites-performance/"><u>Cookiebot-Enabled: Enhance Your Website's Performance</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/create-effective-fb-video-ads-with-free-kit/"><u>Create Effective FB Video Ads with FREE Kit</u></a></li>
-<li><a href="https://techidaily.com/drive-your-website-traffic-with-our-effective-cookiebot-powered-solutions/"><u>Drive Your Website Traffic with Our Effective Cookiebot-Powered Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-text-insertion-on-visuals-explained/"><u>Effortless Text Insertion on Visuals Explained</u></a></li>
-<li><a href="https://techidaily.com/enhance-online-traffic-with-cookiebot-technology-a-leading-edge-solution/"><u>Enhance Online Traffic with Cookiebot Technology - A Leading Edge Solution</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-websites-data-collection-with-cookiebot-technology/"><u>Enhance Your Website's Data Collection with Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/enhanced-site-personalization-with-the-help-of-cookiebot-technology/"><u>Enhanced Site Personalization with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/experience-next-level-marketing-automation-enhanced-campaigns-featuring-cutting-edge-cookiebot-solutions/"><u>Experience Next-Level Marketing Automation: Enhanced Campaigns Featuring Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://techidaily.com/expert-analysis-elevating-knowledge-with-the-everest-consortium-on-sophisticated-content-mastery/"><u>Expert Analysis: Elevating Knowledge with the Everest Consortium on Sophisticated Content Mastery</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y55s-5g-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y55s 5G (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-telegram-a-step-by-step-walkthrough/"><u>In 2024, Mastering Telegram  A Step-By-Step Walkthrough</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-figma-project-with-clean-backgrounds/"><u>In 2024, Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-13-effortless-revenue-strategies-for-newbies-on-reddit/"><u>In 2024, Top 13 Effortless Revenue Strategies for Newbies on Reddit</u></a></li>
-<li><a href="https://techidaily.com/innovative-ocr-technology-transforms-one-million-medical-records-into-easily-searchable-database/"><u>Innovative OCR Technology Transforms One Million Medical Records Into Easily Searchable Database</u></a></li>
-<li><a href="https://techidaily.com/innovative-tech-solutions-widget-integration-and-messaging-trends-with-a-thrill-of-sky-adventures-exploring-the-latest-on-the-abbyy-platform/"><u>Innovative Tech Solutions: Widget Integration & Messaging Trends with a Thrill of Sky Adventures - Exploring the Latest on the ABBYY Platform</u></a></li>
-<li><a href="https://techidaily.com/inside-look-into-abbyys-hierarchy-of-success-the-visionary-leaders-from-founders-to-cfo-who-steered-its-course/"><u>Inside Look Into ABBYY's Hierarchy of Success: The Visionary Leaders From Founders to CFO Who Steered Its Course</u></a></li>
-<li><a href="https://techidaily.com/letude-de-labbyy-identification-des-secteurs-les-plus-scrupuleux-dans-le-respect-des-processus/"><u>L'étude De L'ABBYY : Identification Des Secteurs Les Plus Scrupuleux Dans Le Respect Des Processus</u></a></li>
-<li><a href="https://techidaily.com/leverage-seamless-personalization-features-via-cutting-edge-cookiebot-solutions/"><u>Leverage Seamless Personalization Features via Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://techidaily.com/leveraging-neural-networks-for-id-document-image-extraction-with-abbyy-techniques/"><u>Leveraging Neural Networks for ID Document Image Extraction with ABBYY Techniques</u></a></li>
-<li><a href="https://techidaily.com/model-c-safety-first-1920-5-fixed-rear-sight-safety-feature-incorporated-into-the-design-of-the-grip-assembly-underneath-the-hammer-similar-to-a-cross-bolt-18/"><u>Model C (Safety First) - 1920-5, Fixed Rear Sight, Safety Feature Incorporated Into the Design of the Grip Assembly Underneath the Hammer (Similar to a Cross Bolt Screwdriver), Fluted Grip</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-art-of-using-ai-to-refine-your-instagram-metadata-for-maximum-engagement-and-reach/"><u>The Art of Using AI to Refine Your Instagram Metadata for Maximum Engagement and Reach</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-boosting-your-business-with-advanced-process-analytics-insights-from-the-abbyy-experts/"><u>Ultimate Guide: Boosting Your Business with Advanced Process Analytics - Insights From the ABBYY Experts</u></a></li>
-<li><a href="https://techidaily.com/unleashing-traffic-with-cookiebot-technology-a-game-changer-for-seo-strategies/"><u>Unleashing Traffic with Cookiebot Technology: A Game-Changer for SEO Strategies</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/video-voyages-venturing-into-the-vlog-profit-world/"><u>Video Voyages  Venturing Into the Vlog Profit World</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultra-wealthy-digital-creators/"><u>[New] Ultra-Wealthy Digital Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-discontinuing-instant-recording-on-quicktime/"><u>[Updated] Discontinuing Instant Recording on QuickTime</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-fitness-journey-the-fitbit-versa-3s-built-in-gps-and-wellness-suite-spark-constant-motivation/"><u>Boost Your Fitness Journey: The Fitbit Versa 3'S Built-In GPS and Wellness Suite Spark Constant Motivation</u></a></li>
+<li><a href="https://techidaily.com/dive-into-the-world-of-extended-reality-with-viture-pro-xr-headsets-a-comprehensive-product-insight/"><u>Dive Into the World of Extended Reality with VITURE Pro XR Headsets – A Comprehensive Product Insight</u></a></li>
+<li><a href="https://techidaily.com/engage-more-with-bing-chats-enhanced-dialogue-capabilities/"><u>Engage More with Bing Chat's Enhanced Dialogue Capabilities</u></a></li>
+<li><a href="https://techidaily.com/enhancing-conversational-ai-with-a-human-touch-strategies-for-naturalizing-chatgpt-outputs/"><u>Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone XS Max</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-get-your-epson-xp-40n-printer-running-smoothly/"><u>The Ultimate Walkthrough to Get Your Epson XP-40n Printer Running Smoothly</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

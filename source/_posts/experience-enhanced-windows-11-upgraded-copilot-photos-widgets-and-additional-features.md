@@ -1,7 +1,7 @@
 ---
 title: "Experience Enhanced Windows 11: Upgraded Copilot, Photos, Widgets, and Additional Features"
-date: 2024-09-05T06:15:03.358Z
-updated: 2024-09-06T06:15:03.358Z
+date: 2024-09-12T01:11:36.082Z
+updated: 2024-09-13T01:11:36.082Z
 tags:
   - deals
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0d93e29805eecd4b92108f79.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Experience Enhanced Windows 11: Upgraded Copilot, Photos, Widgets, and Additional Features
 
 Microsoft has announced a major update to Windows 11, with many of the improvements that have been in testing over the past few months. That includes changes to Copilot, a Generative Erase option in the Photos app, improved Snap layouts, and much more.
@@ -25,12 +19,6 @@ Microsoft has announced a major update to Windows 11, with many of the improveme
 
 ![Screenshot of Copilot sidebar in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/win24_c2refresh_copilot_hero_3x2-1024x683.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft
 
  The Photos app in Windows 11 is getting a Generative Erase feature, allowing you to select and remove unwanted objects or imperfections from your images. Microsoft started testing [a similar “Spot Fix” feature](https://win11-tips.techidaily.com/harmonize-window-11-settings-for-clear-prime-video-texts/) in the Photos app back in May, but the current iteration is more comparable to the Content-Aware Fill in Adobe Photoshop.
@@ -53,8 +41,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,55 +50,32 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-quick-step-elevate-through-video-and-like-gameplay/"><u>[New] 2024 Approved  Instagram Quick-Step  Elevate Through Video & Like Gameplay</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-interactive-achievements-the-click-based-reward/"><u>[New] 2024 Approved  Interactive Achievements  The Click-Based Reward</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-core-concepts-in-web-stories-crafting/"><u>[New] Core Concepts in Web Stories Crafting</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[New] The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-varied-and-eye-catching-vlog-discussion-points/"><u>[Updated] In 2024, Varied and Eye-Catching Vlog Discussion Points</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-video-creators-guide-to-igtv-and-youtube-finding-the-right-fit/"><u>[Updated] The Video Creator’s Guide to IGTV & YouTube  Finding the Right Fit</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-footage-to-fame-premiere-pro-edition-tricks-for-youtube/"><u>2024 Approved  From Footage to Fame  Premiere Pro Edition Tricks for YouTube</u></a></li>
-<li><a href="https://media-tips.techidaily.com/7-must-use-audio-selections-to-elevate-your-video-advertisements-at-no-cost/"><u>7 Must-Use Audio Selections to Elevate Your Video Advertisements at No Cost</u></a></li>
-<li><a href="https://techidaily.com/asus-expertbook-p5-advanced-energy-saving-performance-with-up-to/"><u>ASUS ExpertBook P5: Advanced Energy-Saving Performance with Up To</u></a></li>
-<li><a href="https://techidaily.com/download-arc-browser-the-newest-web-browsing-option-compatible-with-windows-10/"><u>Download Arc Browser: The Newest Web Browsing Option Compatible with Windows 10</u></a></li>
-<li><a href="https://techidaily.com/efficient-file-management-utilizing-command-prompt-tips-for-finding-and-opening-documents/"><u>Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents</u></a></li>
-<li><a href="https://techidaily.com/enhance-appearance-in-video-chats-the-reason-behind-choosing-an-android-phone-camera-over-traditional-webcams/"><u>Enhance Appearance in Video Chats: The Reason Behind Choosing an Android Phone Camera Over Traditional Webcams</u></a></li>
-<li><a href="https://techidaily.com/enhanced-audio-editing-features-unveiled-in-the-latest-microsoft-clipchamp-update/"><u>Enhanced Audio Editing Features Unveiled in the Latest Microsoft Clipchamp Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/ensuring-seamless-operation-addressing-driver-mismatches-in-the-ftdi-system/"><u>Ensuring Seamless Operation: Addressing Driver Mismatches in the FTDI System</u></a></li>
-<li><a href="https://techidaily.com/experience-a-new-dimension-the-thrill-of-playing-classic-2d-games-with-vr-technology/"><u>Experience a New Dimension: The Thrill of Playing Classic 2D Games with VR Technology</u></a></li>
-<li><a href="https://techidaily.com/feeling-disconnected-from-your-own-windows-machine-heres-what-to-do/"><u>Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!</u></a></li>
-<li><a href="https://techidaily.com/four-key-moves-for-microsoft-to-rescue-copilot-and-dodge-the-cortana-mistake/"><u>Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake</u></a></li>
-<li><a href="https://techidaily.com/guide-activating-windows-latest-test-features-with-vivetool/"><u>Guide: Activating Windows' Latest Test Features with ViVeTool</u></a></li>
-<li><a href="https://techidaily.com/guide-operating-chatgpt-on-your-pc-via-windows/"><u>Guide: Operating ChatGPT on Your PC via Windows</u></a></li>
-<li><a href="https://techidaily.com/how-microsoft-closed-the-backdoor-local-account-setup-flaw-patched-in-windows-11/"><u>How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-asus-rog-phone-8-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Asus ROG Phone 8 Devices</u></a></li>
-<li><a href="https://techidaily.com/how-windows-11-integrates-with-android-phones-through-onedrive/"><u>How Windows 11 Integrates with Android Phones Through OneDrive</u></a></li>
-<li><a href="https://techidaily.com/identifying-synthetic-stories-unveiling-artificial-intelligence-generated-misinformation/"><u>Identifying Synthetic Stories: Unveiling Artificial Intelligence-Generated Misinformation</u></a></li>
-<li><a href="https://techidaily.com/identifying-your-exact-windows-10-edition-and-update-a-step-by-step-guide/"><u>Identifying Your Exact Windows 10 Edition & Update: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-google-pixel-8-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Google Pixel 8 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-5-elite-apps-for-creating-gifs-from-tiktok-videos-quickly/"><u>In 2024, 5 Elite Apps for Creating GIFs From TikTok Videos Quickly</u></a></li>
-<li><a href="https://techidaily.com/introducing-the-gemini-nano-ai-elevating-smartphone-capabilities-in-googles-new-pixel-model/"><u>Introducing the Gemini Nano AI: Elevating Smartphone Capabilities in Google's New Pixel Model</u></a></li>
-<li><a href="https://techidaily.com/leveraging-microsoft-word-for-effective-bullet-journaling-towards-personal-success/"><u>Leveraging Microsoft Word for Effective Bullet Journaling Towards Personal Success</u></a></li>
-<li><a href="https://techidaily.com/making-wsl-more-accessible-how-microsoft-continues-to-enhance-the-windows-subsystem-for-linux-usability/"><u>Making WSL More Accessible: How Microsoft Continues to Enhance the Windows Subsystem for Linux Usability</u></a></li>
-<li><a href="https://techidaily.com/mastering-minimalism-steps-to-remove-the-taskbar-in-windows-11-setup/"><u>Mastering Minimalism: Steps to Remove the Taskbar in Windows 11 Setup</u></a></li>
-<li><a href="https://techidaily.com/mastering-tos-clarity-a-step-by-step-guide-on-leveraging-chatgpt/"><u>Mastering TOS Clarity: A Step-by-Step Guide on Leveraging ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/meet-the-upgraded-bing-chatbot-advanced-search-features-and-elevated-usage-restrictions-now-available/"><u>Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available</u></a></li>
-<li><a href="https://techidaily.com/microsoft-your-persistent-push-notifications-have-gone-too-far/"><u>Microsoft, Your Persistent Push Notifications Have Gone Too Far!</u></a></li>
-<li><a href="https://techidaily.com/monthly-virtual-reality-game-selections-with-meta-quests-latest-membership-plan/"><u>Monthly Virtual Reality Game Selections with Meta Quest's Latest Membership Plan</u></a></li>
-<li><a href="https://techidaily.com/new-feature-alert-expressvpn-just-added-secure-password-management/"><u>New Feature Alert: ExpressVPN Just Added Secure Password Management!</u></a></li>
-<li><a href="https://techidaily.com/next-steps-for-amazon-starlink-entering-the-protoflight-phase-of-development/"><u>Next Steps for Amazon Starlink: Entering the Protoflight Phase of Development</u></a></li>
-<li><a href="https://techidaily.com/next-summer-release-anticipated-launch-of-the-ford-explorer-electric-vehicle/"><u>Next Summer Release: Anticipated Launch of the Ford Explorer Electric Vehicle</u></a></li>
-<li><a href="https://techidaily.com/overcoming-electric-vehicle-resistance-the-2023-vw-id4-comprehensive-review/"><u>Overcoming Electric Vehicle Resistance: The 2023 VW ID.4 Comprehensive Review</u></a></li>
-<li><a href="https://techidaily.com/potential-risks-how-windows-11s-24-h2-update-may-compromise-network-attached-storage-devices/"><u>Potential Risks: How Windows 11'S 24 H2 Update May Compromise Network Attached Storage Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-note-13-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi Note 13 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/"><u>Rebooting Woes: Windows 10 Troubleshooting</u></a></li>
-<li><a href="https://techidaily.com/sharing-strategies-for-interactions-with-bard-ai-tips-and-techniques/"><u>Sharing Strategies for Interactions with Bard AI – Tips and Techniques</u></a></li>
-<li><a href="https://techidaily.com/top-5-free-ai-solutions-for-efficient-pdf-analysis/"><u>Top 5 Free AI Solutions for Efficient PDF Analysis</u></a></li>
-<li><a href="https://techidaily.com/understanding-crypto-mining-a-comprehensive-guide-on-its-functionality/"><u>Understanding Crypto Mining: A Comprehensive Guide on Its Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-screen-brightness-the-ultimate-10-reasons-for-auto-dimming/"><u>Understanding iPhone Screen Brightness: The Ultimate 10 Reasons for Auto-Dimming</u></a></li>
-<li><a href="https://techidaily.com/understanding-stablecoins-a-comprehensive-guide/"><u>Understanding Stablecoins: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/unlocking-text-insights-best-free-ai-applications-for-pdf-examination/"><u>Unlocking Text Insights: Best FREE AI Applications for PDF Examination</u></a></li>
-<li><a href="https://techidaily.com/unlocking-the-cosmos-a-guide-on-using-your-pc-to-explore-and-identify-stars/"><u>Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-concept-of-wrapped-bitcoin-exploring-what-is-wbtc/"><u>Unveiling the Concept of Wrapped Bitcoin: Exploring What Is WBTC?</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-secret-how-the-gemini-side-panel-elevates-your-experience-with-google-workspace-apps/"><u>Unveiling the Secret: How the Gemini Side Panel Elevates Your Experience with Google Workspace Apps</u></a></li>
-<li><a href="https://techidaily.com/why-the-cost-of-the-apple-vision-pro-is-surprisingly-justifiable/"><u>Why the Cost of the Apple Vision Pro Is Surprisingly Justifiable</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-handbook-to-producing-viral-facebook-reels/"><u>[New] 2024 Approved The Ultimate Handbook to Producing Viral Facebook Reels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-tips-for-configuring-and-measuring-facebooks-in-stream-ads/"><u>[Updated] In 2024, Essential Tips for Configuring and Measuring Facebook's In-Stream Ads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-the-art-of-swift-periscope-broadcasts-for-2024/"><u>[Updated] Mastering the Art of Swift Periscope Broadcasts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-commercial-sky-storage-provider/"><u>2024 Approved Ultimate Commercial Sky-Storage Provider</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-the-potential-of-valorant-thumbnails-for-online-success/"><u>2024 Approved Unlocking the Potential of Valorant Thumbnails for Online Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bluetooth-boost-how-to-effortlessly-hook-up-various-speakers-to-one-device/"><u>Bluetooth Boost: How To Effortlessly Hook Up Various Speakers To One Device</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s24plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S24+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solve-the-nyt-puzzle-expert-answers-to-august-1-clues-416-explained/"><u>Solve the NYT Puzzle: Expert Answers to August 1 Clues (#416 Explained)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fresh-lenovo-monitor-driver-download-for-optimal-performance/"><u>Step-by-Step: Fresh Lenovo Monitor Driver Download for Optimal Performance</u></a></li>
+<li><a href="https://techidaily.com/top-ranking-vpn-solutions-the-ultimate-list/"><u>Top-Ranking VPN Solutions : The Ultimate List</u></a></li>
+<li><a href="https://techidaily.com/unlock-visual-information-quickly-new-feature-in-google-lens-and-circle/"><u>Unlock Visual Information Quickly: New Feature in Google Lens and Circle</u></a></li>
+<li><a href="https://techidaily.com/unlocking-nyt-wordplay-expert-tips-and-clues-to-complete-june-19s-challenge-clue-collection-374/"><u>Unlocking NYT Wordplay: Expert Tips and Clues to Complete June 19'S Challenge - Clue Collection #374</u></a></li>
+<li><a href="https://techidaily.com/upcoming-innovations-enhanced-typing-and-summary-features-in-your-browsers/"><u>Upcoming Innovations: Enhanced Typing & Summary Features in Your Browsers</u></a></li>
+<li><a href="https://techidaily.com/week-in-review-the-demise-of-netflixs-free-plan-and-enhanced-tech-solutions-for-iphones/"><u>Week in Review: The Demise of Netflix's Free Plan & Enhanced Tech Solutions for iPhones</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
