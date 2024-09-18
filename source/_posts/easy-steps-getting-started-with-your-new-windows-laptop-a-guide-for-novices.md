@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2024-09-12T01:10:39.826Z
-updated: 2024-09-13T01:10:39.826Z
+date: 2024-09-16T18:46:24.000Z
+updated: 2024-09-18T19:08:21.819Z
 tags:
   - deals
 categories:
@@ -10,19 +10,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ---
 
 ## Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,19 +30,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Remove Unnecessary Programs From the Startup List 
 
  No one appreciates dealing with random apps popping up whenever they turn on their computer. To make a beginner's experience smoother, ensure you [remove unnecessary apps from the startup list](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/). This will eliminate annoyance and speed up the system’s boot time, a perk anyone would greatly appreciate.
@@ -64,20 +38,14 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
@@ -93,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Set Up Automatic Data Backups 
 
  It's essential to back up the non-techie person's data to protect against accidental deletion and corruption of important files. While they could use an external drive, this method can be time-consuming and challenging. Therefore, I recommend using a cloud storage service, which will automatically back up their data without requiring any action from them (or you).
@@ -110,19 +71,19 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  Non-techies are often unaware of online risks and, thus, more vulnerable to malware and infections. To enhance their security, you should take a few extra steps. First, install a reliable antivirus suite. While Microsoft Defender effectively removes threats and viruses, a third-party antivirus provides additional protection.
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
@@ -131,10 +92,10 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  Customize Screen Element Sizes to Their Preferences 
@@ -148,22 +109,15 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
 
@@ -190,18 +144,16 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-xs-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone XS</u></a></li>
-<li><a href="https://techidaily.com/how-to-design-personalized-dynamic-backgrounds-for-macos-a-step-by-step-guide/"><u>How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-civi-3frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Civi 3FRP Lock</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-depth-rayne-neo-air-2s-glasses-evaluation-a-compact-portable-screen-on-your-face/"><u>In-Depth Rayne Neo Air 2S Glasses Evaluation: A Compact Portable Screen on Your Face</u></a></li>
-<li><a href="https://techidaily.com/is-windows-11-24h2-compatible-with-your-computer-understanding-the-update-readiness/"><u>Is Windows 11 24H2 Compatible with Your Computer? Understanding the Update Readiness</u></a></li>
-<li><a href="https://techidaily.com/linux-terminal-techniques-mastering-the-art-of-command-line-software-removal/"><u>Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal</u></a></li>
-<li><a href="https://techidaily.com/mastering-side-by-side-file-comparisons-with-notepadplusplus-tutorial/"><u>Mastering Side-by-Side File Comparisons with Notepad++ Tutorial</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-bookmarking-your-favorite-musicians-and-tunes-on-a-mac-a-comprehensive-guide/"><u>Mastering the Art of Bookmarking Your Favorite Musicians & Tunes on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/nas-device-compatibility-issues-with-windows-11-update-24h2/"><u>NAS Device Compatibility Issues with Windows 11 Update 24H2</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/save-the-screen-facebook-live-downloads/"><u>Save the Screen Facebook Live Downloads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-discover-how-to-turn-on-the-invisible-file-explorer-path/"><u>Step-by-Step Tutorial: Discover How to Turn On the Invisible File Explorer Path</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-operations-and-applications-of-claude-2/"><u>The Operations and Applications of Claude 2</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unraveling-the-securely-sealed-drives-stellars-historic-triumph/"><u>Unraveling the Securely Sealed Drives - Stellar's Historic Triumph</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1725290138463-digiarty/"><u>[公式] Digiartyソフトウェア社のプライバシーポリシー解説:安全・信頼で楽しむために</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>[New] 2024 Approved Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-ryan-kajis-riches-the-tale-of-youtubes-youngest-mogul/"><u>[New] 2024 Approved Ryan Kaji’s Riches The Tale of YouTube's Youngest Mogul</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reimagining-video-production-with-screenflow-a-mac-users-guide/"><u>[Updated] Reimagining Video Production with ScreenFlow – A Mac User's Guide</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-for-hooking-up-your-computers-to-a-wi-fi-network-securely-and-quickly/"><u>Easy Steps for Hooking up Your Computers to a Wi-Fi Network Securely and Quickly</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-to-download-and-generate-your-own-windows-ebyte-7-iso-file/"><u>Easy Steps to Download & Generate Your Own Windows Ebyte 7 ISO File</u></a></li>
+<li><a href="https://techidaily.com/easy-tutorial-updating-and-downloading-epson-scanner-software-compatible-with-windows-11/"><u>Easy Tutorial: Updating and Downloading Epson Scanner Software Compatible with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/effortless-driver-updates-for-windows-7810-systems-a-guide/"><u>Effortless Driver Updates for Windows 7/8/10 Systems - A Guide</u></a></li>
+<li><a href="https://techidaily.com/expert-tutorial-enabling-and-using-remote-desktop-feature-in-windows-11/"><u>Expert Tutorial: Enabling and Using Remote Desktop Feature in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-audio-adjustment-tools/"><u>Unveiling the Windows 11 Audio Adjustment Tools</u></a></li>
 </ul></div>
 

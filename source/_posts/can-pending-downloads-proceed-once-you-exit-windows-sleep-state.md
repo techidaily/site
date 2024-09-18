@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2024-09-12T01:10:34.563Z
-updated: 2024-09-13T01:10:34.563Z
+date: 2024-09-12T19:11:54.059Z
+updated: 2024-09-18T17:03:33.778Z
 tags:
   - deals
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Keep Downloads Running While Your Laptop's Lid Is Closed](https://extra-approaches.techidaily.com/how-to-make-a-photo-video-with-pixiz-for-2024/)
 * [How to Turn Off Sleep Mode on Your Windows PC](https://hardware-help.techidaily.com/get-the-newest-hp-officejet-pro-8720-windows-driver-software-free-of-charge/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Downloads cannot continue running while your PC is in sleep mode, as the system disables the disk and prevents the file download progress.
@@ -37,10 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The answer to that question is no. If you [put your Windows system in sleep mode](https://tech-haven.techidaily.com/speak-up-discover-how-openai-revolutionizes-chatbot-experience-with-voice-recognition-in-chatgpt/) (even by closing your laptop's lid), you can't keep downloads running. This is because when your system enters sleep mode, it disables your disk, causing your file downloads not to progress.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Keep Downloads Running While Your Laptop's Lid Is Closed
@@ -55,36 +48,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Power Options' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-power-options-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the left sidebar, select "Choose What Closing the Lid Does".
 
 !['Choose What Closing the Lid Does' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-closing-lid-settings-control-panel.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the screen that opens, from the drop-down menus next to "When I Close the Lid", choose "Do Nothing". Then, at the bottom, select "Save Changes".
 
 !['When I Close the Lid' and 'Save Changes' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-do-nothing-close-lid-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn Off Sleep Mode on Your Windows PC
 
@@ -97,13 +83,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  On the following screen, in the "Put the Computer to Sleep" drop-down menus, select "Never" for both. Then, click "Save Changes".
 
 !["Put the Computer to Sleep" and "Save Changes" highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/6-disable-windows-sleep.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -124,20 +103,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-demystifying-mukbang-a-comprehensive-production-guide/"><u>[New] 2024 Approved Demystifying Mukbang A Comprehensive Production Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies/"><u>[Updated] From Zero to Hero How to Triumph with 10 Powerful FB Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-deeper-dive-into-user-experience-revamping-windows-11-widgets/"><u>A Deeper Dive Into User Experience: Revamping Windows 11 Widgets</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-your-hometowns-finest-dvd-copy-shops-the-ultimate-guide-to-choosing-a-service/"><u>Discover Your Hometown's Finest DVD Copy Shops: The Ultimate Guide to Choosing a Service</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-11-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme 11 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-nord-n30-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus Nord N30 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/tethered-to-trust-a-dive-into-cryptocurrency-stability-coins/"><u>Tethered to Trust: A Dive Into Cryptocurrency Stability Coins</u></a></li>
-<li><a href="https://techidaily.com/understanding-chipset-drivers-a-guide-to-their-functions-and-easy-installation-steps/"><u>Understanding Chipset Drivers: A Guide to Their Functions & Easy Installation Steps</u></a></li>
-<li><a href="https://techidaily.com/understanding-ts-files-a-comprehensive-guide-on-their-purpose-and-usage/"><u>Understanding TS Files: A Comprehensive Guide on Their Purpose and Usage</u></a></li>
-<li><a href="https://techidaily.com/unlock-the-power-of-multiple-artificial-intelligence-chatbots-at-home-with-our-cutting-edge-software-suite/"><u>Unlock the Power of Multiple Artificial Intelligence Chatbots at Home with Our Cutting-Edge Software Suite</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-mystery-of-ts-files-learn-what-they-are-and-how-to-work-with-them/"><u>Unveiling the Mystery of TS Files: Learn What They Are and How To Work With Them</u></a></li>
-<li><a href="https://techidaily.com/unveiling-windows-11-for-official-use-reasons-to-steer-clear-of-this-specialized-operating-system/"><u>Unveiling Windows 11 for Official Use - Reasons to Steer Clear of This Specialized Operating System</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/update-alert-notepadplusplus-now-more-powerful-than-ever/"><u>Update Alert: Notepad++ Now More Powerful Than Ever</u></a></li>
-<li><a href="https://techidaily.com/week-in-tech-review-atandt-hacks-exposed-and-samsung-launches-revolutionary-mobile-devices/"><u>Week in Tech Review: AT&T Hacks Exposed & Samsung Launches Revolutionary Mobile Devices</u></a></li>
-<li><a href="https://techidaily.com/weekly-tech-update-coming-soon-from-google-and-samsungs-new-mobile-devices/"><u>Weekly Tech Update: Coming Soon From Google & Samsung's New Mobile Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cutting-edge-captures-delving-into-iphone-xs-camera/"><u>In 2024, Cutting Edge Captures Delving Into iPhone X's Camera</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-nubia-red-magic-8s-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Nubia Red Magic 8S Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-windows-11-user-authentication-problems-solutions-inside/"><u>Troubleshooting Windows 11 User Authentication Problems - Solutions Inside!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-best-emulators-for-steam-decks/"><u>Ultimate Guide to the Best Emulators for Steam Decks</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-create-a-bootable-usb-drive-from-windows-10-iso/"><u>Ultimate Guide: Create a Bootable USB Drive From Windows 10 ISO</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-configuring-remote-access-for-your-windows-10-machine/"><u>Ultimate Tutorial on Configuring Remote Access for Your Windows 10 Machine</u></a></li>
 </ul></div>
 

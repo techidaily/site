@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-09-12T01:10:41.150Z
-updated: 2024-09-13T01:10:41.150Z
+date: 2024-09-16T18:04:29.808Z
+updated: 2024-09-18T16:55:13.053Z
 tags:
   - deals
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Efficiently Deleting Files & Folders Using PowerShell Commands
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Before You Begin: How to Find a File or Folder’s Full Path](https://extra-lessons.techidaily.com/navigate-iphones-dual-task-capabilities-effortlessly/)
@@ -26,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete All Files in a Folder But Keep the Folder](https://extra-skills.techidaily.com/new-pushing-creative-boundaries-with-these-top-7-film-color-techniques/)
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows' context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-copy-file-folder-path-windows.jpg) 
 
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Delete a Specific File Using PowerShell
 
@@ -94,10 +73,17 @@ Remove-Item "C:\Users\username\Desktop\Old Files"
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files in a Folder But Keep the Folder
@@ -133,17 +119,16 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
@@ -183,15 +168,17 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rom-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-live-stream-to-youtube-with-wirecast-in-2024/"><u>[New] How to Live Stream to Youtube with Wirecast, In 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-boosting-social-media-presence-with-effective-fb-instream-ad-plans-for-2024/"><u>[Updated] Boosting Social Media Presence with Effective FB Instream Ad Plans for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-documentarians-guide-to-captivating-audience/"><u>In 2024, The Documentarian's Guide to Captivating Audience</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103424403-instantaneously-resolve-wireless-issues-windows/"><u>Instantaneously Resolve Wireless Issues, Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-phone-number-recovery-a-comprehensive-guide-for-rediscovering-lost-numbers-on-android-phones/"><u>Master the Art of Phone Number Recovery: A Comprehensive Guide for Rediscovering Lost Numbers on Android Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-revive-your-corsair-hs50-microphone-with-these-effective-techniques/"><u>Mastering the Art of Troubleshooting: Revive Your Corsair HS50 Microphone with These Effective Techniques</u></a></li>
-<li><a href="https://techidaily.com/optimizing-pc-settings-disabling-win-key-and-altplustab-features-for-enhanced-gaming-performance/"><u>Optimizing PC Settings: Disabling Win-Key & Alt+Tab Features for Enhanced Gaming Performance</u></a></li>
-<li><a href="https://techidaily.com/resolving-windows-update-error-code-0x80070643-a-step-by-step-guide/"><u>Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/restore-your-online-connection-essential-guide-to-overcoming-wi-fi-problems-without-internet-on-windows-11/"><u>Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-ace-list-of-low-cost-youtube-caption-tools/"><u>[New] In 2024, Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-illumination-a-filmmakers-path-to-stunning-colors-for-2024/"><u>Cinematic Illumination A Filmmaker's Path to Stunning Colors for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/construct-and-grow-unveiling-the-addictive-gameplay-of-cities-skylines/"><u>Construct & Grow: Unveiling the Addictive Gameplay of Cities: Skylines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-prevent-wallpaper-engine-from-collapsing-on-windows-11-and-10/"><u>Effective Solutions to Prevent Wallpaper Engine From Collapsing on Windows 11 and 10</u></a></li>
+<li><a href="https://techidaily.com/exploring-vpn-tunneling-protocols-an-overview-and-typology/"><u>Exploring VPN Tunneling Protocols: An Overview and Typology</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-icon-size-on-windows-11/"><u>How to Change Icon Size on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-securely-transfer-windows-11-documents-in-just-seven-steps/"><u>How to Securely Transfer Windows 11 Documents in Just Seven Steps!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reviving-rarities-your-guide-to-scanning-and-storing-age-old-photos/"><u>In 2024, Reviving Rarities Your Guide to Scanning and Storing Age-Old Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/macos-11-big-sur-update-key-hardware-needs/"><u>MacOS 11 Big Sur Update Key Hardware Needs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-installing-canon-pro-t-100-drivers-on-your-windows-pc-in-minutes/"><u>Ultimate Guide: Installing Canon PRO T 100 Drivers on Your Windows PC in Minutes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-enhance-your-video-with-pro-audio-editing-in-fcp-for-2024/"><u>Updated Enhance Your Video with Pro Audio Editing in FCP for 2024</u></a></li>
 </ul></div>
 

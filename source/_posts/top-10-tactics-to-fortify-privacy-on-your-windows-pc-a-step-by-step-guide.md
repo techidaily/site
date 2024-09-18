@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Tactics to Fortify Privacy on Your Windows PC: A Step-by-Step Guide"
-date: 2024-09-12T01:09:40.831Z
-updated: 2024-09-13T01:09:40.831Z
+date: 2024-09-17T19:26:21.030Z
+updated: 2024-09-18T17:53:10.194Z
 tags:
   - desktop
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![Click the Start button, click your username, then click 'Lock.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/click-your-username-then-click-lock.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Windows Key
 
  Almost every Windows PC has a Windows key on the keyboard. As you've probably guessed, it's the one with the Windows icon. You can press Windows+L to lock your computer.
@@ -50,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 ![Lock from ctrl alt delete shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-from-ctrl-alt-delete-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Lock Your Computer in Task Manager
@@ -62,23 +55,9 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![Search 'Task Manager,' then click the result or click 'Open.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-task-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Go to the "Users" tab, select your user account, then click 'Disconnect.'
 
 ![Tap 'Users,' select your user, then click 'Disconnect.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/go-to-users-tab-select-user-click-disconnect.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A popup appears asking if you're sure you want to disconnect; click "Disconnect User" to confirm.
 
@@ -90,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![Search 'Command Prompt,' then click the top result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the following command:
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -111,18 +77,18 @@ Rundll32.exe user32.dll,LockWorkStation
 
  Once this executes, your PC will be locked.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Run Prompt
 
  This method is exactly the same as the Command Prompt method above, except you use Run. Just type "run" in the Windows Search box, and then click "Run" in the search results. You may also press Windows+R to open a Run window. 
 
 ![Searching for 'Run' in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-the-run-window.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the "Run" window, type the following command, and then click "OK":
 
@@ -130,21 +96,7 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![The command to lock your PC in a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-run-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once this executes, your PC will be locked.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create a Desktop Icon to Lock Your Computer
 
@@ -162,20 +114,14 @@ Give your icon a name, and then click "Finish."
 
 **![Name the shortcut icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Name-the-shortcut-icon.png)** 
 
-Your icon will appear on your desktop—double-click it any time to lock your PC.
-
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Your icon will appear on your desktop—double-click it any time to lock your PC.
 
 ##  Set It Up in the Screen Saver Settings
 
@@ -188,25 +134,25 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 ![Enable 'On Resume, Display Logon Screen,' set the time you want, then click 'Apply.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/on-resume.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We don't recommend this method for security reasons. It's always best to lock your PC before you step away from it.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Dynamic Lock
@@ -231,23 +177,9 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 **![Show details for PC to lock remotely](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Show-details-for-PC-to-lock-remotely.png)** 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "Find My Device" tab, and then click "Lock."
 
 ![Lock PC remotely](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-PC-remotely-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Confirm in all the messages that appear to finish locking your PC.
 
@@ -270,12 +202,18 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-strategies-for-effortlessly-sharing-youtube-videos-on-fb/"><u>[Updated] Strategies for Effortlessly Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-ultimate-fix-guide-overcoming-jabra-wireless-headset-challenges/"><u>2024 Ultimate Fix Guide: Overcoming Jabra Wireless Headset Challenges</u></a></li>
-<li><a href="https://techidaily.com/causation/"><u>Causation</u></a></li>
-<li><a href="https://techidaily.com/coming-soon-in-year-the-eco-friendly-chevrolet-blazer-ev-offers-a-stunning-320-miles-on-a-single-charge/"><u>Coming Soon in [Year]: The Eco-Friendly Chevrolet Blazer EV Offers a Stunning 320 Miles on a Single Charge</u></a></li>
-<li><a href="https://techidaily.com/concerns-rise-as-chatgpt-may-unintentionally-reveal-password-information-mid-chat/"><u>Concerns Rise as ChatGPT May Unintentionally Reveal Password Information Mid-Chat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/typing-triumph-over-tablet-trouble/"><u>Typing Triumph Over Tablet Trouble</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-ai-5-key-techniques-for-writing-superior-chatgpt-queries/"><u>Unlock the Power of AI: 5 Key Techniques for Writing Superior ChatGPT Queries</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-best-video-editors-for-youtube/"><u>[New] The Best Video Editors for YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-masterful-methods-for-keeping-track-of-messenger-communications/"><u>[Updated] In 2024, Masterful Methods for Keeping Track of Messenger Communications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>[Updated] Revolutionize Your Laptop Experience Innovative Methods for Screen Capture for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-streaming-showdown-twitch-versus-youtube-unveiled/"><u>2024 Approved Streaming Showdown Twitch Versus YouTube Unveiled</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-se-2022ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone SE (2022)/iPad/iPod</u></a></li>
+<li><a href="https://facebook.techidaily.com/can-llife-reemerge-and-thrive-amidst-the-new-age-of-metaversal-exploration/"><u>Can LLife Reemerge and Thrive Amidst The New Age of Metaversal Exploration?</u></a></li>
+<li><a href="https://techidaily.com/capture-crystal-clear-audio-on-your-iphone-using-these-8-free-techniques/"><u>Capture Crystal Clear Audio on Your iPhone Using These 8 FREE Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-building-panoramic-pictures-through-image-fusion/"><u>In 2024, Building Panoramic Pictures Through Image Fusion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-listening-made-easy-with-direct-recording/"><u>In 2024, YouTube Listening Made Easy with Direct Recording</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-hidden-gems-top-14-often-ignored-facetime-functions-you-need/"><u>Unlocking the Hidden Gems: Top 14 Often-Ignored FaceTime Functions You Need</u></a></li>
+<li><a href="https://techidaily.com/why-the-new-galaxy-buds-da3-resemble-apples-popular-airpods/"><u>Why the New Galaxy Buds 지칭브이ड스3 Resemble Apple's Popular AirPods</u></a></li>
+<li><a href="https://techidaily.com/your-weekly-briefing-on-the-newest-phone-innovations-by-google-and-samsung-ahead/"><u>Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available"
-date: 2024-09-05T06:16:35.066Z
-updated: 2024-09-06T06:16:35.066Z
+date: 2024-09-11T17:49:50.117Z
+updated: 2024-09-18T18:08:23.338Z
 tags:
   - cutting-edge
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d4143ac728b22e36df439e2bb35.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available
 
 Microsoft has been rapidly building up its [Bing Chat AI service](https://extra-approaches.techidaily.com/updated-mastering-facebook-giveaways-a-step-by-step-guide/) over the past few weeks. Today the company announced a few upgrades coming to Bing Chat, including better search abilities and less restrictive limits.
@@ -25,18 +19,6 @@ Microsoft has been rapidly building up its [Bing Chat AI service](https://extra-
 
 ![Image search in Bing Chat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Untitled-2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Microsoft is also rolling out "local grounding," which should improve queries related to specific locations. The blog post explains, "This week, we delivered enhancements to make Bing give better answers if you're trying to find a park, a store, or a doctor's office near you. Expect us to make further improvements in local grounding based on your feedback."
 
  Finally, the Bing sidebar in Edge has been improved with support for Bing Image Creator (Creative mode needs to be enabled), faster loading times, and a bug fix for random conversation resets. If the new Bing button is annoying, you can [turn it off](https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-a1x-5g-screen-mirroring-app-drfone-by-drfone-android/).
@@ -49,8 +31,6 @@ Microsoft has been rapidly building up its [Bing Chat AI service](https://extra-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,49 +40,28 @@ Microsoft has been rapidly building up its [Bing Chat AI service](https://extra-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-start-broadcasting-now-instagram-live-guide-for-2024/"><u>[New] Start Broadcasting Now  Instagram Live Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-stepwise-insta-story-image-integration-techniques-for-maximum-impact/"><u>[Updated] In 2024, Stepwise Insta Story Image Integration Techniques for Maximum Impact</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-streamlined-strategies-for-ad-copy-formulation-on-social-platforms-for-2024/"><u>[Updated] Streamlined Strategies for Ad Copy Formulation on Social Platforms for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/710-deal-on-core-i5-12450h-alienexchange-swap-keyboard-for-spectacular-16-inch-dual-displays/"><u>$710 Deal on Core I5-12450H AlienExchange - Swap Keyboard for Spectacular 16-Inch Dual Displays</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-instant-messaging-guide-start-a-skype-group-talk/"><u>2024 Approved  Instant Messaging Guide  Start a Skype Group Talk</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-level-gopro-tricks-and-insights/"><u>2024 Approved  Pro-Level GoPro Tricks and Insights</u></a></li>
-<li><a href="https://techidaily.com/ai-generated-art-not-everything-is-created-by-an-algorithm/"><u>AI-Generated Art: Not Everything Is Created By An Algorithm</u></a></li>
-<li><a href="https://techidaily.com/beware-of-fake-help-social-media-bots-posing-as-travel-support-agents/"><u>Beware of Fake Help: Social Media Bots Posing as Travel Support Agents</u></a></li>
-<li><a href="https://techidaily.com/boosting-your-linkedin-presence-top-free-ai-powered-enhancement-techniques/"><u>Boosting Your LinkedIn Presence: Top Free AI-Powered Enhancement Techniques</u></a></li>
-<li><a href="https://techidaily.com/chrome-os-flex-gets-a-boost-with-cutting-edge-linux-capabilities-launching-soon/"><u>Chrome OS Flex Gets a Boost with Cutting-Edge Linux Capabilities Launching Soon!</u></a></li>
-<li><a href="https://techidaily.com/connect-the-dots-with-nyts-june-20-edition-hinted-clues-and-correct-responses-375/"><u>Connect the Dots with NYT's June 20 Edition - Hinted Clues and Correct Responses (#375)</u></a></li>
-<li><a href="https://techidaily.com/decode-the-daily-challenge-on-nytimes-puzzle-todays-connections-answers-for-june-7-362/"><u>Decode the Daily Challenge on NYTimes Puzzle: Today's Connections Answers for June 7 (#362)</u></a></li>
-<li><a href="https://techidaily.com/discover-a-more-private-web-experience-with-my-effortless-switch-to-brave-browser/"><u>Discover a More Private Web Experience with My Effortless Switch to Brave Browser</u></a></li>
-<li><a href="https://techidaily.com/discover-todays-hidden-themes-and-solutions-with-nyt-connections-edition-july-28-413/"><u>Discover Today's Hidden Themes and Solutions with NYT Connections, Edition July 28 (#413)</u></a></li>
-<li><a href="https://techidaily.com/dive-into-deciphering-the-new-york-times-connections-challenge-for-august-6th-insights-and-solutions-421/"><u>Dive Into Deciphering The New York Times' Connections Challenge for August 6Th - Insights and Solutions (#421)</u></a></li>
-<li><a href="https://techidaily.com/essential-top-10-tiktok-security-adjustments-for-immediate-action/"><u>Essential Top 10 TikTok Security Adjustments for Immediate Action</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-troubleshooting-windows-11/"><u>Fixing Headphone Issues: Troubleshooting Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/going-viral-made-simple-discover-10-ingenious-hacks-for-insta-success/"><u>Going Viral Made Simple: Discover 10 Ingenious Hacks for Insta Success</u></a></li>
-<li><a href="https://techidaily.com/google-chrome-version-127-enhanced-security-against-web-based-threats/"><u>Google Chrome Version 127: Enhanced Security Against Web-Based Threats</u></a></li>
-<li><a href="https://techidaily.com/google-expands-location-services-moto-tag-integrates-with-enhanced-find-my-device/"><u>Google Expands Location Services: Moto Tag Integrates with Enhanced 'Find My Device'</u></a></li>
-<li><a href="https://techidaily.com/google-maps-enhances-privacy-locations-stored-securely-on-your-phones-hard-drive/"><u>Google Maps Enhances Privacy: Locations Stored Securely on Your Phone's Hard Drive</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highest-quality-images-in-4k-with-these-cameras/"><u>Highest Quality Images in 4K with These Cameras</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mobile-video-smoothing-system-pro/"><u>In 2024, Mobile Video Smoothing System Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-11f-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 11F 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://techidaily.com/inside-look-unearth-googles-surprising-tributes-to-classic-cinema-and-television-masterpieces/"><u>Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces</u></a></li>
-<li><a href="https://techidaily.com/interactive-exploration-of-top-tech-gadgets-discover-the-samsung-galaxy-ring-z-fold-6-flip-6-and-ultimate-smartwatch/"><u>Interactive Exploration of Top Tech Gadgets: Discover the Samsung Galaxy Ring, Z Fold 6, Flip 6, and Ultimate Smartwatch</u></a></li>
-<li><a href="https://techidaily.com/introducing-protondrive-the-ultimate-free-online-spreadsheet-platform-mirroring-google-docs-features/"><u>Introducing ProtonDrive: The Ultimate Free Online Spreadsheet Platform Mirroring Google Docs Features</u></a></li>
-<li><a href="https://techidaily.com/july-4th-new-york-times-insightful-puzzles-389-edition-solutions-inside/"><u>July 4Th New York Times Insightful Puzzles: #389 Edition - Solutions Inside</u></a></li>
-<li><a href="https://techidaily.com/make-the-most-of-prime-day-grab-discounted-iphone-games-and-dive-in-today/"><u>Make the Most of Prime Day: Grab Discounted iPhone Games & Dive In Today!</u></a></li>
-<li><a href="https://techidaily.com/meet-the-latest-google-pixel-section-1-problem-advanced-question-on-tissue-necrosis/"><u>Meet the Latest Google Pixel # Section 1: Problem - Advanced Question on Tissue Necrosis</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/reigning-on-rankings-transforming-your-online-presence-for-2024/"><u>Reigning on Rankings  Transforming Your Online Presence for 2024</u></a></li>
-<li><a href="https://techidaily.com/revolutionize-recycling-13-ingenious-ways-to-repurpose-your-retired-android-smartphone/"><u>Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone</u></a></li>
-<li><a href="https://techidaily.com/samsung-unveils-the-priciest-addition-the-galaxy-watch-ultra/"><u>Samsung Unveils the Priciest Addition: The Galaxy Watch Ultra</u></a></li>
-<li><a href="https://techidaily.com/seamless-integration-strategies-for-apple-and-android-device-users/"><u>Seamless Integration Strategies for Apple and Android Device Users</u></a></li>
-<li><a href="https://techidaily.com/secure-your-smartphone-on-a-bike-with-homemade-android-auto-support/"><u>Secure Your Smartphone on a Bike with Homemade Android Auto Support</u></a></li>
-<li><a href="https://techidaily.com/security-breach-reveals-potential-risk-for-cooler-master-users-private-details/"><u>Security Breach Reveals Potential Risk for Cooler Master Users' Private Details</u></a></li>
-<li><a href="https://techidaily.com/solve-the-puzzle-with-new-york-times-connection-game-july-8th-episode-393-unveiled/"><u>Solve the Puzzle with New York Times - Connection Game, July 8Th Episode #393 Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-immersive-chronicles-a-brief-history-for-2024/"><u>The Immersive Chronicles  A Brief History for 2024</u></a></li>
-<li><a href="https://techidaily.com/thinking-of-buying-a-new-tablet-why-you-shouldnt-ignore-the-compact-powerhouse-ipad-mini/"><u>Thinking of Buying a New Tablet? Why You Shouldn't Ignore the Compact Powerhouse: IPad Mini</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-12-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme 12 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/transforming-your-iphones-live-photos-into-stunning-videos-and-animated-gifs-a-step-by-step-guide/"><u>Transforming Your iPhone's Live Photos Into Stunning Videos and Animated GIFs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-top-contender-oneplus-ace-with-an-in-depth-longevity-assessment/"><u>Unveiling the Top Contender: OnePlus Ace with an In-Depth Longevity Assessment</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-edit-like-a-pro-video-file-editing-on-mac-os-x-yosemite-made-easy/"><u>Updated 2024 Approved Edit Like a Pro Video File Editing on Mac OS X Yosemite Made Easy</u></a></li>
-<li><a href="https://techidaily.com/why-considering-an-upgrade-to-samsungs-latest-galaxy-z-fold-6-makes-sense/"><u>Why Considering an Upgrade to Samsung's Latest Galaxy Z Fold 6 Makes Sense.</u></a></li>
-<li><a href="https://techidaily.com/why-the-demise-of-samsung-messages-spells-trouble-for-the-future-of-android/"><u>Why the Demise of Samsung Messages Spells Trouble for the Future of Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-x-year-phone-photoshoot-oldiphone-x-edition/"><u>[New] In 2024, X-Year Phone Photoshoot – OldiPhone X Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-understanding-cloud-pricing-models-and-savings-strategies/"><u>[New] Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-stream-instagram-and-youtube-a-step-by-step-guide/"><u>[Updated] Stream Instagram & YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/pdf/"><u>「電子帳簿保存に迅速採用!PDF活用でシンプル始めよう」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-effortless-and-accurate-how-to-capture-every-hulu-playback/"><u>2024 Approved Effortless and Accurate How To Capture Every Hulu Playback</u></a></li>
+<li><a href="https://techidaily.com/abbyy-enhances-tech-capabilities-with-strategic-growth-in-second-quarter-of-2019/"><u>ABBYY Enhances Tech Capabilities with Strategic Growth in Second Quarter of 2019</u></a></li>
+<li><a href="https://techidaily.com/abbyy-recognized-as-a-key-player-top-100-influential-entities-shaping-the-future-of-knowledge-management/"><u>ABBYY Recognized as a Key Player: Top 100 Influential Entities Shaping the Future of Knowledge Management</u></a></li>
+<li><a href="https://techidaily.com/abbyy-vantage-crowned-with-2024s-prestigious-ai-innovation-prize/"><u>ABBYY Vantage Crowned with 2024'S Prestigious AI Innovation Prize</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/achieving-professional-hdr-images-with-adobe-ps/"><u>Achieving Professional HDR Images with Adobe PS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y28-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y28 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-camon-20-premier-5g-easily-by-drfone-android/"><u>How To Unlock a Tecno Camon 20 Premier 5G Easily?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone XS Max without Password?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-satirical-video-gems-the-ultimate-list-of-humor-channels/"><u>In 2024, Satirical Video Gems The Ultimate List of Humor Channels</u></a></li>
+<li><a href="https://techidaily.com/navigating-online-traffic-with-the-advanced-tools-of-cookiebot-technology/"><u>Navigating Online Traffic with the Advanced Tools of Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/optimizing-digital-strategies-with-the-power-of-cookiebot-technology/"><u>Optimizing Digital Strategies with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/wirtschaftsblickpunkte-mit-dem-handelsblatt-entdecken-sie-unseren-podcast-die-geschaftswelt-horen/"><u>Wirtschaftsblickpunkte Mit Dem Handelsblatt - Entdecken Sie Unseren Podcast 'Die Geschäftswelt Hören'“</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

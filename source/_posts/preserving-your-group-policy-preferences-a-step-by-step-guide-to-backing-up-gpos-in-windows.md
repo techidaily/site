@@ -1,7 +1,7 @@
 ---
 title: "Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows"
-date: 2024-09-12T01:11:02.934Z
-updated: 2024-09-13T01:11:02.934Z
+date: 2024-09-11T19:03:14.757Z
+updated: 2024-09-18T17:58:17.826Z
 tags:
   - deals
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 ---
 
 ## Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -52,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
     
 ![GroupPolicy folder in the C drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/grouppolicy-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Press Ctrl+A to select all the content of the "GroupPolicy" folder, and then press Ctrl+C to copy them. Now, go to the location where you want to store the backup. While this could be anywhere, we recommend backing it up on a separate hard drive or [Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/). This way, the backup will remain safe even if your [computer crashes](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-moto-g24-phone-by-drfone-android/) completely.
 
 [Create a new folder](https://visual-screen-recording.techidaily.com/recording-made-simple-a-compreenasite-for-capturing-netflix-content/) in the location where you want to create the backup, then [paste the copied content](https://hardware-tips.techidaily.com/inside-look-at-new-electronics-tips-reviews-and-tech-news-from-tom/) inside the newly created folder.
@@ -80,13 +66,6 @@ attrib -H -S "%BACKUP_DIR%\*.*" /S /D`
     
 ![Back up script in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/back-up-script-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "File" in the top-left corner and choose "Save as". Name the file whatever you wish, with ".bat" appended. Then, select "All files" from the "Save as type" drop-down menu and click "Save".
 
 ![All files option in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/all-files.jpg) 
@@ -96,26 +75,13 @@ attrib -H -S "%BACKUP_DIR%\*.*" /S /D`
 ![Run as admin option in context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-as-admin-option.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will need to run the batch file again each time you change the Local Group Policy Editor settings, since the two aren't synced.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Back Up Local Group Policy Editor Settings With a PowerShell Script
 
@@ -143,13 +109,6 @@ while ($true) {
     
 ![PowerShell script in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/powershell-script.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "File" in the top-left corner and choose "Save as". Name the file, appending ".PS1". Then, select "All files" from the "Save as type" drop-down menu and click "Save".
 
 ![Save option in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/save-option.jpg) 
@@ -161,10 +120,10 @@ while ($true) {
 ![Name field in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/name-field.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Trigger tab, choose "When the computer starts" and click "Next".
@@ -176,16 +135,16 @@ while ($true) {
 ![Start a program in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/start-a-program.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Start a Program tab, paste the following location in the "Program/script" field:
@@ -198,25 +157,11 @@ while ($true) {
     
 ![Next option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/next-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "Next" and "Finish".
 
 ![Finish option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/finish-option.jpg) 
 
  Now, whenever you change the Local Group Policy settings, the script runs automatically and saves the changes to the "Group Policy Backup" folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Restore the Local Group Policy Editor Settings
 
@@ -230,16 +175,10 @@ while ($true) {
 ![GroupPolicy folder in the C drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/grouppolicy-folder.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Back Up and Restore the Local Group Policy Editor Settings Using LGPO
@@ -249,13 +188,6 @@ while ($true) {
  To use LGPO, visit this [Microsoft page](https://www.microsoft.com/en-us/download/details.aspx?id=55319) and click "Download". Then, select "LGPO.zip" and click the "Download" button.
 
 ![Download option in Microsoft Site](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/download.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the file is downloaded, [extract it](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) somewhere on your computer. Then, open the extracted folder, copy the LGPO.exe file, and paste it in the following location:
 
@@ -268,6 +200,13 @@ while ($true) {
         `LGPO.exe /b "<backup_folder_address>"`
     
 ![LGPO command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lgpo-command.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, open the backup folder, and you will see a folder with a random GUID name containing the settings. [Copy the folder to a pen drive](https://facebook-video-recording.techidaily.com/updated-introducing-top-tier-facebook-update-insights-for-2024/) or hard drive and move it to your new computer.
 
@@ -300,16 +239,16 @@ while ($true) {
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-echoes-in-the-stream-full-year-tweet-video-analysis/"><u>[New] 2024 Approved Echoes in the Stream - Full Year Tweet Video Analysis</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-remove-background-noise-from-skype-video-calls-for-2024/"><u>[New] How to Remove Background Noise From Skype Video Calls for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-live-viewing-archive-for-2024/"><u>[Updated] Live Viewing Archive for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transforming-standard-tweets-into-hd-spectacles-for-2024/"><u>[Updated] Transforming Standard Tweets Into HD Spectacles for 2024</u></a></li>
-<li><a href="https://techidaily.com/1-step-by-step-guide-completely-erase-and-hide-user-accounts-in-linux/"><u>1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-mac-experience-with-our-top-7-accessibility-features-designed-for-all-users/"><u>Enhance Your Mac Experience with Our Top 7 Accessibility Features Designed for All Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-for-the-long-awaited-immortals-fenyx-rising-game-now-released/"><u>Fix for the Long-Awaited Immortals Fenyx Rising Game Now Released</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nubia-z50-ultra-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nubia Z50 Ultra? Try These Fixes</u></a></li>
-<li><a href="https://techidaily.com/introducing-chrome-support-in-vivaldi-browser-version-66-a-new-era-of-web-panel-customization/"><u>Introducing Chrome Support in Vivaldi Browser Version 6.6: A New Era of Web Panel Customization</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-best-cheap-action-cameras-to-purchase-for-under-100-for-2024/"><u>The Best Cheap Action Cameras to Purchase for Under $100 for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-smart-alarm-devices-a-comprehensive-guide/"><u>Top-Rated Smart Alarm Devices : A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-rankings-top-budget-friendly-photo-editors-online/"><u>[New] The Ultimate Rankings Top Budget-Friendly Photo Editors Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204036664-resolved-highly-accelerate-your-systems-performance-overcoming-excess-cpu-usage-caused-by-shell-infrastructures/"><u>[Resolved] Highly Accelerate Your System's Performance – Overcoming Excess CPU Usage Caused by Shell Infrastructures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flavorful-frames-principles-of-food-filmmaking/"><u>[Updated] Flavorful Frames Principles of Food Filmmaking</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-lack-of-response-to-electric-pulp-testing-does-not-always-indicate-a-non-vital-tooth-other-factors-such-as-recent-trauma-or-restorations-may-affect-result77/"><u>A Lack of Response to Electric Pulp Testing Does Not Always Indicate a Non-Vital Tooth; Other Factors Such as Recent Trauma or Restorations May Affect results.amoji</u></a></li>
+<li><a href="https://techidaily.com/1723808159596-do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here’s Why</u></a></li>
+<li><a href="https://techidaily.com/1723807911412-fix-your-wiggling-desktop-icons-with-these-fast-straightforward-tips/"><u>Fix Your Wiggling Desktop Icons with These Fast, Straightforward Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-6-plus-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 6 Plus The Right Way</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f34-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy F34 5G Bootloader Easily</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/h-path-to-crafting-unique-video-shorts-thumbnail-credits-for-2024/"><u>Smooth Path to Crafting Unique Video Shorts Thumbnail Credits for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a05-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A05 FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/windows-spotlight-not-working-in-windows-10-fixed/"><u>Windows Spotlight Not Working in Windows 10 [Fixed]</u></a></li>
 </ul></div>
 

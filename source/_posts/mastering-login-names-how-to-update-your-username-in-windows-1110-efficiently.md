@@ -1,7 +1,7 @@
 ---
 title: "Mastering Login Names: How to Update Your Username in Windows 11/10 Efficiently"
-date: 2024-09-12T01:10:58.972Z
-updated: 2024-09-13T01:10:58.972Z
+date: 2024-09-13T17:10:11.777Z
+updated: 2024-09-18T16:08:44.034Z
 tags:
   - deals
 categories:
@@ -35,33 +35,19 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![Click your name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-your-name.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then look towards the bottom-right side of the first section — click "Edit name."
 
 ![Click "edit name."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-edit-name.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fill in your desired user name and the captcha in the popup, then click "Save."
 
 ![Fill out your name and captcha; then click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/fill-out-first-name-last-name-captcha-then-click-Save.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Change a Local Account Name with Control Panel
@@ -77,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![Click &quot;User Accounts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-user-accounts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, click "User Accounts" again.
@@ -91,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![Click &quot;Change your account name.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-change-your-account-name.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) presents you with a prompt at this point, go ahead and allow it. Then, type the new name you'd like in the text box. Finally, click "Change Name."
 
 ![Enter your new user name in the box, then click &quot;Change Name.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/first-enter-the-new-name-then-click-Change.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you click "Change Name," close the user account screen.
 
@@ -112,23 +98,9 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![Enter "netplwiz" in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the user name you want to change, and then click "Properties."
 
 ![Select the user account you want to change, and then click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-name-then-click-properties.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type the new user name in the box, click "Apply," and then click "Ok."
 
@@ -153,20 +125,14 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-guilty-gear-strive-wont-launch/"><u>[SOLVED] Guilty Gear -Strive- Won't Launch</u></a></li>
-<li><a href="https://facebook.techidaily.com/group-unity-on-facebook-acknowledging-each-member/"><u>Group Unity on Facebook: Acknowledging Each Member</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/handy-tips-downloading-youtube-like-content-via-android/"><u>Handy Tips Downloading YouTube-Like Content via Android</u></a></li>
-<li><a href="https://techidaily.com/important-considerations-prior-to-purchasing-your-icloud-storage-plan/"><u>Important Considerations Prior to Purchasing Your iCloud Storage Plan</u></a></li>
-<li><a href="https://techidaily.com/improve-your-virtual-meetings-with-microsoft-teams-new-ai-assisted-webcam-backdrop-management/"><u>Improve Your Virtual Meetings with Microsoft Teams' New AI-Assisted Webcam Backdrop Management</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-superior-image-quality-the-power-of-youtubes-av1-settings/"><u>In 2024, Superior Image Quality The Power of YouTube's AV1 Settings</u></a></li>
-<li><a href="https://techidaily.com/ipad-purchase-top-factors-to-evaluate-before-making-your-decision/"><u>IPad Purchase: Top Factors to Evaluate Before Making Your Decision</u></a></li>
-<li><a href="https://techidaily.com/maximizing-your-data-security-the-benefits-of-storing-time-machine-backups-on-a-macs-built-in-hardware/"><u>Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware</u></a></li>
-<li><a href="https://techidaily.com/microsoft-launches-innovative-pc-search-with-ai-recall-function/"><u>Microsoft Launches Innovative PC Search with AI Recall Function</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-google-pixel-8-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Google Pixel 8 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/overcoming-windows-update-hurdle-fixing-the-0x80070643-issue-efficiently/"><u>Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/protect-your-gaming-experience-developer-introduces-in-game-alert-system-for-intels-latest-processor-generations/"><u>Protect Your Gaming Experience: Developer Introduces In-Game Alert System for Intel's Latest Processor Generations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/ranking-the-best-ios-devices-tools-to-download-fb-movies-and-tunes-for-2024/"><u>Ranking the Best iOS Devices' Tools to Download FB Movies & Tunes for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-a14-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy A14 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/universal-templates-galore-for-youtube-crafting-for-2024/"><u>Universal Templates Galore – For YouTube Crafting for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10-androidios-weddings-ultimate-countdown-timer-apps-for-2024/"><u>[New] Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-to-follow-when-building-your-own-google-account/"><u>Simple Steps to Follow When Building Your Own Google Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-malfunctioning-keyboard-keys/"><u>Solution Implemented for Malfunctioning Keyboard Keys</u></a></li>
+<li><a href="https://techidaily.com/solving-your-playstation-4-safe-mode-issues-a-comprehensive-guide/"><u>Solving Your PlayStation 4 Safe Mode Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-to-sub-guide-practical-conversion-methods/"><u>SRT to SUB Guide Practical Conversion Methods</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-linking-your-printer-with-a-windows-11-pc/"><u>Step-by-Step Guide: Linking Your Printer with a Windows 11 PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtubes-hidden-view-tracking-method-for-2024/"><u>Unlocking YouTube’s Hidden View Tracking Method for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-free-online-video-editing-platforms-for-2024/"><u>Updated Top-Rated Free Online Video Editing Platforms for 2024</u></a></li>
 </ul></div>
 

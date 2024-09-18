@@ -1,7 +1,7 @@
 ---
 title: "1. Solving Common Issues with Windows Defender: A Step-by-Step Guide"
-date: 2024-09-12T01:08:19.133Z
-updated: 2024-09-13T01:08:19.133Z
+date: 2024-09-16T17:59:37.268Z
+updated: 2024-09-18T16:08:34.955Z
 tags:
   - desktop
 categories:
@@ -38,32 +38,11 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Checking the Signature details of a process in the Windows Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/checking-the-signature-details-of-a-process-in-the-windows-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The process is likely genuine if the signature belongs to a well-known company, like Microsoft or Google. whose products you use. If the signer information is missing or associated with an unfamiliar company, you need to investigate further. So, right-click on the process and select "Open File Location."
 
 ![Opening the file location of a process from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-opening-the-file-location-of-a-process-in-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the process is associated with an unfamiliar app you don't recall installing, proceed to delete that app from your device. If you want to dig deeper, you can also search online for more information about the process and its authenticity.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Repair and Reset the Windows Security App
 
@@ -73,43 +52,31 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Opening the installed apps settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-installed-apps-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type "Windows Security" in the search field. If the Windows Security app doesn't appear in the search results, click "System Components" under "Related Settings."
 
 ![Opening the system components apps in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-opening-the-system-components-apps-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click on the three horizontal dots next to "Windows Security" and select "Advanced Options."
 
 ![Opening the advanced settings of the Windows security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-opening-the-advanced-settings-of-the-windows-security-app.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down and click on "Repair." Allow the repair process to complete, close the Settings app, and reopen Windows Security. If the issue persists, return to the same settings page, click "Reset," and then confirm by clicking "Reset" again in the popup.
 
 ![Repairing and resetting the Windows security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-repairing-and-resetting-the-windows-security-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Install the Latest Windows Update
 
@@ -141,30 +108,9 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Opening the settings to uninstall updates on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-opening-the-settings-to-uninstall-updates-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Locate the recently installed updates and click "Uninstall" next to the relevant update. Then, follow the on-screen instructions.
 
 ![Uninstalling a recently installed update in the settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-uninstalling-a-recently-installed-update-in-the-settings-app-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. Ensure Your Device Isn't Infected
 
@@ -172,18 +118,18 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
  If Windows Security is not working due to an infection, the security scan will detect and remove it. If the security scan reveals your system is malware-free, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. Ensure the Security Centre Service Isn't Disabled
 
  If you encounter an error such as "Windows Security Center service is turned off" when opening the Windows Security app, this service could be disabled. To check, type "Services" in Windows Search and open the "Services" app. In the right pane, locate the "Security Center" service, right-click on it, and open "Properties."
 
 ![Opening the properties of a service form the services app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-opening-the-properties-of-a-service-form-the-services-app-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the service is disabled, click on the "Start" button and select "Automatic (Delayed Start)" from the dropdown menu next to "Startup Type."
 
@@ -193,20 +139,6 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Changing the data value of a key in registry editor on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-changing-the-data-value-of-a-key-in-registry-editor-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  7\. Temporarily Disable or Delete Third-Party Antivirus Software
 
  Using any third-party antivirus software alongside Microsoft Defender can also potentially interfere with the operation of Windows Security. To rule out this possibility, temporarily turn off the third-party security suite and check if disabling it resolves the problem.
@@ -214,6 +146,13 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
  If it does, then your antivirus app is likely the cause of the problem. In that case, you can keep it disabled, as Windows Defender is a reliable built-in antivirus solution, and in most cases, there's no real need for additional third-party software.
 
  If you prefer using a third-party security suite for additional security, consider switching to a different antivirus program that doesn't interfere with the Windows Security app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Repair the Corrupt System Files
 
@@ -228,16 +167,16 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 ![Sfc scan command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/sfc-scan-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the SFC scan fails to find and repair the corrupted system files or presents errors during the process, you can [run the DISM scan](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/).
@@ -261,21 +200,18 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-filter-ensuring-veritable-instagram-selfies/"><u>[New] 2024 Approved Behind the Filter Ensuring Veritable Instagram Selfies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-srt-creation-from-text-formats/"><u>[New] Unveiling the Secrets of SRT Creation From Text Formats</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>[Updated] 2024 Approved Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-audio-for-digital-unboxing-scenes/"><u>2024 Approved Mastering Audio for Digital Unboxing Scenes</u></a></li>
-<li><a href="https://techidaily.com/asus-expertbook-p5-advanced-energy-saving-performance-with-up-to/"><u>ASUS ExpertBook P5: Advanced Energy-Saving Performance with Up To</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/compreenas-comprehensive-walkthrough-for-creating-a-unified-skype-chat-room-accessible-by-users-of-different-operating-systems-for-2024/"><u>Compreenas Comprehensive Walkthrough for Creating a Unified Skype Chat Room Accessible by Users of Different Operating Systems for 2024</u></a></li>
-<li><a href="https://techidaily.com/download-arc-browser-the-newest-web-browsing-option-compatible-with-windows-10/"><u>Download Arc Browser: The Newest Web Browsing Option Compatible with Windows 10</u></a></li>
-<li><a href="https://techidaily.com/efficient-file-management-utilizing-command-prompt-tips-for-finding-and-opening-documents/"><u>Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents</u></a></li>
-<li><a href="https://techidaily.com/experience-a-new-dimension-the-thrill-of-playing-classic-2d-games-with-vr-technology/"><u>Experience a New Dimension: The Thrill of Playing Classic 2D Games with VR Technology</u></a></li>
-<li><a href="https://techidaily.com/guide-operating-chatgpt-on-your-pc-via-windows/"><u>Guide: Operating ChatGPT on Your PC via Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y78plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y78+ Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-reno-11-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Reno 11 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://techidaily.com/mastering-tos-clarity-a-step-by-step-guide-on-leveraging-chatgpt/"><u>Mastering TOS Clarity: A Step-by-Step Guide on Leveraging ChatGPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
-<li><a href="https://techidaily.com/unlocking-text-insights-best-free-ai-applications-for-pdf-examination/"><u>Unlocking Text Insights: Best FREE AI Applications for PDF Examination</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-advanced-techniques-for-high-quality-youtube-content-for-2024/"><u>[New] Advanced Techniques for High-Quality YouTube Content for 2024</u></a></li>
+<li><a href="https://techidaily.com/ai-conversationalists-showdown-comparing-chatgpt-perplexity-and-claude/"><u>AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude</u></a></li>
+<li><a href="https://techidaily.com/beyond-dystopia-7-promising-aspects-of-ai-that-spark-enthusiasm/"><u>Beyond Dystopia: 7 Promising Aspects of AI That Spark Enthusiasm</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capture-every-moment-essential-ways-for-google-meet-recordings/"><u>Capture Every Moment Essential Ways for Google Meet Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-career-coach-unlocking-doors-to-employment-opportunities/"><u>ChatGPT as Your Career Coach: Unlocking Doors to Employment Opportunities</u></a></li>
+<li><a href="https://techidaily.com/comparing-price-tags-how-much-does-the-meta-quest-pro-vr-exceed-over-a-new-macbook-air/"><u>Comparing Price Tags: How Much Does the Meta Quest Pro VR Exceed Over a New MacBook Air?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lenovo-thinkphone-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Lenovo ThinkPhone Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ative-filmmaking-tools-best-lenses-for-content-makers-for-2024/"><u>Innovative Filmmaking Tools Best Lenses for Content Makers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/premier-movie-access-on-facebook-ranked-8-list/"><u>Premier Movie Access on Facebook Ranked #8 List</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-secrets-of-user-agreements-with-chatgpt-your-comprehensive-reading-strategy/"><u>Unveiling the Secrets of User Agreements with ChatGPT: Your Comprehensive Reading Strategy</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-true-price-of-installing-an-electric-vehicle-ev-charger-at-home/"><u>Unveiling the True Price of Installing an Electric Vehicle (EV) Charger at Home</u></a></li>
+<li><a href="https://techidaily.com/web-giants-gear-up-google-and-bings-imminent-launch-of-chatbot-driven-search-technologies/"><u>Web Giants Gear Up: Google & Bing's Imminent Launch of Chatbot-Driven Search Technologies</u></a></li>
 </ul></div>
 

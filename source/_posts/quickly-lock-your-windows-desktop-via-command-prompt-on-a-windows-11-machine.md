@@ -1,7 +1,7 @@
 ---
 title: Quickly Lock Your Window's Desktop via Command Prompt on a Windows 11 Machine
-date: 2024-09-12T01:08:36.859Z
-updated: 2024-09-13T01:08:36.859Z
+date: 2024-09-17T16:22:18.863Z
+updated: 2024-09-18T19:16:16.435Z
 tags:
   - desktop
 categories:
@@ -24,31 +24,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
@@ -56,21 +36,7 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -81,10 +47,10 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
@@ -98,10 +64,10 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
@@ -129,20 +95,19 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-seamless-social-streams-link-instagram-and-facebook/"><u>[New] 2024 Approved Seamless Social Streams Link Instagram & Facebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-curriculum-videos-top-tips-for-classroom-edits-for-2024/"><u>[Updated] Curriculum Videos Top Tips for Classroom Edits for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unmissable-experiences-in-digital-playfields/"><u>[Updated] In 2024, Unmissable Experiences in Digital Playfields</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-note-30-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Note 30 5G Unlock Without Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco M6 Pro 4G FRP</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-clearing-your-dns-cache-in-windows-11/"><u>Step-by-Step Guide: Clearing Your DNS Cache in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-eliminating-background-from-images-in-windows-11/"><u>Step-by-Step Guide: Eliminating Background From Images in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-launching-google-chrome-via-command-line-in-windows-10/"><u>Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-prime-day-apple-deals/"><u>The Best Prime Day Apple Deals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-evolved-look-of-sony-bdp-s6700-for-2024/"><u>The Evolved Look of Sony BDP-S6700 for 2024</u></a></li>
-<li><a href="https://techidaily.com/top-savings-alert-snag-discounts-on-amazon-fire-tv-ecoflow-charger-and-beyond/"><u>Top Savings Alert: Snag Discounts on Amazon Fire TV, EcoFlow Charger & Beyond!</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-common-issues-with-windows-10-built-in-applications/"><u>Troubleshooting Common Issues with Windows 10 Built-In Applications</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-syncing-files-with-windows-nto-a-portable-memory-device-via-usb/"><u>Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB</u></a></li>
-<li><a href="https://techidaily.com/understanding-chipset-drivers-a-guide-to-their-functions-and-easy-installation-steps/"><u>Understanding Chipset Drivers: A Guide to Their Functions & Easy Installation Steps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-lego-stop-motion-experts/"><u>Updated 2024 Approved The Ultimate List of Lego Stop Motion Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-engagement-a-compendium-of-the-top-20-youtube-hacks/"><u>[New] 2024 Approved Mastering Engagement A Compendium of the Top 20 YouTube Hacks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-androids-creme-de-la-creme-for-fast-vid-fixing/"><u>[Updated] In 2024, Android's Crème De La Crème for Fast Vid Fixing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-visual-treatment-applying-filters-to-videos/"><u>[Updated] Superior Visual Treatment Applying Filters to Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-glitch-to-glory-how-to-reset-final-cut-pro-x-and-resolve-issues/"><u>2024 Approved From Glitch to Glory How to Reset Final Cut Pro X and Resolve Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725290011854-digiarty-winx-dvd-faq/"><u>Digiarty WinX DVDソフトウェア:一般的なお問い合わせへの回答 - 「よくある質問(FAQ)」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-release-google-unveils-pixel-9-pro-surprisingly-sooner-than-expected/"><u>Early Release: Google Unveils Pixel 9 Pro Surprisingly Sooner than Expected</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-pova-5-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Pova 5 Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-vs-lg-battle-of-360-degree-cameras/"><u>In 2024, Samsung Vs LG Battle of 360-Degree Cameras</u></a></li>
+<li><a href="https://techidaily.com/introducing-the-gemini-nano-ai-elevating-smartphone-capabilities-in-googles-new-pixel-model/"><u>Introducing the Gemini Nano AI: Elevating Smartphone Capabilities in Google's New Pixel Model</u></a></li>
+<li><a href="https://techidaily.com/meet-the-upgraded-bing-chatbot-advanced-search-features-and-elevated-usage-restrictions-now-available/"><u>Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available</u></a></li>
+<li><a href="https://techidaily.com/monthly-virtual-reality-game-selections-with-meta-quests-latest-membership-plan/"><u>Monthly Virtual Reality Game Selections with Meta Quest's Latest Membership Plan</u></a></li>
+<li><a href="https://techidaily.com/next-steps-for-amazon-starlink-entering-the-protoflight-phase-of-development/"><u>Next Steps for Amazon Starlink: Entering the Protoflight Phase of Development</u></a></li>
+<li><a href="https://techidaily.com/next-summer-release-anticipated-launch-of-the-ford-explorer-electric-vehicle/"><u>Next Summer Release: Anticipated Launch of the Ford Explorer Electric Vehicle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncover-the-toughness-of-the-budget-friendly-coolpix-w100/"><u>Uncover the Toughness of the Budget-Friendly Coolpix W100</u></a></li>
 </ul></div>
 

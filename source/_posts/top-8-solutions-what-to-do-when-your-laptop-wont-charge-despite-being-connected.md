@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-09-12T01:08:44.715Z
-updated: 2024-09-13T01:08:44.715Z
+date: 2024-09-15T17:27:16.549Z
+updated: 2024-09-18T18:01:41.447Z
 tags:
   - desktop
 categories:
@@ -10,19 +10,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ---
 
 ## Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
@@ -71,22 +45,21 @@ Aman Kumar / How-To Geek
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Use the Original Charger
 
@@ -96,25 +69,11 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -128,6 +87,13 @@ Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -136,31 +102,11 @@ Aman Kumar / How-To Geek
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. Download Any Available BIOS Update
 
  The [BIOS (Basic Input/Output System)](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/) is a low-level system software that controls various hardware functions, including power management and battery charging. If your laptop is running an extremely outdated BIOS version, it might encounter difficulties correctly recognizing the AC adapter, potentially leading to the charging issue at hand. The solution, in this case, is to update the system BIOS.
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Reinstall the Battery Drivers
 
@@ -170,28 +116,29 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  8\. Test for a Defective Battery
 
@@ -208,6 +155,13 @@ Aman Kumar / How-To Geek
  Confirming this possibility on a laptop with a non-removable battery is more complicated. This is because you'll need to open the machine to access the battery. Doing so could not only damage important components if done incorrectly but may also void your laptop's warranty.
 
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -232,20 +186,15 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-tutorial-get-snapchat-running-on-macos-for-2024/"><u>[Updated] Quick Tutorial Get Snapchat Running on macOS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-unlock-your-windows-pin/"><u>Efficient Methods to Unlock Your Windows PIN</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-x-flip-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo X Flip to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-motorola-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Easily?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solving-the-logitech-g930-headset-compatibility-problem-with-windows-drivers/"><u>Solving the Logitech G930 Headset Compatibility Problem with Windows Drivers</u></a></li>
-<li><a href="https://techidaily.com/spelling-assistance-now-available-on-windows/"><u>Spelling Assistance Now Available on Windows 지오피의 노트북 앱</u></a></li>
-<li><a href="https://win-blog.techidaily.com/spices-although-not-traditionally-used-in-large-amounts-in-portuguese-cuisine-spices-like-cinnamon-and-nutmeg-have-been-incorporated-into-sweet-pastries-suc395/"><u>Spices: Although Not Traditionally Used in Large Amounts in Portuguese Cuisine, Spices Like Cinnamon and Nutmeg Have Been Incorporated Into Sweet Pastries (Such as Folar) or Savory Stews to Add Warmth and Depth of Flavor</u></a></li>
-<li><a href="https://techidaily.com/supporting-intel-processors-exploring-macos-sequoia-functionalities/"><u>Supporting Intel Processors: Exploring macOS Sequoia Functionalities</u></a></li>
-<li><a href="https://techidaily.com/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/"><u>The Essential Tutorial: Convert Strings with Base64 in the Linux Environment</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30i-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30i Device</u></a></li>
-<li><a href="https://techidaily.com/two-methods-for-formatting-drives-in-ubuntu-a-comprehensive-guide/"><u>Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-lenovo-thinkbook-13x-gen-4-a-professionals-dream-in-a-lightweight-package/"><u>Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package</u></a></li>
-<li><a href="https://techidaily.com/upcoming-windows-11-security-enhancement-auto-encryption-feature-now-available/"><u>Upcoming Windows 11 Security Enhancement: Auto-Encryption Feature Now Available</u></a></li>
-<li><a href="https://techidaily.com/why-i-continue-to-choose-windows-10-unveiling-the-top-five-factors-for-my-go-to-os/"><u>Why I Continue to Choose Windows #10: Unveiling the Top Five Factors for My Go-To OS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-brightening-up-your-videography-gopro-fog-free-techniques/"><u>[Updated] Brightening Up Your Videography GoPro Fog-Free Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-keyboard-warriors-guide-games-similar-to-gta-v/"><u>[Updated] In 2024, Keyboard Warriors' Guide Games Similar to GTA V</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-innovative-strategies-to-optimize-youtube-edits-after-upload-for-2024/"><u>[Updated] Innovative Strategies to Optimize YouTube Edits After Upload for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/build-your-web-presence-faster-how-chatgpt-can-assist-in-4-stages/"><u>Build Your Web Presence Faster: How ChatGPT Can Assist in 4 Stages</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-from-screenplays-to-screens-youtubes-filmmaker-training/"><u>In 2024, From Screenplays to Screens YouTube's Filmmaker Training</u></a></li>
+<li><a href="https://techidaily.com/mastering-minimalism-steps-to-remove-the-taskbar-in-windows-11-setup/"><u>Mastering Minimalism: Steps to Remove the Taskbar in Windows 11 Setup</u></a></li>
+<li><a href="https://techidaily.com/microsoft-your-persistent-push-notifications-have-gone-too-far/"><u>Microsoft, Your Persistent Push Notifications Have Gone Too Far!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/watch-asmr-video-gems-online-for-2024/"><u>Must-Watch ASMR Video Gems Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/new-feature-alert-expressvpn-just-added-secure-password-management/"><u>New Feature Alert: ExpressVPN Just Added Secure Password Management!</u></a></li>
+<li><a href="https://techidaily.com/potential-risks-how-windows-11s-24-h2-update-may-compromise-network-attached-storage-devices/"><u>Potential Risks: How Windows 11'S 24 H2 Update May Compromise Network Attached Storage Devices</u></a></li>
 </ul></div>
 

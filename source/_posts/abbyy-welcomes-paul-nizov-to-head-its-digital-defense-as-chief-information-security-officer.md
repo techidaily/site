@@ -1,52 +1,22 @@
 ---
 title: ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer
-date: 2024-09-05T06:19:37.642Z
-updated: 2024-09-06T06:19:37.642Z
+date: 2024-09-15T16:49:39.836Z
+updated: 2024-09-18T16:02:13.555Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c669607905f5ab705b440efbb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Paul Nizov rejoint ABBYY au poste de Chief Information Security Officer
 
 20 avril 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Paul Nizov sera en charge de la stratégie opérationnelle et budgétaire liée à la sécurité.
 * Paul Nizov dispose de plus de 15 ans d’expérience dans les domaines des technologies, du juridique et du militaire aux États-Unis, au Moyen-Orient et en Asie.
 * Paul a participé à la mise en place et à la gestion de programmes de cybersécurité dans les secteurs de l’énergie, de la finance, de la santé et des technologies.
@@ -80,8 +50,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,39 +59,23 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-breezing-through-igtv-acquisition-on-smartphones-and-tablets-for-2024/"><u>[New] Breezing Through IGTV Acquisition on Smartphones and Tablets for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-channel-up-your-earning-potential-with-youtube-shorts-strategy/"><u>[New] Channel Up Your Earning Potential with YouTube Shorts Strategy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pro-tips-for-streaming-and-screening-netflix-on-mac-for-2024/"><u>[New] Pro-Tips for Streaming & Screening Netflix on Mac for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-record-desktop-on-windows-3-simple-cost-free-methods/"><u>[Updated] 2024 Approved  Record Desktop on Windows  3 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-dealing-with-self-viewer-phenomenon-on-facebook-chats/"><u>[Updated] Dealing with Self-Viewer Phenomenon on Facebook Chats</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-time-lapse-wizardry-harnessing-gopros-potential/"><u>[Updated] Time-Lapse Wizardry  Harnessing GoPro's Potential</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-seamless-gopro-broadcasts-tips-for-facebook-and-periscope-channeling/"><u>2024 Approved  Seamless GoPro Broadcasts  Tips for Facebook & Periscope Channeling</u></a></li>
-<li><a href="https://techidaily.com/boost-your-productivity-with-enhanced-precision-upgrading-mouse-sensitivity-and-performance/"><u>Boost Your Productivity with Enhanced Precision: Upgrading Mouse Sensitivity & Performance</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-tutorial-how-to-disable-and-rollback-recent-windows-10-patches/"><u>Comprehensive Tutorial: How to Disable and Rollback Recent Windows 10 Patches</u></a></li>
-<li><a href="https://techidaily.com/disabling-the-auto-update-feature-for-drivers-in-windows-10-a-comprehensive-guide/"><u>Disabling the Auto-Update Feature for Drivers in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/easily-locate-and-launch-the-control-panel-on-your-windows-10-pc/"><u>Easily Locate and Launch the Control Panel on Your Windows 10 PC</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-for-swiftly-upgrading-to-windows-11-with-a-clean-slate-setup/"><u>Easy Steps for Swiftly Upgrading to Windows 11 with a Clean Slate Setup!</u></a></li>
-<li><a href="https://techidaily.com/effortless-setup-linking-wireless-headphones-to-your-desktop-computer-on-windows-10/"><u>Effortless Setup: Linking Wireless Headphones to Your Desktop Computer on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-roblox-experience-achieve-higher-fps-using-latest-techniques/"><u>Elevate Your Roblox Experience: Achieve Higher FPS Using Latest Techniques</u></a></li>
-<li><a href="https://techidaily.com/embark-on-a-lone-quest-with-offline-mode-in-minecraft-for-windows-10-users/"><u>Embark on a Lone Quest with Offline Mode in Minecraft for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/essential-techniques-to-refresh-bios-in-a-windows-11-environment/"><u>Essential Techniques to Refresh BIOS in a Windows 11 Environment</u></a></li>
-<li><a href="https://techidaily.com/five-effective-methods-to-utilize-the-open-group-policy-editor-in-windows-10/"><u>Five Effective Methods to Utilize the Open Group Policy Editor in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/fix-superfetchs-full-disk-utilization-issue-a-complete-guide/"><u>Fix Superfetch's Full Disk Utilization Issue: A Complete Guide</u></a></li>
-<li><a href="https://techidaily.com/getting-started-with-fallout-3-compatibility-and-setup-for-windows-11-gaming/"><u>Getting Started with Fallout 3: Compatibility and Setup for Windows 11 Gaming</u></a></li>
-<li><a href="https://techidaily.com/how-to-fix-battlenet-slow-download-speed-2024-tips/"><u>How to Fix Battle.net Slow Download Speed – 2024 Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-fix-cd-or-dvd-drive-issue-with-error-code-39/"><u>How to Fix CD or DVD Drive Issue with Error Code 39</u></a></li>
-<li><a href="https://techidaily.com/how-to-set-up-remote-desktop-on-windows-10/"><u>How to Set up Remote Desktop on Windows 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-turn-your-iphone-into-a-personal-wi-fi-network/"><u>How to Turn Your iPhone Into a Personal Wi-Fi Network</u></a></li>
-<li><a href="https://techidaily.com/how-to-use-external-hard-drive-on-ps4/"><u>How to Use External Hard Drive on PS4</u></a></li>
-<li><a href="https://techidaily.com/master-the-setup-of-logitechs-wireless-keyboards-for-effortless-typing/"><u>Master the Setup of Logitech's Wireless Keyboards for Effortless Typing</u></a></li>
-<li><a href="https://techidaily.com/online-consumer-protection-strategies-for-a-risk-free-digital-shopping-experience/"><u>Online Consumer Protection: Strategies for a Risk-Free Digital Shopping Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/persistent-display-transcription/"><u>Persistent Display Transcription</u></a></li>
-<li><a href="https://techidaily.com/quick-and-simple-taking-perfect-screenshots-with-windows-11/"><u>Quick and Simple: Taking Perfect Screenshots with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/quick-fix-changing-picture-dimensions-on-windowsmac-devices/"><u>Quick Fix: Changing Picture Dimensions on Windows/Mac Devices</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-how-to-seamlessly-roll-back-your-pc-from-windows-10s-anniversary-update/"><u>Quick Guide: How to Seamlessly Roll Back Your PC From Windows 10'S Anniversary Update</u></a></li>
-<li><a href="https://techidaily.com/re-download-and-setup-of-realtek-hd-sound-driver-for-windows-1011-systems/"><u>Re-Download & Setup of Realtek HD Sound Driver for Windows 10/11 Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-higher-youtube-viewership-for-2024/"><u>The Ultimate Guide to Higher YouTube Viewership for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-vivo-x100-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo X100 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-deciphering-average-income-the-podcasters-guide-for-2024/"><u>[New] Deciphering Average Income The Podcaster's Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-comprehensive-analysis-of-top-6-hdmi-enabled-monitors/"><u>[New] In 2024, Comprehensive Analysis of Top 6 HDMI-Enabled Monitors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[Updated] 2024 Approved Perfect Your iPhone Photography Top-Tier Filming Aids</u></a></li>
+<li><a href="https://techidaily.com/1-step-by-step-guide-completely-erase-and-hide-user-accounts-in-linux/"><u>1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-text-to-laughter-kapwings-toolkit/"><u>2024 Approved Transform Text to Laughter - Kapwing's Toolkit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-toms-hardware-insights/"><u>Exploring Electronics with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-steamvr-issues-a-simple-and-fast-solution/"><u>Fixing SteamVR Issues: A Simple and Fast Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-ranked-guide-to-legally-acquiring-mtvs-unplugged-performances-online/"><u>Top-Ranked Guide to Legally Acquiring MTV's Unplugged Performances Online</u></a></li>
+<li><a href="https://techidaily.com/understanding-your-apple-id-the-truth-behind-its-continued-existence/"><u>Understanding Your Apple ID: The Truth Behind Its Continued Existence</u></a></li>
+<li><a href="https://techidaily.com/unlock-enhanced-coding-assistance-in-notepad-on-windows-11-with-innovative-ai-technology/"><u>Unlock Enhanced Coding Assistance in Notepad on Windows 11 with Innovative AI Technology!</u></a></li>
+<li><a href="https://techidaily.com/windows-11-users-tutorial-customizing-date-and-time-display-preferences/"><u>Windows 11 User's Tutorial: Customizing Date and Time Display Preferences</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

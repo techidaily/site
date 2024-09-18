@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Art: Not Everything Is Created By An Algorithm"
-date: 2024-09-12T01:06:22.940Z
-updated: 2024-09-13T01:06:22.940Z
+date: 2024-09-17T16:30:45.356Z
+updated: 2024-09-18T18:14:34.781Z
 tags:
   - web
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ---
 
 ## AI-Generated Art: Not Everything Is Created By An Algorithm
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
 
  With the proliferation of AI image-generation services, there are thousands, if not millions, of AI-generated images circulating the web. [Facebook is already swamped with tons of AI-generated images](https://smart-video-creator.techidaily.com/in-2024-zero-cost-4k-video-conversion-top-10-solutions/), and other social media platforms are not far behind.
@@ -48,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  Most people will miss the signs that these images are AI-generated and take them as an accurate representation of reality. With the election season coming up and in an age where misinformation and lies are so widespread, the stakes have never been higher to be able to tell fabrication apart from reality.
 
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
 
@@ -69,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -90,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Meta’s AI Labeling Is Not Foolproof
@@ -107,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
 
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
 
@@ -144,19 +110,15 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-live-streaming-software-and-hardware-you-should-know-for-2024/"><u>[Updated] Best YouTube Live Streaming Software and Hardware You Should Know for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-greening-the-grid-paving-the-way-for-sustainable-metropolises-for-2024/"><u>[Updated] Greening the Grid Paving the Way for Sustainable Metropolises for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-swift-solution-tweeting-videos-not-functioning-chrome/"><u>2024 Approved Swift Solution Tweeting Videos Not Functioning Chrome</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-checklist-for-internet-broadcast-preservation/"><u>2024 Approved The Complete Checklist for Internet Broadcast Preservation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-tricks-for-seamless-ipad-video-capture-experience/"><u>2024 Approved Top Tricks for Seamless iPad Video Capture Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/monthly-virtual-reality-game-selections-with-meta-quests-latest-membership-plan/"><u>Monthly Virtual Reality Game Selections with Meta Quest's Latest Membership Plan</u></a></li>
-<li><a href="https://techidaily.com/next-steps-for-amazon-starlink-entering-the-protoflight-phase-of-development/"><u>Next Steps for Amazon Starlink: Entering the Protoflight Phase of Development</u></a></li>
-<li><a href="https://techidaily.com/next-summer-release-anticipated-launch-of-the-ford-explorer-electric-vehicle/"><u>Next Summer Release: Anticipated Launch of the Ford Explorer Electric Vehicle</u></a></li>
-<li><a href="https://techidaily.com/overcoming-electric-vehicle-resistance-the-2023-vw-id4-comprehensive-review/"><u>Overcoming Electric Vehicle Resistance: The 2023 VW ID.4 Comprehensive Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rising-to-challenge-chatgpt-discover-googles-new-artificial-intelligence-bard/"><u>Rising to Challenge ChatGPT? Discover Google's New Artificial Intelligence – Bard</u></a></li>
-<li><a href="https://techidaily.com/sharing-strategies-for-interactions-with-bard-ai-tips-and-techniques/"><u>Sharing Strategies for Interactions with Bard AI – Tips and Techniques</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/sing-your-heart-out-in-the-us-with-budget-friendly-karaoke-packages/"><u>Sing Your Heart Out in the US with Budget-Friendly Karaoke Packages</u></a></li>
-<li><a href="https://techidaily.com/top-5-free-ai-solutions-for-efficient-pdf-analysis/"><u>Top 5 Free AI Solutions for Efficient PDF Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-and-easy-iphone-screen-capture-techniques/"><u>[Updated] 2024 Approved Quick and Easy iPhone Screen Capture Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-valheim-seed-recommendations-for-bountiful-crops/"><u>[Updated] 2024 Approved Top 5 Valheim Seed Recommendations for Bountiful Crops</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-end-screen-creation-made-simple-free-templates-and-guides/"><u>[Updated] End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-structuring-a-significant-tiktok-close-up/"><u>2024 Approved Structuring a Significant TikTok Close-Up</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turning-vlogging-into-cash-essential-steps/"><u>2024 Approved Turning Vlogging Into Cash Essential Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-a58-4g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo A58 4G to Protect Your Individual Information</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/jujutsu-kaisen-tiktok-a-step-by-step-guide/"><u>Jujutsu Kaisen TikTok A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/secure-your-ipad-with-a-virtual-private-network-simple-setup-steps-for-enhanced-privacy/"><u>Secure Your iPad with a Virtual Private Network: Simple Setup Steps for Enhanced Privacy</u></a></li>
+<li><a href="https://techidaily.com/simple-solutions-resolve-your-logitech-keyboard-delay-issues-with-these-effortless-tips/"><u>Simple Solutions: Resolve Your Logitech Keyboard Delay Issues with These Effortless Tips</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-switching-your-windows-10-connection-from-public-to-private-mode/"><u>Simple Steps: Switching Your Windows 10 Connection From Public to Private Mode</u></a></li>
 </ul></div>
 

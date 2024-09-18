@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently"
-date: 2024-09-12T01:08:35.508Z
-updated: 2024-09-13T01:08:35.508Z
+date: 2024-09-17T16:44:24.734Z
+updated: 2024-09-18T18:31:03.649Z
 tags:
   - desktop
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 * [Is Downloading the Windows 10 KB5034441 Update Important?](https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-10c-unlock-without-password-by-drfone-android/)
 * [What is the WinRE Recovery Partition?](https://vp-tips.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today/)
 * [How to Fix the Windows Update Error 0x80070643](https://win11.techidaily.com/unlocking-dangers-hacked-fingerprints-on-windows-pcs/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Windows Update Error 0x80070643](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-update-error-0x80070643.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft clearly states that if your system doesn't have a Recovery partition, you don't need to download the KB5034441 update and you can ignore this error. However, if your system does feature a Recovery partition, it's important for you to download the update and, unfortunately, Microsoft isn't going to release an automatic fix that will solve the 0x80070643 error.
 
  Earlier, when the report broke about users facing this issue, Microsoft acknowledged it and said they were working on a fix. However, that hasn't panned out (yet). 
@@ -71,54 +57,54 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
  For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Fix the Windows Update Error 0x80070643
 
  As mentioned earlier, the 0x80070643 error occurs when the Recovery partition doesn't have 250 MB of free space. This means that to fix the problem, you will need to provide more space to the Recovery partition. To do that, open Command Prompt as an administrator, type **reagentc /disable** to disable the Recovery partition, and hit Enter.
 
 ![Disable Recovery Partition command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-recovery-partition-command.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **diskpart** and hit Enter.
 
 ![Diskpart command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diskpart-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Execute the **list disk** command to list all the disks.
 
 ![List disk command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-disk-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the disk where your operating system is installed. For example, if it is Disk 1, type **select disk 1** and hit Enter.
 
 ![Select disk command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-disk-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type **list partition** to list the partitions on the disk.
 
 ![List partition command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-partition-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the primary disk partition. For example, if it is Partition 3, type **select partition 3** and hit Enter.
@@ -133,40 +119,13 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![select partition 4 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-4-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **delete partition override** and hit Enter to delete the recovery partition.
 
 ![delete partition override command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-partition-override-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here's the most important step. Scroll up in your Command Prompt window and check the [disk partition style](https://facebook-video-footage.techidaily.com/updated-pro-level-gif-generation-a-critical-review/). If there's an asterisk (\*) in the GPT column of your operating system disk, it means you have GUID Partition Table (GPT) partition style. If there's no asterisk in the GPT column, then it's [MBR partition style](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/).
 
 ![Asterick mark in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asterick-mark-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your disk is GPT, type **create partition primary id=de94bba4-06d1-4d40-a16a-bfd50179d6ac** and hit Enter. Then, type **gpt attributes =0x8000000000000001** and hit Enter. If your disk is MBR, type **create partition primary id=27** and hit Enter.
 
@@ -177,10 +136,10 @@ Close
 ![Format command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/format-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Execute **list vol** to confirm that the recovery partition has been created.
@@ -216,20 +175,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-why-does-my-photo-booth-video-keep-freezing/"><u>[New] Why Does My Photo Booth Video Keep Freezing?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-10-youtube-tips-for-teachers/"><u>[Updated] In 2024, 10 YouTube Tips for Teachers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-revolutionize-your-brand-presence-on-igtv-with-these-top-10-strategies/"><u>2024 Approved Revolutionize Your Brand Presence on IGTV with These Top 10 Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723807903427-easily-identify-your-current-windows-version-follow-these-simple-steps/"><u>Easily Identify Your Current Windows Version - Follow These Simple Steps!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/educational-leap-forwards-with-mondly/"><u>Educational Leap Forwards with Mondly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-m-audio-m-track-2x2-driver-issue-easily-and-quickly/"><u>Fix M-Audio M-Track 2X2 Driver Issue Easily & Quickly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-t2-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo T2 Pro 5G Device</u></a></li>
-<li><a href="https://techidaily.com/microsoft-announces-prolonged-support-and-updates-for-surface-computers/"><u>Microsoft Announces Prolonged Support and Updates for Surface Computers</u></a></li>
-<li><a href="https://techidaily.com/preserving-your-group-policy-preferences-a-step-by-step-guide-to-backing-up-gpos-in-windows/"><u>Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows</u></a></li>
-<li><a href="https://techidaily.com/recognizing-when-your-laptop-needs-replacing-8-essential-signs/"><u>Recognizing When Your Laptop Needs Replacing: 8 Essential Signs</u></a></li>
-<li><a href="https://techidaily.com/rediscover-traditional-chimes-a-guide-to-restoring-old-school-sounds-for-windows-11-users/"><u>Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/resolving-synchronization-issues-a-step-by-step-guide-to-reinitializing-microsoft-onedrive-in-windows-11/"><u>Resolving Synchronization Issues: A Step-by-Step Guide to Reinitializing Microsoft OneDrive in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/reviving-your-windows-11-network-interface-solutions-to-restore-ethernet-connection-stability/"><u>Reviving Your Windows 11 Network Interface: Solutions to Restore Ethernet Connection Stability</u></a></li>
-<li><a href="https://techidaily.com/setting-up-windows-subsystem-for-linux-wsl-in-windows-11-a-comprehensive-guide/"><u>Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/shielded-hiding-places-keeping-ai-conversations-quiet/"><u>Shielded Hiding Places: Keeping AI Conversations Quiet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cutting-edge-ai-photo-enhancement-suite/"><u>[New] In 2024, Cutting-Edge AI Photo Enhancement Suite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-audio-guide-to-the-top-5-4k-recording-microphones/"><u>[New] Ultimate Audio Guide to the Top 5 4K Recording Microphones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-explore-creative-horizons-with-imaginative-snapchat-boomerang-techniques/"><u>[Updated] In 2024, Explore Creative Horizons with Imaginative Snapchat Boomerang Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone/"><u>2024 Approved How to Transfer Videos and Photos From a PC to an iPhone</u></a></li>
+<li><a href="https://techidaily.com/enough-of-touch-screen-overload-time-automakers-embrace-simplicity/"><u>Enough of Touch Screen Overload: Time Automakers Embrace Simplicity</u></a></li>
+<li><a href="https://techidaily.com/experience-the-future-with-klings-advanced-ai-powered-video-creation/"><u>Experience the Future with Kling's Advanced AI-Powered Video Creation</u></a></li>
+<li><a href="https://techidaily.com/expert-tips-for-erasing-all-data-and-starting-fresh-with-your-oculus-quest-2-a-comprehensive-factory-reset-walkthrough/"><u>Expert Tips for Erasing All Data & Starting Fresh with Your Oculus Quest 2: A Comprehensive Factory Reset Walkthrough</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuitamente-converti-i-file-ape-in-formato-aiff-con-movavi-guida-rapida-e-completa/"><u>Gratuitamente Converti I File .ape in Formato Aiff Con Movavi: Guida Rapida E Completa</u></a></li>
+<li><a href="https://techidaily.com/how-can-ai-generated-artwork-enhance-your-creativity-and-projects/"><u>How Can AI-Generated Artwork Enhance Your Creativity and Projects?</u></a></li>
+<li><a href="https://techidaily.com/identifying-synthetic-stories-unveiling-artificial-intelligence-generated-misinformation/"><u>Identifying Synthetic Stories: Unveiling Artificial Intelligence-Generated Misinformation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-nextgen-flawless-frame-processor-windowsmac/"><u>In 2024, NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-explore-the-leading-websites-for-legal-montage-music-downloads/"><u>New 2024 Approved Explore the Leading Websites for Legal Montage Music Downloads</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
-date: 2024-09-05T06:16:13.041Z
-updated: 2024-09-06T06:16:13.041Z
+date: 2024-09-15T17:16:48.965Z
+updated: 2024-09-18T19:16:01.287Z
 tags:
   - cutting-edge
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/0e981e84.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
 
 ### Quick Links
@@ -27,18 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  In 2022, a huge 48-mile traffic jam happened on the I-95 in Virginia on a cold, snowy day, and we instantly saw the [EV fearmongering](https://www.washingtonpost.com/opinions/2022/01/04/imagine-virginias-icy-traffic-catastrophe-with-only-electric-vehicles/) reach an all-time high. Claiming if those were all EVs, the situation would have been a "catastrophe." A reader actually sent us these graphics circulating on Facebook in response to one of our [recent EV articles](https://www.reviewgeek.com/118218/do-evs-need-special-tires/). In reality, when electric cars aren't moving, they use very little power, will last for days, and can easily keep you safe and warm (or cool) during a long traffic jam.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Rumors
 
 > "If all cars were electric ... and were caught up in a three hour traffic jam... dead batteries! Then what?"
@@ -53,22 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Wrong!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Electric Vehicle Facts
 
 ![All current Tesla models lined up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/29bb7ac0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Tesla_
 
  While it's true that EVs do lose a little battery performance due to the cold, most modern EVs have heat pumps and cooling systems to keep the battery at optimal operating temperatures. This means the weather won't affect the battery as much as you think or as bad as some comments online would have you believe.
@@ -86,27 +56,23 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
  Your typical Tesla heated seat uses around 60 watts per seat and gets controlled by the onboard computer drawing around 250 watts. As long as you don't use extra systems like Wi-Fi to watch Netflix on the infotainment display, the car could easily keep your seats warm for nearly a week.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Do EVs Stuck In Traffic Fare?
 
 ![Tesla Model 3 stuck in traffic jam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/c00c6807.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Dan Kanninen_
 
  Back to the original question. Are EVs a danger in traffic jams? No, they're not. During that big I-95 traffic jam earlier this year, multiple electric vehicles were stuck for countless hours, and none of them had any problems.
@@ -131,8 +97,6 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,50 +106,20 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-creating-momentum-in-life-coaching-video-series/"><u>[New] 2024 Approved  Creating Momentum in Life Coaching Video Series</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>[New] 2024 Approved  Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-master-list-of-professional-windows-based-videography-tools/"><u>[New] Master List of Professional Windows-Based Videography Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-meme-design-masterpieces/"><u>[New] Ultimate List  Meme Design Masterpieces</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-clip-perfection-achieved-through-blended-methodologies/"><u>[Updated] 2024 Approved  Clip Perfection Achieved Through Blended Methodologies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-png-alterations-guide/"><u>[Updated] 2024 Approved  Ultimate PNG Alterations Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-diy-guide-to-turning-youtube-screen-time-into-a-free-screencast/"><u>[Updated] DIY Guide to Turning YouTube Screen Time Into a FREE Screencast</u></a></li>
-<li><a href="https://techidaily.com/adapt-chatgpt-to-mirror-your-unique-voice-in-written-communication/"><u>Adapt ChatGPT to Mirror Your Unique Voice in Written Communication</u></a></li>
-<li><a href="https://techidaily.com/advancing-android-intelligence-with-qualcomms-integration-of-stable-diffusion-technology/"><u>Advancing Android Intelligence with Qualcomm's Integration of Stable Diffusion Technology</u></a></li>
-<li><a href="https://techidaily.com/alternatives-to-using-openai-if-its-unavailable-in-your-location/"><u>Alternatives to Using OpenAI if It’s Unavailable in Your Location</u></a></li>
-<li><a href="https://techidaily.com/amazing-amazon-fresh-subscription-revolutionizing-your-grocery-shopping-experience/"><u>Amazing Amazon Fresh Subscription: Revolutionizing Your Grocery Shopping Experience</u></a></li>
-<li><a href="https://techidaily.com/androids-fresh-release-introducing-the-newly-updated-google-assistant-interface/"><u>Android's Fresh Release: Introducing the Newly Updated Google Assistant Interface</u></a></li>
-<li><a href="https://techidaily.com/are-electric-cars-adjustable-through-tuning-processes/"><u>Are Electric Cars Adjustable Through Tuning Processes?</u></a></li>
-<li><a href="https://techidaily.com/causation/"><u>Causation</u></a></li>
-<li><a href="https://techidaily.com/coming-soon-in-year-the-eco-friendly-chevrolet-blazer-ev-offers-a-stunning-320-miles-on-a-single-charge/"><u>Coming Soon in [Year]: The Eco-Friendly Chevrolet Blazer EV Offers a Stunning 320 Miles on a Single Charge</u></a></li>
-<li><a href="https://techidaily.com/concerns-rise-as-chatgpt-may-unintentionally-reveal-password-information-mid-chat/"><u>Concerns Rise as ChatGPT May Unintentionally Reveal Password Information Mid-Chat</u></a></li>
-<li><a href="https://techidaily.com/court-verdict-impacts-cryptocurrency-holders-could-your-ethereum-lose-its-legal-status/"><u>Court Verdict Impacts Cryptocurrency Holders: Could Your Ethereum Lose Its Legal Status?</u></a></li>
-<li><a href="https://techidaily.com/crafting-customized-chatgpt-avatars-tailored-for-any-scenario/"><u>Crafting Customized ChatGPT Avatars Tailored for Any Scenario</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-guide-compatible-drivers-and-software-for-brother-hl-l2380dw-on-windows/"><u>Download Guide: Compatible Drivers & Software for Brother HL-L2380DW on Windows</u></a></li>
-<li><a href="https://techidaily.com/engage-with-documents-adobes-revolutionary-ai-enables-conversational-interaction-with-pdfs/"><u>Engage with Documents: Adobe's Revolutionary AI Enables Conversational Interaction with PDFs</u></a></li>
-<li><a href="https://techidaily.com/essay-writing-with-ai-the-pros-and-cons-of-utilizing-chatgpt/"><u>Essay Writing with AI: The Pros and Cons of Utilizing ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/essential-insights-top-7-facts-on-plug-in-hybrid-cars/"><u>Essential Insights: Top 7 Facts on Plug-In Hybrid Cars</u></a></li>
-<li><a href="https://techidaily.com/explore-sharper-youtube-streaming-firefox-version-1n26-integrates-nvidias-real-time-ai-upscaling/"><u>Explore Sharper YouTube Streaming - Firefox Version 1N26 Integrates NVIDIA's Real-Time AI Upscaling</u></a></li>
-<li><a href="https://techidaily.com/exploring-operas-newest-feature-a-cryptocurrency-enabled-web-surfing-experience/"><u>Exploring Opera's Newest Feature: A Cryptocurrency-Enabled Web Surfing Experience</u></a></li>
-<li><a href="https://techidaily.com/exploring-the-features-and-benefits-of-upgrading-to-chatgpt-plus-by-microsoft/"><u>Exploring the Features and Benefits of Upgrading to ChatGPT Plus by Microsoft</u></a></li>
-<li><a href="https://techidaily.com/exploring-the-world-of-nfts-a-beginners-guide-to-cryptocurrencys-unique-artifacts/"><u>Exploring the World of NFTs: A Beginner’s Guide to Cryptocurrency’s Unique Artifacts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-understanding-the-world-of-vsco-photo-editor-for-2024/"><u>Full Understanding  The World of VSCO Photo Editor for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-access-your-secret-snaps-archive/"><u>In 2024, How to Access Your Secret Snaps Archive</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721452377806-issues-with-your-iphones-location-heres-how-you-can-fix-them/"><u>Issues with Your iPhone's Location? Here's How You Can Fix Them</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-live-views-a-guide-to-using-ios-16-features-on-your-iphone/"><u>Mastering Live Views: A Guide to Using iOS 16 Features on Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/multiple-picture-upload-tricks-for-your-instagram-stories/"><u>Multiple Picture Upload Tricks for Your Instagram Stories</u></a></li>
-<li><a href="https://techidaily.com/navigate-todays-nyt-brain-teasers-discover-connections-and-answers-for-august-18th-434/"><u>Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)</u></a></li>
-<li><a href="https://techidaily.com/nyt-daily-challenge-july-14th-mastering-todays-hinted-questions-with-ease-399/"><u>NYT Daily Challenge, July 14Th: Mastering Today's Hinted Questions with Ease (#399)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/obs-desktop-audio-not-capturing-heres-how-to-fix-it/"><u>OBS Desktop Audio Not Capturing? Here's How to Fix It!</u></a></li>
-<li><a href="https://techidaily.com/october-amazon-prime-mega-savings-event-starts-soon/"><u>October: Amazon Prime Mega Savings Event Starts Soon!</u></a></li>
-<li><a href="https://techidaily.com/solve-the-nyt-puzzle-expert-answers-to-august-1-clues-416-explained/"><u>Solve the NYT Puzzle: Expert Answers to August 1 Clues (#416 Explained)</u></a></li>
-<li><a href="https://techidaily.com/top-errors-to-steer-clear-of-during-your-electric-vehicles-charge/"><u>Top Errors to Steer Clear of During Your Electric Vehicle's Charge</u></a></li>
-<li><a href="https://techidaily.com/top-ranking-vpn-solutions-the-ultimate-list/"><u>Top-Ranking VPN Solutions : The Ultimate List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-safety-concerns-around-alternative-chatgpt-applications/"><u>Understanding the Safety Concerns Around Alternative ChatGPT Applications</u></a></li>
-<li><a href="https://techidaily.com/unlock-visual-information-quickly-new-feature-in-google-lens-and-circle/"><u>Unlock Visual Information Quickly: New Feature in Google Lens and Circle</u></a></li>
-<li><a href="https://techidaily.com/unlocking-nyt-wordplay-expert-tips-and-clues-to-complete-june-19s-challenge-clue-collection-374/"><u>Unlocking NYT Wordplay: Expert Tips and Clues to Complete June 19'S Challenge - Clue Collection #374</u></a></li>
-<li><a href="https://techidaily.com/upcoming-innovations-enhanced-typing-and-summary-features-in-your-browsers/"><u>Upcoming Innovations: Enhanced Typing & Summary Features in Your Browsers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-mac-video-editing-software-comparison-for/"><u>Updated The Ultimate Mac Video Editing Software Comparison For</u></a></li>
-<li><a href="https://techidaily.com/week-in-review-the-demise-of-netflixs-free-plan-and-enhanced-tech-solutions-for-iphones/"><u>Week in Review: The Demise of Netflix's Free Plan & Enhanced Tech Solutions for iPhones</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-deciphering-the-covert-codes-of-snapchats-emojis/"><u>[New] 2024 Approved Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-safely-obtain-vlc-player-at-no-charge-on-macos/"><u>[New] How to Safely Obtain VLC Player at No Charge on MacOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ensuring-effective-monetization-strategies-for-yt-channels/"><u>[Updated] 2024 Approved Ensuring Effective Monetization Strategies for YT Channels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-overview-of-final-cut-pro-techniques/"><u>[Updated] Comprehensive Overview of Final Cut Pro Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfected-panels-expert-recommended-photo-editing-screens/"><u>[Updated] Perfected Panels Expert-Recommended Photo Editing Screens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pro-tips-for-power-users-expert-whatsapp-techniques-for-2024/"><u>[Updated] Pro Tips for Power Users Expert WhatsApp Techniques for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/10-best-instagram-meme-accounts-to-make-you-laugh-with-tears-for-2024/"><u>10 Best Instagram Meme Accounts to Make You Laugh (with Tears) for 2024</u></a></li>
+<li><a href="https://techidaily.com/enhance-user-experience-with-easy-top-down-scrolls-and-multi-platform-linkage-to-facebook-linkedin-and-youtube/"><u>Enhance User Experience with Easy Top-Down Scrolls & Multi-Platform Linkage to Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://techidaily.com/exploring-copernic-a-comprehensive-guide-to-efficient-photo-browsing/"><u>Exploring Copernic: A Comprehensive Guide to Efficient Photo Browsing</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-spark-10-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Spark 10 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/mastering-smooth-document-control-unveiling-copernics-productivity-shortcuts/"><u>Mastering Smooth Document Control: Unveiling Copernic's Productivity Shortcuts</u></a></li>
+<li><a href="https://techidaily.com/navigate-and-network-simplified-the-ultimate-guide-to-optimizing-menu-functionality-for-top-level-social-media-engagement-on-facebook-linkedin-and-youtube.m1/"><u>Navigate and Network Simplified: The Ultimate Guide to Optimizing Menu Functionality for Top-Level Social Media Engagement on Facebook, LinkedIn, and YouTube</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-reading-system-error-messages-in-windows/"><u>Step-by-Step Tutorial: Reading System Error Messages in Windows</u></a></li>
+<li><a href="https://techidaily.com/top-tips-for-optimizing-menu-functionality-on-leading-networks-learn-to-efficiently-scroll-and-manage-content-on-facebook-linkedin-and-youtube/"><u>Top Tips for Optimizing Menu Functionality on Leading Networks – Learn to Efficiently Scroll & Manage Content on Facebook, LinkedIn, and YouTube!</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-mastering-efficient-optimization-techniques-in-windows-10/"><u>Ultimate Guide: Mastering Efficient Optimization Techniques in Windows 10</u></a></li>
 </ul></div>
+

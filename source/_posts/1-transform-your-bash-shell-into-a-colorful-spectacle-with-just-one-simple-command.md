@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2024-09-12T01:08:51.104Z
-updated: 2024-09-13T01:08:51.104Z
+date: 2024-09-14T17:56:57.979Z
+updated: 2024-09-18T17:50:38.924Z
 tags:
   - desktop
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -65,13 +58,6 @@ sudo pacman -S lolcat
 
  Once you've installed lolcat, you're ready to use it and apply rainbow colors to your output text.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  lolcat Command Options
 
  While the default lolcat behavior is already pretty awesome, there are a few options to tweak the output to your liking. For example, with these various flags, you can adjust the pattern of rainbow colors, modify the speed, and change a few other settings.
@@ -96,10 +82,10 @@ lolcat --help
 man lolcat
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Get Colored Terminal Output
@@ -111,16 +97,10 @@ ls | lolcat
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
@@ -131,11 +111,25 @@ lolcat file.txt
 
 ![Displaying file content in colored output on Linux terminal using lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolcat-file-output.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Want to see your system information using [neofetch](https://facebook-videos.techidaily.com/updated-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/) in rainbow glory? Try running this:
 
 neofetch | lolcat
 
 ![Getting system information in rainbow colored format using neofetch and lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/neofetch-lolcat.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also [create a permanent alias](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/) for a frequently used command to automatically output in vibrant colors. For example, you can permanently set up an alias for the ls -l command by adding the following line to the [\~/.bashrc file](https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nokia-xr21-drfone-by-drfone-reset-android-reset-android/):
 
@@ -147,13 +141,6 @@ vim ~/.bashrc
 
 ![Setting up an alias for the ls -l command in the ~/.bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/alias-lolcat.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After creating the alias, don’t forget to log out and back in to apply the changes.
 
  Now, when you type **lolls**, the system will execute the command ls -l and pipe its output to lolcat for a colorful display.
@@ -163,10 +150,10 @@ lolls
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Animate Your Text Using lolcat
@@ -239,31 +226,11 @@ cowsay "Linux is Funny" | lolcat
 
 ![Displaying a rainbow-colored cow in the terminal window with some text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But why stop at cows? Cowsay comes with a whole menagerie of ASCII animals. Let's see what a rainbow tux has to say:
 
 cowsay -f tux "Linux is cool" | lolcat
 
 ![Displaying a rainbow-colored tux in the terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tux-lolcat-cowsay.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tux has never looked so fabulous!
 
@@ -286,19 +253,14 @@ cowsay -f tux "Linux is cool" | lolcat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-still-to-moving-webcam-capture-basics-for-mac/"><u>[Updated] 2024 Approved From Still to Moving Webcam Capture Basics for Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-uniting-choreography-with-crafted-audio-in-instagram-for-2024/"><u>[Updated] Uniting Choreography with Crafted Audio in Instagram for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a1-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A1 5G PC | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-10-best-meme-makers-online-free-to-use/"><u>In 2024, 10 Best Meme Makers Online (Free to Use)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-pro-moviemakers-manual-for-pc-mac-and-mobile-systems/"><u>In 2024, Pro Moviemaker's Manual for PC, Mac & Mobile Systems</u></a></li>
-<li><a href="https://techidaily.com/native-installation-of-google-chrome-available-on-windows-pcs-with-arm-processors/"><u>Native Installation of Google Chrome Available on Windows PCs with ARM Processors</u></a></li>
-<li><a href="https://techidaily.com/new-windows-11-update-allows-integration-of-smartphone-images/"><u>New Windows 11 Update Allows Integration of Smartphone Images</u></a></li>
-<li><a href="https://techidaily.com/optimize-windows-file-management-with-this-ultimate-user-setup/"><u>Optimize Windows File Management with This Ultimate User Setup</u></a></li>
-<li><a href="https://techidaily.com/resolving-elevated-cpu-use-by-windows-module-installer-effective-strategies/"><u>Resolving Elevated CPU Use by Windows Module Installer: Effective Strategies</u></a></li>
-<li><a href="https://techidaily.com/revamp-your-mac-with-fedora-asahi-an-enhanced-linux-experience/"><u>Revamp Your Mac with Fedora Asahi: An Enhanced Linux Experience</u></a></li>
-<li><a href="https://techidaily.com/revitalize-legacy-hardware-with-this-hidden-gem-of-a-linux-os/"><u>Revitalize Legacy Hardware with This Hidden Gem of a Linux OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stream-on-the-big-screen-how-to-hook-up-a-laptop-to-tv-via-hdmi/"><u>Stream on the Big Screen: How to Hook Up a Laptop to TV via HDMI</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-video-editing-on-windows-11-for-professionals-for-2024/"><u>Unlocking Video Editing on Windows 11 for Professionals for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>[New] Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-chromebook-webcam-usage-recording-made-easy-for-2024/"><u>[Updated] Chromebook Webcam Usage Recording Made Easy for 2024</u></a></li>
+<li><a href="https://techidaily.com/1-monitoring-pc-heat-a-guide-to-measuring-cpu-temperatures-in-windows-11/"><u>1. Monitoring PC Heat: A Guide to Measuring CPU Temperatures in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Phone without Any Data Loss</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-11-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 11 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-s17-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo S17 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://techidaily.com/whats-new-improved-clipboard-tools-and-graphics-program-for-windows-11-users/"><u>What's New? Improved Clipboard Tools and Graphics Program for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/why-do-some-desktops-experience-issues-with-newly-released-windows-11-built-in-software/"><u>Why Do Some Desktops Experience Issues with Newly Released Windows 11 Built-In Software?</u></a></li>
+<li><a href="https://techidaily.com/windows-nines-smart-app-management-feature-turning-on-the-functionality-guide/"><u>Windows Nine's Smart App Management Feature - Turning On the Functionality Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Side-by-Side File Comparisons with Notepad++ Tutorial
-date: 2024-09-12T01:10:05.850Z
-updated: 2024-09-13T01:10:05.850Z
+date: 2024-09-13T18:24:05.734Z
+updated: 2024-09-18T18:32:25.366Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you’re a Notepad++ user and want to highlight differences in your files, use a free plugin with your favorite text editor to do that. In this guide, we’ll show you how to install that plugin and then how to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 1\. Ensure Notepad++ Has Plugins Admin
 
  To compare files in Notepad++, you’ll use a plugin called Compare. Your Notepad++ installation must have [Plugins Admin](https://npp-user-manual.org/docs/plugins/#plugins-admin) installed to add this plugin. To check if it does, open the app and see if the menu bar displays a Plugins > Plugins Admin entry. If it doesn’t, follow the following steps to make the app plugin-friendly.
@@ -36,34 +29,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The installation path and 'Next' highlighted in Notepad++'s installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-notepad-plus-plus-installation-path.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Enable the "Plugins Admin" option in the component list on the "Choose Components" screen. Then, at the bottom, select "Next."
 
 !['Plugins Admin' and 'Next' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-install-plugins-admin-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the screen that follows, optionally, enable "[Create Shortcut on Desktop](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/)" to add the app’s shortcut to your desktop. Then, click "Install."
 
 !['Create Shortcut on Desktop' and 'Install' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-create-notepad-plus-plus-desktop-shortcut.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you’ve installed the app, click "Finish."
 
@@ -89,6 +61,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Notepad++ will relaunch with the Compare plugin installed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 3\. Compare Two Files in Notepad++
 
  Now that you’ve finished adding the Compare plugin, let’s use it to compare your files.
@@ -101,22 +80,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Compare' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-compare-files-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Compare plugin will do its job, which is to start highlighting the differences in your files. You’ll instantly see your files’ differences highlighted.
 
 ![The file content differences highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-file-differences-highlighted-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By default, the app shows your files in a vertical view. To change the view to horizontal mode, right-click the border dividing your files and choose "Rotate to Left" or "Rotate to Right."
@@ -128,10 +100,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Settings' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-compare-plugin-settings-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the "Compare Plugins" window, in the "Color Settings" section, choose the various colors you’d like to use. Then, click "OK." To revert your changes, choose "Reset."
@@ -141,13 +113,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
 !['Clear All Compares' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-clear-comparison-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that’s how you quickly know the difference between two files using a free and open-source app on your computer. Notepad++ is a great [plain text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/), and it can natively do all sorts of useful things besides compare files, like [replace specific characters with new lines](https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/). It shines even more when you start adding plugins.
 
@@ -166,16 +131,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-grids-that-wow-discover-the-top-apps-for-pics/"><u>[New] Grids That Wow Discover the Top Apps for Pics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-footage-face-off-hero5-black-vs-hero4-silver/"><u>[New] High Fidelity Footage Face-Off Hero5 Black vs Hero4 Silver</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-humor-on-the-go-iphones-edition/"><u>[New] In 2024, Humor on the Go IPhones Edition</u></a></li>
-<li><a href="https://techidaily.com/10-essential-functions-of-microsofts-bing-chatbot-boost-your-productivity/"><u>10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-magic-5-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor Magic 5 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-persistent-crashing-in-final-fantasy-xiv-a-comprehensive-guide-for-players/"><u>How to Fix Persistent Crashing in Final Fantasy XIV: A Comprehensive Guide for Players</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-average-income-for-popular-youtube-creators/"><u>In 2024, Average Income for Popular YouTube Creators</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-engaging-excellence-best-story-filter-compilation/"><u>In 2024, Engaging Excellence Best Story Filter Compilation</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlock-the-potential-of-flawed-jpegs/"><u>Unlock the Potential of Flawed JPEGs</u></a></li>
-<li><a href="https://techidaily.com/unlocking-amazon-how-to-easily-set-up-and-use-passkeys-for-login/"><u>Unlocking Amazon: How to Easily Set Up and Use Passkeys for Login</u></a></li>
-<li><a href="https://techidaily.com/unveiling-web3-the-next-evolutionary-step-in-digital-connectivity/"><u>Unveiling Web3: The Next Evolutionary Step in Digital Connectivity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevating-skills-a-comprehensive-guide-to-designer-advancement-for-2024/"><u>[New] Elevating Skills A Comprehensive Guide to Designer Advancement for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860818674-new-snap-and-save-your-android-no-price-tag/"><u>[New] Snap & Save Your Android - No Price Tag!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-android-podcast-software/"><u>[Updated] Prime Android Podcast Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-spectacle-snatcher-hub-for-2024/"><u>[Updated] Social Spectacle Snatcher Hub for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-vloggers-solution-excellent-camera-stabilization/"><u>[Updated] Vloggers' Solution Excellent Camera Stabilization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-10-download-snapchat-ringtones-websites/"><u>2024 Approved Top 10 Download Snapchat Ringtones Websites</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957267384-achieve-next-level-pc-performance-with-intel-z270-and-top-tier-graphics-drivers-free-download-available/"><u>Achieve Next-Level PC Performance with Intel Z270 & Top-Tier Graphics Drivers, Free Download Available!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-tecno-spark-10-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Tecno Spark 10 5G using Video Repair Utility?</u></a></li>
+<li><a href="https://techidaily.com/rundll32exe-explained-essential-information-and-action-steps/"><u>rundll32.exe Explained: Essential Information and Action Steps</u></a></li>
+<li><a href="https://techidaily.com/solving-gameplay-disruptions-tips-for-eliminating-second-display-latency-in-windows-10-and-11/"><u>Solving Gameplay Disruptions: Tips for Eliminating Second Display Latency in Windows 10 & 11</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-to-fix-error-code-0xa00f4244-on-your-windows-11-pc-camera/"><u>Step-by-Step Guide to Fix 'Error Code 0Xa00f4244' On Your Windows 11 PC Camera</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-pairing-your-logitech-wireless-keyboard/"><u>Step-by-Step Guide: Pairing Your Logitech Wireless Keyboard</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-safely-extract-videos-from-vimeo-platforms/"><u>Step-by-Step Tutorial: How To Safely Extract Videos From Vimeo Platforms</u></a></li>
+<li><a href="https://techidaily.com/tackling-high-cpu-consumption-in-windows-11-a-closer-look-at-module-installer-processes/"><u>Tackling High CPU Consumption in Windows 11 - A Closer Look at Module Installer Processes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-handbook-of-collage-mastery/"><u>The Complete Handbook of Collage Mastery</u></a></li>
+<li><a href="https://techidaily.com/troubleshoot-invisible-amd-graphics-driver-problems-in-windows-expert-tips-to-appear-in-device-manager/"><u>Troubleshoot Invisible AMD Graphics Driver Problems in Windows: Expert Tips to Appear in Device Manager</u></a></li>
 </ul></div>
 

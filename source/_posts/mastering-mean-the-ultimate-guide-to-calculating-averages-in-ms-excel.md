@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel"
-date: 2024-09-12T01:09:21.531Z
-updated: 2024-09-13T01:09:21.531Z
+date: 2024-09-15T16:02:14.460Z
+updated: 2024-09-18T18:52:19.075Z
 tags:
   - desktop
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ---
 
 ## Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
  Let's explore these in more detail.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use AVERAGE in Excel
 
  To calculate the average in Excel, use the following syntax:
@@ -57,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  In this example, we have a set of seven students and want to calculate their average exam score.
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores will be calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-uncalculated.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, Student C scored 0 and Student F has yet to take the exam. As a result, we want Excel to work out the scores of those who have taken the exam (all students except for Student F).
 
@@ -84,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  If any of the values being used in the AVERAGE calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would not work.
 
  To save time, you can instead calculate the average through a few simple clicks. First, select your data to average, click the "Home" tab on the ribbon, and in the "Editing" group, click on the drop-down arrow next to the sigma (Σ) symbol. From there, click "Average". The result will appear at the end of your data.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEA in Excel
 
@@ -104,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 =AVERAGEA(B2:B8)
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and their average scores, calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-calculated.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unlike the AVERAGE function, which ignores logical values, the AVERAGEA calculation includes FALSE within the calculation as 0\. If this were instead TRUE, this would be counted as 1\. As a result, in our example, Student C's score of 0 is included, and Student F is also calculated as having scored 0\. This is why the result is lower for this calculation than the previous one.
 
@@ -138,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
 
  To work out the average scores of all students over 12 years of age, we would use the following formula:
@@ -150,29 +130,9 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEIFS in Excel
 
@@ -187,10 +147,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To do this, we would use the following formula:
@@ -200,6 +160,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  "B2:B8" contains the data to be averaged (the students' scores), "C2:C8" is the first range to be tested with the criterion of "Green" (the student's house), and "D2:D18" is the second range to be tested with the criterion of ">10" (the student's age).
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where an AVERAGEIFS calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-calculated-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This has correctly averaged the scores of Students D and G, as they are both in Green House and are over 10 years old.
 
@@ -227,12 +194,17 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-economical-android-communication-tools-list/"><u>[New] 2024 Approved Economical Android Communication Tools List</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/expanding-horizons-t-mobiles-continuous-enhancement-of-its-fiber-optic-broadband-service/"><u>Expanding Horizons: T-Mobile's Continuous Enhancement of Its Fiber Optic Broadband Service</u></a></li>
-<li><a href="https://techidaily.com/exploring-oneplus-journey-a-detailed-look-at-their-successful-evolution/"><u>Exploring OnePlus' Journey: A Detailed Look at Their Successful Evolution</u></a></li>
-<li><a href="https://techidaily.com/google-expands-location-services-moto-tag-integrates-with-enhanced-find-my-device/"><u>Google Expands Location Services: Moto Tag Integrates with Enhanced 'Find My Device'</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-and-obtain-canon-pixma-ts3322-printer-software/"><u>How to Update & Obtain Canon PIXMA TS3322 Printer Software</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-6s-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 6s and iPad</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unleash-creativity-in-videos-with-quick-trims-on-windows-11-for-2024/"><u>[New] Unleash Creativity in Videos with Quick Trims on Windows 11 for 2024</u></a></li>
+<li><a href="https://techidaily.com/1-transform-your-bash-shell-into-a-colorful-spectacle-with-just-one-simple-command/"><u>1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone/"><u>2024 Approved The Art of Saving and Enjoying Animated GIFs on Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/access-the-pioneering-pc-word-editor-free-and-available-online/"><u>Access the Pioneering PC Word Editor: Free and Available Online!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-insights-how-to-use-it-for-beginners-easily/"><u>In 2024, Facebook Insights How to Use It for Beginners Easily</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-rated-free-video-editors-for-avi-files/"><u>New In 2024, Top-Rated Free Video Editors for AVI Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-process-to-embrace-cc-copyrights-for-2024/"><u>Step-by-Step Process to Embrace CC Copyrights for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-7-best-value-macos-compatible-tiktok-software-for-2024/"><u>Top 7 Best-Value, MacOS Compatible TikTok Software for 2024</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/"><u>Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-making-of-the-iconic-3d-pipes-windows-screen-saver/"><u>Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver</u></a></li>
+<li><a href="https://techidaily.com/updated-fix-for-persistent-problems-microsofts-solution-to-windows-10-and-11-update-bugs/"><u>Updated Fix for Persistent Problems: Microsoft's Solution to Windows 10 and 11 Update Bugs</u></a></li>
 </ul></div>
 

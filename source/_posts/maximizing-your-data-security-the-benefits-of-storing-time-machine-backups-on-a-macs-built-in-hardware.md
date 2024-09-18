@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware"
-date: 2024-09-12T01:08:32.283Z
-updated: 2024-09-13T01:08:32.283Z
+date: 2024-09-12T16:01:54.558Z
+updated: 2024-09-18T17:56:49.207Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ## Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Creating a Time Machine backup locally enables you to restore older versions of a file or retrieve deleted files. It's a valuable backup solution if you don't have an external storage drive.
@@ -25,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 * While this method is convenient, it's important to note that if your local drive becomes corrupted or fails, you could lose both your original data and the backup.
 
  Using an external storage drive for Time Machine backups is the recommended way to back up your Mac. But what if you don't have an external storage drive? You can still make use of Time Machine by placing backups on your local drive. Here's why I use this method to back up my files and why you should consider it too.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why I Use Local Storage for Time Machine Backup Despite the Risks
 
@@ -45,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
  With these considerations in mind, let's explore how you can use your internal storage drive as the backup location for Time Machine.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  First, Partition Your Internal Storage Drive
 
  If you've never partitioned your storage drive, you'll need to create a partition dedicated solely to the Time Machine backup. You can easily do this [using the Disk Utility app](https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/).
@@ -59,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  Press Command+Space, type "Disk Utility," and hit Enter.
 
 ![Opening the Disk Utility from the spotlight search on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-opening-the-disk-utility-from-the-spotlight-on-macos.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, select the main volume, usually "Macintosh HD," and click "Partition."
 
@@ -79,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Applying a partition by defining the partition information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-applying-a-parition-by-defining-the-partition-information.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
 
 ##  Use the Newly Created Partition for the Backup
@@ -96,9 +61,29 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Setting up the newly created partition for the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-setting-up-the-newly-created-parition-for-the-time-machine-backup.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To restore a deleted or older file version from the backup, open the Time Machine utility. Navigate through the snapshots that Time Machine has taken and locate the file you want to restore. Then, click on "Restore" to recover the file.
 
 ![Restoring a deleted Microsoft Word file from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-restoring-a-deleted-file-from-the-time-machine-backup.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Don't Let Your Backup Drive Get Clogged Up
 
@@ -107,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  To exclude files from the backup, open the System Settings, and go to General > Time Machine. Then, click the "Options" button, followed by the "+" button, and select the folders you want to exclude from the backup.
 
 ![Excluding some data from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-excluding-some-data-from-the-time-machine-backup-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -136,18 +114,18 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-crafting-engaging-live-videos-on-smartphones-and-social-networks/"><u>[New] Crafting Engaging Live Videos on Smartphones & Social Networks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-most-shared-moments-socials-star-vids/"><u>[Updated] In 2024, Most Shared Moments Social's Star Vids</u></a></li>
-<li><a href="https://techidaily.com/ensuring-windows-11-security-post-2025-with-a-premium-package/"><u>Ensuring Windows 11 Security Post-2025 with a Premium Package</u></a></li>
-<li><a href="https://techidaily.com/expert-tips-installing-and-setting-up-bluetooth-on-a-laptop-or-desktop/"><u>Expert Tips: Installing and Setting Up Bluetooth on a Laptop or Desktop</u></a></li>
-<li><a href="https://techidaily.com/extending-the-lifespan-of-windows/"><u>Extending the Lifespan of Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-enabling-and-using-apple-maps-on-your-windows-pc/"><u>Guide: Enabling and Using Apple Maps on Your Windows PC</u></a></li>
-<li><a href="https://techidaily.com/handling-chromes-security-warning-on-file-downloads-steps-to-successfully-save-files/"><u>Handling Chrome's Security Warning on File Downloads: Steps to Successfully Save Files</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-phantom-v-fold-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Phantom V Fold Lock Screen Password</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-market-leading-6-platforms-enhancing-biz-interaction/"><u>In 2024, Market-Leading 6 Platforms Enhancing Biz Interaction</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pre-upgrade-essentials-a-comprehensive-guide/"><u>In 2024, Pre-Upgrade Essentials A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-correct-chronology-for-enjoying-every-episode-of-dragon-ball-a-watchers-guide/"><u>The Correct Chronology for Enjoying Every Episode of Dragon Ball - A Watcher's Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-list-ps2-games-on-android-devices/"><u>[Updated] Ultimate List PS2 Games on Android Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-screen-capturing-in-windows-8/"><u>2024 Approved Comprehensive Guide to Screen Capturing in Windows 8</u></a></li>
+<li><a href="https://techidaily.com/accessible-ai-gpt-4-turbo-features-unleashed-with-complimentary-microsoft-copilot/"><u>Accessible AI: GPT-4 Turbo Features Unleashed with Complimentary Microsoft Copilot</u></a></li>
+<li><a href="https://techidaily.com/affordable-access-to-advanced-ai-exploring-openais-gpt-4-lite/"><u>Affordable Access to Advanced AI: Exploring OpenAI's GPT-4 Lite</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/avira-security-software-expands-with-added-crypto-mining-capabilities/"><u>Avira Security Software Expands with Added Crypto-Mining Capabilities</u></a></li>
+<li><a href="https://techidaily.com/bypassing-the-chatgpt-limit-strategies-to-avoid-too-many-requests-after-an-hour/"><u>Bypassing the ChatGPT Limit: Strategies to Avoid 'Too Many Requests' After an Hour</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/definitive-guide-to-overcoming-intel-hd-graphics-630-driver-glitches-on-windows-machines/"><u>Definitive Guide to Overcoming Intel HD Graphics 630 Driver Glitches on Windows Machines</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/fast-track-mastering-tiktok-video-downloads/"><u>Fast Track Mastering TikTok Video Downloads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone XS Max</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-s23plus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy S23+ FRP Bypass</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-task-manager-full-disk-warning/"><u>Understanding Task Manager Full Disk Warning</u></a></li>
 </ul></div>
 

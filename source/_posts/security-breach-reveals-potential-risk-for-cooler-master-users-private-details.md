@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-09-12T01:06:42.401Z
-updated: 2024-09-13T01:06:42.401Z
+date: 2024-09-14T17:59:21.900Z
+updated: 2024-09-18T18:53:49.696Z
 tags:
   - web
 categories:
@@ -38,25 +38,23 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>[New] 2024 Approved Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-the-art-of-growth-in-a-saturated-tiktok-market/"><u>[New] Mastering the Art of Growth in a Saturated TikTok Market</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-narratives-before-night-an-analysis-of-storytelling-videos/"><u>2024 Approved Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-the-windows-spotlight-not-working-dilemma-on-windows-11-pcs/"><u>Addressing the Windows Spotlight Not Working Dilemma on Windows 11 PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-moto-g14-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Moto G14 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-fongo-top-canadian-voip-provider/"><u>Comprehensive Analysis of Fongo - Top Canadian VOIP Provider</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-defensive-measures-explored-and-equipped/"><u>Facebook's Defensive Measures Explored & Equipped</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-8-streamlining-tools-to-elevate-your-streams/"><u>In 2024, Premium 8 Streamlining Tools to Elevate Your Streams</u></a></li>
-<li><a href="https://techidaily.com/preserving-your-group-policy-preferences-a-step-by-step-guide-to-backing-up-gpos-in-windows/"><u>Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows</u></a></li>
-<li><a href="https://techidaily.com/recognizing-when-your-laptop-needs-replacing-8-essential-signs/"><u>Recognizing When Your Laptop Needs Replacing: 8 Essential Signs</u></a></li>
-<li><a href="https://techidaily.com/rediscover-traditional-chimes-a-guide-to-restoring-old-school-sounds-for-windows-11-users/"><u>Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reliable-iphone-data-retrieval-tool-restore-your-data-securely/"><u>Reliable iPhone Data Retrieval Tool: Restore Your Data Securely</u></a></li>
-<li><a href="https://techidaily.com/resolving-synchronization-issues-a-step-by-step-guide-to-reinitializing-microsoft-onedrive-in-windows-11/"><u>Resolving Synchronization Issues: A Step-by-Step Guide to Reinitializing Microsoft OneDrive in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-free-gamers-guide-to-selecting-best-screen-recorder-apps/"><u>[New] 2024 Approved Free Gamers' Guide to Selecting Best Screen Recorder Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-screen-shots-on-windows-machines/"><u>[New] In 2024, Mastering Screen Shots on Windows Machines</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-x50-gt-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor X50 GT to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/exploring-tencentclouds-latest-release-an-exclusive-os-tailored-for-chinese-cpu-chips-including-huawei-kunpeng-and-sugon-hygon/"><u>Exploring TencentCloud’s Latest Release – An Exclusive OS Tailored for Chinese CPU Chips Including Huawei Kunpeng and Sugon Hygon</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-8t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Play 8T Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-influence-mastering-instagram-engagement/"><u>In 2024, Elevate Your Influence Mastering Instagram Engagement</u></a></li>
+<li><a href="https://techidaily.com/master-your-tech-choices-toms-in-depth-hardware-evaluations/"><u>Master Your Tech Choices: Tom's In-Depth Hardware Evaluations</u></a></li>
+<li><a href="https://techidaily.com/minisforum-s100-the-ultimate-portable-computer-with-alder-lake-n-poe-and-fast-ethernet/"><u>Minisforum S100: The Ultimate Portable Computer with Alder Lake-N, PoE & Fast Ethernet</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-transitions-with-the-fn-button-in-windows-pcs/"><u>Smooth Transitions with the (Fn) Button in Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-resolve-your-livekernelevent-117-issue-today/"><u>Step-by-Step Troubleshooting: Resolve Your 'LiveKernelEvent 117' Issue Today</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

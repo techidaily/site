@@ -1,46 +1,22 @@
 ---
 title: "「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」"
-date: 2024-09-05T06:19:37.657Z
-updated: 2024-09-06T06:19:37.657Z
+date: 2024-09-15T18:34:07.518Z
+updated: 2024-09-18T17:14:05.983Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d85277a374a3a1037690eb16.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY、グローバルでドキュメント内データへのアクセスに関する実態調査を実施
 
 11月17日, 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 日本の従業員における42%は「AIで業務負担の軽減になる」と回答  
 深刻化する人手不足の中で注目される「ドキュメントAI」
 
@@ -76,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 
 [![](https://static1.abbyy.com/abbyycommedia/34771/infographic-for-survey-jp.jpg)](https://www.abbyy.com/media/34771/infographic-for-survey-jp.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 【調査方法】
 
 本調査はABBYYが委託し、Sapio Research社が2021年9、10月に実施。英国、米国、フランス、ドイツ、日本の企業（従業員500人以上）で働く5,025人を対象とし、ドキュメント内のデータにアクセスする際の問題、幅広い影響、ソフトウェアと自動化技術の役割について聞き取り調査を実施しました。
@@ -104,8 +74,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,40 +83,28 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-crafting-minecraft-perfect-circles-and-spheres-techniques-for-2024/"><u>[Updated] Crafting Minecraft  Perfect Circles & Spheres Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-pc-editing-skills-for-compelling-youtube-videos/"><u>[Updated] In 2024, Essential PC Editing Skills for Compelling YouTube Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-14-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 14</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reduce-clutter-disabling-explorer-tabs/"><u>How to Reduce Clutter: Disabling Explorer Tabs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone X</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-xr-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone XR iCloud Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-your-phones-chat-signal-how-to-download-and-personalize-whatsapp-ringtone-for-2024/"><u>Perfect Your Phone's Chat Signal  How to Download & Personalize WhatsApp Ringtone for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalize-your-pc-experience-by-altering-taskbar-hues-in-windows-10/"><u>Personalize Your PC Experience by Altering Taskbar Hues in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/1723808000322-premier-mac-video-editing-software-by-apple-elevate-your-editing-skills-today/"><u>Premier Mac Video Editing Software by Apple - Elevate Your Editing Skills Today!</u></a></li>
-<li><a href="https://techidaily.com/rendering-workload/"><u>Rendering Workload</u></a></li>
-<li><a href="https://techidaily.com/resolving-windows-10-installation-issue-fix-error-code-80/"><u>Resolving Windows 10 Installation Issue - Fix Error Code 80 #</u></a></li>
-<li><a href="https://techidaily.com/seamless-website-translation-swift-conversion-in-chrome-firefox-and-edge/"><u>Seamless Website Translation: Swift Conversion in Chrome, Firefox & Edge</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-capturing-images-on-your-pc-using-windows-7/"><u>Simple Guide: Capturing Images on Your PC Using Windows 7</u></a></li>
-<li><a href="https://techidaily.com/simple-steps-to-determine-your-current-windows-operating-system/"><u>Simple Steps to Determine Your Current Windows Operating System</u></a></li>
-<li><a href="https://techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily!</u></a></li>
-<li><a href="https://techidaily.com/solving-frame-rate-issues-why-do-i-experience-drop-in-frames-per-second-fps-while-playing-diablo-4-on-pc/"><u>Solving Frame Rate Issues: Why Do I Experience Drop in Frames Per Second (FPS) While Playing Diablo 4 on PC?</u></a></li>
-<li><a href="https://techidaily.com/step-inside-the-boot-options-of-windows-10-with-this-comprehensive-guide/"><u>Step Inside the Boot Options of Windows 10 with This Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-boot-your-windows-7vistaxp-into-safe-mode/"><u>Step-by-Step Guide: Boot Your Windows 7/Vista/XP Into Safe Mode</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-enabling-wireless-internet-on-your-computer-or-laptop/"><u>Step-by-Step Guide: Enabling Wireless Internet on Your Computer or Laptop</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-removing-temp-files-on-windows-10-made-easy/"><u>Step-by-Step Guide: Removing Temp Files on Windows 10 Made Easy</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-repairing-drag-and-drop-mechanism-in-windows-environment/"><u>Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment</u></a></li>
-<li><a href="https://techidaily.com/stop-mouse-acceleration-easily-tips-and-tricks-inside/"><u>Stop Mouse Acceleration Easily - Tips & Tricks Inside</u></a></li>
-<li><a href="https://techidaily.com/successful-resolution-overcoming-windows-10-setup-issues/"><u>Successful Resolution: Overcoming Windows 10 Setup Issues</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-audio-issues-in-windows-nt-an-in-depth-tutorial-for-checking-mic-performance/"><u>Troubleshooting Audio Issues in Windows nT: An In-Depth Tutorial for Checking Mic Performance</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-external-hard-drives-not-detected-on-windows-11-systems-expert-solutions/"><u>Troubleshooting External Hard Drives Not Detected on Windows 11 Systems: Expert Solutions</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-fixing-sluggish-windows-11-startup-times/"><u>Troubleshooting Tips: Fixing Sluggish Windows 11 Startup Times</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-windows-11-user-authentication-problems-solutions-inside/"><u>Troubleshooting Windows 11 User Authentication Problems - Solutions Inside!</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-correct-steps-to-format-your-hard-drive-and-avoid-errors/"><u>Troubleshooting: Correct Steps to Format Your Hard Drive and Avoid Errors</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-create-a-bootable-usb-drive-from-windows-10-iso/"><u>Ultimate Guide: Create a Bootable USB Drive From Windows 10 ISO</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-on-configuring-remote-access-for-your-windows-10-machine/"><u>Ultimate Tutorial on Configuring Remote Access for Your Windows 10 Machine</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-on-resetting-your-pc-to-factory-settings-in-windows-11-a-step-by-step-approach/"><u>Ultimate Tutorial on Resetting Your PC to Factory Settings in Windows 11 – A Step by Step Approach</u></a></li>
-<li><a href="https://techidaily.com/unlocking-the-secrets-of-windows-10s-boot-configuration-a-step-by-step-guide/"><u>Unlocking the Secrets of Windows 10'S Boot Configuration: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated In 2024, An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://techidaily.com/windows-11-guide-improve-your-gaming-experience-by-disabling-mouse-acceleration/"><u>Windows 11 Guide: Improve Your Gaming Experience by Disabling Mouse Acceleration</u></a></li>
-<li><a href="https://techidaily.com/wirelessly-projecting-laptop-content-on-a-television-with-an-hdmi-connection-a-visual-guide/"><u>Wirelessly Projecting Laptop Content on a Television with an HDMI Connection - A Visual Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-crafting-perfect-boomerangs-in-snap/"><u>[New] 2024 Approved The Art of Crafting Perfect Boomerangs in Snap</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-melodies-that-matter-instagram-music-guide/"><u>[New] Melodies that Matter Instagram Music Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-compact-cameras-for-1000-or-less-4k/"><u>2024 Approved Best Compact Cameras for $1000 or Less (4K)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-superfluous-extensions-for-optimal-chatgpt-performance/"><u>Avoid Superfluous Extensions for Optimal ChatGPT Performance</u></a></li>
+<li><a href="https://techidaily.com/enhance-your-mac-experience-with-our-top-7-accessibility-features-designed-for-all-users/"><u>Enhance Your Mac Experience with Our Top 7 Accessibility Features Designed for All Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>In 2024, From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-index-affordable-flexible-image-sources/"><u>In 2024, Premier Index Affordable, Flexible Image Sources</u></a></li>
+<li><a href="https://techidaily.com/introducing-chrome-support-in-vivaldi-browser-version-66-a-new-era-of-web-panel-customization/"><u>Introducing Chrome Support in Vivaldi Browser Version 6.6: A New Era of Web Panel Customization</u></a></li>
+<li><a href="https://techidaily.com/linux-beginners-guide-discovering-the-best-alternatives-to-ubuntu/"><u>Linux Beginners' Guide: Discovering the Best Alternatives to Ubuntu</u></a></li>
+<li><a href="https://techidaily.com/mastering-tune-recognition-on-macos-a-step-by-step-guide/"><u>Mastering Tune Recognition on macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/maximize-your-remote-productivity-with-these-6-essential-windows-taskforcetools-in-windows-11-for-supercharged-remote-work-output/"><u>Maximize Your Remote Productivity with These 6 Essential Windows #TaskForceTools in Windows #11 for Supercharged Remote Work Output</u></a></li>
+<li><a href="https://techidaily.com/my-journey-away-from-windows-how-embracing-the-macbook-changed-everything/"><u>My Journey Away From Windows: How Embracing the MacBook Changed Everything</u></a></li>
+<li><a href="https://techidaily.com/newly-launched-arc-browser-compatible-with-microsofts-windows-11-operating-system/"><u>Newly Launched: Arc Browser Compatible with Microsoft's Windows 11 Operating System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ranking-top-online-tutorial-providers-excluding-udemy/"><u>Ranking Top Online Tutorial Providers Excluding Udemy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211374264-stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/"><u>Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-android-9-youtube-download-apps-for-2024/"><u>The Ultimate Guide to Android 9 YouTube Download Apps for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

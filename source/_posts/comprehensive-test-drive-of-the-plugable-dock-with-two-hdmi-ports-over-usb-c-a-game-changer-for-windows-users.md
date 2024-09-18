@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Test Drive of the Plugable Dock with Two HDMI Ports over USB-C – A Game Changer for Windows Users?
-date: 2024-09-12T01:10:37.185Z
-updated: 2024-09-13T01:10:37.185Z
+date: 2024-09-15T19:12:17.996Z
+updated: 2024-09-18T16:33:05.128Z
 tags:
   - deals
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The [Plugable USB-C Dual HDMI Docking Station](https://www.amazon.com/Plugable-Docking-Delivery-ChromeOS-Ethernet/dp/B0CKJNZRW3?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) packs 8-in-1 functionality, delivering dual 4K60 HDMI outputs and 65W of charging to your laptop-powered setup. While it’s lacking some ports we would have liked to have seen, this docking station is pretty robust for the price. While you won’t find an SD slot on this dock, you will find three USB-A ports, a secondary USB-C port, and gigabit ethernet. However, if you have a MacBook, then this dock likely isn’t for you as Plugable only recommends it for Windows and ChromeOS computers.
 
 ![Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/plugable-usb-c-dual-hdmi-docking-station-ud-msth2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)
 
@@ -71,13 +64,6 @@ Sergio Rodriguez / How-To Geek
 
  The nice thing about the multiple USB-C and A ports is that you can have things like your keyboard and mouse hooked up to the back of this dock, and still have access to both a USB-C and USB-A port on the front for charging your phone and plugging in a flash drive or SD card reader without having to unplug anything else. Plus, with the 3.5mm combo audio jack on the front, you can plug in speakers or headphones and always be ready to go with audio, both in and out, whenever you dock your computer at your desk.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Thankfully macOS Still Works Even if It Isn’t Officially Supported
 
 ![Ports on the back of the Plugable USB C Dual HDMI Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/ports-on-the-back-of-the-plugable-usb-c-dual-hdmi-docking-station-1-1.jpg) 
@@ -87,10 +73,10 @@ Sergio Rodriguez / How-To Geek
  It’s worth noting that Plugable recommends this dock to be used with Windows and ChromeOS computers, and not MacBooks, which is a pretty big letdown. I tested the dock with both my Windows laptop and a MacBook Pro, and found that it worked fairly well with the MacBook—you might run into issues with trying to run dual displays here. My M1 Max-powered MacBook Pro was able to drive a 1440p240 monitor at 1440p144 with ease and was still charged at 65W. While I can’t officially say all macOS setups are in the clear here, since Plugable does not officially support macOS, I can say that it does, in fact, function at least in my testing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  No SD Support Is a Disappointment
@@ -105,22 +91,15 @@ Sergio Rodriguez / How-To Geek
 
  If you’re on the Windows or ChromeOS side of things (or have a MacBook and are willing to test), then this dock is perfect for those with multiple monitors. The fact that it can support dual 4K60 output natively without adapters makes it more capable than [Plugable’s Thunderbolt 4 dock](https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-drfone-by-drfone-ios/) that’s nearly twice the price. And, unlike that more expensive dock, 4K60 matches the price point here. I wouldn’t expect to see 4K120 support on a dock like this, especially not with it being a more bandwidth-constrained USB 5Gb/s uplink connection.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy Plugable’s USB-C Dock?
 
 ![The Plugable USB C Dual HDMI Docking Station with the provided cables and its box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-plugable-usb-c-dual-hdmi-docking-station-with-the-provided-cables-and-its-box-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -132,13 +111,6 @@ Sergio Rodriguez / How-To Geek
  At the end of the day, Plugable’s USB-C dock is a solid choice for your single-cable laptop setup, so long as you use Windows or ChromeOS. The dual 4K60 display outputs, 65W charging, gigabit ethernet, and multiple USB-C and A ports make it a great choice to simplify your desk this year.
 
 ![Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/plugable-usb-c-dual-hdmi-docking-station-ud-msth2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)
 
@@ -163,16 +135,19 @@ The Plugable USB-C Dual HDMI Docking Station (UD-MSTH2) is a solid choice for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-tales-spun-8-divisions-of-cinematic-genres/"><u>[New] Best Tales Spun 8 Divisions of Cinematic Genres</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-sneak-peeks-into-instagrams-latest-hacks/"><u>[New] In 2024, Sneak Peeks Into Instagram's Latest Hacks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-a-professionals-guide-to-precision-with-morphvox-technology/"><u>[Updated] A Professional's Guide to Precision with MorphVOX Technology</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-bring-forth-forgotten-vids-unlock-the-power-of-these-12-secrets-fb-2023/"><u>2024 Approved Bring Forth Forgotten Vids Unlock the Power of These 12 Secrets, FB, 2023</u></a></li>
-<li><a href="https://techidaily.com/download-linux-mint-22-alpha-preview-test-the-latest-ubuntu-based-os/"><u>Download Linux Mint 22 Alpha Preview: Test the Latest Ubuntu-Based OS!</u></a></li>
-<li><a href="https://techidaily.com/elevating-vocal-clarity-in-tech-microsofts-breakthrough-speech-technology-expands-to-new-pc-lines/"><u>Elevating Vocal Clarity in Tech: Microsoft's Breakthrough Speech Technology Expands to New PC Lines</u></a></li>
-<li><a href="https://techidaily.com/emulating-windowss-winrar-in-linux-environments-for-seamless-file-compression/"><u>Emulating Windows's WinRAR in Linux Environments for Seamless File Compression</u></a></li>
-<li><a href="https://techidaily.com/exclusive-reveal-2024-best-of-ces-selections-by-how-to-geek-uncovered/"><u>Exclusive Reveal: 2024 Best of CES Selections by How-To Geek Uncovered</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-moto-g84-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Moto G84 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-vivas-multimedia-potential/"><u>Unlocking Viva's Multimedia Potential</u></a></li>
-<li><a href="https://techidaily.com/upgrade-your-notes-with-elegance-microsoft-introduces-handwriting-to-text-conversion-in-onenote/"><u>Upgrade Your Notes with Elegance – Microsoft Introduces Handwriting-to-Text Conversion in OneNote</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhancing-viewership-with-effective-obs-use-on-youtube-and-twitch/"><u>[New] In 2024, Enhancing Viewership with Effective OBS Use on YouTube & Twitch</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-relaxing-country-bops-and-beats-for-dance-parties-on-tiktok-for-2024/"><u>[Updated] Top Relaxing Country Bops & Beats for Dance Parties on TikTok for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>2024 Approved The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
+<li><a href="https://techidaily.com/1723808292958-2024-techniques-step-up-your-game-with-improved-fortnite-fps/"><u>2024 Techniques: Step Up Your Game with Improved Fortnite FPS!</u></a></li>
+<li><a href="https://techidaily.com/accelerate-your-pc-the-ultimate-guide-to-resolving-windows-cuhb-11-lags-and-delays/"><u>Accelerate Your PC: The Ultimate Guide to Resolving Windows Cuhb 11 Lags and Delays</u></a></li>
+<li><a href="https://techidaily.com/all-about-wsus-the-definitive-insight-into-windows-server-updates/"><u>All About WSUS: The Definitive Insight Into Windows Server Updates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/authenticating-medical-data-trustworthy-practices-using-chatgpt-and-advanced-ai/"><u>Authenticating Medical Data: Trustworthy Practices Using ChatGPT & Advanced AI</u></a></li>
+<li><a href="https://techidaily.com/1723808237896-getting-your-pc-ready-for-enhanced-innovation-with-windows-11-creators-updates-key-steps/"><u>Getting Your PC Ready for Enhanced Innovation with Windows 11 Creator's Updates: Key Steps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-moto-g14-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Moto G14 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-low-volume-transitions-within-fl-studio/"><u>In 2024, Mastering Low-Volume Transitions Within FL Studio</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-c53-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme C53 Phone Network-Ready</u></a></li>
+<li><a href="https://techidaily.com/1723808292864-the-moody-chart-is-used-to-find-the-friction-factor-f-for-calculating-pressure-drops-in-both-laminar-and-turbulent-flows-within-pipes/"><u>The Moody Chart Is Used to Find the Friction Factor (F) for Calculating Pressure Drops in Both Laminar and Turbulent Flows Within Pipes.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-guide-to-updating-drivers-for-optimal-logitech-m510-mouse-functionality/"><u>The Ultimate Guide to Updating Drivers for Optimal Logitech M510 Mouse Functionality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-6-budget-friendly-youtube-outro-makers-for-2024/"><u>Top 6 Budget-Friendly YouTube Outro Makers for 2024</u></a></li>
 </ul></div>
 

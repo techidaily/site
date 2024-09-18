@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial: Convert Strings with Base64 in the Linux Environment"
-date: 2024-09-12T01:10:16.331Z
-updated: 2024-09-13T01:10:16.331Z
+date: 2024-09-11T18:46:22.681Z
+updated: 2024-09-18T18:01:35.827Z
 tags:
   - desktop
 categories:
@@ -12,13 +12,6 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ## The Essential Tutorial: Convert Strings with Base64 in the Linux Environment
 
 Want to learn how to encode and decode strings using the base64 binary-to-text scheme? This tutorial will show you two methods to encode and decode a string on Linux using the base64 command and the Python programming language.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Where Is base64 Used?
 
@@ -50,25 +43,11 @@ printf 'I love Linux' | base64
 
 ![The Linux terminal showing the process of encoding a string received from the printf command using base64](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This output is the same as the previous one because there are no newline characters this time. If you're familiar with [here-strings](https://tldp.org/LDP/abs/html/x17837.html) on Linux, you can also use them to send your string output to the base64 command like this:
 
 base64 <<< 'I love Linux'
 
 ![The Linux terminal showcases how to encode a string using the base64 command with the help of here string operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-9.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similar to the echo command, here-strings also add a newline character at the end of the string.
 
@@ -88,14 +67,14 @@ base64 base.txt > output.txt
 
 ![The Linux terminal showcasing the process of encoding the content of a file to base64 and saving it to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the terminal didn't display the output. This command saved it to another file instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Decoding a base64 String Using the base64 Command
 
@@ -105,33 +84,20 @@ echo 'SG93VG9HZWVrCg==' | base64 -d
 
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of the echo command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-8.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you'd like to use here-strings for decoding a base64 string, then use:
 
 base64 -d <<< SG93VG9HZWVrCg==
 
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of here-strings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-7.png) 
 
- Sometimes, there might be non-alphanumeric characters in a string. You can ignore those while decoding the string by using the "-i" option.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Sometimes, there might be non-alphanumeric characters in a string. You can ignore those while decoding the string by using the "-i" option.
 
 ##  Using Python to Encode and Decode a base64 String
 
@@ -154,39 +120,26 @@ echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​�
         `import base64  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get input string from the user  
 input_string = input("Enter the string to encode: ")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Encode the string using base64  
 encoded_string = base64.b64encode(input_string.encode('utf-8'))  
 ## Decode the encoded string to ensure it's correct (optional)  
 decoded_string = base64.b64decode(encoded_string).decode('utf-8')  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Print the encoded and decoded strings  
 print("Encoded string:", encoded_string.decode('utf-8'))  
@@ -198,13 +151,6 @@ print("Decoded string (verification):", decoded_string)
 python3 base64_encoder.py
 
 ![The Linux terminal showcasing the process of encoding a string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also create a program to decode a base64 string. Here's a code snippet you can use:
 
@@ -224,6 +170,13 @@ except Exception as e:
 python3 base64_decoder.py
 
 ![The Linux terminal displaying the process of decoding a base64 string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can use these Python programs to encode and decode any strings.
 
@@ -246,18 +199,16 @@ python3 base64_decoder.py
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-8-photo-grid-online-makers-to-polish-your-pictures/"><u>[New] 2024 Approved Top 8 Photo Grid Online Makers to Polish Your Pictures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-12-video-live-viewing-platform/"><u>[New] Comprehensive 12-Video Live Viewing Platform</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-ways-to-record-live-sports-streaming/"><u>[New] In 2024, Best Ways to Record Live Sports Streaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enhance-presentations-with-proper-screenshotting-via-ezvid/"><u>[Updated] Enhance Presentations with Proper Screenshotting via Ezvid</u></a></li>
-<li><a href="https://techidaily.com/asus-expertbook-p5-advanced-energy-saving-performance-with-up-to/"><u>ASUS ExpertBook P5: Advanced Energy-Saving Performance with Up To</u></a></li>
-<li><a href="https://video-capture.techidaily.com/beat-batch-downloads-and-review-rhythmical-sounds-for-2024/"><u>Beat Batch Downloads & Review Rhythmical Sounds for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-facebooks-algorithmic-shift-toward-business-recommendations/"><u>Discovering Facebook's Algorithmic Shift Toward Business Recommendations</u></a></li>
-<li><a href="https://techidaily.com/download-arc-browser-the-newest-web-browsing-option-compatible-with-windows-10/"><u>Download Arc Browser: The Newest Web Browsing Option Compatible with Windows 10</u></a></li>
-<li><a href="https://techidaily.com/efficient-file-management-utilizing-command-prompt-tips-for-finding-and-opening-documents/"><u>Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents</u></a></li>
-<li><a href="https://techidaily.com/enhance-appearance-in-video-chats-the-reason-behind-choosing-an-android-phone-camera-over-traditional-webcams/"><u>Enhance Appearance in Video Chats: The Reason Behind Choosing an Android Phone Camera Over Traditional Webcams</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-a-stuck-ipad-keyboard-in-10-easy-steps-comprehensive-repair-manual/"><u>Fixing a Stuck iPad Keyboard in 10 Easy Steps - Comprehensive Repair Manual</u></a></li>
-<li><a href="https://extra-information.techidaily.com/get-the-glamour-swipes-masterful-tinder-profile-secrets-revealed/"><u>Get the Glamour Swipes - Masterful Tinder Profile Secrets Revealed</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-unlocking-global-audiences-top-video-language-converters/"><u>New In 2024, Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-tailoring-video-dimensions-on-youtube-a-users-guide-to-perfect-uploads/"><u>[New] 2024 Approved Tailoring Video Dimensions on YouTube A User's Guide to Perfect Uploads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-perfectly-capture-audio-remotely/"><u>[Updated] 2024 Approved How to Perfectly Capture Audio Remotely</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-quickly-modify-photo-resolution-on-an-iphone/"><u>[Updated] How to Quickly Modify Photo Resolution on an iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-whiteboard-use-on-desktopiosandroid-devices-in-a-zoom-environment/"><u>[Updated] Optimizing Your Whiteboard Use on Desktop/iOS/Android Devices in a Zoom Environment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/in-depth-guide-turning-off-windows-10s-continuous-system-updates/"><u>In Depth Guide: Turning Off Windows 10'S Continuous System Updates</u></a></li>
+<li><a href="https://techidaily.com/kodi-superrepo-install-superrepo-on-kodi-step-by-step/"><u>Kodi SuperRepo – Install SuperRepo on Kodi Step by Step</u></a></li>
+<li><a href="https://techidaily.com/mastering-performance-troubleshooting-and-improving-elder-scrolls-online-frame-rate/"><u>Mastering Performance: Troubleshooting and Improving Elder Scrolls Online Frame Rate</u></a></li>
+<li><a href="https://techidaily.com/mastering-system-recovery-the-definitive-4-step-process-for-a-clean-windows-10-installation/"><u>Mastering System Recovery: The Definitive 4-Step Process for a Clean Windows 10 Installation</u></a></li>
+<li><a href="https://techidaily.com/mastering-window-10-screen-shot-techniques-using-simple-shortcuts/"><u>Mastering Window 10 Screen Shot Techniques Using Simple Shortcuts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-10-ferramentas-essenciais-para-aprimorar-sua-producao-de-videos-em-2024/"><u>Top 10 Ferramentas Essenciais Para Aprimorar Sua Produção De Vídeos Em 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2024-09-12T01:05:44.736Z
-updated: 2024-09-13T01:05:44.736Z
+date: 2024-09-11T17:00:32.912Z
+updated: 2024-09-18T18:43:49.420Z
 tags:
   - web
 categories:
@@ -18,19 +18,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
  There are plenty of ways of organizing your life, from good old-fashioned pencil and paper notebooks, through notes apps, spreadsheets, and more ([Excel for event planning](https://instagram-clips.techidaily.com/savor-your-day-8-essential-tools-for-instagram-video-management/), anyone?). I've even used the writing app Scrivener as a general planning tool.
 
  Each approach has its pros and cons, and over the years I think there are very few of them I haven't tried. But when it comes to a combination of flexibility, ease of use, and aesthetics, dedicated planning tools tend to have the edge. We'll get more into the specifics in a moment.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Aren’t Project Management Apps for Work?
 
@@ -58,13 +45,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
 ![A Trello board with apartment listings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-apartment.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  Another board is apartment design. I use this to clarify my goals for my new home, collate ideas, list the main things I'm taking with me, save links for things I want to buy, list things I plan to sell—and outline the smart home kit I plan to use, together with the scenes I want to create.
@@ -79,18 +59,18 @@ Ben Lovejoy
 
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
 ##  How to Use Trello
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Creating a Board
 
@@ -106,18 +86,18 @@ Ben Lovejoy
 
 ![Click the small arrow to hide the sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/close-sidebar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
  You'll now have an "Add List" button top left. Click that and give it a name, then click "Save." Doing that will prompt you for your next list, so repeat until you have as many lists as you want.
 
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -129,13 +109,6 @@ Ben Lovejoy
 
 Ben Lovejoy
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Adding Photos
 
  Click on any card to open it, and you'll see all the options available. If you want to have a photo visible in your overview, as in my apartment hunt example, then this is called a cover photo. Click the "Cover" button and upload your photo.
@@ -143,10 +116,10 @@ Ben Lovejoy
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -158,13 +131,6 @@ Ben Lovejoy
 Ben Lovejoy
 
  If you instead only want a photo to be visible when you open the card, then use the "Attachment" button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Adding Links
 
@@ -184,37 +150,24 @@ Ben Lovejoy
 
  To add a checklist, simply click the Checklist button.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Adding Deadlines
 
  If a card represents a task, you can set a deadline by clicking the "Date" button. By default, you'll get a reminder the day before it becomes due, but you can change this from the dropdown.
 
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Using Color Coding
 
  To color-code cards, click the "Label" button. You'll get a set of default colors, but can also edit these. Just check the box next to a color to add that to the card. If you want to give your color-coded labels names, click the pencil (edit) button next to the color and type your name.
 
 ![Adding color-coding to the Trello board can make it easier to visually track your progress.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/color-coding.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -224,20 +177,13 @@ Ben Lovejoy
 
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Moving Things Around (Lists and Cards)
@@ -245,13 +191,6 @@ Ben Lovejoy
  Whether you want to move a card up or down a list, move a card from one list to another, or move a list to the left or right, you can do it all simply by dragging and dropping, picking the card up by its edge.
 
  However, there is one quirk to watch out for. Trello also lets you drag one card inside another one by picking it up in the center, where it is added as an attachment (effectively a hyperlink from one card to another). If the card remains the same size and rounded shape when you drag it, you are dragging the card—but if it changes to a small square, you are in insertion mode. If you get that and don't want it, then just drag it anywhere outside your lists and let it go.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Collaborating With Family and Friends
 
@@ -276,21 +215,13 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-download-igtv-videos-on-windows-pcmac-5-ways/"><u>[New] In 2024, How to Download IGTV Videos on Windows PC/Mac? [5 Ways]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-android-video-capture-the-best-5-picks/"><u>[Updated] In 2024, Essential Android Video Capture The Best 5 Picks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-essential-guide-to-youtube-time-tracking/"><u>[Updated] In 2024, The Essential Guide to YouTube Time Tracking</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-perfect-your-igtv-shooting-skills-tips-for-smartphonedslr-cameras-for-2024/"><u>[Updated] Perfect Your IGTV Shooting Skills Tips for Smartphone/DSLR Cameras for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-ps-players-voice-modification-techniques/"><u>2024 Approved Sony PS Players' Voice Modification Techniques</u></a></li>
-<li><a href="https://techidaily.com/decoding-internet-myths-the-truth-behind-google-recommends-unconventional-ingredients-for-cooking/"><u>Decoding Internet Myths: The Truth Behind 'Google Recommends' Unconventional Ingredients for Cooking</u></a></li>
-<li><a href="https://techidaily.com/detailed-tutorial-how-to-modify-chromes-default-search-engine-settings/"><u>Detailed Tutorial: How to Modify Chrome's Default Search Engine Settings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-linksys-ae2500-drivers-fast-and-simple-installation-guide/"><u>Download the Linksys AE2500 Drivers: Fast and Simple Installation Guide</u></a></li>
-<li><a href="https://techidaily.com/effortless-guide-decluttering-and-organizing-your-facebook-newsfeed/"><u>Effortless Guide: Decluttering and Organizing Your Facebook Newsfeed</u></a></li>
-<li><a href="https://techidaily.com/elevate-whatsapp-conversations-top-tips-for-creative-message-formatting/"><u>Elevate WhatsApp Conversations: Top Tips for Creative Message Formatting</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-privacy-with-a-new-zero-cost-proton-vpn-plugin-for-chrome/"><u>Enhance Your Privacy with a New, Zero-Cost Proton VPN Plugin for Chrome</u></a></li>
-<li><a href="https://techidaily.com/experience-wikipedia-in-style-access-the-newly-added-dark-theme/"><u>Experience Wikipedia in Style: Access the Newly Added Dark Theme</u></a></li>
-<li><a href="https://techidaily.com/facebook-friends-pitching-stocks-spotting-and-avoiding-the-emerging-social-network-scam-phenomenon/"><u>Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mp3-repository-from-fb-posts-for-2024/"><u>MP3 Repository From Fb Posts for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/music-that-fuels-movement-top-rated-workout-anthems-for-2024/"><u>Music that Fuels Movement Top-Rated Workout Anthems for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transformative-content-blocks-enhanced-youtube-decks-for-2024/"><u>Transformative Content Blocks Enhanced Youtube Decks for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-join-the-journey-to-a-calmer-mind-games-for-2024/"><u>[New] Join the Journey to a Calmer Mind (Games) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-list-of-online-havens-for-free-tamil-ringtones-for-2024/"><u>[Updated] The Ultimate List of Online Havens for Free Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystify-artificial-intelligence-lexicon-with-our-in-depth-glossary/"><u>Demystify Artificial Intelligence Lexicon with Our In-Depth Glossary</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/free-top-10-facebook-video-downloader-for-android-for-2024/"><u>FREE Top 10 Facebook Video Downloader for Android for 2024</u></a></li>
+<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
+<li><a href="https://techidaily.com/1723808226582-unlock-the-power-of-advanced-startup-in-windows-11-easy-methods-revealed/"><u>Unlock the Power of Advanced Startup in Windows 11: Easy Methods Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y36-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y36? Here is How | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/wireless-gameplay-on-ps4-integrating-a-keyboard-and-mouse-into-your-setup/"><u>Wireless Gameplay on PS4: Integrating a Keyboard and Mouse Into Your Setup</u></a></li>
 </ul></div>
 

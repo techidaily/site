@@ -1,7 +1,7 @@
 ---
 title: "1. Monitoring PC Heat: A Guide to Measuring CPU Temperatures in Windows 11"
-date: 2024-09-12T01:10:30.666Z
-updated: 2024-09-13T01:10:30.666Z
+date: 2024-09-13T17:52:15.491Z
+updated: 2024-09-18T16:45:18.233Z
 tags:
   - deals
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ---
 
 ## 1. Monitoring PC Heat: A Guide to Measuring CPU Temperatures in Windows 11
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 [Think your PC's CPU gets too hot](https://ios-unlock.techidaily.com/locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-by-drfone-ios/), but not sure exactly what temperature it reaches? Using a built-in method and a few free third-party apps, you can quickly and easily find out the processor temp of your Windows 11 PC. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Using BIOS/UEFI
 
  One built-in method to find your CPU's temp on some computers is by using your machine's [UEFI](https://twitter-videos.techidaily.com/updated-expert-tips-for-twitter-video-interactions/) menu, often referred to as the [BIOS](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/). This menu displays various information about your system, sometimes including your processor's temperature.
@@ -49,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
  That said, if you'd like to try using this method, open your Windows 11 PC's Settings app by pressing Windows+i. From the left sidebar, select "System." On the right pane, choose "Recovery."
 
 ![Select System > Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/1-windows-recovery-menu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the "Recovery" page, next to "Advanced Startup," click "Restart Now." Then, in the open prompt, select "Restart Now."
 
@@ -68,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
  Here, you might find your CPU's current temperature next to the "CPU Core Temperature" or a similar option. If you don't find this option on your BIOS/UEFI's main page, check out the other tabs, like "Advanced." If you can't find any temperatures, use one of the third-party tools demonstrated below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using Core Temp
@@ -86,31 +65,11 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![View the CPU temperature in Core Temp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/4-core-temp-cpu-temperature.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The temp numbers are constantly updating, as your CPU's temp keeps fluctuating.
 
  A quick way to see your CPU temp without opening the app interface is by clicking the app in your system tray. You'll see each core's temp right in your system tray.
 
 ![Access the CPU temperature in the system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/5-core-temp-system-tray.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using Speccy to Check CPU Temperature
 
@@ -122,22 +81,21 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![View the overall CPU temp in Speccy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/6-speccy-cpu-temp.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To find each core's temp, then in the app's left sidebar, click "CPU." On the right pane, in the "Cores" section, you'll see the temperature of each CPU core.
 
 ![View each CPU core temp with Speccy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/7-speccy-cpu-core-temp.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using Open Hardware Monitor
@@ -150,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![Choose &quot;Run as Administrator&quot; in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/8-run-open-hardware-monitor-as-admin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "User Account Control" prompt, select "Yes."
 
  On the app screen, in the "Temperatures" section, you'll find the temp of each core of your CPU.
@@ -159,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
  The app also displays other useful information, like the temperature of your hard drive or SSD drive.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
+<span id="1424527">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check Your CPU Temp in Windows 11 with HWiNFO
@@ -177,16 +142,16 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![Select "Sensors-only" and then click "Start."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll through the list of the devices until you see "CPU" related terms. It'll show you the current temperature in addition to the minimum and maximum temperature.
 
 ![Look for the section relating to your CPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Frequently Asked Questions
 
@@ -217,17 +182,19 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-childs-delight-greatest-drone-selections/"><u>[New] Child's Delight Greatest Drone Selections</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-concept-to-completion-review-of-magix-vpx/"><u>[Updated] From Concept to Completion Review of Magix VPX</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Hot 40 Pro Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-8-online-photo-montage-maker/"><u>Best 8 Online Photo Montage Maker</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-ultimate-path-to-monetizing-tiktok-content-creation/"><u>In 2024, The Ultimate Path to Monetizing TikTok Content Creation</u></a></li>
-<li><a href="https://techidaily.com/local-user-creation-bypass-no-longer-works-in-windows-11-update/"><u>Local User Creation Bypass No Longer Works in Windows 11 Update</u></a></li>
-<li><a href="https://techidaily.com/mastering-keyboard-shortcuts-how-to-efficiently-copy-cut-and-paste-in-windows-11/"><u>Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/mastering-login-names-how-to-update-your-username-in-windows-1110-efficiently/"><u>Mastering Login Names: How to Update Your Username in Windows 11/10 Efficiently</u></a></li>
-<li><a href="https://techidaily.com/mastering-wsl-a-comprehensive-tutorial-for-using-linux-bash-shell-on-windows-10-systems/"><u>Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems</u></a></li>
-<li><a href="https://techidaily.com/microsoft-announces-prolonged-support-and-updates-for-surface-computers/"><u>Microsoft Announces Prolonged Support and Updates for Surface Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/restoring-lost-talks-with-chatgpt/"><u>Restoring Lost Talks with ChatGPT</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ng-your-influence-with-youtube-shorts-strategy-for-2024/"><u>Scaling Your Influence with YouTube Shorts Strategy for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-audio-clarity-10-pro-tips-for-high-quality-recordings/"><u>[New] 2024 Approved Audio Clarity 10 Pro Tips for High-Quality Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expertise-amplified-10-must-know-canva-techniques/"><u>[New] Expertise Amplified 10 Must-Know Canva Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-your-content-delivery-insights-on-igtv-and-youtube-for-2024/"><u>[New] Mastering Your Content Delivery Insights on IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-guide-to-ipados-screen-capture/"><u>[Updated] 2024 Approved Ultimate Guide to iPadOS Screen Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>2024 Approved The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-spark-10-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Spark 10 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/light-on-shadows-techniques-for-depth-in-illustrator-for-2024/"><u>Light on Shadows Techniques for Depth in Illustrator for 2024</u></a></li>
+<li><a href="https://techidaily.com/seamless-website-translation-swift-conversion-in-chrome-firefox-and-edge/"><u>Seamless Website Translation: Swift Conversion in Chrome, Firefox & Edge</u></a></li>
+<li><a href="https://techidaily.com/simple-guide-capturing-images-on-your-pc-using-windows-7/"><u>Simple Guide: Capturing Images on Your PC Using Windows 7</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-to-determine-your-current-windows-operating-system/"><u>Simple Steps to Determine Your Current Windows Operating System</u></a></li>
+<li><a href="https://techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily!</u></a></li>
+<li><a href="https://techidaily.com/solving-frame-rate-issues-why-do-i-experience-drop-in-frames-per-second-fps-while-playing-diablo-4-on-pc/"><u>Solving Frame Rate Issues: Why Do I Experience Drop in Frames Per Second (FPS) While Playing Diablo 4 on PC?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-pour-compacter-les-videos-hd4k8k-jusqua-un-diminution-de-90/"><u>Techniques Pour Compacter Les Vidéos HD/4K/8K Jusqu'à Un Diminution De 90%</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-cloud-game-platform-a-deep-dive/"><u>Xbox’s Cloud Game Platform: A Deep Dive</u></a></li>
 </ul></div>
 

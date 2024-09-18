@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu User Guide: Personalizing Your Folders with Unique Icons"
-date: 2024-09-12T01:08:15.240Z
-updated: 2024-09-13T01:08:15.240Z
+date: 2024-09-14T19:18:05.107Z
+updated: 2024-09-18T18:39:57.157Z
 tags:
   - desktop
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 [Icon Archive](https://www.iconarchive.com/), [Iconfinder](https://www.iconfinder.com/), and [Flaticon](https://www.flaticon.com/) offer a wide variety of attractive folder icons and themes that work on Linux. Just download the icon you like and save it to any [directory on your system](https://some-tips.techidaily.com/2024-approved-unveiling-beats-optimal-background-music-for-vids/). Then you can apply it to any folder you want.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Set a Custom Folder Icon on Ubuntu
 
  Setting a custom folder icon on Ubuntu is easy. All you need to do is right-click on the folder and open the "Properties" window. From there, click on the current folder icon and select a new one. This will apply a new custom icon to your selected folder. Let's break this down!
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![Ubuntu background screen showing various applications on the dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ubuntuhome-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, right-click on the folder you want to customize. Then, click the "Properties" option.
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-4.png) 
@@ -56,19 +56,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  Inside the "Properties" section, click on the default folder icon.
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-4.png) 
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Head over to the location where you saved the downloaded icon. Then, choose the icon and click the "Open" button displayed at the top.
 
@@ -79,23 +66,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![Folder icon with new look](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Give a Unique Color to Your Folder Icons on Ubuntu
@@ -111,10 +91,10 @@ sudo apt install folder-color
 ![Command to install the folder-color extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/picture1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the installation is done, restart the Nautilus file manager using:
@@ -133,14 +113,14 @@ nautilus -q
 
 ![Nautilus file manager shows the home directory after adding an emblem to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14.png) 
 
- You can change the color of multiple folders at once. Select all the folders, then right-click and choose a suitable color for the folders.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can change the color of multiple folders at once. Select all the folders, then right-click and choose a suitable color for the folders.
 
 ##  How to Restore a Folder's Icon to Its Default Look
 
@@ -150,23 +130,9 @@ nautilus -q
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Within the properties, click on the currently used custom icon shown in the "Basic" section of folder properties.
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lastly, tap the "Revert" option to restore the custom icon to its default look.
 
@@ -176,29 +142,22 @@ nautilus -q
 
 ![Nautilus file manager showing home directory after restoring icon of videos folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Similarly, if you have modified the folder color using the folder-color utility, you can also reset it to its original appearance.
 
  To restore the default folder color, right-click the folder icon and navigate to the "Color" option. From there, click on the "Default" option.
 
 ![A window showing the main context menu along with the color tool submenu with the default option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The folder icon with the default color will be restored successfully.
 
 ![Nautilus file manager showing home directory after restoring videos folder color icon to default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "Default" button of the folder-color extension will also revert any changes made from the folder's "Properties" section. However, any changes made using the folder-color extension, like changing the color, emblem, and others are irreversible through the "Revert" button under folder properties.
 
@@ -223,19 +182,16 @@ nautilus -q
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-cloud-capacity-options-reviewed/"><u>[New] Leading Cloud Capacity Options Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-definitive-guide-to-avoiding-youtube-copyright-issues/"><u>[Updated] The Definitive Guide to Avoiding YouTube Copyright Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-high-performance-in-fb-video-streaming/"><u>2024 Approved High Performance in FB Video Streaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics-for-2024/"><u>Capture and Share Your Games Like a Pro with These Windows 11 Tactics for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/euro-truck-simulator-2-crashes-on-windows-diagnosis-and-solutions/"><u>Euro Truck Simulator 2 Crashes on Windows: Diagnosis and Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-can-ai-generated-artwork-enhance-your-creativity-and-projects/"><u>How Can AI-Generated Artwork Enhance Your Creativity and Projects?</u></a></li>
-<li><a href="https://techidaily.com/identifying-synthetic-stories-unveiling-artificial-intelligence-generated-misinformation/"><u>Identifying Synthetic Stories: Unveiling Artificial Intelligence-Generated Misinformation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>In 2024, Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
-<li><a href="https://techidaily.com/introducing-the-gemini-nano-ai-elevating-smartphone-capabilities-in-googles-new-pixel-model/"><u>Introducing the Gemini Nano AI: Elevating Smartphone Capabilities in Google's New Pixel Model</u></a></li>
-<li><a href="https://techidaily.com/meet-the-upgraded-bing-chatbot-advanced-search-features-and-elevated-usage-restrictions-now-available/"><u>Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available</u></a></li>
-<li><a href="https://techidaily.com/monthly-virtual-reality-game-selections-with-meta-quests-latest-membership-plan/"><u>Monthly Virtual Reality Game Selections with Meta Quest's Latest Membership Plan</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/navigating-discords-video-sharing-feature-with-expertise-for-2024/"><u>Navigating Discord's Video Sharing Feature with Expertise for 2024</u></a></li>
-<li><a href="https://techidaily.com/next-steps-for-amazon-starlink-entering-the-protoflight-phase-of-development/"><u>Next Steps for Amazon Starlink: Entering the Protoflight Phase of Development</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-ksuserdll-file-solutions-for-missing-or-non-existent-errors/"><u>Troubleshooting the 'ksuser.dll' File: Solutions for Missing or Non-Existent Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-boot-into-bios-configuration-in-windows-10windows-7-systems/"><u>How to Boot Into BIOS Configuration in Windows 10/Windows 7 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-expectations-the-latest-lg-tv-bp550-review/"><u>In 2024, Beyond Expectations The Latest LG TV BP550 Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-sports-and-screen-capture-the-best-ways-to-document-the-action/"><u>In 2024, Sports and Screen Capture The Best Ways to Document the Action</u></a></li>
+<li><a href="https://techidaily.com/revamping-school-friendly-deals-the-changing-landscape-of-apple-product-offers-in-america/"><u>Revamping School-Friendly Deals: The Changing Landscape of Apple Product Offers in America</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-your-kitchen-habits-make-chatgpt-your-go-to-source-for-delicious-recipes/"><u>Revolutionize Your Kitchen Habits: Make ChatGPT Your Go-To Source for Delicious Recipes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/spring-to-the-future-innovations-in-screen-capture-tech/"><u>Spring to the Future Innovations in Screen Capture Tech</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-activating-and-running-chatgpt-with-shellgpt-in-ubuntus-terminal-environment/"><u>Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-blocking-crypto-sites-in-your-brave-browser-experience/"><u>Step-by-Step Guide: Blocking Crypto Sites in Your Brave Browser Experience</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-interacting-with-uniswap-via-metamask-on-ios-and-android-devices/"><u>Step-by-Step Guide: Interacting with Uniswap via MetaMask on iOS and Android Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-symphony-of-silence-breakers-crafting-your-own-custom-alerts-and-sounds-on-android/"><u>The Symphony of Silence Breakers Crafting Your Own Custom Alerts & Sounds on Android</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/verbale-reue-im-deutschen-praktizieren/"><u>Verbale Reue Im Deutschen Praktizieren</u></a></li>
 </ul></div>
 

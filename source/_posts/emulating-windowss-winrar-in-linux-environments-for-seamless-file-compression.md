@@ -1,7 +1,7 @@
 ---
 title: Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
-date: 2024-09-12T01:09:54.924Z
-updated: 2024-09-13T01:09:54.924Z
+date: 2024-09-11T16:53:27.337Z
+updated: 2024-09-18T18:39:18.604Z
 tags:
   - desktop
 categories:
@@ -27,31 +27,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  WinRAR is a popular archive manager for Windows that many people are familiar with. However, did you know you could use WinRAR on Linux? It’s not the rar command-line tool most people think of. Rather, you can run the same Windows graphical WinRAR tool on your Linux desktop. We'll show you how.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Can You Install WinRAR on Linux?
 
  Yes, you can install WinRAR on Linux. However, it is more complex than installing it on Windows. WinRAR officially does not have a graphical user interface (GUI) client for Linux, as it only provides a command-line interface (CLI) tool named rar or WinRAR CLI.
 
  Well, there is a method that lets you run the Windows WinRAR GUI on Linux without any hassle. The solution is to [use Wine](https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y100a-frp-bypass-instantly-by-drfone-android/), a tool that lets you use Windows applications on Linux. Wine does not emulate Windows, but provides a compatibility layer that converts Windows system calls to Linux system calls. With Wine, you can install and run WinRAR on Linux like that on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install WinRAR on Linux
 
@@ -73,13 +53,6 @@ sudo pacman -S wine
 
 ![downloading WinRAR 64-bit version of windows from the official download page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, head over to the directory where you saved the file using [the cd command](https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/):
 
 cd Downloads
@@ -94,23 +67,9 @@ wine winrar-*.exe
 
 ![WinRAR wine installation setup with different settings related to file formats, interface, and integration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once WinRAR is installed, you can launch it from the application menu.
 
 ![WinRAR on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Extracting a RAR File Using WinRAR on Linux
 
@@ -120,22 +79,36 @@ wine winrar-*.exe
 
 ![extracting a sample.rar file in WinRAR (wine)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, select the path where you want to save the extracted file. After that, click on "OK" and wait for the extraction to be completed. You can then close WinRAR and access the extracted files.
 
 ![specifying destination path and different mode for extracted rar file in setting context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In your specified path, you see your extracted file with the same name as the RAR file.
 
 ![viewing extracted rar file in Nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5a.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As mentioned earlier, WinRAR officially only provides rar for Linux, which is a command-line tool. If you prefer [extracting RAR files using the command line](https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/), you can use the rar command.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  WinRAR Alternatives for Linux
 
@@ -146,16 +119,10 @@ wine winrar-*.exe
 ![File Roller on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [File Roller](https://wiki.gnome.org/Apps/FileRoller) is the default tool for managing archives on the Linux system with a [GNOME](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/) desktop. This tool has a simple and intuitive GUI that lets you create, extract, and modify various archive files, such as RAR, ZIP, TAR, and others.
@@ -174,16 +141,16 @@ sudo pacman -S file-roller
 
  After installing File Roller, you can extract, add, or open any RAR file.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  7-Zip
 
 ![context menu showing different options of the 7zip tool in nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [7-Zip](https://www.7-zip.org/download.html) is a free, open-source tool used for compressing large files. It's got its own archive file format, 7z, and can handle other formats as well. It officially comes with three p7zip packages: p7zip (basic 7z support), p7zip-full (more 7z formats), and p7zip-rar (RAR + 7z support).
 
@@ -200,13 +167,6 @@ sudo yum install p7zip p7zip-plugins
 sudo pacman -S p7zip
 
  Once 7-Zip is installed, you can right-click on your file to extract and compress your files.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Xarchiver
 
@@ -249,20 +209,19 @@ sudo pacman -S xarchiver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-leading-unboxing-series-s-must-watch-yt-channels/"><u>[Updated] In 2024, Leading Unboxing Series 'S Must-Watch YT Channels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-prime-frames-per-second-for-high-impact-slow-motion-videos/"><u>[Updated] Prime Frames Per Second For High-Impact Slow Motion Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-setting-up-your-phone-as-a-home-based-webcam-for-2024/"><u>[Updated] Setting Up Your Phone as a Home-Based Webcam for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-costs-is-taking-an-uber-more-economical-than-riding-in-a-cab/"><u>Comparing Costs: Is Taking an Uber More Economical than Riding in a Cab?</u></a></li>
-<li><a href="https://techidaily.com/create-stunning-ai-illustrations-at-no-cost-a-5-step-guide/"><u>Create Stunning AI Illustrations at No Cost: A 5 Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978610141-download-and-update-asus-vg248qe-graphics-card-drivers-on-windows-simplified-steps/"><u>Download and Update Asus VG248QE Graphics Card Drivers on Windows - Simplified Steps</u></a></li>
-<li><a href="https://techidaily.com/effective-strategies-for-using-chatgpt-to-generate-professional-resumes-tailored-for-various-positions/"><u>Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions</u></a></li>
-<li><a href="https://techidaily.com/enhance-vintage-memories-with-ai-no-more-photoshop-simplify-upgrading-and-coloring-old-images/"><u>Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images</u></a></li>
-<li><a href="https://techidaily.com/essential-factors-to-evaluate-before-buying-an-electric-bicycle/"><u>Essential Factors to Evaluate Before Buying an Electric Bicycle</u></a></li>
-<li><a href="https://techidaily.com/excessive-dependence-of-modern-tech-on-internet-connectivity/"><u>Excessive Dependence of Modern Tech on Internet Connectivity</u></a></li>
-<li><a href="https://techidaily.com/experience-office-suite-immersion-microsoft-word-powerpoint-and-excel-available-in-virtual-reality-with-quest-headsets/"><u>Experience Office Suite Immersion: Microsoft Word, PowerPoint & Excel Available in Virtual Reality with Quest Headsets</u></a></li>
-<li><a href="https://techidaily.com/exploring-factors-behind-electric-car-battery-longe-gro-the-science-explained/"><u>Exploring Factors Behind Electric Car Battery Longe Gro: The Science Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fade-to-darkness-instantaneously/"><u>In 2024, Fade to Darkness Instantaneously</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-recording-made-simple-your-phone-cookbook-for-snapping-stories/"><u>In 2024, Recording Made Simple Your Phone' Cookbook for Snapping Stories</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ame-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-reverse-engineering-a-youtube-ban-for-2024/"><u>[Updated] Reverse Engineering a YouTube Ban for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-build-a-metaverse-identity-a-streamlined-design-process/"><u>2024 Approved Build a Metaverse Identity A Streamlined Design Process</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-audioscapevisumedia-network/"><u>2024 Approved Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://techidaily.com/craft-your-own-telegram-stickers-step-by-step-tutorial-for-designing-personalized-sticker-sets/"><u>Craft Your Own Telegram Stickers: Step-by-Step Tutorial for Designing Personalized Sticker Sets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/deciding-on-the-best-gopro-max-or-hero-11/"><u>Deciding on the Best GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://techidaily.com/decoding-internet-myths-the-truth-behind-google-recommends-unconventional-ingredients-for-cooking/"><u>Decoding Internet Myths: The Truth Behind 'Google Recommends' Unconventional Ingredients for Cooking</u></a></li>
+<li><a href="https://techidaily.com/detailed-tutorial-how-to-modify-chromes-default-search-engine-settings/"><u>Detailed Tutorial: How to Modify Chrome's Default Search Engine Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722872294906-diy-making-an-easy-appointment-at-your-local-apple-store-today/"><u>DIY: Making an Easy Appointment at Your Local Apple Store Today!</u></a></li>
+<li><a href="https://techidaily.com/effortless-guide-decluttering-and-organizing-your-facebook-newsfeed/"><u>Effortless Guide: Decluttering and Organizing Your Facebook Newsfeed</u></a></li>
+<li><a href="https://techidaily.com/elevate-whatsapp-conversations-top-tips-for-creative-message-formatting/"><u>Elevate WhatsApp Conversations: Top Tips for Creative Message Formatting</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-find-x6-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo Find X6 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-icebound-duelists-celebrating-the-best-of-winter-olympics-snowboard-x/"><u>In 2024, Icebound Duelists Celebrating the Best of Winter Olympics Snowboard X</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y27-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y27 5G Black and White | Dr.fone</u></a></li>
 </ul></div>
 

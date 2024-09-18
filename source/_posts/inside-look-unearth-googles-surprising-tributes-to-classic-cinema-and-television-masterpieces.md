@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-09-12T01:06:38.509Z
-updated: 2024-09-13T01:06:38.509Z
+date: 2024-09-16T17:55:31.989Z
+updated: 2024-09-18T18:54:27.037Z
 tags:
   - web
 categories:
@@ -39,32 +39,11 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google Search Result pagefor Ross Geller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-screenshot-of-the-google-search-result-pagefor-ross-geller.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Each Friends character has a custom Easter egg attached to their name. This is your cue to find out what they all are.
 
  Once you've explored each of the friends’ Easter eggs, you can further amuse yourself by checking out the Friends Glossary—a collection of fun words (most of them coined by Joey) and phrases made popular by the show. Simply search for the **Friends Glossary**, and you'll see a word, its part of speech, definition, and an example of how to use it in a sentence. My favorite is “On a Break.”
 
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make Your Search Results Fabulous With “Legally Blonde”
 
@@ -76,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Recreate the Burn Book From “Mean Girls”
 
  “Mean Girls” is another classic that has been blessed with its own Google Easter egg. In the movie, the girls have a pink journal called the "Burn Book" where they write mean things about their classmates. Google plays off this by letting you create your very own Burn Book right there in search.
@@ -83,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  If you search **Mean Girls** in Google, you’ll see a lipstick print. Clicking it turns the screen pink (the color of the Burn Book), and clicking anywhere on the screen creates doodles in the style of the original book. 
 
 ![A transparent pink background with kiss and scribble designs on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-transparent-pink-background-with-kiss-and-scribble-designs-on-it.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
 
@@ -100,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  In honor of the TV series launch, Google created an Easter egg that lets you kick-start the Cordyceps brain infection that nearly wipes out humanity. To activate it, search for **The Last of Us** or **Cordyceps**, and click the mushroom icon that appears on the bottom of your screen. This will cause stalks to sprout on your screen, and clicking multiple times will cause the infection to spread until nearly all of your screen is overrun.
 
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
 
@@ -116,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Solve Time Travel Puzzles With “Doctor Who”
@@ -130,20 +122,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A minigame with buildings and robots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-minigame-with-buildings-and-robots.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Unleash the Force With Baby Yoda From “The Mandalorian”
@@ -153,19 +138,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Apparently, the folks at Google agree that Baby Yoda is unbelievably cute too, because they gave him his own Easter egg. When you activate it, Baby Yoda uses the Force to pull down elements on your search page, starting with the search bar. 
 
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
 
@@ -177,23 +149,9 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A search results page with one of the links dissolving and a gauntlet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-one-of-the-links-dissolving-and-a-gauntlet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Clicking the gauntlet a second time reverses the process and brings all the results back.
 
  This Easter egg has also been retired, but you can still [access it on elgooG](https://elgoog.im/thanos/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Summon The Dark Knight
 
@@ -202,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
@@ -241,18 +199,16 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hands-on-instructions-for-iphone-content-syncing/"><u>[New] Hands-On Instructions for iPhone Content Syncing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-mac-alternatives-for-expert-screen-recording-and-playback/"><u>[Updated] 2024 Approved Best Mac Alternatives for Expert Screen Recording & Playback</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-blend-voice-recordings-into-ppt-framework/"><u>[Updated] Blend Voice Recordings Into PPT Framework</u></a></li>
-<li><a href="https://techidaily.com/enhancing-productivity-new-notepad-updates-bring-advanced-features-in-windows-11/"><u>Enhancing Productivity: New Notepad Updates Bring Advanced Features in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/ensuring-windows-11-security-post-2025-with-a-premium-package/"><u>Ensuring Windows 11 Security Post-2025 with a Premium Package</u></a></li>
-<li><a href="https://techidaily.com/expert-tips-installing-and-setting-up-bluetooth-on-a-laptop-or-desktop/"><u>Expert Tips: Installing and Setting Up Bluetooth on a Laptop or Desktop</u></a></li>
-<li><a href="https://techidaily.com/extending-the-lifespan-of-windows/"><u>Extending the Lifespan of Windows</u></a></li>
-<li><a href="https://techidaily.com/guide-enabling-and-using-apple-maps-on-your-windows-pc/"><u>Guide: Enabling and Using Apple Maps on Your Windows PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-a70-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel A70 and Browser | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-editing-on-mac-os-x-mavericks-tutorial/"><u>New 2024 Approved Effortless Video Editing on Mac OS X Mavericks Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722865256300-the-comprehensive-strategy-for-broadcasting-spoken-messages-on-apple-devices/"><u>The Comprehensive Strategy for Broadcasting Spoken Messages on Apple Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-mystery-of-unresponsive-airpod-pairing/"><u>Ultimate Guide: Solving the Mystery of Unresponsive AirPod Pairing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-unleashing-the-power-of-xml-in-final-cut-pro-x/"><u>Updated Unleashing the Power of XML in Final Cut Pro X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-shade-editor/"><u>[New] Perfect Shade Editor</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-accessing-and-archiving-your-facebook-status-vids/"><u>[Updated] 2024 Approved Accessing and Archiving Your Facebook Status Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-tips-for-superior-4k-visual-quality-with-gear/"><u>Expert Tips for Superior 4K Visual Quality with Gear</u></a></li>
+<li><a href="https://techidaily.com/geekom-g1-elegant-aquarium-design-housing-an-intense-fusion-of-intel-i9-and-nvidias-gpu-prowess-for-gamers/"><u>Geekom G1: Elegant Aquarium Design Housing an Intense Fusion of Intel I9 & NVIDIA's GPU Prowess for Gamers.</u></a></li>
+<li><a href="https://techidaily.com/1723262377629-get-the-edge-this-memorial-day-snag-your-new-gaming-pc-at-ibuypower-discount-sale/"><u>Get the Edge This Memorial Day - Snag Your New Gaming PC at iBUYPOWER Discount Sale!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-15-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 15 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-ace-2-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Ace 2 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/mastering-tech-choices-in-depth-guidance-from-toms-hardware-expertise/"><u>Mastering Tech Choices: In-Depth Guidance From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://techidaily.com/meet-the-ultra-slim-mini-computer-revolutionizing-desk-space-powered-by-amd-ryzen-9-and-rtx-graphics/"><u>Meet the Ultra-Slim Mini Computer Revolutionizing Desk Space - Powered by AMD Ryzen 9 and RTX Graphics</u></a></li>
+<li><a href="https://techidaily.com/navigating-new-horizons-in-technology-with-toms-hardware-innovations/"><u>Navigating New Horizons in Technology with Tom's Hardware Innovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-ahead-with-verizons-cutting-edge-5g-connectivity/"><u>What's Ahead with Verizon's Cutting-Edge 5G Connectivity</u></a></li>
 </ul></div>
 

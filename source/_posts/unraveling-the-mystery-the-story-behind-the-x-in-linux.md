@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-09-12T01:09:47.227Z
-updated: 2024-09-13T01:09:47.227Z
+date: 2024-09-14T19:15:00.314Z
+updated: 2024-09-18T16:00:06.301Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Many operating systems have X in their name to pay homage to Unix.
@@ -33,19 +26,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -69,22 +49,15 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -105,13 +78,6 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
 ##  Linus Torvalds and Freax
@@ -127,10 +93,10 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -170,16 +136,20 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-explore-the-best-free-drawing-software-for-mac-users/"><u>[New] In 2024, Explore the Best FREE Drawing Software for Mac Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-prime-videos-social-stardom-on-twitter/"><u>[Updated] 2024 Approved Amazon Prime Video's Social Stardom on Twitter</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-how-you-can-get-paid-for-videos/"><u>2024 Approved How You Can Get Paid for Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficiently-wipe-your-iphone-clean-with-stellars-step-by-step-guide/"><u>Efficiently Wipe Your iPhone Clean with Stellar's Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-evaluation-of-the-newest-slomo-video-software/"><u>In-Depth Evaluation of the Newest SloMo Video Software</u></a></li>
-<li><a href="https://techidaily.com/navigating-the-new-era-of-bitcoin-legality-understanding-el-salvadors-groundbreaking-move/"><u>Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move</u></a></li>
-<li><a href="https://techidaily.com/no-more-gratis-power-for-your-rivian-journeys-understanding-the-new-charge-policy-shift/"><u>No More Gratis Power for Your Rivian Journeys – Understanding the New Charge Policy Shift</u></a></li>
-<li><a href="https://techidaily.com/purchase-an-adult-smoosat-electric-scooter-and-receive-a-childs-e-scooter-for-free/"><u>Purchase an Adult SmooSat Electric Scooter & Receive a Child's E-Scooter for Free!</u></a></li>
-<li><a href="https://techidaily.com/record-up-to-three-minutes-unveiling-the-powerful-features-of-ray-ban-metasmart-eyewear/"><u>Record Up To Three Minutes: Unveiling the Powerful Features of Ray Ban Metasmart Eyewear</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/understanding-the-shift-navigating-posting-in-an-algorithm-world-for-2024/"><u>Understanding the Shift Navigating Posting in an Algorithm World for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-quick-fixes-for-professional-looking-youtube-thumbnails/"><u>[New] 2024 Approved Quick Fixes for Professional-Looking YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/"><u>[New] 2024 Approved Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>2024 Approved Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-3-step-structure-for-successful-subscriber-profit-analysis-a-guide-from-google/"><u>2024 Approved The 3-Step Structure for Successful Subscriber Profit Analysis A Guide From Google</u></a></li>
+<li><a href="https://techidaily.com/boosting-your-linkedin-presence-top-free-ai-powered-enhancement-techniques/"><u>Boosting Your LinkedIn Presence: Top Free AI-Powered Enhancement Techniques</u></a></li>
+<li><a href="https://techidaily.com/chrome-os-flex-gets-a-boost-with-cutting-edge-linux-capabilities-launching-soon/"><u>Chrome OS Flex Gets a Boost with Cutting-Edge Linux Capabilities Launching Soon!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comprehensive-guide-to-free-premium-video-callers/"><u>Comprehensive Guide to Free, Premium Video Callers</u></a></li>
+<li><a href="https://techidaily.com/connect-the-dots-with-nyts-june-20-edition-hinted-clues-and-correct-responses-375/"><u>Connect the Dots with NYT's June 20 Edition - Hinted Clues and Correct Responses (#375)</u></a></li>
+<li><a href="https://techidaily.com/decode-the-daily-challenge-on-nytimes-puzzle-todays-connections-answers-for-june-7-362/"><u>Decode the Daily Challenge on NYTimes Puzzle: Today's Connections Answers for June 7 (#362)</u></a></li>
+<li><a href="https://techidaily.com/discover-a-more-private-web-experience-with-my-effortless-switch-to-brave-browser/"><u>Discover a More Private Web Experience with My Effortless Switch to Brave Browser</u></a></li>
+<li><a href="https://techidaily.com/discover-todays-hidden-themes-and-solutions-with-nyt-connections-edition-july-28-413/"><u>Discover Today's Hidden Themes and Solutions with NYT Connections, Edition July 28 (#413)</u></a></li>
+<li><a href="https://techidaily.com/dive-into-deciphering-the-new-york-times-connections-challenge-for-august-6th-insights-and-solutions-421/"><u>Dive Into Deciphering The New York Times' Connections Challenge for August 6Th - Insights and Solutions (#421)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-15-pro-maxwindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 15 Pro Max/Windows/Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-presentation-adding-textures-to-your-project/"><u>Perfecting Presentation Adding Textures to Your Project</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme Narzo N55 | Dr.fone</u></a></li>
 </ul></div>
 

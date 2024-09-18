@@ -1,7 +1,7 @@
 ---
 title: Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
-date: 2024-09-12T01:08:57.494Z
-updated: 2024-09-13T01:08:57.494Z
+date: 2024-09-15T18:18:03.264Z
+updated: 2024-09-18T18:26:39.997Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Use the Correct Mod Version](https://extra-skills.techidaily.com/leading-free-camera-apps-for-high-quality-slo-mo-photos-for-2024/)
@@ -26,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Edit the Minecraft Launcher Path](https://win-answers.techidaily.com/quick-guide-to-troubleshoot-and-repair-fortnite-logon-glitches-easily/)
 * [Change the Java Executable File](https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/)
 * [Reinstall Minecraft](https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,42 +40,15 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
  In the Roaming folder that opens up, navigate to .Minecraft > Mods.
 
 ![Mods folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mods-folder-in-the-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the mods folder, go through the names of all the mods and check the version number. If you find a mod with a different version number than the _Minecraft_ version installed on your computer, it's probably the culprit behind the error.
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll need to replace that mod with its latest version to fix the problem. For this, take note of the name of that mod, and then visit the [CurseForge website](https://www.curseforge.com/minecraft). Type the name of that mod and hit the search icon.
 
@@ -104,13 +63,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Detect and Delete the Problematic Mod
 
@@ -128,15 +80,22 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Check for Updates option on the AMD Software Adrenaline Edition app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-on-the-amd-software-adrenaline-edition-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your computer has an NVIDIA graphics driver, download and install the [GeForce Experience app](https://www.nvidia.com/en-us/geforce/geforce-experience/) or [the newer NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/). Switch to the "Drivers" tab and click the "Check for Update" button. The program will go online to check for [updates to your NVIDIA graphics driver](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/). If it finds any, you will be given the option to download it.
 
 ![Check for Updates option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-in-the-geforce-experience-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the "Download" button next to the Game Ready Driver.
@@ -150,6 +109,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  If you have an Intel graphics driver, you can visit the [Intel official website](https://www.intel.com/content/www/us/en/search.html#sort=relevancy&f:@tabfilter=[Downloads]&f:@stm%5F10385%5Fen=[Graphics]) and download the latest update for your graphics driver. The downloaded file will be in an executable format, which you can install like any other Windows application.
 
  Once you've updated the graphics driver on your computer, restart it and launch _Minecraft_ to check for the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Edit the _Minecraft_ Launcher Path
 
@@ -167,13 +133,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change the Java Executable File
 
  Whenever you install _Minecraft_, it automatically installs the required Java Runtime Executable (JRE) on your computer and uses it to run the game. However, there may be instances where the launcher fails to detect the JRE, or perhaps it's searching in an incorrect location.
@@ -182,16 +141,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Installations tab in the Minecraft Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installations-tab-in-the-minecraft-launcher.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the three dots next to the "Latest release" entry and choose "Edit."
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "More Options." Then, click the "Browse" option.
 
@@ -203,23 +162,9 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
     
 ![Open option in the Open File window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-option-in-the-open-file-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "Save" button.
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, restart the game and check for the issue again.
 
@@ -231,27 +176,20 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
 ![Delete option to delete the Mincraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-option-to-delete-the-mincraft-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
 ![Minecraft log in page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/minecraft-log-in-page.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have installed _Minecraft_, you can move the "Saves" folder to the following location:
 
@@ -278,19 +216,18 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-premier-no-8-digital-composers-kit/"><u>[New] 2024 Approved Premier No. 8 Digital Composer's Kit</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secure-and-enhance-slack-communications-with-top-10-free-audio-apps/"><u>[New] 2024 Approved Secure & Enhance Slack Communications with Top 10 Free Audio Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-the-secrets-of-facebook-videos/"><u>[New] 2024 Approved Unveiling the Secrets of Facebook Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-bypassing-blockbusters-2023-indie-favorites-for-2024/"><u>[New] Bypassing Blockbusters 2023 Indie Favorites for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-explore-polarr-photo-editor-features-in-detail-for-2024/"><u>[Updated] Explore Polarr Photo Editor Features in Detail for 2024</u></a></li>
-<li><a href="https://techidaily.com/1-transform-your-bash-shell-into-a-colorful-spectacle-with-just-one-simple-command/"><u>1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-storytelling-on-snapchat-top-15-ideas/"><u>2024 Approved Elevate Your Storytelling on Snapchat (Top 15 Ideas)</u></a></li>
-<li><a href="https://techidaily.com/access-the-pioneering-pc-word-editor-free-and-available-online/"><u>Access the Pioneering PC Word Editor: Free and Available Online!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-realtek-rtl8188ee-wireless-network-adapter-drivers-windows-compatible/"><u>Download RealTek RTL8188EE Wireless Network Adapter Drivers (Windows Compatible)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-magic-v2-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor Magic V2 online without jailbreak</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/masterclass-elevate-obs-broadcasts-on-the-facebook-stage-for-2024/"><u>Masterclass Elevate OBS Broadcasts on the Facebook Stage for 2024</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/"><u>Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-making-of-the-iconic-3d-pipes-windows-screen-saver/"><u>Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver</u></a></li>
-<li><a href="https://techidaily.com/updated-fix-for-persistent-problems-microsofts-solution-to-windows-10-and-11-update-bugs/"><u>Updated Fix for Persistent Problems: Microsoft's Solution to Windows 10 and 11 Update Bugs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[New] In 2024, Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-image-framing-essentials-top-apps-and-websites-creators/"><u>[Updated] Image Framing Essentials Top Apps & Websites Creators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023-strategy-easily-discovering-what-youve-lately-watched-on-fb-for-2024/"><u>2023 Strategy Easily Discovering What You've Lately Watched on Fb for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-installing-your-xbox-360-gamepad-driver/"><u>Easy Guide to Downloading & Installing Your Xbox 360 Gamepad Driver</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cataloging-camera-types-for-visual-media/"><u>In 2024, Cataloging Camera Types for Visual Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-innovative-igtv-editor-apps-for-creative-vertical-content/"><u>In 2024, Innovative IGTV Editor Apps for Creative Vertical Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-aio-cooler-picks-optimizing-your-systems-performance/"><u>Leading AIO Cooler Picks: Optimizing Your System's Performance</u></a></li>
+<li><a href="https://techidaily.com/mastering-wsl-a-comprehensive-tutorial-for-using-linux-bash-shell-on-windows-10-systems/"><u>Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems</u></a></li>
+<li><a href="https://techidaily.com/microsoft-announces-prolonged-support-and-updates-for-surface-computers/"><u>Microsoft Announces Prolonged Support and Updates for Surface Computers</u></a></li>
+<li><a href="https://techidaily.com/preserving-your-group-policy-preferences-a-step-by-step-guide-to-backing-up-gpos-in-windows/"><u>Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows</u></a></li>
+<li><a href="https://techidaily.com/recognizing-when-your-laptop-needs-replacing-8-essential-signs/"><u>Recognizing When Your Laptop Needs Replacing: 8 Essential Signs</u></a></li>
+<li><a href="https://techidaily.com/rediscover-traditional-chimes-a-guide-to-restoring-old-school-sounds-for-windows-11-users/"><u>Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/transforming-android-devices-into-broadcast-powerhouses-with-obs/"><u>Transforming Android Devices Into Broadcast Powerhouses with OBS</u></a></li>
 </ul></div>
 

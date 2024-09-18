@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-09-12T01:08:07.469Z
-updated: 2024-09-13T01:08:07.469Z
+date: 2024-09-13T17:21:18.998Z
+updated: 2024-09-18T17:20:37.134Z
 tags:
   - desktop
 categories:
@@ -37,13 +37,6 @@ Close
 
  Download the free [Shazam Mac app](https://apps.apple.com/app/id897118787) to access additional features. With it, you can view time-synced lyrics, change the sound input, enable the always-listening Auto Shazam mode, share identified songs via Messages, open them on Spotify, Deezer, YouTube Music, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to View Your Shazam History
 
  Your Shazam history is under the Music Recognition menu. Click the Shazam icon in the Control Center or menu bar and select any song to learn more about it on the Shazam website.
@@ -63,25 +56,19 @@ Close
 ![Siri on Mac using Music Recognition to Shazam a song.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sinoma-14-4-siri-assistant-music-recognition-shazam-song-results.png) 
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A successful match will produce a notification revealing the identified tune. Of course, you'll need to ensure [Siri is enabled on your Mac](https://ai-topics.techidaily.com/new-what-are-ai-tools-for-2024/) to do this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Launch Music Recognition via a Keyboard Shortcut
@@ -94,13 +81,6 @@ Close
 
 ![Details view in Shortcuts for Mac with the Add Keyboard Shortcut button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-add-keyboard-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don't see the Shazam shortcut? Click "Gallery" in the sidebar, search for "Shazam," choose "Shazam shortcut," and hit the "Add Shortcut" button.
 
  After closing the Shortcuts app, you can identify music anytime you like by whatever keyboard shortcut you created, even if Shortcuts isn't running. I prefer the Shazam shortcut because it shows a menu where I can decide whether to play the song on Apple Music, add it to my library, or copy the song title to the clipboard.
@@ -108,20 +88,13 @@ Close
 ![The Shazam shortcut in macOS displaying music recognition menu, with the Copy to Clipboard option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shazam-shortcut-results-menu-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  More Ways to Identify Music
 
@@ -144,17 +117,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-recover-elusive-facebook-watch-video-icon/"><u>[New] 2024 Approved Recover Elusive Facebook Watch Video Icon</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-roundup-best-budget-friendly-virtual-calls/"><u>[New] 2024 Approved The Ultimate Roundup Best Budget-Friendly Virtual Calls</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-comprehensive-directory-for-got-ringtones-download/"><u>[New] The Comprehensive Directory for GoT Ringtones Download</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-solutions-advanced-mobile-recording-on-android/"><u>[Updated] Innovative Solutions Advanced Mobile Recording on Android</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-your-site-facebook-live-integration-guide/"><u>[Updated] Streamlining Your Site Facebook LIVE Integration Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audience-enchantment-setting-tips-for-streams/"><u>In 2024, Audience Enchantment Setting Tips for Streams</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-zero-cost-video-watermarking-top-5-software-choices/"><u>New Zero-Cost Video Watermarking Top 5 Software Choices</u></a></li>
-<li><a href="https://techidaily.com/resolving-chatgpt-internal-server-issues-and-handling-frequent-gpt-3-mishaps/"><u>Resolving ChatGPT Internal Server Issues & Handling Frequent GPT-3 Mishaps</u></a></li>
-<li><a href="https://techidaily.com/resolving-the-access-denied-code-1020-issue-in-chatgpt/"><u>Resolving the 'Access Denied - Code 1020' Issue in ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/revived-limewire-aims-to-transform-music-sales-with-innovative-nft-offerings/"><u>Revived LimeWire Aims to Transform Music Sales with Innovative NFT Offerings</u></a></li>
-<li><a href="https://techidaily.com/smart-savings-with-ai-how-mixing-no-cost-programs-can-meet-your-needs/"><u>Smart Savings with AI: How Mixing No-Cost Programs Can Meet Your Needs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-cut-to-clip-chaos-achieving-smoothness-with-inshot/"><u>[New] From Cut-to-Clip Chaos Achieving Smoothness with Inshot</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-a-world-of-live-content-roku-and-facebook-integration/"><u>[New] In 2024, Unveiling a World of Live Content Roku and Facebook Integration</u></a></li>
+<li><a href="https://techidaily.com/adapt-chatgpt-to-mirror-your-unique-voice-in-written-communication/"><u>Adapt ChatGPT to Mirror Your Unique Voice in Written Communication</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-60-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo 60 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-c33-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme C33 2023 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-revisiting-the-golden-age-of-cinema-video-tutorials/"><u>In 2024, Revisiting the Golden Age of Cinema Video Tutorials</u></a></li>
+<li><a href="https://techidaily.com/prazise-dokumentverarbeitung-fur-die-gesundheitsbranche-erfolgreiche-fallstudien-mit-abbyy/"><u>Präzise Dokumentverarbeitung Für Die Gesundheitsbranche: Erfolgreiche Fallstudien Mit ABBYY</u></a></li>
+<li><a href="https://techidaily.com/revolutionizing-digital-intake-discover-why-abbyy-dominated-intelligent-docs-in-202n-according-to-isg/"><u>Revolutionizing Digital Intake: Discover Why ABBYY Dominated Intelligent Docs in 202N, According to ISG</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-your-account-on-the-ai-enhanced-bing-platform/"><u>Step-by-Step Guide: Activating Your Account on the AI Enhanced Bing Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolutionary-leap-how-gpt4all-works/"><u>The Evolutionary Leap: How GPT4All Works</u></a></li>
+<li><a href="https://techidaily.com/the-latest-advancebs-in-artificial-intelligence-and-their-impact/"><u>The Latest Advancebs in Artificial Intelligence and Their Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-future-exploring-abbyys-global-identification-solutions-comprehensive-analysis-of-emerging-patterns/"><u>Unveiling the Future: Exploring ABBYY's Global Identification Solutions - Comprehensive Analysis of Emerging Patterns</u></a></li>
 </ul></div>
 

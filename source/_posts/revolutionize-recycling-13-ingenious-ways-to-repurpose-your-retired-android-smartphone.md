@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone"
-date: 2024-09-12T01:07:09.091Z
-updated: 2024-09-13T01:07:09.091Z
+date: 2024-09-12T17:05:32.611Z
+updated: 2024-09-18T18:55:56.323Z
 tags:
   - mobile
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  If you have an old Android phone or two lying around your house collecting dust, this article is for you. Phones are versatile devices that can do just about anything, so there's no need to buy specialized gadgets when an old phone does the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Repurpose It as a Storage Device 
 
  One of the most versatile ways to use a phone is as a storage device in place of an external drive. Sure, USB sticks are small and inexpensive, and [external SSDs](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) can reach insanely fast transfer speeds, but they also cost money to buy, whereas you already have an old phone. Plus, they don't usually support Bluetooth or Wi-Fi for wireless transfers or screens and speakers to show and play your stored media.
@@ -47,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  An old Android phone that supports Google Assistant is the perfect smart home speaker; in a way, it's even better because you can use it unplugged. You just have to enable all of [Assistant's hands-free features](https://extra-guidance.techidaily.com/new-instagram-artists-and-intellectual-property-rights/) so that you can use it even when the phone is locked, and you're all set.
 
  You could permanently connect it to a Bluetooth speaker if you want it to be as loud as a real smart speaker, but it's not necessary. Plus, you'd have to keep both devices plugged in or charged, so it's too much of a bother if you ask me.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3  Give It to Your Kid 
 
@@ -67,21 +53,28 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  Granted, you can do this with your main phone as well, but I like to immerse myself when I watch content. It's better to have a dedicated phone remote that isn't logged in to anything, especially with an easily distracted family.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Use It as a Mini Car Multimedia and Dash Cam 
 
  I'm all in favor of retrofitting touchscreens in old cars to get modern features like Android Auto, Google Maps, and Spotify. However, if you don't want to spend money on a car stereo and spend several hours figuring out the wiring, just hook up an old phone to the stereo. The phone can [double as a dash cam](https://remote-screen-capture.techidaily.com/in-2024-live-stream-to-screen-seamlessly-reviewed/), so if it's plugged in, it can act as a permanent multimedia solution for your car that doesn't rely on your main phone.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Strap It to Your Bicycle 
@@ -96,16 +89,22 @@ Joe Fedewa / How-To Geek
 
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8  Use It as a PC Webcam 
 
 ![Woman in a meeting on a laptop using a phone as a webcam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ditch-the-webcam-i-use-my-android-phone-camera-to-look-better-on-video-calls.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/view-over-businesslady-shoulder-seated-workplace-1704165919) / Shutterstock
 
@@ -113,33 +112,20 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
  Your old phone already has everything that you need in a security camera—a solid camera, microphone, Wi-Fi, and storage. Smart security cameras are expensive and arguably [more prone to hacking](https://remote-screen-capture.techidaily.com/updated-webcam-ingenuity-for-productivity-boost/) than smartphones, though you shouldn't fully trust a phone running an outdated version of Android, either, so exercise caution. Follow our guide to [turn your old phone into a security camera](https://facebook-video-content.techidaily.com/updated-2024-approved-top-score-facebooks-1-10-music-video-showcase/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10  Use It as a Cheap Handheld 
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -147,35 +133,28 @@ Jason Montoya / How-To Geek
 
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11  Use It as a PC Media or DAW Controller 
 
  The [Unified Remote](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.Relmtech.Remote) app allows you to control your PC from your phone. One useful function is that you can use the phone as a general media remote. It essentially gives you media keys if you don't have dedicated media keys on your keyboard. There used to be a more advanced app called PCVolumeControl, but the project seems to have been abandoned.
 
  If you're a music producer, you can leave an old phone permanently on a phone holder to use it as a DAW controller. The touch screen makes for a perfect DAW control surface, as demonstrated in the following video:
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 12  Transform It Into a Picture Frame or Calendar 
 
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 13  Sell It 
 
@@ -198,19 +177,18 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-art-of-warmth-in-winter-top-5-video-backdrop-choices/"><u>[New] 2024 Approved The Art of Warmth in Winter Top 5 Video Backdrop Choices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-strategies-for-bulk-character-illusions-in-tiktok-content-for-2024/"><u>[New] Strategies for Bulk Character Illusions in TikTok Content for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/commence-your-filmmaking-adventure-with-xps-toolkit-for-2024/"><u>Commence Your Filmmaking Adventure with XP's Toolkit for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/countdown-chronicles-the-best-mobile-clocks-for-weddings-for-2024/"><u>Countdown Chronicles The Best Mobile Clocks For Weddings for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-infinix-gt-10-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Infinix GT 10 Pro? </u></a></li>
-<li><a href="https://extra-tips.techidaily.com/jumpstart-your-marketing-game-with-these-top-reddit-insights/"><u>Jumpstart Your Marketing Game with These Top Reddit Insights</u></a></li>
-<li><a href="https://techidaily.com/microsoft-launches-innovative-pc-search-with-ai-recall-function/"><u>Microsoft Launches Innovative PC Search with AI Recall Function</u></a></li>
-<li><a href="https://techidaily.com/overcoming-windows-update-hurdle-fixing-the-0x80070643-issue-efficiently/"><u>Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently</u></a></li>
-<li><a href="https://techidaily.com/quickly-lock-your-windows-desktop-via-command-prompt-on-a-windows-11-machine/"><u>Quickly Lock Your Window's Desktop via Command Prompt on a Windows 11 Machine</u></a></li>
-<li><a href="https://techidaily.com/reviving-retro-windows-audio-a-step-by-step-guide-to-restoring-classic-system-sounds-in-windows-11/"><u>Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/skip-the-emulation-hurdle-with-direct-purchases-from-leading-linux-compatible-game-vendors/"><u>Skip the Emulation Hurdle with Direct Purchases From Leading Linux-Compatible Game Vendors</u></a></li>
-<li><a href="https://techidaily.com/the-essential-reasons-why-you-need-a-backup-bootable-linux-usb/"><u>The Essential Reasons Why You Need a Backup Bootable Linux USB</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-strategy-for-fusing-audio-with-video-content-updated/"><u>Updated 2024 Approved The Ultimate Strategy for Fusing Audio with Video Content (Updated )</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>[New] 2024 Approved Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-vidcapture-fb-videos-on-the-go/"><u>[New] VidCapture Fb Videos on the Go</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2023s-ultimate-list-of-affordable-live-stream-software-and-apps/"><u>[Updated] 2023’S Ultimate List of Affordable Live Stream Software and Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-impressive-chatgpt-plugins-the-top-9-picks-to-enhance-your-experience/"><u>Discover Impressive ChatGPT Plugins: The Top 9 Picks to Enhance Your Experience</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-benefits-of-a-cookiebot-enabled-website/"><u>Harnessing the Benefits of a Cookiebot-Enabled Website</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-7-plus-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 7 Plus Screen | Stellar</u></a></li>
+<li><a href="https://techidaily.com/intelligence-driven-document-processing-elevating-your-companys-service-offerings/"><u>Intelligence-Driven Document Processing: Elevating Your Company's Service Offerings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphone-vs-android-face-off-unveiling-the-superior-mobile-os/"><u>IPhone Vs. Android Face-Off: Unveiling the Superior Mobile OS</u></a></li>
+<li><a href="https://techidaily.com/is-upgrading-to-ios-14-a-smart-move-pros-and-cons-explored/"><u>Is Upgrading to iOS 14 a Smart Move? – Pros and Cons Explored</u></a></li>
+<li><a href="https://techidaily.com/leveraging-cookiebots-power-for-superior-web-presence/"><u>Leveraging Cookiebot's Power for Superior Web Presence</u></a></li>
+<li><a href="https://techidaily.com/maximizing-efficiency-in-invoice-management-an-insightful-webinar-on-leveraging-ai-for-ap-systems/"><u>Maximizing Efficiency in Invoice Management: An Insightful Webinar on Leveraging AI for AP Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-tvs-not-to-miss-factors-in-signing-up/"><u>YouTube TV's Not-to-Miss Factors in Signing Up</u></a></li>
 </ul></div>
 

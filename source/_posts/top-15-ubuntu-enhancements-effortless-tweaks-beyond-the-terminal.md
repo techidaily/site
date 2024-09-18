@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2024-09-12T01:09:42.128Z
-updated: 2024-09-13T01:09:42.128Z
+date: 2024-09-11T17:58:03.931Z
+updated: 2024-09-18T17:15:41.346Z
 tags:
   - desktop
 categories:
@@ -10,19 +10,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 ---
 
 ## Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
  I'll be using the [Ubuntu 24.04 LTS](https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-n3-flip-by-fonelab-android-recover-data/) release in this showcase. However, the tips and steps mentioned here should also work on previous releases. That said, with time, the older versions might lose support for some of the stuff discussed here. Ubuntu 24.04 will be supported for five years and thus should still be compatible with all these tweaks and features till April 2029.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use These Six GNOME Extensions
 
  Ubuntu uses a modified version of the GNOME desktop environment. As such, the simplest way to change the Ubuntu experience is by installing a few GNOME extensions to add more features and customize the default workflow.
@@ -48,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  To do this, first install the Extensions Manager app from the App Store (formerly Ubuntu Software). The app is available as a DEB package (not Snap).
 
 ![Install Extension Manager from Ubuntu App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-install-extension-manager-from-ubuntu-app-store.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once installed, you will find the app in the Ubuntu App drawer. Open it and the following window should appear.
 
@@ -89,23 +62,9 @@ Close
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
  Here's a guide to using [KDE Connect on Windows](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/). You can expect the same features and workflow with GSConnect on Ubuntu as well.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make These Three GNOME Tweaks
 
@@ -113,23 +72,9 @@ Close
 
 ![Install GNOME Tweaks from App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-install-gnome-tweaks-from-app-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  GNOME Tweaks gives you control over the appearance, sound, and other aspects of the operating system. I'd encourage you to _tweak around_ with the various settings. If you want some directions, first head over to Startup Applications. It allows you to select apps to auto-start on your system as soon as you turn on your Ubuntu desktop.
 
 ![Set Startup Applications with GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/11-set-startup-applications-with-gnome-tweaks.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, head over to the "Windows" section and make these two tweaks:
 
@@ -137,6 +82,13 @@ Close
 2. Enable "Center New Window" under Click Actions. This will auto-position all newly opened windows in the center of the screen.
 
 ![Set Window options in GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/12-set-window-options-in-gnome-tweaks.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Finally, Change These Four Settings
 
@@ -155,16 +107,16 @@ Close
 ![Enable Sound Overamplication on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/15-enable-sound-overamplication-on-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
+<span id="1982508">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
@@ -190,17 +142,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-spectrum-a-creatives-resource/"><u>[New] Exploring the Spectrum A Creative's Resource</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-content-contenders-compare-and-contrast-vimeo-youtube-plus-dailymotion/"><u>[New] In 2024, Digital Content Contenders Compare & Contrast Vimeo, YouTube + Dailymotion</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-capture-without-capsule-the-no-limit-story-saving-app/"><u>2024 Approved Capture Without Capsule The No-Limit Story Saving App</u></a></li>
-<li><a href="https://techidaily.com/court-verdict-impacts-cryptocurrency-holders-could-your-ethereum-lose-its-legal-status/"><u>Court Verdict Impacts Cryptocurrency Holders: Could Your Ethereum Lose Its Legal Status?</u></a></li>
-<li><a href="https://techidaily.com/crafting-customized-chatgpt-avatars-tailored-for-any-scenario/"><u>Crafting Customized ChatGPT Avatars Tailored for Any Scenario</u></a></li>
-<li><a href="https://techidaily.com/engage-with-documents-adobes-revolutionary-ai-enables-conversational-interaction-with-pdfs/"><u>Engage with Documents: Adobe's Revolutionary AI Enables Conversational Interaction with PDFs</u></a></li>
-<li><a href="https://techidaily.com/essay-writing-with-ai-the-pros-and-cons-of-utilizing-chatgpt/"><u>Essay Writing with AI: The Pros and Cons of Utilizing ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/essential-insights-top-7-facts-on-plug-in-hybrid-cars/"><u>Essential Insights: Top 7 Facts on Plug-In Hybrid Cars</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeted-timelines-a-complete-guide-to-video-backups/"><u>In 2024, Tweeted Timelines A Complete Guide to Video Backups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/premium-cryptographic-inquiry-strategies-with-ai/"><u>Premium Cryptographic Inquiry Strategies with AI</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-editing-simplified-the-best-hacks-for-new-creators/"><u>Video Editing Simplified The Best Hacks for New Creators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-harvest-hits-the-next-level-of-virtual-farms/"><u>[New] Harvest Hits The Next Level of Virtual Farms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rise-to-the-top-mobile-youtubing-without-million-subscriber-status/"><u>[New] Rise to the Top Mobile YouTubing Without Million-Subscriber Status</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-around-the-clock-vision-versus-multiplanar-exposures/"><u>2024 Approved Around-the-Clock Vision Versus Multiplanar Exposures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leverage-tubebuddy-for-top-tier-youtube-management/"><u>2024 Approved Leverage TubeBuddy for Top-Tier YouTube Management</u></a></li>
+<li><a href="https://techidaily.com/comprehensive-analysis-of-the-chipolo-one-nearly-flawless-performance-in-bluetooth-locating-technology/"><u>Comprehensive Analysis of the Chipolo One: Nearly Flawless Performance in Bluetooth Locating Technology</u></a></li>
+<li><a href="https://techidaily.com/decoding-the-distinctions-a-side-by-side-analysis-of-pixel-9-9-pro-and-9-pro-xl/"><u>Decoding the Distinctions: A Side-by-Side Analysis of Pixel ^9, ^9 Pro & ^9 Pro XL</u></a></li>
+<li><a href="https://techidaily.com/discovering-the-value-of-sleep-monitoring-after-initial-doubts/"><u>Discovering the Value of Sleep Monitoring After Initial Doubts</u></a></li>
+<li><a href="https://techidaily.com/easy-guide-mastering-cropping-techniques-in-ios-devices/"><u>Easy Guide: Mastering Cropping Techniques in iOS Devices</u></a></li>
+<li><a href="https://techidaily.com/expanding-horizons-t-mobiles-continuous-enhancement-of-its-fiber-optic-broadband-service/"><u>Expanding Horizons: T-Mobile's Continuous Enhancement of Its Fiber Optic Broadband Service</u></a></li>
+<li><a href="https://techidaily.com/exploring-oneplus-journey-a-detailed-look-at-their-successful-evolution/"><u>Exploring OnePlus' Journey: A Detailed Look at Their Successful Evolution</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-90-lite-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Lite Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c53-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C53 To Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-multilingual-typing-adjusting-keyboards-on-windows-11-systems/"><u>Mastering Multilingual Typing: Adjusting Keyboards on Windows 11 Systems</u></a></li>
 </ul></div>
 

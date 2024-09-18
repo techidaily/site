@@ -1,7 +1,7 @@
 ---
 title: "Easy Tutorial: Adjusting Windows 10 Icon Dimensions for Better Display"
-date: 2024-09-12T01:09:09.236Z
-updated: 2024-09-13T01:09:09.236Z
+date: 2024-09-12T17:55:35.883Z
+updated: 2024-09-18T16:39:45.639Z
 tags:
   - desktop
 categories:
@@ -33,27 +33,7 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 ![Hover your cursor over 'View' and choose an icon size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Hover-your-cursor-over-View-and-choose-an-icon-size..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you find that the three available options aren't exactly what you're looking for, you can place your cursor anywhere on the desktop, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or reduce the size of the desktop icons, respectively. This adjusts the size in smaller increments, letting you get the size closer to what you want.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Resize Taskbar Icons
 
@@ -63,42 +43,29 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 ![Right-click the taskbar and choose Taskbar Settings from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Right-click-the-taskbar-and-choose-Taskbar-Settings-from-the-context-menu..png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Taskbar Settings window will open. Near the top of the list of options, toggle the slider to the "On" position under the "Use Small Taskbar Buttons" option.
 
 ![Click the toggle switch under 'Use Small Taskbar Buttons.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-use-small-taskbar-buttons.png) 
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will reduce the size of the taskbar icons.
 
 ![Small taskbar icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Small-taskbar-icons..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To change the icons back to the default size, toggle the slider back to the "Off" position.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Resize File Explorer Icons
 
@@ -113,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![Click the 'View' button near the top of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-click-view.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the "Layout" group, choose the icon size that you want. The current setting is highlighted in blue.
@@ -142,16 +109,18 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-seamless-srt-to-sub-a-comprehensive-guide-for-2024/"><u>[New] Seamless SRT to SUB A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-key-sites-for-innovative-font-design/"><u>[Updated] Key Sites for Innovative Font Design</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-recovering-individual-snap-secrets/"><u>2024 Approved Recovering Individual Snap Secrets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-legal-music-archives-top-10-websites-for-game-playlists/"><u>In 2024, Legal Music Archives Top 10 Websites for Game Playlists</u></a></li>
-<li><a href="https://techidaily.com/newly-launched-arc-browser-compatible-with-microsofts-windows-11-operating-system/"><u>Newly Launched: Arc Browser Compatible with Microsoft's Windows 11 Operating System</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-s24-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy S24 Black and White | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solving-chromes-security-alert-during-file-download-a-step-by-step-guide/"><u>Solving Chrome's Security Alert During File Download: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-instructions-for-disabling-windows-smartscreen-protection-on-pcs-with-os-11-and-8/"><u>Step-by-Step Instructions for Disabling Windows SmartScreen Protection on PCs with OS 11 & 8</u></a></li>
-<li><a href="https://techidaily.com/ubuntu-user-guide-personalizing-your-folders-with-unique-icons/"><u>Ubuntu User Guide: Personalizing Your Folders with Unique Icons</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-remove-audio-from-mp4-video/"><u>Updated How to Remove Audio From MP4 Video</u></a></li>
-<li><a href="https://techidaily.com/upgrade-your-workstation-with-system76s-serval-ws-laptop-featuring-a-cutting-edge-14gen-intel-cpu/"><u>Upgrade Your Workstation with System76's Serval WS Laptop Featuring a Cutting-Edge 14Gen Intel CPU</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android-for-2024/"><u>[Updated] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-h80i-v2-latest-driver-installation-guide-and-download-links/"><u>Corsair H80i v2: Latest Driver Installation Guide and Download Links</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-benefits-of-up-to-the-minute-info-with-chatgpt-for-everyone/"><u>Exploring the Benefits of Up-to-the-Minute Info with ChatGPT for Everyone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-locate-the-lurking-lost-disk/"><u>How to Locate the Lurking Lost Disk</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hulus-partners-beyond-amazon-firetv/"><u>Hulu's Partners Beyond Amazon FireTV</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10c-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 10C Phone that is Locked?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/resolving-iphones-software-glitches-post-ios-n-update-ensuring-smooth-app-installation-and-updates/"><u>Resolving iPhones Software Glitches Post-iOS N Update: Ensuring Smooth App Installation & Updates</u></a></li>
+<li><a href="https://techidaily.com/restore-your-online-connection-essential-guide-to-overcoming-wi-fi-problems-without-internet-on-windows-11/"><u>Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/spelling-assistance-now-available-on-windows/"><u>Spelling Assistance Now Available on Windows 지오피의 노트북 앱</u></a></li>
+<li><a href="https://techidaily.com/supporting-intel-processors-exploring-macos-sequoia-functionalities/"><u>Supporting Intel Processors: Exploring macOS Sequoia Functionalities</u></a></li>
+<li><a href="https://techidaily.com/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/"><u>The Essential Tutorial: Convert Strings with Base64 in the Linux Environment</u></a></li>
+<li><a href="https://techidaily.com/two-methods-for-formatting-drives-in-ubuntu-a-comprehensive-guide/"><u>Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-lenovo-thinkbook-13x-gen-4-a-professionals-dream-in-a-lightweight-package/"><u>Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package</u></a></li>
 </ul></div>
 

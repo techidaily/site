@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB"
-date: 2024-09-12T01:11:17.377Z
-updated: 2024-09-13T01:11:17.377Z
+date: 2024-09-12T18:46:18.721Z
+updated: 2024-09-18T19:07:41.917Z
 tags:
   - deals
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * [How to Copy Files by Dragging and Dropping](https://ai-driven-video-production.techidaily.com/join-the-ranks-top-5-free-online-video-joiners-you-need-to-try/)
 * [How to Copy Files Using Copy and Paste](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [What to Do If You Run out of Space on the Flash Drive](https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-bootloader-easily-by-drfone-android/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Our example USB drive is has been assigned the letter K.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/usb-drive.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the USB drive doesn't show up in your "Devices And Drives" list, you'll have to perform some in-depth sleuthing with [our guide to finding missing USB drives](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/) to figure out what's going on.
 
 ##  Find the Files You Want to Copy
@@ -70,31 +56,31 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  What happens next depends on how you'd like to copy the files. There are several ways to do it, but here are the two most common methods.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Copy Files by Dragging and Dropping
 
  Using your mouse cursor, select the file (or files) you would like to copy, then click and hold the mouse button to drag the files to the USB thumb drive window.
 
 ![Dragging files between File Explorer windows performs a copy operation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/moving-files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When an icon representing the file or files appears over the destination window, release the mouse button, and the files will be copied to that location.
 
 ![The files have been successfully moved to the USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moved.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the future, you can also drag files directly onto the USB flash drive icon in "This PC" to copy them to that location.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Copy Files Using Copy and Paste
 
@@ -102,40 +88,20 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Select the file you want to move, then right-click and click "Copy" in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/copy-files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Place your mouse cursor over a section of blank space within the USB thumb drive window and right-click again. In the menu that pops up, select "Paste."
 
 ![Right-click empty space in the destination drive and select "Paste."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/select-paste.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The files you "copied" to the Clipboard earlier will be copied onto the USB flash drive.
 
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
 
@@ -146,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![An insufficient space message in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_not_enough_space.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are three basic solutions. The first is to explore the contents of your USB flash drive and see if it already contains data that you can delete to free up space. Be careful that you don't delete anything that you haven't already backed up somewhere else.
@@ -173,18 +139,17 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-stars-brief-moment-analysis-for-2024/"><u>[Updated] Star's Brief Moment Analysis for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>2024 Approved 7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-c53-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-embed-a-youtube-playlist-on-a-website/"><u>How to Embed A YouTube Playlist On a Website</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-the-youtube-creator-summit-a-getaway-for-top-talent/"><u>In 2024, The YouTube Creator Summit - A Getaway for Top Talent</u></a></li>
-<li><a href="https://techidaily.com/make-the-most-of-prime-day-grab-discounted-iphone-games-and-dive-in-today/"><u>Make the Most of Prime Day: Grab Discounted iPhone Games & Dive In Today!</u></a></li>
-<li><a href="https://techidaily.com/meet-the-latest-google-pixel-section-1-problem-advanced-question-on-tissue-necrosis/"><u>Meet the Latest Google Pixel # Section 1: Problem - Advanced Question on Tissue Necrosis</u></a></li>
-<li><a href="https://techidaily.com/revolutionize-recycling-13-ingenious-ways-to-repurpose-your-retired-android-smartphone/"><u>Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone</u></a></li>
-<li><a href="https://techidaily.com/samsung-unveils-the-priciest-addition-the-galaxy-watch-ultra/"><u>Samsung Unveils the Priciest Addition: The Galaxy Watch Ultra</u></a></li>
-<li><a href="https://techidaily.com/seamless-integration-strategies-for-apple-and-android-device-users/"><u>Seamless Integration Strategies for Apple and Android Device Users</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/seamless-system-sharing-quick-and-effective-techniques-for-transferring-files/"><u>Seamless System Sharing Quick and Effective Techniques for Transferring Files</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-lenovo-screen-software-complete-guide-with-downloads/"><u>Update Your Lenovo Screen Software: Complete Guide with Downloads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-viral-visuals-stories-of-success/"><u>[New] 2024 Approved Viral Visuals Stories of Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-game-changing-growl-techniques-in-free-fire/"><u>[Updated] 2024 Approved Game-Changing Growl Techniques in Free Fire</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-holographic-horizons-unveiling-new-dimensions-with-sci-fi-classics/"><u>[Updated] 2024 Approved Holographic Horizons Unveiling New Dimensions with Sci-Fi Classics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>[Updated] How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-essentials-of-simple-straightforward-hdr-techniques-for-2024/"><u>[Updated] The Essentials of Simple, Straightforward HDR Techniques for 2024</u></a></li>
+<li><a href="https://techidaily.com/1723808070986-disable-windows-11-updates-easily/"><u>Disable Windows 11 Updates Easily</u></a></li>
+<li><a href="https://techidaily.com/1723808353906-how-to-check-ram-on-windows-quickly-and-easily/"><u>How to Check RAM on Windows | Quickly & Easily.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-v30-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo V30 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/steps-to-set-up-the-zilt-addon-collection-on-kodi-version-190-leia/"><u>Steps to Set Up the Zilt Addon Collection on Kodi Version 19.0 Leia</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-zte-nubia-flip-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your ZTE Nubia Flip 5G Device</u></a></li>
+<li><a href="https://techidaily.com/visual-distortions-gone-effortless-methods-for-clearer-tv-viewing-experience/"><u>Visual Distortions Gone: Effortless Methods for Clearer TV Viewing Experience</u></a></li>
+<li><a href="https://techidaily.com/wireless-wonder-how-to-link-an-epson-printer-to-wifi-securely-and-successfully/"><u>Wireless Wonder: How to Link an Epson Printer to WiFi Securely and Successfully</u></a></li>
 </ul></div>
 

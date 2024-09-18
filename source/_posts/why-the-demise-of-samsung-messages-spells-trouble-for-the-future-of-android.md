@@ -1,7 +1,7 @@
 ---
 title: Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-date: 2024-09-12T01:07:19.374Z
-updated: 2024-09-13T01:07:19.374Z
+date: 2024-09-15T18:39:53.912Z
+updated: 2024-09-18T17:08:16.997Z
 tags:
   - mobile
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,23 +20,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Samsung Messages has long been the text messaging app that comes on Samsung phones. Now, it's gone in favor of Google Messages. While Google Messages may be the better app, that doesn't mean this change is a good thing. In many ways, it's a step backward.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  RCS Was Supposed to Replace SMS, Not Become Another Walled Garden
 
 ![Samsung Messages recommending the user of Google Messages instead.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060161.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the surface, Google Messages is a texting app like any other. On the backend, though, it's not an online instant messaging app like WhatsApp or Signal. [It's built on RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), a protocol meant to serve as a replacement for SMS.
 
@@ -57,13 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There is now only one RCS app on Android: Google Messages. Samsung Messages used to have RCS support, but that feature was retired, and [now the app as a whole is following suit](https://youtube-tips.techidaily.com/ow-to-keep-unwanted-content-away-from-your-computer-and-phone/). There are absolutely valid reasons to [prefer Google Messages over Samsung Messages](https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/). The sad part is, for all practical purposes, using RCS on Android now means everyone has to consolidate around the same app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google Messages Feels, First and Foremost, Like a Google App
 
  Google Messages looks like a Google product. Google branding is present at the top, above your chats, whenever you tap the app icon. When you open settings, you find Google account options first and have to dig deeper to configure the actual app. This leads to the feeling that you're using a Google web service rather than a native app on your phone.
@@ -75,10 +47,10 @@ Close
  Most Android phones now come with Google Messages installed. It doesn't matter if your phone comes from Samsung, Motorola, OnePlus, Sony, or HTC. The text messaging app that once was simply part of the infrastructure of a phone, much like a dialer app, is now yet another Google app joining the likes of Gmail, Google Calendar, Google Maps, and the Play Store itself.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Samsung Messages Integrates With Other Samsung Apps
@@ -102,10 +74,10 @@ Close
  I used to prefer for phones to ship with [stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/). Now, I actually appreciate the distinctions Samsung has made with its devices. Samsung's One UI interface is not the garish affair that the company's former TouchWiz interface once was, and there is a lot of functionality baked into Samsung's system that I miss when using other Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There's Now Less Competition Pushing Google to Innovate
@@ -145,14 +117,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-direct-obs-video-feed-for-instagram-for-2024/"><u>[Updated] Direct OBS Video Feed for Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-lanes-migrating-iphone-media-to-a-desktop/"><u>2024 Approved Fast Lanes Migrating iPhone Media to a Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-dota-2-gameplay-by-resolving-fps-drop-problems-on-windows-11-and-10/"><u>Boost Your Dota 2 Gameplay by Resolving FPS Drop Problems on Windows 11 and 10</u></a></li>
-<li><a href="https://techidaily.com/looking-for-an-earbud-charging-case-with-built-in-volume-control/"><u>Looking for an Earbud Charging Case with Built-In Volume Control</u></a></li>
-<li><a href="https://techidaily.com/mastering-mobile-desktop-experience-seamlessly-organize-your-apps-as-on-a-pc/"><u>Mastering Mobile Desktop Experience: Seamlessly Organize Your Apps as on a PC</u></a></li>
-<li><a href="https://techidaily.com/navigating-wet-conditions-with-your-apple-watch-uncover-its-water-resistant-secrets/"><u>Navigating Wet Conditions with Your Apple Watch: Uncover Its Water-Resistant Secrets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/propel-your-creativity-mastering-inshot-for-device-edits-for-2024/"><u>Propel Your Creativity Mastering Inshot for Device Edits for 2024</u></a></li>
-<li><a href="https://techidaily.com/protect-your-digital-memories-avoid-whatsapp-data-loss-disaster/"><u>Protect Your Digital Memories - Avoid WhatsApp Data Loss Disaster</u></a></li>
-<li><a href="https://ai-video.techidaily.com/revolutionizing-ai-computing-gigabytes-all-in-one-solutions-with-top-tier-workstations-amd-and-intel-graphics-speedy-ssds-reliable-psus-and-specialized-soft103/"><u>Revolutionizing AI Computing: Gigabyte's All-in-One Solutions with Top-Tier Workstations, AMD & Intel Graphics, Speedy SSDs, Reliable PSUs, and Specialized Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-movavi-plus-review-a-detailed-look-at-its-version/"><u>[New] 2024 Approved Movavi Plus Review – A Detailed Look at Its Version</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimize-your-workday-with-io-screen-capture-expertise/"><u>[New] Optimize Your Workday with IO Screen Capture Expertise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-gameplay-videos-the-ultimate-collection-of-freefire-tags-for-2024/"><u>[Updated] Elevate Your Gameplay Videos The Ultimate Collection of FreeFire Tags for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-screencast-mastery-guide-essential-tips-unveiled/"><u>[Updated] In 2024, Screencast Mastery Guide Essential Tips Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>[Updated] Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-gt-5-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme GT 5 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-narzo-60-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme Narzo 60 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/enhanced-user-experience-with-customized-content-powered-by-cookiebot-technology/"><u>Enhanced User Experience with Customized Content: Powered by Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/enhancing-machine-intelligence-the-synergy-of-abbyy-and-uipath-in-advancing-automation/"><u>Enhancing Machine Intelligence: The Synergy of ABBYY & UiPath in Advancing Automation</u></a></li>
+<li><a href="https://techidaily.com/evolutionary-trends-shaping-tomorrows-economy-banks-and-insurers/"><u>Evolutionary Trends Shaping Tomorrow's Economy: Banks & Insurers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-11-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 11</u></a></li>
 </ul></div>
 

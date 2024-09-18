@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-09-12T01:08:53.677Z
-updated: 2024-09-13T01:08:53.677Z
+date: 2024-09-17T16:42:21.402Z
+updated: 2024-09-18T17:50:10.112Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ## Decoding X: Tracing the Origins of Linux's Iconic Symbol
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Before the X, There Was CS](https://facebook-clips.techidaily.com/new-2024-approved-facebooks-viral-video-hits-compilation/)
@@ -26,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Many operating systems have X in their name to pay homage to Unix.
@@ -40,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -70,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
 
@@ -100,16 +79,10 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -142,19 +115,6 @@ Dave McKay/How-To Geek
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What’s in a Name?
 
  If it wasn’t for Ari Lemmke we’d be living in a world of Freax, with Arch Freax, Debian Freax, and all the other Freax distributions. And we’d think nothing of it.
@@ -176,16 +136,16 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exceptional-windows-calls-8-highest-rated/"><u>[Updated] 2024 Approved Exceptional Windows Calls 8 Highest Rated</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-dive-into-the-pool-of-perfect-photos-on-pexels/"><u>2024 Approved Dive Into the Pool of Perfect Photos on Pexels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/auditcast-inspection-for-2024/"><u>AuditCast Inspection for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy A34 5G Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-c12-plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia C12 Plus Activity | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/levelplays-combat-air-ca4-cpu-cooler-unrivaled-performance-meets-near-silent-functionality/"><u>Levelplay's Combat Air CA4 CPU Cooler: Unrivaled Performance Meets Near-Silent Functionality</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-activating-family-safety-features-in-windows-11/"><u>Step-by-Step Guide: Activating Family Safety Features in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-installing-microsofts-copilot-ai-assistant-on-macos/"><u>Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS</u></a></li>
-<li><a href="https://techidaily.com/the-surprising-expenses-behind-your-linux-operating-system/"><u>The Surprising Expenses Behind Your Linux Operating System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-install-secure-the-newest-amd-smbus-drivers-in-a-flash/"><u>Update or Install? Secure the Newest AMD SMBus Drivers in a Flash!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/windows-exclusive-silence-extraction-software-reviews-for-2024/"><u>Windows-Exclusive Silence Extraction Software Reviews for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-effortless-multichannel-publishing-tweets-plus-tumbles/"><u>[Updated] Effortless Multichannel Publishing Tweets + Tumbles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-color-correctors-handbook/"><u>[Updated] In 2024, The Ultimate Color Corrector's Handbook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic-5-lite-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic 5 Lite Unlock Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x50-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X50 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/concealing-the-desktop-edge-a-guide-to-disabling-windows-11s-taskbar/"><u>Concealing the Desktop Edge: A Guide to Disabling Windows 11'S Taskbar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-compelling-podcast-cliffhangers/"><u>Crafting Compelling Podcast Cliffhangers</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-getting-started-with-your-new-windows-laptop-a-guide-for-novices/"><u>Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices</u></a></li>
+<li><a href="https://techidaily.com/efficiently-deleting-files-and-folders-using-powershell-commands/"><u>Efficiently Deleting Files & Folders Using PowerShell Commands</u></a></li>
+<li><a href="https://techidaily.com/enhanced-user-interface-the-revamped-windows-11-photos-application/"><u>Enhanced User Interface: The Revamped Windows 11 Photos Application</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Plus Properly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mirthful-mastery-no-monetary-boundaries/"><u>Mirthful Mastery, No Monetary Boundaries</u></a></li>
 </ul></div>
 

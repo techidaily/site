@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mac's Menu Bar: Discover the Ultimate Free App Solution"
-date: 2024-09-12T01:09:20.261Z
-updated: 2024-09-13T01:09:20.261Z
+date: 2024-09-11T18:45:06.647Z
+updated: 2024-09-18T18:31:30.302Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
 ## Master Your Mac's Menu Bar: Discover the Ultimate Free App Solution
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Your macOS menu bar can get cluttered with icons.
@@ -26,25 +19,11 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
  MacOS is a generally well-thought-out, intuitive, and user-friendly operating system, but the user interface falls short in one place: the menu bar. Here's how to wrangle all of your menu bar icons using the free Hidden Bar app.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Is Your macOS Menu Bar Getting Crowded?
 
  Just to be clear, we're talking about the menu bar in the top-right of the screen, where the battery meter, clock and icons for running background apps are found. By default, it's pretty sparse and well-organized.
 
 ![iPhone notifications on a MacBook in iPhone Mirroring mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/macos-sequoia-iphone-mirroring-iphone-notifications.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -54,34 +33,13 @@ Apple
 
 ![A messy macOS menu bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  My macOS menu bar. It's a total mess.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hidden Bar to the Rescue
 
 [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12 "https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12") is a free (that is, completely free, without in-app purchases) app that solves this. All you have to do is install it, and it hides all of your lesser-used menu bar icons behind a little arrow, like this:
 
 ![Hidden Bar for macOS showing a cleaned up menu bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  My macOS menu bar, now showing only the icons I use.
 
@@ -104,12 +62,25 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-how-to-organize-photo-album-on-iphone-and-icloud/"><u>[New] How To Organize Photo Album On iPhone And iCloud</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/decoding-the-distinctions-a-side-by-side-analysis-of-pixel-9-9-pro-and-9-pro-xl/"><u>Decoding the Distinctions: A Side-by-Side Analysis of Pixel ^9, ^9 Pro & ^9 Pro XL</u></a></li>
-<li><a href="https://techidaily.com/discovering-the-value-of-sleep-monitoring-after-initial-doubts/"><u>Discovering the Value of Sleep Monitoring After Initial Doubts</u></a></li>
-<li><a href="https://techidaily.com/easy-guide-mastering-cropping-techniques-in-ios-devices/"><u>Easy Guide: Mastering Cropping Techniques in iOS Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-copyright-free-online-collections-for-games/"><u>In 2024, Copyright-Free Online Collections for Games</u></a></li>
-<li><a href="https://video-capture.techidaily.com/minimap-memories-mastering-6-ways-to-record-your-gameplay-for-2024/"><u>Minimap Memories Mastering 6 Ways to Record Your Gameplay for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-explore-and-enjoy-locating-recently-liked-videos-on-facebook-for-2024/"><u>[New] Explore & Enjoy Locating Recently Liked Videos on Facebook for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-workflow-nvidia-screener-for-2024/"><u>[Updated] Optimizing Your Workflow NVIDIA Screener for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/disabling-safe-mode-a-step-by-step-guide-for-your-android-device/"><u>Disabling Safe Mode: A Step-by-Step Guide for Your Android Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y17s-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y17s Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-mobile-os-in-depth-look-at-android-16-pricing-rumors-features-and-arrival-date-revealed/"><u>The Next Big Thing in Mobile OS: In-Depth Look at Android 16 - Pricing Rumors, Features, and Arrival Date Revealed</u></a></li>
+<li><a href="https://techidaily.com/top-10-tactics-to-fortify-privacy-on-your-windows-pc-a-step-by-step-guide/"><u>Top 10 Tactics to Fortify Privacy on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/top-15-ubuntu-enhancements-effortless-tweaks-beyond-the-terminal/"><u>Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Sony Xperia 5 V without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/transform-your-aged-macbook-with-these-7-creative-repurposing-ideas/"><u>Transform Your Aged MacBook with These 7 Creative Repurposing Ideas</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-your-laptop-mouse-freezes/"><u>Troubleshooting Tips: What to Do When Your Laptop Mouse Freezes</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-deleting-items-using-powershell-scripts/"><u>Ultimate Guide: Deleting Items Using PowerShell Scripts</u></a></li>
+<li><a href="https://techidaily.com/unlocking-powerful-security-insights-top-5-command-line-tools-every-windows-user-should-know/"><u>Unlocking Powerful Security Insights: Top 5 Command-Line Tools Every Windows User Should Know</u></a></li>
+<li><a href="https://techidaily.com/unraveling-the-mystery-the-story-behind-the-x-in-linux/"><u>Unraveling the Mystery: The Story Behind the 'X' In Linux</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

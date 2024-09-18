@@ -1,7 +1,7 @@
 ---
 title: "Beware of Fake Help: Social Media Bots Posing as Travel Support Agents"
-date: 2024-09-12T01:06:24.245Z
-updated: 2024-09-13T01:06:24.245Z
+date: 2024-09-14T16:41:00.321Z
+updated: 2024-09-18T18:56:47.909Z
 tags:
   - web
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ## Beware of Fake Help: Social Media Bots Posing as Travel Support Agents
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Scammers are impersonating airline representatives to trick customers into giving away personal information.
@@ -25,19 +18,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 * Pay attention to the account handles, photos, join dates, and what they're asking for. Don't trust anything that seems off.
 
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Pretend Like This?
 
@@ -57,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
 
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
@@ -72,40 +45,13 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
 
 ![Fake representative account page using a poorly cropped photo of a NBC news anchor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-07.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
 
 ![Fake representative account page showing "Joined August 2024."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-03.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -126,20 +72,22 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-upload-a-video-on-twitter-in-2024/"><u>[New] How to Upload a Video on Twitter, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-complete-thumbnail-playbook-from-creation-to-analysis/"><u>[New] The Complete Thumbnail Playbook From Creation to Analysis</u></a></li>
-<li><a href="https://techidaily.com/experience-a-new-dimension-the-thrill-of-playing-classic-2d-games-with-vr-technology/"><u>Experience a New Dimension: The Thrill of Playing Classic 2D Games with VR Technology</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pro-drone-experience-a-thorough-look-at-dji-phantom-4/"><u>In 2024, The Pro Drone Experience A Thorough Look at DJI Phantom 4</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sharpen-your-stream-top-5-video-improvement-tech/"><u>Sharpen Your Stream Top 5 Video Improvement Tech</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-edge-2023-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Edge 2023 FRP Bypass</u></a></li>
-<li><a href="https://techidaily.com/understanding-crypto-mining-a-comprehensive-guide-on-its-functionality/"><u>Understanding Crypto Mining: A Comprehensive Guide on Its Functionality</u></a></li>
-<li><a href="https://techidaily.com/understanding-stablecoins-a-comprehensive-guide/"><u>Understanding Stablecoins: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/unlocking-the-cosmos-a-guide-on-using-your-pc-to-explore-and-identify-stars/"><u>Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-concept-of-wrapped-bitcoin-exploring-what-is-wbtc/"><u>Unveiling the Concept of Wrapped Bitcoin: Exploring What Is WBTC?</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-secret-how-the-gemini-side-panel-elevates-your-experience-with-google-workspace-apps/"><u>Unveiling the Secret: How the Gemini Side Panel Elevates Your Experience with Google Workspace Apps</u></a></li>
-<li><a href="https://techidaily.com/why-the-cost-of-the-apple-vision-pro-is-surprisingly-justifiable/"><u>Why the Cost of the Apple Vision Pro Is Surprisingly Justifiable</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-splitscreen-proeditor/"><u>[Updated] SplitScreen ProEditor</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-process-for-pairing-android-smartphone-with-pc-using-bluetooth-technology/"><u>Step-by-Step Process for Pairing Android Smartphone with PC Using Bluetooth Technology</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-solutions-to-enhance-fps-and-reduce-stuttering-in-call-of-duty-modern-warfares-cold-war-2nv-update/"><u>Step-by-Step Solutions to Enhance FPS & Reduce Stuttering in Call of Duty: Modern Warfare's Cold War (2Nv) Update</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-solutions-making-drag-and-drop-functional-again-on-your-pc/"><u>Step-by-Step Solutions: Making Drag & Drop Functional Again on Your PC</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-linking-a-printer-in-windows-11-os/"><u>Step-by-Step Tutorial on Linking a Printer in Windows 11 OS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-audio-mixing-tools-a-comprehensive-assessment-for-2024/"><u>Top Audio Mixing Tools A Comprehensive Assessment for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-14-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-visual-storytelling-with-your-canon-timelapse-toolkit-for-2024/"><u>Unlocking Visual Storytelling with Your Canon Timelapse Toolkit for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easter-sale-wondershare-filmora-coupon-code-mar-2024/"><u>Updated Easter Sale Wondershare Filmora Coupon Code - Mar 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/youtube4kpc/"><u>YouTubeの高解像度4K動画PCでダウンロードテクニック</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

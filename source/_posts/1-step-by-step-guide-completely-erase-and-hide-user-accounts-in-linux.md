@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux"
-date: 2024-09-12T01:08:02.339Z
-updated: 2024-09-13T01:08:02.339Z
+date: 2024-09-11T17:32:46.096Z
+updated: 2024-09-18T16:39:07.866Z
 tags:
   - desktop
 categories:
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  If you just want to delete a user account from your system and aren't concerned about ending any running processes and other cleanup tasks, follow the steps in the "Deleting the User Account" section below. You'll need the `deluser` command on Debian-based distributions and the `userdel` command on other Linux distributions.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  User Accounts on Linux
 
  Ever since the [first time-sharing systems appeared in the early 1960s](https://en.wikipedia.org/wiki/Compatible%5FTime-Sharing%5FSystem) and brought with them the capability for multiple users to work on a single computer, there's been a need to isolate and compartmentalize the files and data of each user from all the other users. And so user accounts—[and passwords—](https://en.wikipedia.org/wiki/Fernando%5FJ.%5FCorbat%C3%B3)were born.
@@ -49,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  User accounts have an administrative overhead. They need to [be created](https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-p55plus-frp-by-drfone-android/) when the user first needs access to the computer. They need to be removed when that access is no longer required. On Linux, there's a sequence of steps that should be followed in order to correctly and methodically remove the user, their files, and their account from the computer.
 
  If you're the system administrator that responsibility falls to you. Here's how to go about it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Delete an Account?
 
@@ -68,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  Everything's set. All eyes are on you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check the Login
@@ -83,13 +63,6 @@ who
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-2.png) 
 
  Eric is logged in once. Let's see what processes he's running.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Reviewing The User's Processes
 
@@ -112,10 +85,10 @@ top -U eric
  It doesn't look like he's doing much, just using `less` to view a file. We're safe to proceed. But before we kill his processes, we'll freeze the account by locking the password.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Locking the Account
@@ -138,13 +111,6 @@ sudo passwd -l eric
 
 ![sudo passwd -l eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If we check the `/etc/passwd` file again, we'll see what's happened.
 
 sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
@@ -155,13 +121,6 @@ sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
 
  Now that we've prevented the user from logging back in, we can kill his processes and log him out.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Killing the Processes
 
  There are different ways to [kill a user's processes](https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-v2-drfone-by-drfone-virtual-android/), but the command shown here is widely available and is a more modern implementation than some of the alternatives. The `pkill` command will find and kill processes. We're passing in the KILL signal, and using the `-u` (user) option.
@@ -169,13 +128,6 @@ sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
 sudo pkill -KILL -u eric
 
 ![sudo pkill -KILL -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You're returned to the command prompt in a decidedly anti-climactic fashion. To make sure something happened let's check `who` again:
 
@@ -186,13 +138,6 @@ who
  His session is gone. He's been logged off and his processes have been stopped. That's taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric's desk.
 
 Related: [How to Add and Remove Users on Ubuntu](https://fox-links.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded-for-2024/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Archiving the User's home Directory
 
@@ -209,18 +154,18 @@ sudo tar cfjv eric-20200820.tar.bz /home/eric
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A lot of screen output will scroll in the terminal window. To check the archive has been created, use the `ls` command. We're using the `-l` (long format) and `-h` (human-readable) options.
 
 ls -lh eric-20200802.tar.bz
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A file of 722 MB has been created. This can be copied somewhere safe for later review.
 
@@ -233,10 +178,10 @@ sudo ls -lh /var/spool/cron/crontabs/eric
 ![sudo ls -lh /var/spool/cron/crontabs/eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If anything exists in this location it means there are `cron` jobs queued for that user account. We can delete them with this `crontab` command. The `-r` (remove) option will remove the jobs, and the `-u` (user) option tells `crontab` [whose jobs to remove](http://man7.org/linux/man-pages/man1/crontab.1.html).
@@ -244,13 +189,6 @@ sudo ls -lh /var/spool/cron/crontabs/eric
 sudo crontab -r -u eric
 
 ![sudo crontab -r -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.
 
@@ -265,10 +203,10 @@ lprm -U eric
  The jobs are removed and you are returned to the command line.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Deleting the User Account
@@ -294,13 +232,6 @@ type userdel
 sudo deluser --remove-home eric
 
 ![sudo deluser --remove-home eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The command to use for non-Debian distributions is `userdel`, with the `--remove` flag:
 
@@ -339,17 +270,18 @@ sudo less /etc/group | grep eric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-hd-capture-software-for-windows-and-macos/"><u>[New] Ultimate HD Capture Software for Windows & macOS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-blur-free-photography-ranked-10-best-web-editing-tools/"><u>[Updated] 2024 Approved Blur-Free Photography Ranked 10 Best Web Editing Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-users-guide-for-navigating-durecorder-world/"><u>[Updated] In 2024, The Ultimate User’s Guide for Navigating DuRecorder World</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-elderly-friendly-window-pc-usability/"><u>Boosting Elderly-Friendly Window PC Usability</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-visuals-in-ae-selecting-excellent-plugin-choices/"><u>Crafting Visuals in AE Selecting Excellent Plugin Choices</u></a></li>
-<li><a href="https://techidaily.com/exploring-next-gen-virtual-reality-the-quest-for-true-multi-sense-immersion-with-taste-touch-and-smell-features/"><u>Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features</u></a></li>
-<li><a href="https://techidaily.com/exploring-the-best-substitutes-for-chatgpt-discover-8-affordable-and-advanced-ai-solutions/"><u>Exploring the Best Substitutes for ChatGPT: Discover 8 Affordable and Advanced AI Solutions</u></a></li>
-<li><a href="https://techidaily.com/exploring-the-mechanics-of-regenerative-braking-systems/"><u>Exploring the Mechanics of Regenerative Braking Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-non-operational-windows-drivers-immediately/"><u>Fixing Non-Operational Windows Drivers Immediately</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-note-12r-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi Note 12R For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-to-instagram-posting-videos-effortlessly/"><u>YouTube to Instagram Posting Videos Effortlessly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-learn-youtube-video-ad-building-at-no-cost/"><u>[Updated] 2024 Approved Learn YouTube Video Ad Building at No Cost!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-behind-the-scenes-using-instagrams-virtual-backdrops/"><u>2024 Approved Behind-the-Scenes Using Instagram's Virtual Backdrops</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs/"><u>2024 Approved Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-analytics-solutions-enhance-your-digital-strategy/"><u>Cookiebot-Enabled Analytics Solutions - Enhance Your Digital Strategy</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-personalization-and-analytics-solutions/"><u>Cookiebot-Enabled Personalization & Analytics Solutions</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-optimize-your-site-with-our-innovative-tracking-technology/"><u>Cookiebot-Enabled: Optimize Your Site with Our Innovative Tracking Technology</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-site-performance-optimized-with-advanced-tracking-technology/"><u>Cookiebot-Enhanced Site Performance: Optimized with Advanced Tracking Technology</u></a></li>
+<li><a href="https://techidaily.com/drive-traffic-with-smart-bots-discover-how-our-automated-solutions-outperform-traditional-methods/"><u>Drive Traffic with Smart Bots: Discover How Our Automated Solutions Outperform Traditional Methods</u></a></li>
+<li><a href="https://techidaily.com/efficient-invoicing-made-easy-how-abbyys-software-revolutionizes-adactus-housing-groups-operations/"><u>Efficient Invoicing Made Easy: How ABBYY's Software Revolutionizes Adactus Housing Group's Operations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-workspace-slash-prices-enjoy-an-80-discount-on-the-superior-elegoo-neptune-3plus/"><u>Enhance Your Workspace, Slash Prices: Enjoy an $80 Discount on the Superior Elegoo Neptune 3+</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-youtube-to-mp4-ensuring-data-security/"><u>Guide YouTube to MP4 - Ensuring Data Security</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-downloading-and-updating-the-latest-toshiba-satellite-driver-for-windows-users/"><u>Guide: Downloading & Updating the Latest Toshiba Satellite Driver for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-camon-20-premier-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Camon 20 Premier 5G For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
 

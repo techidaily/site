@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to Moving Your Files with Windows Backup & Restore
-date: 2024-09-05T06:15:28.209Z
-updated: 2024-09-06T06:15:28.209Z
+date: 2024-09-12T16:36:32.773Z
+updated: 2024-09-18T17:05:04.358Z
 tags:
   - deals
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Simple Guide to Moving Your Files with Windows Backup & Restore
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Step 1: Sign in to Your Microsoft Account](https://facebook-video-footage.techidaily.com/the-content-creators-dilemma-vimeo-or-youtube-in-2024/)
@@ -32,12 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 1: Sign in to Your Microsoft Account
 
  Microsoft uses its cloud storage to hold your data during the transfer process, so you need to sign in to your Microsoft account (or [sign up for one](http://account.microsoft.com/account) if you haven't already).
@@ -46,22 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 2: Manage Your Backup Settings
 
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
@@ -85,16 +61,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
@@ -107,13 +97,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 4: Restore to Your New PC
 
@@ -121,12 +112,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft
 
  Once you have finished setting up your new PC, you'll see the folders, apps, settings, and credentials you selected in the previous step have been transferred. Most apps will automatically reinstall when you open them for the first time—but you might need to reinstall one or two manually.
@@ -141,8 +126,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,43 +135,19 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-success-story-turning-budget-into-brands/"><u>[New] 2024 Approved  Channel Success Story  Turning Budget Into Brands</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-retrace-footsteps-android-film-inversion/"><u>[New] In 2024, Retrace Footsteps  Android Film Inversion</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-viral-video-victories-the-daily-top-10-twitch-videos/"><u>[New] Viral Video Victories  The Daily Top 10 Twitch Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-airtime-crafting-compelling-content-live/"><u>[Updated] From Idea to Airtime  Crafting Compelling Content Live</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-intro-video-2-ways-for-2024/"><u>[Updated] How to Make A YouTube Intro Video [2 Ways] for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-integrating-igtv-videos-with-your-facebook-network/"><u>[Updated] Integrating IGTV Videos with Your Facebook Network</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-the-boundaries-of-fb-video-speed/"><u>[Updated] Pushing the Boundaries of FB Video Speed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-transform-virtual-engagements-the-10-free-applications-you-need/"><u>[Updated] Transform Virtual Engagements  The 10 Free Applications You Need</u></a></li>
-<li><a href="https://techidaily.com/creating-artificial-intelligence-visuals-using-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-hdcp-issues-identification-and-troubleshooting-steps/"><u>Deciphering HDCP Issues: Identification & Troubleshooting Steps</u></a></li>
-<li><a href="https://techidaily.com/desos-vision-revolutionizing-your-news-feed-with-decentralized-social-networking/"><u>DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking</u></a></li>
-<li><a href="https://techidaily.com/ditch-tedious-excel-tasks-embrace-the-power-of-chatgpt-for-instant-formula-creation/"><u>Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation</u></a></li>
-<li><a href="https://techidaily.com/dive-into-the-world-of-extended-reality-with-viture-pro-xr-headsets-a-comprehensive-product-insight/"><u>Dive Into the World of Extended Reality with VITURE Pro XR Headsets – A Comprehensive Product Insight</u></a></li>
-<li><a href="https://techidaily.com/engage-more-with-bing-chats-enhanced-dialogue-capabilities/"><u>Engage More with Bing Chat's Enhanced Dialogue Capabilities</u></a></li>
-<li><a href="https://techidaily.com/enhancing-conversational-ai-with-a-human-touch-strategies-for-naturalizing-chatgpt-outputs/"><u>Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs</u></a></li>
-<li><a href="https://techidaily.com/enough-of-touch-screen-overload-time-automakers-embrace-simplicity/"><u>Enough of Touch Screen Overload: Time Automakers Embrace Simplicity</u></a></li>
-<li><a href="https://techidaily.com/experience-the-future-with-klings-advanced-ai-powered-video-creation/"><u>Experience the Future with Kling's Advanced AI-Powered Video Creation</u></a></li>
-<li><a href="https://techidaily.com/expert-tips-for-erasing-all-data-and-starting-fresh-with-your-oculus-quest-2-a-comprehensive-factory-reset-walkthrough/"><u>Expert Tips for Erasing All Data & Starting Fresh with Your Oculus Quest 2: A Comprehensive Factory Reset Walkthrough</u></a></li>
-<li><a href="https://techidaily.com/how-can-ai-generated-artwork-enhance-your-creativity-and-projects/"><u>How Can AI-Generated Artwork Enhance Your Creativity and Projects?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-create-and-change-an-igtv-cover-photo-thumbnail-in-2024/"><u>How to Create and Change an IGTV Cover Photo (Thumbnail), In 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-m54-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy M54 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/identifying-synthetic-stories-unveiling-artificial-intelligence-generated-misinformation/"><u>Identifying Synthetic Stories: Unveiling Artificial Intelligence-Generated Misinformation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-revolutionize-your-brand-presence-on-igtv-with-these-top-10-strategies/"><u>In 2024, Revolutionize Your Brand Presence on IGTV with These Top 10 Strategies</u></a></li>
-<li><a href="https://techidaily.com/introducing-the-gemini-nano-ai-elevating-smartphone-capabilities-in-googles-new-pixel-model/"><u>Introducing the Gemini Nano AI: Elevating Smartphone Capabilities in Google's New Pixel Model</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/magnetizing-meme-manufacturer-for-2024/"><u>Magnetizing Meme Manufacturer for 2024</u></a></li>
-<li><a href="https://techidaily.com/meet-the-upgraded-bing-chatbot-advanced-search-features-and-elevated-usage-restrictions-now-available/"><u>Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available</u></a></li>
-<li><a href="https://techidaily.com/monthly-virtual-reality-game-selections-with-meta-quests-latest-membership-plan/"><u>Monthly Virtual Reality Game Selections with Meta Quest's Latest Membership Plan</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unbiased-comparison-final-cut-pro-and-lumafusion-for-video-editors/"><u>New 2024 Approved Unbiased Comparison Final Cut Pro and LumaFusion for Video Editors</u></a></li>
-<li><a href="https://techidaily.com/next-steps-for-amazon-starlink-entering-the-protoflight-phase-of-development/"><u>Next Steps for Amazon Starlink: Entering the Protoflight Phase of Development</u></a></li>
-<li><a href="https://techidaily.com/next-summer-release-anticipated-launch-of-the-ford-explorer-electric-vehicle/"><u>Next Summer Release: Anticipated Launch of the Ford Explorer Electric Vehicle</u></a></li>
-<li><a href="https://techidaily.com/overcoming-electric-vehicle-resistance-the-2023-vw-id4-comprehensive-review/"><u>Overcoming Electric Vehicle Resistance: The 2023 VW ID.4 Comprehensive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sequencing-your-journey-the-correct-way-to-experience-the-lord-of-the-rings-trilogy/"><u>Sequencing Your Journey: The Correct Way to Experience 'The Lord of the Rings' Trilogy</u></a></li>
-<li><a href="https://techidaily.com/sharing-strategies-for-interactions-with-bard-ai-tips-and-techniques/"><u>Sharing Strategies for Interactions with Bard AI – Tips and Techniques</u></a></li>
-<li><a href="https://techidaily.com/top-5-free-ai-solutions-for-efficient-pdf-analysis/"><u>Top 5 Free AI Solutions for Efficient PDF Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-hp-chromebook-11-analysis-perfect-companion-for-productivity-and-entertainment/"><u>Ultimate HP Chromebook 11 Analysis: Perfect Companion for Productivity and Entertainment</u></a></li>
-<li><a href="https://techidaily.com/understanding-crypto-mining-a-comprehensive-guide-on-its-functionality/"><u>Understanding Crypto Mining: A Comprehensive Guide on Its Functionality</u></a></li>
-<li><a href="https://techidaily.com/understanding-stablecoins-a-comprehensive-guide/"><u>Understanding Stablecoins: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/unlocking-the-cosmos-a-guide-on-using-your-pc-to-explore-and-identify-stars/"><u>Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-grok-ai-from-elon-musk-inside-look-at-its-potential-and-price-points/"><u>What Is Grok AI From Elon Musk? Inside Look at Its Potential and Price Points</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-heart-of-video-editing-filmoras-favorites-for-2024/"><u>[New] The Heart of Video Editing Filmora's Favorites for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-groundbreenas-choosing-first-time-gamers-editing-apps/"><u>[Updated] 2024 Approved Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-exclusive-top-8-gear-in-the-vr-sphere/"><u>[Updated] Exclusive Top 8 Gear in the VR Sphere</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-6-ios-apps-turn-youtube-videos-into-mp3-files/"><u>[Updated] In 2024, Top 6 iOS Apps Turn YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-vr-peripherals-and-gadgets-review/"><u>[Updated] In 2024, Top VR Peripherals and Gadgets Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginning-on-the-right-foot-five-important-steps-for-new-computer-setup/"><u>Beginning on the Right Foot: Five Important Steps for New Computer Setup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/driver-initialization-issue-for-wudfrd-device-id-219/"><u>Driver Initialization Issue for WudfRd Device ID 219</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-smartly-engage-with-steams-economic-system/"><u>How to Smartly Engage With Steam's Economic System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-a05s-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel A05s Phone</u></a></li>
+<li><a href="https://techidaily.com/swift-direct3d-downloader-simple-and-fast/"><u>Swift Direct3D Downloader - Simple and Fast!</u></a></li>
+<li><a href="https://techidaily.com/the-darcy-weisbach-equation-relates-friction-factor-to-pressure-drop-dp-f-ld-rv2-2/"><u>The Darcy-Weisbach Equation Relates Friction Factor to Pressure Drop: ΔP = F (L/D) (ρV^2 / 2)</u></a></li>
+<li><a href="https://techidaily.com/top-7-solutions-to-resolve-goose-goose-duck-game-lag-issues-on-your-computer/"><u>Top 7 Solutions to Resolve Goose Goose Duck Game Lag Issues on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-full-processor-load-problems-solutions-inside/"><u>Troubleshooting Full Processor Load Problems - Solutions Inside</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-steps-to-resolve-unreal-engine-4-crashes-on-windows/"><u>Troubleshooting Steps to Resolve Unreal Engine 4 Crashes on Windows</u></a></li>
 </ul></div>
+

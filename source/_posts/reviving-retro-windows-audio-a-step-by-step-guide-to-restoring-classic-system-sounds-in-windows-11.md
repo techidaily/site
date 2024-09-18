@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11"
-date: 2024-09-12T01:08:38.134Z
-updated: 2024-09-13T01:08:38.134Z
+date: 2024-09-15T16:06:13.727Z
+updated: 2024-09-18T19:07:49.804Z
 tags:
   - desktop
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 ---
 
 ## Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
 
  If you can't see the file extension, ensure you've [enabled the option to see file extensions](https://facebook-video-footage.techidaily.com/updated-free-youtube-revenue-predictor-tools/).
@@ -60,19 +46,6 @@ Close
 Close 
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Change System Sounds in Settings
 
@@ -88,24 +61,24 @@ Close
 
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
 
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable Changing the Login Sound
@@ -119,13 +92,6 @@ Close
 Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
 
@@ -156,14 +122,17 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-expert-tips-for-crafting-viral-twitter-campaigns/"><u>[New] Expert Tips for Crafting Viral Twitter Campaigns</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-overcoming-low-resolution-output-in-obs/"><u>[Updated] In 2024, Overcoming Low-Resolution Output in OBS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oneplus-open-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from OnePlus Open to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/logitech-k520-keyboard-woes-discover-rapid-solutions-to-get-it-working-again-easily/"><u>Logitech K520 Keyboard Woes? Discover Rapid Solutions to Get It Working Again Easily</u></a></li>
-<li><a href="https://techidaily.com/understanding-ts-files-a-comprehensive-guide-on-their-purpose-and-usage/"><u>Understanding TS Files: A Comprehensive Guide on Their Purpose and Usage</u></a></li>
-<li><a href="https://techidaily.com/unlock-the-power-of-multiple-artificial-intelligence-chatbots-at-home-with-our-cutting-edge-software-suite/"><u>Unlock the Power of Multiple Artificial Intelligence Chatbots at Home with Our Cutting-Edge Software Suite</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-mystery-of-ts-files-learn-what-they-are-and-how-to-work-with-them/"><u>Unveiling the Mystery of TS Files: Learn What They Are and How To Work With Them</u></a></li>
-<li><a href="https://techidaily.com/unveiling-windows-11-for-official-use-reasons-to-steer-clear-of-this-specialized-operating-system/"><u>Unveiling Windows 11 for Official Use - Reasons to Steer Clear of This Specialized Operating System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wwe-2k22-stability-issues-solved-a-step-by-step-guide-for-a-smooth-pc-gaming-experience/"><u>WWE 2K22 Stability Issues Solved: A Step-by-Step Guide for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-inshot-essential-laptop-editing-tools/"><u>[Updated] Beyond Inshot Essential Laptop Editing Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-building-a-cohesive-tiktok-ending-spectacle/"><u>[Updated] Building a Cohesive TikTok Ending Spectacle</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-video-sectioning-mastery-in-vimeo-videos-for-2024/"><u>[Updated] Video Sectioning Mastery in Vimeo Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-t2-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo T2 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/id-coolings-frozn-a620-pro-se-unveiled-elevating-cooling-solutions-to-new-heights-with-superior-value/"><u>ID-Cooling's Frozn A620 Pro SE Unveiled – Elevating Cooling Solutions to New Heights with Superior Value</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-m54-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy M54 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-8-plus-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 8 Plus Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://techidaily.com/overcoming-electric-vehicle-resistance-the-2023-vw-id4-comprehensive-review/"><u>Overcoming Electric Vehicle Resistance: The 2023 VW ID.4 Comprehensive Review</u></a></li>
+<li><a href="https://techidaily.com/sharing-strategies-for-interactions-with-bard-ai-tips-and-techniques/"><u>Sharing Strategies for Interactions with Bard AI – Tips and Techniques</u></a></li>
+<li><a href="https://techidaily.com/top-5-free-ai-solutions-for-efficient-pdf-analysis/"><u>Top 5 Free AI Solutions for Efficient PDF Analysis</u></a></li>
+<li><a href="https://techidaily.com/understanding-crypto-mining-a-comprehensive-guide-on-its-functionality/"><u>Understanding Crypto Mining: A Comprehensive Guide on Its Functionality</u></a></li>
+<li><a href="https://techidaily.com/understanding-stablecoins-a-comprehensive-guide/"><u>Understanding Stablecoins: A Comprehensive Guide</u></a></li>
 </ul></div>
 

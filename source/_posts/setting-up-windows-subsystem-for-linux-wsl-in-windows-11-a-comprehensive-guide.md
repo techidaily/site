@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2024-09-12T01:11:09.464Z
-updated: 2024-09-13T01:11:09.464Z
+date: 2024-09-11T17:54:10.224Z
+updated: 2024-09-18T18:32:27.444Z
 tags:
   - deals
 categories:
@@ -17,31 +17,11 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 * [Install WSL through Windows Terminal](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/)
 * [The Slow Way: Enable WSL and Install a Distro](https://smart-video-creator.techidaily.com/new-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  To install the Windows Subsystem for Linux (WSL) on Windows 11, run Terminal as administrator, then enter "wsl --install" into the window. Run "wsl --install -d Distro", replacing "Distro" with the name of a Linux distro, to install a specific distribution instead of Ubuntu. You can install additional Linux distros from the Terminal or the Microsoft Store.
 
  The Windows Subsystem for Linux (WSL) lets you run Linux software on your Windows 11 PC. When you enable WSL, Windows will install a custom-built Linux kernel. You can then install Ubuntu or another Linux distribution of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How WSL Works on Windows 11
 
@@ -58,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  It is also worth noting that most new, interesting developments for WSL are shifting to Windows 11—Windows 10 users won't be able to use them. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Install WSL through Windows Terminal
@@ -74,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![Right-click the Start button, then select "Terminal (Admin)."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To enable the Windows Subsystem for Linux and install Ubuntu, which is the default distribution, just run the following command:
 
 wsl --install
@@ -88,19 +61,6 @@ wsl --install
  When the process is complete, Windows will ask you to reboot your PC. Restart your computer by entering **shutdown /r /t 0** into the Terminal. You'll be able to use your Linux system after you do. (You can right-click the Start menu and click Shut Down or Sign Out > Restart to quickly reboot.)
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
@@ -118,22 +78,29 @@ wsl --install -d Debian
 
 ![List available Linux distributions and install one.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a3-list-distros.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your computer has rebooted, you can launch the Linux distro that you installed from your Start menu.
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
 
  If you don't see the Linux distribution that you installed in the Windows Terminal, launch it from your Start menu first. After it completes its first-run setup process, it will appear here.
 
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
 
@@ -174,20 +141,18 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-field-fusion-top-10-agrarian-adventure-titles/"><u>[Updated] Field Fusion Top 10 Agrarian Adventure Titles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-for-3d-lut-implementation-in-photoshop/"><u>2024 Approved Expert Strategies for 3D LUT Implementation in Photoshop</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-thermaltake-massive-tm-laptop-chiller-high-quality-tech-with-a-steep-price-tag/"><u>Comprehensive Evaluation of the Thermaltake Massive TM Laptop Chiller: High-Quality Tech with a Steep Price Tag</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/from-basic-to-stunning-graphics-card-laptop-boost/"><u>From Basic to Stunning: Graphics Card Laptop Boost</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-14-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 14 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/in-depth-look-at-the-samsung-galaxy-watch-gen-5-impressive-features-and-a-few-hiccups-along-the-way/"><u>In-Depth Look at the Samsung Galaxy Watch Gen 5: Impressive Features and a Few Hiccups Along the Way</u></a></li>
-<li><a href="https://techidaily.com/is-motorolas-razr-plus-a-long-term-hit-or-just-a-flash-in-the-pan/"><u>Is Motorola's RAZR Plus a Long-Term Hit or Just a Flash in the Pan?</u></a></li>
-<li><a href="https://techidaily.com/leveraging-googles-platform-effective-techniques-for-earning-from-your-android-software-solutions/"><u>Leveraging Google's Platform: Effective Techniques for Earning From Your Android Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/looking-for-an-earbud-charging-case-with-built-in-volume-control/"><u>Looking for an Earbud Charging Case with Built-In Volume Control</u></a></li>
-<li><a href="https://techidaily.com/mastering-mobile-desktop-experience-seamlessly-organize-your-apps-as-on-a-pc/"><u>Mastering Mobile Desktop Experience: Seamlessly Organize Your Apps as on a PC</u></a></li>
-<li><a href="https://techidaily.com/navigating-wet-conditions-with-your-apple-watch-uncover-its-water-resistant-secrets/"><u>Navigating Wet Conditions with Your Apple Watch: Uncover Its Water-Resistant Secrets</u></a></li>
-<li><a href="https://techidaily.com/protect-your-digital-memories-avoid-whatsapp-data-loss-disaster/"><u>Protect Your Digital Memories - Avoid WhatsApp Data Loss Disaster</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revisiting-demons-souls-stunning-visual-upgrades-meet-timeless-classic-gaming/"><u>Revisiting Demon's Souls: Stunning Visual Upgrades Meet Timeless Classic Gaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-time-lapse-photography-with-gopro-software-for-2024/"><u>Streamlining Time-Lapse Photography with GoPro Software for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-zodiac-inspired-whatsapp-bios-enhancing-personal-connections/"><u>Top Zodiac-Inspired WhatsApp Bios Enhancing Personal Connections</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tailored-content-personalizing-facebook-ad-videos-effectively-for-2024/"><u>[New] Tailored Content Personalizing Facebook Ad Videos Effectively for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-avoid-high-costs-buying-budget-friendly-gopros/"><u>[Updated] In 2024, Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-understanding-permissions-the-key-to-saving-google-meets/"><u>[Updated] In 2024, Understanding Permissions The Key to Saving Google Meets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-resolve-fifa-19s-directx-troubles-with-these-effective-solutions/"><u>Effortlessly Resolve FIFA 19'S DirectX Troubles with These Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enjoy-chatbot-interaction-top-5-methods-for-using-chatgpt-without-needing-an-openai-account/"><u>Enjoy Chatbot Interaction: Top 5 Methods for Using ChatGPT without Needing an OpenAI Account</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723014003546-fix-your-origin-connection-problems-today/"><u>Fix Your Origin Connection Problems Today!</u></a></li>
+<li><a href="https://techidaily.com/how-to-snapping-photos-of-your-lenovo-computer-screen-in-seconds/"><u>How-To: Snapping Photos of Your Lenovo Computer Screen in Seconds</u></a></li>
+<li><a href="https://techidaily.com/invisible-web-journeys-strategies-for-anonymous-internet-use/"><u>Invisible Web Journeys: Strategies for Anonymous Internet Use</u></a></li>
+<li><a href="https://techidaily.com/maximize-savings-on-driver-easy-use-this-exclusive-2er-2024-discount-code-for-a-smaller-price-tag/"><u>Maximize Savings on Driver Easy – Use This Exclusive 2Er-2024 Discount Code for a Smaller Price Tag!</u></a></li>
+<li><a href="https://techidaily.com/maximize-speed-on-windows-11-for-optimal-functionality-a-step-by-step-tutorial/"><u>Maximize Speed on Windows 11 for Optimal Functionality – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/maximizing-your-privacy-with-the-tor-browser-in-a-windows-11-environment/"><u>Maximizing Your Privacy with the Tor Browser in a Windows 11 Environment</u></a></li>
+<li><a href="https://techidaily.com/no-more-interruptions-disable-the-lock-screen-on-windows-10-effortlessly/"><u>No More Interruptions: Disable the Lock Screen on Windows 10 Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/srt-playback-guide-on-different-os-platforms-for-2024/"><u>SRT Playback Guide on Different OS Platforms for 2024</u></a></li>
 </ul></div>
 

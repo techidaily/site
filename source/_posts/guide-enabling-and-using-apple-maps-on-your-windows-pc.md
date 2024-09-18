@@ -1,7 +1,7 @@
 ---
 title: "Guide: Enabling and Using Apple Maps on Your Windows PC"
-date: 2024-09-12T01:10:49.658Z
-updated: 2024-09-13T01:10:49.658Z
+date: 2024-09-11T19:12:42.389Z
+updated: 2024-09-18T17:11:39.159Z
 tags:
   - deals
 categories:
@@ -17,64 +17,23 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 
  We'll use Microsoft Edge for installing the web app on Windows, since it works well with websites that aren't set up as true Progressive Web Apps (PWAs).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Install Apple Maps
 
  First, open Microsoft Edge on your Windows PC. You can search for "Edge" in the Start Menu to find it. Next, open the address [beta.maps.apple.com](https://beta.maps.apple.com/) in the address bar. That will open the Apple Maps web app.
 
 ![Apple Maps web app screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, click the main toolbar menu button in Microsoft Edge (it's the button with three dots), then select Apps > Install this site as an app.
 
 ![Installing Apple Maps in Microsoft Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm-2.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Microsoft Edge will ask you to confirm the installation. Click the Install button to complete the process.
 
 ![Confirmation for Apple Maps installation in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, the newly-installed web app will open in its own window. Edge will ask if you want to pin it to your Start menu, Taskbar, and desktop. You can leave Taskbar and desktop unselected, but Start menu needs to be selected, or you won't be able to search for it. Click the Allow button to confirm, and Windows might ask you one more time in a notification, depending on what you selected.
 
 ![Allowing Apple Maps to be installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You're done! Apple Maps is now an installed web app that you can quickly open at any time from the Start menu, and if you want, on your Taskbar and desktop as well. You'll always get the latest available version as Apple continues to improve the Apple Maps web app.
 
@@ -95,13 +54,27 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-tips-to-communicate-with-youtube-subscribers/"><u>[New] Tips to Communicate with YouTube Subscribers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 Plus and iPad Securely</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/correct-your-ps4s-connection-woes-masterful-guidance-on-overcoming-nat-failures/"><u>Correct Your PS4's Connection Woes: Masterful Guidance on Overcoming NAT Failures</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-simplified-approach-to-overhauling-facebook-photo-background/"><u>In 2024, Simplified Approach to Overhauling Facebook Photo Background</u></a></li>
-<li><a href="https://techidaily.com/revamp-your-mac-with-fedora-asahi-an-enhanced-linux-experience/"><u>Revamp Your Mac with Fedora Asahi: An Enhanced Linux Experience</u></a></li>
-<li><a href="https://techidaily.com/revitalize-legacy-hardware-with-this-hidden-gem-of-a-linux-os/"><u>Revitalize Legacy Hardware with This Hidden Gem of a Linux OS</u></a></li>
-<li><a href="https://techidaily.com/revival-of-objectdock-introducing-mac-like-dock-features-to-enhance-windows-11-experience/"><u>Revival of ObjectDock: Introducing Mac-Like Dock Features to Enhance Windows 11 Experience</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/streamlining-home-entertainment-a-step-by-step-guide-to-converting-your-dvds-into-digital-format-on-synology-or-qnap-network-attached-storage-devices/"><u>Streamlining Home Entertainment: A Step-by-Step Guide to Converting Your DVDs Into Digital Format on Synology or QNAP Network Attached Storage Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-maximizing-memories-techniques-for-gameplay-recording/"><u>[Updated] In 2024, Maximizing Memories Techniques for Gameplay Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-your-inner-manga-learn-snapchats-anime-filter-magic/"><u>[Updated] In 2024, Unleash Your Inner Manga Learn Snapchat's Anime Filter Magic</u></a></li>
+<li><a href="https://techidaily.com/0x800705b3-error-code-when-tried-to-update-on-windows-10-solved/"><u>0X800705B3 Error Code When Tried to Update on Windows 10 [Solved]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-to-avoid-overuse-of-b-roll-in-cinematography/"><u>2024 Approved Strategies to Avoid Overuse of B-Roll in Cinematography</u></a></li>
+<li><a href="https://techidaily.com/achieve-smooth-gameplay-on-roblox-advanced-tips-and-tricks-for-optimal-fps-upgrades/"><u>Achieve Smooth Gameplay on Roblox: Advanced Tips and Tricks for Optimal FPS Upgrades</u></a></li>
+<li><a href="https://techidaily.com/1723808021228-common-logitech-mouse-malfunctions-on-windows-11-pcs-heres-how-to-get-them-working-again/"><u>Common Logitech Mouse Malfunctions on Windows 11 PCs? Here's How to Get Them Working Again!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a05-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A05 Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/1723808221412-how-to-block-calls-on-iphone-and-android-phone-quickly-and-easily/"><u>How to Block Calls on iPhone & Android Phone | Quickly & Easily</u></a></li>
+<li><a href="https://techidaily.com/1723808212332-how-to-play-fortnite-on-pc-easy-guide-for-beginners/"><u>How to Play Fortnite on PC - Easy Guide for Beginners</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-c02-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia C02 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/key-steps-for-activating-windows-recovery-software/"><u>Key Steps for Activating Windows Recovery Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-internet-with-smart-ai-search-technologies-best-picks-of-2021/"><u>Navigating the Internet with Smart AI Search Technologies: Best Picks of 2021</u></a></li>
+<li><a href="https://techidaily.com/1723808313778-troubleshooting-pc-starts-without-screen-output-solved/"><u>Troubleshooting: PC Starts without Screen Output – Solved!</u></a></li>
+<li><a href="https://techidaily.com/vitalik-buterins-proposal-of-ethereum-as-a-decentralized-platform/"><u>Vitalik Buterin's Proposal of Ethereum as a Decentralized Platform</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

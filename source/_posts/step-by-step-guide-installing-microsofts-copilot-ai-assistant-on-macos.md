@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-09-12T01:09:38.288Z
-updated: 2024-09-13T01:09:38.288Z
+date: 2024-09-12T16:43:54.155Z
+updated: 2024-09-18T16:26:39.933Z
 tags:
   - desktop
 categories:
@@ -27,40 +27,13 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
@@ -76,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
@@ -100,23 +60,16 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -138,21 +91,20 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-data-delivery-drive-top-tactics-to-computerize-files/"><u>[New] 2024 Approved Data Delivery Drive Top Tactics to Computerize Files</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-taming-twitch-audio-for-top-notch-streaming-saves/"><u>[New] Taming Twitch Audio for Top-Notch Streaming Saves</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-photo-framing-best-web-and-app-solutions/"><u>2024 Approved Mastering Photo Framing Best Web and App Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snappy-strategies-for-reacquiring-deleted-posts/"><u>2024 Approved Snappy Strategies for Reacquiring Deleted Posts</u></a></li>
-<li><a href="https://techidaily.com/adapt-chatgpt-to-mirror-your-unique-voice-in-written-communication/"><u>Adapt ChatGPT to Mirror Your Unique Voice in Written Communication</u></a></li>
-<li><a href="https://techidaily.com/amazing-amazon-fresh-subscription-revolutionizing-your-grocery-shopping-experience/"><u>Amazing Amazon Fresh Subscription: Revolutionizing Your Grocery Shopping Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/convenience-meets-connectivity-mobile-twitch-streaming-101/"><u>Convenience Meets Connectivity: Mobile Twitch Streaming 101</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-strategies-to-resolve-low-frames-per-second-fps-and-gameplay-interruptions/"><u>Effective Strategies to Resolve Low Frames Per Second (FPS) and Gameplay Interruptions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-reno-10-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Reno 10 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-splice-for-mac-os-and-unleash-your-creativity/"><u>New Download Splice for Mac OS and Unleash Your Creativity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://techidaily.com/top-errors-to-steer-clear-of-during-your-electric-vehicles-charge/"><u>Top Errors to Steer Clear of During Your Electric Vehicle's Charge</u></a></li>
-<li><a href="https://techidaily.com/unlock-visual-information-quickly-new-feature-in-google-lens-and-circle/"><u>Unlock Visual Information Quickly: New Feature in Google Lens and Circle</u></a></li>
-<li><a href="https://techidaily.com/unlocking-nyt-wordplay-expert-tips-and-clues-to-complete-june-19s-challenge-clue-collection-374/"><u>Unlocking NYT Wordplay: Expert Tips and Clues to Complete June 19'S Challenge - Clue Collection #374</u></a></li>
-<li><a href="https://techidaily.com/upcoming-innovations-enhanced-typing-and-summary-features-in-your-browsers/"><u>Upcoming Innovations: Enhanced Typing & Summary Features in Your Browsers</u></a></li>
-<li><a href="https://techidaily.com/week-in-review-the-demise-of-netflixs-free-plan-and-enhanced-tech-solutions-for-iphones/"><u>Week in Review: The Demise of Netflix's Free Plan & Enhanced Tech Solutions for iPhones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>[New] 2024 Approved Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>[New] 2024 Approved The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-lapse-magic-a-samsung-photo-guide/"><u>[New] Time-Lapse Magic A Samsung Photo Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vector-art-basics-for-newcomers-diverse-forms-and-tools/"><u>[New] Vector Art Basics for Newcomers, Diverse Forms and Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-you-alone-in-this-struggle-determining-if-the-nintendo-switch-online-is-actually-down/"><u>Are You Alone in This Struggle? Determining if the Nintendo Switch Online Is Actually Down.</u></a></li>
+<li><a href="https://techidaily.com/navigating-wet-conditions-with-your-apple-watch-uncover-its-water-resistant-secrets/"><u>Navigating Wet Conditions with Your Apple Watch: Uncover Its Water-Resistant Secrets</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/prime-selection-of-video-editing-software-for-tiktok-pcs/"><u>Prime Selection of Video Editing Software for TikTok (PCs)</u></a></li>
+<li><a href="https://techidaily.com/protect-your-digital-memories-avoid-whatsapp-data-loss-disaster/"><u>Protect Your Digital Memories - Avoid WhatsApp Data Loss Disaster</u></a></li>
+<li><a href="https://techidaily.com/reviving-old-phones-as-fun-safe-entertainment-hubs-for-childrens-music-and-podcasts/"><u>Reviving Old Phones as Fun, Safe Entertainment Hubs for Children's Music and Podcasts</u></a></li>
+<li><a href="https://techidaily.com/revolutionary-battery-saving-function-in-latest-android-version-how-it-transforms-your-devices-efficiency/"><u>Revolutionary Battery-Saving Function in Latest Android Version: How It Transforms Your Device's Efficiency</u></a></li>
+<li><a href="https://techidaily.com/save-on-budget-friendly-boost-mobiles-latest-5g-offers/"><u>Save on Budget-Friendly Boost Mobile's Latest 5G Offers</u></a></li>
+<li><a href="https://techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
+<li><a href="https://techidaily.com/section-3a-the-next-concept-inflammation-and-repair/"><u>Section 3A: The Next Concept - Inflammation and Repair</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-the-best-a-list-of-top-8-no-cost-roku-channels/"><u>Uncover the Best: A List of Top 8 No-Cost Roku Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/winning-strategies-overlay-text-onto-photos-on-windows-mac/"><u>Winning Strategies Overlay Text Onto Photos on Windows, Mac</u></a></li>
 </ul></div>
 

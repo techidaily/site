@@ -1,7 +1,7 @@
 ---
 title: "Handling Chrome's Security Warning on File Downloads: Steps to Successfully Save Files"
-date: 2024-09-12T01:10:50.959Z
-updated: 2024-09-13T01:10:50.959Z
+date: 2024-09-16T17:10:38.103Z
+updated: 2024-09-18T18:07:59.072Z
 tags:
   - deals
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ---
 
 ## Handling Chrome's Security Warning on File Downloads: Steps to Successfully Save Files
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
  Sometimes, you might see the message "Failed - Virus Detected" when you try to download a file on Google Chrome. What does this message mean? Is it safe to bypass it? And how can you do that? Here's everything you need to know.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Chrome Shows the "Failed - Virus Detected" Message
 
  When you try to download a file from the internet using Google Chrome, it's first scanned by Chrome's built-in security system and Windows Security. If the file passes both checks, then it's downloaded to your computer. However, if Chrome or Windows Security thinks the file contains a virus, it will stop you from downloading it and show the message "Failed - Virus Detected."
@@ -61,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ![Download link on the VirusTotal website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-link-on-the-virustotal-website.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The website will scan the file for you. If the results show that the file contains malicious code, then Chrome was correct with its message, and you should not download the file. However, if the results show the file is safe, then it means that Chrome probably raised a false alarm.
 
 ![VirusTotal result page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virustotal-result-page.jpg) 
@@ -77,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ##  How to Bypass Chrome's "Failed - Virus Detection" Message
 
  Once you're reasonably sure that Chrome is raising a false alarm and the file you are trying to download is safe, then you can bypass the "Failed - Virus Detection" message to download the file to your computer. You can perform a few different workarounds to bypass this message, depending on what's causing it.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  1\. Change Chrome's Security Settings
 
@@ -91,15 +71,22 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ![Security option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/security-option-in-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Under the Safe Browsing section, select "No Protection (Not Recommended)."
 
 ![No Protection option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/no-protection-option-in-chrome-settings-menu.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Turn Off" in the confirmation that appears.
 
@@ -110,23 +97,10 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ![Standard Protection option Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/standard-protection-option-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Temporarily Disable the Security Program
@@ -140,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
  Select "Virus & Threat Protection" from the left sidebar, then turn off the switch next to "Real-Time Protection." If User Account Control (UAC) appears, click "Yes" to confirm.
 
 ![Real-time Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-in-the-windows-security-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will temporarily [disable Windows Defender](https://tech-renaissance.techidaily.com/what-is-the-difference-between-an-ipad-and-a-tablet/). If you're using a different security program, check its user manual for instructions on temporarily turning it off.
 
@@ -164,19 +131,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ![Typing Registry Editor in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-registry-editor-in-the-start-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Registry Editor, navigate to the following location:
 
         `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies`
@@ -193,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ![Typing 1 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-1-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) for the changes to take effect. Upon restart, you'll be able to download the file without any problems.
 
  Once the download is finished, you must disable the registry edit so your browser (Chrome, in this case) can keep scanning files for viruses during downloads. To disable it, double-click the "ScanWithAntiVirus," type **0** in the Value data field, and click "OK." Then, restart your computer again to apply the changes.
@@ -207,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ![Typing 0 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-0-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -236,19 +183,19 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-skin-perfection-iphone-and-android-leaders/"><u>[New] Best Skin Perfection IPhone & Android Leaders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-masterful-artwork-corrections/"><u>[New] Masterful Artwork Corrections</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-balance-mastering-tripod-usage-in-video-blogging/"><u>[Updated] The Art of Balance Mastering Tripod Usage in Video Blogging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-lg-bp550-unleashed-with-2023-tweaks/"><u>2024 Approved In-Depth LG BP550 Unleashed with 2023 Tweaks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/amplifying-online-videos-best-5-tools-and-tricks-for-2024/"><u>Amplifying Online Videos Best 5 Tools & Tricks for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-hp-officejet-pro-6970-software-installation-guide-and-latest-driver-updates-for-windows/"><u>Free HP OfficeJet Pro 6970 Software Installation Guide & Latest Driver Updates for Windows</u></a></li>
-<li><a href="https://techidaily.com/sale-alert-get-your-hands-on-an-affordable-m1-imac-at-only-800-the-ultimate-workstation/"><u>Sale Alert! Get Your Hands-On an Affordable M1 iMac at Only $800 - The Ultimate Workstation</u></a></li>
-<li><a href="https://techidaily.com/save-big-with-acronis-true-image-secure-your-data-now-at-a-20-discount/"><u>Save Big with Acronis True Image - Secure Your Data Now at a 20% Discount</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-activating-family-safety-features-in-windows-11/"><u>Step-by-Step Guide: Activating Family Safety Features in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-installing-microsofts-copilot-ai-assistant-on-macos/"><u>Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS</u></a></li>
-<li><a href="https://techidaily.com/the-surprising-expenses-behind-your-linux-operating-system/"><u>The Surprising Expenses Behind Your Linux Operating System</u></a></li>
-<li><a href="https://techidaily.com/top-10-tactics-to-fortify-privacy-on-your-windows-pc-a-step-by-step-guide/"><u>Top 10 Tactics to Fortify Privacy on Your Windows PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-11-copilot-assistant-discontinued-what-you-need-to-know-about-its-departure/"><u>Windows 11 Copilot Assistant Discontinued - What You Need to Know About Its Departure</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>[New] Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-laugh-o-matic-crafting-gags-on-the-house-rate/"><u>[New] Laugh-O-Matic Crafting Gags on the House Rate</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-endgame-total-vr-encompassment/"><u>[New] Pinnacle Endgame Total VR Encompassment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pro-video-recording-methods-for-multiple-systems-for-2024/"><u>[New] Pro Video Recording Methods for Multiple Systems for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>2024 Approved Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/behind-the-scenes-of-samsung-unpacked-2025-confirmed-news-upcoming-releases-and-hottest-rumors-in-electronics/"><u>Behind the Scenes of Samsung Unpacked 2025: Confirmed News, Upcoming Releases & Hottest Rumors in Electronics</u></a></li>
+<li><a href="https://techidaily.com/bust-the-glitch-essential-troubleshooting-tips-for-pc-players-of-goose-goose-duck/"><u>Bust the Glitch: Essential Troubleshooting Tips for PC Players of Goose Goose Duck</u></a></li>
+<li><a href="https://techidaily.com/comprehensive-solution-for-windows-security-correcting-errsslversionorciphermismatch/"><u>Comprehensive Solution for Windows Security: Correcting Err_SSL_Version_or_Cipher_Mismatch</u></a></li>
+<li><a href="https://techidaily.com/connecting-additional-displays-to-your-laptop-a-comprehensive-walkthrough/"><u>Connecting Additional Displays to Your Laptop – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techidaily.com/diy-how-to-install-and-use-bluetooth-on-a-desktop-or-laptop/"><u>DIY: How to Install and Use Bluetooth on a Desktop or Laptop</u></a></li>
+<li><a href="https://techidaily.com/easy-tutorial-on-setting-up-your-laptops-connection-to-wi-fi/"><u>Easy Tutorial on Setting Up Your Laptop's Connection to Wi-Fi</u></a></li>
+<li><a href="https://techidaily.com/effective-techniques-to-remove-malware-from-windows-11-a-guide-with-four-approaches/"><u>Effective Techniques to Remove Malware From Windows 11: A Guide with Four Approaches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-diagnosing-and-repairing-your-games-new-world-connection-problem/"><u>Guide to Diagnosing and Repairing Your Game's 'New World Connection' Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-pc-for-dragons-dogma-2-fixing-game-crash-issues/"><u>Troubleshoot Your PC for Dragon's Dogma 2: Fixing Game Crash Issues</u></a></li>
 </ul></div>
 

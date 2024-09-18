@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Restoring Your Ethernet Connectivity on Microsoft's Latest OS, Windows Nul
-date: 2024-09-12T01:08:58.779Z
-updated: 2024-09-13T01:08:58.779Z
+date: 2024-09-11T18:38:09.115Z
+updated: 2024-09-18T18:13:05.919Z
 tags:
   - desktop
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Is the Ethernet connection not working on your Windows PC? If so, your problem could be anything from your Internet Service to your PC's ethernet card. Below are some potential solutions you can try to resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Run the Network and Internet Troubleshooter
 
  Begin troubleshooting by running the built-in Network and Internet troubleshooter, which can help pinpoint and resolve potential issues with your Ethernet connection.
@@ -50,26 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Preliminary Checks
 
  If the troubleshooter doesn't identify any problems, you should perform some basic checks manually. First, verify that airplane mode is disabled—click on the Wi-Fi icon in the taskbar and check that [Flight (otherwise called Airplane) Mode isn't enabled](https://hardware-help.techidaily.com/jersey-boys/). If it's already off, restart your computer to fix any temporary operating system issues affecting the Ethernet connection.
@@ -80,29 +53,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  If these basic troubleshooting steps do not resolve the issue, you can apply the remaining solutions listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check if the Internet Is Working
 
 ![Ethernet cable plugged into an ethernet port on a router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/52577999789_6417edb804_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
  Connect your device to the internet using Wi-Fi to see if it's functioning correctly. Even using another device, like a cellphone, on the same network is usually enough to determine where the problem is. If you encounter issues connecting to Wi-Fi, it indicates an issue with your internet connection. So, ensure that your Internet Service Provider (ISP) isn't experiencing any outages and that your router is powered on. If neither of those are your issue, [there are a variety of internet troubleshooting steps](https://article-posts.techidaily.com/pioneering-medical-messaging-in-digital-advertising/) you should try. 
 
  If you can successfully connect to the internet via Wi-Fi, your internet connection is active, and the problem likely lies with your device's Ethernet connection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Test the Ethernet Connection on Another Device
 
@@ -117,41 +83,21 @@ Hannah Stryker / How-To Geek
  If the Ethernet cable and its connectors are in good condition, check the ports where the cable is plugged into your router or PC for any obvious signs of damage. Connect the cable to a different port on your PC (if one is available) to confirm whether the PC port is working properly. Then, try plugging the cable to a different port on your router. If changing the ports does not resolve the issue, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rule Out Issues With Your Router
 
 ![The back of a TP-Link Archer C6 router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img20240122150429.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ismar Hrnjicevic / How-To Geek
 
  Take a few simple steps to ensure that a problem with your router isn't causing issues with your Ethernet connection. First, [reboot your router](https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-se-to-other-iphone-drfone-by-drfone-ios/) to clear its memory, terminate all tasks, and reload the router's operating system (or firmware). To do this, disconnect the router from the power source, wait for 10 to 30 seconds, then plug it back in and turn it on.
 
  If you're up to it, you can [log into your router's admin interface](https://buynow-reviews.techidaily.com/unveiling-the-potential-a-full-review-of-tp-links-re5-grower-tp-link-re505x-wifi-range-extender/) and confirm that your device isn't blacklisted. If all else fails, you can [completely reset your router settings](https://digital-screen-recording.techidaily.com/microcapture-video-logger-analysis-and-options-for-2024/) to ensure that misconfigured settings aren't causing the problem.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Ensure the Ethernet Connection Is Enabled
 
@@ -160,6 +106,20 @@ Ismar Hrnjicevic / How-To Geek
  If you see this arrow, it means the Ethernet connection is disabled. To enable it, right-click on the network adapter and choose "Enable Device."
 
 ![Enabling the disabled ethernet connection adapter in device manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/enabling-the-disabled-ethernet-connection-adapter-in-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Update or Reinstall Ethernet Adapter Drivers
 
@@ -173,18 +133,18 @@ Ismar Hrnjicevic / How-To Geek
 
 ![Clicking "Browse my computer for drivers" to manually install the drivers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-06-30_16-32-04.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If updating the driver doesn't resolve the issue, uninstall the driver from Device Manager. Right-click on the driver and select "Uninstall Device."
 
 ![Uninstalling the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uninstalling-the-ethernet-driver-in-device-manager.jpg) 
 
  Then, follow the previous instructions to reinstall it manually.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Disable Proxy Server Over LAN
 
@@ -195,13 +155,6 @@ Ismar Hrnjicevic / How-To Geek
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
 
 ![Turning off the proxy server from LAN settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2-turning-off-the-proxy-server-from-lan-settings-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -222,19 +175,17 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-incorporating-itunes-vibes-into-videos/"><u>[New] In 2024, Incorporating iTunes Vibes Into Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-11-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme 11 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-writing-process-with-these-8-powerful-ai-assistants/"><u>Boost Your Writing Process with These 8 Powerful AI Assistants</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bose-quietcontrol-30-review-amazing-but-flawed/"><u>Bose Quietcontrol 30 Review: Amazing But Flawed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/cutting-edge-memes-top-ten-template-showcase/"><u>Cutting Edge Memes Top Ten Template Showcase</u></a></li>
-<li><a href="https://techidaily.com/decoding-x-tracing-the-origins-of-linuxs-iconic-symbol/"><u>Decoding X: Tracing the Origins of Linux's Iconic Symbol</u></a></li>
-<li><a href="https://techidaily.com/enhanced-availability-microsoft-extends-windows-11-support-for-a-wider-range-of-computers/"><u>Enhanced Availability: Microsoft Extends Windows 11 Support for a Wider Range of Computers</u></a></li>
-<li><a href="https://techidaily.com/essential-7-must-have-software-programs-for-your-windows-computer-unlocking-the-full-potential/"><u>Essential 7 Must-Have Software Programs for Your Windows Computer: Unlocking the Full Potential</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-nokia-g310-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Nokia G310 to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>In 2024, The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
-<li><a href="https://techidaily.com/minecraft-crashes-with-exit-code-1-heres-how-you-can-resolve-it-on-your-windows-pc/"><u>Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/secrets-to-successful-twitpicingvideos-included/"><u>Secrets to Successful Twitpicing—Videos Included</u></a></li>
-<li><a href="https://techidaily.com/top-tech-news-recap-unveiling-new-windows-devices-and-behind-the-scenes-of-spotifys-future/"><u>Top Tech News Recap: Unveiling New Windows Devices & Behind-the-Scenes of Spotify's Future</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-masterclass-in-sharing-youtube-videos-to-facebook-links/"><u>[New] 2024 Approved Masterclass in Sharing YouTube Videos to Facebook Links</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-hymn-based-ringtone-options-for-every-believer-for-2024/"><u>[New] Hymn-Based Ringtone Options for Every Believer for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-how-to-make-tiktok-dance-on-mac/"><u>[Updated] 2024 Approved How to Make TikTok Dance on Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-cost-effective-high-performance-asmr-microphones-guide/"><u>2024 Approved Cost-Effective, High-Performance ASMR Microphones Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-a78-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo A78 FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-problems-with-voice-chatting-in-valorant-practical-tips/"><u>Overcoming Problems with Voice Chatting in Valorant: Practical Tips</u></a></li>
+<li><a href="https://techidaily.com/resolving-synchronization-issues-a-step-by-step-guide-to-reinitializing-microsoft-onedrive-in-windows-11/"><u>Resolving Synchronization Issues: A Step-by-Step Guide to Reinitializing Microsoft OneDrive in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/reviving-your-windows-11-network-interface-solutions-to-restore-ethernet-connection-stability/"><u>Reviving Your Windows 11 Network Interface: Solutions to Restore Ethernet Connection Stability</u></a></li>
+<li><a href="https://techidaily.com/setting-up-windows-subsystem-for-linux-wsl-in-windows-11-a-comprehensive-guide/"><u>Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-clearing-your-dns-cache-in-windows-11/"><u>Step-by-Step Guide: Clearing Your DNS Cache in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-eliminating-background-from-images-in-windows-11/"><u>Step-by-Step Guide: Eliminating Background From Images in Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/bers-playbook-advanced-techniques-for-engaging-editing-for-2024/"><u>Youtuber's Playbook Advanced Techniques for Engaging Editing for 2024</u></a></li>
 </ul></div>
 

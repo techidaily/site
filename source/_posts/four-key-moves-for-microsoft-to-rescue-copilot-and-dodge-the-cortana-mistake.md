@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2024-09-12T01:11:38.697Z
-updated: 2024-09-13T01:11:38.697Z
+date: 2024-09-17T18:37:44.759Z
+updated: 2024-09-18T16:01:35.332Z
 tags:
   - deals
 categories:
@@ -13,29 +13,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 It's clear that Microsoft thinks Copilot is here to stay. They’re so confident that they’ve added an entire button for it on Copilot+ PCs. However, unless Microsoft wants that button to be a useless relic that brings back painful memories in just a few years, Copilot needs to get a few things right.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Microsoft Has Had a Troubled History With Digital Assistants
 
  Much as they would like you to forget, Copilot is not Microsoft’s first crack at a digital assistant. In fact, they’ve built two before this: Clippy and Cortana—the former of which we loved to hate and the latter of which we simply hated (or completely ignored).
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Clippy: The Assistant We All Love to Hate
 
@@ -70,16 +50,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
@@ -95,10 +69,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don't Just Tell Me How—Do It for Me
@@ -113,13 +87,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Copilot, Respect My Boundaries
 
  Microsoft has a spotty record when it comes to respecting user privacy. Back in 2019, they were caught [listening to audio recordings](https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-12-mini-by-drfone-ios/) of people talking to Cortana and even sharing those recordings with contractors. As if people needed any more reason to hate Cortana, now they had to worry about whether she was spying on them.
@@ -127,13 +94,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Copilot cannot operate the same way. If I'm going to ask Copilot to reword an email before sending it off, I need to be sure that Ted from IT won’t get eyes on it.
 
  Microsoft's already had a poor start in this regard. [Recall](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/)–which was supposed to be a huge selling point for the Copilot+ PCs has been [beset by privacy concerns](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/) since its announcement. Even though Recall is different from Copilot, they are so closely intertwined in the new Copilot+ PCs that Copilot can't help but be tainted by association.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Copilot, I Need to Know I Can Trust You
 
@@ -160,21 +120,18 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-elite-circle-of-vr-innovation-experts/"><u>[New] In 2024, Elite Circle of VR Innovation Experts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-increasing-clarity-with-enhanced-youtube-videos/"><u>[New] Increasing Clarity with Enhanced YouTube Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-find-x6-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Find X6</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/efficient-live-gaming-broadcasting-on-xbox/"><u>Efficient Live Gaming Broadcasting on Xbox</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-pixels-to-prints-master-snapseed-fundamentals-for-2024/"><u>From Pixels to Prints Master Snapseed Fundamentals for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-and-certificate-for-jpeg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to create a digital signature and certificate for .jpeg</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-window-11-screenshotting-tutorials/"><u>Mastering the Art of Window 11 Screenshotting Tutorials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-simple-paths-to-start-recording-on-hp-computers/"><u>[New] In 2024, Simple Paths to Start Recording on HP Computers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included/"><u>[Updated] Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-shareable-instagram-stories-that-spread-like-wildfire-for-2024/"><u>Crafting Shareable Instagram Stories That Spread Like Wildfire for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effective-methods-for-maintaining-high-quality-during-video-format-transitions/"><u>Effective Methods for Maintaining High-Quality During Video Format Transitions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-distinctive-features-of-amazons-kindle-and-fire-lineup/"><u>Exploring the Distinctive Features of Amazon's Kindle & Fire Lineup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-x8b-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor X8b Without PUK Codes</u></a></li>
 <li><a href="https://techidaily.com/maximize-your-fps-in-fortnite-essential-tips/"><u>Maximize Your FPS in Fortnite - Essential Tips</u></a></li>
 <li><a href="https://techidaily.com/maximize-your-pubg-gameplay-top-strategies-to-increase-fps-in-2020/"><u>Maximize Your PUBG Gameplay: Top Strategies to Increase FPS in 2020</u></a></li>
 <li><a href="https://techidaily.com/navigating-windows-10-advanced-startup-features-with-minimal-hassle-a-how-to-guide/"><u>Navigating Windows 10 Advanced Startup Features with Minimal Hassle: A How-To Guide</u></a></li>
 <li><a href="https://techidaily.com/optimize-and-overclock-the-ultimate-list-of-tricks-to-make-your-laptop-faster/"><u>Optimize and Overclock: The Ultimate List of Tricks to Make Your Laptop Faster.</u></a></li>
 <li><a href="https://techidaily.com/optimize-windows-11-for-gamers-by-switching-off-mouse-acceleration-feature/"><u>Optimize Windows 11 for Gamers by Switching Off Mouse Acceleration Feature</u></a></li>
 <li><a href="https://techidaily.com/quick-fixes-rebuilding-the-icon-cache-on-your-windows-7-8-or-vista-pc/"><u>Quick Fixes: Rebuilding the Icon Cache on Your Windows 7, 8 or Vista PC</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transforming-hours-at-the-keyboard-the-ergonomic-advantages-of-the-mavix-m9-chair/"><u>Transforming Hours at the Keyboard: The Ergonomic Advantages of the Mavix M9 Chair</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-resolutions-for-non-functional-steam-virtual-reality-vr/"><u>Quick Resolutions for Non-Functional Steam Virtual Reality (VR)</u></a></li>
 </ul></div>
 
