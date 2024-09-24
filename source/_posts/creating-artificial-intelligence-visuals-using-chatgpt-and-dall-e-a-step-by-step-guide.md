@@ -1,7 +1,7 @@
 ---
 title: "Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide"
-date: 2024-09-14T19:07:04.331Z
-updated: 2024-09-18T16:40:04.644Z
+date: 2024-09-18T05:56:28.749Z
+updated: 2024-09-24T00:26:12.983Z
 tags:
   - cutting-edge
 categories:
@@ -39,7 +39,21 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT's list of DALL-E restrictions on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-restricted-images.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you may expect, sexually explicit and hateful images are prohibited, as well as images depicting real people or deepfakes. Images depicting violence and illegal activity and the use of copyright content is also off-limits. [DALL-E is also available in Bing](https://fox-direct.techidaily.com/advanced-speed-adjustment-techniques-in-media-editing-for-2024/) at no charge.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Desktop
 
@@ -51,9 +65,23 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT DALL-E image generation response on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Simply hover your mouse over the image, and you'll see a download option at the top-left. If you're not satisfied with the first result, you can make additional requests.
 
 ![ChatGPT's response to DALL-E prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While ChatGPT can generate some visually stunning images with the DALL-E plugin, it's very difficult to make small changes to a previous image without other things being changed, too.
 
@@ -62,13 +90,6 @@ DALL-E / Sydney Butler / How-To Geek
 ![ChatGPT DALL-E updated image result on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-dalle-cat3.jpg) 
 
  This is because ChatGPT can't keep the previous image exactly the same upon each new request. This is a very limiting aspect, as you can't make small changes to an image that you already like for the most part.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Mobile
 
@@ -81,19 +102,6 @@ Close
  You can request additional images with some changes, but note that there will likely be some other things changed in the new image, too.
 
  To download an image, tap on it, and you'll get a full-screen view with a download option at the top-right of the screen. You can also share the image via the platform of your choice such as Gmail, Instagram, WhatsApp, etc.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  ChatGPT Offers Yet Another Useful Feature
 
@@ -114,19 +122,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-strategies-for-effortlessly-sharing-youtube-videos-on-fb/"><u>[New] 2024 Approved Strategies for Effortlessly Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-omnipresent-iptv-networking-model/"><u>[Updated] 2024 Approved Omnipresent IPTV Networking Model</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings/"><u>2024 Approved Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings</u></a></li>
-<li><a href="https://techidaily.com/affordable-powerhouse-a-detailed-look-at-the-acer-predator-orion-5000s-value-and-high-end-features/"><u>Affordable Powerhouse: A Detailed Look at the Acer Predator Orion 5000'S Value and High-End Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/background-screen-video-recording-full-guide-for-2024/"><u>Background Screen Video Recording Full Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/connect-and-display-your-mac-screen-on-any-tv-with-easy-airplay-setup-instructions/"><u>Connect and Display Your Mac Screen on Any TV with Easy AirPlay Setup Instructions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-essential-tips-for-game-recording-on-windows-10/"><u>In 2024, Essential Tips for Game Recording on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Moto G Stylus (2023) Phone</u></a></li>
-<li><a href="https://techidaily.com/inside-toms-electronics-expert-insights-on-hardware-solutions/"><u>Inside Tom's Electronics: Expert Insights on Hardware Solutions</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-steps-when-your-outlook-search-doesnt-work-anymore/"><u>Troubleshooting Steps: When Your Outlook Search Doesn't Work Anymore</u></a></li>
-<li><a href="https://techidaily.com/unleash-gaming-potential-at-999-dollars-nvidia-rtx-and-intel-core-in-one-pc/"><u>Unleash Gaming Potential at 999 Dollars – NVIDIA RTX and Intel Core in One PC</u></a></li>
-<li><a href="https://techidaily.com/unveiling-top-gadgets-insights-from-toms-hardware-experts/"><u>Unveiling Top Gadgets: Insights From Tom’s Hardware Experts</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-no-fuss-no-muss-5-simple-online-tone-generators-free/"><u>Updated 2024 Approved No Fuss, No Muss 5 Simple Online Tone Generators Free</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-c53-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme C53? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-essential-final-cut-pro-training-manual/"><u>[Updated] In 2024, Essential Final Cut Pro Training Manual</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-from-mundane-to-memorable-transform-your-social-media-identity-with-these-tips/"><u>[Updated] In 2024, From Mundane to Memorable Transform Your Social Media Identity with These Tips</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-automation-enhance-your-sites-performance/"><u>Cookiebot-Driven Automation: Enhance Your Site's Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-google-pixel-7a-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Google Pixel 7a to Mac? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
+<li><a href="https://techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-xs-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone XS</u></a></li>
 </ul></div>
 

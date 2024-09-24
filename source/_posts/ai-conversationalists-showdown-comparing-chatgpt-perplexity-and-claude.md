@@ -1,7 +1,7 @@
 ---
 title: "AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude"
-date: 2024-09-11T16:52:31.869Z
-updated: 2024-09-18T18:24:31.892Z
+date: 2024-09-19T02:11:01.330Z
+updated: 2024-09-24T04:39:29.670Z
 tags:
   - cutting-edge
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![The ChatGPT Official App logo on the sign in page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/50aa3c08.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  AI chatbots rely on large language models (LLMs) to process and respond to prompts. While ChatGPT and Claude use their own original LLMs, Perplexity offers a more varied choice.
@@ -48,13 +55,6 @@ Hannah Stryker / How-To Geek
  Perplexity is a little different. This is an AI chatbot platform that gives you access to multiple LLMs. The free version of Perplexity lets you access GPT-3.5 in addition to its Copilot feature. Be sure not to confuse this Copilot with [Microsoft's AI chatbot](https://vimeo-videos.techidaily.com/new-2024-approved-ultimate-vimeo-cutting-suite-revealed/) that goes by the same name. On Perplexity's platform, Copilot is a GPT-4-powered internet search tool that was launched in May 2023.
 
  The Pro version gives you access to GPT-4 and Claude, too. It's important to note that there is no original Perplexity LLM. The platform uses preexisting LLMs, not its own.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Availability and Price
 
@@ -90,6 +90,13 @@ Hannah Stryker / How-To Geek
 
  ChatGPT has shown that it can hallucinate in the past, as discussed in an [NCBI study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/). Anthropic has also stated [on its own website](https://docs.anthropic.com/claude/docs/claude-is-hallucinating) that Claude can hallucinate. Therefore, whether you're using Claude or one of the GPT versions on Perplexity, it's important to remember that hallucination is possible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. Conversational Abilities
 
  LLMs are designed to interact with users in a human-like manner. This involves understanding context and nuance, keeping up with additional prompts or parameters, and responding with natural language. So, how do ChatGPT, Claude, and Perplexity measure up here?
@@ -101,13 +108,6 @@ Hannah Stryker / How-To Geek
  These are the two responses we got from each chatbot. Here are ChatGPT's results:
 
 ![screenshot of chatgpt prompt response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-response-job.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT gave a longer response with more bullet points and information. The language was very conversational and natural.
 
@@ -125,13 +125,6 @@ Hannah Stryker / How-To Geek
 
  Evidently, the GPT-3.5 responses differed on ChatGPT and Perplexity, which is important to note. Some similar points were touched upon, but you certainly won't be getting identical responses on both platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. Math and Coding Abilities
 
  GPT-3.5, GPT-4, and Claude are not designed to write highly complex code, but you can still use them for simpler coding support. To test this, we asked all three chatbot platforms to provide simple Python code for a desktop calendar program without using a GUI library.
@@ -140,6 +133,13 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of ChatGPT prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-calendar-code.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided a brief but effective code excerpt which worked successfully when tested, providing a simple text-based Python monthly calendar.
 
  From Claude, we got the following result:
@@ -147,10 +147,10 @@ Hannah Stryker / How-To Geek
 ![Screenshot of Claude chabot response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-calendar-response.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Claude gave a slightly longer code excerpt that provided the same result when tested.
@@ -159,7 +159,27 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Perplexity.ai prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-calendar-response.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perplexity also provided a code excerpt that worked successfully when tested, again giving the same result.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Mathematics
 
@@ -175,18 +195,18 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Claude's response to an algebraic problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-math-problem.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Claude also gave the correct answer, along with the solution process.
 
  Finally, we got the below response from Perplexity:
 
 ![Screenshot of Perplexity's response to algebraic equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-math-response.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perplexity also gave the correct answer, as well as the solution process.
 
@@ -211,21 +231,19 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-tips-for-storing-itunes-videos/"><u>[New] In 2024, Essential Tips for Storing iTunes Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-financial-landscape-for-podcasters/"><u>2024 Approved Navigating the Financial Landscape for Podcasters</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturing-every-pixel-ps3-video-recording-101-for-2024/"><u>Capturing Every Pixel PS3 Video Recording 101 for 2024</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-web-analytics-enhancing-user-experience-with-smart-tracking/"><u>Cookiebot-Driven Web Analytics: Enhancing User Experience with Smart Tracking</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enhanced-user-experience-for-your-website/"><u>Cookiebot-Enhanced User Experience for Your Website</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enhanced-user-experience-the-ultimate-power-boost-for-your-website/"><u>Cookiebot-Enhanced User Experience: The Ultimate Power Boost for Your Website</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enhanced-tailor-your-sites-user-experience-with-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced: Tailor Your Site's User Experience with Advanced Analytics & Personalization</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driving-optimized-traffic-with-powerful-analytics/"><u>Cookiebot: Driving Optimized Traffic with Powerful Analytics</u></a></li>
-<li><a href="https://techidaily.com/customizing-content-curation-with-the-help-of-advanced-cookiebot-technologies/"><u>Customizing Content Curation with the Help of Advanced Cookiebot Technologies</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-tech-savviness-learn-to-transact-with-phones-edit-stunning-images-and-compose-original-poems-tips-straight-from-the-abbyy-experts/"><u>Elevate Your Tech Savviness: Learn to Transact with Phones, Edit Stunning Images, and Compose Original Poems - Tips Straight From the ABBYY Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/implementing-youtube-video-automatic-start-on-facebook-for-2024/"><u>Implementing Youtube Video Automatic Start on Facebook for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-tecno-camon-30-pro-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Tecno Camon 30 Pro 5G Without PUK Codes</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-y28-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Y28 5G</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-inside-their-secrets-top-10-youtube-beauty-gurus-you-need-to-see/"><u>[New] 2024 Approved Inside Their Secrets Top 10 YouTube Beauty Gurus You Need to See</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-exploring-mukbang-culture-in-live-video-formats/"><u>[Updated] 2024 Approved Exploring Mukbang Culture in Live Video Formats</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transform-your-viewing-experience-activating-av1-on-youtube/"><u>[Updated] In 2024, Transform Your Viewing Experience Activating AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-video-length-and-content-strategy-in-youtube-shorts/"><u>[Updated] Understanding Video Length and Content Strategy in YouTube Shorts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-identity-american-and-british-english/"><u>Language Identity: American & British English</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/navigating-the-world-of-virtual-engagements-effects-filters-and-more/"><u>Navigating the World of Virtual Engagements Effects, Filters, & More</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-boosting-laptop-performance-with-an-easy-setup-of-a-dedicated-graphics-card/"><u>Step-by-Step Tutorial: Boosting Laptop Performance with an Easy Setup of a Dedicated Graphics Card</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-resolving-insecure-connection-alerts-in-web-browsing/"><u>Strategies for Resolving Insecure Connection Alerts in Web Browsing</u></a></li>
+<li><a href="https://techidaily.com/top-18-free-film-editing-software-options-for-windows-11-8-and-7-users/"><u>Top 18 Free Film Editing Software Options for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-webm-en-mp4-gratuitement-sur-internet-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier WebM en MP4 Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://techidaily.com/transforma-tus-presentaciones-ppt-en-pdf-sin-coste-con-movavi-guia-de-convertir-archivos-en-linea-gratuita/"><u>Transforma Tus Presentaciones PPT en PDF Sin Coste Con Movavi: Guía De Convertir Archivos en Línea Gratuita</u></a></li>
+<li><a href="https://techidaily.com/transformacion-de-videos-a-formato-wmv-una-guia-sencilla-con-movavi/"><u>Transformación De Videos a Formato WMV: Una Guía Sencilla Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/transformation-sans-frais-de-fichiers-m1v-a-mp4-sur-le-web-via-movavi/"><u>Transformation Sans Frais De Fichiers M1V À MP4 Sur Le Web via Movavi</u></a></li>
+<li><a href="https://techidaily.com/wma-vers-m4a-telechargement-gratuit-du-service-de-conversion-en-ligne-de-movavi/"><u>WMA Vers M4A: Téléchargement Gratuit Du Service De Conversion en Ligne De Movavi</u></a></li>
 </ul></div>
 

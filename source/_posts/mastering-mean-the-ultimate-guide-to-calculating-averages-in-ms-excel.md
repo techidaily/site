@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel"
-date: 2024-09-15T16:02:14.460Z
-updated: 2024-09-18T18:52:19.075Z
+date: 2024-09-20T00:18:50.199Z
+updated: 2024-09-24T03:36:27.575Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 * [How to Use AVERAGEIFS in Excel](https://extra-hints.techidaily.com/slowly-quieting-tracks-with-fl-studio/)
 
  Excel has hundreds of functions that can help you to quickly and accurately perform calculations, among which are the AVERAGE functions. You might want to calculate the average sales figures, get the average of a group of data that contains numbers and text, or work out the average of all student scores over a certain number.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Many Average Functions Are There in Excel?
 
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
  To save time, you can instead calculate the average through a few simple clicks. First, select your data to average, click the "Home" tab on the ribbon, and in the "Editing" group, click on the drop-down arrow next to the sigma (Σ) symbol. From there, click "Average". The result will appear at the end of your data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use AVERAGEA in Excel
 
  AVERAGEA works in a very similar way to AVERAGE, but includes more than just numbers within the calculation. Here's the syntax for this function:
@@ -91,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
  As with AVERAGE, if any of the values being used in the AVERAGEA calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would return an error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use AVERAGEIF in Excel
 
  AVERAGEIF effectively performs two calculations in one go, first identifying data that meet a certain criterion before then finding the average of these data. AVERAGEIF uses the following syntax:
@@ -103,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table are cells where the AVERAGEIF functions will be tested.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To work out the average score of all students who scored more than 10, we would use the following formula:
 
 =AVERAGEIF(B2:B8,">10")
@@ -112,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
@@ -129,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  The "C2:C8" part of the formula tells Excel to look in that range (the students' ages) for the criteria, the ">12" part tells Excel to identify any values over 12 in the C2:C8 range (the students' ages), and "B2:B8" (the students' scores) is the part being averaged.
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
@@ -146,13 +167,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To do this, we would use the following formula:
 
 =AVERAGEIFS(B2:B8,C2:C8,"Green",D2:D8,">10")
@@ -160,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  "B2:B8" contains the data to be averaged (the students' scores), "C2:C8" is the first range to be tested with the criterion of "Green" (the student's house), and "D2:D18" is the second range to be tested with the criterion of ">10" (the student's age).
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where an AVERAGEIFS calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-calculated-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This has correctly averaged the scores of Students D and G, as they are both in Green House and are over 10 years old.
 
@@ -194,17 +201,24 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-unleash-creativity-in-videos-with-quick-trims-on-windows-11-for-2024/"><u>[New] Unleash Creativity in Videos with Quick Trims on Windows 11 for 2024</u></a></li>
-<li><a href="https://techidaily.com/1-transform-your-bash-shell-into-a-colorful-spectacle-with-just-one-simple-command/"><u>1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone/"><u>2024 Approved The Art of Saving and Enjoying Animated GIFs on Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/access-the-pioneering-pc-word-editor-free-and-available-online/"><u>Access the Pioneering PC Word Editor: Free and Available Online!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-insights-how-to-use-it-for-beginners-easily/"><u>In 2024, Facebook Insights How to Use It for Beginners Easily</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-rated-free-video-editors-for-avi-files/"><u>New In 2024, Top-Rated Free Video Editors for AVI Files</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-process-to-embrace-cc-copyrights-for-2024/"><u>Step-by-Step Process to Embrace CC Copyrights for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/top-7-best-value-macos-compatible-tiktok-software-for-2024/"><u>Top 7 Best-Value, MacOS Compatible TikTok Software for 2024</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/"><u>Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-making-of-the-iconic-3d-pipes-windows-screen-saver/"><u>Unveiling the Making of the Iconic 3D Pipes Windows Screen Saver</u></a></li>
-<li><a href="https://techidaily.com/updated-fix-for-persistent-problems-microsofts-solution-to-windows-10-and-11-update-bugs/"><u>Updated Fix for Persistent Problems: Microsoft's Solution to Windows 10 and 11 Update Bugs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-thumbnails-essential-dimensions-explored/"><u>[New] Mastering YouTube Thumbnails Essential Dimensions Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-affordable-leading-chromeos-screen-recorders/"><u>[Updated] 2024 Approved Affordable Leading ChromeOS Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-guide-to-the-top-10-historical-education-channels/"><u>[Updated] Guide to the Top 10 Historical Education Channels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-free-image-repository-roundup-top-10-sites-reviewed/"><u>[Updated] In 2024, Free Image Repository Roundup Top 10 Sites Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premium-home-cinema-picks-for-best-3d-blu-ray-systems/"><u>[Updated] Premium Home Cinema Picks for Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secret-spotters-where-to-find-your-snappiest-ringtone/"><u>[Updated] Secret Spotters Where to Find Your Snappiest Ringtone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-compelling-mp4-player-selections-reviewed/"><u>2024 Approved Compelling MP4 Player Selections Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ace-your-match-in-apex-legends-by-correcting-error-23-with-these-pro-tips/"><u>Ace Your Match in Apex Legends by Correcting Error 23 with These Pro Tips!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-rapida-e-gratuita-da-mp3-a-mp4-tramite-movavicom-prova-ora/"><u>Conversione Rapida E Gratuita Da MP3 a MP4 Tramite movavi.com – Prova Ora!</u></a></li>
+<li><a href="https://techidaily.com/gratuito-download-de-conversor-tiff-online-movavi-image-editing/"><u>Gratuito Download De Conversor TiFF Online - Movavi Image Editing</u></a></li>
+<li><a href="https://techidaily.com/guia-completo-publicando-videos-en-instagram-desde-una-pc-compatible-con-windows-y-mac/"><u>Guia Completo: Publicando Videos en Instagram Desde Una PC (Compatible Con Windows Y Mac)</u></a></li>
+<li><a href="https://techidaily.com/guia-paso-a-paso-para-guardar-llamadas-de-whatsapp-descubre-como-hacerlo-desde-tu-computadora-o-dispositivo-movil/"><u>Guía Paso a Paso Para Guardar Llamadas De WhatsApp: Descubre Cómo Hacerlo Desde Tu Computadora O Dispositivo Móvil</u></a></li>
+<li><a href="https://techidaily.com/guida-passo-passo-per-acquisire-uno-screenshot-partiale-su-windows-nativo-10/"><u>Guida Passo-Passo per Acquisire Uno Screenshot Partiale Su Windows Nativo 10</u></a></li>
+<li><a href="https://techidaily.com/guide-complet-comment-convertir-facilement-un-fichier-m4r-au-format-mp3-sans-frais-a-laide-de-movavi/"><u>Guide Complet : Comment Convertir Facilement Un Fichier M4R Au Format MP3 Sans Frais À L'aide De Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-v30t-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme V30T Phone Screen?</u></a></li>
+<li><a href="https://techidaily.com/las-5-formas-mas-efectivas-de-crear-un-cuadro-con-fotografias-en-2024-tutoriales-y-consejos-movavi/"><u>Las 5 Formas Más Efectivas De Crear Un Cuadro Con Fotografías en 2024 - Tutoriales Y Consejos - Movavi</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-whats-fresh-with-movavi-screen-recorder/"><u>Latest Updates: What's Fresh with Movavi Screen Recorder</u></a></li>
+<li><a href="https://techidaily.com/master-the-art-of-clipping-with-top-tier-video-editing-tools/"><u>Master the Art of Clipping with Top-Tier Video Editing Tools</u></a></li>
+<li><a href="https://techidaily.com/masterclass-em-fotografia-digital-desbravando-o-mundo-dos-efeitos-visuais-e-filtros-para-fotos-perfeitas/"><u>Masterclass Em Fotografia Digital - Desbravando O Mundo Dos Efeitos Visuais E Filtros Para Fotos Perfeitas</u></a></li>
 </ul></div>
 

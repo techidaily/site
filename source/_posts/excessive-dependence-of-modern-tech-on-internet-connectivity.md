@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2024-09-15T18:15:03.095Z
-updated: 2024-09-18T19:09:44.900Z
+date: 2024-09-18T06:08:26.652Z
+updated: 2024-09-24T08:20:16.127Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Delayed and canceled flights, delayed packages, and missed work hours. You'd think I'm describing a Gen Z horror movie, but it's actually happening in real time. [CrowdStrike](https://edition.cnn.com/business/live-news/global-outage-intl-hnk/index.html)'s failed cybersecurity update has caused a global outage of Windows systems, exposing the fragility of our modern infrastructure.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Forced Updates Are Disruptive
 
  Microsoft loves to force auto-updates, and there's no easy [way to disable them](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/). These updates are incredibly disruptive even when they go completely smoothly, as they can prevent your system from shutting down and turning on without installing the update. I was late to several online classes during the pandemic because of this; fortunately, so were my other colleagues and professors.
@@ -28,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  US and European Airlines heavily rely on Windows machines for communication and organization, so they were hit the hardest; over [2,000 flights](https://www.usatoday.com/story/travel/news/2024/07/19/global-it-outage-flights-canceled-delayed/74466125007/) have been canceled just in the US today because of the bug. [Some estimates](https://www.cnbc.com/2024/07/19/crowdstrike-it-outage-spreads-global-supply-chain.html) point to potential weeks of recovery for air freight. Even though the issue has been largely resolved, systems have to be reset manually, which is a time-consuming task for large corporations.
 
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Single Point of Failure
 
@@ -39,6 +53,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
 
  What about your home and the internet—you likely have a bunch of smart home devices that [rely on your Wi-Fi router](https://ai-topics.techidaily.com/new-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/) and the cloud to operate. This makes sense for some devices that have to answer random questions, tell you the news and the weather, and play music from the web, such as your smart speaker. It's also great that you can control the devices when not at home, but not all devices need this capability.
@@ -49,14 +70,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
-Jerome Thomas / How-To Geek
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Jerome Thomas / How-To Geek
 
 ##  Clouds Can Vanish
 
@@ -65,13 +86,6 @@ Jerome Thomas / How-To Geek
  I don't feel comfortable allowing tech companies to handle my personal data, and personally, I think that it's only a matter of time before we see someone permanently delete some or all of our files on the cloud. If anything, companies could start deleting data from unused accounts to save space on their servers as a form of maintenance. For instance, [MEGA](https://help.mega.io/accounts/create-delete/account-expiry#:~:text=If%20you%20don't%20log,don't%20log%20back%20in.) starts deleting files after just three months of inactivity, so it's smart to replace or supplement the cloud with [local backups](https://vp-tips.techidaily.com/updated-unveiling-the-best-free-video-player-vlc-versus-mpc/).
 
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -96,20 +110,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-metaverse-branding-strategies-unveiled/"><u>[New] 2024 Approved Metaverse Branding Strategies Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-world-of-book-trailers-with-top-5-picks/"><u>[New] Exploring the World of Book Trailers with Top 5 Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-quick-video-sharing-tweet-it-up-no-need-for-retweets-for-2024/"><u>[New] Quick Video Sharing Tweet It Up - No Need for Retweets for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/15-top-mobiles-elevating-dji-video-production-value-for-2024/"><u>15 Top Mobiles Elevating DJi Video Production Value for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-satire-skills-video-comedy-mastery-tips/"><u>2024 Approved Satire Skills Video Comedy Mastery Tips</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-website-optimization-boost-your-traffic/"><u>Cookiebot-Driven Website Optimization: Boost Your Traffic</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-optimized-user-experience-and-data-tracking/"><u>Cookiebot-Enabled: Optimized User Experience and Data Tracking</u></a></li>
-<li><a href="https://techidaily.com/data-driven-strategies-harnessing-consumer-understanding-in-the-intelligent-enterprise-era/"><u>Data-Driven Strategies: Harnessing Consumer Understanding in the Intelligent Enterprise Era</u></a></li>
-<li><a href="https://techidaily.com/effortless-scanning-and-conversion-of-documents-and-images-use-your-iphone-with-precision-technology/"><u>Effortless Scanning & Conversion of Documents & Images: Use Your iPhone with Precision Technology!</u></a></li>
-<li><a href="https://techidaily.com/elevate-user-experience-with-cookiebot-technology-integration/"><u>Elevate User Experience with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://techidaily.com/enhance-digital-marketing-strategies-using-the-power-of-cookiebot-technology/"><u>Enhance Digital Marketing Strategies Using the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-might-chatbots-like-chatgpt-impact-online-search-engine-use/"><u>How Might Chatbots Like ChatGPT Impact Online Search Engine Use?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-wont-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola won’t play MKV movies</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solution-ultrasound-can-identify-anomalies-that-suggest-certain-infections-such-as-microcephaly-with-zika-virus-allowing-for-early-intervention-and-planning38/"><u>Solution: Ultrasound Can Identify Anomalies that Suggest Certain Infections, Such as Microcephaly with Zika Virus, Allowing for Early Intervention and Planning.</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/tips-and-tricks-for-windows-hdr-video-workflows-for-2024/"><u>Tips and Tricks for Windows HDR Video Workflows for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-in-film-the-ultimate-guide-to-producing-slow-motion-videos-with-photos-and-internet/"><u>[New] Pushing Boundaries in Film The Ultimate Guide to Producing Slow-Motion Videos with Photos & Internet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>[New] Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-to-social-glory-enhance-your-feed-with-gifs-insta-style/"><u>[Updated] In 2024, Step-By-Step to Social Glory Enhance Your Feed with GIFs (Insta Style)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-a2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo A2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-exception-breakpoint-obstacle/"><u>Overcoming Windows Exception Breakpoint Obstacle</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-access-entry-corrupted-windows-malfunction/"><u>Reversing the 'Access Entry Corrupted' Windows Malfunction</u></a></li>
+<li><a href="https://techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
+<li><a href="https://techidaily.com/stegvisu-diskord-skarmshandling-pa-pc-och-mobil-plattformer/"><u>Stegvisu Diskord-Skärmshandling På PC Och Mobil Plattformer</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reattach-absent-drives-in-windows/"><u>Steps to Reattach Absent Drives in Windows</u></a></li>
+<li><a href="https://techidaily.com/telecharger-et-convertir-facilement-votre-fichier-m4v-au-format-wav-gratuitement-via-movavi/"><u>Télécharger Et Convertir Facilement Votre Fichier M4V Au Format WAV Gratuitement via Movavi</u></a></li>
+<li><a href="https://techidaily.com/televersement-gratuit-des-fichiers-orf-au-format-jpeg-convertissez-facilement-avec-movavi/"><u>Téléversement Gratuit Des Fichiers ORF Au Format JPEG - Convertissez Facilement Avec Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-and-review-to-the-updated-kindle-paperwhite-from-amazon-in-201/"><u>The Ultimate Guide and Review to the Updated Kindle Paperwhite From Amazon in 201#</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-list-of-video-encode-utilities-16-free-options-for-you/"><u>The Ultimate List of Video Encode Utilities: 16 FREE Options for You!</u></a></li>
+<li><a href="https://techidaily.com/top-12-editor-friendly-displays-budget-and-professional-options/"><u>Top 12 Editor-Friendly Displays: Budget and Professional Options</u></a></li>
+<li><a href="https://techidaily.com/top-12-free-mac-image-editing-software-picks-exploring-the-best-choices/"><u>Top 12 Free Mac Image Editing Software Picks - Exploring the Best Choices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2024-09-13T17:23:33.162Z
-updated: 2024-09-18T19:19:02.961Z
+date: 2024-09-19T05:14:46.218Z
+updated: 2024-09-23T21:24:21.269Z
 tags:
   - web
 categories:
@@ -41,6 +41,13 @@ An example of a trading offer. Note how the text invites users to send direct me
 
  Although I know people personally who have been victims of these scams, and I have plenty of people in my Facebook feed who have clearly compromised accounts, or in some cases seem to be complicit, I have opted not to post any screenshots that can potentially be traced back to specific people. However, my aim here is to warn you against this entire class of scam, not the specific approach scammers are taking at the moment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Those Banking Screenshots Are Easy to Fake
 
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
@@ -52,25 +59,32 @@ _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-us
  The most obvious question you should be asking yourself, is why this person is so desperate to share this "investment" opportunity in the first place? What do they stand to gain? Either the account is hacked, or the person is complicit and is taking money in exchange for roping more people into the scam,
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Technology Can Make It Worse
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
  At first, I was convinced that all of these accounts were simply hacked, but then some of them started posting testimonial videos. It occurred to me that these could be [AI deepfakes](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/), but looking closely at them for the telltale signs, it doesn't seem that way. Which suggests that some of these people may be complicit in the scams. However, deepfake technology has advanced to the point where this is also a totally plausible answer. Either way, you should find these videos equally unconvincing regardless of whether they are faked or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Never Invest Money Without Licensed Help
@@ -94,15 +108,25 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-adding-melodies-to-timelines-a-stepwise-guide-iosandroid/"><u>[New] In 2024, Adding Melodies to Timelines A Stepwise Guide (iOS/Android)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-comprehensive-guide-to-instagram-edits-for-professionals-for-2024/"><u>[Updated] A Comprehensive Guide to Instagram Edits for Professionals for 2024</u></a></li>
-<li><a href="https://techidaily.com/expert-advice-how-to-get-your-google-chrome-up-and-running-after-an-unexpected-stop/"><u>Expert Advice: How to Get Your Google Chrome Up and Running After an Unexpected Stop</u></a></li>
-<li><a href="https://techidaily.com/fixes-implemented-for-successful-windows-11-installs-overcoming-initial-errors/"><u>Fixes Implemented for Successful Windows 11 Installs – Overcoming Initial Errors</u></a></li>
-<li><a href="https://techidaily.com/guide-monitoring-your-pcs-temperature-in-windows-11/"><u>Guide: Monitoring Your PC's Temperature in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-organize-and-categorize-messages-in-gmail-with-labels/"><u>How to Organize & Categorize Messages in Gmail with Labels</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-most-popular-android-apps-you-need-to-try/"><u>In 2024, The Most Popular Android Apps You Need to Try</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-logitechs-elite-g600-driver-on-your-window-based-computer/"><u>Install Logitech's Elite G600 Driver on Your Window-Based Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-unpacking-rar-archives-on-macos/"><u>Ultimate Guide: Unpacking RAR Archives on macOS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-google-wireless-nest-doorbell-on-batteries-features-benefits-and-drawbacks/"><u>Unboxing the Google Wireless Nest Doorbell on Batteries: Features, Benefits and Drawbacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-effortless-tricks-for-capturing-instagram-stories/"><u>[New] 2024 Approved Effortless Tricks for Capturing Instagram Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamers-dilemma-revisited-obs-vs-twitch-channel-space/"><u>[New] Streamers' Dilemma Revisited OBS vs Twitch Channel Space</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-idea-to-execution-making-memorable-fb-videos/"><u>[Updated] In 2024, From Idea to Execution Making Memorable FB Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unraveling-the-process-of-gaining-facebooks-blue-badge-for-2024/"><u>[Updated] Unraveling the Process of Gaining Facebook's Blue Badge for 2024</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-ts-to-webm-video-format-by-movavi/"><u>Free Online Converter: Ts to Webm Video Format by Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratis-conversione-mmf-in-formato-digitale-scelta-ottima-con-movavi/"><u>Gratis Conversione MMF in Formato Digitale - Scelta Ottima Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuita-conversor-de-memoria-ram-para-archivos-mpeg4-a-formato-mov-online-movavi/"><u>Gratuita Conversor De Memoria RAM Para Archivos MPEG4 a Formato MOV Online - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuite-garantie-transformez-votre-fichier-gif-en-format-avi-sur-internet-moviwizard/"><u>Gratuité Garantie : Transformez Votre Fichier GIF en Format AVI Sur Internet - MoviWizard</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversione-online-di-file-nsv-a-mp3-con-movavi-libera-e-facile/"><u>Gratuito: Conversione Online Di File NSV a MP3 Con Movavi - Libera E Facile</u></a></li>
+<li><a href="https://techidaily.com/gratuito-websaida-para-conversao-do-audio-opus-para-mp4-video-pela-movavi-utilize-on-line-sem-custo-algum/"><u>Gratuito: Websaída Para Conversão Do Audio Opus Para MP4 Vídeo Pela Movavi – Utilize On-Line Sem Custo Algum!</u></a></li>
+<li><a href="https://techidaily.com/guide-facile-pour-prendre-des-captures-decran-accelerees-en-directavec-movavi-compatible-multiplateforme/"><u>Guide Facile Pour Prendre Des Captures D'écran Accélérées en Directavec Movavi - Compatible Multiplateforme</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-note-30-vip-racing-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Note 30 VIP Racing Edition to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovating-podcast-branding-a-comprehensive-logo-guidebook/"><u>Innovating Podcast Branding A Comprehensive Logo Guidebook</u></a></li>
+<li><a href="https://techidaily.com/kostenloses-konvertieren-von-aiff-in-aac-mit-movavi-online-tool/"><u>Kostenloses Konvertieren Von AIFF in AAC Mit Movavi Online-Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1650-super-drivers-for-windows-10-and-11-free-update-now/"><u>Latest NVIDIA GeForce GTX 1650 Super Drivers for Windows 10 & 11 - Free Update Now!</u></a></li>
+<li><a href="https://techidaily.com/movavi-flac-dts-flac/"><u>Movavi의 강력하고 사용자 친화적 FLAC 형식으로 DTS FLAC 전환 기법 – 무료 인터넷 시작</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-game-lag-fixing-pc-errors-in-nba-2k21/"><u>Overcoming Game Lag: Fixing PC Errors in NBA 2K21</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/roccat-usb-wired-mouse-professional-download-guide/"><u>Roccat USB Wired Mouse: Professional Download Guide</u></a></li>
+<li><a href="https://techidaily.com/mova-vi-avi/"><u>オンラインでのストレートフォルダ MOVA VI AVIコンバーター - 無料版</u></a></li>
 </ul></div>
 

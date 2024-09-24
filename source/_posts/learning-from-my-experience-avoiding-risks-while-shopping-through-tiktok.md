@@ -1,7 +1,7 @@
 ---
 title: "Learning From My Experience: Avoiding Risks While Shopping Through TikTok"
-date: 2024-09-15T18:05:16.984Z
-updated: 2024-09-18T16:04:57.116Z
+date: 2024-09-19T16:53:19.112Z
+updated: 2024-09-23T19:33:55.567Z
 tags:
   - web
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
  TikTok Shop opened for business in November 2022, and the operation now generates more than $17 billion per year. Almost anyone can monetize their TikTok account using Shopify—which is how I got burned. Here's what you need to know to make sure it doesn't happen to you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Tale of Two TikTok Purchases
 
  I was a latecomer to [TikTok](https://www.tiktok.com/) and if I'm being honest, I only got on board for clumsy panda content with a side of funny memes. I didn't plan to use it as a shopping platform.
@@ -27,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  But who can resist the siren song of clothing and criss-cross chairs? Not me, apparently. Since I signed up for TikTok, I've made two purchases: a [viral oversized desk chair](https://www.amazon.com/Legged-Office-Armless-Computer-Adjustable/dp/B0CZLHFWL8/ref=sr%5F1%5F5?dib=eyJ2IjoiMSJ9.EYKqMjOnndRP7MShUqmOzZBgiPBKdwLlhpHETWBE2TO1s4a%5FiOHgexUu2sVrgA9MXTSiXV9ZdJx0%5Ftrvxq5caahoQAsYRLYi1BqnuR8KPv35286n7TBo0LYhksIhy3XgMIel5N1KvOUD7n8u4vry3KKSwTnmVF1hNHd3BEsWLqNX8EkeCC4%5FBjv5DF9jhNY1WTa3V8UDQdjPom8JEs26qD90ov-JewAEEIkAhYjz9JF7y621lAtnYpU8pQ6DqLNLTffBvck5gF8mtuNbr2vY0MxZPB3gRpnRf6LJ1teMrFM.fAmGlb014eQcxe5m1moZZ8MJENJo-Do1bOpdVSR6rb4&dib%5Ftag=se&hvadid=665639400447&hvdev=c&hvlocphy=1013462&hvnetw=g&hvqmt=e&hvrand=6948836597444604577&hvtargid=kwd-2162749065788&hydadcr=7665%5F13469258&keywords=viral+criss+cross+chair&qid=1718305400&sr=8-5&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003634&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-got-burned-shopping-on-tiktok-but-you-can-learn-from-my-mistake%2F&asc%5Fcampaign=Short-Term) and a [belted black jumpsuit](https://mccoyn.com/products/womens-sleeveless-wide-leg-jumpsuit). I sit upon my huge quilted throne as we speak, but the jumpsuit is lost to time and space (I got scammed out of $20).
 
  While the chair sale went through the typical TikTok Shop Shopify pipeline, at some point when purchasing the jumpsuit I was apparently lured to a third-party site. When the item never arrived and I requested a refund, I was met with radio silence. I'm not holding my breath.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How TikTok Shop Works
 
@@ -38,15 +52,22 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 ![Select 'Shop' in the bottom bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-_profile_-in-the-bottom-bar-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or, you can click the Shop link in a video to shop for the product that they're talking about:
 
 ![Click the TikTok shop link in a post to buy the item shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tiktok-shop-link.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Red Flags When Buying on TikTok
@@ -58,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  Second, be wary of new accounts. While some brands create a new TikTok account and start to sell legitimate merchandise, other times, a new account deserves some suspicion. If you see a brand new unverified account that is selling its own merchandise, you may want to wait to purchase. Likewise, accounts with little to no engagement may be spam accounts worthy of caution.
 
  Lastly, avoid products with little description. Don't buy anything with little to no product specs or descriptions. Legit sellers will outline what you're getting and how you can return it. Look for contact info, too.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best Practices for TikTok Shopping
 
@@ -89,19 +103,25 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-discover-the-7-most-wanted-apps-to-boost-your-youtube-live-quality-for-2024/"><u>[New] Discover the 7 Most Wanted Apps to Boost Your YouTube LIVE Quality for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-secretive-story-viewing-tactics-for-android-iphone-and-pc/"><u>[New] In 2024, Secretive Story Viewing Tactics for Android, iPhone & PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-evaluating-dailymotion-vs-youtube-profitability/"><u>[Updated] 2024 Approved Evaluating Dailymotion vs YouTube Profitability</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-overcoming-gopro-distorted-images-a-guide/"><u>[Updated] Overcoming GoPro Distorted Images A Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-capturing-desktop-anytime-on-windows/"><u>2024 Approved Capturing Desktop, Anytime on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-install-new-epson-driver-version-on-your-windows-10-pc/"><u>Easy Steps to Install New Epson Driver Version on Your Windows 10 PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevating-engagement-the-pillars-of-youtube-rankings/"><u>Elevating Engagement The Pillars of YouTube Rankings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966678210-fixing-amd-vega-64-graphics-card-issues-with-the-newest-windows-drivers-your-solution-here/"><u>Fixing AMD Vega 64 Graphics Card Issues with the Newest Windows Drivers – Your Solution Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-nier-automata-on-your-computer-overcome-stutter-and-lag-problems-today/"><u>Mastering Nier: Automata on Your Computer - Overcome Stutter and Lag Problems Today!</u></a></li>
-<li><a href="https://techidaily.com/mastering-system-recovery-in-windows-11-accessing-boot-settings-explained/"><u>Mastering System Recovery in Windows 11: Accessing Boot Settings Explained</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-effortless-screen-captures-in-windows-8/"><u>Mastering the Art of Effortless Screen Captures in Windows 8</u></a></li>
-<li><a href="https://techidaily.com/navigating-the-uninstallation-of-nvidia-drivers-in-windows-11/"><u>Navigating the Uninstallation of NVIDIA Drivers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/optimizing-pubg-gameplay-mastering-nvidia-graphics-card-settings/"><u>Optimizing PUBG Gameplay: Mastering Nvidia Graphics Card Settings</u></a></li>
-<li><a href="https://techidaily.com/overcoming-challenges-in-installing-oculus-on-the-latest-versions-of-windows-os/"><u>Overcoming Challenges in Installing Oculus on the Latest Versions of Windows OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-editing-savvy-streamlining-your-youtube-video-lengths-for-2024/"><u>[Updated] Editing Savvy Streamlining Your YouTube Video Lengths for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-webcam-wonders-innovative-home-tech-use/"><u>[Updated] In 2024, Webcam Wonders Innovative Home Tech Use</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-art-of-antiquated-visuals-for-modern-audienciplines/"><u>2024 Approved The Art of Antiquated Visuals for Modern Audienciplines</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-insider-guide-to-gaming-channel-header-templates/"><u>2024 Approved The Insider Guide to Gaming Channel Header Templates</u></a></li>
+<li><a href="https://techidaily.com/6k6k6lqr6auy5oml77yb5lul5lil5piv5ycl57ch5zau44cb5bplusr6ycf55qe5pa55rov77ym55so5l6g5pwz5l2g5aac5l2v6j6n5zci5lin5zcm55qe55u454mh5oiq5lia5by15a6m576o5l2c5zob428/"><u>變身高手！以下是個簡單、快速的方法，用來教你如何融合不同的相片成一張完美作品。</u></a></li>
+<li><a href="https://techidaily.com/1726233701649-rmvb-mp4-movavi/"><u>免費線上 RMVB 改成 MP4 - 優化過的 Movavi 影片換算器指南</u></a></li>
+<li><a href="https://techidaily.com/1726233765475-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://discover-community.techidaily.com/free-official-downloads-ultimate-dvd-ripper-and-hd-video-converter-tool-by-winx/"><u>Free Official Downloads: Ultimate DVD Ripper & HD Video Converter Tool by WinX</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-innovating-filming-techniques-smartphones-as-webcams/"><u>In 2024, Innovating Filming Techniques Smartphones as Webcams</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-lava-agni-2-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Lava Agni 2 5G Phone Network-Ready</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/showdown-between-top-doorbells-how-ring-stacks-up-against-nest/"><u>Showdown Between Top Doorbells: How Ring Stacks Up Against Nest</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-resolve-sea-of-thieves-game-crashes/"><u>The Ultimate Guide to Resolve Sea of Thieves Game Crashes</u></a></li>
+<li><a href="https://techidaily.com/top-5-free-editing-software-substitutes-a-pinnacle-studio-pour-pc-et-mac/"><u>Top 5 Free Editing Software Substitutes À Pinnacle Studio Pour PC Et MAC</u></a></li>
+<li><a href="https://techidaily.com/top-6-finns-gratuiti-brannprogram-for-windows-11-8-och-7-fullstandiga-guide/"><u>Top 6 Finns Gratuiti Brännprogram För Windows 11, 8 Och 7 – Fullständiga Guide</u></a></li>
+<li><a href="https://techidaily.com/top-9-unheard-sound-effects-in-film-edit-with-movavis-audio-tools/"><u>Top 9 Unheard Sound Effects in Film - Edit with Movavi's Audio Tools</u></a></li>
+<li><a href="https://techidaily.com/transferer-mp3-a-un-format-iphone-aac-sans-frais-guide-complet-sur-line/"><u>Transférer MP3 À Un Format IPhone AAC Sans Frais : Guide Complet Sur Line</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-how-to-reconnect-to-your-mc-lan-party-on-pc/"><u>Troubleshooting: How to Reconnect to Your MC LAN Party on PC</u></a></li>
+<li><a href="https://techidaily.com/wmaflvmovavi/"><u>WMA/FLVファイルを問わず、Movaviでの無料オンラインコーデック変換</u></a></li>
+<li><a href="https://techidaily.com/aiff-mpeg-movavi/"><u>오픈소스에서 무세금 AIFF MPEG 전환 - MOVAVI</u></a></li>
+<li><a href="https://techidaily.com/1726233800735-movavi/"><u>ご利用された商品について - Movaviによる返品規則紹介</u></a></li>
 </ul></div>
 

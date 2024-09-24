@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-09-12T17:20:20.525Z
-updated: 2024-09-18T17:50:08.709Z
+date: 2024-09-21T22:46:43.648Z
+updated: 2024-09-24T07:40:21.000Z
 tags:
   - deals
 categories:
@@ -40,23 +40,32 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-record-review-repeat-unveiling-top-5-browser-screen-recorders/"><u>[New] 2024 Approved Record, Review, Repeat Unveiling Top 5 Browser Screen Recorders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-transformations-unlocked-the-2-most-effective-ways-to-convert-video/"><u>[Updated] Transformations Unlocked The 2 Most Effective Ways to Convert Video</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>2024 Approved Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-oculus-rift-adventures-for-gamers/"><u>2024 Approved Essential Oculus Rift Adventures for Gamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-brand-presence-through-strategic-smm/"><u>Building Brand Presence Through Strategic SMM</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-6-impressive-ways-to-utilize-bing-ai-chatbot-for-enhanced-digital-interaction/"><u>Discover 6 Impressive Ways to Utilize Bing AI Chatbot for Enhanced Digital Interaction</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/resolving-the-0xc00d5212-media-playback-issue-on-windows-11-a-step-by-step-guide/"><u>Resolving the 0xC00D5212 Media Playback Issue on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-perform-a-successful-system-restore-in-windows-10/"><u>Step by Step Tutorial: How to Perform a Successful System Restore in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-capturing-images-with-your-lenovo-computers-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Lenovo Computer's Built-In Camera</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-clearing-viruses-off-your-android-smartphone-without-erasing-everything/"><u>Step-by-Step Guide: Clearing Viruses Off Your Android Smartphone Without Erasing Everything</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamline-slack-collaboration-with-best-10-free-tools/"><u>[New] In 2024, Streamline Slack Collaboration with Best 10 Free Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-essence-of-style-in-ae-title-design/"><u>[New] In 2024, The Essence of Style in AE Title Design</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-androids-prime-video-calls-top-10-cost-free-options/"><u>[Updated] In 2024, Android's Prime Video Calls Top 10 Cost-Free Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pathway-to-profitability-with-the-new-youtube-premium-program/"><u>[Updated] Pathway to Profitability with the New YouTube Premium Program</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/connecting-players-and-friends-stream-xbox-to-fb/"><u>Connecting Players & Friends Stream Xbox to FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-control-over-ps5-game-sets/"><u>Efficient Control Over PS5 Game Sets</u></a></li>
+<li><a href="https://techidaily.com/gratisk-online-omzetten-van-m4r-naar-aiff-formaat-met-movavi/"><u>Gratisk Online Omzetten Van M4R Naar AIFF-Formaat Met Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
+<li><a href="https://techidaily.com/gratuit-online-kunt-u-je-mp4-naar-mkv-verkeren-met-beslistheid-movavi/"><u>Gratuit Online: Kunt U Je MP4 Naar MKV Verkeren Met Beslistheid - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuita-conversao-de-imagens-para-formato-jpeg-online-facil-com-movavi/"><u>Gratuita Conversão De Imagens Para Formato JPEG Online - Fácil Com Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuite-web-konvertierung-von-nef-zu-png-mit-movavi-best-practices-und-tipps/"><u>Gratuite Web-Konvertierung Von NEF Zu PNG Mit Movavi - Best Practices Und Tipps</u></a></li>
+<li><a href="https://techidaily.com/gratuito-moviola-convertendo-formatos-3gp-e-wma-com-o-movavi/"><u>Gratuito Moviola: Convertendo Formatos 3GP E WMA Com O Movavi</u></a></li>
+<li><a href="https://techidaily.com/guide-complet-pour-creer-des-videos-a-poster-sur-youtube-avec-lediteur-de-films-movavi/"><u>Guide Complet Pour Créer Des Vidéos À Poster Sur Youtube Avec L'Éditeur De Films Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-transform-your-flv-videos-into-high-quality-m4v-files-with-movavis-online-tools/"><u>How to Easily Transform Your FLV Videos Into High-Quality M4V Files with Movavi's Online Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-audio-picks-high-quality-sites-compilation/"><u>In 2024, Best Audio Picks High-Quality Sites Compilation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-100-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 100</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oppo-reno-11-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Oppo Reno 11 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/iniciando-tu-viaje-como-representante-de-ventas-con-el-programa-de-afiliados-movavi-tecnicas-y-estrategias-para-ganar/"><u>Iniciando Tu Viaje Como Representante De Ventas Con El Programa De Afiliados Movavi: Técnicas Y Estrategias Para Ganar</u></a></li>
+<li><a href="https://techidaily.com/las-10-metodos-mas-efectivos-para-transformar-un-video-a-gif-con-movavi/"><u>Las 10 Métodos Más Efectivos Para Transformar Un Video a GIF Con Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/softer-sounds-guide-for-pcos-users/"><u>Softer Sounds Guide for PC/OS Users</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

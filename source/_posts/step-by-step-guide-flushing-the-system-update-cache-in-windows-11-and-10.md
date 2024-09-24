@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10"
-date: 2024-09-16T18:07:03.650Z
-updated: 2024-09-18T16:49:56.623Z
+date: 2024-09-20T01:56:08.576Z
+updated: 2024-09-24T08:01:43.435Z
 tags:
   - deals
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
  Both Windows 11 and Windows 10 make it super easy to clear your Windows Update cache. You can use a graphical method or a command line option to delete the saved update files. We’ll show you your available options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Should You Clear Your Windows Update Cache?
 
  There are many reasons you might want to clear your Windows Update cache.
@@ -33,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  You might be [facing issues finding or installing updates](https://extra-guidance.techidaily.com/2024-approved-smoothing-out-the-rough-edges-in-photo-booth-videos/), and clearing the cache often fixes the problem. Clearing the cache fixes issues with Windows Updates by forcing Windows to re-download all the required files.
 
  Another reason is to [free up storage space](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/). Update cache files often use a huge chunk of the storage, and you can reclaim that by deleting those cached files. (Windows does delete some update files after installing those updates, but not all.)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using File Explorer
 
@@ -68,10 +68,10 @@ C:\Windows\SoftwareDistribution\
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This ensures your PC can continue to look for the latest updates.
@@ -93,10 +93,10 @@ C:\Windows\SoftwareDistribution\
 !['Clean Up System Files' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-clean-up-system-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose your Windows installation drive again and select "OK."
@@ -106,13 +106,6 @@ C:\Windows\SoftwareDistribution\
 !['Windows Update Cleanup' and 'OK' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-delete-windows-update-cache-disk-cleanup.jpg) 
 
  The tool will begin cleaning up the update cache files.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using Command Prompt
 
@@ -131,6 +124,13 @@ net stop bits`
     
 ![Commands to stop certain Windows services typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-stop-services.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next up, run the following command to make the Windows Update cache folder the current working directory.
 
 cd %windir%\SoftwareDistribution
@@ -141,19 +141,19 @@ del /f /s /q *.*
 
 ![Commands to clear the Windows Update cache typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-clear-update-cache-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After clearing the cache, restart the services you stopped above. Do that by typing the following commands and pressing Enter after each line.
 
         `net start wuauserv  
 net start bits`
     
  You’re done.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Use a Script to Clear Update Cache in a Single-Click
 
@@ -176,6 +176,13 @@ net start bits`
 
 ![Windows' 'Save As' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-create-update-cache-removal-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the future, to clear your Windows Update cache using the script, right-click the script file and select "Run as Administrator." In the User Account Control prompt, choose "Yes." The script will stop certain services, deletes the update cache files, and restarts the stopped services.
 
 ---
@@ -197,17 +204,20 @@ net start bits`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-transformative-tones-expert-chromatic-conversion/"><u>[New] Transformative Tones Expert Chromatic Conversion</u></a></li>
-<li><a href="https://techidaily.com/blocking-pop-ups-in-chrome-firefox-and-edge-quickly-and-easily/"><u>Blocking Pop-Ups in Chrome, Firefox and Edge | Quickly & Easily</u></a></li>
-<li><a href="https://techidaily.com/boost-your-minecraft-performance-ultimate-guide-to-eliminating-lag-on-powerful-gaming-rigs/"><u>Boost Your Minecraft Performance: Ultimate Guide to Eliminating Lag on Powerful Gaming Rigs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/cross-platform-connections-effortless-insta-facebook-linkup-for-2024/"><u>Cross-Platform Connections Effortless Insta-Facebook Linkup for 2024</u></a></li>
-<li><a href="https://techidaily.com/easily-create-a-password-reset-disk-in-windows-10-step-by-step/"><u>Easily Create a Password Reset Disk in Windows 10 [Step by Step]</u></a></li>
-<li><a href="https://techidaily.com/easy-tips-for-downloading-and-setting-up-hewlett-packards-windows-7-compatible-drives/"><u>Easy Tips for Downloading and Setting Up Hewlett Packard's Windows 7 Compatible Drives</u></a></li>
-<li><a href="https://techidaily.com/easy-to-follow-tutorial-a-detailed-walkthrough-of-using-a-virtual-private-network-vpn-effectively/"><u>Easy-to-Follow Tutorial: A Detailed Walkthrough of Using a Virtual Private Network (VPN) Effectively</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/leading-innovations-in-video-calls-discover-the-top-10-apps-for-2024/"><u>Leading Innovations in Video Calls Discover the Top 10 Apps for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/linking-multiple-bluetooth-audio-systems-a-step-by-step-guide/"><u>Linking Multiple Bluetooth Audio Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-downward-spiral-exploring-reasons-for-increasingly-complex-generative-ai-vulnerabilities/"><u>The Downward Spiral: Exploring Reasons for Increasingly Complex Generative AI Vulnerabilities</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-fun-and-economical-syma-s111g-remote-control-helicopter-for-indoors/"><u>The Ultimate Guide to the Fun and Economical Syma S111G Remote Control Helicopter for Indoors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-vivid-graphics-on-your-windows-machine/"><u>Unleash Vivid Graphics on Your Windows Machine</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-knowledge-for-hosting-effective-split-screen-events-on-facebook/"><u>[Updated] Essential Knowledge for Hosting Effective Split Screen Events on Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-self-portraits-that-talk-100-words-to-define-you-on-insta-for-2024/"><u>[Updated] Self-Portraits That Talk 100 Words to Define You on Insta for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hardware-hurdles-whats-necessary-for-big-sur/"><u>2024 Approved Hardware Hurdles What's Necessary for Big Sur?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-essentials-of-the-windows-registry-a-comprehensive-guide/"><u>Exploring the Essentials of the Windows Registry: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversor-de-formatos-mxf-para-wav-online-movavi/"><u>Gratuito Conversor De Formatos MXF Para WAV Online - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversor-online-de-imagens-pcx-para-png-do-movavi/"><u>Gratuito Conversor Online De Imagens PCX Para PNG Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-download-de-conversor-tiff-online-movavi-image-editing/"><u>Gratuito Download De Conversor TiFF Online - Movavi Image Editing</u></a></li>
+<li><a href="https://techidaily.com/guia-completo-publicando-videos-en-instagram-desde-una-pc-compatible-con-windows-y-mac/"><u>Guia Completo: Publicando Videos en Instagram Desde Una PC (Compatible Con Windows Y Mac)</u></a></li>
+<li><a href="https://techidaily.com/guia-paso-a-paso-para-guardar-llamadas-de-whatsapp-descubre-como-hacerlo-desde-tu-computadora-o-dispositivo-movil/"><u>Guía Paso a Paso Para Guardar Llamadas De WhatsApp: Descubre Cómo Hacerlo Desde Tu Computadora O Dispositivo Móvil</u></a></li>
+<li><a href="https://techidaily.com/guida-passo-passo-per-acquisire-uno-screenshot-partiale-su-windows-nativo-10/"><u>Guida Passo-Passo per Acquisire Uno Screenshot Partiale Su Windows Nativo 10</u></a></li>
+<li><a href="https://techidaily.com/guide-complet-comment-convertir-facilement-un-fichier-m4r-au-format-mp3-sans-frais-a-laide-de-movavi/"><u>Guide Complet : Comment Convertir Facilement Un Fichier M4R Au Format MP3 Sans Frais À L'aide De Movavi</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-essential-techniques-for-audio-recording-on-modern-windows/"><u>In 2024, Essential Techniques for Audio Recording on Modern Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mts-video-editing-made-easy-top-5-software-solutions/"><u>In 2024, MTS Video Editing Made Easy Top 5 Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/policy-pathways-for-autonomous-agents/"><u>Policy Pathways for Autonomous Agents</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unmask-phony-followers-a-speedy-cost-free-approach-for-instagram-for-2024/"><u>Unmask Phony Followers A Speedy, Cost-Free Approach for Instagram for 2024</u></a></li>
 </ul></div>
 

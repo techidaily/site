@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-09-14T19:15:00.314Z
-updated: 2024-09-18T16:00:06.301Z
+date: 2024-09-18T01:00:27.465Z
+updated: 2024-09-23T19:57:58.205Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Before the X, There Was CS
 
  There’s a very long list of operating systems that have X in their name, especially in the large set of operating systems classed as being _Unix-like_.
@@ -49,15 +56,22 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -92,13 +106,6 @@ Dave McKay/How-To Geek
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Your System Administrator Knows Best
 
  Torvalds’ original email to the MINIX newsgroup piqued the interest of Ari Lemmke, a teaching assistant at the Helsinki University of Technology. They were something of kindred spirits and struck up an email-based friendship.
@@ -114,6 +121,13 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -136,20 +150,22 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-quick-fixes-for-professional-looking-youtube-thumbnails/"><u>[New] 2024 Approved Quick Fixes for Professional-Looking YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/"><u>[New] 2024 Approved Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>2024 Approved Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-3-step-structure-for-successful-subscriber-profit-analysis-a-guide-from-google/"><u>2024 Approved The 3-Step Structure for Successful Subscriber Profit Analysis A Guide From Google</u></a></li>
-<li><a href="https://techidaily.com/boosting-your-linkedin-presence-top-free-ai-powered-enhancement-techniques/"><u>Boosting Your LinkedIn Presence: Top Free AI-Powered Enhancement Techniques</u></a></li>
-<li><a href="https://techidaily.com/chrome-os-flex-gets-a-boost-with-cutting-edge-linux-capabilities-launching-soon/"><u>Chrome OS Flex Gets a Boost with Cutting-Edge Linux Capabilities Launching Soon!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/comprehensive-guide-to-free-premium-video-callers/"><u>Comprehensive Guide to Free, Premium Video Callers</u></a></li>
-<li><a href="https://techidaily.com/connect-the-dots-with-nyts-june-20-edition-hinted-clues-and-correct-responses-375/"><u>Connect the Dots with NYT's June 20 Edition - Hinted Clues and Correct Responses (#375)</u></a></li>
-<li><a href="https://techidaily.com/decode-the-daily-challenge-on-nytimes-puzzle-todays-connections-answers-for-june-7-362/"><u>Decode the Daily Challenge on NYTimes Puzzle: Today's Connections Answers for June 7 (#362)</u></a></li>
-<li><a href="https://techidaily.com/discover-a-more-private-web-experience-with-my-effortless-switch-to-brave-browser/"><u>Discover a More Private Web Experience with My Effortless Switch to Brave Browser</u></a></li>
-<li><a href="https://techidaily.com/discover-todays-hidden-themes-and-solutions-with-nyt-connections-edition-july-28-413/"><u>Discover Today's Hidden Themes and Solutions with NYT Connections, Edition July 28 (#413)</u></a></li>
-<li><a href="https://techidaily.com/dive-into-deciphering-the-new-york-times-connections-challenge-for-august-6th-insights-and-solutions-421/"><u>Dive Into Deciphering The New York Times' Connections Challenge for August 6Th - Insights and Solutions (#421)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-15-pro-maxwindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 15 Pro Max/Windows/Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-presentation-adding-textures-to-your-project/"><u>Perfecting Presentation Adding Textures to Your Project</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-content-masterpieces-with-these-essential-youtube-tips-for-2024/"><u>[Updated] Crafting Content Masterpieces with These Essential YouTube Tips for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pinnacle-8-android-video-chat-solutions-for-big-teams-for-2024/"><u>[Updated] Pinnacle 8 Android Video Chat Solutions for Big Teams for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-gametime-with-9-platforms/"><u>[Updated] Streamline Your Gametime with #9 Platforms</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-free-desktop-notetakers-for-windows-11-users-to-enhance-learning-and-organization/"><u>Discover the Best Free Desktop Notetakers for Windows 11 Users to Enhance Learning & Organization</u></a></li>
+<li><a href="https://techidaily.com/diy-green-screen-setup-and-use-in-videos-complete-guide-2024/"><u>DIY Green Screen Setup & Use in Videos - Complete Guide 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-amd-gpu-drivers-for-new-windows-11-systems-rtx-3060-ti-edition/"><u>Download Updated AMD GPU Drivers for New Windows 11 Systems: RTX 3060 Ti Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-windows-compatible-brother-l2540dw-printer-drivers-instructions/"><u>Easy Setup: Windows Compatible Brother L2540DW Printer Drivers Instructions</u></a></li>
+<li><a href="https://techidaily.com/effective-strategies-for-recording-conferences-using-zoom-skype-and-similar-platforms/"><u>Effective Strategies for Recording Conferences Using Zoom, Skype, and Similar Platforms</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-upload-and-convert-your-3gp-videos-to-high-quality-mpeg-no-cost-solution/"><u>Effortlessly Upload and Convert Your 3GP Videos to High-Quality MPEG - No Cost Solution!</u></a></li>
+<li><a href="https://techidaily.com/ferramenta-de-conversao-gratuita-para-webp-files-site-do-movavi/"><u>Ferramenta De Conversão Gratuita Para Webp Files - Site Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-mp4-to-m4v-by-movavi-get-your-videos-transformed/"><u>Free Online Converter MP4 to M4V by Movavi - Get Your Videos Transformed!</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-ogg-audiovideo-to-mov-format-with-ease/"><u>Free Online Converter: Change .ogg Audio/Video to .mov Format with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/let-chatgpt-be-your-movie-and-show-guide-discover-what-to-watch-next/"><u>Let ChatGPT Be Your Movie and Show Guide: Discover What to Watch Next</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-vos-videos-mov-en-fichiers-audio-flac-facilement-et-gratuitement-videoconveter/"><u>Transformez Vos Vidéos MOV en Fichiers Audio FLAC Facilement Et Gratuitement – VidéoConveter</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-laserjet-5200-with-easy-driver-downloads-for-windows-11-10-and-8/"><u>Update Your HP LaserJet 5200 with Easy Driver Downloads for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/flv-to-mov-online-movavi/"><u>무료 FLV to MOV 변환 - Online 콘텐츠를 유지하면서 Movavi로 제공</u></a></li>
 </ul></div>
 

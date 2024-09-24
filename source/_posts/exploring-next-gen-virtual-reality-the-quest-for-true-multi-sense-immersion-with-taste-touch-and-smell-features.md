@@ -1,7 +1,7 @@
 ---
 title: "Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features"
-date: 2024-09-12T16:36:27.849Z
-updated: 2024-09-18T16:14:18.802Z
+date: 2024-09-16T16:30:47.560Z
+updated: 2024-09-24T00:12:29.074Z
 tags:
   - cutting-edge
 categories:
@@ -35,6 +35,13 @@ Related: [What Is "Presence" in VR, and Why Is it So Important?](https://change-
 
 ![Woman in a kitchen wearing a virtual reality headset and eating a bowl of food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-eating-food.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautiful-attractive-young-woman-eating-healthy-696003394)_
 
  You can hop into a VR experience like VRChat, order a virtual hot dog, pick it up, and look at it, but you can't taste it. While it might not be a headline feature on VR users' wishlists, simulating the sense of taste is something that engineers and scientists have been working on for a long time.
@@ -44,15 +51,22 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Next-Generation Haptics
 
 ![Man wearing a virtual reality headset and exoskeleton gloves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/man-virtual-reality-headset-gloves-touch.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo/medium-shot-man-lying-bed-using-1367032724)_
 
@@ -65,19 +79,6 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
  More recently, the [Interhaptics Engine](https://interhaptics.medium.com/how-to-create-digital-haptic-texture-17f0be5e7bed) can reproduce a wide range of texture sensations by using pulses that can fool the mechanoreceptors in your fingertips into thinking they're touching something with a particular surface texture. The engine is also capable of driving sensations such as stiffness, vibration, and temperature.
 
  In other words, we're on track to create technology that can reliably recreate many types of touch sensations that current consumer VR can't. Getting the cost and complexity down so that it can reach the masses, however, will take time.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Smelling the Virtual Roses
 
@@ -94,6 +95,19 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  For smell specifically, the mask uses nine cartridges with different aromas that can be mixed together. These can be depleted and need to be replaced, but by combining them in various proportions this "scent generator" can offer a bouquet of smells.
 
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Holy Grail: Direct Brain Stimulation
 
@@ -116,19 +130,20 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-green-thumbs-united-top-10-agrigames-for-friends-and-family/"><u>[Updated] 2024 Approved Green Thumbs United Top 10 AgriGames for Friends and Family</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-perfecting-live-social-media-facebook-livestream-tutorials-for-tech/"><u>[Updated] Perfecting Live Social Media Facebook Livestream Tutorials for Tech</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-professional-grade-handguns-for-ultimate-video-stability/"><u>[Updated] Professional Grade Handguns for Ultimate Video Stability</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/exclusive-top-10-list-free-image-layering-progs-iosandroid/"><u>Exclusive Top 10 List Free Image Layering Progs iOS/Android</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-track-to-windows-11-arm-with-easy-iso-setup-instructions/"><u>Fast Track to Windows 11 ARM with Easy ISO Setup Instructions</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/limpact-de-la-technologie-ia-sur-la-gestion-et-lanalyse-documentaire-en-finance-exemple-pratique/"><u>L'Impact De La Technologie IA Sur La Gestion Et L'Analyse Documentaire en Finance : Exemple Pratique</u></a></li>
-<li><a href="https://techidaily.com/leverage-cookiebots-efficient-analytics-tools-for-enhanced-web-performance-measurement/"><u>Leverage Cookiebot's Efficient Analytics Tools for Enhanced Web Performance Measurement</u></a></li>
-<li><a href="https://techidaily.com/leveraging-cookiebot-technology-for-tailored-user-experiences-on-websites/"><u>Leveraging Cookiebot Technology for Tailored User Experiences on Websites</u></a></li>
-<li><a href="https://techidaily.com/optimize-your-sites-analytics-with-cookiebot-power-solutions/"><u>Optimize Your Site's Analytics with Cookiebot Power Solutions</u></a></li>
-<li><a href="https://techidaily.com/revolutionize-your-website-insights-using-the-advanced-cookiebot-technology/"><u>Revolutionize Your Website Insights Using the Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/revolutionize-your-workflow-discover-the-latest-sharp-multifunction-printers-with-integrated-abbyy-ocr-insights-from-the-official-abbyy-blog/"><u>Revolutionize Your Workflow: Discover the Latest Sharp Multifunction Printers with Integrated ABBYY OCR - Insights From the Official ABBYY Blog</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-substitutes-for-adobe-after-effects-free-and-paid-options-available/"><u>Top 11 Substitutes for Adobe After Effects - Free & Paid Options Available</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective-for-2024/"><u>Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-boosting-productivity-how-to-capture-your-online-meeting-experience-for-2024/"><u>[New] Boosting Productivity How to Capture Your Online Meeting Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-beat-bazaar-curation-of-superior-dj-video-samples-for-download-for-2024/"><u>[Updated] Beat Bazaar Curation of Superior DJ Video Samples for Download for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-in-depth-evaluation-obs-as-an-advanced-recorder/"><u>[Updated] In 2024, In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
+<li><a href="https://techidaily.com/cambia-file-aac-a-mp3-online-gratuitamente-con-movavi/"><u>Cambia File AAC a MP3 Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/comprendre-les-conditions-du-contrat-de-license-dutilisation-finale-avec-la-logiciel-movavi/"><u>Comprendre Les Conditions Du Contrat De License D'Utilisation Finale Avec La Logiciel Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversao-online-de-imagens-jpeg-para-formato-tiff-gratuita-do-movavi/"><u>Conversão Online De Imagens JPEG Para Formato TIFF Gratuita Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertir-videos-sin-costo-facilmente-cambio-gratuito-de-formatos-m4v-a-mp4-por-medio-de-servicios-en-linea-como-movavi/"><u>Convertir Vídeos Sin Costo Fácilmente: Cambio Gratuito De Formatos M4V a MP4 Por Medio De Servicios en Línea Como Movavi</u></a></li>
+<li><a href="https://techidaily.com/creation-gratuite-de-site-web-pgm-avec-movavi-convertir-votre-pgm-en-ligne-facilement/"><u>Création Gratuite De Site Web PGM Avec Movavi - Convertir Votre PGM en Ligne Facilement!</u></a></li>
+<li><a href="https://techidaily.com/de-gouden-18-bestaan-de-zeven-sterkste-betaalde-foto-sites-in-nederland/"><u>De Gouden 18: Bestaan De Zeven Sterkste Betaalde Foto Sites in Nederland</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-unveiling-the-features-and-performance-of-apple-tv-4k-gen-3/"><u>Expert Review: Unveiling the Features and Performance of Apple TV 4K (Gen 3)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-choice-video-capture-apps-iphone/"><u>In 2024, Top Choice Video Capture Apps iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-guide-to-youtube-stardom-6-effortless-steps-for-exposure/"><u>In 2024, Your Guide to YouTube Stardom 6 Effortless Steps for Exposure</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/key-elements-in-constructing-a-podcast-rss-feed-for-2024/"><u>Key Elements in Constructing a Podcast RSS Feed for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-eliminate-the-persistent-black-screen-glitch-in-hitman-3-on-your-computer/"><u>Troubleshooting Guide: Eliminate the Persistent Black Screen Glitch in Hitman 3 on Your Computer</u></a></li>
 </ul></div>
 

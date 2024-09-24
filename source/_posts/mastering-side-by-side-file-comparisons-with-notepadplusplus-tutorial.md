@@ -1,7 +1,7 @@
 ---
 title: Mastering Side-by-Side File Comparisons with Notepad++ Tutorial
-date: 2024-09-13T18:24:05.734Z
-updated: 2024-09-18T18:32:25.366Z
+date: 2024-09-21T23:11:09.740Z
+updated: 2024-09-23T19:08:10.104Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Launch the app again, open the files to compare, and choose Plugins > Compare > Compare.
 
  If you’re a Notepad++ user and want to highlight differences in your files, use a free plugin with your favorite text editor to do that. In this guide, we’ll show you how to install that plugin and then how to use it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 1\. Ensure Notepad++ Has Plugins Admin
 
@@ -39,6 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  When you’ve installed the app, click "Finish."
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 2\. Install the Compare Plugin Using Plugins Admin
 
  To install the Compare plugin, launch the newly installed Notepad++ app on your computer.
@@ -53,20 +67,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Available,' 'Compare,' and 'Install' highlighted on the 'Plugins Admin' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-compare-plugin-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Notepad++ will display a prompt saying the app will relaunch if you install the plugin. If you’ve saved your unsaved work in the app, choose "Yes" in the prompt to allow the app to close and install your plugin.
 
 !['Yes' highlighted in the 'Notepad++ is about to exit' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-restart-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "User Account Control" prompt, select "Yes."
 
  Notepad++ will relaunch with the Compare plugin installed.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 3\. Compare Two Files in Notepad++
 
@@ -76,6 +97,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Open' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-open-files-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After opening both files, from the app’s menu bar, select Plugins > Compare > Compare.
 
 !['Compare' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-compare-files-notepad-plus-plus.png) 
@@ -84,27 +112,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The file content differences highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-file-differences-highlighted-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By default, the app shows your files in a vertical view. To change the view to horizontal mode, right-click the border dividing your files and choose "Rotate to Left" or "Rotate to Right."
 
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
 
 !['Settings' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-compare-plugin-settings-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the "Compare Plugins" window, in the "Color Settings" section, choose the various colors you’d like to use. Then, click "OK." To revert your changes, choose "Reset."
 
@@ -131,21 +152,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-elevating-skills-a-comprehensive-guide-to-designer-advancement-for-2024/"><u>[New] Elevating Skills A Comprehensive Guide to Designer Advancement for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715860818674-new-snap-and-save-your-android-no-price-tag/"><u>[New] Snap & Save Your Android - No Price Tag!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-android-podcast-software/"><u>[Updated] Prime Android Podcast Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-social-spectacle-snatcher-hub-for-2024/"><u>[Updated] Social Spectacle Snatcher Hub for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-vloggers-solution-excellent-camera-stabilization/"><u>[Updated] Vloggers' Solution Excellent Camera Stabilization</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-10-download-snapchat-ringtones-websites/"><u>2024 Approved Top 10 Download Snapchat Ringtones Websites</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722957267384-achieve-next-level-pc-performance-with-intel-z270-and-top-tier-graphics-drivers-free-download-available/"><u>Achieve Next-Level PC Performance with Intel Z270 & Top-Tier Graphics Drivers, Free Download Available!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-tecno-spark-10-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Tecno Spark 10 5G using Video Repair Utility?</u></a></li>
-<li><a href="https://techidaily.com/rundll32exe-explained-essential-information-and-action-steps/"><u>rundll32.exe Explained: Essential Information and Action Steps</u></a></li>
-<li><a href="https://techidaily.com/solving-gameplay-disruptions-tips-for-eliminating-second-display-latency-in-windows-10-and-11/"><u>Solving Gameplay Disruptions: Tips for Eliminating Second Display Latency in Windows 10 & 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-to-fix-error-code-0xa00f4244-on-your-windows-11-pc-camera/"><u>Step-by-Step Guide to Fix 'Error Code 0Xa00f4244' On Your Windows 11 PC Camera</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-pairing-your-logitech-wireless-keyboard/"><u>Step-by-Step Guide: Pairing Your Logitech Wireless Keyboard</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-safely-extract-videos-from-vimeo-platforms/"><u>Step-by-Step Tutorial: How To Safely Extract Videos From Vimeo Platforms</u></a></li>
-<li><a href="https://techidaily.com/tackling-high-cpu-consumption-in-windows-11-a-closer-look-at-module-installer-processes/"><u>Tackling High CPU Consumption in Windows 11 - A Closer Look at Module Installer Processes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-handbook-of-collage-mastery/"><u>The Complete Handbook of Collage Mastery</u></a></li>
-<li><a href="https://techidaily.com/troubleshoot-invisible-amd-graphics-driver-problems-in-windows-expert-tips-to-appear-in-device-manager/"><u>Troubleshoot Invisible AMD Graphics Driver Problems in Windows: Expert Tips to Appear in Device Manager</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-achieving-economical-data-management-with-cloud-services/"><u>[New] Achieving Economical Data Management with Cloud Services</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-mp3-to-youtube-live-streaming-3-phases/"><u>2024 Approved Step-By-Step Guide MP3 to YouTube Live Streaming [3 Phases]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-no-frills-guide-to-basic-hdr-techniques/"><u>2024 Approved The No-Frills Guide to Basic HDR Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-5-best-4k-gaming-monitors/"><u>2024 Approved Top 5 Best 4K Gaming Monitors</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/convert-cele-mai-bune-5-converters-dvd-in-formati-moldovenesti-integrare-pc-si-acces-online-hd/"><u>Convert Cele Mai Bune – 5 Converters DVD În Formați Moldovenesti Integrare PC Și Acces Online | HD</u></a></li>
+<li><a href="https://techidaily.com/converti-file-m4b-a-mp4-senza-costi-gratuito-con-movavi/"><u>Converti File M4B a MP4 Senza Costi - Gratuito Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertisseur-gratuit-en-ligne-de-fichiers-wav-a-format-mp4-movavi/"><u>Convertisseur Gratuit en Ligne De Fichiers WAV À Format MP4 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertissez-votre-video-mpe-en-gif-gratuit-en-ligne-rapidement-grace-a-movavi-solution-de-conversion-avancee/"><u>Convertissez Votre Vidéo MPE en GIF Gratuit en Ligne Rapidement Grâce À Movavi - Solution De Conversion Avancée</u></a></li>
+<li><a href="https://techidaily.com/descubre-la-forma-rapida-y-gratuita-de-transformar-tus-videos-aifc-en-calidad-m4a-usando-movavi-online-converter/"><u>Descubre La Forma Rápida Y Gratuita De Transformar Tus Videos AIFC en Calidad M4A Usando Movavi Online Converter</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-screencasting-youtube-content-for-free-for-2024/"><u>Step-by-Step Guide to Screencasting YouTube Content For Free for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-real-strategy-behind-instagram-reels-for-2024/"><u>The Real Strategy Behind Instagram Reels for 2024</u></a></li>
 </ul></div>
 

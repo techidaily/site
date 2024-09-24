@@ -1,7 +1,7 @@
 ---
 title: How to Set Up and Utilize the Locate This PC Tool in Windows 11
-date: 2024-09-17T18:25:27.099Z
-updated: 2024-09-18T18:30:39.342Z
+date: 2024-09-18T01:56:47.626Z
+updated: 2024-09-23T21:43:23.920Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once turned on, you can use your Microsoft account to track your Windows 11 PC on a map. You can even [lock the PC](https://facebook.techidaily.com/renewable-revolution-complete-energy-for-fb/) so anyone who finds it can’t access your data. The feature also lets you display a message on the lost device, so if someone finds the device, they can return it to you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Turn On Find My Device
 
  To turn on Find My Device, ensure you’re signed in to a Microsoft account and that account is an administrator on your PC.
@@ -55,10 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Find My Device' highlighted on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-locate-device-find-my-device.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the device page, click "Find" to begin tracking the device’s location.
@@ -68,10 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Find' highlighted for a device on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-start-finding-device.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the device is found, you’ll see its location on the map. To zoom in, click the "+" (plus) sign on the right of the map. This lets you find your device’s precise location.
@@ -86,24 +93,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Lock' highlighted on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-lock-device.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the "Lock Device" window, add an optional message using the text box so that whoever finds the device has your contact information. Then, at the bottom, click "Lock."
 
 ![The message box and 'Lock' highlighted on the 'Lock Device' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-add-message-lock-device.jpg) 
 
  Microsoft has now locked your device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn Off Find My Device
 
@@ -118,16 +119,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Find My Device' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-disable-find-my-device.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You're set.
@@ -151,20 +152,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-horizons-easy-steps-for-sharing-soundtracks/"><u>[New] 2024 Approved Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-budget-headphones-to-enhance-game-sounds/"><u>[New] In 2024, Ultimate Budget Headphones to Enhance Game Sounds</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-producing-shareable-videos-as-memes-on-social-media-for-2024/"><u>[Updated] Step-by-Step Producing Shareable Videos as Memes on Social Media for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-background-blur-101-boosting-video-clarity-on-youtube/"><u>In 2024, Background Blur 101 Boosting Video Clarity on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-vid-recorders-vault-top-techniques-for-tv-streaming/"><u>In 2024, Vid-Recorder's Vault Top Techniques for TV Streaming</u></a></li>
-<li><a href="https://techidaily.com/maximize-windows-11-efficiency-effective-debloating-techniques/"><u>Maximize Windows 11 Efficiency: Effective Debloating Techniques</u></a></li>
-<li><a href="https://techidaily.com/native-installation-of-google-chrome-available-on-windows-pcs-with-arm-processors/"><u>Native Installation of Google Chrome Available on Windows PCs with ARM Processors</u></a></li>
-<li><a href="https://techidaily.com/new-windows-11-update-allows-integration-of-smartphone-images/"><u>New Windows 11 Update Allows Integration of Smartphone Images</u></a></li>
-<li><a href="https://techidaily.com/optimize-windows-file-management-with-this-ultimate-user-setup/"><u>Optimize Windows File Management with This Ultimate User Setup</u></a></li>
-<li><a href="https://techidaily.com/resolving-elevated-cpu-use-by-windows-module-installer-effective-strategies/"><u>Resolving Elevated CPU Use by Windows Module Installer: Effective Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-honor-x50i-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor X50i Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/revamp-your-mac-with-fedora-asahi-an-enhanced-linux-experience/"><u>Revamp Your Mac with Fedora Asahi: An Enhanced Linux Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-the-imessage-disconnection-problem-on-your-iphone-with-these-tips/"><u>Solve the iMessage Disconnection Problem on Your iPhone with These Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/total-byte-requirement-for-24-hours-of-movie-viewing-for-2024/"><u>Total Byte Requirement for 24 Hours of Movie Viewing for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-15-synergistic-tasks-for-the-contemporary-audio-aficionado/"><u>[New] 15 Synergistic Tasks for the Contemporary Audio Aficionado</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creating-classical-cinematography-a-modern-tutorial-for-2024/"><u>[New] Creating Classical Cinematography A Modern Tutorial for 2024</u></a></li>
+<li><a href="https://techidaily.com/1-free-online-conversion-change-webm-files-into-high-quality-flac-audio-format/"><u>1. Free Online Conversion: Change WebM Files Into High-Quality FLAC Audio Format</u></a></li>
+<li><a href="https://fox-that.techidaily.com/14-proven-methods-for-restoring-functionality-of-face-id-on-your-iphone/"><u>14 Proven Methods for Restoring Functionality of Face ID on Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/4-efektivni-tridy-nahravani-webovyh-stranek-do-audiotekstu-podrobny-pruvodce-s-movavi/"><u>4 Efektivní Třídy Nahrávání Webovyh Stránek Do Audiotekstu: Podrobný Průvodce S Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233783102-productsrecorderproductname/"><u>获取{{ product('srecorder').product_name}}的免费访问金钥匙序列号</u></a></li>
+<li><a href="https://techidaily.com/1726233776228-flv-movavi/"><u>簡便無需下載的線上 FLV格式自由切換器 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233776256-3gpwma-movavi/"><u>線上即時 3GP至WMA無成本導航 - Movavi 轉換器解決方案</u></a></li>
+<li><a href="https://techidaily.com/best-video-smoothing-applications-of-202-the-year-with-pay-free-choices-available/"><u>Best Video Smoothing Applications of 202 the Year, With Pay-Free Choices Available</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boxing-battlegrounds-live-vs-virtual-warriors/"><u>In 2024, Boxing Battlegrounds Live VS Virtual Warriors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>In 2024, From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-velocity-ventures-discover-the-freshest-5-virtual-race-titles/"><u>In 2024, Velocity Ventures Discover the Freshest 5 Virtual Race Titles</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/leap-to-the-top-with-these-8-fast-track-tiktok-steps/"><u>Leap to the Top with These 8 Fast-Track TikTok Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-websites-showcasing-diverse-text-styling-options/"><u>Pinnacle Websites Showcasing Diverse Text Styling Options</u></a></li>
+<li><a href="https://techidaily.com/verdingvrije-webbedienst-voor-mxf-gif-converter-met-movavi/"><u>Verdingvrije Webbedienst Voor MXF-GIF Converter Met Movavi</u></a></li>
+<li><a href="https://techidaily.com/yayincilik-sisteminde-cizgi-film-yapisi-animasyon-hareketleri-arasindaki-teknoloji-ve-kunlu-olana-aciklar/"><u>Yayıncılık Sistemi'nde Çizgi Film Yapısı | Animasyon Hareketleri Arasındaki Teknoloji Ve Künlü Olana Açıklar</u></a></li>
+<li><a href="https://techidaily.com/1726233744406-png-pgm-movavi/"><u>웹 안에서 비용 없이 PNG을 PGM로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233804388-caf/"><u>オンラインで簡単! CAF形式の画像を変換するための特別便利な無料ツール</u></a></li>
 </ul></div>
 

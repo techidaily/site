@@ -1,7 +1,7 @@
 ---
 title: "Exploring Factors Behind Electric Car Battery Longe Gro: The Science Explained"
-date: 2024-09-13T17:57:03.570Z
-updated: 2024-09-18T17:53:27.058Z
+date: 2024-09-22T01:52:11.797Z
+updated: 2024-09-24T02:12:37.064Z
 tags:
   - cutting-edge
 categories:
@@ -20,9 +20,29 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 Related: [How Does an Electric Vehicle Work?](https://instagram-video-recordings.techidaily.com/new-2024-approved-heres-what-you-dont-know-about-instagram-story-viewer2/) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How An EV Battery Degrades Over Time
 
  Two main factors will affect the speed at which an EV's battery degrades: how old the battery is, and your use and environment. The second category includes things like how the electric car is driven, how the battery is charged, how the vehicle is stored, and environmental factors like climate.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Battery Age
 
@@ -37,10 +57,10 @@ Related: [Debunking Battery Life Myths for Mobile Phones, Tablets, and Laptops](
  As the battery is used over and over again, some of that lithium is used up permanently. When that happens for long enough, you see a decrease in the overall charge that the battery can hold because there's just not enough active material to generate the same amount of energy. This type of degradation is also called capacity fade.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Environmental and Use Factors
@@ -58,10 +78,10 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  Most electric car manufacturers agree fast charging should be used "sparingly," but as of this writing, there's no set definition of what sparingly means. A good rule to go by is to fast charge as little as possible, when it can't be avoided or on long trips, and stick to regular [level 1 or 2 charging](https://visual-screen-recording.techidaily.com/unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc-for-2024/) most of the time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Be Worried About Battery Degradation?
@@ -87,18 +107,24 @@ Related: [How Much Does an Electric Car Battery Replacement Cost?](https://phone
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-captured-discourse-inspection/"><u>[New] 2024 Approved Captured Discourse Inspection</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tinyflicker-log-review-and-options-to-consider/"><u>[Updated] 2024 Approved TinyFlicker Log Review & Options to Consider</u></a></li>
-<li><a href="https://win11.techidaily.com/capturing-games-leveraging-intel-graphics-command-center/"><u>Capturing Games: Leveraging Intel Graphics Command Center</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/efficiently-recording-your-xbox-adventures-for-2024/"><u>Efficiently Recording Your Xbox Adventures for 2024</u></a></li>
-<li><a href="https://techidaily.com/enhancing-govtech-efficiency-with-advanced-ai-driven-identity-verification-techniques/"><u>Enhancing GovTech Efficiency with Advanced AI-Driven Identity Verification Techniques</u></a></li>
-<li><a href="https://techidaily.com/enhancing-web-interactions-with-cookiebot-technology/"><u>Enhancing Web Interactions with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-notetaking-solutions-a-selection-of-7-favorite-apps-for-ios-devices/"><u>Essential Notetaking Solutions: A Selection of 7 Favorite Apps for iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/experience-bespoke-advertising-solutions-through-cutting-edge-cookiebot-systems/"><u>Experience Bespoke Advertising Solutions Through Cutting-Edge Cookiebot Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-to-prevent-and-fix-pacific-drive-crashing-windows-encounter/"><u>Expert Tips to Prevent and Fix Pacific Drive Crashing Windows Encounter</u></a></li>
-<li><a href="https://techidaily.com/finereader-rendre-le-contenu-actuel-et-releve-accessible-pour-vos-lecteurs-via-abbyy/"><u>FineReader: Rendre Le Contenu Actuel Et Relevé Accessible Pour Vos Lecteurs via ABBYY</u></a></li>
-<li><a href="https://techidaily.com/lecart-essentiel-entre-reconnaissance-optique-de-caracteres-ocr-et-identification-par-projection-idp-quelles-sont-les-differences/"><u>L'Écart Essentiel Entre Reconnaissance Optique De Caractères (OCR) Et Identification Par Projection (IDP): Quelles Sont Les Différences ?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/master-the-art-of-live-sound-capture-on-the-internet-for-2024/"><u>Master the Art of Live Sound Capture on the Internet for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-c210-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia C210 has been deleted.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-followers-with-effective-igtv-hashtag-techniques/"><u>[New] In 2024, Elevate Followers with Effective IGTV Hashtag Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-zoom-broadcasting-potential-for-youtube-success/"><u>[New] Unlock Zoom Broadcasting Potential for YouTube Success</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-perfecting-the-closure-a-practical-guide-to-vimeos-end-credits/"><u>[Updated] 2024 Approved Perfecting the Closure A Practical Guide to Vimeo's End Credits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-video-popularity-12-key-strategies-unveiled/"><u>[Updated] In 2024, Elevate Video Popularity 12 Key Strategies Unveiled</u></a></li>
+<li><a href="https://techidaily.com/1-free-online-conversion-change-webm-files-into-high-quality-flac-audio-format/"><u>1. Free Online Conversion: Change WebM Files Into High-Quality FLAC Audio Format</u></a></li>
+<li><a href="https://techidaily.com/4-efektivni-tridy-nahravani-webovyh-stranek-do-audiotekstu-podrobny-pruvodce-s-movavi/"><u>4 Efektivní Třídy Nahrávání Webovyh Stránek Do Audiotekstu: Podrobný Průvodce S Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233783102-productsrecorderproductname/"><u>获取{{ product('srecorder').product_name}}的免费访问金钥匙序列号</u></a></li>
+<li><a href="https://techidaily.com/1726233776228-flv-movavi/"><u>簡便無需下載的線上 FLV格式自由切換器 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233776256-3gpwma-movavi/"><u>線上即時 3GP至WMA無成本導航 - Movavi 轉換器解決方案</u></a></li>
+<li><a href="https://techidaily.com/best-video-smoothing-applications-of-202-the-year-with-pay-free-choices-available/"><u>Best Video Smoothing Applications of 202 the Year, With Pay-Free Choices Available</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-pc-components-with-toms-gear-guide/"><u>Exploring Cutting-Edge PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/four-practical-alternatives-to-bitlocker-in-winoss/"><u>Four Practical Alternatives to BitLocker in WinOSs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oneplus-nord-n30-se-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on OnePlus Nord N30 SE Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-kinemaster-for-mac-easy-download-and-setup-instructions/"><u>New In 2024, Get KineMaster for Mac Easy Download and Setup Instructions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-strategies-for-enhancing-frame-rate-in-war-thunder-avoid-low-fps-scenarios-tips/"><u>Step-by-Step Strategies for Enhancing Frame Rate in War Thunder - Avoid Low FPS Scenarios! (Tips )</u></a></li>
+<li><a href="https://techidaily.com/yayincilik-sisteminde-cizgi-film-yapisi-animasyon-hareketleri-arasindaki-teknoloji-ve-kunlu-olana-aciklar/"><u>Yayıncılık Sistemi'nde Çizgi Film Yapısı | Animasyon Hareketleri Arasındaki Teknoloji Ve Künlü Olana Açıklar</u></a></li>
+<li><a href="https://techidaily.com/1726233744406-png-pgm-movavi/"><u>웹 안에서 비용 없이 PNG을 PGM로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233804388-caf/"><u>オンラインで簡単! CAF形式の画像を変換するための特別便利な無料ツール</u></a></li>
 </ul></div>
 

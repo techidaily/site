@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mac's Menu Bar: Discover the Ultimate Free App Solution"
-date: 2024-09-11T18:45:06.647Z
-updated: 2024-09-18T18:31:30.302Z
+date: 2024-09-18T07:52:21.785Z
+updated: 2024-09-23T19:54:19.708Z
 tags:
   - desktop
 categories:
@@ -19,11 +19,25 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
  MacOS is a generally well-thought-out, intuitive, and user-friendly operating system, but the user interface falls short in one place: the menu bar. Here's how to wrangle all of your menu bar icons using the free Hidden Bar app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Is Your macOS Menu Bar Getting Crowded?
 
  Just to be clear, we're talking about the menu bar in the top-right of the screen, where the battery meter, clock and icons for running background apps are found. By default, it's pretty sparse and well-organized.
 
 ![iPhone notifications on a MacBook in iPhone Mirroring mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/macos-sequoia-iphone-mirroring-iphone-notifications.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -35,11 +49,25 @@ Apple
 
  My macOS menu bar. It's a total mess.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hidden Bar to the Rescue
 
 [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12 "https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12") is a free (that is, completely free, without in-app purchases) app that solves this. All you have to do is install it, and it hides all of your lesser-used menu bar icons behind a little arrow, like this:
 
 ![Hidden Bar for macOS showing a cleaned up menu bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  My macOS menu bar, now showing only the icons I use.
 
@@ -62,25 +90,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-explore-and-enjoy-locating-recently-liked-videos-on-facebook-for-2024/"><u>[New] Explore & Enjoy Locating Recently Liked Videos on Facebook for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-workflow-nvidia-screener-for-2024/"><u>[Updated] Optimizing Your Workflow NVIDIA Screener for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/disabling-safe-mode-a-step-by-step-guide-for-your-android-device/"><u>Disabling Safe Mode: A Step-by-Step Guide for Your Android Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y17s-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y17s Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-mobile-os-in-depth-look-at-android-16-pricing-rumors-features-and-arrival-date-revealed/"><u>The Next Big Thing in Mobile OS: In-Depth Look at Android 16 - Pricing Rumors, Features, and Arrival Date Revealed</u></a></li>
-<li><a href="https://techidaily.com/top-10-tactics-to-fortify-privacy-on-your-windows-pc-a-step-by-step-guide/"><u>Top 10 Tactics to Fortify Privacy on Your Windows PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/top-15-ubuntu-enhancements-effortless-tweaks-beyond-the-terminal/"><u>Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Sony Xperia 5 V without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/transform-your-aged-macbook-with-these-7-creative-repurposing-ideas/"><u>Transform Your Aged MacBook with These 7 Creative Repurposing Ideas</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-your-laptop-mouse-freezes/"><u>Troubleshooting Tips: What to Do When Your Laptop Mouse Freezes</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-deleting-items-using-powershell-scripts/"><u>Ultimate Guide: Deleting Items Using PowerShell Scripts</u></a></li>
-<li><a href="https://techidaily.com/unlocking-powerful-security-insights-top-5-command-line-tools-every-windows-user-should-know/"><u>Unlocking Powerful Security Insights: Top 5 Command-Line Tools Every Windows User Should Know</u></a></li>
-<li><a href="https://techidaily.com/unraveling-the-mystery-the-story-behind-the-x-in-linux/"><u>Unraveling the Mystery: The Story Behind the 'X' In Linux</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-duel-diaries-record-galaxy-gamer-stories/"><u>[New] Digital Duel Diaries Record Galaxy Gamer Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-most-extensive-selection-of-free-illustrator-portals/"><u>[New] The Most Extensive Selection of Free Illustrator Portals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-basic-vimeo-plus-or-vimeo-pro-which-is-right-for-you/"><u>[Updated] Vimeo Basic, Vimeo Plus or Vimeo Pro Which Is Right for You?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/distinguished-top-5-tiny-yet-powerful-cameras/"><u>Distinguished Top 5 Tiny Yet Powerful Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-for-overcoming-directx-errors-in-battlefield-2042-gaming/"><u>Effective Techniques for Overcoming DirectX Errors in Battlefield 2042 Gaming</u></a></li>
+<li><a href="https://techidaily.com/free-online-wav-to-aac-converter-by-movavi/"><u>Free Online WAV to AAC Converter by Movavi</u></a></li>
+<li><a href="https://techidaily.com/gifisation-de-vos-videos-guide-pratique-sur-movavi-converter/"><u>GIFisation De Vos Videos : Guide Pratique Sur Movavi Converter</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gimbal-guide-industrys-favorites/"><u>Gimbal Guide Industry's Favorites</u></a></li>
+<li><a href="https://techidaily.com/gratuit-vertaling-van-3gp-naar-flv-onderhoud-vrije-online-tools-movavi/"><u>Gratuit Vertaling Van 3GP Naar FLV: Onderhoud Vrije Online Tools - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuita-online-conversao-aif-em-ogg-pelo-servico-web-de-movavi/"><u>Gratuita Online: Conversão AIF Em OGG Pelo Serviço Web De Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversor-de-formatos-mxf-para-wav-online-movavi/"><u>Gratuito Conversor De Formatos MXF Para WAV Online - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversor-online-de-imagens-pcx-para-png-do-movavi/"><u>Gratuito Conversor Online De Imagens PCX Para PNG Do Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-12-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 12 After Forgetting my PIN Code? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

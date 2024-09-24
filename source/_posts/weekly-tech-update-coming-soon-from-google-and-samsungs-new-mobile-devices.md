@@ -1,7 +1,7 @@
 ---
 title: "Weekly Tech Update: Coming Soon From Google & Samsung's New Mobile Devices"
-date: 2024-09-17T19:30:46.199Z
-updated: 2024-09-18T16:23:00.581Z
+date: 2024-09-19T02:53:46.430Z
+updated: 2024-09-23T22:50:38.919Z
 tags:
   - deals
 categories:
@@ -15,9 +15,23 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
@@ -32,10 +46,10 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 Valve
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
@@ -54,48 +68,35 @@ Valve
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
  It's the first UWB tracker to support Google Find My Device.
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Motorola
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -118,20 +119,25 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-srt-breakdown-for-professionals/"><u>[Updated] Comprehensive SRT Breakdown for Professionals</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-i-successfully-overcame-the-total-war-three-kingdoms-freezing-glitch/"><u>How I Successfully Overcame the Total War: Three Kingdoms Freezing Glitch</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-delete-a-story-on-facebook/"><u>How to Delete a Story on Facebook</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-video-migration-youtube-to-dailymotion-process/"><u>Navigating Video Migration YouTube to Dailymotion Process</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-adjusting-your-monitors-pixel-density-on-windows-10-resolved/"><u>Step-by-Step Guide: Adjusting Your Monitor's Pixel Density on Windows 10 (Resolved!)</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-removing-software-from-your-pc-running-windows-10/"><u>Step-by-Step Guide: Removing Software From Your PC Running Windows 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-solution-for-windows-camera-malfunction-error-code-0xa00feb244/"><u>Step-by-Step Solution for Windows Camera Malfunction (Error Code 0XA00Feb244)</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-for-deactivating-pop-up-filters-in-popular-web-browsers-like-chrome-firefox-edge-and-internet-explorer/"><u>Step-by-Step Tutorial for Deactivating Pop-Up Filters in Popular Web Browsers Like Chrome, Firefox, Edge, and Internet Explorer</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-adjusting-screen-layout-and-rotation-settings-in-windows-10/"><u>Step-by-Step Tutorial: Adjusting Screen Layout & Rotation Settings in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-masterly-configure-windows-10-alarm-features/"><u>Step-by-Step Tutorial: How To Masterly Configure Windows 10 Alarm Features</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-easiest-video-making-apps-for-mac-unleash-your-creativity/"><u>Updated Easiest Video Making Apps for Mac Unleash Your Creativity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-principles-of-documentary-storytelling/"><u>[New] Principles of Documentary Storytelling</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-comprehending-the-basics-of-whatsapp-calls/"><u>[Updated] Comprehending the Basics of WhatsApp Calls</u></a></li>
+<li><a href="https://techidaily.com/1726233754208-mp3/"><u>【迅速＆用途広く】フリーウェアで動画をMP3に変換する -オンラインツール</u></a></li>
+<li><a href="https://techidaily.com/2024top-win10/"><u>2024年度Top Win10视频编辑软件推荐清单</u></a></li>
+<li><a href="https://techidaily.com/3d-animation-software-the-top-12-legjobb-options-for-your-project/"><u>3D Animation Software: The Top 12 Legjobb Options for Your Project</u></a></li>
+<li><a href="https://techidaily.com/ai-mov-movavi/"><u>自由下載無成本 AI 到 MOV 格式 - 使用 Movavi 翻譯器</u></a></li>
+<li><a href="https://techidaily.com/1726233785702-ai-12/"><u>AI 얼굴 만들기를 위한 12가지 획기적인 프로그램 선보기</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-elegoo-neptune-4-plus-3d-printer-superior-quality-and-rapid-printing-speeds/"><u>Comprehensive Evaluation of the Elegoo Neptune 4 Plus 3D Printer: Superior Quality and Rapid Printing Speeds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-a-collage-on-iphone-handy-tips/"><u>How to Make a Collage on iPhone [Handy Tips]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-affordable-methods-to-craft-your-own-youtube-intros/"><u>In 2024, Affordable Methods to Craft Your Own YouTube Intros</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-generate-funny-image-for-giphy/"><u>In 2024, Generate Funny Image for Giphy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-tutorial-for-top-memes-kinemaster/"><u>In 2024, Quick Tutorial for Top Memes KineMaster</u></a></li>
+<li><a href="https://techidaily.com/1726233729382-m4amp3/"><u>M4A到MP3的直接關口：高效免費方法 | 電子音樂保存術</u></a></li>
+<li><a href="https://techidaily.com/1726233744921-movavi-wmv-m4v/"><u>Movavi 自由轉換 WMV到 M4V在線上 - 全額免費服務</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo-for-2024/"><u>Stand Out and Thrive Strategies for Staff Recognition at Vimeo for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-mobile-applications-for-boosting-your-websites-traffic/"><u>Top 7 Must-Have Mobile Applications for Boosting Your Website's Traffic</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pc-dropouts-in-monster-hunter-world-gameplay/"><u>Troubleshooting PC Dropouts in Monster Hunter World Gameplay</u></a></li>
+<li><a href="https://techidaily.com/7iuk7iuc6rceiou5houuloyypcdtjrjsp5hqulaglsdsnbtsojwg7iks7isc65oc66as6riw/"><u>실시간 비디오 편집기 - 이제 사서드리기</u></a></li>
+<li><a href="https://techidaily.com/1726233761033-mp43gp-movavi/"><u>コストレスで高速なオンラインMP4/3GP動画変換 - Movaviを超えて</u></a></li>
+<li><a href="https://techidaily.com/1726233776009-movavi/"><u>モバビでスムーズに動画の字幕付け: 初心者から上達までガイド【Movavi・文字表示】</u></a></li>
 </ul></div>
 

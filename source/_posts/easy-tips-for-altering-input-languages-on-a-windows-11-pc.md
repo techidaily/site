@@ -1,7 +1,7 @@
 ---
 title: Easy Tips for Altering Input Languages on a Windows 11 PC
-date: 2024-09-15T19:08:45.896Z
-updated: 2024-09-18T19:30:12.809Z
+date: 2024-09-17T03:41:12.569Z
+updated: 2024-09-23T17:54:04.121Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Whether you work with international clients or just want to impress your friends, you might encounter situations that require you to type in another language. Fortunately, navigating between keyboard layouts and typing in your desired language is a breeze on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Change Your Keyboard Language
 
  During the Windows 11 setup process, you'll be asked to choose your preferred keyboard language. This will become the default language for your computer. However, you can easily install additional keyboard languages and switch between them through the Windows Settings app.
@@ -42,6 +49,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Choose the language you want to install and then click the "Next" button.
 
 ![Next option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/next-option.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Install" to begin the installation process.
 
@@ -71,14 +91,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Onscreen keyboard on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/onscreen-keyboard.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've finalized a layout, you can remove the other keyboard layouts for your language.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Remove a Keyboard Language or Layout
 
@@ -88,22 +114,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Remove option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/remove-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A prompt will appear asking you to confirm whether you want to remove the selected language. Click "Yes" to confirm.
 
 ![Yes option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/yes-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's all! The selected language is now removed from your computer.
@@ -112,9 +137,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Language options in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/language-options.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under the Keyboards section, click the three dots next to the layout you want to remove and choose "Remove" from the menu that crops up.
 
 ![Remove button in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/remove-button.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to delete multiple keyboard layouts, just repeat the above process for each layout you wish to remove.
 
@@ -137,16 +176,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-nextupcameras-venturing-past-mycam/"><u>[Updated] 2024 Approved NextUpCameras Venturing Past MyCam</u></a></li>
-<li><a href="https://facebook.techidaily.com/2022s-best-listened-to-podcasts-explored-here/"><u>2022'S Best Listened-To Podcasts Explored Here</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-secret-sauce-for-clearer-more-informative-youtube-videos/"><u>2024 Approved The Secret Sauce for Clearer, More Informative YouTube Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-10-restoration-software-to-revive-old-photos-on-your-desktop-and-laptop/"><u>Best 10 Restoration Software to Revive Old Photos on Your Desktop and Laptop</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-urban-armor-gear-macbook-pro-guard-where-durability-meets-daily-needs/"><u>Evaluating the Urban Armor Gear MacBook Pro Guard - Where Durability Meets Daily Needs</u></a></li>
-<li><a href="https://techidaily.com/exploring-the-mechanics-of-regenerative-braking-systems/"><u>Exploring the Mechanics of Regenerative Braking Systems</u></a></li>
-<li><a href="https://techidaily.com/generating-artificial-intelligence-graphics-with-googles-latest-search-features/"><u>Generating Artificial Intelligence Graphics with Google's Latest Search Features</u></a></li>
-<li><a href="https://techidaily.com/how-cryptocurrency-miners-are-destroying-pc-performance-and-lifespan/"><u>How Cryptocurrency Miners Are Destroying PC Performance and Lifespan</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-gt-neo-5-se-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme GT Neo 5 SE Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-editors-secret-best-free-premiere-pro-resources/"><u>In 2024, Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-memes-with-a-smile-builder/"><u>[New] Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-virtual-vision-creation-shaping-a-humorous-self-portrait-for-2024/"><u>[Updated] Virtual Vision Creation Shaping a Humorous Self-Portrait for 2024</u></a></li>
+<li><a href="https://techidaily.com/6zu75b2x5ymq5o6l5oqa5ben6iih5pon5l2c5oyh5y2x77ya5zyo57ea5lik5a6m5oiq55qe6auy57sa5pwz6iky6kqy56il/"><u>電影剪接技巧與操作指南：在線上完成的高級教育課程</u></a></li>
+<li><a href="https://techidaily.com/convert-and-edit-videos-with-movavi-on-your-mac-ideal-for-various-codecs-and-formats/"><u>Convert and Edit Videos with Movavi on Your Mac: Ideal for Various Codecs and Formats</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-audio-files-to-webm-format-using-movavi-tools/"><u>Free Online Converter: Change MP4 Audio Files to WebM Format Using Movavi Tools</u></a></li>
+<li><a href="https://techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-meizu-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Meizu</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-12-4g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 12 4G Data? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-voice-recorder-mac-5-best-voice-recorders-for-mac-devices/"><u>In 2024, Voice Recorder Mac - 5 Best Voice Recorders for Mac Devices</u></a></li>
+<li><a href="https://techidaily.com/ntsc-versus-pal-analise-abrangente-dos-diferentes-formatos-de-video-e-seu-desempenho/"><u>NTSC versus PAL: Análise Abrangente Dos Diferentes Formatos De Vídeo E Seu Desempenho</u></a></li>
+<li><a href="https://techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-how-to-fix-constant-crashes-in-battlefield-v-for-pc-users/"><u>Troubleshooting Complete: How to Fix Constant Crashes in Battlefield V for PC Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100i Power 5G | Dr.fone</u></a></li>
 </ul></div>
 

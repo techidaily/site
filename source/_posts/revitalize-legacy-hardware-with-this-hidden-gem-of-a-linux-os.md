@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-09-15T19:09:32.510Z
-updated: 2024-09-18T16:09:44.805Z
+date: 2024-09-23T02:42:50.667Z
+updated: 2024-09-24T06:11:59.520Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
 
 ##  How to Install Xubuntu
@@ -52,16 +59,16 @@ Close
 
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Running Xubuntu
 
@@ -80,13 +87,20 @@ Close
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
 
@@ -123,18 +137,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs/"><u>[New] 2024 Approved Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-professional-screen-capture-techniques-orderly-tutorials/"><u>[New] 2024 Approved Professional Screen Capture Techniques - Orderly Tutorials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-frosty-feats-celebrating-the-beijing-olympics-2022/"><u>[Updated] 2024 Approved Frosty Feats Celebrating the Beijing Olympics, 2022</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-editing-essentials-a-comprehensive-guide-to-song-inserts/"><u>[Updated] YouTube Editing Essentials A Comprehensive Guide to Song Inserts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enthralling-time-lapse-crafting-using-gopro-hero5-black/"><u>Enthralling Time-Lapse Crafting Using GoPro Hero5 Black</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-leading-social-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Leading Social Sites - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-remote-productivity-with-these-6-essential-windows-taskforcetools-in-windows-11-for-supercharged-remote-work-output/"><u>Maximize Your Remote Productivity with These 6 Essential Windows #TaskForceTools in Windows #11 for Supercharged Remote Work Output</u></a></li>
-<li><a href="https://techidaily.com/my-journey-away-from-windows-how-embracing-the-macbook-changed-everything/"><u>My Journey Away From Windows: How Embracing the MacBook Changed Everything</u></a></li>
-<li><a href="https://techidaily.com/newly-launched-arc-browser-compatible-with-microsofts-windows-11-operating-system/"><u>Newly Launched: Arc Browser Compatible with Microsoft's Windows 11 Operating System</u></a></li>
-<li><a href="https://techidaily.com/solving-chromes-security-alert-during-file-download-a-step-by-step-guide/"><u>Solving Chrome's Security Alert During File Download: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-instructions-for-disabling-windows-smartscreen-protection-on-pcs-with-os-11-and-8/"><u>Step-by-Step Instructions for Disabling Windows SmartScreen Protection on PCs with OS 11 & 8</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-12-best-idle-games-you-can-find-on-pc/"><u>Top 12 Best Idle Games You Can Find on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-impact-and-innovations-in-vegaspro-a-2019-review/"><u>[New] The Impact and Innovations in VegasPro A 2019 Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-immersive-world-of-lg-27ud68/"><u>2024 Approved Discovering the Immersive World of LG 27UD68</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-solving-game-freezes-dragon-age-origins-and-windows-10-compatibility-issues-fixed/"><u>Expert Tips for Solving Game Freezes: Dragon Age: Origins & Windows 10 Compatibility Issues Fixed!</u></a></li>
+<li><a href="https://techidaily.com/flac-versus-wav-choosing-the-ideal-audio-format-expert-comparison/"><u>FLAC versus WAV: Choosing the Ideal Audio Format - Expert Comparison</u></a></li>
+<li><a href="https://techidaily.com/free-online-gif-to-avi-video-conversion-easy-with-movavi/"><u>Free Online GIF to AVI Video Conversion - Easy with Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-vob-to-mkv-conversion-with-movavi-effortless-video-format-change/"><u>Free Online VOB to MKV Conversion with Movavi - Effortless Video Format Change</u></a></li>
+<li><a href="https://techidaily.com/gratis-converter-online-para-arquivos-ts-em-flv-movavi/"><u>Gratis Converter Online Para Arquivos TS Em FLV - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuite-en-online-toegankelijke-omgewisseling-van-mkv-tot-flac-formaat-voor-optimale-soundquaaliteit-movavi/"><u>Gratuite en Online-Toegankelijke Omgewisseling Van MKV Tot FLAC-Formaat Voor Optimale Soundquaaliteit - Movavi</u></a></li>
+<li><a href="https://techidaily.com/guia-simple-de-resizing-gratuita-ajuste-multiple-de-fotografias-en-un-solo-click/"><u>Guía Simple De Resizing Gratuita: Ajuste Múltiple De Fotografías en Un Solo Click</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-solve-the-leaf-error-in-apex-legends-fix-guide-2022/"><u>How to Solve the 'Leaf' Error in Apex Legends (Fix Guide - 2022)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-oppo-a38-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo A38 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-samsung-galaxy-s21-ultra-the-pinnacle-of-android-phones/"><u>In-Depth Look at the Samsung Galaxy S21 Ultra - The Pinnacle of Android Phones</u></a></li>
+<li><a href="https://techidaily.com/kostenloze-omzetting-van-wav-naar-m4a-bestand-online-movavi/"><u>Kostenloze Omzetting Van WAV Naar M4A-Bestand Online - Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-reducing-audio-intensity-in-videos/"><u>Step-by-Step Guide: Reducing Audio Intensity in Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-computing-desktops-await-you-for-2024/"><u>Superior Computing Desktops Await You for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-blur-faces-or-objects-in-videos-best-apps-for-ios-and-android/"><u>Updated 2024 Approved Blur Faces or Objects in Videos Best Apps for iOS and Android</u></a></li>
+<li><a href="https://techidaily.com/flv-movavis-online-converter/"><u>언제나 크레딧없이 FLV 파일을 바로 대화형 원활한 변환 - Movavi's Online Converter</u></a></li>
 </ul></div>
 

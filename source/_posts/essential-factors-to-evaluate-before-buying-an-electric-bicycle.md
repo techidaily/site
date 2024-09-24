@@ -1,7 +1,7 @@
 ---
 title: Essential Factors to Evaluate Before Buying an Electric Bicycle
-date: 2024-09-11T18:49:47.310Z
-updated: 2024-09-18T16:16:32.367Z
+date: 2024-09-16T22:36:52.506Z
+updated: 2024-09-23T18:18:52.192Z
 tags:
   - cutting-edge
 categories:
@@ -33,11 +33,25 @@ Sarah Chaney / How-To Geek
 
  If you need a more in depth explainer on [what the different electric bike classes mean](https://extra-skills.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/), we've got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Mid-Drive Motor vs Rear-Hub Motor
 
  An electric bike will either have a mid-drive motor or a hub-drive motor. Mid-drive motors are positioned between the pedals in the middle of a bike, whereas hub-drive motors are situated in the middle of one of the bike’s wheels, typically the rear wheel.
 
 ![rear hub motor on fiido d3pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/rear-hub-motor-on-fiido-d3pro.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
 
@@ -61,6 +75,13 @@ Sarah Chaney / How-To Geek
 
  It's also worth noting that an ebike with a throttle kind of negates the torque sensor vs cadence sensor debate—that is, if you plan to primarily use the throttle over the pedals. Using only the throttle and never the pedals will result in less total range, but you'll never experience the resistance from a torque sensor or the jerky nature of a cadence sensor.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Gearing System: Do You Want a Traditional Bike Feel?
 
 ![gearing system on fiido x ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/spedometer-on-fiido-x-ebike.jpg) 
@@ -73,6 +94,13 @@ Sarah Chaney / How-To Geek
 
  Some ebikes will offer three gears to switch between, while others may offer up to seven, nine, or eleven gears. Typically, an ebike with a gearing system is also equipped with a torque sensor, and vice versa, but this isn’t always the case, so double-check the specs before you buy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery Range: How Far Do You Need to Go?
 
  The battery range on an electric bike can range between 20 and 100 miles, and the estimated range you’ll see from manufacturers is just that: an estimate. Your actual mileage will vary based on your weight, riding conditions, which pedal-assist level you’re using, and whether your bike has a throttle.
@@ -82,13 +110,6 @@ Sarah Chaney / How-To Geek
  How far you’ll go depends on all of the conditions mentioned above as well as the battery capacity and the power of the motor. For example, many Class 1 ebikes will pair a 500Wh battery with a 250-watt motor, while a Class 3 ebike may pair the same battery with a 500-watt motor. The Class 3 ebike will have a much shorter battery life because it’s using more power to reach higher speeds.
 
 ![battery on priority ecoast ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/battery-on-priority-ecoast-ebike.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
 
@@ -108,16 +129,16 @@ Sarah Chaney / How-To Geek
 
  Step-through frames are more comfortable to get on and off for most people, but especially for people who are shorter or don’t have full range of motion. You don’t have to lift your leg nearly as high to get on a step-through frame, which is great if you’re wearing skirts or dresses, or if you need to get off the bike multiple times a day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Accessories and Built-ins Are a Bonus
 
 ![headlight on fiido egravel c22 pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/headlight-on-fiido-egravel-c22-pro.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
 
@@ -130,6 +151,13 @@ Sarah Chaney / How-To Geek
  There's a lot of jargon in the ebike world, so it can understandably feel intimidating to start your search for the perfect ebike. If you know you want to try out an ebike, but you don't want to get hung up on the tiny details, try searching for an ebike based on its type.
 
  Before you make the leap, you can check with a local shop to see if an ebike in stock for you to test ride. Not all ebikes will be available to try locally, but it's becoming more likely as ebikes grow in popularity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Commuter Ebike
 
@@ -154,10 +182,10 @@ Sarah Chaney / How-To Geek
 ![cargo ebike on dirt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/970b0067.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cory Gunther / How-To Geek
@@ -168,31 +196,11 @@ Cory Gunther / How-To Geek
 
 ![folded fiido x ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folded-fiido-x-ebike.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sarah Chaney / How-To Geek
 
  If you're short on space in your home or you commute via train, bus, or other public transportation, look into a folding ebike, like the [Fiido X](https://facebook-videos.techidaily.com/new-in-2024-unveiling-streams-comprehensive-guide-to-facebook-video-harvesting/). Folding ebikes can also be categorized as commuter ebikes, but they can fold compactly enough to fit in an average car trunk.
 
  Most folding ebikes fold in half, and you can easily roll it around while it's folded up. These neat ebikes are more niche than commuters, cruisers, or cargo ebikes, but they're becoming increasingly popular because of their space-saving form factor.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Mountain Ebike
 
@@ -219,20 +227,20 @@ Sarah Chaney / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-leverage-the-power-of-visual-storytelling-with-your-own-facebook-slideshows-for-2024/"><u>[Updated] Leverage the Power of Visual Storytelling with Your Own Facebook Slideshows for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snapcutxp-review-complete-evaluation-of-video-editing-software/"><u>[Updated] SnapCutXp Review – Complete Evaluation of Video Editing Software</u></a></li>
-<li><a href="https://techidaily.com/abbyy-named-market-leader-by-gartner-magic-quadrant-for-process-mining-platforms-in-2/"><u>ABBYY Named Market Leader by Gartner Magic Quadrant for Process Mining Platforms in 2</u></a></li>
-<li><a href="https://techidaily.com/advanced-ai-methods-in-document-scanning-and-crop-detection-by-abbyy/"><u>Advanced AI Methods in Document Scanning and Crop Detection by ABBYY</u></a></li>
-<li><a href="https://techidaily.com/advanced-conversion-optimization-solutions-powered-by-cookiebot/"><u>Advanced Conversion Optimization: Solutions Powered by Cookiebot</u></a></li>
-<li><a href="https://techidaily.com/artificial-intelligence-the-powerhouse-behind-banking-regulation-and-anti-fraud-efforts/"><u>Artificial Intelligence: The Powerhouse Behind Banking Regulation and Anti-Fraud Efforts</u></a></li>
-<li><a href="https://techidaily.com/collaboration-unveiled-abbyy-joins-forces-with-first-consulting-experts/"><u>Collaboration Unveiled: ABBYY Joins Forces with First Consulting Experts</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-solutions-streamlining-your-websites-analytics-and-personalization/"><u>Cookiebot-Driven Solutions: Streamlining Your Website's Analytics and Personalization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-503-server-errors-identification-reasons-and-remedies/"><u>Decoding 503 Server Errors - Identification, Reasons, and Remedies</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a59-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A59 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-14-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 14 Making It Possible</u></a></li>
-<li><a href="https://some-skills.techidaily.com/joke-juggernauts-top-ranked-text-based-jokesters-for-2024/"><u>Joke Juggernauts Top Ranked Text-Based Jokesters for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-elevating-your-music-collection-advanced-mp3-file-editing-tips-and-tricks/"><u>New Elevating Your Music Collection Advanced MP3 File Editing Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-unresponsive-tailored-settings-in-your-app-or-site/"><u>Overcoming Unresponsive Tailored Settings in Your App or Site</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-diy-guide-zero-cost-youtube-intros-and-template-usage/"><u>[New] DIY Guide Zero Cost YouTube Intros & Template Usage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-guide-to-your-profit-share-in-youtube-shorts-for-2024/"><u>[Updated] A Step-by-Step Guide to Your Profit Share in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>2024 Approved Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-choosing-your-best-vr-camera-insights/"><u>2024 Approved Choosing Your Best VR Camera Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/automate-calendar-events-to-zoom-on-mobile-devices-for-2024/"><u>Automate Calendar Events to Zoom on Mobile Devices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-get-hooked-by-these-9-impostor-chatgpt-virus-apps-aiming-to-steal-data/"><u>Don't Get Hooked by These 9 Impostor ChatGPT Virus Apps Aiming to Steal Data</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-back-to-normal-goodbye-ghost-bars/"><u>HP Printer Back to Normal: Goodbye, Ghost Bars</u></a></li>
+<li><a href="https://techidaily.com/methode-facile-pour-convertir-un-fichier-mpeg-au-format-ogg-en-ligne-gratuit-tutorial-movavi/"><u>Méthode Facile Pour Convertir Un Fichier MPEG Au Format Ogg en Ligne Gratuit – Tutorial Movavi</u></a></li>
+<li><a href="https://techidaily.com/movavi-media-gallery-discover-georgia-pavlous-visual-artistry/"><u>Movavi Media Gallery: Discover Georgia Pavlou's Visual Artistry</u></a></li>
+<li><a href="https://techidaily.com/movavi-veeerfotos-schoon-cr2-in-png-codeeren-zonder-kosten-online-instant/"><u>Movavi: Veeërfoto's Schoon CR2 in PNG Codeeren Zonder Kosten, Online-Instant</u></a></li>
+<li><a href="https://techidaily.com/movavijpegarwf/"><u>Movaviで簡単JPEGをARWFに自由費用で変換</u></a></li>
+<li><a href="https://techidaily.com/mp3-conversion-guide-transform-your-tunes-on-windows-and-mac-with-movavi/"><u>MP3 Conversion Guide: Transform Your Tunes on Windows and Mac with Movavi</u></a></li>
+<li><a href="https://techidaily.com/online-mp4-mov-mpe-wmv-movavi/"><u>Online 무료 소요시간을 줄이는 MP4, MOV 등 다양한 형식으로 MPE WMV 통합 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/phony-bot-aid-hijacks-social-network-passwords/"><u>Phony Bot Aid: Hijacks Social Network Passwords</u></a></li>
+<li><a href="https://techidaily.com/ram-wmv/"><u>무세포 RAM WMV 디지털 품종을 쉽게 제공하기 위한 원홍한 컴퓨터 페이스 서비스</u></a></li>
 </ul></div>
 

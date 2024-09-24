@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: Ensuring Your Security While Installing New Apps"
-date: 2024-09-16T19:09:07.133Z
-updated: 2024-09-18T17:59:47.056Z
+date: 2024-09-19T03:32:55.740Z
+updated: 2024-09-24T01:32:50.190Z
 tags:
   - desktop
 categories:
@@ -28,13 +28,34 @@ thumbnail: https://thmb.techidaily.com/847e9d2d8a0d47badfcd9d5626c88b53e1ba638bb
 
  Some popular download sites have cleaned up their act since then, while others have shut down entirely, but it's still not a good idea to download software from anywhere other than the original source or an approved mirror. For example, if you want VLC Media Player, you should be downloading directly from [VideoLAN.org](https://www.videolan.org/) or the project's own listings on the [Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://play.google.com/store/apps/details?id=org.videolan.vlc), [Apple App Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://itunes.apple.com/app/apple-store/id650377962), or other official sources linked from that website.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Avoid Search Engine Ads
 
  There's a simple way to avoid the scam download links that are becoming more common on search engine results: don't click anything that says "Sponsored" or "Ad". Those are results from companies paying to be at the top of a certain search query—for example, Ford paying to be the top result for someone searching for competing Chevy vehicles in the below screenshot.
 
 ![Screenshot of a Google search for "Chevy", with a sponsored link for Ford at the top, followed by another sponsored link for Chevrolet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-4-52-47-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Google, Bing, and other search engines are not great at validating these links, so sponsored/ad links for software could lead you to malware. It's safer to scroll past them and check the top non-sponsored results for a given search query.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check App Stores
 
@@ -45,28 +66,15 @@ thumbnail: https://thmb.techidaily.com/847e9d2d8a0d47badfcd9d5626c88b53e1ba638bb
 ![A screenshot of the Mac App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-5-08-00-pm.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are definitely apps in both stores that can be regarded as spam or not useful, but actual malware is exceedingly rare. The Microsoft Store has [occasional problems with sketchy software](https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/), but they are removed when issues are discovered, and it has definitely been cleaned up over the past few years. Most big app developers ignored the Store for its first few years of existence, but now there are official listings for [Adobe Photoshop](https://apps.microsoft.com/detail/XPFD4T9N395QN6), [iTunes](https://apps.microsoft.com/detail/9PB2MZ1ZMB1S), [TikTok](https://apps.microsoft.com/detail/9NH2GPH4JZS4), [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM), [Mozilla Firefox](https://apps.microsoft.com/detail/9NZVDKPMR9RD), and more.
 
  Most desktop Linux distributions have integrated software repositories and package managers that effectively act like app stores, and there are third-party software repositories for many platforms . [Homebrew](https://brew.sh/) is a popular software repository for macOS, primarily aimed at command-line tools and developer utilities, and [Chocolatey](https://chocolatey.org/) is a similar alternative for Windows. However, you have to trust that malware isn't sneaking into those repositories.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Scan Your Downloads with VirusTotal
 
@@ -91,16 +99,25 @@ thumbnail: https://thmb.techidaily.com/847e9d2d8a0d47badfcd9d5626c88b53e1ba638bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-comprehensive-guide-to-crafting-professional-haul-videos/"><u>[New] Comprehensive Guide to Crafting Professional Haul Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>[Updated] Mastering Footage Select Best Gimbals & Handhelds Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40i Location Settings | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/ensuring-windows-11-longevity-strategies-for-success-post-2025-expenses/"><u>Ensuring Windows 11 Longevity: Strategies for Success Post-2025 Expenses</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-lava-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Lava</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oppo-a58-4g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Oppo A58 4G</u></a></li>
-<li><a href="https://techidaily.com/how-to-set-up-and-utilize-the-locate-this-pc-tool-in-windows-11/"><u>How to Set Up and Utilize the Locate This PC Tool in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/huge-savings-alert-transition-to-windows-11-pro-with-an-unbeatable-88-reduction-offer-today-only/"><u>Huge Savings Alert! Transition to Windows 11 Pro with an Unbeatable 88% Reduction Offer – Today Only!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro/"><u>In 2024, Underwater Cinematography Avoiding Blur and Grain with a GoPro</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-perfect-pitch-with-autotune-installation-tutorial-for-audacity-enthusiasts/"><u>New 2024 Approved Perfect Pitch with Autotune Installation Tutorial for Audacity Enthusiasts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/lite-collective-photo-music-plus-visual-creation-fusion/"><u>[New] Elite Collective Photo, Music + Visual Creation Fusion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-photographers-guide-mobile-for-high-angle-views/"><u>[New] The Photographer's Guide Mobile for High-Angle Views</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-vivo-v29e-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Vivo V29e</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-12-pro-max-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 12 Pro Max iCloud Lock</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-guide-to-captivating-youtube-live-thumbnails/"><u>In 2024, Step-By-Step Guide to Captivating YouTube Live Thumbnails</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-pl2303-chipset-drivers-for-windows-pcs-download-and-update-instructions/"><u>Latest PL2303 Chipset Drivers for Windows PCs: Download & Update Instructions</u></a></li>
+<li><a href="https://techidaily.com/movavijpegarwf/"><u>Movaviで簡単JPEGをARWFに自由費用で変換</u></a></li>
+<li><a href="https://techidaily.com/mp3-conversion-guide-transform-your-tunes-on-windows-and-mac-with-movavi/"><u>MP3 Conversion Guide: Transform Your Tunes on Windows and Mac with Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-ai-for-professional-visual-editing/"><u>Next Gen AI for Professional Visual Editing</u></a></li>
+<li><a href="https://techidaily.com/online-mp4-mov-mpe-wmv-movavi/"><u>Online 무료 소요시간을 줄이는 MP4, MOV 등 다양한 형식으로 MPE WMV 통합 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
+<li><a href="https://techidaily.com/stegvisu-diskord-skarmshandling-pa-pc-och-mobil-plattformer/"><u>Stegvisu Diskord-Skärmshandling På PC Och Mobil Plattformer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-for-dbghelpdll-errors-not-found/"><u>Step-by-Step Troubleshooting for 'dbghelp.dll' Errors Not Found</u></a></li>
+<li><a href="https://techidaily.com/telecharger-et-convertir-facilement-votre-fichier-m4v-au-format-wav-gratuitement-via-movavi/"><u>Télécharger Et Convertir Facilement Votre Fichier M4V Au Format WAV Gratuitement via Movavi</u></a></li>
+<li><a href="https://techidaily.com/televersement-gratuit-des-fichiers-orf-au-format-jpeg-convertissez-facilement-avec-movavi/"><u>Téléversement Gratuit Des Fichiers ORF Au Format JPEG - Convertissez Facilement Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-list-of-video-encode-utilities-16-free-options-for-you/"><u>The Ultimate List of Video Encode Utilities: 16 FREE Options for You!</u></a></li>
+<li><a href="https://techidaily.com/top-12-editor-friendly-displays-budget-and-professional-options/"><u>Top 12 Editor-Friendly Displays: Budget and Professional Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/video-montage-made-simple-the-simplest-methods-for-cutting-edges-of-cinema/"><u>Video Montage Made Simple: The Simplest Methods for Cutting Edges of Cinema</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/webcam-integration-for-flawless-gameplay-logs-for-2024/"><u>Webcam Integration for Flawless Gameplay Logs for 2024</u></a></li>
+<li><a href="https://techidaily.com/ram-wmv/"><u>무세포 RAM WMV 디지털 품종을 쉽게 제공하기 위한 원홍한 컴퓨터 페이스 서비스</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Family Safety Features in Windows 11"
-date: 2024-09-17T16:40:38.569Z
-updated: 2024-09-18T17:05:12.894Z
+date: 2024-09-18T06:47:40.300Z
+updated: 2024-09-23T16:17:03.130Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 * [How to Link a Child's Account to a Windows Device](https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y77t-by-drfone-android/)
 * [Using the Microsoft Family App on Windows](https://screen-mirroring-recording.techidaily.com/updated-master-your-pcs-sounds-with-easy-recording-tool-x-recorder/)
 * [Managing Account Settings](https://fox-boxes.techidaily.com/new-2024-approved-acoustic-additions-for-your-chat-status/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  To do that, press Win + i to open Settings, navigate to Accounts > Family, and click "Add Someone" in the Your Family section.
 
 ![Adding someone to "Your Family" in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/add-family-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the window that appears, click the "Create One for Child" link.
 
@@ -58,24 +72,31 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![Adding a new user account on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-user-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, follow the instructions to sign in to the child's Microsoft account.
 
  To complete the link, open the Family app while you're logged into your child's Windows account. To do that, press Win + S to open Windows Search. Enter **Family** in the Search box, and then click the Family app in the search results to launch it.
 
 ![Opening the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-family-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you're ready to start setting limits on the child's account.
 
 ##  Using the Microsoft Family App on Windows
 
  In your Windows account, open the Family app and select the child's account. From there, you can control their screen time, app usage, and the websites they visit.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Limiting Screen Time
 
@@ -88,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![The screen time schedule for a Windows device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/child-account-screentime-limits-windows-family-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "Time Limit" column is the number of hours the child can use the computer once they log into their account. For instance, if you set it to five hours, the computer will automatically lock once the child exceeds those hours.
@@ -103,19 +124,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![Setting screen time limits on a device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/setting-limit-windows-devices-family-app.jpg) 
 
  You can use the dropdown in this window to control days individually. Alternatively, you can set it to "Every Day" and adjust the screen times for all the days simultaneously. When finished, click "Done" to apply the limits to the child's Windows device.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Limiting Apps and Games
 
@@ -134,10 +142,16 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  And when you're finished, click "Done" to apply the changes and limit the app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Blocking Websites
@@ -147,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  To block the websites, click the "Edge" tab at the top. Then, click the "Turn On Activity Reporting Button" to see what search terms the child is using and the websites they're visiting. This data will inform your decision on which websites to block in the future.
 
 ![Turning on activity reporting for Microsoft Edge in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-activity-reporting.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, scroll down and turn on the "Filter Inappropriate Websites and Searches" toggle.
 
@@ -173,9 +180,23 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![The "Settings" option in the Family app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/settings-family-app-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here, you can set things like the minimum age limits for apps or if the child requires your approval to purchase things. That latter is very important if your child is a gamer in the [age of microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/) and [gacha video games](https://extra-approaches.techidaily.com/2024-approved-mirrored-moments-with-iphone-photography-expertise/). You can even choose whether to get weekly activity reports or instantly send yourself an activity report.
 
 ![The account settings of a child's account in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/child-account-settings-family-app-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Afterward, click "Done" to save the changes you've made.
 
@@ -198,20 +219,25 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-discovering-content-iphones-and-podcasts/"><u>[New] In 2024, Discovering Content IPhones and Podcasts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-downloads-for-mac-easy-steps-included-for-2024/"><u>[New] Snapchat Downloads for Mac - Easy Steps Included for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-gamble-for-peace-10-chill-out-choices-for-2024/"><u>[Updated] Gamble for Peace 10 Chill-Out Choices for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-revive-mobile-playback-quick-fixes-for-facebook-videos-for-2024/"><u>[Updated] Revive Mobile Playback - Quick Fixes for Facebook Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-textual-journey-from-generation-to-corporate-application/"><u>AI's Textual Journey: From Generation to Corporate Application</u></a></li>
-<li><a href="https://techidaily.com/galaxy-watch-ultra-vs-apple-watch-ultra-comparing-unique-styles-with-identical-functionality/"><u>Galaxy Watch Ultra Vs. Apple Watch Ultra: Comparing Unique Styles with Identical Functionality</u></a></li>
-<li><a href="https://techidaily.com/how-do-5gplus-signatures-impact-iphone-and-android-devices-performance/"><u>How Do 5G+ Signatures Impact iPhone & Android Devices' Performance?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlock-the-secrets-of-webinar-recording-a-users-manual-macos-windows/"><u>In 2024, Unlock the Secrets of Webinar Recording A User's Manual (macOS, Windows)</u></a></li>
-<li><a href="https://techidaily.com/in-depth-look-at-the-samsung-galaxy-watch-gen-5-impressive-features-and-a-few-hiccups-along-the-way/"><u>In-Depth Look at the Samsung Galaxy Watch Gen 5: Impressive Features and a Few Hiccups Along the Way</u></a></li>
-<li><a href="https://techidaily.com/is-motorolas-razr-plus-a-long-term-hit-or-just-a-flash-in-the-pan/"><u>Is Motorola's RAZR Plus a Long-Term Hit or Just a Flash in the Pan?</u></a></li>
-<li><a href="https://techidaily.com/leveraging-googles-platform-effective-techniques-for-earning-from-your-android-software-solutions/"><u>Leveraging Google's Platform: Effective Techniques for Earning From Your Android Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/looking-for-an-earbud-charging-case-with-built-in-volume-control/"><u>Looking for an Earbud Charging Case with Built-In Volume Control</u></a></li>
-<li><a href="https://techidaily.com/mastering-mobile-desktop-experience-seamlessly-organize-your-apps-as-on-a-pc/"><u>Mastering Mobile Desktop Experience: Seamlessly Organize Your Apps as on a PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-windows-10-blurry-image-issue/"><u>Solving Windows 10 Blurry Image Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-walkthrough-adding-bing-ai-to-your-android-keyboard-experience/"><u>The Ultimate Walkthrough: Adding Bing AI to Your Android Keyboard Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xplore-8-leading-youtube-growth-strategies/"><u>[New] Explore 8 Leading Youtube Growth Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-screen-capture-methods-for-rainbow-six-siege/"><u>[Updated] Essential Screen Capture Methods for Rainbow Six Siege</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-making-multimedia-memories-with-picshot-tools/"><u>[Updated] Making Multimedia Memories with Picshot Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sensational-headline-architect/"><u>[Updated] Sensational Headline Architect</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-jumping-into-group-video-calls-the-zoom-way-on-android/"><u>2024 Approved Jumping Into Group Video Calls The Zoom Way on Android</u></a></li>
+<li><a href="https://techidaily.com/best-high-quality-stock-images-top-18-premium-image-libraries-for-professionals/"><u>Best High-Quality Stock Images: Top 18 Premium Image Libraries for Professionals</u></a></li>
+<li><a href="https://techidaily.com/como-transformar-tu-musica-aiff-al-formato-wma-con-la-herramienta-online-gratuita-de-movavi-empieza-hoy/"><u>Cómo Transformar Tu Música AIFF Al Formato WMA Con La Herramienta Online Gratuita De Movavi - ¡Empieza Hoy!</u></a></li>
+<li><a href="https://techidaily.com/conversion-gratuita-de-archivos-pgm-a-linea-con-movavi/"><u>Conversión Gratuita De Archivos PGM a Línea Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversione-libera-online-da-mka-a-mkv-scopri-come-usare-movavi-per-lo-streaming-fruibile-gratuitamente/"><u>Conversione Libera Online Da MKA a MKV: Scopri Come Usare Movavi per Lo Streaming Fruibile Gratuitamente</u></a></li>
+<li><a href="https://techidaily.com/convertir-archivo-de-pelicula-ape-a-formato-ogg-sin-coste-guia-movilvi/"><u>Convertir Archivo De Película APE a Formato Ogg Sin Coste: Guía Móvilvi</u></a></li>
+<li><a href="https://techidaily.com/convertisseur-gratuit-de-fichiers-mov-en-flac-en-ligne-moovie/"><u>Convertisseur Gratuit De Fichiers MOV en FLAC en Ligne - Moovie</u></a></li>
+<li><a href="https://techidaily.com/convertissez-vos-fichiers-nsv-en-mp3-sans-frais-decouvrez-comment-avec-notre-guide-rapide/"><u>Convertissez Vos Fichiers NSV en MP3 Sans Frais - Découvrez Comment Avec Notre Guide Rapide!</u></a></li>
+<li><a href="https://techidaily.com/crea-video-ottenendo-il-tuo-tta-online-gratuitamente-con-movavi-fai-un-convertito/"><u>Crea Video Ottenendo Il Tuo TTA Online Gratuitamente Con Movavi - Fai Un Convertito!</u></a></li>
+<li><a href="https://techidaily.com/descargar-musica-de-formato-au-a-flac-sin-coste-guia-integral-de-conversion-online-con-movavi/"><u>Descargar Música De Formato AU a FLAC Sin Coste: Guía Integral De Conversión Online Con Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-yuva-2-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Yuva 2 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-the-puzzle-of-audio-hiccups-in-bluetooth-connections-on-microsofts-latest-os/"><u>Resolve the Puzzle of Audio Hiccups in Bluetooth Connections on Microsoft's Latest OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-spark-20-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Spark 20</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>Top 6 Celebrity Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-trimming-3gp-videos-tips-tricks-and-best-practices/"><u>Updated Trimming 3GP Videos Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://techidaily.com/web-based-gratuitous-wmv-3g2/"><u>Web-Based Gratuitous WMV 3G2 콜리즈 - 무료 변환 프로그램</u></a></li>
 </ul></div>
 

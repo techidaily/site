@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2024-09-16T18:34:51.146Z
-updated: 2024-09-18T18:24:41.176Z
+date: 2024-09-18T22:31:55.674Z
+updated: 2024-09-24T08:37:18.663Z
 tags:
   - desktop
 categories:
@@ -46,6 +46,13 @@ apt list --installed
 
 ![GIMP listed as an installed program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/GIMP-listed-in-the-installed-packages.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To uninstall a program, use the `apt` command, which is the general command for installing programs and manipulating installed programs. For example, the following command uninstalls gimp and deletes all the configuration files, using the `purge` command.
 
 sudo apt purge gimp
@@ -58,9 +65,23 @@ sudo apt purge gimp
 
 ![Run &quot;sudo apt purge gimp&quot; to uninstall GIMP and remove the configuration files on Ubuntu, or any Debian installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-purge-gimp-in-the-Terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The installation process continues. When it's done, type "exit" at the prompt and press "Enter" to close the Terminal window, or click the "X" button in the upper-left corner of the window.
 
 ![GIMP was successfully removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/Sudo-apt-purge-ran-successfully.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don't want to remove the configuration files, simply substitute the command `remove `for `purge`, as shown in the following command.
 
@@ -73,6 +94,13 @@ sudo apt remove gimp
 sudo apt autoremove
 
 ![Run &quot;sudo apt autoremove&quot; to remove a package and all of the dependencies it installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-autoremove-in-the-terminal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can combine the two commands for removing a program and removing dependencies that are no longer being used into one, as shown below (two dashes before "auto-remove").
 
@@ -108,13 +136,6 @@ dnf list --installed
 
 ![Terminal output of the DNF command to list installed packages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072542.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll through the list until you find the program that you're looking for.
 
 ![The GIMP package found in the list of installed packages on a Fedora installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072638.png) 
@@ -138,18 +159,24 @@ sudo dnf remove gimp
 
 ![The DNF command to remove the GIMP package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_073703.png) 
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just enter "y" and GIMP will be removed.
 
  Typically, the remove command removes any dependencies that were installed with the program. However, depending on your configuration, it might not. If you want to make sure all unnecessary dependencies are removed, use the **sudo dnf autoremove <package>** command.
 
 ![The DNF auto-remove command being used to remove GIMP and all its dependencies.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_075114.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fedora is usually pretty good at grabbing only the correct dependencies, but if you notice something on the "Removing Unused Dependencies" list that you'd like to keep, you can manually flag it to be kept. Enter the following command in a command line to keep a dependency:
 
@@ -174,18 +201,24 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-access-unlimited-free-high-quality-green-screen-footage-online/"><u>[New] 2024 Approved Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-tweeted-content-across-facebook/"><u>[New] Navigating Tweeted Content Across Facebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-peak-creative-synopsis-thorough-studio-review-for-the-year-2023/"><u>[Updated] Peak Creative Synopsis Thorough Studio Review for the Year 2023</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-strategic-youtube-content-publishing-to-boost-view-counts/"><u>2024 Approved Strategic YouTube Content Publishing to Boost View Counts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-add-a-green-screen-to-zoom/"><u>How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-androids-very-own-podcasters/"><u>In 2024, Android's Very Own Podcasters</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a14-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A14 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-note-12-pro-4g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi Note 12 Pro 4G to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/overcoming-greyed-out-sync-options-in-windows-10-a-comprehensive-solution/"><u>Overcoming Greyed-Out Sync Options in Windows 10: A Comprehensive Solution</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picshot-the-key-to-hassle-free-collage-making/"><u>Picshot The Key to Hassle-Free Collage Making</u></a></li>
-<li><a href="https://techidaily.com/quick-and-easy-tutorial-installing-updated-gpu-drivers-on-windows-10/"><u>Quick & Easy Tutorial: Installing Updated GPU Drivers on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/repair-your-computer-in-windows-10-automatically/"><u>Repair Your Computer in Windows 10 Automatically</u></a></li>
-<li><a href="https://techidaily.com/resolving-the-issue-of-forced-driver-downloads-during-windows-11-updates-step-by-step-guide/"><u>Resolving the Issue of Forced Driver Downloads During Windows 11 Updates – Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-2024s-cloud-price-tracker-find-the-lowest-bills-here/"><u>[New] 2024'S Cloud Price Tracker Find the Lowest Bills Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>[Updated] In 2024, How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-mac-gifs-top-10-recording-tools-for-2024/"><u>[Updated] Master Mac GIFs Top 10 Recording Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/3d-animation-software-the-top-12-legjobb-options-for-your-project/"><u>3D Animation Software: The Top 12 Legjobb Options for Your Project</u></a></li>
+<li><a href="https://techidaily.com/aiwav-movavi/"><u>網路無限 AI語音轉WAV - 便利的 MOVAVI 自動語言過濾與轉檔工具</u></a></li>
+<li><a href="https://techidaily.com/ai-mov-movavi/"><u>自由下載無成本 AI 到 MOV 格式 - 使用 Movavi 翻譯器</u></a></li>
+<li><a href="https://techidaily.com/best-video-editing-software-choices-for-newbies-a-ranked-guide/"><u>Best Video Editing Software Choices for Newbies : A Ranked Guide</u></a></li>
+<li><a href="https://techidaily.com/conversion-facile-et-gratuite-de-fichiers-webm-vers-3gp-en-ligne-solutions-avec-movavi/"><u>Conversion Facile Et Gratuite De Fichiers WEBM Vers 3GP en Ligne - Solutions Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-gratuit-de-fichiers-mka-en-mp4-facile-et-rapide-avec-movavi/"><u>Conversion Gratuit De Fichiers MKA en MP4 - Facile Et Rapide Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversione-liberamente-accessibile-di-audiovideo-da-ogg-a-wma-con-moviconvert-il-metodo-piu-facile/"><u>Conversione Liberamente Accessibile Di Audio/Video Da OGG a WMA Con MoviConvert: Il Metodo Più Facile!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-with-pioneer-djs-ddj-sx2-controller-free-download-now/"><u>Effortless Setup with Pioneer DJ's DDJ-SX2 Controller - Free Download Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-methods-to-convert-your-dvd-collection-to-iso-files-on-windows-11-8-or-7/"><u>Free Methods to Convert Your DVD Collection to ISO Files on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-for-perfect-pre-interview-skills/"><u>Leverage ChatGPT for Perfect Pre-Interview Skills</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-lite-on-the-horizon-discover-potential-launch-dates-and-specs-alongside-anticipated-pricing/"><u>Meta Quest 3 Lite On the Horizon? Discover Potential Launch Dates & Specs Alongside Anticipated Pricing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/sharing-is-caring-but-not-without-copyright-checks-tiktok/"><u>Sharing Is Caring - But Not Without Copyright Checks (TikTok)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-top-7-premium-dvd-recording-players-for-superior-video-fidelity/"><u>Ultimate Guide: Top 7 Premium DVD Recording Players for Superior Video Fidelity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-handheld-systems-enhanced-stability-on-iosandroiddslr-for-2024/"><u>Ultimate Handheld Systems Enhanced Stability on iOS/Android/DSLR for 2024</u></a></li>
+<li><a href="https://techidaily.com/7iuk7iuc6rceiou5houuloyypcdtjrjsp5hqulaglsdsnbtsojwg7iks7isc65oc66as6riw/"><u>실시간 비디오 편집기 - 이제 사서드리기</u></a></li>
 </ul></div>
 

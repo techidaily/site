@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2024-09-12T16:14:20.734Z
-updated: 2024-09-18T17:56:52.370Z
+date: 2024-09-23T00:57:40.082Z
+updated: 2024-09-24T03:05:05.260Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Connection
 
  On the "Let's connect you to a network" screen, you'll see the names of available connections. However, if you can't connect to any of them, whether it's Wi-Fi or your wired connection, there's probably a problem with the connection itself.
@@ -41,13 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
 
  When you encounter the "Let's connect you to a network" screen, you can execute the "OOBE\\BYPASSNRO" command in Command Prompt to bypass the connectivity requirement during the Windows 11 installation process. To achieve this, press Shift+F10 to launch Command Prompt while on the "Let's connect you to a network" screen.
@@ -56,18 +56,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Internet Bypass command in Command Prompt window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/internet-bypass-command.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your computer will then restart, prompting you to select your region and keyboard layout once more. Afterward, you will arrive at the network setup screen. However, this time, you will have the "I don't have internet" option available, which you can click to proceed with the Windows 11 installation process without an internet connection.
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. End the Network Connection Flow Process
 
@@ -79,13 +86,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Taskmgr command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/taskmgr-command.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Task Manager, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) the "Network Connection Flow" process in the Processes tab and select "End task" from the context menu.
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
@@ -93,6 +93,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
  Type **exit** in the Command Prompt window and press Enter.
 
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
 
@@ -115,18 +122,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-record-gameplay-with-fbx-game-recorder/"><u>[New] How To Record Gameplay With FBX Game Recorder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-navigating-fun-with-junior-drivers-for-2024/"><u>[New] Navigating Fun with Junior Drivers for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-charting-the-financial-pathway-of-tseries-within-youtube-market-space/"><u>[Updated] Charting the Financial Pathway of TSeries Within YouTube Market Space</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram-for-2024/"><u>Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram] for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-13-pro-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-v30t-frp-by-drfone-android/"><u>Full Guide to Bypass Realme V30T FRP</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-complete-methodology-for-sharing-srt-content-on-instagram-and-youtube/"><u>In 2024, Complete Methodology for Sharing SRT Content on Instagram and YouTube</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-100-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 100 ProFRP Lock</u></a></li>
-<li><a href="https://techidaily.com/latest-ipv6-related-flaw-affecting-personal-computers-an-overview/"><u>Latest IPv6-Related Flaw Affecting Personal Computers: An Overview</u></a></li>
-<li><a href="https://techidaily.com/master-your-macs-menu-bar-discover-the-ultimate-free-app-solution/"><u>Master Your Mac's Menu Bar: Discover the Ultimate Free App Solution</u></a></li>
-<li><a href="https://techidaily.com/mastering-mean-the-ultimate-guide-to-calculating-averages-in-ms-excel/"><u>Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel</u></a></li>
-<li><a href="https://techidaily.com/mastering-ubuntu-linux-effective-techniques-for-initiating-the-terminal-interface/"><u>Mastering Ubuntu Linux: Effective Techniques for Initiating the Terminal Interface</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-how-to-record-hulu-on-winmacmobile-for-2024/"><u>The Ultimate Guide How To Record Hulu On Win/Mac/Mobile for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-free-quality-screen-capture-programs-for-windows/"><u>[New] Free, Quality Screen Capture Programs for Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[New] In 2024, 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-clear-coffee-stain-free-images-using-ioss-free-app/"><u>[Updated] Get Clear, Coffee Stain-Free Images Using iOS's Free App</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-constructing-premium-canon-chrono-images/"><u>2024 Approved Constructing Premium Canon Chrono Images</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Edge 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nextgen-android-for-immersive-3d-viewing/"><u>In 2024, NextGen Android for Immersive 3D Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-pubg-voice-alteration-guide/"><u>In 2024, Simplified PUBG Voice Alteration Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-your-conversation-with-chatgpt-private-understanding-ai-confidentiality-concerns/"><u>Is Your Conversation with ChatGPT Private? Understanding AI Confidentiality Concerns</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-hd-drivers-troubleshooting-made-simple-overcoming-common-errors-and-glitches/"><u>Realtek HD Drivers Troubleshooting Made Simple: Overcoming Common Errors and Glitches</u></a></li>
+<li><a href="https://techidaily.com/top-12-free-mac-image-editing-software-picks-exploring-the-best-choices/"><u>Top 12 Free Mac Image Editing Software Picks - Exploring the Best Choices</u></a></li>
+<li><a href="https://techidaily.com/top-13-webcam-software-solutions-for-windows-10-users-discover-the-ideal-choice/"><u>Top 13 Webcam Software Solutions for Windows 10 Users - Discover the Ideal Choice</u></a></li>
+<li><a href="https://techidaily.com/top-9-ferramentas-de-gestao-fotografica-mais-inovadoras-em-2024-lista-completa/"><u>Top 9 Ferramentas De Gestão Fotográfica Mais Inovadoras Em 2024: Lista Completa</u></a></li>
+<li><a href="https://techidaily.com/transforma-graciosamente-su-videoclip-3gp-en-formato-flv-por-internet-gratis-hace-uso-de-movavi/"><u>Transforma Graciosamente Su Videoclip 3GP en Formato FLV Por Internet Gratis - Hace Uso De Movavi</u></a></li>
+<li><a href="https://techidaily.com/transforma-sus-mp3-a-ausin-problemas-guia-completa-para-usar-movavi-sin-gastos-extras/"><u>Transforma Sus MP3 a AUsin Problemas: Guía Completa Para Usar Movavi Sin Gastos Extras</u></a></li>
+<li><a href="https://techidaily.com/trasforma-file-mp4-in-punti-guida-al-convertitore-di-file-video-on-line-and-app-desktop-con-movavi/"><u>Trasforma File MP4 in Punti: Guida Al Convertitore Di File Video On-Line & App Desktop Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-file-ogv-in-mp4-gratuitamente-guida-completa-di-movavi/"><u>Trasforma I File OGV in MP4 Gratuitamente: Guida Completa Di Movavi</u></a></li>
 </ul></div>
 

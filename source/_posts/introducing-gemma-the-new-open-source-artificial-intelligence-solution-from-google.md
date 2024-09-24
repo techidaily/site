@@ -1,7 +1,7 @@
 ---
 title: "Introducing Gemma: The New Open-Source Artificial Intelligence Solution From Google"
-date: 2024-09-13T16:48:45.872Z
-updated: 2024-09-18T16:20:15.472Z
+date: 2024-09-16T18:46:47.561Z
+updated: 2024-09-24T06:31:55.470Z
 tags:
   - cutting-edge
 categories:
@@ -42,23 +42,32 @@ Google is now offering [Gemma 2B and 7B](https://blog.google/technology/develope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-guide-scaling-up-youtube-media/"><u>[Updated] Comprehensive Guide Scaling Up YouTube Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highlighting-elite-gif-software-on-apple-iphones/"><u>[Updated] Highlighting Elite GIF Software on Apple iPhones</u></a></li>
-<li><a href="https://techidaily.com/1724312958750-abbyy/"><u>「言語無関係な請求書管理 - フレックスキャプチャABBYYの日本語対応完了！」</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-enhance-your-films-with-these-vfx-sites/"><u>2024 Approved Enhance Your Films with These VFx Sites</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tsgif-movavi-gif/"><u>無限制網路直接類比TS成GIF - 利用Movavi GIF轉化工具</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-digital-age-a-guide-to-9-key-educational-technologies-for-students/"><u>Navigating the Digital Age: A Guide to 9 Key Educational Technologies for Students</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165662348-revive-gbadvance-games-seamlessly-on-iphone-and-ipad/"><u>Revive GBAdvance Games Seamlessly on iPhone & iPad!</u></a></li>
-<li><a href="https://techidaily.com/seamless-document-processing-using-abbyys-flexicapture-software-for-laserfiche-systems/"><u>Seamless Document Processing Using ABBYY's FlexiCapture Software for Laserfiche Systems</u></a></li>
-<li><a href="https://techidaily.com/streamlining-logistics-the-future-of-digital-and-automated-freight-with-abbyys-insights/"><u>Streamlining Logistics: The Future of Digital & Automated Freight with ABBYY's Insights</u></a></li>
-<li><a href="https://techidaily.com/tailored-web-interaction-through-advanced-analytics-discover-the-benefits-of-cookiebot-solutions/"><u>Tailored Web Interaction Through Advanced Analytics: Discover the Benefits of Cookiebot Solutions</u></a></li>
-<li><a href="https://techidaily.com/understanding-ocr-vs-idp-key-differences-explained/"><u>Understanding OCR Vs. IDP: Key Differences Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>[New] Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-transform-your-videos-the-ultimate-guide-to-spinning-media/"><u>[New] Transform Your Videos The Ultimate Guide to Spinning Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[Updated] 2024 Approved From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>2024 Approved From Favorites to Featured The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://techidaily.com/convertissez-facilement-et-sans-frais-un-fichier-ram-en-mp4-via-movavi-service-de-conversion-en-ligne-rapide/"><u>Convertissez Facilement Et Sans Frais Un Fichier RAM en MP4 via Movavi - Service De Conversion en Ligne Rapide</u></a></li>
+<li><a href="https://techidaily.com/cr2-bmp/"><u>CR2 BMP 이미지를 원할 수 있는 무료 가용성 강화: 컴퓨터 마음에서</u></a></li>
+<li><a href="https://techidaily.com/create-mp4-video-from-gif-without-cost-with-movavis-easy-web-tool/"><u>Create MP4 Video From GIF Without Cost With Movavi's Easy Web Tool</u></a></li>
+<li><a href="https://techidaily.com/create-stunning-wedding-montages-with-movavi-top-marriage-video-editing-software/"><u>Create Stunning Wedding Montages with Movavi - Top Marriage Video Editing Software</u></a></li>
+<li><a href="https://techidaily.com/de-top-5-moglichkeiten-einen-perlenkollage-erstellt-zu-hoe/"><u>De Top 5 Möglichkeiten, Einen Perlenkollage Erstellt Zu Hoe</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-21-speech-to-text-solutions-for-flawless-conversion-technology/"><u>Discover the Best 21 Speech-to-Text Solutions for Flawless Conversion Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-superior-xbox-capture-tech/"><u>Exclusive Guide to Superior Xbox Capture Tech</u></a></li>
+<li><a href="https://techidaily.com/flac-versus-wav-choosing-the-ideal-audio-format-expert-comparison/"><u>FLAC versus WAV: Choosing the Ideal Audio Format - Expert Comparison</u></a></li>
+<li><a href="https://techidaily.com/free-online-gif-to-avi-video-conversion-easy-with-movavi/"><u>Free Online GIF to AVI Video Conversion - Easy with Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-vob-to-mkv-conversion-with-movavi-effortless-video-format-change/"><u>Free Online VOB to MKV Conversion with Movavi - Effortless Video Format Change</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-ch340g-chip-driver-updates-and-downloads-compatible-with-windows-11/"><u>Get the Newest CH340G Chip Driver Updates and Downloads Compatible with Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-y36-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo Y36 Phone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/optimize-your-site-with-cookiebot-technology-for-tailored-user-experiences/"><u>Optimize Your Site with Cookiebot Technology for Tailored User Experiences</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-qr-code-scan-issues-top-10-solutions/"><u>Troubleshooting iPhone QR Code Scan Issues - Top 10 Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-a-new-world-nft-trial-by-meta-drop-on-social-media/"><u>Unveiling a New World: NFT Trial by Meta Drop on Social Media</u></a></li>
+<li><a href="https://techidaily.com/flv-movavis-online-converter/"><u>언제나 크레딧없이 FLV 파일을 바로 대화형 원활한 변환 - Movavi's Online Converter</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

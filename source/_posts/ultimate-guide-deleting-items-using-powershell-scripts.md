@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Deleting Items Using PowerShell Scripts"
-date: 2024-09-12T18:03:05.239Z
-updated: 2024-09-18T18:44:37.347Z
+date: 2024-09-19T18:09:18.043Z
+updated: 2024-09-23T21:02:05.200Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
 * [How to Delete All Files in a Folder But Keep the Folder](https://extra-skills.techidaily.com/new-pushing-creative-boundaries-with-these-top-7-film-color-techniques/)
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete a Specific File Using PowerShell
@@ -58,6 +65,13 @@ Remove-Item PATH
 Remove-Item "C:\Users\username\Desktop\Old-List.txt"
 
 ![The 'Remove-Item' cmdlet to delete a file in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-delete-file-powershell.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that the command won’t ask for a confirmation before deleting your file. If you’d like the command to do that, add the "Confirm" parameter as follows:
 
@@ -94,10 +108,10 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
 ![The 'Remove-Item' cmdlet to delete all files inside a folder on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-delete-all-files-retain-folder-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
@@ -117,13 +131,6 @@ Remove-Item PATH -Recurse -Include *.*
 Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
 
@@ -162,18 +169,25 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-exclusive-list-of-budget-friendly-video-conferencing-tools-for-2024/"><u>[New] Exclusive List of Budget-Friendly Video Conferencing Tools for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-download-custom-mcb-banner-packs/"><u>[New] In 2024, Download Custom MCB Banner Packs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dells-top-secret-scholarly-savings-strategies-unveiled-here/"><u>Dell's Top-Secret Scholarly Savings Strategies Unveiled Here!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-hey-siri-functionality-to-its-full-potential-on-ios/"><u>Expert Advice: Restoring 'Hey Siri' Functionality to Its Full Potential on iOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guidance-best-websites-to-find-google-pixel-ringtones-and-how-to-customize-google-pixel-ringtones/"><u>In 2024, Guidance Best Websites To Find Google Pixel Ringtones & How To Customize Google Pixel Ringtones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-weavers-codex-looms-screen-capture-secrets/"><u>In 2024, The Weaver’s Codex Loom's Screen Capture Secrets</u></a></li>
-<li><a href="https://techidaily.com/samsung-unveils-the-priciest-addition-the-galaxy-watch-ultra/"><u>Samsung Unveils the Priciest Addition: The Galaxy Watch Ultra</u></a></li>
-<li><a href="https://techidaily.com/seamless-integration-strategies-for-apple-and-android-device-users/"><u>Seamless Integration Strategies for Apple and Android Device Users</u></a></li>
-<li><a href="https://techidaily.com/secure-your-smartphone-on-a-bike-with-homemade-android-auto-support/"><u>Secure Your Smartphone on a Bike with Homemade Android Auto Support</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-smartphone-screens-rapid-fluctuations-with-top-7-effective-solutions/"><u>Solve Your Smartphone Screen's Rapid Fluctuations with Top 7 Effective Solutions</u></a></li>
-<li><a href="https://techidaily.com/thinking-of-buying-a-new-tablet-why-you-shouldnt-ignore-the-compact-powerhouse-ipad-mini/"><u>Thinking of Buying a New Tablet? Why You Shouldn't Ignore the Compact Powerhouse: IPad Mini</u></a></li>
-<li><a href="https://techidaily.com/transforming-your-iphones-live-photos-into-stunning-videos-and-animated-gifs-a-step-by-step-guide/"><u>Transforming Your iPhone's Live Photos Into Stunning Videos and Animated GIFs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-top-contender-oneplus-ace-with-an-in-depth-longevity-assessment/"><u>Unveiling the Top Contender: OnePlus Ace with an In-Depth Longevity Assessment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-discover-the-ultimate-in-samsung-gear-vr-entertainment/"><u>[New] Discover the Ultimate in Samsung Gear VR Entertainment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framefixer-editor/"><u>[Updated] In 2024, FrameFixer Editor</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/10-youtube-storytelling-techniques-that-work-for-2024/"><u>10 YouTube Storytelling Techniques That Work for 2024</u></a></li>
+<li><a href="https://techidaily.com/6zu75b2x5ymq5o6l5oqa5ben6iih5pon5l2c5oyh5y2x77ya5zyo57ea5lik5a6m5oiq55qe6auy57sa5pwz6iky6kqy56il/"><u>電影剪接技巧與操作指南：在線上完成的高級教育課程</u></a></li>
+<li><a href="https://techidaily.com/webmogg-movavi/"><u>在線自由WEBM轉OGG的方法 - 利用 Movavi 轉換器優化</u></a></li>
+<li><a href="https://techidaily.com/convert-and-edit-videos-with-movavi-on-your-mac-ideal-for-various-codecs-and-formats/"><u>Convert and Edit Videos with Movavi on Your Mac: Ideal for Various Codecs and Formats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-of-ls-0013-in-fortnite-comprehensive-guide/"><u>Fixing the Issue of LS-0013 in Fortnite - Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-audio-files-to-webm-format-using-movavi-tools/"><u>Free Online Converter: Change MP4 Audio Files to WebM Format Using Movavi Tools</u></a></li>
+<li><a href="https://techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-t2-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo T2 5G Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-g2-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo G2 Phone without Google Account?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-vip-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 VIP Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y77t-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-mobile-and-dslr-shooting-igtv-with-perfection/"><u>In 2024, Mastering Mobile & DSLR Shooting IGTV with Perfection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/samsung-ue590-ultra-hd-4k-gaming-and-freesync-screen/"><u>Samsung UE590 - Ultra HD 4K, Gaming & FreeSync Screen</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-choosing-the-right-camera-for-professional-music-video-production/"><u>Ultimate Guide: Choosing the Right Camera for Professional Music Video Production</u></a></li>
+<li><a href="https://techidaily.com/understanding-bmp-files-a-comprehensive-guide-on-the-basics-of-bmp-images-and-viewing-them/"><u>Understanding BMP Files: A Comprehensive Guide on the Basics of .bmp Images & Viewing Them</u></a></li>
+<li><a href="https://techidaily.com/voorbeurteiling-krijgt-gratis-startknop-voor-productsrecorderproductname-maakt-je-ervan-een-aanvanger/"><u>Voorbeurteiling Krijgt Gratis Startknop Voor {{ product('srecorder').product_name }}, Maakt Je Ervan Een Aanvanger</u></a></li>
+<li><a href="https://techidaily.com/vullend-uw-mp4-op-naar-wma-expert-online-converteertool-movavi-gratis-aanbod/"><u>Vullend Uw MP4 Op Naar WMA: Expert Online Converteertool Movavi Gratis Aanbod</u></a></li>
+<li><a href="https://techidaily.com/zoom-meetinglerin-eylemlerini-kontrol-alt-montajla-eam-ile-kaydetmek-movavi/"><u>Zoom Meetinglerin Eylemlerini Kontrol Alt Montajla (EAM) Ile Kaydetmek - Movavi</u></a></li>
 </ul></div>
 

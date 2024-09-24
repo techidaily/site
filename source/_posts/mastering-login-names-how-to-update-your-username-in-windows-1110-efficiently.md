@@ -1,7 +1,7 @@
 ---
 title: "Mastering Login Names: How to Update Your Username in Windows 11/10 Efficiently"
-date: 2024-09-13T17:10:11.777Z
-updated: 2024-09-18T16:08:44.034Z
+date: 2024-09-19T01:19:02.828Z
+updated: 2024-09-23T20:35:47.340Z
 tags:
   - deals
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![Fill out your name and captcha; then click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/fill-out-first-name-last-name-captcha-then-click-Save.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Change a Local Account Name with Control Panel
@@ -63,30 +63,37 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![Click &quot;User Accounts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-user-accounts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, click "User Accounts" again.
 
 ![Click &quot;User Accounts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-user-accounts.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click on "Change your account name" in the list.
 
 ![Click &quot;Change your account name.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-change-your-account-name.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) presents you with a prompt at this point, go ahead and allow it. Then, type the new name you'd like in the text box. Finally, click "Change Name."
 
 ![Enter your new user name in the box, then click &quot;Change Name.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/first-enter-the-new-name-then-click-Change.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you click "Change Name," close the user account screen.
 
@@ -105,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
  Type the new user name in the box, click "Apply," and then click "Ok."
 
 ![Enter name in box, click "Apply", then click "Ok."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/enter-name-then-click-apply-then-click-ok.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whether you're using a Microsoft account or a local account, you should restart your PC to make sure the changes stick.
 
@@ -125,14 +139,22 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-top-10-androidios-weddings-ultimate-countdown-timer-apps-for-2024/"><u>[New] Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
-<li><a href="https://techidaily.com/simple-steps-to-follow-when-building-your-own-google-account/"><u>Simple Steps to Follow When Building Your Own Google Account</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-malfunctioning-keyboard-keys/"><u>Solution Implemented for Malfunctioning Keyboard Keys</u></a></li>
-<li><a href="https://techidaily.com/solving-your-playstation-4-safe-mode-issues-a-comprehensive-guide/"><u>Solving Your PlayStation 4 Safe Mode Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/srt-to-sub-guide-practical-conversion-methods/"><u>SRT to SUB Guide Practical Conversion Methods</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-linking-your-printer-with-a-windows-11-pc/"><u>Step-by-Step Guide: Linking Your Printer with a Windows 11 PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtubes-hidden-view-tracking-method-for-2024/"><u>Unlocking YouTube’s Hidden View Tracking Method for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-free-online-video-editing-platforms-for-2024/"><u>Updated Top-Rated Free Online Video Editing Platforms for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-professional-photogridding-services-to-polish-your-art/"><u>[New] In 2024, Professional Photogridding Services to Polish Your Art</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-choice-10-best-webcams-for-win-11-for-2024/"><u>[Updated] Ultimate Choice 10 Best Webcams for Win 11 for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-high-quality-stock-images-top-18-premium-image-libraries-for-professionals/"><u>Best High-Quality Stock Images: Top 18 Premium Image Libraries for Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-user-efficiency-strategies-for-managing-switch-ids/"><u>Boosting User Efficiency: Strategies for Managing Switch IDs</u></a></li>
+<li><a href="https://techidaily.com/como-transformar-tu-musica-aiff-al-formato-wma-con-la-herramienta-online-gratuita-de-movavi-empieza-hoy/"><u>Cómo Transformar Tu Música AIFF Al Formato WMA Con La Herramienta Online Gratuita De Movavi - ¡Empieza Hoy!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A2 FRP Bypass</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-playlist-for-bike-enthusiasts/"><u>In 2024, Ultimate Playlist for Bike Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-prime-viewing-fixing-windows-11-audio-subtitle-discrepancies/"><u>Seamless Prime Viewing: Fixing Windows 11 Audio-Subtitle Discrepancies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-rtx-sper-graphics-card-driver-on-windows-11/"><u>Step-by-Step Guide to Updating Your RTX ˈsʊpər Graphics Card Driver on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-google-pixel-8-by-drfone-android/"><u>Top 10 Password Cracking Tools For Google Pixel 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-strategies-for-creating-a-viral-sensation-on-youtube/"><u>Top 8 Strategies for Creating a Viral Sensation on YouTube</u></a></li>
+<li><a href="https://techidaily.com/transformez-facilement-votre-video-wmv-en-differents-formats-avec-le-convertisseur-video-virtuose-tous-les-outils-de-transcodage-par-movavi/"><u>Transformez Facilement Votre Vidéo WMV en Différents Formats Avec Le Convertisseur Vidéo Virtuose | Tous Les Outils De Transcodage Par Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-video-mp4-in-gif-senza-costi-con-la-funzionalita-on-line-di-convertitore-gratuito-movavi/"><u>Trasforma Video MP4 in GIF Senza Costi Con La Funzionalità On-Line Di Convertitore Gratuito Movavi</u></a></li>
+<li><a href="https://techidaily.com/ultimate-list-of-11-leading-free-video-converter-software-for-mov-files-mac-and-windows/"><u>Ultimate List of 11 Leading Free Video Converter Software for Mov Files (Mac & Windows)</u></a></li>
+<li><a href="https://techidaily.com/vocwma/"><u>VOCファイルからWMAへの自動変換 - 簡単な方法で</u></a></li>
+<li><a href="https://techidaily.com/web-based-gratuitous-wmv-3g2/"><u>Web-Based Gratuitous WMV 3G2 콜리즈 - 무료 변환 프로그램</u></a></li>
+<li><a href="https://techidaily.com/wav-movavi/"><u>オンラインでワイルドカットWAVファイルに自動変換可能! -Movavi無料サービス</u></a></li>
 </ul></div>
 

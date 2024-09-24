@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware"
-date: 2024-09-12T16:01:54.558Z
-updated: 2024-09-18T17:56:49.207Z
+date: 2024-09-19T04:04:47.480Z
+updated: 2024-09-24T08:07:11.057Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
  With these considerations in mind, let's explore how you can use your internal storage drive as the backup location for Time Machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  First, Partition Your Internal Storage Drive
 
  If you've never partitioned your storage drive, you'll need to create a partition dedicated solely to the Time Machine backup. You can easily do this [using the Disk Utility app](https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/).
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  Press Command+Space, type "Disk Utility," and hit Enter.
 
 ![Opening the Disk Utility from the spotlight search on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-opening-the-disk-utility-from-the-spotlight-on-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, select the main volume, usually "Macintosh HD," and click "Partition."
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
  Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Newly Created Partition for the Backup
 
  If you're setting up the Time Machine backup for the first time, press Command+Space, type "Time Machine," and open the Time Machine app.
@@ -61,28 +82,15 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Setting up the newly created partition for the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-setting-up-the-newly-created-parition-for-the-time-machine-backup.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To restore a deleted or older file version from the backup, open the Time Machine utility. Navigate through the snapshots that Time Machine has taken and locate the file you want to restore. Then, click on "Restore" to recover the file.
 
 ![Restoring a deleted Microsoft Word file from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-restoring-a-deleted-file-from-the-time-machine-backup.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don't Let Your Backup Drive Get Clogged Up
@@ -114,18 +122,17 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-list-ps2-games-on-android-devices/"><u>[Updated] Ultimate List PS2 Games on Android Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-screen-capturing-in-windows-8/"><u>2024 Approved Comprehensive Guide to Screen Capturing in Windows 8</u></a></li>
-<li><a href="https://techidaily.com/accessible-ai-gpt-4-turbo-features-unleashed-with-complimentary-microsoft-copilot/"><u>Accessible AI: GPT-4 Turbo Features Unleashed with Complimentary Microsoft Copilot</u></a></li>
-<li><a href="https://techidaily.com/affordable-access-to-advanced-ai-exploring-openais-gpt-4-lite/"><u>Affordable Access to Advanced AI: Exploring OpenAI's GPT-4 Lite</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/avira-security-software-expands-with-added-crypto-mining-capabilities/"><u>Avira Security Software Expands with Added Crypto-Mining Capabilities</u></a></li>
-<li><a href="https://techidaily.com/bypassing-the-chatgpt-limit-strategies-to-avoid-too-many-requests-after-an-hour/"><u>Bypassing the ChatGPT Limit: Strategies to Avoid 'Too Many Requests' After an Hour</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/definitive-guide-to-overcoming-intel-hd-graphics-630-driver-glitches-on-windows-machines/"><u>Definitive Guide to Overcoming Intel HD Graphics 630 Driver Glitches on Windows Machines</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/fast-track-mastering-tiktok-video-downloads/"><u>Fast Track Mastering TikTok Video Downloads</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone XS Max</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-s23plus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy S23+ FRP Bypass</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-task-manager-full-disk-warning/"><u>Understanding Task Manager Full Disk Warning</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-leading-edge-techniques-for-video-based-seminars/"><u>[New] In 2024, Leading Edge Techniques for Video-Based Seminars</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-video-sectioning-mastery-in-vimeo-videos/"><u>[New] In 2024, Video Sectioning Mastery in Vimeo Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites/"><u>[New] Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-step-by-step-guide-for-youtube-video-editing-pros-and-amateurs-alike/"><u>[Updated] 2024 Approved Step-by-Step Guide for YouTube Video Editing Pros and Amateurs Alike</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dat-avi/"><u>効率的な DAT ファイルから AVI への変換手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clarifying-the-role-and-mechanics-of-black-boxes-in-artificebiased-systems/"><u>Clarifying the Role and Mechanics of 'Black Boxes' In Artificebiased Systems</u></a></li>
+<li><a href="https://techidaily.com/conversione-libera-m4a-in-mp3-con-web-based-servizi-gratis-movavi-solutions/"><u>Conversione Libera .m4a in .mp3 Con Web-Based Servizi Gratis - Movavi Solutions</u></a></li>
+<li><a href="https://techidaily.com/convert-your-flac-files-to-mp3-for-free-with-movavis-web-based-tool/"><u>Convert Your FLAC Files to MP3 for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
+<li><a href="https://techidaily.com/enregistreur-video-de-screenshots-libre-screencapturepro/"><u>Enregistreur Vidéo De Screenshots Libre – ScreenCapturePro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-nwstoreexe-hiccups-a-user-friendly-walkthrough-for-faster-repairs/"><u>Overcoming Common nw_store.exe Hiccups - A User-Friendly Walkthrough for Faster Repairs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/king-history-with-youtube-student-edition-top-10-for-2024/"><u>Unpacking History with YouTube – Student Edition (Top 10) for 2024</u></a></li>
 </ul></div>
 

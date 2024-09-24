@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Mastering Cropping Techniques in iOS Devices"
-date: 2024-09-15T19:00:51.735Z
-updated: 2024-09-18T19:07:27.247Z
+date: 2024-09-21T17:30:42.578Z
+updated: 2024-09-23T20:13:35.382Z
 tags:
   - mobile
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
 
  Want to zoom into an image or cut an item out of view? It's easy to change the shape or proportions of a photo on iPhone or iPad by cropping using the Photos app. Here's how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Crop Images in the Photos App
 
  To get started, open the Photos app on your iPhone or iPad and navigate to the photo that you want to crop. In the top-right corner, tap the "Edit" button. This will take you to the photo editing view. In the bottom toolbar, tap the Crop button (it looks like two overlapping corners with arrows around it).
@@ -28,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
  When you're happy, tap the "Done" button to save your cropped image. You can now [share the photo with your friends](https://program-issues.techidaily.com/definitive-guide-for-resolving-dauntless-pc-stability-issues-and-crashes/) using the Share button in the bottom toolbar or just keep the cropped version in your photo library for yourself.
 
 Close 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Crop Photos to a Set Aspect Ratio
 
@@ -40,10 +54,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Undo the Crop
@@ -75,15 +89,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-prime-interactive-face-time-festivals/"><u>[New] Prime Interactive Face Time Festivals</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-recapture-image-purity-with-these-premium-photo-editors-online/"><u>[New] Recapture Image Purity with These Premium Photo Editors Online</u></a></li>
-<li><a href="https://techidaily.com/1-idoc-scanner-app-effortless-pdf-conversion-using-ios-and-android/"><u>1. IDoc Scanner App - Effortless PDF Conversion Using iOS & Android</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-websites-performance/"><u>Cookiebot-Enabled: Enhance Your Website's Performance</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-8-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 8 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/model-c-safety-first-1920-5-fixed-rear-sight-safety-feature-incorporated-into-the-design-of-the-grip-assembly-underneath-the-hammer-similar-to-a-cross-bolt-18/"><u>Model C (Safety First) - 1920-5, Fixed Rear Sight, Safety Feature Incorporated Into the Design of the Grip Assembly Underneath the Hammer (Similar to a Cross Bolt Screwdriver), Fluted Grip</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/razer-portal-unveiled-top-wireless-gaming-headset-for-pro-players/"><u>Razer Portal Unveiled: Top Wireless Gaming Headset for Pro Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-alternatives-to-chatgpt-which-ones-should-you-avoid/"><u>Top 6 Alternatives to ChatGPT: Which Ones Should You Avoid?</u></a></li>
-<li><a href="https://techidaily.com/unleashing-traffic-with-cookiebot-technology-a-game-changer-for-seo-strategies/"><u>Unleashing Traffic with Cookiebot Technology: A Game-Changer for SEO Strategies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/zooming-in-on-sound-excellence-techniques-for-top-tier-quality-for-2024/"><u>Zooming In on Sound Excellence Techniques for Top-Tier Quality for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-leading-video-calling-apps-of-today-for-2024/"><u>[New] Discover the Leading Video Calling Apps of Today for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-ps1-games-emulators-resurrecting-console-legends-on-pc/"><u>[New] Top 5 PS1 Games Emulators - Resurrecting Console Legends on PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cutting-costs-with-low-priced-vr-technology-china/"><u>[Updated] Cutting Costs with Low-Priced VR Technology (China)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-eyedome-hd-top-quality-chromeos-snapping/"><u>2024 Approved EyeDome HD Top Quality ChromeOS Snapping</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screenrec-101-essential-techniques-for-laptops/"><u>2024 Approved ScreenRec 101 Essential Techniques for Laptops</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a79-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A79 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-grand-release-of-free-gpt-n-reasons-to-stick-with-your-exclusive-chatgpt-plus-membership/"><u>The Grand Release of Free GPT-N: Reasons to Stick With Your Exclusive ChatGPT Plus Membership</u></a></li>
+<li><a href="https://techidaily.com/top-9-livres-de-software-mais-populares-para-masterizacao-de-cds-e-dvds-no-computador/"><u>Top 9 Livres De Software Mais Populares Para Masterização De CDs E DVDs No Computador</u></a></li>
+<li><a href="https://techidaily.com/transformacion-facil-de-archivo-mkv-a-mp4-para-usuarios-de-mac-paso-a-paso/"><u>Transformación Fácil De Archivo MKV a MP4 Para Usuarios De Mac: Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/transforme-imagens-de-animacao-gif-em-tiff-off-line-sem-custo-algum-pelo-movavi/"><u>Transforme Imagens De Animação GIF Em TIFF Off-Line Sem Custo Algum Pelo Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-tuoi-file-ogg-in-aiff-senza-costi-con-il-convertitore-di-movavi-gratuito/"><u>Trasforma I Tuoi File OGG in AIFF Senza Costi Con Il Convertitore Di Movavi Gratuito</u></a></li>
+<li><a href="https://techidaily.com/trasforma-orf-in-png-gratuitamente-online-con-movavi-prove-e-cambia/"><u>Trasforma ORF in PNG Gratuitamente Online Con Movavi - Prove E Cambia</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-choosing-the-right-camera-for-professional-music-video-production/"><u>Ultimate Guide: Choosing the Right Camera for Professional Music Video Production</u></a></li>
+<li><a href="https://techidaily.com/understanding-bmp-files-a-comprehensive-guide-on-the-basics-of-bmp-images-and-viewing-them/"><u>Understanding BMP Files: A Comprehensive Guide on the Basics of .bmp Images & Viewing Them</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-finest-selection-of-economical-free-lut-tools-for-2024/"><u>Unveiling the Finest Selection of Economical, Free LUT Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/voorbeurteiling-krijgt-gratis-startknop-voor-productsrecorderproductname-maakt-je-ervan-een-aanvanger/"><u>Voorbeurteiling Krijgt Gratis Startknop Voor {{ product('srecorder').product_name }}, Maakt Je Ervan Een Aanvanger</u></a></li>
 </ul></div>
 

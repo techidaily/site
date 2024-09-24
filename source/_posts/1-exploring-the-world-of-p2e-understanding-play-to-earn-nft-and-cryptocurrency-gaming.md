@@ -1,7 +1,7 @@
 ---
 title: "1. Exploring the World of P2E: Understanding Play-to-Earn NFT and Cryptocurrency Gaming"
-date: 2024-09-16T16:13:31.717Z
-updated: 2024-09-18T16:56:49.770Z
+date: 2024-09-17T05:33:42.912Z
+updated: 2024-09-23T23:16:04.889Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
  Few sectors are escaping the crypto craze, but many game developers have really embraced it. Plenty of gaming-related collectibles can now be claimed as NFTs, but some so-called "play-to-earn" games have gone even further and have crypto and NFT as the stakes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  P2E Games Play For Keeps
 
  Play-to-earn games, also called P2E games or even just crypto games, are games that have [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) and [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/) as an integral part of the gameplay. Often, instead of buying the game, you buy stuff within it, like characters or weapons or, well, just about anything.
@@ -27,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
  However, what sets play-to-earn apart from free-to-play is that you can trade and sell your assets to other players. This is because many of these assets are NFTs, or can be turned into them.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Axie Infinity
 
  To illustrate this, it's probably best to use the system used by [_Axie Infinity_](https://axieinfinity.com), one of the longest running P2E games out there (and also one that recently [lost over $600 million dollars](https://www.theverge.com/2022/3/29/23001620/sky-mavis-axie-infinity-ronin-blockchain-validation-defi-hack-nft).) The idea of the game is simple: players control "axies," small fantasy creatures, and battle them against other players' axies. It's reminiscent of Pokémon, but in a heavily monetized form.
@@ -34,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
  Players can get axies by buying them ready-made from the in-game store or breeding them for themselves. Breeding involves AXS, the in-game currency combined with what's called a "small love potion" or SLP. Both AXS and SLP can be earned by playing the game---fighting other players, competing in tournaments, etc.---or by buying them from the store.
 
 ![Axie Infinity Breeding Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/axie-infinity-breeding.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, what makes _Axie Infinity_ interesting is that you're not only spending money, you're also making it. If you breed a rare axie, you can put it up for sale on the marketplace, for example, and you can also sell your surplus resources. Where in F2P games the money all flows one way---to the developer---P2E games see some flow back, too. Some people even [make a living](https://www.coingecko.com/buzz/how-gamers-are-making-a-living-a-case-study-on-axie-infinity) off playing the game.
 
@@ -49,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
  As a result, paying players will often grind free players into dust. This, in turn, turns free players either away from the game or gets them to increase their expenditure so as to remain competitive. It's a cycle that's hard to get out of and can be the start of an addiction.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Other P2E Games
 
  To be clear, we're only using _Axie Infinity_ as one example, other P2E games like _Gods Unchained_ or the planned _Illuvium_ use much the same tactics, just in slightly different forms.
@@ -65,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 _Illuvium_, which also is about letting fantasy beasts fight each other, tears the veil away completely and advertises that it will host betting on fights between players, as well as letting you trade fighters with other players.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Do You Really Own Your In-Game Assets?
@@ -102,15 +116,16 @@ _Illuvium_, which also is about letting fantasy beasts fight each other, tears t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-mirthful-montage-mastering-7-comical-video-vignettes/"><u>[New] In 2024, Mirthful Montage Mastering 7 Comical Video Vignettes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-windows-11-photo-and-video-import-magic/"><u>[New] Mastering Windows 11 Photo & Video Import Magic</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-transform-webcam-into-a-recording-station-with-vlc-for-2024/"><u>[Updated] Transform Webcam Into a Recording Station with VLC for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/1723808353699-how-to-install-mods-for-fallout-4-on-your-pc-beginners-guide/"><u>How to Install Mods for Fallout 4 on Your PC – Beginner’s Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo T2 Pro 5G Phone Without Password?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-essential-audio-recording-gear-for-idevices/"><u>In 2024, Essential Audio Recording Gear for iDevices</u></a></li>
-<li><a href="https://techidaily.com/1723808275190-trouble-with-chatgpt-fix-it-in-five-simple-steps/"><u>Trouble with ChatGPT? Fix It in Five Simple Steps</u></a></li>
-<li><a href="https://techidaily.com/1723808212540-trouble-with-windows-10-booting-up-discover-simple-solutions-now/"><u>Trouble with Windows 10 Booting Up? Discover Simple Solutions Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-are-sites-stifling-access-to-gptbot-insights-revealed/"><u>Why Are Sites Stifling Access to GPTBot? Insights Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ice-dance-showcase-olympic-winter-2022-for-2024/"><u>[New] Ice Dance Showcase Olympic Winter 2022 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings-for-2024/"><u>[New] Unveiling the Secrets of Excellent Interview and Journey Audio Recordings for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-guide-for-streamlining-iphone-video-content-for-2024/"><u>[Updated] The Ultimate Guide for Streamlining iPhone Video Content for 2024</u></a></li>
+<li><a href="https://techidaily.com/mp4-movavi-aac/"><u>在线无花言不语MP4转换：以 Movavi 为首选，AAC 格式自由免费</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bringing-facial-movement-to-life-with-picsarts-effects-for-2024/"><u>Bringing Facial Movement to Life with Picsart's Effects for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y17s-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y17s Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-step-by-step-guide-to-old-hollywood-filmmaking-styles/"><u>In 2024, Step-by-Step Guide to Old Hollywood Filmmaking Styles</u></a></li>
+<li><a href="https://techidaily.com/mp4-conversion-tool-seamless-mov-to-mp4-upgrade-for-free-with-movavis-online-service/"><u>MP4 Conversion Tool - Seamless MOV to MP4 Upgrade for Free with Movavi's Online Service</u></a></li>
+<li><a href="https://techidaily.com/online-free-rmvb-to-mp4-converter-fast-e-fai-da-te-with-videmovil/"><u>Online Free RMVB to MP4 Converter - Fast E Fai Da Te with VideMovil</u></a></li>
+<li><a href="https://techidaily.com/online-vidora-ljud-en-guid-till-att-extrahera-klarton-fran-videos-for-bra-seo/"><u>Online Vidöra Ljud: En Guid Till Att Extrahera Klarton Från Videos För Bra SEO</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-wired-connection-problems-in-windows-11-and-7-a-step-by-step-guide/"><u>Solving Wired Connection Problems in Windows 11 and 7: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

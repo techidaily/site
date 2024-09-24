@@ -1,7 +1,7 @@
 ---
 title: "Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images"
-date: 2024-09-13T17:50:27.880Z
-updated: 2024-09-18T16:30:02.401Z
+date: 2024-09-21T08:38:11.604Z
+updated: 2024-09-24T08:06:47.105Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 [Bringing Old Photos Back to Life](https://www.microsoft.com/en-us/research/publication/bringing-old-photos-back-to-life/) is the official Microsoft project for AI-powered photo restoration. The project samples show some stunning restoration jobs on a few degraded photos. I tested it with some photos of my own too, and it worked like a charm.
 
 ![Sample photos showcasing Microsoft's photo restoration AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0001.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, Microsoft has yet to offer an official app to use this AI. If you have a powerful PC and you possess the technical know-how, you can run the AI on your own hardware.
 
@@ -57,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close 
@@ -82,10 +83,10 @@ Close
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Colorizing Restored Photos
@@ -100,13 +101,6 @@ Close
 
 ![Arrow indicating the upload button on the Deoldify input form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Deoldify has two settings: the model name and the render factor. You can play around with both until you get the best result. The default is the Artistic model and a render factor of “35” which should work in most scenarios. I got a better result with Stable here.
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
@@ -116,17 +110,10 @@ Close
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Upscaling Old Photos
@@ -138,6 +125,13 @@ Close
 ![Arrow pointing at the upload button for ESRGAN AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-2.png) 
 
 ![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -152,6 +146,13 @@ Close
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
 
 ![Before and after preview of the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/comparison.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Including these three AI models, Replicate has a whole [collection of image restoration models](https://replicate.com/collections/image-restoration). There’s also a catalog dedicated to image [upscaling and refining models](https://replicate.com/collections/super-resolution).
 
@@ -176,21 +177,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-no-trouble-recorder-for-win10-desktop/"><u>[New] No-Trouble Recorder for Win10 Desktop</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-guided-process-importing-snapchats-into-local-gallery/"><u>[Updated] 2024 Approved Guided Process Importing Snapchats Into Local Gallery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-cost-effective-video-enhancement-vimeo-edition/"><u>[Updated] Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
-<li><a href="https://techidaily.com/1724312839676-abbyy/"><u>「タスクマイニング入門：理解して活用するためのタスク分析・自動化ガイド」 - ABBYYブログで見つけようタスク処理を最適化する方法</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-10t-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme 10T 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/5-cles-pour-triompher-dans-lexecution-dun-projet-rpa-avec-abbyy-guide-complet/"><u>5 Clés Pour Triompher Dans L'Exécution D'Un Projet RPA Avec ABBYY : Guide Complet</u></a></li>
-<li><a href="https://techidaily.com/abbey-and-toppan-finance/"><u>ABBEY & TOPPAN FINANCE: 中野区と京都電子計算による四社統合での課税手続き改善モデル開発</u></a></li>
-<li><a href="https://techidaily.com/1724313211244-abbyy-flexicapture/"><u>ABBYY FlexiCapture®採用で請求書管理効率化:デジタル化で非生産業から価値向上</u></a></li>
-<li><a href="https://techidaily.com/abbyy-go-revolutionizing-quick-loan-approvals-with-powerful-mobile-ocr-technology/"><u>Abbyy Go: Revolutionizing Quick Loan Approvals with Powerful Mobile OCR Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-windows-enter-key-failure/"><u>Addressing Windows Enter Key Failure</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-50-best-film-scores-an-assortment-for-every-video-format-and-theme/"><u>In 2024, 50 Best Film Scores An Assortment for Every Video Format and Theme</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-6-popular-animated-emoji-video-effects/"><u>New 6 Popular Animated Emoji Video Effects</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/refinement-of-zoom-visual-clarity-techniques-and-strategies-for-2024/"><u>Refinement of Zoom Visual Clarity Techniques and Strategies for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steering-through-technical-hiccups-elan-and-win10/"><u>Steering Through Technical Hiccups: Elan & Win10</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-secrets-of-process-mining-exploring-its-limits-and-alternatives/"><u>Unveiling the Secrets of Process Mining: Exploring Its Limits & Alternatives</u></a></li>
-<li><a href="https://techidaily.com/utilizing-cookiebot-technology-for-dynamic-content-customization/"><u>Utilizing Cookiebot Technology for Dynamic Content Customization</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>[New] 2024 Approved Comprehensive Guide Record Webcam in HD via VLC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-windows-call-platforms-7-1-ranked/"><u>[New] 2024 Approved Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-bring-back-the-sparkle-applying-instagram-effects-retro-style/"><u>[New] In 2024, Bring Back the Sparkle Applying Instagram Effects Retro Style</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-timeline-enhancement-incor-written-by-assistant/"><u>[Updated] 2024 Approved Timeline Enhancement Incor Written by Assistant</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-groundbreaking-gear-for-virtual-reality-players/"><u>[Updated] Groundbreaking Gear for Virtual Reality Players</u></a></li>
+<li><a href="https://techidaily.com/gifmkv-movavi/"><u>網路無限 GIF到MKV自由提供 - 利用 Movavi 影像格式轉檔工具</u></a></li>
+<li><a href="https://techidaily.com/flac-aac-movavi/"><u>移動維馮 FLAC到 AAC格式無間斷地免費轉換 - 使用Movavi轉換器</u></a></li>
+<li><a href="https://techidaily.com/gsmpcandroid-movavi-mp3/"><u>移動用GSM音楽をPC/Androidへ変換するための無料ソリューション – Movavi MP3変換</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-eight-lucrative-chatgpt-jobs-are-they-genuine-pathways-for-earning-extra-cash/"><u>Exploring Eight Lucrative ChatGPT Jobs - Are They Genuine Pathways for Earning Extra Cash?</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-transform-m4v-files-into-wmv-format/"><u>Free Online Converter: Transform M4V Files Into WMV Format</u></a></li>
+<li><a href="https://techidaily.com/free-online-convertor-change-aiff-and-avi-files-without-cost-using-movavi/"><u>Free Online Convertor - Change AIFF and AVI Files Without Cost Using Movavi</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/concept-to-creation-crafting-youtube-video-splits/"><u>From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-avi-in-gif-verwijderen-online-bewerking-met-movavi/"><u>Gratis AVI-In GIF Verwijderen - Online Bewerking Met Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversione-in-linea-dei-file-mp2-al-formato-wav-utilizzando-leditor-audio-di-movavi/"><u>Gratuito: Conversione In Linea Dei File MP2 Al Formato WAV Utilizzando L'Editor Audio Di Movavi</u></a></li>
+<li><a href="https://techidaily.com/gravacion-de-video-a-formato-de-audio-libre-y-gratuita-con-mp4-a-mp3-online/"><u>Gravación De Video a Formato De Audio Libre Y Gratuita Con MP4 a MP3 Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>In 2024, The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
+<li><a href="https://techidaily.com/megoldas-az-mxf-a-mp4-konvertalasa-modjairol-8-as-kiadasu-konverter-tenyezoknek-a-macwindows-rendszerrel/"><u>Megoldás Az MXF a MP4 Konvertálása Módjairol 8-as Kiadású Konverter Tényezőknek A Mac/Windows Rendszerrel</u></a></li>
 </ul></div>
 

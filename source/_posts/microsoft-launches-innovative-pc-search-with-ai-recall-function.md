@@ -1,7 +1,7 @@
 ---
 title: Microsoft Launches Innovative PC Search with AI Recall Function
-date: 2024-09-16T17:31:11.796Z
-updated: 2024-09-18T19:20:09.691Z
+date: 2024-09-23T06:58:34.648Z
+updated: 2024-09-23T22:08:32.294Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Microsoft has leaned heavily into AI recently, and nowhere is that more on display than their latest addition to Windows: Recall. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is Microsoft Recall?
 
  Microsoft Recall, formerly internally called AI Explorer, is a new, special kind of AI-powered search that is set to be integrated into Windows 11 (and likely subsequent Windows releases). It’ll have the ability to make note of everything you do on your PC, which you can then search using natural language. In other words, if you were writing a short story about a cat and forgot where you saved it, you should be able to ask Recall, “Where did I save my story about the cat” and it’ll be able to tell you.
@@ -26,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It’s like having someone with an eidetic memory watching what you do all the time, although Microsoft has stated that [users will be able to control what content Recall captures](https://blogs.windows.com/windowsexperience/2024/05/20/accelerating-innovation-a-new-era-of-ai-at-work-begins/).
 
  It isn’t limited to basic information about files, though. Recall is built around a large number of more specialized AI features that will allow it to interact with everything from text to images to video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Does Recall Require?
 
@@ -38,10 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  TOPs are a little different from the TFLOP figures you usually see thrown around when talking about super computers, GPUs, or CPUs. TOPs are measured in half-precision, FP16, or BFloat16, or BF16 calculations. TFlops usually (but not always) refer to “full precision” operations, which use 32-bit bit floating point numbers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is Microsoft Recall Secure?
@@ -71,21 +85,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-audio-capture-made-easy-in-windows-10/"><u>[New] Audio Capture Made Easy in Windows 10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-audio-clarity-10-pro-tips-for-high-quality-recordings-for-2024/"><u>[Updated] Audio Clarity 10 Pro Tips for High-Quality Recordings for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplify-viewing-incorporating-subtitles-into-wmp/"><u>2024 Approved Simplify Viewing Incorporating Subtitles Into WMP</u></a></li>
-<li><a href="https://techidaily.com/can-electric-cars-pose-risks-when-stuck-in-gridlock-situations/"><u>Can Electric Cars Pose Risks When Stuck in Gridlock Situations?</u></a></li>
-<li><a href="https://techidaily.com/creating-artificial-intelligence-visuals-using-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/desos-vision-revolutionizing-your-news-feed-with-decentralized-social-networking/"><u>DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking</u></a></li>
-<li><a href="https://techidaily.com/ditch-tedious-excel-tasks-embrace-the-power-of-chatgpt-for-instant-formula-creation/"><u>Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation</u></a></li>
-<li><a href="https://techidaily.com/dive-into-the-world-of-extended-reality-with-viture-pro-xr-headsets-a-comprehensive-product-insight/"><u>Dive Into the World of Extended Reality with VITURE Pro XR Headsets – A Comprehensive Product Insight</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-and-secure-lenovo-bluetooth-drivers-compatible-with-windows-7-or-10/"><u>Easy and Secure Lenovo Bluetooth Drivers: Compatible with Windows 7 or 10</u></a></li>
-<li><a href="https://techidaily.com/engage-more-with-bing-chats-enhanced-dialogue-capabilities/"><u>Engage More with Bing Chat's Enhanced Dialogue Capabilities</u></a></li>
-<li><a href="https://techidaily.com/enhancing-conversational-ai-with-a-human-touch-strategies-for-naturalizing-chatgpt-outputs/"><u>Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/first-steps-in-gopro-gear-selection-for-2024/"><u>First Steps in GoPro Gear Selection for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-a-broken-android-smartphone-with-google-cloud-backup-restoration-tips/"><u>Fixing a Broken Android Smartphone with Google Cloud Backup Restoration Tips</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-8-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 8 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-getting-started-with-digital-image-detailing/"><u>In 2024, Getting Started with Digital Image Detailing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-network-settings-to-find-your-windows-11-wi-fi-password/"><u>Navigating Through Network Settings to Find Your Windows 11 Wi-Fi Password</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tips-for-crafting-an-engaging-fb-timeline-memory-for-2024/"><u>[New] Tips for Crafting an Engaging FB Timeline Memory for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bluestacks-hiccups-mend-your-mobile-emulator-using-easy-to-follow-techniques/"><u>BlueStacks Hiccups? Mend Your Mobile Emulator Using Easy-to-Follow Techniques!</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-moto-g13-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Moto G13 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-tecno-spark-go-2024-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Tecno Spark Go (2024).</u></a></li>
+<li><a href="https://techidaily.com/entendendo-o-formato-divx-tudo-sobre-arquivos-e-como-abrange-los/"><u>Entendendo O Formato DivX: Tudo Sobre Arquivos E Como Abrangê-Los</u></a></li>
+<li><a href="https://techidaily.com/explore-the-best-gopro-editing-tools-a-comprehensive-list-of-13-leading-video-editors-for-action-cams/"><u>Explore the Best GoPro Editing Tools: A Comprehensive List of 13 Leading Video Editors for Action Cams</u></a></li>
+<li><a href="https://techidaily.com/free-mp3-converter-transforming-mp4-audio-files-into-m4a-format-with-ease/"><u>Free MP3 Converter: Transforming MP4 Audio Files Into M4A Format with Ease</u></a></li>
+<li><a href="https://techidaily.com/free-mp4-and-m4b-audio-file-transformation-using-movavis-online-tool/"><u>Free MP4 and M4B Audio File Transformation Using Movavi's Online Tool</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-tga-images-to-jpeg-format-with-ease-movavi/"><u>Free Online Converter: Change TGA Images to JPEG Format with Ease - Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-g2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo G2 is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/masterclass-in-selecting-quality-parts-the-toms-hardware-approach/"><u>Masterclass in Selecting Quality Parts: The Tom's Hardware Approach</u></a></li>
 </ul></div>
 

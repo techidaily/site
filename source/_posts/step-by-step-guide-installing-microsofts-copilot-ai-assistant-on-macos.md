@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-09-12T16:43:54.155Z
-updated: 2024-09-18T16:26:39.933Z
+date: 2024-09-17T07:30:36.500Z
+updated: 2024-09-23T17:09:45.941Z
 tags:
   - desktop
 categories:
@@ -27,13 +27,34 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
@@ -60,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -91,20 +106,18 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>[New] 2024 Approved Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>[New] 2024 Approved The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-time-lapse-magic-a-samsung-photo-guide/"><u>[New] Time-Lapse Magic A Samsung Photo Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-vector-art-basics-for-newcomers-diverse-forms-and-tools/"><u>[New] Vector Art Basics for Newcomers, Diverse Forms and Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-you-alone-in-this-struggle-determining-if-the-nintendo-switch-online-is-actually-down/"><u>Are You Alone in This Struggle? Determining if the Nintendo Switch Online Is Actually Down.</u></a></li>
-<li><a href="https://techidaily.com/navigating-wet-conditions-with-your-apple-watch-uncover-its-water-resistant-secrets/"><u>Navigating Wet Conditions with Your Apple Watch: Uncover Its Water-Resistant Secrets</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/prime-selection-of-video-editing-software-for-tiktok-pcs/"><u>Prime Selection of Video Editing Software for TikTok (PCs)</u></a></li>
-<li><a href="https://techidaily.com/protect-your-digital-memories-avoid-whatsapp-data-loss-disaster/"><u>Protect Your Digital Memories - Avoid WhatsApp Data Loss Disaster</u></a></li>
-<li><a href="https://techidaily.com/reviving-old-phones-as-fun-safe-entertainment-hubs-for-childrens-music-and-podcasts/"><u>Reviving Old Phones as Fun, Safe Entertainment Hubs for Children's Music and Podcasts</u></a></li>
-<li><a href="https://techidaily.com/revolutionary-battery-saving-function-in-latest-android-version-how-it-transforms-your-devices-efficiency/"><u>Revolutionary Battery-Saving Function in Latest Android Version: How It Transforms Your Device's Efficiency</u></a></li>
-<li><a href="https://techidaily.com/save-on-budget-friendly-boost-mobiles-latest-5g-offers/"><u>Save on Budget-Friendly Boost Mobile's Latest 5G Offers</u></a></li>
-<li><a href="https://techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
-<li><a href="https://techidaily.com/section-3a-the-next-concept-inflammation-and-repair/"><u>Section 3A: The Next Concept - Inflammation and Repair</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-best-a-list-of-top-8-no-cost-roku-channels/"><u>Uncover the Best: A List of Top 8 No-Cost Roku Channels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/winning-strategies-overlay-text-onto-photos-on-windows-mac/"><u>Winning Strategies Overlay Text Onto Photos on Windows, Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-adding-descriptive-titlestexts-via-microsoft-photos-win-11-for-2024/"><u>[New] Adding Descriptive Titles/Texts via Microsoft Photos Win 11 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-automating-subtitles-for-social-media-visuals-on-instagram/"><u>[New] Automating Subtitles for Social Media Visuals on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizedusageofyourwebcamrecorder/"><u>2024 Approved OptimizedUsageOfYourWebcamRecorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/compensated-analysis-the-vlog-perspective-on-goods-in-2024/"><u>Compensated Analysis The Vlog Perspective on Goods, In 2024</u></a></li>
+<li><a href="https://techidaily.com/download-e-converter-audio-e-video-em-linha-gratuitamente-com-moviavi-sua-ferramenta-de-conversao-de-mp4-simplificada/"><u>Download E Converter Áudio E Vídeo Em Linha Gratuitamente Com Moviávi: Sua Ferramenta De Conversão De MP4 Simplificada</u></a></li>
+<li><a href="https://techidaily.com/download-movavis-web-based-media-transformation-tool-for-hassle-free-mp3-audio-from-3gp-files-completely-gratis/"><u>Download Movavi's Web-Based Media Transformation Tool for Hassle-Free MP3 Audio From 3GP Files, Completely Gratis!</u></a></li>
+<li><a href="https://techidaily.com/downloadable-solutions-for-quick-and-hassle-free-rmvb-to-mp4-file-transformation-by-moveavi/"><u>Downloadable Solutions for Quick & Hassle-Free RMVB to MP4 File Transformation by Moveavi</u></a></li>
+<li><a href="https://techidaily.com/easy-step-by-step-guide-to-convert-avi-videos-to-wmv-utilize-the-power-of-movavis-free-tool/"><u>Easy Step-by-Step Guide to Convert AVI Videos to WMV - Utilize the Power of Movavi's Free Tool!</u></a></li>
+<li><a href="https://techidaily.com/effortless-aiff-to-mp3-transformation-explore-movavis-free-service-options/"><u>Effortless AIFF-to-MP3 Transformation - Explore Movavi’s Free Service Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowered-parenting-with-ai-the-ultimate-chatgpt-and-generative-tech-roadmap-for-families/"><u>Empowered Parenting with AI: The Ultimate ChatGPT & Generative Tech Roadmap for Families</u></a></li>
+<li><a href="https://techidaily.com/f4v-to-mp3-converter-professionele-online-konvertiering-ohne-kosten-movavi/"><u>F4V-to-MP3 Converter: Professionele Online Konvertiering Ohne Kosten - Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-6-ways-to-embed-facebook-live-on-a-website/"><u>In 2024, 6 Ways to Embed Facebook Live on a Website</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-6s-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 6s Plus? How to Fix</u></a></li>
 </ul></div>
 

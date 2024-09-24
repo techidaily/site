@@ -1,7 +1,7 @@
 ---
 title: "Guide: Operating ChatGPT on Your PC via Windows"
-date: 2024-09-13T17:01:30.682Z
-updated: 2024-09-18T19:14:05.019Z
+date: 2024-09-23T04:49:56.142Z
+updated: 2024-09-23T19:13:40.208Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 * [How to Launch the Downloaded ChatGPT App](https://screen-activity-recording.techidaily.com/2024-approved-recordingrealm-expedition-unveiling-snapcastpro-2023/)
 * [How to Uninstall the ChatGPT App](https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-se-2022-to-chromecast-drfone-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Use Chrome or Edge to turn ChatGPT's site into a native Windows app.
@@ -28,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  To turn ChatGPT’s site into an app, you’ll use a built-in option in Chrome or Edge. This option turns any site you access in these web browsers into a Windows app. You can use either web browser, but Edge offers the option to change the app’s icon when you create the app.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Download ChatGPT Using Chrome
 
 [Launch Chrome on your PC](https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/) and access the [ChatGPT site](https://chatgpt.com/). Log in to your account on the site and get to the chat screen (where you send and receive messages).
@@ -35,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
  In Chrome’s top-right corner, click the three dots and choose Save and Share > Install Page as App.
 
 !['Install Page as App' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-chrome-install-chatgpt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll see an "Install This Page as an App" dialog box. To change the app’s name, click the text field and type a name. This name will appear wherever the app is listed. Then, click "Install."
 
@@ -44,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  Windows will display a notification asking if you want to [pin the app to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/). To do that, click "Yes." Otherwise, select "No, Thanks." And that’s it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Download ChatGPT Using Edge
 
  Open the Edge web browser and access the [ChatGPT site](https://chatgpt.com/). Sign in to your account if you haven’t already done so.
@@ -59,18 +73,24 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 !['Install This Site as an App' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-edge-install-chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  An "Install This Site as an App" dialog box will open. To change the app’s default name, click the text field and type a new name. To change the app’s icon, beneath the current icon, click "Edit." Then, choose an ICO or [PNG file](https://remote-screen-capture.techidaily.com/new-2024-approved-immortalize-your-gaming-adventures-on-pc-6-ways/) as the app icon. There's a [way to turn any image into an icon file](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/).
 
  Once that’s done, click "Install" to add the app to your PC.
 
 ![The text box and 'Install' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-edge-create-chatgpt-app.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that’s all.
 
@@ -97,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 !['Uninstall' highlighted for ChatGPT in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-remove-chatgpt-windows-11-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To [delete the app using Settings on Windows 10](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), go to Settings > Apps. Select the ChatGPT app, click "Uninstall," and choose "Uninstall" in the prompt.
@@ -110,19 +130,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
  If you made the app with Chrome, you can [use Control Panel to uninstall the app](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/) [as well](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/). To do that, navigate to Control Panel > Uninstall a Program. Find and select the ChatGPT app and choose "Uninstall" at the top. Click "Remove" in the prompt.
 
 ![ChatGPT and 'Uninstall' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-uninstall-chatgpt-control-panel.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that’s how you create, launch, and remove ChatGPT’s Windows version from your computer. Have a good time using your favorite AI tool!
 
@@ -141,21 +148,18 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-basic-recorder-your-windows-10-companion/"><u>[New] Basic Recorder - Your Windows 10 Companion</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-best-ff-browser-add-ons-for-fb-videos/"><u>[New] In 2024, Best FF Browser Add-Ons for FB Videos</u></a></li>
-<li><a href="https://solve-news.techidaily.com/10-simple-steps-transforming-your-dvds-into-mp4-format-on-windows-11-and-mac/"><u>10 Simple Steps: Transforming Your DVDs Into MP4 Format on Windows 11 and Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/above-and-beyond-perfecting-your-drone-video-craft/"><u>Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expand-your-webcam-capabilities-on-yahoo-messenger-with-manycam-features/"><u>Expand Your Webcam Capabilities on Yahoo Messenger with ManyCam Features</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>In 2024, The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-affordable-and-stylish-beantech-bitwatch-s1-plus-smartwatch/"><u>In-Depth Review of the Affordable and Stylish Beantech Bitwatch S1 Plus Smartwatch</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/maximizing-velocity-in-real-time-periscope-livestreams/"><u>Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
-<li><a href="https://techidaily.com/minecraft-offline-mode-a-step-by-step-tutorial-for-windows-10-users/"><u>Minecraft Offline Mode: A Step-by-Step Tutorial for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/msi-camera-malfunction-learn-how-to-repair-and-optimize-with-these-helpful-hints/"><u>MSI Camera Malfunction? Learn How to Repair & Optimize with These Helpful Hints</u></a></li>
-<li><a href="https://techidaily.com/optimizing-graphics-performance-a-guide-to-pubgs-configurations-on-nvidia-gpus/"><u>Optimizing Graphics Performance: A Guide to PUBG's Configurations on NVIDIA GPUs</u></a></li>
-<li><a href="https://techidaily.com/overcoming-restrictions-enabling-access-to-websites-on-google-chrome/"><u>Overcoming Restrictions: Enabling Access to Websites on Google Chrome</u></a></li>
-<li><a href="https://techidaily.com/pc-gaming-basics-essential-guide-to-getting-started-with-fortnite/"><u>PC Gaming Basics: Essential Guide to Getting Started with Fortnite</u></a></li>
-<li><a href="https://article-helps.techidaily.com/premiere-cinematic-glimpses-series/"><u>Premiere Cinematic Glimpses Series</u></a></li>
-<li><a href="https://techidaily.com/preventing-thermal-damage-steps-for-finding-and-fixing-an-overheated-processor/"><u>Preventing Thermal Damage: Steps for Finding & Fixing an Overheated Processor</u></a></li>
-<li><a href="https://techidaily.com/processor-power/"><u>Processor Power</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp4playstation/"><u>対応していないMP4ファイルの視聴方法：PlayStationプラットフォーム全体における解決策</u></a></li>
+<li><a href="https://techidaily.com/best-high-quality-stock-images-top-18-premium-image-libraries-for-professionals/"><u>Best High-Quality Stock Images: Top 18 Premium Image Libraries for Professionals</u></a></li>
+<li><a href="https://techidaily.com/como-transformar-tu-musica-aiff-al-formato-wma-con-la-herramienta-online-gratuita-de-movavi-empieza-hoy/"><u>Cómo Transformar Tu Música AIFF Al Formato WMA Con La Herramienta Online Gratuita De Movavi - ¡Empieza Hoy!</u></a></li>
+<li><a href="https://techidaily.com/conversion-gratuita-de-archivos-pgm-a-linea-con-movavi/"><u>Conversión Gratuita De Archivos PGM a Línea Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversione-libera-online-da-mka-a-mkv-scopri-come-usare-movavi-per-lo-streaming-fruibile-gratuitamente/"><u>Conversione Libera Online Da MKA a MKV: Scopri Come Usare Movavi per Lo Streaming Fruibile Gratuitamente</u></a></li>
+<li><a href="https://techidaily.com/convertir-archivo-de-pelicula-ape-a-formato-ogg-sin-coste-guia-movilvi/"><u>Convertir Archivo De Película APE a Formato Ogg Sin Coste: Guía Móvilvi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-google-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Google</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-plotting-precise-promotional-reels/"><u>In 2024, Plotting Precise Promotional Reels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-motion-creating-engaging-profitable-fb-ads-for-2024/"><u>Mastering the Art of Motion Creating Engaging, Profitable FB Ads for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/no-hassle-no-money-10-official-passport-pictures-from-our-generator/"><u>No Hassle, No Money 10 Official Passport Pictures From Our Generator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pc-audio-logging-made-simple-install-x-recorder/"><u>Pc Audio Logging Made Simple Install X-Recorder</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-blueprint-for-successful-windows-11-post-windows-10-transition/"><u>The Blueprint for Successful Windows 11 Post-Windows 10 Transition</u></a></li>
+<li><a href="https://techidaily.com/web-based-gratuitous-wmv-3g2/"><u>Web-Based Gratuitous WMV 3G2 콜리즈 - 무료 변환 프로그램</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2024-09-17T18:37:44.759Z
-updated: 2024-09-18T16:01:35.332Z
+date: 2024-09-18T21:19:58.760Z
+updated: 2024-09-23T22:58:45.506Z
 tags:
   - deals
 categories:
@@ -35,6 +35,13 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Clippy would go on to frustrate users until it was disabled by default in Office XP and retired in Office 2007.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Cortana: The One That Missed the Mark
 
  Microsoft’s next attempt at a digital assistant came in 2015 when they launched Cortana, aiming to ride the voice assistant wave. Fun fact, Cortana was named after an AI character in the Halo games whose job was to support players through missions. Said AI would eventually become antagonistic and work against the player in a subsequent installment of the game. Foreshadowing?
@@ -49,18 +56,18 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
 
  What annoyed early Windows users the most about Clippy was the fact that it just wouldn't stop bugging you. No sooner had you typed "dear" into MS Word than Clippy was there, parroting the words: "It looks like you’re writing a letter, would you like help?" No, Clippy, I would not in fact like help. What I would like is for you to leave me alone!
 
 ![An unfinished letter in Microsoft Word and a paperclip with a textbox above it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-unfinished-letter-in-microsoft-word-and-a-paperclip-with-a-textbox-above-it.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Cortana was much the same. It held the search bar hostage, and there was no simple way to disable it. Microsoft even baked Cortana into the setup process for new PCs so she was impossible to escape.
 
@@ -69,10 +76,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don't Just Tell Me How—Do It for Me
@@ -94,6 +101,13 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Copilot cannot operate the same way. If I'm going to ask Copilot to reword an email before sending it off, I need to be sure that Ted from IT won’t get eyes on it.
 
  Microsoft's already had a poor start in this regard. [Recall](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/)–which was supposed to be a huge selling point for the Copilot+ PCs has been [beset by privacy concerns](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/) since its announcement. Even though Recall is different from Copilot, they are so closely intertwined in the new Copilot+ PCs that Copilot can't help but be tainted by association.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Copilot, I Need to Know I Can Trust You
 
@@ -120,18 +134,25 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-simple-paths-to-start-recording-on-hp-computers/"><u>[New] In 2024, Simple Paths to Start Recording on HP Computers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included/"><u>[Updated] Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/crafting-shareable-instagram-stories-that-spread-like-wildfire-for-2024/"><u>Crafting Shareable Instagram Stories That Spread Like Wildfire for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effective-methods-for-maintaining-high-quality-during-video-format-transitions/"><u>Effective Methods for Maintaining High-Quality During Video Format Transitions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-distinctive-features-of-amazons-kindle-and-fire-lineup/"><u>Exploring the Distinctive Features of Amazon's Kindle & Fire Lineup</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-x8b-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor X8b Without PUK Codes</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-fps-in-fortnite-essential-tips/"><u>Maximize Your FPS in Fortnite - Essential Tips</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-pubg-gameplay-top-strategies-to-increase-fps-in-2020/"><u>Maximize Your PUBG Gameplay: Top Strategies to Increase FPS in 2020</u></a></li>
-<li><a href="https://techidaily.com/navigating-windows-10-advanced-startup-features-with-minimal-hassle-a-how-to-guide/"><u>Navigating Windows 10 Advanced Startup Features with Minimal Hassle: A How-To Guide</u></a></li>
-<li><a href="https://techidaily.com/optimize-and-overclock-the-ultimate-list-of-tricks-to-make-your-laptop-faster/"><u>Optimize and Overclock: The Ultimate List of Tricks to Make Your Laptop Faster.</u></a></li>
-<li><a href="https://techidaily.com/optimize-windows-11-for-gamers-by-switching-off-mouse-acceleration-feature/"><u>Optimize Windows 11 for Gamers by Switching Off Mouse Acceleration Feature</u></a></li>
-<li><a href="https://techidaily.com/quick-fixes-rebuilding-the-icon-cache-on-your-windows-7-8-or-vista-pc/"><u>Quick Fixes: Rebuilding the Icon Cache on Your Windows 7, 8 or Vista PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-resolutions-for-non-functional-steam-virtual-reality-vr/"><u>Quick Resolutions for Non-Functional Steam Virtual Reality (VR)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>[Updated] 2024 Approved Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-momentary-motion-picture-manuscript/"><u>[Updated] In 2024, Momentary Motion Picture Manuscript</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-htc-vive-redefining-virtual-playtime-with-unmatched-immersion/"><u>2024 Approved HTC Vive Redefining Virtual Playtime with Unmatched Immersion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-video-length-constraints-explained/"><u>2024 Approved Mastering Instagram Video Length Constraints Explained</u></a></li>
+<li><a href="https://techidaily.com/convert-any-video-file-with-movavis-no-cost-nsv-to-mp3-tool-beginner-friendly/"><u>Convert Any Video File with Movavi's No-Cost NSV to MP3 Tool - Beginner Friendly</u></a></li>
+<li><a href="https://techidaily.com/convert-your-videos-faster-m4v-to-webm-for-free-using-movavis-tools/"><u>Convert Your Videos Faster! M4V to WEBM for Free Using Movavi's Tools</u></a></li>
+<li><a href="https://techidaily.com/converti-file-m2p-a-formato-avi-online-e-gratuitamente-con-movavi/"><u>Converti File M2P a Formato AVI Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/copia-video-vob-a-file-mp3-strumenti-di-conversione-liberi-e-premium-movavi/"><u>Copia Video VOB a File MP3: Strumenti Di Conversione Liberi E Premium - Movavi</u></a></li>
+<li><a href="https://techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
+<li><a href="https://techidaily.com/descargar-herramienta-de-conversion-gratuita-convertir-archivo-aiff-a-formato-ogg/"><u>Descargar Herramienta De Conversión Gratuita: Convertir Archivo AIFF a Formato OGG</u></a></li>
+<li><a href="https://techidaily.com/descubre-la-solucion-definitiva-herramientas-expertas-para-abrir-archivos-swf/"><u>Descubre La Solución Definitiva: Herramientas Expertas Para Abrir Archivos SWF</u></a></li>
+<li><a href="https://techidaily.com/easy-video-format-changing-mp2wmv-online-tools-from-movavi-download-now/"><u>Easy Video Format Changing: MP2/WMV Online Tools From Movavi, Download Now!</u></a></li>
+<li><a href="https://techidaily.com/efficient-movavi-video-editing-tutorials-schritt-fur-schritt-lektionen-fur-die-optimale-videobearbeitung/"><u>Efficiënt Movavi Video Editing Tutorials: Schritt Für Schritt Lektionen Für Die Optimale Videobearbeitung</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-convert-your-vob-videos-to-mkv-at-no-cost-using-movavis-web-service/"><u>Effortlessly Convert Your VOB Videos to MKV at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-media-content-via-youtube-studio-editing-skills-for-2024/"><u>Elevate Your Media Content via YouTube Studio Editing Skills for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-6-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 6?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-smart-8-hd-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Smart 8 HD to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/master-video-playback-speeds-in-minutes-not-hours-for-2024/"><u>Master Video Playback Speeds in Minutes, Not Hours for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-tips-for-effective-android-video-chatting/"><u>Quick Tips for Effective Android Video Chatting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-laptops-silent-speakers-comprehensive-fixes-for-malfunctioning-headphone-jaxports/"><u>Reviving Your Laptop's Silent Speakers: Comprehensive Fixes for Malfunctioning Headphone JAXPORTS</u></a></li>
 </ul></div>
 

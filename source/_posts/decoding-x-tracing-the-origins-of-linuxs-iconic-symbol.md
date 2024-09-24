@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-09-17T16:42:21.402Z
-updated: 2024-09-18T17:50:10.112Z
+date: 2024-09-18T06:25:53.941Z
+updated: 2024-09-23T16:52:44.451Z
 tags:
   - desktop
 categories:
@@ -54,10 +54,10 @@ Dave McKay/How-To Geek
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -79,13 +79,26 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -115,6 +128,13 @@ Dave McKay/How-To Geek
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What’s in a Name?
 
  If it wasn’t for Ari Lemmke we’d be living in a world of Freax, with Arch Freax, Debian Freax, and all the other Freax distributions. And we’d think nothing of it.
@@ -136,16 +156,18 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-effortless-multichannel-publishing-tweets-plus-tumbles/"><u>[Updated] Effortless Multichannel Publishing Tweets + Tumbles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-color-correctors-handbook/"><u>[Updated] In 2024, The Ultimate Color Corrector's Handbook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic-5-lite-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic 5 Lite Unlock Without Password</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x50-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X50 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/concealing-the-desktop-edge-a-guide-to-disabling-windows-11s-taskbar/"><u>Concealing the Desktop Edge: A Guide to Disabling Windows 11'S Taskbar</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crafting-compelling-podcast-cliffhangers/"><u>Crafting Compelling Podcast Cliffhangers</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-getting-started-with-your-new-windows-laptop-a-guide-for-novices/"><u>Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices</u></a></li>
-<li><a href="https://techidaily.com/efficiently-deleting-files-and-folders-using-powershell-commands/"><u>Efficiently Deleting Files & Folders Using PowerShell Commands</u></a></li>
-<li><a href="https://techidaily.com/enhanced-user-interface-the-revamped-windows-11-photos-application/"><u>Enhanced User Interface: The Revamped Windows 11 Photos Application</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Plus Properly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mirthful-mastery-no-monetary-boundaries/"><u>Mirthful Mastery, No Monetary Boundaries</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-10-companion-apps-for-seamless-video-to-mp3-conversions/"><u>[New] Top 10 Companion Apps for Seamless Video to Mp3 Conversions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-evaluating-screen-recording-vsdc-reviewed-plus-competitors-spotlight/"><u>[Updated] In 2024, Evaluating Screen Recording VSDC Reviewed + Competitors Spotlight</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-platforms-for-amplifying-youtube-content/"><u>[Updated] In 2024, Top Platforms for Amplifying YouTube Content</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-become-an-expert-at-youtube-live-streams-with-google-meet/"><u>2024 Approved Become an Expert at YouTube Live Streams with Google Meet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-composing-the-unseen-score-trailer-music-magic/"><u>2024 Approved Composing the Unseen Score Trailer Music Magic</u></a></li>
+<li><a href="https://techidaily.com/6k6k6lqr6auy5oml77yb5lul5lil5piv5ycl57ch5zau44cb5bplusr6ycf55qe5pa55rov77ym55so5l6g5pwz5l2g5aac5l2v6j6n5zci5lin5zcm55qe55u454mh5oiq5lia5by15a6m576o5l2c5zob428/"><u>變身高手！以下是個簡單、快速的方法，用來教你如何融合不同的相片成一張完美作品。</u></a></li>
+<li><a href="https://techidaily.com/1726233701649-rmvb-mp4-movavi/"><u>免費線上 RMVB 改成 MP4 - 優化過的 Movavi 影片換算器指南</u></a></li>
+<li><a href="https://techidaily.com/1726233765475-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://techidaily.com/best-universal-screenshot-applications-the-ultimate-list-of-13-options-from-movavi/"><u>Best Universal Screenshot Applications: The Ultimate List of 13 Options From Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-the-motorola-mg7700s-swift-and-trustworthy-experience/"><u>Comprehensive Review: The Motorola MG7700's Swift and Trustworthy Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/aiff-mpeg-movavi/"><u>오픈소스에서 무세금 AIFF MPEG 전환 - MOVAVI</u></a></li>
+<li><a href="https://techidaily.com/1726233800735-movavi/"><u>ご利用された商品について - Movaviによる返品規則紹介</u></a></li>
 </ul></div>
 
