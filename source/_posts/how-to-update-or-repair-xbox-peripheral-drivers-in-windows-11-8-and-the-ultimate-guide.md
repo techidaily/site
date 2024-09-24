@@ -1,7 +1,7 @@
 ---
 title: How to Update or Repair Xbox Peripheral Drivers in Windows 11, 8, & The Ultimate Guide
-date: 2024-08-09T01:49:08.627Z
-updated: 2024-08-10T01:49:08.627Z
+date: 2024-09-19T20:01:56.005Z
+updated: 2024-09-23T22:38:35.711Z
 tags:
   - win11
   - win10
@@ -22,9 +22,18 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Here are the two methods to try
 
  You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -32,9 +41,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. [**Manually update your Epson ET-3760 driver**](https://tools.techidaily.com/drivereasy/download/)
 2. **[Automaticallyupdate the driver with Driver Easy (recommended)](https://www.drivereasy.com/knowledge/epson-et-3760-driver-update-and-download/#method-2)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Method 1: Manually update your Epson ET-3760 driver
 
  You’ll need some computer skills and patience to update your driver this way because you need to head to the Epson official website first, download it and install it step by step.
@@ -43,16 +49,39 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. After confirming the**Operating System** detected by the website matches yours, click**Drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Automatically update the driver with Driver Easy
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -61,16 +90,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
 
@@ -88,8 +111,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,38 +120,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-media-the-finest-downloading-options/"><u>[Updated] 2024 Approved  Mastering Instagram Media  The Finest Downloading Options</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-20-mobiles-transforming-dji-aerial-video-art/"><u>[Updated] 2024 Approved  Top 20 Mobiles Transforming DJi Aerial Video Art</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channel-name-wizardry-brainstorm-and-create-for-2024/"><u>[Updated] Channel Name Wizardry  Brainstorm & Create for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-masterful-seo-approaches-for-soaring-in-youtube-video-popularity-for-2024/"><u>[Updated] Masterful SEO Approaches for Soaring in YouTube Video Popularity for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-holistic-motion-comprehensiveness-review/"><u>2024 Approved  Holistic Motion Comprehensiveness Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-humor-hacks-techniques-for-parody-filmmaking/"><u>2024 Approved  Humor Hacks  Techniques for Parody Filmmaking</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-200-series-how-to-download-and-install-the-best-graphics-card-drivers-on-windows/"><u>AMD Radeon R9 200 Series: How to Download and Install the Best Graphics Card Drivers on Windows</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-v-purse-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor V Purse Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-p40-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P40 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-huawei-p60-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xr-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XR System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to Android? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-sticker-free-video-creation-on-tiktok/"><u>In 2024, Expert Sticker-Free Video Creation on TikTok</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-s17-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S17 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-v30-lite-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo V30 Lite 5G on Mac</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-itel-a60-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Itel A60</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-v30-lite-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-14-plus-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 14 Plus Suddenly | Stellar</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-t2-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo T2 Pro 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unraveling-best-practices-for-effective-fb-healthcare-promos-for-2024/"><u>Unraveling Best Practices for Effective FB Healthcare Promos for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-reap-endless-visual-resources-via-four-prime-youtube-sites/"><u>[New] 2024 Approved Reap Endless Visual Resources via Four Prime YouTube Sites</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-s23-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy S23 Ultra Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-buys-for-extreme-weather-shooting-top-7-edition/"><u>Best Buys for Extreme Weather Shooting, Top 7 Edition</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-display-language-in-windows-7/"><u>How to Change Display Language in Windows 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-disable-pop-up-blocker-in-chrome-firefox-edge-and-ie/"><u>How to Disable Pop-Up Blocker in Chrome, Firefox, Edge and IE</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily!</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-11/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-unfreeze-a-computer-in-windows-10/"><u>How to Unfreeze a Computer in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-realtek-pcie-fe-family-controller-drivers-in-windows-7/"><u>How to Update Realtek PCIe FE Family Controller Drivers in Windows 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>In 2024, Crafting the Perfect Visual Identity Podcast Covers Unveiled</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oneplus-nord-3-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your OnePlus Nord 3 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-transforming-your-channel-url-step-by-step-instructions/"><u>In 2024, Transforming Your Channel URL Step-by-Step Instructions</u></a></li>
+<li><a href="https://techidaily.com/laptop-projector-connection-made-simple-expert-tips-and-techniques/"><u>Laptop-Projector Connection Made Simple: Expert Tips and Techniques</u></a></li>
+<li><a href="https://techidaily.com/lowering-processor-consumption-tips-for-smoother-performance-on-windows-systems/"><u>Lowering Processor Consumption: Tips for Smoother Performance on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/master-your-mouse-control-a-comprehensive-tutorial-for-tweaking-and-troubleshooting-sensitivity-problems/"><u>Master Your Mouse Control: A Comprehensive Tutorial for Tweaking and Troubleshooting Sensitivity Problems</u></a></li>
+<li><a href="https://techidaily.com/mastering-system-recovery-in-windows-11-accessing-boot-settings-explained/"><u>Mastering System Recovery in Windows 11: Accessing Boot Settings Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-effective-techniques-to-diagnose-and-repair-windows-code-19-error/"><u>Quick and Effective Techniques to Diagnose and Repair Windows -Code 19 Error</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-15-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 15 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-m2070-drivers-update-effortless-setup-in-minutes/"><u>Samsung M2070 Drivers Update: Effortless Setup in Minutes!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-the-apple-iphone-xs-max-unmatched-excellence-noteworthy-cost/"><u>Ultimate Guide to the Apple iPhone XS Max - Unmatched Excellence, Noteworthy Cost</u></a></li>
 </ul></div>
+

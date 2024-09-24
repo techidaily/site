@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2024-09-19T05:14:46.218Z
-updated: 2024-09-23T21:24:21.269Z
+date: 2024-09-18T01:54:04.115Z
+updated: 2024-09-23T19:37:11.717Z
 tags:
   - web
 categories:
@@ -19,15 +19,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Over the past few months I've noticed a worrying trend in my Facebook feed. People I know in real life are pushing a variety of very sketchy "investment" opportunities with "evidence" of the enormous payouts they've received. It shouldn't have to be said, but please don't fall for this!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Facebook Accounts Are Getting Hacked
 
 [Facebook account hacking](https://youtube-sure.techidaily.com/ed-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/) is a pernicious issue, and even tech-savvy users can get caught out since these attacks are so relentless. You need to be lucky all the time, but the hacker only has to be lucky once. If nothing else, this means you should always treat anything posted by your friends on Facebook as potentially suspicious. Most importantly, if you have another way of contacting someone besides Facebook, you should confirm any information they post on a separate channel. Give them a call, or call someone who lives with them, and confirm the information before acting on it.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Criminals Know You Trust Your Friends More Than Strangers
 
  Facebook accounts are valuable to hackers for a variety of reasons. First, if they manage to hack one account, it becomes easy to hack more accounts. Usually, a compromised account will send out a malware-infected link to other people in the network. Since the link is apparently coming from someone they know, people open it uncritically. Then _their_ networks get infected the same way, and so on.
 
 ![An example of a trading scam on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trading-scam.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 An example of a trading offer. Note how the text invites users to send direct messages.
 
@@ -41,13 +62,6 @@ An example of a trading offer. Note how the text invites users to send direct me
 
  Although I know people personally who have been victims of these scams, and I have plenty of people in my Facebook feed who have clearly compromised accounts, or in some cases seem to be complicit, I have opted not to post any screenshots that can potentially be traced back to specific people. However, my aim here is to warn you against this entire class of scam, not the specific approach scammers are taking at the moment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Those Banking Screenshots Are Easy to Fake
 
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
@@ -59,33 +73,19 @@ _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-us
  The most obvious question you should be asking yourself, is why this person is so desperate to share this "investment" opportunity in the first place? What do they stand to gain? Either the account is hacked, or the person is complicit and is taking money in exchange for roping more people into the scam,
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Technology Can Make It Worse
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
  At first, I was convinced that all of these accounts were simply hacked, but then some of them started posting testimonial videos. It occurred to me that these could be [AI deepfakes](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/), but looking closely at them for the telltale signs, it doesn't seem that way. Which suggests that some of these people may be complicit in the scams. However, deepfake technology has advanced to the point where this is also a totally plausible answer. Either way, you should find these videos equally unconvincing regardless of whether they are faked or not.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Never Invest Money Without Licensed Help
 
@@ -108,25 +108,25 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-effortless-tricks-for-capturing-instagram-stories/"><u>[New] 2024 Approved Effortless Tricks for Capturing Instagram Stories</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamers-dilemma-revisited-obs-vs-twitch-channel-space/"><u>[New] Streamers' Dilemma Revisited OBS vs Twitch Channel Space</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-idea-to-execution-making-memorable-fb-videos/"><u>[Updated] In 2024, From Idea to Execution Making Memorable FB Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unraveling-the-process-of-gaining-facebooks-blue-badge-for-2024/"><u>[Updated] Unraveling the Process of Gaining Facebook's Blue Badge for 2024</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-ts-to-webm-video-format-by-movavi/"><u>Free Online Converter: Ts to Webm Video Format by Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratis-conversione-mmf-in-formato-digitale-scelta-ottima-con-movavi/"><u>Gratis Conversione MMF in Formato Digitale - Scelta Ottima Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuita-conversor-de-memoria-ram-para-archivos-mpeg4-a-formato-mov-online-movavi/"><u>Gratuita Conversor De Memoria RAM Para Archivos MPEG4 a Formato MOV Online - Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuite-garantie-transformez-votre-fichier-gif-en-format-avi-sur-internet-moviwizard/"><u>Gratuité Garantie : Transformez Votre Fichier GIF en Format AVI Sur Internet - MoviWizard</u></a></li>
-<li><a href="https://techidaily.com/gratuito-conversione-online-di-file-nsv-a-mp3-con-movavi-libera-e-facile/"><u>Gratuito: Conversione Online Di File NSV a MP3 Con Movavi - Libera E Facile</u></a></li>
-<li><a href="https://techidaily.com/gratuito-websaida-para-conversao-do-audio-opus-para-mp4-video-pela-movavi-utilize-on-line-sem-custo-algum/"><u>Gratuito: Websaída Para Conversão Do Audio Opus Para MP4 Vídeo Pela Movavi – Utilize On-Line Sem Custo Algum!</u></a></li>
-<li><a href="https://techidaily.com/guide-facile-pour-prendre-des-captures-decran-accelerees-en-directavec-movavi-compatible-multiplateforme/"><u>Guide Facile Pour Prendre Des Captures D'écran Accélérées en Directavec Movavi - Compatible Multiplateforme</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-note-30-vip-racing-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Note 30 VIP Racing Edition to iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovating-podcast-branding-a-comprehensive-logo-guidebook/"><u>Innovating Podcast Branding A Comprehensive Logo Guidebook</u></a></li>
-<li><a href="https://techidaily.com/kostenloses-konvertieren-von-aiff-in-aac-mit-movavi-online-tool/"><u>Kostenloses Konvertieren Von AIFF in AAC Mit Movavi Online-Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1650-super-drivers-for-windows-10-and-11-free-update-now/"><u>Latest NVIDIA GeForce GTX 1650 Super Drivers for Windows 10 & 11 - Free Update Now!</u></a></li>
-<li><a href="https://techidaily.com/movavi-flac-dts-flac/"><u>Movavi의 강력하고 사용자 친화적 FLAC 형식으로 DTS FLAC 전환 기법 – 무료 인터넷 시작</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-game-lag-fixing-pc-errors-in-nba-2k21/"><u>Overcoming Game Lag: Fixing PC Errors in NBA 2K21</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/roccat-usb-wired-mouse-professional-download-guide/"><u>Roccat USB Wired Mouse: Professional Download Guide</u></a></li>
-<li><a href="https://techidaily.com/mova-vi-avi/"><u>オンラインでのストレートフォルダ MOVA VI AVIコンバーター - 無料版</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram/"><u>[New] [Desktop & Mobile Solutions] How to Rotate Videos for Instagram?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration-for-2024/"><u>[New] Achieve Peak Collaboration A Complete Guide to Slack & Filmora Integration for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-content-creation-conundrum-where-to-go-for-2024/"><u>[New] Content Creation Conundrum Where to Go for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-the-cord-with-youtube-mp3-conversion-tools-for-2024/"><u>[Updated] Cut the Cord with YouTube-MP3 Conversion Tools for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-text-design-in-10-minutes-or-less-ae-style/"><u>[Updated] Professional Text Design in 10 Minutes or Less (AE Style)</u></a></li>
+<li><a href="https://techidaily.com/1726233723807-avimp4-movavi/"><u>無料で簡単なAVIファイルのMP4へのオンライン変換 - Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acurite-pro-01036m-weather-station-unveiled-seamless-configuration-and-solid-design-features/"><u>AcuRite Pro 01036M Weather Station Unveiled - Seamless Configuration & Solid Design Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-in-formato-m4v-free-su-internet-con-movavi/"><u>Converti File MP4 in Formato M4V Free Su Internet Con Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-chuckle-campaign-7-ingenious-ideas-for-funny-youtube-videos/"><u>In 2024, Chuckle Campaign 7 Ingenious Ideas for Funny YouTube Videos</u></a></li>
+<li><a href="https://techidaily.com/1726233729382-m4amp3/"><u>M4A到MP3的直接關口：高效免費方法 | 電子音樂保存術</u></a></li>
+<li><a href="https://techidaily.com/1726233744921-movavi-wmv-m4v/"><u>Movavi 自由轉換 WMV到 M4V在線上 - 全額免費服務</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-honor-90-gt-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 90 GT Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-15-modi-piu-efficaci-per-scaricare-podcast-su-pc-o-mobile-con-movavi/"><u>Top 15 Modi Più Efficaci per Scaricare Podcast Su PC O Mobile Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/top-green-screen-apps-compatible-with-pc-android-and-ios-devices/"><u>Top Green Screen Apps Compatible with PC, Android & iOS Devices</u></a></li>
+<li><a href="https://techidaily.com/top-video-converters-for-ts-to-mp4-conversion-reviews-and-comparisons/"><u>Top Video Converters for TS to MP4 Conversion - Reviews and Comparisons</u></a></li>
+<li><a href="https://techidaily.com/transforma-tus-clips-wav-al-formato-avi-sin-costo-alguno-usando-el-convertidor-en-linea-de-movavi/"><u>Transforma Tus Clips WAV Al Formato AVI Sin Costo Alguno Usando El Convertidor en Línea De Movavi</u></a></li>
+<li><a href="https://techidaily.com/transformar-imagenes-de-rw2-a-jpg-sin-coste-adicional-con-la-herramienta-online-de-muoviavi/"><u>Transformar Imágenes De RW2 a JPG Sin Coste Adicional Con La Herramienta Online De MuoviAVI</u></a></li>
+<li><a href="https://techidaily.com/wmvswf-pdfepub/"><u>WMV/SWF 파일을 원거나 보다 강력한 구성으로 PDF/EPUB로 무료 바이트 단위로 온라인 전송</u></a></li>
+<li><a href="https://techidaily.com/webp-gifmovavi/"><u>オンライン無料WEBP画像直し - GIF形式にMovavi変換する方法</u></a></li>
 </ul></div>
 

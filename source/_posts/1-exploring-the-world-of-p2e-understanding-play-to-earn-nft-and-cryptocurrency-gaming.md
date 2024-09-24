@@ -1,7 +1,7 @@
 ---
 title: "1. Exploring the World of P2E: Understanding Play-to-Earn NFT and Cryptocurrency Gaming"
-date: 2024-09-17T05:33:42.912Z
-updated: 2024-09-23T23:16:04.889Z
+date: 2024-09-23T04:42:24.632Z
+updated: 2024-09-24T02:59:14.070Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
  Few sectors are escaping the crypto craze, but many game developers have really embraced it. Plenty of gaming-related collectibles can now be claimed as NFTs, but some so-called "play-to-earn" games have gone even further and have crypto and NFT as the stakes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  P2E Games Play For Keeps
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
  However, what sets play-to-earn apart from free-to-play is that you can trade and sell your assets to other players. This is because many of these assets are NFTs, or can be turned into them.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Axie Infinity
 
  To illustrate this, it's probably best to use the system used by [_Axie Infinity_](https://axieinfinity.com), one of the longest running P2E games out there (and also one that recently [lost over $600 million dollars](https://www.theverge.com/2022/3/29/23001620/sky-mavis-axie-infinity-ronin-blockchain-validation-defi-hack-nft).) The idea of the game is simple: players control "axies," small fantasy creatures, and battle them against other players' axies. It's reminiscent of Pokémon, but in a heavily monetized form.
@@ -50,13 +43,26 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 ![Axie Infinity Breeding Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/axie-infinity-breeding.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, what makes _Axie Infinity_ interesting is that you're not only spending money, you're also making it. If you breed a rare axie, you can put it up for sale on the marketplace, for example, and you can also sell your surplus resources. Where in F2P games the money all flows one way---to the developer---P2E games see some flow back, too. Some people even [make a living](https://www.coingecko.com/buzz/how-gamers-are-making-a-living-a-case-study-on-axie-infinity) off playing the game.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The P2E Business Model
 
@@ -78,18 +84,18 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
 _Illuvium_, which also is about letting fantasy beasts fight each other, tears the veil away completely and advertises that it will host betting on fights between players, as well as letting you trade fighters with other players.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Do You Really Own Your In-Game Assets?
 
  It's not just P2E games' structure that should raise eyebrows, it's also what it promises. The idea is that you play the game or pay into it and that you own your assets: axies, cards, or whatever it is that the game has on offer. They're NFTs after all, and you're the owner, not the game company. _Gods Unchained_ makes a big deal of this on its website.
 
 ![Gods Unchained Website Copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/gods-unchained-claims.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, reality proves it's not quite so simple. There's a [big problem with NFTs](https://extra-lessons.techidaily.com/techniques-for-writing-eye-catching-podcast-summaries/), namely that if the server that the records are on gives out, your NFTs disappear into thin air. This has happened, too, and recently.
 
@@ -116,16 +122,25 @@ _Illuvium_, which also is about letting fantasy beasts fight each other, tears t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-ice-dance-showcase-olympic-winter-2022-for-2024/"><u>[New] Ice Dance Showcase Olympic Winter 2022 for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings-for-2024/"><u>[New] Unveiling the Secrets of Excellent Interview and Journey Audio Recordings for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-guide-for-streamlining-iphone-video-content-for-2024/"><u>[Updated] The Ultimate Guide for Streamlining iPhone Video Content for 2024</u></a></li>
-<li><a href="https://techidaily.com/mp4-movavi-aac/"><u>在线无花言不语MP4转换：以 Movavi 为首选，AAC 格式自由免费</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bringing-facial-movement-to-life-with-picsarts-effects-for-2024/"><u>Bringing Facial Movement to Life with Picsart's Effects for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y17s-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y17s Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-step-by-step-guide-to-old-hollywood-filmmaking-styles/"><u>In 2024, Step-by-Step Guide to Old Hollywood Filmmaking Styles</u></a></li>
-<li><a href="https://techidaily.com/mp4-conversion-tool-seamless-mov-to-mp4-upgrade-for-free-with-movavis-online-service/"><u>MP4 Conversion Tool - Seamless MOV to MP4 Upgrade for Free with Movavi's Online Service</u></a></li>
-<li><a href="https://techidaily.com/online-free-rmvb-to-mp4-converter-fast-e-fai-da-te-with-videmovil/"><u>Online Free RMVB to MP4 Converter - Fast E Fai Da Te with VideMovil</u></a></li>
-<li><a href="https://techidaily.com/online-vidora-ljud-en-guid-till-att-extrahera-klarton-fran-videos-for-bra-seo/"><u>Online Vidöra Ljud: En Guid Till Att Extrahera Klarton Från Videos För Bra SEO</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-wired-connection-problems-in-windows-11-and-7-a-step-by-step-guide/"><u>Solving Wired Connection Problems in Windows 11 and 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-navigating-a-fresh-start-guide-to-altering-your-tiktok-username/"><u>[New] In 2024, Navigating a Fresh Start Guide to Altering Your TikTok Username</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-next-chapter-of-cinema-vr-revolution-for-2024/"><u>[New] The Next Chapter of Cinema VR Revolution for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-decoding-the-art-of-youtube-playlist-recalibration/"><u>[Updated] In 2024, Decoding the Art of YouTube Playlist Recalibration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-velocity-for-the-visionary-quick-frame-android-tools/"><u>[Updated] Velocity for the Visionary Quick-Frame Android Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-civi-3-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Civi 3 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/formato-de-archivo-libre-conversion-wav-a-ogg-sin-coste/"><u>Formato De Archivo Libre Conversión WAV a OGG Sin Coste</u></a></li>
+<li><a href="https://techidaily.com/free-and-online-conversion-how-to-transform-your-avi-files-into-quicktime-mov-format/"><u>Free and Online Conversion: How to Transform Your AVI Files Into QuickTime MOV Format</u></a></li>
+<li><a href="https://techidaily.com/free-mp3-conversion-mov-to-mp3-with-moveavis-reliable-online-tool/"><u>Free MP3 Conversion: MOV to MP3 with Moveavi's Reliable Online Tool</u></a></li>
+<li><a href="https://techidaily.com/free-mp4-wmv-file-transformation-service-available-on-movavi-platform/"><u>Free MP4-WMV File Transformation Service Available on Movavi Platform</u></a></li>
+<li><a href="https://techidaily.com/free-online-conversion-transform-wtv-files-into-mp4-format-with-just-a-click/"><u>Free Online Conversion: Transform WTV Files Into MP4 Format with Just a Click</u></a></li>
+<li><a href="https://techidaily.com/free-online-conversion-transforming-video-output-bundles-vob-into-mobile-compatible-mov-files-easily/"><u>Free Online Conversion: Transforming Video Output Bundles (VOB) Into Mobile-Compatible MOV Files Easily</u></a></li>
+<li><a href="https://techidaily.com/gratuit-wegomzetten-van-wav-naar-mkv-onlinemaker-movavi/"><u>Gratuit Wegomzetten Van WAV Naar MKV - Onlinemaker Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-uniform-visual-clarity-in-microsoft-teams-conferences/"><u>In 2024, Uniform Visual Clarity in Microsoft Teams Conferences</u></a></li>
+<li><a href="https://techidaily.com/innovative-audio-tricks-for-videos-adding-fun-voices-of-robots-radio-broadcasts-and-chipmunks/"><u>Innovative Audio Tricks for Videos: Adding Fun Voices of Robots, Radio Broadcasts, and Chipmunks</u></a></li>
+<li><a href="https://techidaily.com/kostenloze-omzettingen-van-ape-naar-aiff-formaat-gratuite-online-vervulling-door-movavi/"><u>Kostenloze Omzettingen Van APE Naar AIFF-Formaat - Gratuite Online Vervulling Door Movavi</u></a></li>
+<li><a href="https://techidaily.com/mac-recording-simplified-5-effective-methods-from-movavi/"><u>Mac Recording Simplified: 5 Effective Methods From Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-the-art-and-size-game-your-guide-to-top-tier-yt-banners/"><u>Mastering the Art & Size Game Your Guide to Top-Tier YT Banners</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-laptop-mousepad-on-windows-11-8-and-7/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Laptop Mousepad on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-gaming-perk-wins-xbox-vs-playstation-premium-plans/"><u>Which Gaming Perk Wins? Xbox Vs. PlayStation Premium Plans</u></a></li>
 </ul></div>
 

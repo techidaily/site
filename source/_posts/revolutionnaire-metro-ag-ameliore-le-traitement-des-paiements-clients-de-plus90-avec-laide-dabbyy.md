@@ -1,7 +1,7 @@
 ---
 title: Révolutionnaire, Metro AG Améliore Le Traitement Des Paiements Clients De +90 %% Avec L'aide D'ABBYY
-date: 2024-08-22T08:24:47.035Z
-updated: 2024-08-23T08:24:47.035Z
+date: 2024-09-17T10:03:13.479Z
+updated: 2024-09-24T03:32:30.758Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f9fb628a857687ce3978b94e.png
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![News Success](https://static1.abbyy.com/abbyycommedia/33677/news-success.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **L'automatisation du traitement des factures a permis à METRO AG de gagner en efficacité et d'offrir plus de services à ses clients.**
 
 En s’appuyant sur les solutions d’[ABBYY](https://tools.techidaily.com/abbyy/products/), multinationale spécialisée dans l’Intelligent Process Automation, METRO Digital a pu accélérer le temps de traitement de ses factures clients à hauteur de de 90%, passant de deux jours à une heure environ. Cette rationalisation effectuée à l’échelle mondiale permet à METRO Digital d’offrir à ses clients une meilleure expérience tout en accélérant ses revenus.
@@ -34,8 +41,18 @@ _Stefan Rödder, Product Owner chez METRO Digital._
 _Neil Murphy, SVP EMEA Sales chez ABBYY._
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 10 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
@@ -43,15 +60,23 @@ ABBYY est un acteur référent de l’Intelligent Process Automation. L’entrep
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 15 pays. Pour plus d’informations, veuillez consulter le site[https://www.abbyy.com/fr/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![Bianca 110X110](https://static2.abbyy.com/abbyycommedia/36222/bianca-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 _ABBYY_
@@ -66,8 +91,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,35 +100,19 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-shines-mastering-the-art-of-content-highlights/"><u>[New] 2024 Approved  Instagram Shines  Mastering the Art of Content Highlights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-visual-aesthetics-boost-integrating-black-bar-and-box-frame-for-social-media/"><u>[New] 2024 Approved  Visual Aesthetics Boost  Integrating Black Bar & Box Frame for Social Media</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-upload-without-rt-video-tweets-for-2024/"><u>[New] How to Upload Without RT  Video Tweets for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-procedural-guide-constructing-timer-circuits-for-broadcasts-for-2024/"><u>[New] Procedural Guide  Constructing Timer Circuits for Broadcasts for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-cyber-sovereigns-youtubes-number-one-tens/"><u>[Updated] Cyber Sovereigns  YouTube’s Number One Tens</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-marketers-methods-detecting-illusory-engagement-signals/"><u>2024 Approved  Marketers’ Methods  Detecting Illusory Engagement Signals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>2024 Approved  Unlocking Data Movement  Best Ways to Transition Files to PC</u></a></li>
-<li><a href="https://techidaily.com/beginning-online-easy-instructions-for-crafting-a-google-id/"><u>Beginning Online: Easy Instructions for Crafting a Google ID</u></a></li>
-<li><a href="https://techidaily.com/boost-your-productivity-with-enhanced-precision-upgrading-mouse-sensitivity-and-performance/"><u>Boost Your Productivity with Enhanced Precision: Upgrading Mouse Sensitivity & Performance</u></a></li>
-<li><a href="https://techidaily.com/1723808102827-cant-access-chatgpt-here-are-5-quick-solutions-to-get-it-running-again/"><u>Can't Access ChatGPT? Here Are 5 Quick Solutions To Get It Running Again</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-tutorial-how-to-disable-and-rollback-recent-windows-10-patches/"><u>Comprehensive Tutorial: How to Disable and Rollback Recent Windows 10 Patches</u></a></li>
-<li><a href="https://techidaily.com/disabling-the-auto-update-feature-for-drivers-in-windows-10-a-comprehensive-guide/"><u>Disabling the Auto-Update Feature for Drivers in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719380036891-dual-virus-defense-think-again-windows-users/"><u>Dual Virus Defense? Think Again, Windows Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/essence-extractor-capturing-and-saving-the-soul-of-twitter-gifs-for-2024/"><u>Essence Extractor  Capturing & Saving the Soul of Twitter GIFs for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploring-israels-preferred-mode-of-communication/"><u>Exploring Israel's Preferred Mode of Communication</u></a></li>
-<li><a href="https://techidaily.com/1723808105093-fixing-a-frozen-windows-update-easily-get-your-system-updating-again/"><u>Fixing a Frozen Windows Update Easily – Get Your System Updating Again</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-extracting-audio-from-vimeo-content-easily/"><u>In 2024, Extracting Audio From Vimeo Content Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funimate-pro-activation-guide-for-android-users/"><u>In 2024, Funimate Pro Activation Guide for Android Users</u></a></li>
-<li><a href="https://techidaily.com/1723808210693-maintenance-therapy-typically-involves-lower-doses-of-steroids-with-azathioprine-or-continued-use-of-mycophenolate-mofetil-to-prevent-relapses/"><u>Maintenance Therapy Typically Involves Lower Doses of Steroids with Azathioprine or Continued Use of Mycophenolate Mofetil to Prevent Relapses.</u></a></li>
-<li><a href="https://techidaily.com/revamp-your-streaming-experience-changing-netflix-regions-made-easy/"><u>Revamp Your Streaming Experience: Changing Netflix Regions Made Easy!</u></a></li>
-<li><a href="https://techidaily.com/seamless-setup-how-to-pair-a-ds4-wireless-controller-with-ps4/"><u>Seamless Setup: How to Pair a DS4 Wireless Controller with PS4</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-capturing-screen-images-effortlessly-on-your-asus-computer/"><u>Simple Guide: Capturing Screen Images Effortlessly on Your ASUS Computer</u></a></li>
-<li><a href="https://techidaily.com/simple-solution-resolving-lag-issues-with-your-logitech-keyboard/"><u>Simple Solution: Resolving Lag Issues with Your Logitech Keyboard</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-accessing-the-bios-menu-in-windows-107/"><u>Step-by-Step Guide: Accessing the BIOS Menu in Windows 10/7</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-guide-understanding-the-benefits-of-using-a-vpn/"><u>The Ultimate Guide: Understanding the Benefits of Using a VPN</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-like-a-pro-effective-hard-restart-techniques-for-windows-10-users/"><u>Troubleshooting Like a Pro: Effective Hard Restart Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-for-cddvd-device-malfunctions-and-overcoming-error-39/"><u>Troubleshooting Tips for CD/DVD Device Malfunctions and Overcoming Error 39</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-gaining-full-access-with-the-command-prompt-in-windows-through-admin-rights/"><u>Ultimate Tutorial: Gaining Full Access with the Command Prompt in Windows Through Admin Rights</u></a></li>
-<li><a href="https://techidaily.com/understanding-random-password-generators-a-comprehensive-guide-on-functionality-and-application/"><u>Understanding Random Password Generators: A Comprehensive Guide on Functionality & Application</u></a></li>
-<li><a href="https://techidaily.com/windows-10-tweaks-and-tips-for-a-superior-gaming-setup-enhance-your-play-today/"><u>Windows 10 Tweaks and Tips for a Superior Gaming Setup – Enhance Your Play Today!</u></a></li>
-<li><a href="https://techidaily.com/windows-users-unite-mastering-graphics-driver-resets-in-11-10-and-7/"><u>Windows Users Unite! Mastering Graphics Driver Resets in 11, 10 & 7</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-cinema-at-a-new-frontier-the-in-depth-look-at-the-lg-display-model-31mu97-b/"><u>[New] In 2024, Cinema at a New Frontier The In-Depth Look at the LG Display, Model 31MU97-B</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>2024 Approved The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://techidaily.com/comprehensive-guide-to-wondershare-filmora-features-and-pricing-compared/"><u>Comprehensive Guide to Wondershare Filmora: Features & Pricing Compared</u></a></li>
+<li><a href="https://techidaily.com/conversion-de-fichier-wavwma-a-mp3-gratuite-avec-guide-detaille/"><u>Conversion De Fichier WAV/WMA À MP3 Gratuite - Avec Guide Détaillé</u></a></li>
+<li><a href="https://techidaily.com/conversion-facile-dun-fichier-m4a-vers-un-format-wav-utilisation-de-movavi/"><u>Conversion Facile D'un Fichier M4A Vers Un Format WAV : Utilisation De Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-gratuite-de-videos-mp4-en-fichiers-audio-flac-en-ligne-video-et-audio/"><u>Conversion Gratuite De Vidéos MP4 en Fichiers Audio FLAC en Ligne - Vidéo Et Audio</u></a></li>
+<li><a href="https://techidaily.com/conversion-libre-al-rescate-de-ts-a-mpeg-sin-problemas-mediante-movavi-guia-paso-a-paso/"><u>Conversión Libre Al Rescate De TS a MPEG Sin Problemas Mediante Movavi - Guía Paso a Paso</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-brother-l2690dw-printer-software-latest-drivers-and-updates/"><u>Download Brother L2690dw Printer Software: Latest Drivers and Updates</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Find X6 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-exception-access-violation-issues-proactive-defense-strategies-for-it-professionals/"><u>Overcoming Exception Access Violation Issues : Proactive Defense Strategies for IT Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-lost-memories-find-and-restore-deleted-instagram-reels-with-ease/"><u>Revive Lost Memories: Find and Restore Deleted Instagram Reels with Ease</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-android-app-malfunctions-top-7-effective-strategies-to-prevent-crashes/"><u>Solving Android App Malfunctions: Top 7 Effective Strategies to Prevent Crashes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/solving-the-issue-of-your-ipads-inability-to-display-videos/"><u>Solving the Issue of Your iPad's Inability to Display Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-certain-pc-systems-experience-failures-with-windows/"><u>Why Certain PC Systems Experience Failures With Windows 지원 시스템 앱</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude"
-date: 2024-09-19T02:11:01.330Z
-updated: 2024-09-24T04:39:29.670Z
+date: 2024-09-18T11:17:02.843Z
+updated: 2024-09-24T04:08:49.008Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 * ChatGPT has a token limit of 4,096 (8,192 for GPT-4), Claude has an input limit of 200,000 tokens, and Perplexity's token limits are not published yet.
 
  Though ChatGPT is the world's most popular AI chatbot, there are plenty of great alternatives out there, including Perplexity and Claude. But what do each of these three AI chatbots offer, and which is best for you?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  ChatGPT vs. Claude vs. Perplexity: A Quick Comparison
 
@@ -36,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ##  1\. LLMs Used
 
 ![The ChatGPT Official App logo on the sign in page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/50aa3c08.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -91,10 +91,10 @@ Hannah Stryker / How-To Geek
  ChatGPT has shown that it can hallucinate in the past, as discussed in an [NCBI study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/). Anthropic has also stated [on its own website](https://docs.anthropic.com/claude/docs/claude-is-hallucinating) that Claude can hallucinate. Therefore, whether you're using Claude or one of the GPT versions on Perplexity, it's important to remember that hallucination is possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Conversational Abilities
@@ -109,6 +109,13 @@ Hannah Stryker / How-To Geek
 
 ![screenshot of chatgpt prompt response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-response-job.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT gave a longer response with more bullet points and information. The language was very conversational and natural.
 
  Here are the results from Claude:
@@ -120,6 +127,13 @@ Hannah Stryker / How-To Geek
  We also asked Perplexity the same question while using the GPT-3.5 LLM to see how close the answer would be to the ChatGPT response.
 
 ![Screenshot of perplexity's chatbot prompt response on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-job-response-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Perplexity's conversational abilities rely on the LLM being used, and GPT-3.5 is what you'll be dealing with if you're using the free version. Again, Perplexity responded with natural and conversational language, and also provided citations for its points, which can be very useful for fact-checking and further research.
 
@@ -134,10 +148,10 @@ Hannah Stryker / How-To Geek
 ![Screenshot of ChatGPT prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-calendar-code.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT provided a brief but effective code excerpt which worked successfully when tested, providing a simple text-based Python monthly calendar.
@@ -147,10 +161,10 @@ Hannah Stryker / How-To Geek
 ![Screenshot of Claude chabot response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-calendar-response.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Claude gave a slightly longer code excerpt that provided the same result when tested.
@@ -159,26 +173,13 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Perplexity.ai prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-calendar-response.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perplexity also provided a code excerpt that worked successfully when tested, again giving the same result.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Mathematics
@@ -194,13 +195,6 @@ Hannah Stryker / How-To Geek
  Here's Claude response:
 
 ![Screenshot of Claude's response to an algebraic problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-math-problem.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Claude also gave the correct answer, along with the solution process.
 
@@ -231,19 +225,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-inside-their-secrets-top-10-youtube-beauty-gurus-you-need-to-see/"><u>[New] 2024 Approved Inside Their Secrets Top 10 YouTube Beauty Gurus You Need to See</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-exploring-mukbang-culture-in-live-video-formats/"><u>[Updated] 2024 Approved Exploring Mukbang Culture in Live Video Formats</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transform-your-viewing-experience-activating-av1-on-youtube/"><u>[Updated] In 2024, Transform Your Viewing Experience Activating AV1 on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-video-length-and-content-strategy-in-youtube-shorts/"><u>[Updated] Understanding Video Length and Content Strategy in YouTube Shorts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-identity-american-and-british-english/"><u>Language Identity: American & British English</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/navigating-the-world-of-virtual-engagements-effects-filters-and-more/"><u>Navigating the World of Virtual Engagements Effects, Filters, & More</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-boosting-laptop-performance-with-an-easy-setup-of-a-dedicated-graphics-card/"><u>Step-by-Step Tutorial: Boosting Laptop Performance with an Easy Setup of a Dedicated Graphics Card</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategies-for-resolving-insecure-connection-alerts-in-web-browsing/"><u>Strategies for Resolving Insecure Connection Alerts in Web Browsing</u></a></li>
-<li><a href="https://techidaily.com/top-18-free-film-editing-software-options-for-windows-11-8-and-7-users/"><u>Top 18 Free Film Editing Software Options for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-webm-en-mp4-gratuitement-sur-internet-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier WebM en MP4 Gratuitement Sur Internet - Movavi</u></a></li>
-<li><a href="https://techidaily.com/transforma-tus-presentaciones-ppt-en-pdf-sin-coste-con-movavi-guia-de-convertir-archivos-en-linea-gratuita/"><u>Transforma Tus Presentaciones PPT en PDF Sin Coste Con Movavi: Guía De Convertir Archivos en Línea Gratuita</u></a></li>
-<li><a href="https://techidaily.com/transformacion-de-videos-a-formato-wmv-una-guia-sencilla-con-movavi/"><u>Transformación De Videos a Formato WMV: Una Guía Sencilla Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/transformation-sans-frais-de-fichiers-m1v-a-mp4-sur-le-web-via-movavi/"><u>Transformation Sans Frais De Fichiers M1V À MP4 Sur Le Web via Movavi</u></a></li>
-<li><a href="https://techidaily.com/wma-vers-m4a-telechargement-gratuit-du-service-de-conversion-en-ligne-de-movavi/"><u>WMA Vers M4A: Téléchargement Gratuit Du Service De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-the-art-of-crafting-compelling-video-testimonials/"><u>[New] Mastering the Art of Crafting Compelling Video Testimonials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-dialogue-and-direction-in-film-scripts/"><u>2024 Approved Crafting Dialogue and Direction in Film Scripts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-process-of-android-video-u-turns/"><u>2024 Approved The Process of Android Video U-Turns</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/90844989-elevate-your-marketing-game-free-50-youtube-adornments-here/"><u>Elevate Your Marketing Game - Free 50 YouTube Adornments Here</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/free-apps-via-tracking-facebook-instagram-notifications-explored/"><u>Free Apps via Tracking: Facebook, Instagram Notifications Explored</u></a></li>
+<li><a href="https://techidaily.com/guide-complet-pour-creer-des-videos-a-poster-sur-youtube-avec-lediteur-de-films-movavi/"><u>Guide Complet Pour Créer Des Vidéos À Poster Sur Youtube Avec L'Éditeur De Films Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-transform-your-flv-videos-into-high-quality-m4v-files-with-movavis-online-tools/"><u>How to Easily Transform Your FLV Videos Into High-Quality M4V Files with Movavi's Online Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-zte-axon-40-lite-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of ZTE Axon 40 Lite Phone</u></a></li>
+<li><a href="https://techidaily.com/iniciando-tu-viaje-como-representante-de-ventas-con-el-programa-de-afiliados-movavi-tecnicas-y-estrategias-para-ganar/"><u>Iniciando Tu Viaje Como Representante De Ventas Con El Programa De Afiliados Movavi: Técnicas Y Estrategias Para Ganar</u></a></li>
+<li><a href="https://techidaily.com/las-10-metodos-mas-efectivos-para-transformar-un-video-a-gif-con-movavi/"><u>Las 10 Métodos Más Efectivos Para Transformar Un Video a GIF Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/mastering-the-art-of-captivating-video-edits-a-guide-to-impressive-visual-flair/"><u>Mastering the Art of Captivating Video Edits: A Guide to Impressive Visual Flair</u></a></li>
+<li><a href="https://techidaily.com/migliori-programmi-con-ia-per-costruire-canzoni-digitalmente/"><u>Migliori Programmi Con IA Per Costruire Canzoni Digitalmente</u></a></li>
+<li><a href="https://techidaily.com/movavi-payment-methods-secure-and-flexible-online-transactions/"><u>Movavi Payment Methods - Secure & Flexible Online Transactions</u></a></li>
+<li><a href="https://techidaily.com/noiseless-video-record-of-your-screens-easy-fix-and-tutorial-by-movavi/"><u>Noiseless Video Record of Your Screens - Easy Fix & Tutorial by Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-microsoft-office-replacements-a-comprehensive-guide/"><u>Top 5 Microsoft Office Replacements : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-gpt-4all-a-closer-look-at-its-features-and-operational-processes/"><u>Unraveling the Mystery of GPT-4All - A Closer Look at Its Features & Operational Processes</u></a></li>
 </ul></div>
 

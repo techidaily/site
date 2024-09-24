@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to update your drivers in Windows 11/10
-date: 2024-08-01T18:47:52.567Z
+date: 2024-09-17T20:10:35.075Z
 tags: 
   - driver
   - device driver
@@ -18,9 +18,6 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -28,9 +25,6 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -52,15 +46,8 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -78,8 +65,12 @@ Here’s how Driver Easy works:
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -105,6 +96,13 @@ To automatically update to the correct version of all the drivers that are missi
 
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
@@ -120,12 +118,6 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 
 To understand why, you first have to understand what drivers actually are…
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -134,11 +126,21 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
@@ -162,47 +164,21 @@ There are two reasons why…
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-design-wizards-perfect-templates-for-gaming-channel-logos/"><u>[New] In 2024, Design Wizards  Perfect Templates for Gaming Channel Logos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-wander-in-wealthy-web-words-worlds/"><u>[New] In 2024, Wander in Wealthy Web Words Worlds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-affordable-online-education-hosting-on-youtube/"><u>[Updated] 2024 Approved  Affordable Online Education  Hosting on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-comprehensive-blueprint-to-youtube-banner-effectiveness/"><u>[Updated] The Comprehensive Blueprint to YouTube Banner Effectiveness</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-easy-effective-and-accurate-method-to-download-fb-gifs-anywhere/"><u>2024 Approved  Easy, Effective and Accurate Method to Download FB GIFs Anywhere</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>2024 Approved  Pinnacle Creations Summary  Studio 25 Detailed Assessment, 2023</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-solutions-to-fix-non-working-aol-email-applications-in-iphone-settings/"><u>6 Solutions to Fix Non-Working AOL Email Applications in iPhone Settings</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-defy-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Defy 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-6-plus-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 6 Plus Data Completely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-hot-40-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 40 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-infinix-hot-30i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Hot 30i Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-80-pro-straight-screen-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 80 Pro Straight Screen Edition Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-11-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 11 Pro Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a56s-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A56s 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-zte-blade-a73-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Blade A73 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 12 Pro Max Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-asus-rog-phone-8-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Asus ROG Phone 8 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-self-expression-through-instacraze-100-captivating-captions/"><u>In 2024, Self-Expression Through #InstaCraze  100 Captivating Captions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-guide-for-shooting-hdr-photos/"><u>In 2024, The Ultimate iPhone Guide for Shooting HDR Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-tiktok-videos-editing-hacks-revealed-for-2024/"><u>Mastering TikTok Videos  Editing Hacks Revealed for 2024</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Smart 7 HD</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-moto-g34-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Moto G34 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a78-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A78 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Asus ROG Phone 7</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c12-plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 10 & 7</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>Visual Delight  Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-14-pro-music-recovery-recover-deleted-music-from-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>Xiaomi 14 Pro Music Recovery - Recover Deleted Music from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unveil-the-power-of-vrecorder-installs-demystified-for-2024/"><u>[Updated] Unveil the Power of VRecorder Installs Demystified for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-zoom-transcription-software/"><u>2024 Approved Best Zoom Transcription Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ideal-choices-for-comprehensive-movement-recording/"><u>2024 Approved Ideal Choices for Comprehensive Movement Recording</u></a></li>
+<li><a href="https://os-tips.techidaily.com/anticipating-the-arrival-of-iphone-16-discover-the-most-recent-insights-and-predictions-available-now/"><u>Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-perks-and-pitfalls-of-chatgpt-pro/"><u>Decoding the Perks & Pitfalls of ChatGPT Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a14-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A14 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-rounded-overview-googles-podcast-application-demystified/"><u>In 2024, Rounded Overview Google's Podcast Application Demystified</u></a></li>
+<li><a href="https://video-capture.techidaily.com/obs-essentials-optimizing-your-skype-call-recording-quality-for-2024/"><u>OBS Essentials Optimizing Your Skype Call Recording Quality for 2024</u></a></li>
+<li><a href="https://techidaily.com/revamping-school-friendly-deals-the-changing-landscape-of-apple-product-offers-in-america/"><u>Revamping School-Friendly Deals: The Changing Landscape of Apple Product Offers in America</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-your-kitchen-habits-make-chatgpt-your-go-to-source-for-delicious-recipes/"><u>Revolutionize Your Kitchen Habits: Make ChatGPT Your Go-To Source for Delicious Recipes</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-activating-and-running-chatgpt-with-shellgpt-in-ubuntus-terminal-environment/"><u>Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-blocking-crypto-sites-in-your-brave-browser-experience/"><u>Step-by-Step Guide: Blocking Crypto Sites in Your Brave Browser Experience</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-interacting-with-uniswap-via-metamask-on-ios-and-android-devices/"><u>Step-by-Step Guide: Interacting with Uniswap via MetaMask on iOS and Android Devices</u></a></li>
+<li><a href="https://techidaily.com/tcl-enters-the-augmented-reality-market-with-innovative-smart-eyewear/"><u>TCL Enters the Augmented Reality Market with Innovative Smart Eyewear</u></a></li>
 </ul></div>
+

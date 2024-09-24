@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2024-09-11T16:07:24.038Z
-updated: 2024-09-18T16:45:42.951Z
+date: 2024-09-21T00:09:57.131Z
+updated: 2024-09-24T07:00:31.909Z
 tags:
   - cutting-edge
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  The government created a $30 incentive available to anyone who downloads the app and enrolls. Keep in mind that $30 is a decent amount of money for many citizens, and is equal to approximately [0.7% of per capita annual income in El Salvador](https://www.statista.com/statistics/1070121/gross-national-income-per-capita-el-salvador/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Data Shows Adoption Is Low and Stalled** 
 
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
@@ -49,6 +56,13 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![What Share of businesses accept bitcoin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/What-Share-of-businesses-accept-bitcoin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  All businesses were required to begin accepting payments in Bitcoin but that has not happened. Only 20% of companies reported accepting Bitcoin as a form of payment and most of them were large organizations. Out of all sales, only 5% were conducted in Bitcoin and most transactions were converted to dollars within the Chivo Wallet upon receipt of payment.
@@ -56,13 +70,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ## **Chivo App** 
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -79,10 +86,16 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  Anecdotal evidence suggests that the app is used by a subset of the population like street vendors as a cash replacement because it's convenient for small peer-to-peer payments. This functionality is actually what is most used within the Chivo Wallet because you can use the app like Venmo and quickly send US dollars from person to person without any exposure to Bitcoin.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Lack of Trust & Privacy Are Deterrents** 
@@ -114,15 +127,22 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  For many El Salvadorans, this is the first time they have encountered the ability to have banking services like a savings account. Many report using the Bitcoin account as their savings account and their US dollar account as their checking account. Increasing access to banking services and financial inclusion is one major positive outcome of this policy shift.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Lessons Learned** 
 
 ![Changes in Use of Cash and Cards Charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Changes-in-Use-of-Cash-and-Cards.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -147,18 +167,17 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/zombie-army-4-dead-war-freezing-issues-resolved-on-your-computer/"><u>'Zombie Army 4: Dead War' Freezing Issues Resolved on Your Computer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-guide-exploring-master-recorders-features/"><u>[New] 2024 Approved Ultimate Guide Exploring Master Recorder's Features</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-screen-capture-high-quality-snaps-with-ease/"><u>[New] How to Screen-Capture High-Quality Snaps with Ease</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-devices-for-jiggle-free-filming-experience/"><u>2024 Approved Optimal Devices for Jiggle-Free Filming Experience</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-studyhistory-10-essential-youtube-historical-channels/"><u>In 2024, StudyHistory 10 Essential YouTube Historical Channels</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-additional-visuals-connecting-peripheral-monitors-to-laptops/"><u>Integrating Additional Visuals: Connecting Peripheral Monitors to Laptops</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pros-of-popular-video-segments-in-films/"><u>Pro's of Popular Video Segments in Films</u></a></li>
-<li><a href="https://techidaily.com/solving-the-no-internet-secured-problem-in-windows-a-step-by-step-guide/"><u>Solving the 'No Internet, Secured' Problem in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/solving-the-dark-display-issue-repairing-a-black-screen-problem-in-windows-11-pre-and-post-login/"><u>Solving the Dark Display Issue: Repairing a Black Screen Problem in Windows 11 Pre and Post Login</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-flushing-the-system-update-cache-in-windows-11-and-10/"><u>Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-integrating-full-system-colour-selection-on-windows-10-pcs/"><u>Step-by-Step Guide: Integrating Full-System Colour Selection on Windows 10 PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-soloists-guide-to-captivating-audiences-for-2024/"><u>The Soloist's Guide to Captivating Audiences for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>[New] In 2024, The Ultimate Guide to Watching FB Live on Roku</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-multiversus-glitching-a-comprehensive-guide-to-the-best-8-remedies/"><u>Beat MultiVersus Glitching: A Comprehensive Guide to the Best 8 Remedies</u></a></li>
+<li><a href="https://techidaily.com/cambio-gratuito-nef-a-formato-bmp-online-por-expertos-en-conversion-soluciones-de-movavi/"><u>Cambio Gratuito NEF a Formato BMP Online Por Expertos en Conversión - Soluciones De Movavi</u></a></li>
+<li><a href="https://techidaily.com/capturing-your-moments-with-movavis-premium-webcam-encoding-tools/"><u>Capturing Your Moments with Movavi's Premium Webcam Encoding Tools</u></a></li>
+<li><a href="https://techidaily.com/come-integrare-le-fotografie-nei-tuoi-filmati-tre-strategie-valide-per-i-webmaster-italiani/"><u>Come Integrare Le Fotografie Nei Tuoi Filmati: Tre Strategie Valide per I Webmaster Italiani</u></a></li>
+<li><a href="https://techidaily.com/come-ridurre-le-dimensioni-di-un-file-mp3-il-progetto-di-ridimensionamento-mp3-di-movavi/"><u>Come Ridurre Le Dimensioni Di Un File MP3: Il Progetto Di Ridimensionamento MP3 Di Movavi</u></a></li>
+<li><a href="https://techidaily.com/comparando-png-x-jpg-determinando-qual-oferece-maior-qualidade-png-ou-jpg/"><u>Comparando PNG X JPG: Determinando Qual Oferece Maior Qualidade - PNG Ou JPG?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-insiders-move-how-to-transition-from-windows-10-to-11/"><u>The Insider's Move: How to Transition From Windows 10 to 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-showdown-begins-is-llama-or-gpt-4-the-apex-of-artificial-intelligence/"><u>The Showdown Begins: Is Llama or GPT-4 the Apex of Artificial Intelligence?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-game-recorder-software-list-for-2024/"><u>Top 10 Game Recorder Software List for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/total-clarification-googles-podcast-application-simplified/"><u>Total Clarification Google's Podcast Application Simplified</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-smart-capabilities-of-the-android-operating-system/"><u>Understanding the Smart Capabilities of the Android Operating System</u></a></li>
 </ul></div>
 

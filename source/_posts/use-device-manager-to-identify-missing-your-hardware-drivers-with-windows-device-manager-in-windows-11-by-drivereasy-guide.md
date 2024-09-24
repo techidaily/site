@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11
-date: 2024-08-01T18:44:22.495Z
+date: 2024-09-21T08:03:03.603Z
 tags: 
   - driver
   - device driver
@@ -19,18 +19,12 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -38,9 +32,6 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -49,6 +40,12 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 
 To understand why, you first have to understand what drivers actually are…
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All our drivers are certified
 
@@ -62,14 +59,24 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We test on all the most popular combinations of hardware & software
 
@@ -80,9 +87,6 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -119,6 +123,13 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -149,8 +160,12 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -173,12 +188,6 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -201,49 +210,22 @@ There are two reasons why…
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[New] 2024 Approved  Frame by Frame  The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-budget-blueprint-for-creating-musical-cinematic-pieces/"><u>[New] Budget Blueprint for Creating Musical Cinematic Pieces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-creative-commons-copyright-licenses-in-2024/"><u>[New] How to Use Creative Commons Copyright Licenses, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-download-instagram-reels-effortlessly-anytime/"><u>[New] In 2024, Download Instagram Reels Effortlessly, Anytime</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-iphone-editing-supremacy-cameo-vs-filmorago-face-off-for-2024/"><u>[New] IPhone Editing Supremacy  Cameo Vs. FilmoraGo Face-Off for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-selection-the-greatest-free-editing-software/"><u>[Updated] 2024 Approved  Essential Selection  The Greatest Free Editing Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zdsoft-capture-master-overview-and-evaluation/"><u>[Updated] 2024 Approved  ZDSoft Capture Master  Overview & Evaluation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-tips-for-effective-game-playback-on-microsoft-os/"><u>[Updated] Tips for Effective Game Playback on Microsoft OS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transform-your-youtube-views-with-smart-zoom-practices/"><u>[Updated] Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-video-showdown-determining-the-best-among-obs-and-twitch-hubs-for-2024/"><u>[Updated] Video Showdown  Determining the Best Among OBS and Twitch Hubs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-curated-selection-of-top-6-nft-maker-applications/"><u>2024 Approved  A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-choosing-from-manycams-finding-optimal-options/"><u>2024 Approved  Choosing From ManyCams  Finding Optimal Options</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-expert-pick-websites-showcasing-hd-sky-shots/"><u>2024 Approved  Expert Pick  Websites Showcasing HD Sky Shots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-novel-set-of-pertinent-probing-for-podcast-participants/"><u>2024 Approved  Novel Set of Pertinent Probing for Podcast Participants</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>2024 Approved  Uniting Sight & Sound  Perfecting Videography Voiceovers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-xs-max-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone XS Max?</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-v30-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme V30 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s23-tactical-edition-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S23 Tactical Edition Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-sony-xperia-5-v-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Sony Xperia 5 V Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g23-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G23 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-free-music-for-mindfulness-and-serenity/"><u>In 2024, Guide to Free Music for Mindfulness & Serenity</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nokia C12 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-hot-40-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Hot 40</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-a79-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo A79 5G</u></a></li>
-<li><a href="https://techidaily.com/solved-format-error-not-a-pdf-or-corrupted-stellar-by-stellar-guide/"><u>Solved Format error not a PDF or corrupted | Stellar</u></a></li>
-<li><a href="https://techidaily.com/solved-microsoft-excel-2019-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2019 File Error The document cannot be saved</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlining-the-photo-date-addition-process/"><u>Streamlining the Photo Date-Addition Process</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-oneplus-open-by-fonelab-android-recover-data/"><u>The way to get back lost data from OnePlus Open</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-x50i-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor X50i</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-smart-7-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Smart 7.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nubia Red Magic 8S Pro.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-vivo-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo fingerprint</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-se-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone SE screen lock without password</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-9-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 9 Pro+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-enhancing-control-over-snapchat-video-speed/"><u>[Updated] Expert Advice Enhancing Control Over Snapchat Video Speed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-tips-for-steam-gamers-recordings/"><u>[Updated] In 2024, Essential Tips for Steam Gamers' Recordings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tape-looper-mastery-app/"><u>2024 Approved Tape Looper Mastery App</u></a></li>
+<li><a href="https://techidaily.com/conversion-de-fichier-wavwma-a-mp3-gratuite-avec-guide-detaille/"><u>Conversion De Fichier WAV/WMA À MP3 Gratuite - Avec Guide Détaillé</u></a></li>
+<li><a href="https://techidaily.com/conversion-facile-dun-fichier-m4a-vers-un-format-wav-utilisation-de-movavi/"><u>Conversion Facile D'un Fichier M4A Vers Un Format WAV : Utilisation De Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-gratuite-de-videos-mp4-en-fichiers-audio-flac-en-ligne-video-et-audio/"><u>Conversion Gratuite De Vidéos MP4 en Fichiers Audio FLAC en Ligne - Vidéo Et Audio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-des-fichiers-avi-avec-la-meilleure-solution-de-conversion-video-movavi/"><u>Conversion Gratuite Des Fichiers AVI Avec La Meilleure Solution De Conversion Vidéo: Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-libre-al-rescate-de-ts-a-mpeg-sin-problemas-mediante-movavi-guia-paso-a-paso/"><u>Conversión Libre Al Rescate De TS a MPEG Sin Problemas Mediante Movavi - Guía Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/conversion-rapida-de-videos-transforma-tus-archivos-flv-en-formato-avi-con-el-convertidor-de-movavi/"><u>Conversión Rápida De Vídeos: Transforma Tus Archivos FLV en Formato AVI Con El Convertidor De Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-sin-costo-de-wmv-a-mp3-usando-el-servicio-en-linea-de-movavi/"><u>Conversión Sin Costo De WMV a MP3 Usando El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/eliminate-discomfort-quick-tips-to-beat-vr-sickness/"><u>Eliminate Discomfort Quick Tips to Beat VR Sickness</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nubia-red-magic-8s-proplus-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nubia Red Magic 8S Pro+? Try These Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quick-fixes-to-repair-microsoft-excel-2023-content-related-error-by-stellar-guide/"><u>Quick Fixes to Repair Microsoft Excel 2023 Content related error</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-5-player-audio-mp3-and-aac-di-musica-migliori-del-2020-windows-e-mac-os-compatibili/"><u>Top 5 Player Audio MP3 & AAC Di Musica Migliori Del 2020: Windows E Mac OS Compatibili</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-obs-not-screen-record-problems/"><u>Troubleshooting Tips for 'OBS Not Screen Record' Problems</u></a></li>
 </ul></div>
+

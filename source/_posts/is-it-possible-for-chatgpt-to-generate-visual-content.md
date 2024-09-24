@@ -1,7 +1,7 @@
 ---
 title: Is It Possible for ChatGPT to Generate Visual Content?
-date: 2024-09-11T16:11:22.296Z
-updated: 2024-09-18T17:53:39.405Z
+date: 2024-09-18T03:44:56.637Z
+updated: 2024-09-23T21:42:06.242Z
 tags:
   - cutting-edge
 categories:
@@ -16,6 +16,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Can You Use ChatGPT as a Picture Generator?](https://win-dash.techidaily.com/how-to-find-and-install-updated-epson-wf-3520-drivers-for-windows-computers-step-by-step-instructions/)
 * [Can You Use Images for ChatGPT Prompts?](https://extra-information.techidaily.com/peek-through-the-curtain-viewers-disguised-commentaries/)
 * [How to Get AI-Generated Images](https://location-social.techidaily.com/how-to-change-honor-100-location-on-skout-drfone-by-drfone-virtual-android/)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -69,10 +82,10 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 ![The Dream by WOMBO AI image generator creating an image of a 4-dimensional whale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/dream-ia-generator-making-an-image-of-a-4-dimensional-whale.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Reyadh Rahaman / Dream
@@ -80,16 +93,10 @@ Reyadh Rahaman / Dream
  In addition to playing around with keywords and phrasing for your prompts, you can use AI models to help you come up with better prompts.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Use ChatGPT To Create AI Art Prompts
@@ -105,22 +112,16 @@ Reyadh Rahaman / Dream
 
 ![Someone asking ChatGPT to come up with a Stable Diffusion image generation prompt about a dragon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-ai-art-prompt.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We then put our ChatGPT-created prompt into Stable Diffusion, and this is what we got:
 
 ![A surrealistic red dragon image created by Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/ai-dragon.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Reyadh Rahaman / Stable Diffusion
 
@@ -143,21 +144,19 @@ Related: [Stable Diffusion Brings Local AI Art Generation to Your PC](https://ex
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-rated-webcam-recorder-applications-demystified/"><u>[Updated] 2024 Approved Top-Rated WebCam Recorder Applications Demystified</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-both-webcam-and-monitor-live-feed/"><u>[Updated] Capturing Both Webcam & Monitor Live Feed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-record-and-save-screens-like-a-pro-with-your-dell/"><u>2024 Approved How to Record and Save Screens Like a Pro with Your Dell</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://techidaily.com/asus-expertbook-p5-advanced-energy-saving-performance-with-up-to/"><u>ASUS ExpertBook P5: Advanced Energy-Saving Performance with Up To</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-free-video-cutting-apps-your-go-to-list/"><u>Best Free Video Cutting Apps Your Go-To List</u></a></li>
-<li><a href="https://techidaily.com/download-arc-browser-the-newest-web-browsing-option-compatible-with-windows-10/"><u>Download Arc Browser: The Newest Web Browsing Option Compatible with Windows 10</u></a></li>
-<li><a href="https://techidaily.com/efficient-file-management-utilizing-command-prompt-tips-for-finding-and-opening-documents/"><u>Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents</u></a></li>
-<li><a href="https://techidaily.com/enhance-appearance-in-video-chats-the-reason-behind-choosing-an-android-phone-camera-over-traditional-webcams/"><u>Enhance Appearance in Video Chats: The Reason Behind Choosing an Android Phone Camera Over Traditional Webcams</u></a></li>
-<li><a href="https://techidaily.com/enhanced-audio-editing-features-unveiled-in-the-latest-microsoft-clipchamp-update/"><u>Enhanced Audio Editing Features Unveiled in the Latest Microsoft Clipchamp Update</u></a></li>
-<li><a href="https://techidaily.com/experience-enhanced-windows-11-upgraded-copilot-photos-widgets-and-additional-features/"><u>Experience Enhanced Windows 11: Upgraded Copilot, Photos, Widgets, and Additional Features</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capturing-joy-in-switchs-best-card-choices/"><u>In 2024, Capturing Joy in Switch's Best Card Choices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-strategies-for-windows-media-players-audio-operations/"><u>In 2024, Comprehensive Strategies for Windows Media Player's Audio Operations</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f14-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F14 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-zoom-interface-a-focus-on-windows-10/"><u>Navigating the Zoom Interface A Focus on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/unlocking-text-insights-best-free-ai-applications-for-pdf-examination/"><u>Unlocking Text Insights: Best FREE AI Applications for PDF Examination</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/"><u>[New] 2024 Approved From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secrets-of-recording-video-without-distracting-noise/"><u>[New] Secrets of Recording Video without Distracting Noise</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-your-ultimate-guide-to-top-streamers-platforms-for-2024/"><u>[New] Your Ultimate Guide to Top Streamers Platforms for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-superior-tools-for-group-online-calls/"><u>[Updated] Superior Tools for Group Online Calls</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/co-production-strategies-for-online-content-proliferation-for-2024/"><u>Co-Production Strategies for Online Content Proliferation for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2007-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2007 File</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-redmi-note-12-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi Redmi Note 12 Pro 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/las-10-metodos-mas-efectivos-para-transformar-un-video-a-gif-con-movavi/"><u>Las 10 Métodos Más Efectivos Para Transformar Un Video a GIF Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/mastering-the-art-of-captivating-video-edits-a-guide-to-impressive-visual-flair/"><u>Mastering the Art of Captivating Video Edits: A Guide to Impressive Visual Flair</u></a></li>
+<li><a href="https://techidaily.com/migliori-programmi-con-ia-per-costruire-canzoni-digitalmente/"><u>Migliori Programmi Con IA Per Costruire Canzoni Digitalmente</u></a></li>
+<li><a href="https://techidaily.com/movavi-payment-methods-secure-and-flexible-online-transactions/"><u>Movavi Payment Methods - Secure & Flexible Online Transactions</u></a></li>
+<li><a href="https://techidaily.com/noiseless-video-record-of-your-screens-easy-fix-and-tutorial-by-movavi/"><u>Noiseless Video Record of Your Screens - Easy Fix & Tutorial by Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
 

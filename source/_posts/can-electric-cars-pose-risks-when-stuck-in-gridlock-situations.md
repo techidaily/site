@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
-date: 2024-09-21T07:07:18.713Z
-updated: 2024-09-24T07:06:23.833Z
+date: 2024-09-21T20:25:23.854Z
+updated: 2024-09-23T19:32:49.381Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  In 2022, a huge 48-mile traffic jam happened on the I-95 in Virginia on a cold, snowy day, and we instantly saw the [EV fearmongering](https://www.washingtonpost.com/opinions/2022/01/04/imagine-virginias-icy-traffic-catastrophe-with-only-electric-vehicles/) reach an all-time high. Claiming if those were all EVs, the situation would have been a "catastrophe." A reader actually sent us these graphics circulating on Facebook in response to one of our [recent EV articles](https://www.reviewgeek.com/118218/do-evs-need-special-tires/). In reality, when electric cars aren't moving, they use very little power, will last for days, and can easily keep you safe and warm (or cool) during a long traffic jam.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Rumors
 
 > "If all cars were electric ... and were caught up in a three hour traffic jam... dead batteries! Then what?"
@@ -35,22 +42,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Wrong!
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Electric Vehicle Facts
 
 ![All current Tesla models lined up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/29bb7ac0.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Tesla_
@@ -70,10 +76,10 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
  Your typical Tesla heated seat uses around 60 watts per seat and gets controlled by the onboard computer drawing around 250 watts. As long as you don't use extra systems like Wi-Fi to watch Netflix on the infotainment display, the car could easily keep your seats warm for nearly a week.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Do EVs Stuck In Traffic Fare?
@@ -81,10 +87,10 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
 ![Tesla Model 3 stuck in traffic jam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/c00c6807.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Dan Kanninen_
@@ -120,25 +126,24 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-ultimate-gecata-analyzer-report-for-2024/"><u>[New] Ultimate GECATA Analyzer Report for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-of-the-best-a-ranked-list-of-top-10-video-call-apps-for-2024/"><u>[Updated] Best of the Best A Ranked List of Top 10 Video Call Apps for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-steps-for-capturing-online-conversations-for-2024/"><u>[Updated] Steps for Capturing Online Conversations for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/10plus-iconic-ae-text-techniques-for-professionals/"><u>10+ Iconic AE Text Techniques for Professionals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/engaging-audiences-the-impact-of-adding-youtube-music-to-videos/"><u>Engaging Audiences The Impact of Adding YouTube Music to Videos</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-mp4-to-m4v-by-movavi-get-your-videos-transformed/"><u>Free Online Converter MP4 to M4V by Movavi - Get Your Videos Transformed!</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-swf-to-webm-moveave/"><u>Free Online Converter SWF to WEBM - Moveave</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-change-ogg-audiovideo-to-mov-format-with-ease/"><u>Free Online Converter: Change .ogg Audio/Video to .mov Format with Ease</u></a></li>
-<li><a href="https://techidaily.com/gratis-converter-geen-inkomsten-m4v-naar-mp4-online-de-beste-oplossing-van-movavi/"><u>Gratis Converter: Geen Inkomsten-M4V Naar MP4 Online - De Beste Oplossing Van Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratis-omzetten-en-herstellen-van-online-bestandsen-met-movavi-zonder-inzichten/"><u>Gratis Omzetten En Herstellen Van Online Bestandsen Met Movavi - Zonder Inzichten</u></a></li>
-<li><a href="https://techidaily.com/gratuit-verbetering-en-conversie-van-flac-inhoud-naar-wmv-expertise-van-movavi/"><u>Gratuit Verbetering en Conversie Van Flac-Inhoud Naar WMV: Expertise Van Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuito-converter-videos-amv-para-formato-mpg-com-movavi-o-site-de-conversao-online-facil/"><u>Gratuito: Converter Vídeos AMV Para Formato MPG Com Movavi, O Site De Conversão Online Fácil!</u></a></li>
-<li><a href="https://techidaily.com/guide-ultime-comment-ameliorer-la-performance-de-votre-pc-pour-les-jeu-videos-sous-windows-11/"><u>Guide Ultime : Comment Améliorer La Performance De Votre PC Pour Les Jeu Vidéos Sous Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-105-classic-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Nokia 105 Classic Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s24-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy S24 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-mac-programming-solutions-excluded-from-bandicam/"><u>In 2024, Premium Mac Programming Solutions Excluded From Bandicam</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/navigating-the-rules-a-detailed-look-at-mirillis-legal-framework-for-user-engagement/"><u>Navigating the Rules: A Detailed Look at Mirillis' Legal Framework for User Engagement</u></a></li>
-<li><a href="https://techidaily.com/flv-to-mov-online-movavi/"><u>무료 FLV to MOV 변환 - Online 콘텐츠를 유지하면서 Movavi로 제공</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-connoisseurs-melding-visionary-sounds-and-frames/"><u>[New] In 2024, Connoisseurs Melding Visionary Sounds & Frames</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fiscal-horizons-exploring-mr-beasts-income/"><u>[New] In 2024, Fiscal Horizons Exploring Mr. Beast's Income</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-guide-to-overcoming-instagram-video-hiccups/"><u>[New] In 2024, Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-leverage-longer-vids-on-instagram-effectively/"><u>[Updated] How to Leverage Longer Vids on Instagram Effectively</u></a></li>
+<li><a href="https://techidaily.com/6zu75b2x5ymq5o6l5oqa5ben6iih5pon5l2c5oyh5y2x77ya5zyo57ea5lik5a6m5oiq55qe6auy57sa5pwz6iky6kqy56il/"><u>電影剪接技巧與操作指南：在線上完成的高級教育課程</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/affordable-tactics-for-combining-media-with-literature-for-2024/"><u>Affordable Tactics for Combining Media with Literature for 2024</u></a></li>
+<li><a href="https://techidaily.com/conversao-de-video-wmv-para-formato-3g2-online-e-gratuito-pelo-movavi/"><u>Conversão De Vídeo WMV Para Formato 3G2 Online E Gratuito Pelo Movavi</u></a></li>
+<li><a href="https://techidaily.com/convert-and-edit-videos-with-movavi-on-your-mac-ideal-for-various-codecs-and-formats/"><u>Convert and Edit Videos with Movavi on Your Mac: Ideal for Various Codecs and Formats</u></a></li>
+<li><a href="https://techidaily.com/convertidor-m4a-en-webm-gratuito-y-facil-de-usar-para-obtener-mejores-calidad-de-video-online/"><u>Convertidor M4A en WebM Gratuito Y Fácil De Usar Para Obtener Mejores Calidad De Video Online.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-why-microsoft-flight-simulator-x-gold-edition-remains-a-premier-selection-amongst-flight-enthusiasts-worldwide/"><u>Discover Why Microsoft Flight Simulator X: Gold Edition Remains a Premier Selection Amongst Flight Enthusiasts Worldwide</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resetting-ps5-gamepad/"><u>Essential Tips for Resetting PS5 Gamepad</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-audio-files-to-webm-format-using-movavi-tools/"><u>Free Online Converter: Change MP4 Audio Files to WebM Format Using Movavi Tools</u></a></li>
+<li><a href="https://techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-the-latest-canon-mp280-drivers-for-your-windows-operating-system-1187/"><u>How to Obtain the Latest Canon MP280 Drivers for Your Windows Operating System (11/8/7)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/ntsc-versus-pal-analise-abrangente-dos-diferentes-formatos-de-video-e-seu-desempenho/"><u>NTSC versus PAL: Análise Abrangente Dos Diferentes Formatos De Vídeo E Seu Desempenho</u></a></li>
+<li><a href="https://techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
+<li><a href="https://techidaily.com/wmaaiff-movavi/"><u>コストなしでWMAとAIFFを変換する – オンラインツール集（Movavi）</u></a></li>
 </ul></div>
 

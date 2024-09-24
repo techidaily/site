@@ -1,7 +1,7 @@
 ---
 title: "Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems"
-date: 2024-09-21T08:01:38.812Z
-updated: 2024-09-24T02:35:21.483Z
+date: 2024-09-17T22:57:51.719Z
+updated: 2024-09-24T10:24:29.029Z
 tags:
   - deals
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 * [Use the Ubuntu Monospace Font in the Terminal](https://screen-video-capture.techidaily.com/in-2024-picking-the-right-software-bandicam-versus-camtasia/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  The Windows Subsystem for Linux, introduced in the [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/), became a stable feature in the [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/). You can now run Ubuntu, openSUSE, a remix of Fedora, and plenty of others on Windows, with more Linux distributions coming soon.
 
 ##  What You Need to Know About Windows 10's Bash Shell
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
 
@@ -70,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 ![Open up the Windows Features menu, scroll down until you find &quot;Windows Subsystem for Linux,&quot; then tick the box and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985001e7f37.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click "Restart now" when you're prompted to restart your computer. The feature won't work until you reboot.
 
  Alternatively, you can also install it using PowerShell. [Launch PowerShell as an Administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), then enter:
@@ -91,13 +77,6 @@ wsl --install
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see a list of every Linux distribution currently available in the Windows Store.This includes [Ubuntu, openSUSE Leap, and openSUSE Enterprise](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/), Debian, Kali, and others. You can even find a few remixes of Fedora, though there isn't an official version available as of November 2023.
 
  If you want a specific distro, search for that rather than "Linux." You'll get better results.
@@ -109,13 +88,6 @@ wsl --install
 ![Installing Debian through the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/installing-debian.png) 
 
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use The Bash Shell and Install Linux Software
 
@@ -135,6 +107,19 @@ wsl --install
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
  If you have Ubuntu installed, you can also run the `ubuntu` command to install it. For openSUSE Leap 42, use `opensuse-42` . For SUSE Linux Enterprise Sever 12, use `sles-12` . These commands are listed on each Linux distribution's page on the Windows Store.
@@ -142,6 +127,13 @@ wsl --install
  You can still launch your default Linux environment by running the `bash` command, but Microsoft says this is deprecated. This means the `bash` command may stop functioning in the future.
 
 ![Running &quot;bash&quot; in the Command Prompt will launch your default Linux environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985b14e9795.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're experienced using a Bash shell on Linux, Mac OS X, or other platforms, you'll be right at home.
 
@@ -177,6 +169,13 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -193,20 +192,6 @@ wsl --install
 
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Ubuntu Monospace Font in the Console
 
  To make the Ubuntu monospace font become an option in the console, you'll need to add a setting to [the Windows registry](https://facebook-record-videos.techidaily.com/new-economical-mic-options-for-youtube-vloggers-for-2024/).
@@ -217,21 +202,35 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Navigate to the &quot;TrueTypeFont&quot; key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986517b1bec.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click in the right pane and select New > String Value. Name the new value `000` .
 
  Double-click the "000" string you just created, and then enter `Ubuntu Mono` as its value data.
 
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Terminal
@@ -245,6 +244,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
  The Terminal automatically expands or collapses the labels in the left sidebar depending on the size of your window, much like the Settings app does. You may not see the "Default" text label depending on the size of your window.
 
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
 
@@ -263,17 +269,24 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-maximize-impact-mastering-instagram-video-transforms-into-mp4-for-2024/"><u>[New] Maximize Impact Mastering Instagram Video Transforms Into MP4 for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-new-era-of-videography-aspect-ratios-mandatory-for-2024/"><u>[New] Twitter's New Era of Videography Aspect Ratios Mandatory for 2024</u></a></li>
-<li><a href="https://techidaily.com/conversion-gratuita-de-archivos-pgm-a-linea-con-movavi/"><u>Conversión Gratuita De Archivos PGM a Línea Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/conversione-libera-online-da-mka-a-mkv-scopri-come-usare-movavi-per-lo-streaming-fruibile-gratuitamente/"><u>Conversione Libera Online Da MKA a MKV: Scopri Come Usare Movavi per Lo Streaming Fruibile Gratuitamente</u></a></li>
-<li><a href="https://techidaily.com/convertir-archivo-de-pelicula-ape-a-formato-ogg-sin-coste-guia-movilvi/"><u>Convertir Archivo De Película APE a Formato Ogg Sin Coste: Guía Móvilvi</u></a></li>
-<li><a href="https://techidaily.com/convertisseur-gratuit-de-fichiers-mov-en-flac-en-ligne-moovie/"><u>Convertisseur Gratuit De Fichiers MOV en FLAC en Ligne - Moovie</u></a></li>
-<li><a href="https://techidaily.com/convertissez-vos-fichiers-nsv-en-mp3-sans-frais-decouvrez-comment-avec-notre-guide-rapide/"><u>Convertissez Vos Fichiers NSV en MP3 Sans Frais - Découvrez Comment Avec Notre Guide Rapide!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/effortless-techniques-to-reduce-your-videos-size-before-sharing-on-whatsapp/"><u>Effortless Techniques to Reduce Your Video's Size Before Sharing on WhatsApp</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-windows-xp-professional-for-media-development/"><u>In 2024, Unlock Windows XP Professional for Media Development</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-os-x-mavericks-video-editing-essentials-tips-and-tricks-for-2024/"><u>New OS X Mavericks Video Editing Essentials Tips and Tricks for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secrets-of-single-stream-success-online-broadcast-tips-and-tricks-for-2024/"><u>Secrets of Single-Stream Success Online Broadcast Tips and Tricks for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/bers-playbook-advanced-techniques-for-engaging-editing-for-2024/"><u>Youtuber's Playbook Advanced Techniques for Engaging Editing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[New] In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-wirecast-review-and-alternatives/"><u>[New] Wirecast Review and Alternatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-clearshot-vision-screen-recap/"><u>[Updated] 2024 Approved ClearShot Vision Screen Recap</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capture-video-like-a-pro-on-modern-laptops/"><u>[Updated] Capture Video Like a Pro on Modern Laptops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tips-for-effective-game-playback-on-microsoft-os/"><u>[Updated] Tips for Effective Game Playback on Microsoft OS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-add-stickers-to-instagram-story-and-post-for-2024/"><u>How to Add Stickers to Instagram Story and Post for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-15-plus-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 15 Plus Is Unlocked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-a78-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo A78 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techidaily.com/online-vidora-ljud-en-guid-till-att-extrahera-klarton-fran-videos-for-bra-seo/"><u>Online Vidöra Ljud: En Guid Till Att Extrahera Klarton Från Videos För Bra SEO</u></a></li>
+<li><a href="https://techidaily.com/protect-your-digital-content-with-movavis-advanced-multimedia-software-solutions/"><u>Protect Your Digital Content with Movavi's Advanced Multimedia Software Solutions</u></a></li>
+<li><a href="https://techidaily.com/simova-movie-transformation-tool-securely-discounted-purchase/"><u>SiMoVa Movie Transformation Tool - Securely Discounted Purchase</u></a></li>
+<li><a href="https://techidaily.com/switch-your-audio-effortlessly-upload-and-convert-avi-to-wma-file-types-at-zero-charge-using-our-simple-tool/"><u>Switch Your Audio: Effortlessly Upload and Convert AVI to WMA File Types at Zero Charge Using Our Simple Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-key-to-crisp-clear-cinematography-for-2024/"><u>The Key to Crisp, Clear Cinematography for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-soundtrack-of-your-phone-classic-tones-download-site-guide-for-2024/"><u>The Soundtrack of Your Phone Classic Tones Download Site Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-12-applicazioni-sniping-gratuite-piu-efficienti-del-2024-solomovi/"><u>Top 12 Applicazioni Sniping Gratuite Più Efficienti Del 2024 - SoloMovi</u></a></li>
+<li><a href="https://techidaily.com/top-9-livres-de-software-mais-populares-para-masterizacao-de-cds-e-dvds-no-computador/"><u>Top 9 Livres De Software Mais Populares Para Masterização De CDs E DVDs No Computador</u></a></li>
+<li><a href="https://techidaily.com/transformacion-facil-de-archivo-mkv-a-mp4-para-usuarios-de-mac-paso-a-paso/"><u>Transformación Fácil De Archivo MKV a MP4 Para Usuarios De Mac: Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/transforme-imagens-de-animacao-gif-em-tiff-off-line-sem-custo-algum-pelo-movavi/"><u>Transforme Imagens De Animação GIF Em TIFF Off-Line Sem Custo Algum Pelo Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-tuoi-file-ogg-in-aiff-senza-costi-con-il-convertitore-di-movavi-gratuito/"><u>Trasforma I Tuoi File OGG in AIFF Senza Costi Con Il Convertitore Di Movavi Gratuito</u></a></li>
 </ul></div>
 

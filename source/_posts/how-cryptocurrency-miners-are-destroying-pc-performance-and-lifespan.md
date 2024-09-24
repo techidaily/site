@@ -1,7 +1,7 @@
 ---
 title: How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
-date: 2024-09-21T20:10:34.431Z
-updated: 2024-09-23T20:20:48.499Z
+date: 2024-09-17T20:59:50.154Z
+updated: 2024-09-24T07:21:53.767Z
 tags:
   - cutting-edge
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Laptops and [mining crypto](https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/) don't mix. Even a [gaming laptop](https://facebook-video-share.techidaily.com/updated-premium-notebooks-select-the-best-for-professional-edits/) doesn't have the hardware to go all-out 24/7\. Using your laptop as a mining rig is a good way to damage the hardware---and it won't be able to mine well.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Crypto Mining Does to a Computer
@@ -40,6 +40,13 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  This isn't necessarily a problem for desktop GPUs. [A GPU used for mining may still have a good lifespan ahead of it if it was properly cooled](https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/). However, a laptop is very different from a mining rig.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Laptops Are Not Designed For This
 
  Most laptops, even high-end ones for gaming and creative professional work, are not designed to run at peak capacity 24/7\. Instead, they ramp up performance as needed and keep heat and power levels as low as possible the rest of the time. Even heavy workloads, such as playing a AAA video game for hours, don't peg your computer's CPU and GPU at 100%. Instead, the load is dynamic, providing small opportunities to dump heat.
@@ -49,10 +56,10 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  There are laptops that are designed as number-crunching workstations, but these computers are better described as "portable" rather than mobile computers. Some of these workstation laptops have socketed desktop CPUs, which are designed to suck power from a wall outlet and really push those thermal limits. Unless you have one of these behemoths, your laptop probably wasn't made to handle the stresses of mining.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fans Wear Out
@@ -60,10 +67,10 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 ![A fan on the motherboard inside a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1294339672.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Color4260/Shutterstock.com](https://www.shutterstock.com/image-photo/close-on-printed-circuit-main-motherboard-1294339672)
@@ -79,13 +86,6 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  While most of your electronic components will probably be fine as long as they stay within the rated safe temperate range, one component that might not take the heat well is the laptop's battery. Lithium-ion batteries should operate between -20 °C to 60 °C depending on the specific application and manufacturer recommendation. If they are exposed to temperatures higher than that, they can degrade and have their lifespans shortened due to an effect known as thermal aging.
 
  In 2018, Shuai Ma and colleagues published a [paper on thermal impact and lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S1002007118307536). They cite research showing that lithium batteries subjected to 75 °C for a few days show severe degradation. While that doesn't mean sustained high temperatures in your laptop will kill your batteries quickly, it's worth remembering that components like the GPU can hit temperatures close to 100 °C, especially in a laptop where the line between "safe" and "too hot" is very thin.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Laptops Are Bad at Mining, Anyway
 
@@ -108,19 +108,25 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-guide-sharing-youtube-videos-on-fb/"><u>[Updated] In 2024, The Ultimate Guide Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://techidaily.com/movaviogmmkv/"><u>「安心して体験: 無料Movaviツールを使用したオンラインOGMファイルからMKVへの効率的な変換」</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lenovo-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lenovo?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-honor-70-lite-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor 70 Lite 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-sony-devices-by-drfone-android/"><u>How to Reset Gmail Password on Sony Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-we-fixed-the-malfunctioning-igfxem-module-now-running-smoothly/"><u>How We Fixed the Malfunctioning IgfxEM Module - Now Running Smoothly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-art-on-iphone-discover-the-8-prime-drawing-tools/"><u>In 2024, Master Your Art on iPhone Discover the 8 Prime Drawing Tools</u></a></li>
-<li><a href="https://techidaily.com/movavi-explains-unveiling-the-distinctions-between-wav-and-mp3-formats/"><u>Movavi Explains: Unveiling the Distinctions Between WAV and MP3 Formats</u></a></li>
-<li><a href="https://techidaily.com/movavi-online-free-converter-convert-m4v-files-to-mp4-format-instantly/"><u>Movavi Online Free Converter: Convert M4V Files to MP4 Format Instantly!</u></a></li>
-<li><a href="https://techidaily.com/movavi-online-converter-free-convert-dng-to-png-images-instantaneamente/"><u>Movavi Online: Converter Free - Convert DNG to PNG Images Instantaneamente!</u></a></li>
-<li><a href="https://techidaily.com/movavi-ferramenta-segura-e-facil-de-uso-para-converte-las-do-formato-bmp-para-png-sem-custo/"><u>Movavi: Ferramenta Segura E Fácil De Uso Para Convertê-Las Do Formato BMP Para PNG Sem Custo</u></a></li>
-<li><a href="https://techidaily.com/movavi-ts-to-mp3/"><u>Movavi提供: 完全無償Ts to MP3ビデオコンバーターサービス</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-expertise/"><u>Navigating the World of Computers with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-quick-and-easy-method-for-clearing-image-backdrops/"><u>[New] In 2024, Quick and Easy Method for Clearing Image Backdrops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-downloading-twitter-video-content-to-mp3/"><u>[New] Strategies for Downloading Twitter Video Content to MP3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ghastly-graphics-maker/"><u>[Updated] Ghastly Graphics Maker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-trending-vids-the-videoviral-phenomenon/"><u>[Updated] Trending Vids The #VideoViral Phenomenon</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-asus-vivobook-11-assessment-compact-powerhouse-at-a-great-price/"><u>Comprehensive Asus Vivobook 11 Assessment: Compact Powerhouse at a Great Price</u></a></li>
+<li><a href="https://techidaily.com/de-gouden-18-bestaan-de-zeven-sterkste-betaalde-foto-sites-in-nederland/"><u>De Gouden 18: Bestaan De Zeven Sterkste Betaalde Foto Sites in Nederland</u></a></li>
+<li><a href="https://techidaily.com/effective-training-video-production-a-step-by-step-guide-with-movavi/"><u>Effective Training Video Production: A Step-by-Step Guide with Movavi</u></a></li>
+<li><a href="https://techidaily.com/en-ligne-et-gratuit-convertissez-vos-fichiers-mp3-en-format-wmv-avec-laide-de-movavi/"><u>En Ligne Et Gratuit: Convertissez Vos Fichiers MP3 en Format WMV Avec L'aide De Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-conversion-of-mmf-media-files-expert-guide-with-movavi-tools/"><u>Free Conversion of MMF Media Files: Expert Guide with Movavi Tools</u></a></li>
+<li><a href="https://techidaily.com/free-mp4-converter-convert-mpe-files-instantly/"><u>Free MP4 Converter - Convert MPE Files Instantly</u></a></li>
+<li><a href="https://techidaily.com/free-online-wav-to-aac-converter-by-movavi/"><u>Free Online WAV to AAC Converter by Movavi</u></a></li>
+<li><a href="https://techidaily.com/gifisation-de-vos-videos-guide-pratique-sur-movavi-converter/"><u>GIFisation De Vos Videos : Guide Pratique Sur Movavi Converter</u></a></li>
+<li><a href="https://techidaily.com/gratuit-vertaling-van-3gp-naar-flv-onderhoud-vrije-online-tools-movavi/"><u>Gratuit Vertaling Van 3GP Naar FLV: Onderhoud Vrije Online Tools - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuita-online-conversao-aif-em-ogg-pelo-servico-web-de-movavi/"><u>Gratuita Online: Conversão AIF Em OGG Pelo Serviço Web De Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversor-de-formatos-mxf-para-wav-online-movavi/"><u>Gratuito Conversor De Formatos MXF Para WAV Online - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-iphone-luminary-strategies-for-2024/"><u>Illuminating iPhone Luminary Strategies for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-edge-40-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Edge 40 Pro FRP?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-measure-app-on-android-techniques-for-precise-dimension-tracking/"><u>Navigating the Measure App on Android: Techniques for Precise Dimension Tracking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-online-discovery-how-artificer-intelligence-is-shaping-future-websites/"><u>Revolutionizing Online Discovery: How Artificer Intelligence Is Shaping Future Websites</u></a></li>
+<li><a href="https://article-helps.techidaily.com/smart-buying-top-value-action-cam-models-for-2024/"><u>Smart Buying Top Value Action Cam Models for 2024</u></a></li>
 </ul></div>
 

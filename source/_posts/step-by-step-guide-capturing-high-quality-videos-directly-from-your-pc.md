@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing High-Quality Videos Directly From Your PC"
-date: 2024-08-18T03:45:05.664Z
-updated: 2024-08-19T03:45:05.664Z
+date: 2024-09-21T18:56:12.111Z
+updated: 2024-09-24T01:31:34.916Z
 tags:
   - win11
   - win10
@@ -46,8 +46,18 @@ thumbnail: https://thmb.techidaily.com/3cb419f908d86ebe5088af418d006c72b036ec3f7
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How can I set up a VPN on Xbox One?
 
  There are two methods to set up a VPN for Xbox One: through either your Wi-Fi router or your computer. The step-by-step guides for both ways will be shown below.  
@@ -86,8 +96,12 @@ a) get it through your Windows computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
@@ -100,8 +114,12 @@ a) get it through your Windows computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
@@ -112,9 +130,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
  All set! Now you’re free to stream media and play games on your Xbox One.
@@ -144,11 +159,22 @@ a) get it through your Windows computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) **Buy a VPN subscription and install its software to configure it on your computer.** You can review[how to choose a VPN service through the method above](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -166,9 +192,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8af87822.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 You should now be able to using the VPN on your Xbox One.
 
 ---
@@ -185,8 +208,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,51 +217,22 @@ Enjoy playing Xbox One games!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-12-best-html5-video-players-you-should-know/"><u>[New] 12 Best Html5 Video Players You Should Know</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hdtvs-future-in-focus-new-samsung-ubd-k8500-insights/"><u>[New] HDTV's Future in Focus - New Samsung UBD-K8500 Insights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mobile-sound-shakers-the-ultimate-playlist/"><u>[New] Mobile Sound Shakers  The Ultimate Playlist</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>[New] Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-lenovos-secrets-to-effortless-screenshots-for-2024/"><u>[Updated] Lenovo's Secrets to Effortless Screenshots for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>[Updated] Play Every Game at Home  NBA Streaming Made Simple (Top 15)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-meizu-21-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Meizu 21 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-reno-10-proplus-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo Reno 10 Pro+ 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-investigating-youtube-dialogues/"><u>2024 Approved  Investigating YouTube Dialogues</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x8b-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X8b</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/agile-quick-windows-picture-sorter-for-2024/"><u>Agile Quick Windows Picture Sorter for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beginners-introduction-to-langchain-language-models/"><u>Beginners' Introduction to LangChain Language Models</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-itel-p40plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel P40+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g73-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G73 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-itel-a60s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel A60s in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-12-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 12 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-m54-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy M54 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-7-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 7 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a1x-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A1x 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-mini-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 mini iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-pova-5-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pova 5 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-failures-heres-how-to-get-it-working-again/"><u>HP Wireless Keyboard Failures? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/most-effective-macos-sierra-video-coders-for-2024/"><u>Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-6s-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Y100 5G</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-k11-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo K11 5G)</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-c12-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from C12</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2013-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2013 documents online</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi Redmi K70</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-hot-40i-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Hot 40i</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-edge-40-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Edge 40 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-a60s-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel A60s.</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-pop-8-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Pop 8</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-note-30-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Note 30 5G</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-magic-6-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Magic 6</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-xs-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone XS Max takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-guide-to-fade-out-music-in-premiere-pro/"><u>[New] In 2024, Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-laugh-ledger-the-ultimate-list-of-hilarious-tweets/"><u>[New] In 2024, Laugh Ledger The Ultimate List of Hilarious Tweets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-secrets-to-flawless-webp-to-jpg-image-conversion/"><u>2024 Approved Secrets to Flawless WebP-to-JPG Image Conversion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-whats-the-real-distinction-between-youtube-and-dailymention/"><u>2024 Approved What's the Real Distinction Between YouTube and DailyMention?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-productivity-navigating-through-4-time-strategies/"><u>ChatGPT for Productivity: Navigating Through 4 Time Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-and-rectifying-four-predominant-gpu-problems/"><u>Dissecting and Rectifying Four Predominant GPU Problems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-2v-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 2V to New Android? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlock-your-potential-best-instagram-video-editors-android-pc/"><u>In 2024, Unlock Your Potential Best Instagram Video Editors (Android, PC)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disconnects-resolving-fall-guys-errors-on-windows/"><u>Overcoming Disconnects: Resolving Fall Guys Errors on Windows</u></a></li>
+<li><a href="https://techidaily.com/resolving-synchronization-issues-a-step-by-step-guide-to-reinitializing-microsoft-onedrive-in-windows-11/"><u>Resolving Synchronization Issues: A Step-by-Step Guide to Reinitializing Microsoft OneDrive in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/reviving-your-windows-11-network-interface-solutions-to-restore-ethernet-connection-stability/"><u>Reviving Your Windows 11 Network Interface: Solutions to Restore Ethernet Connection Stability</u></a></li>
+<li><a href="https://techidaily.com/setting-up-windows-subsystem-for-linux-wsl-in-windows-11-a-comprehensive-guide/"><u>Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-clearing-your-dns-cache-in-windows-11/"><u>Step-by-Step Guide: Clearing Your DNS Cache in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-eliminating-background-from-images-in-windows-11/"><u>Step-by-Step Guide: Eliminating Background From Images in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-launching-google-chrome-via-command-line-in-windows-10/"><u>Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/top-savings-alert-snag-discounts-on-amazon-fire-tv-ecoflow-charger-and-beyond/"><u>Top Savings Alert: Snag Discounts on Amazon Fire TV, EcoFlow Charger & Beyond!</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-common-issues-with-windows-10-built-in-applications/"><u>Troubleshooting Common Issues with Windows 10 Built-In Applications</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Solutions to open Excel 2019 Read Only Documents
-date: 2024-08-01T17:15:28.187Z
+date: 2024-09-23T06:41:14.053Z
 tags: 
   - repair
   - repair excel
@@ -18,9 +18,6 @@ keywords: repair .xltx,repair excel,repair .csv
 
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
 There could be several reasons that may cause the error. Some of them are as follows:
@@ -35,8 +32,18 @@ There could be several reasons that may cause the error. Some of them are as fol
 - Damaged or missing MS Office (MS Excel) program files
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solutions to Open and Edit Read-Only Excel Documents
 
 Below are a few solutions that can help you fix the 'Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted' error and allow you to open and edit Excel documents.
@@ -48,9 +55,6 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
 - Right-click on the particular Excel (xls/xlsx) document and select '**Properties'.**
   - Uncheck the '**Read-only'** attribute and then click the '**OK'** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
 
 Now try to open the Excel document and check if the problem is fixed.
@@ -68,6 +72,13 @@ To safeguard the system, MS Excel opens such files in **Protected View**. It may
 However, you can click **File > Info** and then click '**Edit Anyway**' to access and edit file content. You may also disable the **Protected View** setting via **_File > Options > Trust Center > Trust Center Settings…> Protected View._** However, we do not recommend this.
 
 ![Protected View](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Protected-view-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Renew/Activate Microsoft Office**
 
@@ -97,17 +108,25 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 - Open Control Panel and click **Uninstall a Program** link under **Programs.**
 - Choose Microsoft Office from the list and click the **Change** button.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After the Repair, open the Excel workbook and check if the error is resolved.
 
@@ -119,9 +138,6 @@ The error message may also appear if you access an Excel workbook from a network
 
 If none of the solutions worked, the Excel workbook could be damaged or corrupt. To repair such damaged Excel workbook or spreadsheet, you can use the inbuilt '**Open and Repair…**’ option in MS Excel or install an **[Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**, such as Stellar Repair for Excel. The software comes in handy when the **Open and Repair** option fails to fix the Excel workbook problems. It repairs the corrupt or damaged Excel workbook, extracts all components and content from the file with 100% integrity, and saves them in a new Excel workbook.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Sometimes, the 'Excel cannot open read-only documents' error can be resolved by a simple restart. But if it doesn't work, you can follow the solutions discussed in this article to resolve the 'Excel cannot open read-only documents' issue.  However, if the issue is caused due to a damaged or corrupt Excel workbook, these methods may not work. In such a case, you can use Excel's inbuilt repair utility, i.e., **Open and Repair,** or install Stellar Repair for Excel software recommended by **MVPs** and **industry experts** to fix all kinds of problems with MS Excel workbooks.
@@ -141,46 +157,23 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-trends-top-10-instagram-tags-to-elevate-your-presence/"><u>[New] 2024 Approved  Mastering Trends  Top 10 Instagram Tags to Elevate Your Presence</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-transforming-viewers-into-fans-with-top-yt-video-reacts/"><u>[New] 2024 Approved  Transforming Viewers Into Fans with Top YT Video Reacts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-spectacular-screen-synergy-the-perfect-partner-pairing-for-an-mcn/"><u>[Updated] 2024 Approved  Spectacular Screen Synergy  The Perfect Partner Pairing for an MCN</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-spin-wonders-expert-techniques-to-enthrall-your-followers-with-flipped-photos/"><u>[Updated] In 2024, Insta Spin Wonders  Expert Techniques to Enthrall Your Followers with Flipped Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-snapshot-excellence-the-finest-software-on-market/"><u>2024 Approved  Snapshot Excellence  The Finest Software on Market</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/best-bargains-comparing-cloud-storage-prices/"><u>Best Bargains  Comparing Cloud Storage Prices</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-x50-gt-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-s17e-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S17e in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-zero-30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Zero 30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-v27-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo V27 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edgeplus-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge+ (2023) in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-x9a-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X9a without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-ace-3-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 3 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100A phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-90-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor 90 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-resource-on-affordable-webinars-on-youtube/"><u>In 2024, The Ultimate Resource on Affordable Webinars on Youtube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-maximum-payload-heavy-lift-drones/"><u>Mastering Maximum Payload  Heavy Lift Drones</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-camon-30-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-retrieval-tool-restore-lost-data-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Samsung Data Retrieval tool – restore lost data from Samsung Galaxy S24</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/speeding-up-periscope-live-broadcasting-tips/"><u>Speeding Up Periscope Live Broadcasting Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swift-recovery-reviving-windows-photo-viewer-on-modern-os-for-2024/"><u>Swift Recovery  Reviving Windows Photo Viewer on Modern OS for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-srt-compendium-for-all-levels/"><u>The Essential SRT Compendium for All Levels</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-p40-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from P40</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/total-insight-into-vscos-photography-ecosystem/"><u>Total Insight Into VSCO's Photography Ecosystem</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-p60-by-fonelab-android-recover-photos/"><u>Undelete lost photos from P60.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-infinix-zero-30-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Infinix Zero 30 5G password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/zooming-success-detailed-instruction-for-exceptional-podcast-recording-quality/"><u>Zooming Success  Detailed Instruction for Exceptional Podcast Recording Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/imelight-rhythms-the-creme-de-la-crop-of-yt-short-scores/"><u>[New] Limelight Rhythms The Crème De La Crop of YT Short Scores</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-guide-for-filming-sims-adventures-for-2024/"><u>[New] Step-by-Step Guide for Filming Sims Adventures for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ios-leading-edge-5-exceptional-psp-game-tools-for-2024/"><u>[Updated] IOS Leading Edge 5 Exceptional PSP Game Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-obstacle-a-detailed-walkthrough-to-clear-error-asterisk-genshin-impact-4201/"><u>Bypassing Obstacle: A Detailed Walkthrough to Clear Error Asterisk Genshin Impact (4201)</u></a></li>
+<li><a href="https://techidaily.com/connect-and-display-your-mac-screen-on-any-tv-with-easy-airplay-setup-instructions/"><u>Connect and Display Your Mac Screen on Any TV with Easy AirPlay Setup Instructions</u></a></li>
+<li><a href="https://techidaily.com/get-your-hands-on-a-high-performance-lenovo-legion-desktop-with-rtx-4080-gpu-priced-at-an-amazing-low-of-2091/"><u>Get Your Hands on a High-Performance Lenovo Legion Desktop with RTX 4080 GPU - Priced at an Amazing Low of $2,091</u></a></li>
+<li><a href="https://techidaily.com/1723262403567-huge-savings-save-200-on-the-alienware-aurora-r16-with-rtx-4070-super-now-just-1499/"><u>Huge Savings: Save $200 on the Alienware Aurora R16 with RTX 4070 Super – Now Just $1,499</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-5-online-video-capture-tools/"><u>In 2024, Top 5 Online Video Capture Tools</u></a></li>
+<li><a href="https://techidaily.com/inside-scoop-on-high-performance-hardware-at-toms-tech-corner/"><u>Inside Scoop on High-Performance Hardware at Tom's Tech Corner</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lg-redefines-reality-with-its-latest-virtual-gaming-device-for-2024/"><u>LG Redefines Reality with Its Latest Virtual Gaming Device for 2024</u></a></li>
+<li><a href="https://techidaily.com/navigating-the-world-of-electronics-toms-hardware-wisdom/"><u>Navigating the World of Electronics: Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-customer-assistance-implementing-chatgpt-within-a-whatsapp-framework/"><u>Next-Level Customer Assistance: Implementing ChatGPT Within a WhatsApp Framework</u></a></li>
+<li><a href="https://techidaily.com/the-silicon-chronicles-with-tom-a-deep-dive-into-cutting-edge-pc-technology/"><u>The Silicon Chronicles with Tom: A Deep Dive Into Cutting-Edge PC Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-the-not-installed-error-in-eac-launch-sequence/"><u>Troubleshooting Guide: Addressing the Not Installed Error in EAC Launch Sequence</u></a></li>
+<li><a href="https://techidaily.com/unleash-gaming-potential-at-999-dollars-nvidia-rtx-and-intel-core-in-one-pc/"><u>Unleash Gaming Potential at 999 Dollars – NVIDIA RTX and Intel Core in One PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028135202-windows-1011/"><u>Windows 10/11</u></a></li>
 </ul></div>
+

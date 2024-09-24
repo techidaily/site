@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Hard Reset Your Vivo Y78 5G | Dr.fone
-date: 2024-08-01T13:21:11.443Z
-updated: 2024-08-02T13:21:11.443Z
+date: 2024-09-22T17:05:32.206Z
+updated: 2024-09-24T16:18:39.087Z
 tags: 
   - reset
 categories:
@@ -18,9 +18,6 @@ Vivo Y78 5G hard reset is needed when you wish to sell your phone or give it to 
 
 Dr.Fone by Wondershare is a reliable tool for all your Android needs. It can erase, recover, unlock, back up, and do other things with just a single software. Therefore, this article explains **how to reset Vivo Y78 5G** and use Dr.Fone. We assure you that your privacy will be safe, and no file corruption will occur while using this program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Some Common Causes About Vivo Y78 5G Hard Reset
 
 Some of the most common situations that require **Vivo Y78 5G Hard Reset** are:
@@ -32,9 +29,6 @@ Some of the most common situations that require **Vivo Y78 5G Hard Reset** are:
 
 ## Part 2: Easy Ways for Your Vivo Y78 5G Hard Reset
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 1\. Hard Reset from Settings
 
 **Step 1:** Before you continue with the hard reset or factory reset on your Vivo Y78 5G smartphone. However, make sure you have a backup of the important data put away on the phone.
@@ -47,9 +41,6 @@ Some of the most common situations that require **Vivo Y78 5G Hard Reset** are:
 
 ![reset from settings](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-hard-reset-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Recovery Mode
 
 Recovery mode assists you in opening the hidden features on your Vivo Y78 5G. By utilizing the Recovery mode, you can perform a hard reset on your device and wipe data. The following are the steps to get to the recovery mode on Vivo Y78 5G and complete the hard reset:
@@ -66,10 +57,14 @@ Recovery mode assists you in opening the hidden features on your Vivo Y78 5G. By
 
 **Step 6:** Click OK to finish the process, and that's **how to reset Vivo Y78 5G** phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-hard-reset-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Dr.Fone-Data Eraser
 
@@ -77,16 +72,10 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 - Open Dr.Fone on your PC and select "Data Eraser," among other tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Connect your Vivo Y78 5G phone to the PC through a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect your Vivo Y78 5G](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 - Click the "Erase All Data" button to eradicate all your data.
@@ -99,23 +88,21 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 - Then, at that point, Dr.Fone will begin deleting all data on your Vivo Y78 5G phone.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 - Then click the Factory Data Reset or Erase All Data on the phone. That will assist you with totally cleaning all the settings on the phone.
 
 ![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Dr.Fone-Phone Backup
 
 Dr.Fone Phone Backup (Android) is a wonderful tool for backups and restoration that you can depend on totally. It has a backup feature that can back up a large portion of the Vivo Y78 5G files. Not just those, the backup tool can likewise recover files from your Android phone or tablet PC if you lose them unexpectedly. The method involved with backing up is quick enough. At the same time, you can select a few files to recover, which will save time. Here's what you need to do:
@@ -124,20 +111,15 @@ Dr.Fone Phone Backup (Android) is a wonderful tool for backups and restoration t
 
 ![phone backup](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Then, at that point, connect your Vivo Y78 5G phone to the PC through a USB cable and tap on OK.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect your Vivo Y78 5G](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 - Click Backup to begin the Backup of Vivo Y78 5G phone data.
@@ -147,9 +129,6 @@ Dr.Fone Phone Backup (Android) is a wonderful tool for backups and restoration t
 
 - The process will require a couple of minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![backing up](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 - After it is finished, you can tap on View the backup button to see what's in the backup record.
@@ -162,16 +141,12 @@ Above are some strategies with which you can do an **Vivo Y78 5G hard reset**. H
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Vivo Y78 5G
 
-
 Wiping data or carrying out a factory reset on an Android device is an effective solution for various issues on your Android phone. Even if you are contemplating selling your phone and you need all your device data to be wiped out, you carry out a factory reset. But, before you proceed, what’s important is to understand about wipe data/ factory reset, because, if you don’t, you might end up losing all your important data before it is backed up, serving no purpose. So, before you wipe data/ factory reset Android, here’s what you should know about it.
 
 ## Part 1: What data will be wiped by Wipe Data/Factory Reset?
 
 Doing a factory reset on the Android device will remove all the applications installed on the Vivo Y78 5G device along with the data associated with them. This brings back all the default settings of the Vivo Y78 5G device as it was when the phone was new, giving you a clean slate to start all over again.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe data factory reset](https://images.wondershare.com/drfone/article/2017/04/14925871266656.jpg)
 
 Since Wipe data/factory reset deletes all applications, app data, and information (documents, videos, images, music, etc) stored in the internal space, it is required for you to perform a [data backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) operation before you reset the Android device to factory settings. However, wipe data/factory reset does not affect the SD card in any way. So, even if you have the SD card inserted with videos, images, documents, and any other personal information in the Android device while carrying out a factory reset, everything will remain safe and intact.
@@ -190,20 +165,21 @@ Step 3: Holding the power button down, use the volume up button, and the Android
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/04/14925873903261.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, scroll down to “wipe data/factory reset” option from the list of commands and use the Power button to select it.
 
 Now, scroll down to “Yes – delete all user data” using the volume button and then push the power button to select.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete all user data](https://images.wondershare.com/drfone/article/2017/04/14925874254055.jpg)
 
 In some time your device will be reset into factory settings with all your data erased. The entire process will take a few minutes. Ensure that you have the phone at least 70% charged so that it does not run out of charge midway.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Part 3: Does Wipe Data/ Factory Reset wipe all your data?
 
 There are various instances where you would require performing a wipe/factory reset on your device. It might be because of some glitch that you would like to troubleshoot on your Android device. Wiping data from the phone is a universal solution in such cases. Even in cases where you want to sell your device, performing a factory reset seems the best option. What’s important is to make sure you don’t leave a trace of your personal information on the Vivo Y78 5G device. Therefore, wipe data/factory reset is never the ultimate solution to rely on. It is neither the best option anyway.
@@ -214,14 +190,6 @@ So, to protect your privacy and completely wipe data off the Vivo Y78 5G device,
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
 
 Fully Erase Everything on Android and Protect Your Privacy
@@ -239,13 +207,17 @@ First of all, install Dr.Fone on your computer and launch it by double-clicking 
 
 ![launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Initiate the Process
 
 When the tool's window opens, click **Start** to trigger the operation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![start erasing all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 Step 3: Confirm and Execute Data Eraser
@@ -266,9 +238,6 @@ And you could watch this YouTube video for an in-depth tutorial.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 Hence, today we learned about wiping data and also factory reset. Well as per us, using [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) is the best option as it is a simple and click-through process and helps you completely erase data from your Android. This toolkit also is the best as it supports all Android devices available in the market today.
@@ -277,11 +246,6 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Reset a Vivo Y78 5G Phone That Is Locked
 
 _“Looking for the best solutions on how to factory reset Vivo Y78 5G phone when locked?”_
@@ -291,8 +255,12 @@ The need to reset a Vivo Y78 5G phone arises in several situations like forgetti
 In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: Things You Should Be Aware of Before Resetting Vivo Y78 5G Phones
 
 Before you start resetting your Vivo Y78 5G device through any of the methods, there are certain important things that should be considered and taken care of. Check them out as below.
@@ -301,9 +269,6 @@ Before you start resetting your Vivo Y78 5G device through any of the methods, t
 - Ensure to clear the cache on your Vivo Y78 5G phone.
 - If your Vivo Y78 5G phone is not locked, make sure to take the backup of the Vivo Y78 5G device to prevent accidental loss of data. If the Vivo Y78 5G device is locked, ensure that from next time you keep taking the backup on regular basis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Reset Vivo Y78 5G Phone When Locked?
 
 Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Vivo Y78 5G phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
@@ -323,9 +288,6 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 
 With the completion of the above steps, your Vivo Y78 5G phone will reset.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Perform a Hard Reset on Vivo Y78 5G with Hardware Keys
 
 Hard reset which is also termed factory reset is a feature that will reset all the Vivo Y78 5G device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
@@ -343,9 +305,6 @@ Hard reset which is also termed factory reset is a feature that will reset all t
 
 _**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Vivo Y78 5G device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Vivo Y78 5G FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Vivo Y78 5G codes that can be used to bypass the FRP lock._
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Method 3: An Efficient Alternative to Reset Locked Vivo Y78 5G Phone
 
 If the above-listed methods do not work for any reason, we recommend using [Dr.Fone-Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) as the best alternative. This is a Windows and Mac-based tool that can help bypass and remove all types of screen locks including PIN, passcode, pattern, Face ID as well as a fingerprint. The software not only works with Vivo Y78 5G but all other popular Android devices including Vivo Y78 5G, LG, Oppo, and more.
@@ -359,8 +318,12 @@ The screen locks can be removed without rooting, and the software is completely 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool for factory reset Vivo Y78 5G Phone When Locked
@@ -385,18 +348,12 @@ The Best Tool for factory reset Vivo Y78 5G Phone When Locked
 
 - **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ## Part 3. How to Reset Vivo Y78 5G Phone at Normal Cases?
 
 In normal situations, the Vivo Y78 5G phones can be reset using the settings menu or the Android Factory Reset code. Both these methods and their guide to getting the process done are listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Reset Vivo Y78 5G phones through the Phone Settings menu
 
 To unlock the screen and reset your Vivo Y78 5G phone, the settings menu of the Vivo Y78 5G device can be used. For this method, you do not need to make your device enter the recovery mode. The steps for the process are as follows.
@@ -419,16 +376,24 @@ Steps to reset Vivo Y78 5G phone using secret reset code
 
 The above methods can also be tried if you get stuck in a situation on how to factory reset Vivo Y78 5G tablets without password. Also, we recently covered a method of how to bypass the Google account on Vivo Y78 5G after a factory reset, we have now had the opportunity to test this with many people with different models of Android and have found mixed results.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The above given are multiple options that can be used for resetting your Vivo Y78 5G phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Vivo Y78 5G device as it supports removing all types of screen locks in a hassle-free manner.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -442,64 +407,22 @@ The above given are multiple options that can be used for resetting your Vivo Y7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-duration-decoded-a-guide-to-editing-youtube-videos/"><u>[New] 2024 Approved  Duration Decoded  A Guide to Editing YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-going-beyond-why-you-might-want-an-alternate-to-vidmas-reader/"><u>[New] In 2024, Going Beyond  Why You Might Want an Alternate to Vidma's Reader</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-recording-titans-collide/"><u>[New] In 2024, Recording Titans Collide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-best-iphone-camera-aids/"><u>[New] In-Depth Look  Best iPhone Camera Aids</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-slow-motion-photography-techniques-for-instagram-posts/"><u>[New] Mastering Slow Motion Photography Techniques for Instagram Posts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweetstream-extractor-pull-twitter-videos-to-iphone/"><u>[New] TweetStream Extractor  Pull Twitter Videos to iPhone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-a-streamers-dream-unifying-obs-and-zoom-with-steps-for-2024/"><u>[Updated] A Streamer's Dream  Unifying OBS & Zoom with Steps for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-innovation-hub-for-youtube-gurus/"><u>[Updated] Innovation Hub for YouTube Gurus</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-luminance-in-hd-boost-or-bust-in-hdr-world/"><u>[Updated] Luminance in HD  Boost or Bust in HDR World?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[Updated] Podcast Production Perfection  From Draft to Audio Bliss</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-psychoacoustic-enhancement-for-playstation-titles/"><u>[Updated] Psychoacoustic Enhancement for PlayStation Titles</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-nights-canvas-rendered-in-hd-the-ultimate-sky-sites-list/"><u>2024 Approved  Night's Canvas Rendered in HD  The Ultimate Sky Sites List</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V27 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/bitrecorder-analysis-with-other-solutions-for-2024/"><u>BitRecorder Analysis with Other Solutions for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-redmi-12-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Redmi 12 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-xr21-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia XR21 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-civi-3-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Civi 3 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-a18-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A18 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-s18e-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo S18e Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g34-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G34 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a25-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A25 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-10t-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 10T 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/how-to-generate-speech-from-text-the-top-text-to-speech-converters/"><u>How To Generate Speech From Text | The Top Text-to-Speech Converters</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-a70-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A70 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-k11-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo K11 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-13-mini-how-to-unlock-a-disabled-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 13 mini How to Unlock a Disabled Apple iPhone 13 mini?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-quintessential-collection-of-anime-intros/"><u>In 2024, The Quintessential Collection of Anime Intros</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-s23-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-12-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 12 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/um-dj-visuals-library-seamless-download-experience/"><u>Premium DJ Visuals Library - Seamless Download Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/professional-tips-integrating-closed-captions-with-ease-on-youtube-for-2024/"><u>Professional Tips  Integrating Closed Captions with Ease on YouTube for 2024</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Plus Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-xiaomi-redmi-note-12t-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-f04-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy F04 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/revealing-graphic-excellence-our-top-10-design-tool-list-for-2024/"><u>Revealing Graphic Excellence  Our Top 10 Design Tool List for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 Pro</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-13t-pro-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/sony-data-recovery-recover-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Sony Data Recovery – recover lost data from Sony Xperia 5 V</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-k11-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo K11 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-c110-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia C110 without backup.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-storm-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Storm 5G.</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-gt-neo-5-se-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-infinix-note-30i-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Infinix Note 30i</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-mix-fold-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Mix Fold 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-bring-back-missing-watch-playlist-icon/"><u>[New] In 2024, Bring Back Missing Watch Playlist Icon</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-omnidirectional-recording-gadgets/"><u>[New] Top 5 Omnidirectional Recording Gadgets</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-star-feature-to-your-advantage/"><u>2024 Approved How to Use Star Feature to Your Advantage</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/3gpp-mpeg/"><u>3GPP MPEGファイルを無料でオンラインで変換: 動画変換サービスのご紹介</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-lag-from-your-street-fighter-groove-expert-fixes-for-a-smooth-gaming-experience/"><u>Banish LAG From Your Street Fighter Groove: Expert Fixes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-linux-setup-not-wsl/"><u>Efficient Linux Setup, Not WSL</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-12-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 12 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a05s-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A05s If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a15-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A15 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-vivo-x90s-by-fonelab-android-recover-data/"><u>The way to get back lost data from Vivo X90S</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g24-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G24</u></a></li>
 </ul></div>
+

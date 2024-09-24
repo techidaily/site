@@ -1,7 +1,7 @@
 ---
 title: How to Connect PS4 Controller to PS3. Easily
-date: 2024-08-18T03:38:20.658Z
-updated: 2024-08-19T03:38:20.658Z
+date: 2024-09-18T00:18:35.323Z
+updated: 2024-09-23T17:02:11.915Z
 tags:
   - win11
   - win10
@@ -53,17 +53,51 @@ Then follow steps below to pair the controller:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/manage-bluetooth-devices.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) If you don’t have other bluetooth device paired, you’ll see the message: The Bluetooth device has not been registered. Do you want to register it? In this case, highlight**Yes** and press the**X** button on the controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a55ec01d26e2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If some bluetooth devices have been paired, you’ll be prompted to pair a new bluetooth device. Highlight**Register Now Device** and press the**X** button on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/register-now-devcie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Highlight**Start Scanning** and press the**X** button, then the system will scan available bluetooth devices to pair. You’ll expect the connected PS4 controller will be detected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/starting-scanning.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Disconnect PS4 controller.
 
@@ -80,14 +114,11 @@ Then follow steps below to pair the controller:
 * [PlayStation 3 (PS3)](https://www.drivereasy.com/tag-search/?tagId=10247)
 * [PlayStation 4 (PS4)](https://www.drivereasy.com/tag-search/?tagId=180)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,65 +129,15 @@ Then follow steps below to pair the controller:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-5-headsets-a-youtube-gamers-guide/"><u>[New] 2024 Approved  Best 5 Headsets  A YouTube Gamer's Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dissection-of-fb-video-dimensions/"><u>[New] 2024 Approved  Dissection of FB Video Dimensions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>[New] 2024 Approved  Exclusive Access  Sharing Restricted YouTube Content with EmailID</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-youtube-manage-post-upload-operations/"><u>[Updated] 2024 Approved  How Does YouTube Manage Post-Upload Operations?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-rapid-audio-to-video-conversion-for-youtube-fans/"><u>[Updated] 2024 Approved  Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro/"><u>[Updated] In 2024, Elevating Selfies and Pics on Snapchat – Edit Like a Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-highlighted-viewer-insights-unveiled/"><u>[Updated] In 2024, Highlighted Viewer Insights Unveiled</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-revolutionize-your-workflow-the-top-7-digital-tokens-makers-for-2024/"><u>[Updated] Revolutionize Your Workflow - The Top 7 Digital Tokens Makers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-first-steps-to-creating-a-successful-online-stream/"><u>[Updated] The First Steps to Creating a Successful Online Stream</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>2024 Approved  End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g14-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G14 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users-for-2024/"><u>Converting YouTube Journeys Into Animated Expressions  A Comprehensive Guide for Mobile/Desktop Users for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-musical-instagram-narratives-without/"><u>Crafting Musical Instagram Narratives (Without)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-for-perfect-directx-setup-and-updates/"><u>Easy Steps for Perfect DirectX Setup & Updates</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-asus-rog-phone-8-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Asus ROG Phone 8 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-8-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 8 Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-6s-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-play-8t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Play 8T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-9-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 9 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-ce-3-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord CE 3 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-c12-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f04-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F04 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-moto-g24-by-drfone-android-unlock-android-unlock/"><u>How to unlock Motorola Moto G24</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-film-equipment-for-novice-cinematographers-35mm-to-pands-for-2024/"><u>Ideal Film Equipment for Novice Cinematographers (35Mm to P&S) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-add-filters-and-music-on-windows-11-photos-app/"><u>In 2024, How to Add Filters and Music on Windows 11 Photos App</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>In 2024, Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-zte-nubia-flip-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, ZTE Nubia Flip 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-y36i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y36i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-13t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-samsung-galaxy-a24-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Samsung Galaxy A24</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/s-top-free-quicktime-video-editors-for-beginners-and-pros-for-2024/"><u>S Top Free QuickTime Video Editors for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://techidaily.com/sign-ott-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .ott file Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-x7b-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor X7b</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-galaxy-z-flip-5-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Galaxy Z Flip 5</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola G54 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-edge-40-neo-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nokia C12 Pro</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s17-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S17 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-a1-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on A1 5G</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-v27e-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo V27e</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-techniques-for-effortless-documentation-of-your-online-classesmeets/"><u>Top Techniques for Effortless Documentation of Your Online Classes/Meets</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-7-plus-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 7 Plus by restoring</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vanguard-headgear-companies-for-vr/"><u>Vanguard Headgear Companies for VR</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi won’t play AVCHD .mts files</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-charting-the-course-for-your-youtube-music-narrative/"><u>[New] In 2024, Charting the Course for Your YouTube Music Narrative</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wav-to-aac-5/"><u>最適なWAV to AAC変換ソフトウェアを見つけよう: ベスト5のリコメンド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackview-spacious-and-slow-a-bittersweet-blend/"><u>Blackview: Spacious and Slow - A Bittersweet Blend</u></a></li>
+<li><a href="https://techidaily.com/explore-innovative-solutions-with-abbyy-at-their-may-2024-intelligence-automation-summit/"><u>Explore Innovative Solutions with ABBYY at Their May 2024 Intelligence Automation Summit</u></a></li>
+<li><a href="https://techidaily.com/global-collaboration-boosts-as-kodak-alaris-joins-forces-with-abbyy-for-enhanced-services/"><u>Global Collaboration Boosts as Kodak Alaris Joins Forces with ABBYY for Enhanced Services</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-xr-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone XR without Apple ID?</u></a></li>
+<li><a href="https://techidaily.com/igura-and-abbyy-unite-to-revolutionize-corporate-invoice-management-and-streamline-ap-workflows/"><u>Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/innovative-strides-at-abbyy-with-patrick-jeans-recent-promotion-to-cpo-and-cto-roles/"><u>Innovative Strides at ABBYY with Patrick Jean's Recent Promotion to CPO and CTO Roles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/manual-device-driver-revision-for-vista-users/"><u>Manual Device Driver Revision for Vista Users</u></a></li>
 </ul></div>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

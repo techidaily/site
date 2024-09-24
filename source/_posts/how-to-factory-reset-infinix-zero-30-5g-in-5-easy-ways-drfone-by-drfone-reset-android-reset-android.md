@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Infinix Zero 30 5G in 5 Easy Ways | Dr.fone
-date: 2024-08-01T14:29:43.986Z
-updated: 2024-08-02T14:29:43.986Z
+date: 2024-09-20T16:28:51.784Z
+updated: 2024-09-24T16:06:43.408Z
 tags: 
   - reset
 categories:
@@ -24,14 +24,8 @@ There are two types of reset for every Android device, soft and hard resets. A [
 
 A hard reset, also known as a factory reset and a master reset, returns the Infinix Zero 30 5G device to the condition it was in when it left the factory. Performing a factory reset will permanently delete any and all personal data you have on your device. This includes any personal settings, apps, pictures, documents, and music stored on your device. A factory reset is irreversible, which means before considering taking this step, it is a good idea to back your data and settings up. A factory reset is a great way to purge buggy updates and other malfunctioning software and can give your phone a new lease of life.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Signs You Need to Reset Phone
 
 You'll probably already know if your phone needs a reset, but if you're unsure, look for some of the following signs. If you recognize any of the following symptoms then a factory reset is probably a good idea.
@@ -44,9 +38,6 @@ You'll probably already know if your phone needs a reset, but if you're unsure, 
 
 Remember factory resetting will erase everything on your device, so it's essential that you back up anything you can't afford to lose.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Back Up Your Data Before Factory Reset
 
 There are a number of Android data backup software for PC out there. Having a Google account will help you save your contacts and settings, but it won't save your pictures, documents, or music. There are numerous cloud-based systems available like Dropbox and Onedrive where your data is saved onto a cloud-based server, but you'll need a data connection or wi-fi to restore to your device and of course, you are trusting a third party with your data. We recommend [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). It's easy to use and will save everything and best of all you know exactly where it is.
@@ -58,8 +49,12 @@ Back up and restore data from your device to a computer with a single click. It'
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -75,14 +70,18 @@ Backup & Restore Data Turns Flexible
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
@@ -92,14 +91,8 @@ Also, you can watch this video to learn more details.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/bVYDAhCnKOU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Factory Reset Android Phone
 
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
@@ -114,9 +107,6 @@ Step 2. Find the option for 'Back up and Restore' (please note - using Google to
 
 Step 3. Press the button for 'Factory Data Reset' (please note - this is irreversible)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset android from settings menu](https://images.wondershare.com/drfone/others/factory-reset-from-settings.jpg)
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Infinix Zero 30 5G device resets itself.
@@ -127,14 +117,18 @@ If your phone is misbehaving it might be easier to reset it via Recovery Mode. T
 
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/14587119349819.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. If done correctly. You'll find an image of an Android robot alongside a red exclamation mark and the words 'No command'.
 
@@ -146,9 +140,6 @@ Step 6. Scroll to 'Yes - erase all user data' and to complete the process press 
 
 Please note: Devices running Android 5.1 or above, will still require you to enter your Google Password to complete this reset.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Method 3. Resetting Your Phone Remotely With Android Device Manager
 
 You can also perform a factory reset by using the Android Device manager App. Obviously, you'll need to have Android Device Manager installed on your phone for which you'll need a Google Account.
@@ -157,23 +148,12 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Infinix Zero 30 5G to the Internet and login into your Google account when prompted.
@@ -188,10 +168,14 @@ Dr.Fone will display all the backup files. Select the backup file you would like
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
@@ -201,10 +185,6 @@ Once you've successfully completed your first reset, you'll realize how simple t
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
@@ -228,19 +208,12 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Hard Resetting an Infinix Zero 30 5G Device Made Easy
 
 If you have owned any Infinix Zero 30 5G smartphone, you should know about the UI features these handsets offer. The new age of Color OS has been giving the best client experience. Moreover, it is easier to hard reset your Infinix Zero 30 5G phone if you need to sell a phone. This article will guide you on **resetting Infinix Zero 30 5G phone** with simple steps.
 
 We have shared a step-by-step manual on how you can perform **Infinix Zero 30 5G hard reset**. Several methods are mentioned in this article, and all of them are tested. Resetting any Infinix Zero 30 5G phone is not a hard task. You should know about the right steps. However, we suggest you use Dr.Fone - Data Eraser for better results and more commands. It is hassle-free software and lets you selectively delete the desired data from your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Some Common Causes of Infinix Zero 30 5G Hard Reset
 
 There are many occasions when a person may want to hard reset their Infinix Zero 30 5G phone. Some of these are:
@@ -254,24 +227,22 @@ There are many occasions when a person may want to hard reset their Infinix Zero
 ## Part 2: 2 simple ways to hard reset your Infinix Zero 30 5G
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Hard Reset from Settings
 
 - **Step 1.** Go to the Settings application on your Infinix Zero 30 5G phone and open System Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system settings](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-1.jpg)
 
 - **Step 2.** Go to the “Backup and Reset” menu and click the “Reset Phone” option.
 - **Step 3.** The phone will show numerous choices to reset. It includes resetting network settings, system settings only, contacts, call logs, messages, etc. Moreover, there will be the “Erase All Data” option too.
 - **Step 4.** To **hard reset Infinix Zero 30 5G**, pick the Erase All Data option to reset your device and bring it to factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![erase all data](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-2.jpg)
 
 ### 2\. From Recovery Mode (By Hardware Keys)
@@ -284,28 +255,26 @@ Hard resetting Infinix Zero 30 5G smartphones is also simple, assuming you know 
 
 ![wipe data](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** You will be approached to enter the confirmation code (screen lock PIN).
 - **Step 5:** Complete step 4 and afterward select the Format data choice.
 - **Step 6:** Select OK to finish the hard reset strategy on your Oppo device.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Best Tools to Make your Infinix Zero 30 5G Hard Reset Easier
 
 To make your **Oppo hard reset** experience easier, you need to look for an expert service. We would suggest you use Wondershare Dr.Fone. Dr.Fone is an all-in-one professional software for screen unlock, data erasure, data recovery, system repair, and more. In case of a hard reset, if you have forgotten the screen lock, you can use their Screen Unlock feature. Interestingly, their Data Erasure software provides the full command to its users. You can use it to delete the desired files or fully reset your phone. Overall, it is a safe tool with an almost 100% access rate. It works with almost 99% of the Android phones available in the market and has great customer support service. Therefore, download it right away and make your hard reset experience smoother.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to Use [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 - **Step 1:** After launching Dr.Fone, please use a USB cable to connect your Infinix Zero 30 5G phone. And tap the “Screen Unlock” option.
 - **Step 2:** Please select the left part with 3 phones, “Unlock Android Screen” to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3:** To unlock Infinix Zero 30 5G phone, the left “100% Remove Screen Lock” is the only feasible way. In this interface, we include most android brands. And as Infinix Zero 30 5G user, it’s also in the list we offered.
@@ -314,9 +283,6 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 
 - **Step 4:** Recovery mode is the key step for the whole process. Here is a simple guide to help you hard reset your Infinix Zero 30 5G device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![unlock oppo ](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 - Congrats! You’re able to access your Infinix Zero 30 5G phone without hassle and it’s already hard reset!
@@ -324,8 +290,12 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 ![unlock finisded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Steps to Use [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
@@ -334,9 +304,6 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 - **Step 2:** Connect your Infinix Zero 30 5G phone to the PC through a USB connector.
 - **Step 3:** Click on the “Erase All Data” button to begin. Ensure you have backed up your important files before you continue.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start erase](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 - **Step 4:** Then type in “000000” to affirm your action. Then Dr.Fone will begin deleting all data on your phone.
@@ -345,9 +312,6 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 
 - **Step 5:** Tap on Factory Data Reset or Erase All Data on the phone. This will assist you with totally cleaning up the settings on the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
 - Presently, your Android phone has been wiped, and it can be used as a new one.
@@ -358,20 +322,11 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 
 Resetting an Infinix Zero 30 5G phone can be tricky sometimes; therefore, it should be finished with the right tools and strategies. Above, we have listed multiple ways to **hard reset Infinix Zero 30 5G**. You need to pick the best strategy according to your situation. However, for an easy, solid, protected, and speedy technique, we recommend [Dr.Fone by Wondershare](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It provides multiple tools in a single program and has a higher success ratio compared to the other methods. So install it right away for a speedy hard reset of your Infinix Zero 30 5G device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## You Might Also Like
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Best Fixes For Infinix Zero 30 5G Hard Reset
 
 If you are looking for the best fixes for Infinix Zero 30 5G hard reset, then you have come to the right place. In this guide, we will discuss the best ways to hard reset your Infinix Zero 30 5G device. We will also provide you with some tips and tricks to help you avoid common issues that may arise during the process.
-
 
 Do you want to hard reset your Infinix Zero 30 5G phone? When your phone is not showing its peak performance, it can be very annoying because its working gets slower. If your phone is lagging and apps are not working properly, then there is a problem with its software. The only way to fix this problem is with a hard reset that will restore factory settings in your phone. You can do it to fix your phone or to remove all data if you want to sell it.
 
@@ -379,17 +334,10 @@ If you are facing some troubles with **Infinix Zero 30 5G hard reset**, then we 
 
 ## Using Infinix Zero 30 5G Hard Reset in What Situations?
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1: Erase All Data and Settings
 
 One of the most common reasons for a hard reset is to erase all data and settings from the phone. When your phone runs out of storage, you can only delete the previous data if you want to save something new. Although Infinix Zero 30 5G phones provide a lot of storage and support SD cards, you can only erase unwanted data if you run out of space. Here is the deal, you can save your data on another device like your laptop and do an **Infinix Zero 30 5G hard reset**. This way, you can keep your previous data, make room for new data, and save time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### 2: Restore Your Phone Back to Original Operating System and Apps
 
 If your phone is working slower than usual or starts lagging, you can do a factory reset instead of wasting time figuring out the problem. Most problems in a phone come from trash file build-up and software updates. Suppose your phone doesn't work properly after an update. In that case, you can revert it back to the original operating system by using a factory reset. You can also do it if you don't like an update's new features and settings. Before your **Infinix Zero 30 5G hard reset**, make sure to backup your data on cloud storage to restore it afterward.
@@ -408,9 +356,6 @@ The easiest way to do an **Infinix Zero 30 5G hard reset** is by using the facto
 - Enter the Password and tap reset for confirmation.
 - The system will erase all data and reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 2: Restore with Recovery Mode
 
 Suppose you want to hard reset your locked Infinix Zero 30 5G phone, use the recovery mode. With recovery mode, you don't have to go to settings and erase data after providing the password. The only drawback of using recovery mode is that it is not best for beginners. Follow these steps for your **Infinix Zero 30 5G hard reset** using recovery mode.
@@ -446,9 +391,6 @@ If you want to hard reset your phone just to erase all its data and settings, in
 
 Most people do an **Infinix Zero 30 5G hard reset** because they forget their screen lock or password. But it also erases all their data and settings, which is a big loss just to recover a password of their phones. Instead of doing a hard reset, you can use the Dr.Fone screen unlock feature to unlock any phone without password. You can also reset a new password without any complicated procedure. Here is the guide on how to unlock phones with Dr.Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 - Launch Dr.Fone on your computer, select "screen lock", and use a USB cable to connect your mobile with your computer.
@@ -461,8 +403,12 @@ Most people do an **Infinix Zero 30 5G hard reset** because they forget their sc
 ![device recover interface](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5: [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) (fix some software problems)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -480,9 +426,6 @@ If your phone is lagging, or you want to fix software problems, doing a factory 
 
 - Click on Next and type the code you see on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![code confirmation interface](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ### Bottom Line
@@ -490,7 +433,6 @@ If your phone is lagging, or you want to fix software problems, doing a factory 
 This concludes our article on five ways to hard reset Infinix Zero 30 5G phones. You might be wondering which method is best for your **Infinix Zero 30 5G hard reset**. The best way to factory reset your phone, erase all data, or unlock the screen is by using Dr.Fone. It is multipurpose software that enables users to fix various problems without doing anything. All you need to do is install Dr.Fone on your computer and connect your phone with it. Dr.Fone has various other features like WhatsApp transfer, data recovery, and device transfer.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -504,45 +446,19 @@ This concludes our article on five ways to hard reset Infinix Zero 30 5G phones.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ce-advertising-and-analytics-youtubes-universal-monetization-techniques/"><u>[New] Ace Advertising and Analytics  YouTube's Universal Monetization Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-channeling-creativity-get-green-screen-tips-from-youtube-for-2024/"><u>[New] Channeling Creativity  Get Green Screen Tips From YouTube for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-editing-and-uploading-360-videos-on-youtube/"><u>[New] Step-by-Step  Editing & Uploading 360 Videos on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files-for-2024/"><u>[New] Win 11'S Best Practices  The Ultimate Guide to Saving MOV Files for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-strategies-for-uninterrupted-facebook-broadcasts/"><u>[Updated] In 2024, Essential Strategies for Uninterrupted Facebook Broadcasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-kickstart-your-social-life-setting-up-a-facebook-account/"><u>[Updated] In 2024, Kickstart Your Social Life  Setting up a Facebook Account</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snap-sharing-made-simple-camera-roll-to-social-now/"><u>[Updated] In 2024, Snap Sharing Made Simple  Camera Roll to Social Now</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-x100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo X100 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y36-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y36 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-itel-p55-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel P55 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-defy-2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Defy 2 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-reno-10-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Reno 10 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-vip-racing-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 VIP Racing Edition without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c12-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C12 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oneplus-open-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Open Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-mini-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 13 mini to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-11x-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11X 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-note-50-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Note 50 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-google-pixel-8-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Google Pixel 8 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-c67-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme C67 4GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-beginners-manual-to-using-final-cut-pro/"><u>In 2024, The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-strategy-guide-to-boosting-view-count-on-youtube-shorts/"><u>In 2024, The Ultimate Strategy Guide to Boosting View Count on YouTube Shorts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-on-telegram-a-comprehensive-marketing-guide/"><u>In 2024, Unleash Your Potential on Telegram  A Comprehensive Marketing Guide</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-s17-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo S17 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-gionee-f3-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-new-era-of-youtube-naming-unique-ideas-for-modern-blogging-and-filming-maximum-length-156-characters/"><u>[New] In 2024, The New Era of Youtube Naming Unique Ideas For Modern Blogging & Filming (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>[Updated] In 2024, Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tech-savvy-approach-to-cutting-out-background-noise-in-google-meet/"><u>[Updated] Tech-Savvy Approach to Cutting Out Background Noise in Google Meet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-top-notch-equipment-with-toms-hardware-insights/"><u>Exploring Top-Notch Equipment with Tom's Hardware Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-gt-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 GT If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-12-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 System Issues? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes-for-2024/"><u>Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-resolving-common-issues-with-youtube-troubleshoot-and-fix-any-error/"><u>Ultimate Guide: Resolving Common Issues with YouTube - Troubleshoot & Fix Any Error</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-f15-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy F15 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12-4g-music-recovery-recover-deleted-music-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-music/"><u>Xiaomi Redmi Note 12 4G Music Recovery - Recover Deleted Music from Xiaomi Redmi Note 12 4G</u></a></li>
 </ul></div>
+

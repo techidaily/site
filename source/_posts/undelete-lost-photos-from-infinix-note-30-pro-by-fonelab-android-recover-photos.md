@@ -1,6 +1,6 @@
 ---
 title: Undelete lost photos from Infinix Note 30 Pro.
-date: 2024-08-01T18:24:31.758Z
+date: 2024-09-23T05:11:56.585Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -104,89 +104,37 @@ Soon, all Android available files will be classified into category on the left. 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-final-cut-pro-everything-you-need-to-know/"><u>[New] 2024 Approved  Final Cut Pro – Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-web-development-hacks-embedding-youtubes-playlists-effortlessly/"><u>[New] 2024 Approved  Web Development Hacks  Embedding YouTube's Playlists Effortlessly</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-zooms-audio-recording-features-with-ease/"><u>[New] In 2024, Navigating ZOOM's Audio Recording Features with Ease</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-adjustment-invert-playback-on-vlc-interface/"><u>[New] In 2024, Quick Adjustment  Invert Playback on VLC Interface</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>[New] In 2024, The Key to Stellar Zoom Calls  Smart Use of Filters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instaboomers-hook-your-audience-with-circular-content-for-2024/"><u>[New] InstaBoomers  Hook Your Audience with Circular Content for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-tier-srt-transformations-for-mac-and-windows-pcs/"><u>[New] Top-Tier SRT Transformations for Mac & Windows PCs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-video-integration-for-twitter-content-for-2024/"><u>[New] WhatsApp Video Integration for Twitter Content for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-11-videography-selecting-best-apps/"><u>[New] Windows 11 Videography  Selecting Best Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-recordingratings-analyzer/"><u>[Updated] In 2024, RecordingRatings Analyzer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-masterclass-review-galaxy-s8-with-its-4k-features-for-2024/"><u>[Updated] Masterclass Review  Galaxy S8 with Its 4K Features for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-real-time-vs-recorded-entertainment-twitch-vs-youtube-analysis-for-2024/"><u>[Updated] Real-Time vs Recorded Entertainment  Twitch vs YouTube Analysis for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevate-presentations-harnessing-aiseesoft-screen-recordings/"><u>2024 Approved  Elevate Presentations  Harnessing Aiseesoft Screen Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-and-streamlabs-battle-who-will-triumph-in-live-broadcasts/"><u>2024 Approved  OBS and Streamlabs Battle  Who Will Triumph in Live Broadcasts?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>2024 Approved  The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>2024 Approved  The Most Popular Wedding Countdown Clocks  A Top 10 List (Android/iOS)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-masterclass-choose-your-development-stage/"><u>2024 Approved  YouTube Masterclass  Choose Your Development Stage</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-must-haves-alerts-windows-10-and-11-troubleshooting/"><u>Avoiding 'Must-Haves' Alerts: Windows 10 & 11 Troubleshooting</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-narzo-n53-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme Narzo N53 Device SIM</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-large-screen-problems-on-windows-os/"><u>Fixed Large Screen Problems on Windows OS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-magic-6-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Magic 6 Pro? Try These Fixes</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-google-pixel-8-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Google Pixel 8 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y100i-power-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y100i Power 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-6-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 6 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-xiaomi-redmi-k70-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Xiaomi Redmi K70.</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 Pro 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone XS Max Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-nokia-130-music-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia 130 Music Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-camon-20-premier-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Camon 20 Premier 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-sony-xperia-10-v-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 10 V without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X5 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-yuva-3-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Yuva 3 Pro FRP Bypass</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-m34-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy M34 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-seamless-videos-with-funimate/"><u>In 2024, Guide to Seamless Videos with Funimate</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-ai-an-innovators-toolkit-for-youtube-titles/"><u>In 2024, Harnessing AI  An Innovator's Toolkit for YouTube Titles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-linking-youtubes-harmony-to-imovie-clips-effortlessly/"><u>In 2024, Linking Youtube's Harmony to iMovie Clips Effortlessly</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-online-broadcast-battle-fb-live-and-yt-live-vs-tweetstreams/"><u>In 2024, Online Broadcast Battle  FB LIVE & YT Live Vs. TweetStreams</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lettura-intermedia-per-comunicare-i-numeri-italiani/"><u>Lettura Intermedia per Comunicare I Numeri Italiani</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-sound-modification-tools-from-introduction-to-alternatives-for-2024/"><u>New The Ultimate Guide to Sound Modification Tools From Introduction to Alternatives for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a25-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A25 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-motorola-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-x7b-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor X7b on Windows</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oneplus-nord-3-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of OnePlus Nord 3 5G on Mac</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2019-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2019 Causes & Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-geforce-shader-overheat/"><u>Resolved GeForce Shader Overheat</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2007-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2007 Spreadsheet Disappears after Opening | Stellar</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spinning-stories-across-a-whole-cone-for-2024/"><u>Spinning Stories Across a Whole Cone for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-k11-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo K11 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-f54-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor Magic V2</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-blaze-curve-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Blaze Curve 5G</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-moto-g04-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Moto G04</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-12-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 without Face ID</u></a></li>
-<li><a href="https://techidaily.com/update-drivers-with-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update drivers with Device Manager in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 11/10</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-105-classic-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia 105 Classic Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 11 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-xcover-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy XCover 7 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy S21 FE 5G (2023) ?</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-motorola-edge-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Motorola Edge 40 ?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-top-9-platforms/"><u>Your Ultimate Guide to Top 9 Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-android-time-lapse-techniques-elevate-your-videos/"><u>[New] Android Time-Lapse Techniques Elevate Your Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills-for-2024/"><u>[New] Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-hands-on-techniques-for-storing-vimeo-videos/"><u>[Updated] In 2024, Hands-On Techniques for Storing Vimeo Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamline-webcam-use-on-modern-devices/"><u>2024 Approved Streamline Webcam Use on Modern Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/concern-is-rising-that-equities-have-become-and-too-expensive-to-be-worth-buying-in-the-long-run-despite-recent-gains8/"><u>Concern Is Rising that Equities Have Become and Too Expensive to Be Worth Buying in the Long Run, Despite Recent Gains.[^8]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-system-failure-correcting-stop-error-code-0x00000005c-and-halinitializationfailed/"><u>Effective Fixes for System Failure: Correcting STOP Error Code 0X0#0000005C and HAL_INITIALIZATION_FAILED</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-13-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 13 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-6-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic 6 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp3-to-ogv-file-conversion-made-simple-and-free-by-movavis-web-service/"><u>MP3 to OGV File Conversion Made Simple and Free by Movavi's Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-kernel32dll-fails/"><u>Resolving Kernel32.dll Fails</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-y200-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Y200</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-note-30-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Note 30</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Blocking Crypto Sites in Your Brave Browser Experience"
-date: 2024-09-13T18:39:23.664Z
-updated: 2024-09-18T16:44:23.106Z
+date: 2024-09-21T21:31:37.227Z
+updated: 2024-09-24T11:17:50.795Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/72ca63d6325a67d4b7a844299776fc3c0b1aca644
  Many people find the [Brave](https://brave.com/) browser's privacy features attractive but are turned off by its [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) features and promotions. If you're one of those people, here's how you can remove those elements and enjoy a cleaner, simpler browsing experience.
 
 Related: [What Is Cryptocurrency?](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Remove Cryptocurrency From Brave on Desktop
 
@@ -95,10 +102,10 @@ Related: [What Is a Crypto Wallet?](https://fox-that.techidaily.com/iphone-users
 ![Click the "Edit Cards" button on the New Tab page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-new-tab-edit-cards-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Several optional cards will appear. Find the ones you don't want and click the "Hide" button beneath them.
@@ -123,22 +130,22 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Toggle off all of the Brave Rewards settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If enabled, toggle off the "Ads" option in the Brave Rewards settings so that you no longer see Brave ads in your notification tray.
 
 ![Toggle off the ads for Brave Mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-disable-mobile.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Remove the Brave Rewards Icon From the Address Bar
@@ -146,6 +153,19 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
  Even if you've opted out of Brave Rewards, the icon will stay in the address bar until you hide it. Again pressing the three vertical dots, tap the "Settings" button.
 
 ![Tap "Settings" to access the main settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-option-mobile.png) 
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll until you find the "Appearance" button under the "Display" category and tap it.
 
@@ -163,6 +183,13 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Go to the New Tab Page settings in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-new-tab-page-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here you'll find the toggle for "Show Sponsored Images." Switch it off to disable the ads.
 
 ![Disable sponsored images in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-disable-sponsored-images2.png) 
@@ -177,15 +204,22 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Tap the three-dot icon on the new page widget on Brave.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-widget-three-dots.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to don't want the widget at all, simply select "Remove Widget." But if you want to keep your Privacy Stats or Top Sites on the New Tab page, tap "Edit Stack" instead.
 
 ![Edit the stack or remove the entire widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-widget-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you chose to edit the stack, a "Widget Stack" menu will appear. Tap and hold the three horizontal lines next to "Binance" (or any other card you want to remove). In the lower half of the menu, an "Available" area will appear where you can drag and drop the card.
@@ -195,13 +229,6 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
  Drop the Binance card in the Available area.
 
 ![The Binance card removed from the widget stack in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/binance-card-removed2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should now find the Binance card hidden from the stack on your New Tab page.
 
@@ -224,21 +251,20 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-chucklecreators-sign-up-for-fun-filmmaking/"><u>[Updated] 2024 Approved ChuckleCreators Sign Up for Fun Filmmaking</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-step-by-step-guide-to-thriving-in-discord/"><u>2024 Approved Step-by-Step Guide to Thriving in Discord</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-8t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Reno 8T</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-the-possibility-of-monthly-youtube-income/"><u>In 2024, Exploring the Possibility of Monthly YouTube Income</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-syncing-images-pc-to-iphone-file-sharing/"><u>In 2024, Syncing Images PC-to-iPhone File Sharing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mp4-to-dvd-vob-conversion-guide-for-mac-users-play-and-create-with-ease/"><u>MP4 to DVD-VOB Conversion Guide for Mac Users: Play and Create with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-privacy-in-automation-understanding-deep-learning-data-extraction-risks/"><u>Protecting Privacy in Automation: Understanding Deep Learning Data Extraction Risks</u></a></li>
-<li><a href="https://techidaily.com/recognizing-when-your-laptop-needs-replacing-8-essential-signs/"><u>Recognizing When Your Laptop Needs Replacing: 8 Essential Signs</u></a></li>
-<li><a href="https://techidaily.com/rediscover-traditional-chimes-a-guide-to-restoring-old-school-sounds-for-windows-11-users/"><u>Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/resolving-synchronization-issues-a-step-by-step-guide-to-reinitializing-microsoft-onedrive-in-windows-11/"><u>Resolving Synchronization Issues: A Step-by-Step Guide to Reinitializing Microsoft OneDrive in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/reviving-your-windows-11-network-interface-solutions-to-restore-ethernet-connection-stability/"><u>Reviving Your Windows 11 Network Interface: Solutions to Restore Ethernet Connection Stability</u></a></li>
-<li><a href="https://techidaily.com/setting-up-windows-subsystem-for-linux-wsl-in-windows-11-a-comprehensive-guide/"><u>Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-clearing-your-dns-cache-in-windows-11/"><u>Step-by-Step Guide: Clearing Your DNS Cache in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-eliminating-background-from-images-in-windows-11/"><u>Step-by-Step Guide: Eliminating Background From Images in Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unleash-your-creative-vision-with-youtubes-filmmaking-courses/"><u>Unleash Your Creative Vision with YouTube's Filmmaking Courses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44or44k944kz44oz5zcr44gr44gr44ki44ol44oh55wq57we5pig5yop6yyy55s744og44kv44ol44od44kv44ks5a2m44g2/"><u>パソコン向けにアニメ番組映像録画テクニックを学ぶ</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-content-size-on-igtv-top-5-expert-tips-to-consider-for-2024/"><u>[New] Navigating Content Size on IGTV Top 5 Expert Tips to Consider for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-real-time-artist-streaming-on-douyin-for-2024/"><u>[Updated] Real-Time Artist Streaming on Douyin for 2024</u></a></li>
+<li><a href="https://techidaily.com/4-efektivni-tridy-nahravani-webovyh-stranek-do-audiotekstu-podrobny-pruvodce-s-movavi/"><u>4 Efektivní Třídy Nahrávání Webovyh Stránek Do Audiotekstu: Podrobný Průvodce S Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233783102-productsrecorderproductname/"><u>获取{{ product('srecorder').product_name}}的免费访问金钥匙序列号</u></a></li>
+<li><a href="https://techidaily.com/1726233776256-3gpwma-movavi/"><u>線上即時 3GP至WMA無成本導航 - Movavi 轉換器解決方案</u></a></li>
+<li><a href="https://techidaily.com/best-video-smoothing-applications-of-202-the-year-with-pay-free-choices-available/"><u>Best Video Smoothing Applications of 202 the Year, With Pay-Free Choices Available</u></a></li>
+<li><a href="https://techidaily.com/cambia-file-aac-a-mp3-online-gratuitamente-con-movavi/"><u>Cambia File AAC a MP3 Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/comprendre-les-conditions-du-contrat-de-license-dutilisation-finale-avec-la-logiciel-movavi/"><u>Comprendre Les Conditions Du Contrat De License D'Utilisation Finale Avec La Logiciel Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-note-13-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi Note 13 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-c210-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia C210</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-s18-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo S18 FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/la-guida-per-migrare-i-tuoi-filmati-vhs-preferiti-su-disco-ottico/"><u>La Guida Per Migrare I Tuoi Filmati VHS Preferiti Su Disco Ottico</u></a></li>
+<li><a href="https://techidaily.com/1726233804388-caf/"><u>オンラインで簡単! CAF形式の画像を変換するための特別便利な無料ツール</u></a></li>
 </ul></div>
 

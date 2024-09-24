@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting External Hard Drives Not Detected on Windows 11 Systems: Expert Solutions"
-date: 2024-08-18T03:46:26.960Z
-updated: 2024-08-19T03:46:26.960Z
+date: 2024-09-23T02:23:42.111Z
+updated: 2024-09-23T18:25:38.775Z
 tags:
   - win11
   - win10
@@ -43,6 +43,19 @@ _Skype can’t connect_
 
  3) If you do see message concerning connection problem, all you can do is to wait for Skype technicians to solve it on their end.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Upgrade Skype to the latest version
 
  If you don’t see error message on Skype Heartbeat, then it’s time for you to upgrade your Skype.
@@ -54,6 +67,13 @@ _Skype can’t connect_
  2) Click**Update Classic Skype** or**Try the new Skype** as per your own needs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3ce447ed7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) You can also go the the official website of Skype to download the latest version from there.
 
@@ -89,6 +109,13 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba445219ad3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When prompted to give administrator permission, click**Yes** .
 
  2) Type the following commands. Make sure that you have made no typo and then press the**Enter** key on your keyboard after each command.
@@ -106,11 +133,15 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba44fb14d3b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -125,18 +156,12 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -144,8 +169,6 @@ netsh int tcp show global
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,42 +179,22 @@ netsh int tcp show global
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-ordinary-to-outstanding-a-guide-to-snapchat-edits/"><u>[New] From Ordinary to Outstanding  A Guide to Snapchat Edits</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-evaluating-the-impact-of-true-to-self-imagery-on-instagram/"><u>[Updated] 2024 Approved  Evaluating the Impact of True-to-Self Imagery on Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-your-blueprint-to-mastering-the-snapchat-boomerang-skill/"><u>[Updated] In 2024, Your Blueprint to Mastering the Snapchat Boomerang Skill</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-stop-quittime-video-capture-procedures-for-2024/"><u>[Updated] Stop QuitTime Video Capture Procedures for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transform-tweets-converting-video-to-gifs-at-no-cost/"><u>[Updated] Transform Tweets  Converting Video to GIFs at No Cost</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-side-by-side-display-logging/"><u>2024 Approved  Side-by-Side Display Logging</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-video-brand-enhancement-embedding-logoswatermarks-for-youtube-shows/"><u>2024 Approved  Video Brand Enhancement  Embedding Logos/Watermarks for YouTube Shows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-tp-link-archer-c50-wireless-router-evaluation-balancing-cost-and-capability/"><u>Affordable TP-Link Archer C50 Wireless Router Evaluation: Balancing Cost and Capability</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-k11x-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo K11x Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-google-pixel-fold-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Google Pixel Fold</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/extraterrestrial-excitement-constructive-chaos-of-martian-city-building-games/"><u>Extraterrestrial Excitement: Constructive Chaos of Martian City Building Games</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-play-40c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Play 40C Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-s24plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy S24+ Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-zte-blade-a73-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset ZTE Blade A73 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-k70-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi K70 to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-note-30i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30i without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-fodt-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .fodt file document with Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nubia-z50-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nubia Z50 Ultra Phone When You Forget the Password</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elite-visionaries-video-realm/"><u>In 2024, Elite Visionaries  Video Realm</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y36-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y36</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-c110-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia C110</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oneplus-open-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from OnePlus Open</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-12-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 12 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-note-50-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme Note 50</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-vivo-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Vivo without backup.</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-x50iplus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor X50i+.</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-p55plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from P55+.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-eliminating-crackly-noises-from-speakers-in-windows-operating-systems/"><u>Troubleshooting Guide: Eliminating Crackly Noises From Speakers in Windows Operating Systems</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-p40plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel P40+.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-vivo-g2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Vivo G2.</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-face-off-final-cut-pro-vs-lumafusion-choosing-the-right-fit/"><u>Video Editing Face-Off Final Cut Pro vs LumaFusion - Choosing the Right Fit</u></a></li>
-<li><a href="https://techidaily.com/vivo-y56-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo Y56 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-15-plus-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 15 Plus files after scanning? | Stellar</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-post-360-photos-on-iosandroid-to-facebook-for-2024/"><u>[New] How to Post 360 Photos on iOS/Android to Facebook for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-keeping-up-with-aspect-ratios-for-twitter-content-for-2024/"><u>[New] Keeping Up with Aspect Ratios for Twitter Content for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-spectacularly-in-3d-apt-selection-of-top-decks/"><u>[Updated] 2024 Approved Spectacularly in 3D Apt Selection of Top Decks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-comment-management-turn-it-on-or-off/"><u>[Updated] 2024 Approved YouTube Comment Management Turn It On or Off</u></a></li>
+<li><a href="https://techidaily.com/ogvwebm-movavi/"><u>立即在線將OGV文件更改為WEBM，利用 Movavi 優化易用的影片編輯工具</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-legacy-performance-of-lg-watch-style-powered-by-wear-os-version-20/"><u>Evaluating the Legacy Performance of LG Watch Style Powered by Wear OS Version 2.0</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/online-free-converter-from-ram-to-wma-with-movavi-efficient-simpel-en-betalingsgevoegd/"><u>Online Free Converter From RAM to WMA with Movavi: Efficiënt, Simpel en Betalingsgevoegd</u></a></li>
+<li><a href="https://techidaily.com/online-konvertie-van-wav-naar-mkv-met-gratuite-dienstverlening-movavi/"><u>Online Konvertie Van WAV Naar MKV Met Gratuite Dienstverlening - Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimizing-performance-download-the-updated-sm-bus-controller-software-patch-for-your-dell-pc/"><u>Optimizing Performance: Download the Updated SM Bus Controller Software Patch for Your Dell PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-a-seamless-cs2-experience-fixing-frame-rate-hiccups/"><u>Optimizing Your PC for a Seamless CS2 Experience – Fixing Frame Rate Hiccups</u></a></li>
+<li><a href="https://techidaily.com/raggiungere-i-primati-seo-con-questi-6-strumenti-chiave-nel-mese-di-settembre-del-2024-unire-due-video/"><u>Raggiungere I Primati SEO Con Questi 6 Strumenti Chiave Nel Mese Di Settembre Del 2024 - Unire Due Video</u></a></li>
+<li><a href="https://techidaily.com/solucoes-de-software-para-abranger-arquivos-embalados-no-swf-abra-agora/"><u>Soluções De Software Para Abranger Arquivos Embalados No SWF - Abra Agora!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-path-to-prominence-with-powerful-instagram-video-narratives-for-2024/"><u>The Path to Prominence with Powerful Instagram Video Narratives for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-13-mejores-reproductores-de-webcam-para-windows-10-una-guia-completa/"><u>Top 13 Mejores Reproductores De Webcam Para Windows 10: Una Guía Completa</u></a></li>
+<li><a href="https://techidaily.com/top-15-ferramentas-de-correcao-de-audio-e-video-mais-valorizadas-em-2024-livres-ou-premium/"><u>Top 15 Ferramentas De Correção De Áudio E Video - Mais Valorizadas Em 2024: Livres Ou Premium</u></a></li>
+<li><a href="https://techidaily.com/online-flac-movavi/"><u>무료 앱을 사용하여 Online FLAC 크리티비톡 편집 - Movavi</u></a></li>
 </ul></div>
+

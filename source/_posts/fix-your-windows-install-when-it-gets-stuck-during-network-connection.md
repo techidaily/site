@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2024-09-23T00:57:40.082Z
-updated: 2024-09-24T03:05:05.260Z
+date: 2024-09-20T18:26:36.273Z
+updated: 2024-09-23T16:12:31.177Z
 tags:
   - desktop
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  1\. Check Your Connection
@@ -60,20 +60,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. End the Network Connection Flow Process
@@ -86,6 +85,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Taskmgr command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/taskmgr-command.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Task Manager, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) the "Network Connection Flow" process in the Processes tab and select "End task" from the context menu.
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
@@ -95,10 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
@@ -122,21 +128,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-free-quality-screen-capture-programs-for-windows/"><u>[New] Free, Quality Screen Capture Programs for Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[New] In 2024, 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-get-clear-coffee-stain-free-images-using-ioss-free-app/"><u>[Updated] Get Clear, Coffee Stain-Free Images Using iOS's Free App</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-constructing-premium-canon-chrono-images/"><u>2024 Approved Constructing Premium Canon Chrono Images</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Edge 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nextgen-android-for-immersive-3d-viewing/"><u>In 2024, NextGen Android for Immersive 3D Viewing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplified-pubg-voice-alteration-guide/"><u>In 2024, Simplified PUBG Voice Alteration Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-your-conversation-with-chatgpt-private-understanding-ai-confidentiality-concerns/"><u>Is Your Conversation with ChatGPT Private? Understanding AI Confidentiality Concerns</u></a></li>
-<li><a href="https://driver-download.techidaily.com/realtek-hd-drivers-troubleshooting-made-simple-overcoming-common-errors-and-glitches/"><u>Realtek HD Drivers Troubleshooting Made Simple: Overcoming Common Errors and Glitches</u></a></li>
-<li><a href="https://techidaily.com/top-12-free-mac-image-editing-software-picks-exploring-the-best-choices/"><u>Top 12 Free Mac Image Editing Software Picks - Exploring the Best Choices</u></a></li>
-<li><a href="https://techidaily.com/top-13-webcam-software-solutions-for-windows-10-users-discover-the-ideal-choice/"><u>Top 13 Webcam Software Solutions for Windows 10 Users - Discover the Ideal Choice</u></a></li>
-<li><a href="https://techidaily.com/top-9-ferramentas-de-gestao-fotografica-mais-inovadoras-em-2024-lista-completa/"><u>Top 9 Ferramentas De Gestão Fotográfica Mais Inovadoras Em 2024: Lista Completa</u></a></li>
-<li><a href="https://techidaily.com/transforma-graciosamente-su-videoclip-3gp-en-formato-flv-por-internet-gratis-hace-uso-de-movavi/"><u>Transforma Graciosamente Su Videoclip 3GP en Formato FLV Por Internet Gratis - Hace Uso De Movavi</u></a></li>
-<li><a href="https://techidaily.com/transforma-sus-mp3-a-ausin-problemas-guia-completa-para-usar-movavi-sin-gastos-extras/"><u>Transforma Sus MP3 a AUsin Problemas: Guía Completa Para Usar Movavi Sin Gastos Extras</u></a></li>
-<li><a href="https://techidaily.com/trasforma-file-mp4-in-punti-guida-al-convertitore-di-file-video-on-line-and-app-desktop-con-movavi/"><u>Trasforma File MP4 in Punti: Guida Al Convertitore Di File Video On-Line & App Desktop Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/trasforma-i-file-ogv-in-mp4-gratuitamente-guida-completa-di-movavi/"><u>Trasforma I File OGV in MP4 Gratuitamente: Guida Completa Di Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cinemas-best-shoot-techniques-the-ultimate-guide-for-24-for-2024/"><u>[New] Cinema's Best Shoot Techniques The Ultimate Guide for '24 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-yourself-instagram-live-basics/"><u>[New] In 2024, Unveiling Yourself Instagram Live Basics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-podcast-scriptwriting-skills-demystified-examples-included/"><u>[Updated] 2024 Approved Essential Podcast Scriptwriting Skills Demystified (Examples Included)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-firsthand-look-at-we-trys-le-chat-an-impressive-contender-for-chatgpt/"><u>A Firsthand Look at We Try's Le Chat - An Impressive Contender for ChatGPT?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/action-camera-accessories-buying-guide/"><u>Action Camera Accessories Buying Guide</u></a></li>
+<li><a href="https://techidaily.com/conversao-online-de-imagens-jpeg-para-formato-tiff-gratuita-do-movavi/"><u>Conversão Online De Imagens JPEG Para Formato TIFF Gratuita Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertir-videos-sin-costo-facilmente-cambio-gratuito-de-formatos-m4v-a-mp4-por-medio-de-servicios-en-linea-como-movavi/"><u>Convertir Vídeos Sin Costo Fácilmente: Cambio Gratuito De Formatos M4V a MP4 Por Medio De Servicios en Línea Como Movavi</u></a></li>
+<li><a href="https://techidaily.com/creation-gratuite-de-site-web-pgm-avec-movavi-convertir-votre-pgm-en-ligne-facilement/"><u>Création Gratuite De Site Web PGM Avec Movavi - Convertir Votre PGM en Ligne Facilement!</u></a></li>
+<li><a href="https://techidaily.com/de-gouden-18-bestaan-de-zeven-sterkste-betaalde-foto-sites-in-nederland/"><u>De Gouden 18: Bestaan De Zeven Sterkste Betaalde Foto Sites in Nederland</u></a></li>
+<li><a href="https://techidaily.com/effective-training-video-production-a-step-by-step-guide-with-movavi/"><u>Effective Training Video Production: A Step-by-Step Guide with Movavi</u></a></li>
+<li><a href="https://techidaily.com/en-ligne-et-gratuit-convertissez-vos-fichiers-mp3-en-format-wmv-avec-laide-de-movavi/"><u>En Ligne Et Gratuit: Convertissez Vos Fichiers MP3 en Format WMV Avec L'aide De Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-conversion-of-mmf-media-files-expert-guide-with-movavi-tools/"><u>Free Conversion of MMF Media Files: Expert Guide with Movavi Tools</u></a></li>
+<li><a href="https://techidaily.com/free-mp4-converter-convert-mpe-files-instantly/"><u>Free MP4 Converter - Convert MPE Files Instantly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-intel-wi-fi-6-ax200-driver-installation-guide-for-windows-10-and-11-pcs/"><u>Latest Intel Wi-Fi 6 (AX200) Driver Installation Guide for Windows 10 and 11 PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-transitions-in-audition-fade-in-basics-for-2024/"><u>Mastering Transitions in Audition Fade-In Basics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-free-speech-to-text-apps-for-mac-you-need-to-try-for-2024/"><u>Top Free Speech to Text Apps for Mac You Need to Try for 2024</u></a></li>
 </ul></div>
 

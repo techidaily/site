@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-09-18T01:00:27.465Z
-updated: 2024-09-23T19:57:58.205Z
+date: 2024-09-21T04:26:42.873Z
+updated: 2024-09-24T05:40:46.115Z
 tags:
   - desktop
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Before the X, There Was CS
 
  There’s a very long list of operating systems that have X in their name, especially in the large set of operating systems classed as being _Unix-like_.
@@ -57,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -68,10 +61,10 @@ Dave McKay/How-To Geek
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -92,7 +85,21 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -122,13 +129,6 @@ Dave McKay/How-To Geek
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What’s in a Name?
 
  If it wasn’t for Ari Lemmke we’d be living in a world of Freax, with Arch Freax, Debian Freax, and all the other Freax distributions. And we’d think nothing of it.
@@ -150,22 +150,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-crafting-content-masterpieces-with-these-essential-youtube-tips-for-2024/"><u>[Updated] Crafting Content Masterpieces with These Essential YouTube Tips for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pinnacle-8-android-video-chat-solutions-for-big-teams-for-2024/"><u>[Updated] Pinnacle 8 Android Video Chat Solutions for Big Teams for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-gametime-with-9-platforms/"><u>[Updated] Streamline Your Gametime with #9 Platforms</u></a></li>
-<li><a href="https://techidaily.com/discover-the-best-free-desktop-notetakers-for-windows-11-users-to-enhance-learning-and-organization/"><u>Discover the Best Free Desktop Notetakers for Windows 11 Users to Enhance Learning & Organization</u></a></li>
-<li><a href="https://techidaily.com/diy-green-screen-setup-and-use-in-videos-complete-guide-2024/"><u>DIY Green Screen Setup & Use in Videos - Complete Guide 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-amd-gpu-drivers-for-new-windows-11-systems-rtx-3060-ti-edition/"><u>Download Updated AMD GPU Drivers for New Windows 11 Systems: RTX 3060 Ti Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-setup-windows-compatible-brother-l2540dw-printer-drivers-instructions/"><u>Easy Setup: Windows Compatible Brother L2540DW Printer Drivers Instructions</u></a></li>
-<li><a href="https://techidaily.com/effective-strategies-for-recording-conferences-using-zoom-skype-and-similar-platforms/"><u>Effective Strategies for Recording Conferences Using Zoom, Skype, and Similar Platforms</u></a></li>
-<li><a href="https://techidaily.com/effortlessly-upload-and-convert-your-3gp-videos-to-high-quality-mpeg-no-cost-solution/"><u>Effortlessly Upload and Convert Your 3GP Videos to High-Quality MPEG - No Cost Solution!</u></a></li>
-<li><a href="https://techidaily.com/ferramenta-de-conversao-gratuita-para-webp-files-site-do-movavi/"><u>Ferramenta De Conversão Gratuita Para Webp Files - Site Do Movavi</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-mp4-to-m4v-by-movavi-get-your-videos-transformed/"><u>Free Online Converter MP4 to M4V by Movavi - Get Your Videos Transformed!</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-change-ogg-audiovideo-to-mov-format-with-ease/"><u>Free Online Converter: Change .ogg Audio/Video to .mov Format with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/let-chatgpt-be-your-movie-and-show-guide-discover-what-to-watch-next/"><u>Let ChatGPT Be Your Movie and Show Guide: Discover What to Watch Next</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformez-vos-videos-mov-en-fichiers-audio-flac-facilement-et-gratuitement-videoconveter/"><u>Transformez Vos Vidéos MOV en Fichiers Audio FLAC Facilement Et Gratuitement – VidéoConveter</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-hp-laserjet-5200-with-easy-driver-downloads-for-windows-11-10-and-8/"><u>Update Your HP LaserJet 5200 with Easy Driver Downloads for Windows 11, 10 & 8</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/flv-to-mov-online-movavi/"><u>무료 FLV to MOV 변환 - Online 콘텐츠를 유지하면서 Movavi로 제공</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-rhythmic-resonance-top-10-yogis-on-the-web/"><u>[New] 2024 Approved Rhythmic Resonance Top 10 Yogis on the Web</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-professional-video-editing-mastery-of-strikethrough-annotations/"><u>[New] In 2024, Professional Video Editing Mastery of Strikethrough Annotations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-earning-money-on-reddit-for-beginners/"><u>[New] The Ultimate Guide to Earning Money on Reddit for Beginners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-diaspora-user-visualization-measurements-format-length/"><u>[Updated] Diaspora User Visualization Measurements, Format, Length</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-zte-blade-a73-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On ZTE Blade A73 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-ultime-comment-ameliorer-la-performance-de-votre-pc-pour-les-jeu-videos-sous-windows-11/"><u>Guide Ultime : Comment Améliorer La Performance De Votre PC Pour Les Jeu Vidéos Sous Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 5G Phone without Google Account?</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
+<li><a href="https://techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
+<li><a href="https://techidaily.com/mpewma/"><u>MPEファイルからWMAへの完全無料変換ツール - ムーヴェイビ</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-vignette-mastery-the-best-ios-and-android-apps-free-and-paid/"><u>New 2024 Approved Vignette Mastery The Best iOS and Android Apps Free & Paid</u></a></li>
+<li><a href="https://techidaily.com/o-guia-definitivo-selecionando-a-ferramenta-perfeita-de-edicao-de-video-do-gopro-em-2024/"><u>O Guia Definitivo: Selecionando a Ferramenta Perfeita De Edição De Video Do GoPro Em 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-clicking-exploring-how-generative-ai-is-revolutionizing-user-interfaces/"><u>The End of Clicking: Exploring How Generative AI Is Revolutionizing User Interfaces</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-smart-7-hd-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Smart 7 HD Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/mxf-wmv-online-free-converter-movavi/"><u>영구제 MXF WMV 혼합을 원호하여 Online Free Converter - Movavi</u></a></li>
 </ul></div>
 

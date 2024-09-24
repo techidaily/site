@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2024-09-17T01:04:41.685Z
-updated: 2024-09-24T04:17:09.458Z
+date: 2024-09-19T04:50:25.787Z
+updated: 2024-09-24T05:41:43.725Z
 tags:
   - desktop
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Installed Tab on Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-installed-tab-on-extension-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, Ubuntu ships with a few extensions out of the box, as shown under System Extensions. If you like, you can disable them from here or customize them by clicking on the settings icon. However, we are interested in installing a few extensions. To do this, switch to the "Browse" tab and search for the following extensions:
 
 * Dash to Panel (by Charlesg99) or Dash to Dock (by Michele\_g): _(don't enable both extensions together as that might cause problems)_
@@ -53,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Recommended Extensions Installed in Ubuntu Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-recommended-extensions-installed-in-ubuntu-extension-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, let's take a quick look at each of the extensions. Starting with Dash to Panel, it transforms the dash (the iconic left-side apps panel on Ubuntu) into a panel similar to the Windows taskbar. Alternatively, you can use Dash to Dock to transform the dash into a macOS-like dock.
 
 Close 
@@ -62,37 +62,37 @@ Close
 ![Extensions changing the look and functionality of Ubuntu desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-ubuntu-desktop-with-recommended-extensions-enabled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can go inside the settings menu for each of these extensions to further fine-tune how they work. For example, inside ArcMenu's settings page, you can access tons of different menu layouts and granular control over how you want to style it.
 
 ![ArcMenu different menu laypouts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-arcmenu-different-menu-laypouts.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Speaking of control, Just Perfection gives you access to a ton of settings and options to fine-tune the GNOME UI elements. You can use it to enable/disable UI elements and quick settings, customize the overall styling and presentation, and even control the general behavior of the desktop environment.
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
  Here's a guide to using [KDE Connect on Windows](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/). You can expect the same features and workflow with GSConnect on Ubuntu as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make These Three GNOME Tweaks
 
@@ -103,13 +103,6 @@ Close
  GNOME Tweaks gives you control over the appearance, sound, and other aspects of the operating system. I'd encourage you to _tweak around_ with the various settings. If you want some directions, first head over to Startup Applications. It allows you to select apps to auto-start on your system as soon as you turn on your Ubuntu desktop.
 
 ![Set Startup Applications with GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/11-set-startup-applications-with-gnome-tweaks.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, head over to the "Windows" section and make these two tweaks:
 
@@ -125,10 +118,16 @@ Close
 ![Set Hot Corner and Activie Screen Edges in GNOME Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/13-set-hot-corner-and-activie-screen-edges-in-gnome-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With Hot Corner enabled, you can trigger the Activities Overview by quickly navigating your mouse cursor to the top-left corner of the screen. This can be handy if you have the ArcMenu running and the Activities Overview button disabled—which is how I run my system.
@@ -144,6 +143,13 @@ Close
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
 
 ![Setting Default Apps on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16-setting-default-apps-on-ubuntu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,25 +170,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-overcoming-low-light-footage-issues-on-your-iphone/"><u>[Updated] Overcoming Low-Light Footage Issues on Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/mp3-ogv-movavi/"><u>「お金をかけずに MP3 と OGV 形式で音楽ファイルを簡単に変換:Movavi」</u></a></li>
-<li><a href="https://techidaily.com/mp4-movavi-aac/"><u>在线无花言不语MP4转换：以 Movavi 为首选，AAC 格式自由免费</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connect-and-mirror-a-comprehensive-walkthrough-for-lg-smart-tvs/"><u>Connect and Mirror: A Comprehensive Walkthrough for LG Smart TVs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/focusfulness-selecting-online-video-augmenters/"><u>Focusfulness Selecting Online Video Augmenters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gopro-expertise-essential-techniques/"><u>GoPro Expertise Essential Techniques</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-13-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 13 Pro Apple ID and Apple Pay</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-digital-audio-wizardry-turning-fb-videos-into-mp3/"><u>In 2024, Digital Audio Wizardry Turning FB Videos Into MP3</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-huawei-nova-y91-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Huawei Nova Y91 Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-12plus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme 12+ 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovate-your-intonation-ranking-the-best-audio-modification-apps-for-mobile-for-2024/"><u>Innovate Your Intonation Ranking the Best Audio Modification Apps for Mobile for 2024</u></a></li>
-<li><a href="https://techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
-<li><a href="https://techidaily.com/movavis-free-tool-for-quickly-transforming-m4r-files-into-mp3-format-on-the-web/"><u>Movavi's Free Tool for Quickly Transforming M4R Files Into MP3 Format on the Web</u></a></li>
-<li><a href="https://techidaily.com/mp4-conversion-tool-seamless-mov-to-mp4-upgrade-for-free-with-movavis-online-service/"><u>MP4 Conversion Tool - Seamless MOV to MP4 Upgrade for Free with Movavi's Online Service</u></a></li>
-<li><a href="https://techidaily.com/online-free-rmvb-to-mp4-converter-fast-e-fai-da-te-with-videmovil/"><u>Online Free RMVB to MP4 Converter - Fast E Fai Da Te with VideMovil</u></a></li>
-<li><a href="https://techidaily.com/online-vidora-ljud-en-guid-till-att-extrahera-klarton-fran-videos-for-bra-seo/"><u>Online Vidöra Ljud: En Guid Till Att Extrahera Klarton Från Videos För Bra SEO</u></a></li>
-<li><a href="https://techidaily.com/protect-your-digital-content-with-movavis-advanced-multimedia-software-solutions/"><u>Protect Your Digital Content with Movavi's Advanced Multimedia Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/simova-movie-transformation-tool-securely-discounted-purchase/"><u>SiMoVa Movie Transformation Tool - Securely Discounted Purchase</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-gaming-how-to-stop-assassins-creed-odyssey-from-crashing-on-windows-pc/"><u>Smooth Gaming: How to Stop Assassin's Creed Odyssey From Crashing on Windows PC</u></a></li>
-<li><a href="https://techidaily.com/switch-your-audio-effortlessly-upload-and-convert-avi-to-wma-file-types-at-zero-charge-using-our-simple-tool/"><u>Switch Your Audio: Effortlessly Upload and Convert AVI to WMA File Types at Zero Charge Using Our Simple Tool</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-11-tricks-for-facebook-video-marketing-to-drive-more-traffic/"><u>[New] In 2024, 11 Tricks for Facebook Video Marketing to Drive More Traffic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-0-to-million-views-the-ultimate-content-blueprint/"><u>[Updated] From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-best-gopro-cases-review/"><u>2024 Approved Top 10 Best GoPro Cases Review</u></a></li>
+<li><a href="https://techidaily.com/conversao-de-video-wmv-para-formato-3g2-online-e-gratuito-pelo-movavi/"><u>Conversão De Vídeo WMV Para Formato 3G2 Online E Gratuito Pelo Movavi</u></a></li>
+<li><a href="https://techidaily.com/convert-and-edit-videos-with-movavi-on-your-mac-ideal-for-various-codecs-and-formats/"><u>Convert and Edit Videos with Movavi on Your Mac: Ideal for Various Codecs and Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/endgame-achievement-overcoming-pubgs-dxgidll-challenge/"><u>Endgame Achievement - Overcoming PUBG's Dxgi.dll Challenge</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-audio-files-to-webm-format-using-movavi-tools/"><u>Free Online Converter: Change MP4 Audio Files to WebM Format Using Movavi Tools</u></a></li>
+<li><a href="https://techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-14-ultra-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi 14 Ultra online without jailbreak</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-z-fold-5-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy Z Fold 5 Without PUK Codes</u></a></li>
+<li><a href="https://techidaily.com/ntsc-versus-pal-analise-abrangente-dos-diferentes-formatos-de-video-e-seu-desempenho/"><u>NTSC versus PAL: Análise Abrangente Dos Diferentes Formatos De Vídeo E Seu Desempenho</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-without-interrups-find-the-best-7-android-adblock-tools-for-2024/"><u>Prowl Without Interrups Find the Best 7 Android AdBlock Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
+<li><a href="https://techidaily.com/wmaaiff-movavi/"><u>コストなしでWMAとAIFFを変換する – オンラインツール集（Movavi）</u></a></li>
 </ul></div>
 

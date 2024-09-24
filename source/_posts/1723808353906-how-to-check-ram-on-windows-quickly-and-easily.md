@@ -1,7 +1,7 @@
 ---
 title: How to Check RAM on Windows | Quickly & Easily.
-date: 2024-08-18T03:40:43.566Z
-updated: 2024-08-19T03:40:43.566Z
+date: 2024-09-22T07:12:17.056Z
+updated: 2024-09-24T01:27:31.593Z
 tags:
   - win11
   - win10
@@ -34,7 +34,21 @@ Here’s how to check your DirectX version:
 2. Check out your **DirectX version** in the first page of the report.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Update DirectX
 
@@ -47,11 +61,16 @@ Here’s how to check your DirectX version:
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click**Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -59,24 +78,38 @@ Here’s how to check your DirectX version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers to improve your gaming experience
 
@@ -94,9 +127,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,8 +144,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,43 +153,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-building-believable-characters-through-dialogue/"><u>[New] Building Believable Characters Through Dialogue</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-storing-success-top-strategies-for-mov-and-mov-files-in-windows-for-2024/"><u>[New] Storing Success  Top Strategies for Mov and .mov Files in Windows for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-fb-campaigns-the-20-premier-video-tactics/"><u>[Updated] In 2024, Elevate Your FB Campaigns  The 20 Premier Video Tactics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>2024 Approved  How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-pioneering-sites-for-downloading-text-aesthetics/"><u>2024 Approved  Pioneering Sites for Downloading Text Aesthetics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-aerial-cameras-unleashing-creative-potential/"><u>2024 Approved  Top 10 Aerial Cameras  Unleashing Creative Potential</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-wifi-excellence-unveiled-tp-link-archer-c9-in-depth-analysis/"><u>Affordable WiFi Excellence Unveiled - TP-Link Archer C9 In-Depth Analysis</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-motorola-edge-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge 40 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/blueprints-to-build-secure-window-for-hardware-unhook/"><u>Blueprints to Build Secure Window for Hardware Unhook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-prophecy-powers-how-does-chatgpt-stack-up-against-magazine-astrology/"><u>Comparing Prophecy Powers: How Does ChatGPT Stack Up Against Magazine Astrology?</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-edge-40-neo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Edge 40 Neo Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/embracing-next-gen-connectivity-the-dawn-of-verizon-5g/"><u>Embracing Next-Gen Connectivity: The Dawn of Verizon 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-integrating-a-subwoofer-into-your-samsung-acoustic-setup/"><u>Expert Advice on Integrating a Subwoofer Into Your Samsung Acoustic Setup</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/fixed-why-wont-my-laptop-speakers-work-and-what-to-do-about-it/"><u>Fixed! Why Won't My Laptop Speakers Work and What To Do About It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-tablet-screen-discover-these-8-helpful-tips/"><u>Fixing a Non-Responsive Tablet Screen? Discover These 8 Helpful Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-vs-2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic Vs 2 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-note-30-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-g24-power-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola G24 Power Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-xr21-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia XR21 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-find-n3-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo Find N3</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>In 2024, Top Pick  Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pinnacle-screenshots-on-mac-a-deep-dive-into-top-apps-for-2024/"><u>Pinnacle Screenshots on Mac  A Deep Dive Into Top Apps for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-nokia-c12-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Nokia C12 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-12-pro-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 12 Pro Suddenly | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-x7b-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor X7b without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nubia-red-magic-9-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nubia Red Magic 9 Pro without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-g54-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola G54 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-x7-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find X7 Ultra Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-pova-5-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Pova 5.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a59-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A59 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-sony-xperia-10-v-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Sony Xperia 10 V.</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-ready-to-distort-top-free-online-glitch-generators/"><u>Updated 2024 Approved Get Ready to Distort Top Free Online Glitch Generators</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-s24plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy S24+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/7-days-to-die-reborn-how-the-developers-facelifted-zombies-for-an-exciting-sandbox-adventure/"><u>'7 Days to Die' Reborn: How the Developers Facelifted Zombies for an Exciting Sandbox Adventure!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unveiling-the-premier-online-convertors-from-youtube/"><u>[Updated] 2024 Approved Unveiling the Premier Online Convertors From YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-avplayer-xpress-for-mobile-and-desktop-users/"><u>[Updated] Premium AVPlayer Xpress for Mobile & Desktop Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-create-internet-laughter/"><u>2024 Approved Create Internet Laughter</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>2024 Approved Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://techidaily.com/1726233754916-movavi/"><u>今なりたけ！Movavi 割引キャンペーン - 安価で質の高い動画変換ソフトをお見せします。</u></a></li>
+<li><a href="https://techidaily.com/1726233776782-wma-movavi/"><u>網路無限 WMA格式自由轉換 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/54sh5paz44gn5l244gi44kl57eo6zug44ox44ot44kw44op44og44cq5yaz55yf44cr44oa44km44oz44ot44o844oj5oml6acg/"><u>無料で使える編集プログラム【写真】ダウンロード手順</u></a></li>
+<li><a href="https://techidaily.com/1726233743767-movavi/"><u>易用技巧：以最快速度進行影片逆向和正常切換教程 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233757455-avi-mjpeg/"><u>AVI를 MJPEG로 간단한 방식으로 온라인이 자연스럽게 가동: 무료 변환 서비스</u></a></li>
+<li><a href="https://techidaily.com/cambia-file-avi-a-oggv-liberamente-online-gratuito-con-movavi/"><u>Cambia File AVI a OGGV Liberamente Online - Gratuito Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/cambio-gratuito-nef-a-formato-bmp-online-por-expertos-en-conversion-soluciones-de-movavi/"><u>Cambio Gratuito NEF a Formato BMP Online Por Expertos en Conversión - Soluciones De Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-track-to-flawless-steam-playback-remedying-performance-issues-now/"><u>Fast Track to Flawless Steam Playback: Remedying Performance Issues Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sleek-screenscape-top-wallpapers-for-your-device/"><u>In 2024, Sleek Screenscape Top Wallpapers for Your Device</u></a></li>
+<li><a href="https://techidaily.com/1726233802138-movavi/"><u>Movaviの力を体感せよ! 信頼性高いインフュージョナーからの支持とレビュー</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-amd-freesync-incompatibility-hurdles/"><u>Overcoming AMD FreeSync Incompatibility Hurdles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/travel-film-kit-the-necessary-arsenal/"><u>Travel Film Kit The Necessary Arsenal</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-the-power-of-personalized-zodiac-inspired-biographies-for-2024/"><u>Unlocking the Power of Personalized Zodiac-Inspired Biographies for 2024</u></a></li>
+<li><a href="https://techidaily.com/1726233762542-webp-jpeg-movavi/"><u>Webp 공간을 절약하기 위한 JPEG 이미지의 비용 없는 온라인 변환 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233691843-movavi/"><u>모바비의 사용자 지원 센터: 고객 이해 안보를 제공하는 Movavi의 영역</u></a></li>
 </ul></div>
+

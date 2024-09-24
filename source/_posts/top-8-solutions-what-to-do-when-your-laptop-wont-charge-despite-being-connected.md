@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-09-22T20:38:21.090Z
-updated: 2024-09-24T00:43:11.093Z
+date: 2024-09-23T01:02:51.389Z
+updated: 2024-09-23T21:01:21.171Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -30,26 +37,46 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -77,22 +104,15 @@ Aman Kumar / How-To Geek
 
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Allow Your Laptop to Cool Down
@@ -109,13 +129,6 @@ Aman Kumar / How-To Geek
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  7\. Reinstall the Battery Drivers
 
  Windows relies on the battery driver to maintain proper communication with your laptop's battery. If the battery driver becomes corrupted due to software conflicts, hardware issues, or other factors, Windows will lose communication with the battery, leading to the problem you're experiencing.
@@ -131,19 +144,6 @@ Aman Kumar / How-To Geek
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
@@ -164,10 +164,10 @@ Aman Kumar / How-To Geek
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
@@ -193,20 +193,22 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-exploring-instagrams-hidden-gems-accessing-no-cost-filters-for-2024/"><u>[New] Exploring Instagram's Hidden Gems Accessing No-Cost Filters for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-memorable-moments-downloading-tweets-emotive-graphics/"><u>[Updated] In 2024, Memorable Moments Downloading Tweets’ Emotive Graphics</u></a></li>
-<li><a href="https://techidaily.com/aiwav-movavi/"><u>網路無限 AI語音轉WAV - 便利的 MOVAVI 自動語言過濾與轉檔工具</u></a></li>
-<li><a href="https://techidaily.com/ai-mov-movavi/"><u>自由下載無成本 AI 到 MOV 格式 - 使用 Movavi 翻譯器</u></a></li>
-<li><a href="https://techidaily.com/best-video-editing-software-choices-for-newbies-a-ranked-guide/"><u>Best Video Editing Software Choices for Newbies : A Ranked Guide</u></a></li>
-<li><a href="https://techidaily.com/conversion-facile-et-gratuite-de-fichiers-webm-vers-3gp-en-ligne-solutions-avec-movavi/"><u>Conversion Facile Et Gratuite De Fichiers WEBM Vers 3GP en Ligne - Solutions Avec Movavi</u></a></li>
-<li><a href="https://techidaily.com/conversion-gratuit-de-fichiers-mka-en-mp4-facile-et-rapide-avec-movavi/"><u>Conversion Gratuit De Fichiers MKA en MP4 - Facile Et Rapide Avec Movavi</u></a></li>
-<li><a href="https://techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-short-chords-long-stories-musical-roles-played/"><u>In 2024, Short Chords, Long Stories Musical Roles Played</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-performance-meets-style-in-the-netgear-nighthawk-rax80-the-ultimate-wi-fi-hyphen-6-analysis/"><u>Innovative Performance Meets Style in the Netgear Nighthawk RAX80 - The Ultimate Wi-Fi ([Hyphen]) 6 Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-messaging-glitch-here-are-10-tips-for-a-smooth-solution/"><u>IPhone Messaging Glitch? Here Are 10 Tips for a Smooth Solution!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-fast-to-slow-a-comprehensive-guide-to-windows-live-movie-makers-slow-motion-effect/"><u>New In 2024, From Fast to Slow A Comprehensive Guide to Windows Live Movie Makers Slow Motion Effect</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-ai-dialogue-the-ultimate-list-of-techniques/"><u>Optimizing AI Dialogue: The Ultimate List of Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-chatgpt-legal-hurdles-fresh-insights-into-google-news-redesign-and-enhancing-mobile-internet-access-abroad/"><u>Overcoming ChatGPT Legal Hurdles: Fresh Insights Into Google News Redesign & Enhancing Mobile Internet Access Abroad</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rhythm-ringtone-converting-tamil-music-into-phone-chimes-for-2024/"><u>Rhythm Ringtone Converting Tamil Music Into Phone Chimes for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-precision-recording-for-instagram-story-enthusiasts/"><u>[New] In 2024, Precision Recording for Instagram Story Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-spotlight-on-recent-unfollows-on-instagram/"><u>[New] Spotlight on Recent Unfollows on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[Updated] In 2024, Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-g42-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Nokia G42 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-with-steelseries-arctis-pro-mic-and-easy-repair-solutions-unveiled/"><u>Common Problems with SteelSeries Arctis Pro Mic & Easy Repair Solutions Unveiled</u></a></li>
+<li><a href="https://techidaily.com/convertisseur-gratuit-en-ligne-de-fichiers-wav-a-format-mp4-movavi/"><u>Convertisseur Gratuit en Ligne De Fichiers WAV À Format MP4 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertissez-votre-video-mpe-en-gif-gratuit-en-ligne-rapidement-grace-a-movavi-solution-de-conversion-avancee/"><u>Convertissez Votre Vidéo MPE en GIF Gratuit en Ligne Rapidement Grâce À Movavi - Solution De Conversion Avancée</u></a></li>
+<li><a href="https://techidaily.com/descubre-la-forma-rapida-y-gratuita-de-transformar-tus-videos-aifc-en-calidad-m4a-usando-movavi-online-converter/"><u>Descubre La Forma Rápida Y Gratuita De Transformar Tus Videos AIFC en Calidad M4A Usando Movavi Online Converter</u></a></li>
+<li><a href="https://techidaily.com/download-converter-online-free-mp4-to-3gp-transformation-by-movavi/"><u>Download Converter Online: Free MP4 to 3GP Transformation by Movavi</u></a></li>
+<li><a href="https://techidaily.com/download-official-imovie-software-for-your-windows-pc-step-by-step-guide/"><u>Download Official iMovie Software for Your Windows PC: Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/easily-turn-videos-right-side-up-on-android-phones-with-movavi-clips-complete-tutorial/"><u>Easily Turn Videos Right Side Up on Android Phones with Movavi Clips - Complete Tutorial</u></a></li>
+<li><a href="https://techidaily.com/explore-the-premier-alternatives-to-chatgpt-featuring-innovative-free-and-paid-artificial-intelligence-chatbots/"><u>Explore the Premier Alternatives to ChatGPT : Featuring Innovative Free & Paid Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://techidaily.com/final-cut-pro-fur-windows-ab-2024-erschaffung-der-cele-mai-bune-bune-version-9-alternativen/"><u>Final Cut Pro Für Windows Ab 2024: Erschaffung Der Cele Mai Bune Bune Version 9-Alternativen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C12 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-the-skill-of-learning-behind-screen-scenes-for-2024/"><u>Master the Skill of Learning Behind Screen Scenes for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726219476854-wavmp3-movavi/"><u>オンラインでも簡単な無料WAVファイルをMP3に変換 - Movavi</u></a></li>
 </ul></div>
 

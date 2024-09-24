@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Strategies: Harnessing Consumer Understanding in the Intelligent Enterprise Era"
-date: 2024-08-22T08:25:14.645Z
-updated: 2024-08-23T08:25:14.645Z
+date: 2024-09-18T00:51:28.894Z
+updated: 2024-09-23T18:54:23.340Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
@@ -28,6 +28,13 @@ Joining us on the panel was Shanx Tripathi from [IBM Consulting](https://www.ibm
 
 With [recent research by ABBYY](https://tools.techidaily.com/abbyy/products/) identifying “vague automation goals” as the top reason for automation projects to fail, I was keen to know how IT leaders determine where to start their automation journeys.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Knowing where to start
 
 As one of the biggest commercial real estate companies in the world, JLL had a multitude of forms, documents, and contracts that were being processed manually. The need for automation became clear in their efforts to improve document-centric processes in all aspects of the company—but equally as important was the need for a scalable solution and tech stack that could handle their continuous growth.
@@ -46,9 +53,6 @@ He discovered the industry average for onboarding was between 60 to 70 days with
 
 It’s not about taking an existing process and automating it, he said, but “reimagining what you were trying to do in that old process to begin with.”
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### The importance of staying on time
 
 One of the biggest challenges of undergoing digital transformation is staying on target with your timeline and meeting the designated KPIs. Research commissioned by ABBYY showed one-in-five abandoned their automation project completely (22 percent).
@@ -59,6 +63,13 @@ For Shanx, meeting deadlines is heavily dependent on diversity in your automatio
 
 He believes that maintaining clarity in documenting your true end-to-end process and having the right kind of tool attached to each fragment of that newly imagined journey will help you stay on target.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Intelligent Document Processing in Financial Services: Use Cases
 
 eBook
@@ -66,8 +77,18 @@ eBook
 [Learn more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Examples of measuring value
 
 Apart from the fantastic achievement of reducing customer onboarding times in banking, Shanx spoke of his success with clients in the insurance industry. He was responsible for reducing claims processing times from an average of 16-20 days down to just one day, following the introduction of a digitized system to rapidly resolve identified genuine claims, such as when there is obvious damage.
@@ -78,9 +99,6 @@ The process was previously manual, meaning staff had to print out information an
 
 JLL saw benefits of transformation from the perspective of operational risk and operational efficiency but hadn’t foreseen the huge impact on employee experience. Their staff had been going through 10 different processes manually and felt they weren’t contributing to any kind of worth for the organization in doing this. After automation, employees could focus that time on more important components of their job which led to a huge increase in morale, according to a company survey.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Meet demands for self-service
 
 One area that has been driving automation is the demand for self-service from customers, who’d rather complete their requests online than in person. With machine learning and generative AI now in the mix, the pressure for self-service options is greater than ever.
@@ -97,10 +115,6 @@ Swaraj admits that one of JLL’s biggest mistakes was not using process mining 
 
 He also believes they need to be better at aligning their visions for automation with actual delivery, and in terms of delivery timelines believes it’s important to break down requirements into small achievable parts rather than trying to roll out in one go.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Future use of intelligent automation
 
 Looking to the future, both of our panelists believe that generative AI and large language models will be a key driver in automation.
@@ -114,8 +128,12 @@ You can access the entire customer panel session with JLL and IBM Consulting [he
 ![Neilmurphy 99X99](https://static1.abbyy.com/abbyycommedia/25709/neilmurphy-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Neil Murphy
 
 Vice President, Global Channel Chief at ABBYY
@@ -124,9 +142,6 @@ Neil Murphy is Vice President, Global Channel Chief and in his role now responsi
 
 Over the years, Neil has worked with a variety of industry sectors ranging from Finance, Insurance, Healthcare to Government focusing on transforming their legacy approach to back and front office processes such as Accounts Payable, customer onboarding, and consumer loyalty programmes to name a few.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Additional Insights:
 
 1 / 3 
@@ -181,8 +196,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,47 +205,16 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-11-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-best-practices-in-extracting-youtube-media/"><u>[New] 2024 Approved  Best Practices in Extracting YouTube Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-discoveries-await-5-essential-maps-for-richer-gameplay/"><u>[New] Discoveries Await  5 Essential Maps for Richer Gameplay</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-revolutionize-your-podcast-with-these-ai-name-makers/"><u>[Updated] 2024 Approved  Revolutionize Your Podcast with These AI Name Makers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivating-a-positive-mindset-against-cyberbullying-for-2024/"><u>[Updated] Cultivating a Positive Mindset Against Cyberbullying for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-design-tips-for-captivating-facebook-slideshows/"><u>[Updated] In 2024, Design Tips for Captivating Facebook Slideshows</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business/"><u>[Updated] The Entrepreneur's Playbook  Gather These Vital Products to Thrive in Business</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-your-iphone-the-top-techniques-for-skyline-pics/"><u>2024 Approved  Unleashing Your iPhone  The Top Techniques for Skyline Pics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-13c-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi 13C to Roku | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/5-best-gba-emulators-for-ios-you-can-find/"><u>5 Best GBA Emulators for iOS You Can Find</u></a></li>
-<li><a href="https://techidaily.com/all-about-wsus-your-complete-introduction-to-windows-server-updates-management/"><u>All About WSUS: Your Complete Introduction to Windows Server Updates Management</u></a></li>
-<li><a href="https://techidaily.com/1723808190964-boost-your-pcs-gameplay-in-windows-11-top-tips-and-tricks/"><u>Boost Your PC's Gameplay in Windows 11 – Top Tips and Tricks</u></a></li>
-<li><a href="https://techidaily.com/compact-chinese-desktop-features-reversible-design-with-external-pcie-port/"><u>Compact Chinese Desktop Features Reversible Design with External PCIe Port</u></a></li>
-<li><a href="https://techidaily.com/cyberpunk-2077-graphics-appear-fuzzy-solutions-inside/"><u>Cyberpunk 2077 Graphics Appear Fuzzy: Solutions Inside</u></a></li>
-<li><a href="https://techidaily.com/discover-top-hardware-picks-with-toms-technology-experts/"><u>Discover Top Hardware Picks with Tom's Technology Experts</u></a></li>
-<li><a href="https://techidaily.com/discover-your-motherboard-type-with-simple-steps/"><u>Discover Your Motherboard Type with Simple Steps</u></a></li>
-<li><a href="https://techidaily.com/easy-to-convert-pdf-to-excel/"><u>Easy to Convert PDF to Excel</u></a></li>
-<li><a href="https://techidaily.com/1723808333609-effortless-connection-pair-your-bluetooth-speaker-with-your-laptop-today/"><u>Effortless Connection: Pair Your Bluetooth Speaker with Your Laptop Today!</u></a></li>
-<li><a href="https://techidaily.com/effortlessly-update-your-gmail-passkey-in-just-a-few-clicks/"><u>Effortlessly Update Your Gmail Passkey in Just a Few Clicks</u></a></li>
-<li><a href="https://techidaily.com/1722977121169-enhance-your-wireless-experience-with-updated-mpow-bluetooth-drivers-for-win11win8win7-secure-download-now/"><u>Enhance Your Wireless Experience with Updated MPOW Bluetooth Drivers for Win11/Win8/Win7 - Secure Download Now!</u></a></li>
-<li><a href="https://techidaily.com/experience-the-future-microsofts-ai-powered-desktop-pc-with-inbuilt-1080p-touch-display/"><u>Experience the Future: Microsoft's AI-Powered Desktop PC with Inbuilt 1080P Touch Display</u></a></li>
-<li><a href="https://techidaily.com/expert-tips-on-accelerating-your-computer-speed-efficiently/"><u>Expert Tips on Accelerating Your Computer Speed Efficiently</u></a></li>
-<li><a href="https://techidaily.com/1723262342685-explore-the-latest-in-computer-components-at-your-site-name-innovation-like-never-before/"><u>Explore the Latest in Computer Components at [Your Site Name] - Innovation Like Never Before</u></a></li>
-<li><a href="https://techidaily.com/fix-tiworkerexe-high-disk-usage-on-windows-10/"><u>Fix TiWorker.exe High Disk Usage on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/from-indiegogo-to-your-desk-meet-ayaneos-newly-released-amd-am01-classic-inspired-mini-computer/"><u>From Indiegogo to Your Desk: Meet Ayaneo's Newly Released AMD AM01 Classic Inspired Mini Computer</u></a></li>
-<li><a href="https://techidaily.com/gamers-choice-review-cyberpowerpc-gamer-xtreme-quality-on-a-budget-with-customization-options/"><u>Gamer's Choice Review: CyberPowerPC Gamer Xtreme - Quality on a Budget with Customization Options</u></a></li>
-<li><a href="https://techidaily.com/how-to-accurately-test-your-pcs-ram-speed-on-the-latest-windows-operating-system/"><u>How to Accurately Test Your PC's RAM Speed on the Latest Windows Operating System</u></a></li>
-<li><a href="https://techidaily.com/inside-toms-world-of-hardware-innovation-stay-ahead-in-the-digital-age/"><u>Inside Tom’s World of Hardware Innovation: Stay Ahead in the Digital Age</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/its-suitable-for-precise-applications-requiring-clean-high-quality-welds/"><u>It's Suitable for Precise Applications Requiring Clean, High-Quality Welds.</u></a></li>
-<li><a href="https://techidaily.com/keep-your-logitech-m510-running-smoothly-with-new-drivers-a-comprehensive-guide/"><u>Keep Your Logitech M510 Running Smoothly with New Drivers - A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/1723262408382-master-the-art-of-tech-with-toms-detailed-gadget-reviews-and-analysis/"><u>Master The Art Of Tech With Tom's Detailed Gadget Reviews and Analysis!</u></a></li>
-<li><a href="https://techidaily.com/master-your-tech-choices-toms-in-depth-hardware-evaluations/"><u>Master Your Tech Choices: Tom's In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://techidaily.com/navigate-through-high-tech-terrains-with-toms-hardware-guides/"><u>Navigate Through High-Tech Terrains with Tom's Hardware Guides</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-characteristics-of-mac-audio-processing-tools-for-2024/"><u>New Top Characteristics of Mac Audio Processing Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/1723808142135-quick-tips-to-resolve-slow-boot-on-windows-1011-boost-your-pcs-performance/"><u>Quick Tips to Resolve Slow Boot on Windows 10/11 - Boost Your PC's Performance!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-art-of-image-detection-opposite-on-facebook-networks/"><u>The Art of Image Detection Opposite on Facebook Networks</u></a></li>
-<li><a href="https://techidaily.com/the-future-of-portable-computing-the-atomman-g7-ti-a-screenless-laptop-replica-with-cutting-edge-cpu-and-rtx-gpu-capabilities/"><u>The Future of Portable Computing: The AtomMan G7 Ti, a Screenless Laptop Replica with Cutting-Edge CPU & RTX GPU Capabilities</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-insight-into-netflixs-online-media-library-and-services/"><u>The Ultimate Insight Into Netflix's Online Media Library and Services</u></a></li>
-<li><a href="https://techidaily.com/1723808247115-transform-your-skryim-adventure-discover-the-game-changer-with-the-special-editions-fps-upgrade/"><u>Transform Your Skryim Adventure: Discover the Game Changer with the Special Edition's FPS Upgrade</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-selecting-the-perfect-mobile-case-for-your-device/"><u>Ultimate Guide: Selecting the Perfect Mobile Case for Your Device</u></a></li>
-<li><a href="https://techidaily.com/unlock-new-looks-with-these-15-free-windows-11-themes-for-personalized-computing/"><u>Unlock New Looks with These 15 Free Windows 11 Themes for Personalized Computing</u></a></li>
-<li><a href="https://techidaily.com/1723808215753-unlock-the-secrets-of-your-digital-footprint-find-your-ip-for-free-now/"><u>Unlock the Secrets of Your Digital Footprint: Find Your IP for Free Now!</u></a></li>
-<li><a href="https://techidaily.com/unlocking-performance-potential-the-toms-hardware-handbook/"><u>Unlocking Performance Potential: The Tom's Hardware Handbook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-companion-for-creating-unique-metaverse-avatars/"><u>[New] 2024 Approved The Ultimate Companion for Creating Unique Metaverse Avatars</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-propel-your-presence-on-facebook-mastering-the-art-of-going-live-for-2024/"><u>[New] Propel Your Presence on Facebook Mastering the Art of Going Live for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/urn-your-youtube-shorts-into-a-stream-of-income/"><u>[New] Turn Your YouTube Shorts Into a Stream of Income</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-visual-depth-with-hdri-techniques-over-sdr/"><u>[Updated] Mastering Visual Depth with HDRI Techniques Over SDR</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/captivating-movement-a-guide-to-perfect-canon-timelapses/"><u>Captivating Movement A Guide to Perfect Canon Timelapses</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-topping-bargain-software-for-screen-capture-on-chromebook/"><u>In 2024, Topping Bargain Software for Screen Capture on Chromebook</u></a></li>
+<li><a href="https://techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
+<li><a href="https://techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
+<li><a href="https://techidaily.com/mpewma/"><u>MPEファイルからWMAへの完全無料変換ツール - ムーヴェイビ</u></a></li>
+<li><a href="https://techidaily.com/mxf-wmv-online-free-converter-movavi/"><u>영구제 MXF WMV 혼합을 원호하여 Online Free Converter - Movavi</u></a></li>
 </ul></div>
+

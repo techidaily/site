@@ -1,7 +1,7 @@
 ---
 title: Easy Tips for Altering Input Languages on a Windows 11 PC
-date: 2024-09-17T03:41:12.569Z
-updated: 2024-09-23T17:54:04.121Z
+date: 2024-09-20T19:59:29.629Z
+updated: 2024-09-23T20:20:01.170Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Change Your Keyboard Layout](https://tech-hub.techidaily.com/how-chatgpt-is-revolutionizing-industries-observe-7-key-areas-of-application/)
 * [How to Remove a Keyboard Language or Layout](https://extra-support.techidaily.com/professional-radial-effects-step-by-step-guide-for-photoshop-experts-for-2024/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To change your keyboard language, navigate to Settings > Time & Language > Language & Region > Add a Language, then install and select a language.
@@ -24,13 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * To remove a language or keyboard layout, open to the "Language Options" page, click the three-dot menu icon next to the language and select "Remove."
 
  Whether you work with international clients or just want to impress your friends, you might encounter situations that require you to type in another language. Fortunately, navigating between keyboard layouts and typing in your desired language is a breeze on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Change Your Keyboard Language
 
@@ -42,6 +42,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Time & language option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/time-language-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "Add a Language" button.
 
 ![Add a language option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/add-a-language-option.jpg) 
@@ -51,16 +58,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Next option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/next-option.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Install" to begin the installation process.
@@ -91,20 +92,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Onscreen keyboard on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/onscreen-keyboard.jpg) 
 
- Once you've finalized a layout, you can remove the other keyboard layouts for your language.
-
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you've finalized a layout, you can remove the other keyboard layouts for your language.
 
 ##  How to Remove a Keyboard Language or Layout
 
@@ -119,16 +114,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Yes option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/yes-option.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's all! The selected language is now removed from your computer.
@@ -138,22 +127,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Language options in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/language-options.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Under the Keyboards section, click the three dots next to the layout you want to remove and choose "Remove" from the menu that crops up.
 
 ![Remove button in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/remove-button.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to delete multiple keyboard layouts, just repeat the above process for each layout you wish to remove.
 
@@ -176,18 +158,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-memes-with-a-smile-builder/"><u>[New] Top Memes with a Smile Builder</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-virtual-vision-creation-shaping-a-humorous-self-portrait-for-2024/"><u>[Updated] Virtual Vision Creation Shaping a Humorous Self-Portrait for 2024</u></a></li>
-<li><a href="https://techidaily.com/6zu75b2x5ymq5o6l5oqa5ben6iih5pon5l2c5oyh5y2x77ya5zyo57ea5lik5a6m5oiq55qe6auy57sa5pwz6iky6kqy56il/"><u>電影剪接技巧與操作指南：在線上完成的高級教育課程</u></a></li>
-<li><a href="https://techidaily.com/convert-and-edit-videos-with-movavi-on-your-mac-ideal-for-various-codecs-and-formats/"><u>Convert and Edit Videos with Movavi on Your Mac: Ideal for Various Codecs and Formats</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-change-mp4-audio-files-to-webm-format-using-movavi-tools/"><u>Free Online Converter: Change MP4 Audio Files to WebM Format Using Movavi Tools</u></a></li>
-<li><a href="https://techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-meizu-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Meizu</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-12-4g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 12 4G Data? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-voice-recorder-mac-5-best-voice-recorders-for-mac-devices/"><u>In 2024, Voice Recorder Mac - 5 Best Voice Recorders for Mac Devices</u></a></li>
-<li><a href="https://techidaily.com/ntsc-versus-pal-analise-abrangente-dos-diferentes-formatos-de-video-e-seu-desempenho/"><u>NTSC versus PAL: Análise Abrangente Dos Diferentes Formatos De Vídeo E Seu Desempenho</u></a></li>
-<li><a href="https://techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-how-to-fix-constant-crashes-in-battlefield-v-for-pc-users/"><u>Troubleshooting Complete: How to Fix Constant Crashes in Battlefield V for PC Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crossing-social-bridges-linking-instagram-and-tiktok-for-2024/"><u>[New] Crossing Social Bridges Linking Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-to-your-device-download-videos/"><u>[New] In 2024, FB to Your Device - Download Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-optimize-your-videos-the-quick-thumbnail-guide/"><u>[Updated] Optimize Your Videos The Quick Thumbnail Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-reviving-shadows-and-highlights-in-iphone-hdr-footage-with-premiere-pro/"><u>[Updated] Reviving Shadows and Highlights in iPhone HDR Footage with Premiere Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-ordinary-how-perplexity-ai-redefines-google-search-mastery-for-the-avant-garde-seeker/"><u>Beyond Ordinary: How Perplexity AI Redefines Google Search Mastery for the Avant-Garde Seeker</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nokia-c12-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nokia C12 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-timing-tricks-for-youtube-traffic-surge/"><u>In 2024, Timing Tricks for YouTube Traffic Surge</u></a></li>
+<li><a href="https://techidaily.com/top-12-applicazioni-sniping-gratuite-piu-efficienti-del-2024-solomovi/"><u>Top 12 Applicazioni Sniping Gratuite Più Efficienti Del 2024 - SoloMovi</u></a></li>
+<li><a href="https://techidaily.com/top-9-livres-de-software-mais-populares-para-masterizacao-de-cds-e-dvds-no-computador/"><u>Top 9 Livres De Software Mais Populares Para Masterização De CDs E DVDs No Computador</u></a></li>
+<li><a href="https://techidaily.com/transformacion-facil-de-archivo-mkv-a-mp4-para-usuarios-de-mac-paso-a-paso/"><u>Transformación Fácil De Archivo MKV a MP4 Para Usuarios De Mac: Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/transforme-imagens-de-animacao-gif-em-tiff-off-line-sem-custo-algum-pelo-movavi/"><u>Transforme Imagens De Animação GIF Em TIFF Off-Line Sem Custo Algum Pelo Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-tuoi-file-ogg-in-aiff-senza-costi-con-il-convertitore-di-movavi-gratuito/"><u>Trasforma I Tuoi File OGG in AIFF Senza Costi Con Il Convertitore Di Movavi Gratuito</u></a></li>
+<li><a href="https://techidaily.com/trasforma-orf-in-png-gratuitamente-online-con-movavi-prove-e-cambia/"><u>Trasforma ORF in PNG Gratuitamente Online Con Movavi - Prove E Cambia</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-fixing-update-loop-problems/"><u>Troubleshooting Microsoft Flight Simulator 2020: Fixing Update Loop Problems</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-choosing-the-right-camera-for-professional-music-video-production/"><u>Ultimate Guide: Choosing the Right Camera for Professional Music Video Production</u></a></li>
+<li><a href="https://techidaily.com/understanding-bmp-files-a-comprehensive-guide-on-the-basics-of-bmp-images-and-viewing-them/"><u>Understanding BMP Files: A Comprehensive Guide on the Basics of .bmp Images & Viewing Them</u></a></li>
+<li><a href="https://techidaily.com/voorbeurteiling-krijgt-gratis-startknop-voor-productsrecorderproductname-maakt-je-ervan-een-aanvanger/"><u>Voorbeurteiling Krijgt Gratis Startknop Voor {{ product('srecorder').product_name }}, Maakt Je Ervan Een Aanvanger</u></a></li>
 </ul></div>
 

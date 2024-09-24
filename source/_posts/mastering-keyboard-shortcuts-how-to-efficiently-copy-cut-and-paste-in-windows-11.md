@@ -1,7 +1,7 @@
 ---
 title: "Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11"
-date: 2024-09-18T06:21:38.375Z
-updated: 2024-09-23T21:22:48.223Z
+date: 2024-09-21T19:54:03.460Z
+updated: 2024-09-24T06:38:46.289Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 * [How to Copy, Cut, and Paste Using Right-Click](https://article-files.techidaily.com/uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems-for-2024/)
 * [How to Copy, Cut, and Paste Using Application Menus](https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-g310-by-fonelab-android-recover-data/)
 * [How to Empty Your Clipboard](https://facebook-clips.techidaily.com/new-2024-approved-the-insiders-look-at-creating-viral-fb-cover-videos/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,28 +64,15 @@ Microsoft
 [These shortcuts now work in Windows 10's Command Prompt](https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/), too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Alternative Copy, Cut, and Paste Keyboard Shortcuts
 
  If you need to copy in a program that interprets Ctrl+C as a break character (such as a terminal emulator), you can use Ctrl+Insert instead. To cut, use Shift+Delete. To paste, press Shift+Insert. These shortcuts aren't as commonly used today, but they are still almost universally recognized in Windows.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Right-Click
 
@@ -87,10 +81,10 @@ Microsoft
 ![Right-click and image and select "Copy Image."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can then right-click in a destination document and select Paste to put the contents of the Clipboard in that location.
@@ -98,6 +92,13 @@ Microsoft
  The same principle works in File Explorer and on your Desktop. Select a file, folder, or group of files you'd like to Copy or Cut. Right-click on the files, and you'll see a context menu pop-up. Select "Copy" if you'd like to duplicate the file somewhere else. Select "Cut" if you'd like to move the file to another location.
 
 ![Select Cut or Copy on the Right-Click Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/right_click_file_copy.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then navigate to the new location and right-click where you'd like to put the files. The destination right-click can be inside a folder window, on the desktop, a drive on your computer, or even directly on a folder icon itself.
 
@@ -119,13 +120,6 @@ Microsoft
 
  Also, many older Windows programs include a series of drop-down menus at the top of the application window. Among them, you'll often find a menu titled Edit (which you can often call up by pressing Alt+E). In that menu, you can usually find Copy, Cut, and Paste commands.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Empty Your Clipboard
 
  To erase the contents of your Clipboard, just copy something new. Simply copying any word on a web page or document will replace the contents of the clipboard with whatever you just copied. You might want to do this after copying something sensitive like a password or credit card number, ensuring that you won't accidentally paste it into another application.
@@ -137,10 +131,10 @@ Microsoft
 ![Clearing clipboard data in Windows 10 Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clear_clipboard_data-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you know more about Copy, Cut, and Paste, we hope you have fun duplicating and moving your data with ease.
@@ -160,25 +154,25 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-gripping-phrase-generator-device/"><u>[New] In 2024, Gripping Phrase Generator Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-video-edits-at-zero-price-discover-these-tools/"><u>[Updated] Professional Video Edits at Zero Price - Discover These Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-comedic-craftsmanship-the-best-short-video-ideas-to-entertain-viewers/"><u>2024 Approved Comedic Craftsmanship The Best Short Video Ideas to Entertain Viewers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-s23plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel S23+</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-converter-online-para-wmv-em-aac-com-o-movavi/"><u>Gratuito: Converter Online Para WMV Em AAC Com O Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-honor-x8b-by-fonelab-android-recover-music/"><u>How to recover old music from your Honor X8b</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-smart-7-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Smart 7 PC | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/online-free-ogg-to-m4a-converter-by-movavi/"><u>Online Free OGG to M4A Converter by Movavi</u></a></li>
-<li><a href="https://techidaily.com/online-gratis-conversor-ogv-para-wmv-facil-utilizacao-com-o-site-de-ajuda-do-movavi/"><u>Online Grátis Conversor OGV Para WMV - Fácil Utilização Com O Site De Ajuda Do Movavi</u></a></li>
-<li><a href="https://techidaily.com/passaggi-essenziali-per-la-registrazione-dello-schermo-in-windows-tensione-migliorando-lesperienza-utente/"><u>Passaggi Essenziali per La Registrazione Dello Schermo in Windows Tensione, Migliorando L'esperienza Utente.</u></a></li>
-<li><a href="https://techidaily.com/ri-codifica-professionale-da-vob-a-flv-con-movavi-strumenti-online-senza-costi/"><u>Ri-Codifica Professionale Da VOB a FLV Con Movavi: Strumenti Online Senza Costi!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-top-performers-of-the-toms-hardware-jan-mar-16-build-challenge/"><u>The Top Performers of the Tom's Hardware Jan-Mar '16 Build Challenge</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
-<li><a href="https://techidaily.com/top-7-essential-tools-for-transforming-flac-audio-into-mp3-format-on-macos/"><u>Top 7 Essential Tools for Transforming FLAC Audio Into MP3 Format on macOS</u></a></li>
-<li><a href="https://techidaily.com/top-editing-video-apps-of-2024-how-to-choose-the-perfect-one-for-your-needs/"><u>Top Editing Video Apps of 2024: How to Choose the Perfect One for Your Needs</u></a></li>
-<li><a href="https://techidaily.com/topo-das-5-criadoras-de-letreiros-mais-influentes-do-youtube-acesse-online/"><u>Topo Das 5 Criadoras De Letreiros Mais Influentes Do YouTube: Acesse Online</u></a></li>
-<li><a href="https://techidaily.com/transformer-des-fichiers-au-format-mp3-sans-frais-sur-movavi-guerilla-seo-pour-les-amateurs-de-musique/"><u>Transformer Des Fichiers Au Format MP3 Sans Frais Sur Movavi : Guérilla SEO Pour Les Amateurs De Musique</u></a></li>
-<li><a href="https://techidaily.com/transformer-un-fichier-alaw-au-format-mp3-gratuitement-sur-internet-movavi/"><u>Transformer Un Fichier Alaw Au Format MP3 Gratuitement Sur Internet - Movavi</u></a></li>
-<li><a href="https://techidaily.com/taxistikh-metatroph-live-video-se-mp3-xwris-dwrhma-anapoympoystos-and-eydisk/"><u>Ταχιστική Μετατροπή Live Video Σε MP3 Χωρίς Δώρημα - [Αναπουμπούστος & Εύδιsk]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enabling-autoplay-youtube-videos-in-social-media-network/"><u>[New] 2024 Approved Enabling Autoplay Youtube Videos in Social Media Network</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[New] 2024 Approved Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-innovative-qanda-strategy-for-attracting-audio-lovers/"><u>[New] 2024 Approved Innovative Q&A Strategy for Attracting Audio Lovers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>[New] In 2024, A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-arsenal-of-classics-top-7-precision-games/"><u>2024 Approved Arsenal of Classics Top 7 Precision Games</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-master-the-art-of-speedy-tiktok-content/"><u>2024 Approved Master the Art of Speedy TikTok Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>2024 Approved Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/apower-pdf/"><u>ApowerPDF</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-and-convenient-aphaca-bt69-wireless-fm-sender-an-in-depth-analysis/"><u>Compact and Convenient Aphaca BT69 Wireless FM Sender: An In-Depth Analysis</u></a></li>
+<li><a href="https://techidaily.com/free-and-online-conversion-how-to-transform-your-avi-files-into-quicktime-mov-format/"><u>Free and Online Conversion: How to Transform Your AVI Files Into QuickTime MOV Format</u></a></li>
+<li><a href="https://techidaily.com/free-mp3-conversion-mov-to-mp3-with-moveavis-reliable-online-tool/"><u>Free MP3 Conversion: MOV to MP3 with Moveavi's Reliable Online Tool</u></a></li>
+<li><a href="https://techidaily.com/free-mp4-wmv-file-transformation-service-available-on-movavi-platform/"><u>Free MP4-WMV File Transformation Service Available on Movavi Platform</u></a></li>
+<li><a href="https://techidaily.com/free-online-conversion-transform-wtv-files-into-mp4-format-with-just-a-click/"><u>Free Online Conversion: Transform WTV Files Into MP4 Format with Just a Click</u></a></li>
+<li><a href="https://techidaily.com/free-online-conversion-transforming-video-output-bundles-vob-into-mobile-compatible-mov-files-easily/"><u>Free Online Conversion: Transforming Video Output Bundles (VOB) Into Mobile-Compatible MOV Files Easily</u></a></li>
+<li><a href="https://techidaily.com/gratuit-wegomzetten-van-wav-naar-mkv-onlinemaker-movavi/"><u>Gratuit Wegomzetten Van WAV Naar MKV - Onlinemaker Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a2-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo A2 Phone with Broken Screen</u></a></li>
+<li><a href="https://techidaily.com/innovative-audio-tricks-for-videos-adding-fun-voices-of-robots-radio-broadcasts-and-chipmunks/"><u>Innovative Audio Tricks for Videos: Adding Fun Voices of Robots, Radio Broadcasts, and Chipmunks</u></a></li>
+<li><a href="https://techidaily.com/kostenloze-omzettingen-van-ape-naar-aiff-formaat-gratuite-online-vervulling-door-movavi/"><u>Kostenloze Omzettingen Van APE Naar AIFF-Formaat - Gratuite Online Vervulling Door Movavi</u></a></li>
+<li><a href="https://techidaily.com/mac-recording-simplified-5-effective-methods-from-movavi/"><u>Mac Recording Simplified: 5 Effective Methods From Movavi</u></a></li>
+<li><a href="https://techidaily.com/melhores-substitutos-do-final-cut-pro-em-tempo-real-para-sistemas-windows-top-16/"><u>Melhores Substitutos Do Final Cut Pro Em Tempo Real Para Sistemas Windows (Top 16)</u></a></li>
 </ul></div>
 

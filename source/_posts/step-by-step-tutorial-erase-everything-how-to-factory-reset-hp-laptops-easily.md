@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Erase Everything - How to Factory Reset HP Laptops Easily"
-date: 2024-08-18T03:43:59.889Z
-updated: 2024-08-19T03:43:59.889Z
+date: 2024-09-22T21:51:40.797Z
+updated: 2024-09-24T05:29:16.853Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ If you want to capture a specific window, use this keyboard shortcut:
 3. Click**New** to create a screenshot.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-14-28.jpg)
 4. You will be able to make simple edits before you save.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-15-50-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Use Snagit – an All-in-one screen capture software
 
  If you don’t want to switch back and forward between windows to create a screenshot, why not give third-party tools a try?
@@ -75,6 +82,20 @@ If you want to capture a specific window, use this keyboard shortcut:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Snagit, run the software.
 2. Click**Capture** to take a screenshot, or use the default hotkey – PrtScn key. You can drag the screen to include the area you need.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-12-57-1.jpg)
 3. Attached is an example of some useful tools available in the Snagit editor.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-12-50-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -89,8 +110,6 @@ If you want to capture a specific window, use this keyboard shortcut:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,49 +119,20 @@ If you want to capture a specific window, use this keyboard shortcut:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-immersive-experience-creating-rich-skype-recordings-using-obs/"><u>[New] 2024 Approved  Immersive Experience  Creating Rich Skype Recordings Using OBS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-maximize-your-youtube-channels-using-google-analytics/"><u>[New] 2024 Approved  Maximize Your YouTube Channels Using Google Analytics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtubes-opposite-order-rearranging-videos-in-reverse-flow/"><u>[New] 2024 Approved  Youtube's Opposite Order  Rearranging Videos in Reverse Flow</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-picsart-in-detail-the-ultimate-guide-to-2024-updates/"><u>[New] PicsArt in Detail  The Ultimate Guide to 2024 Updates</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>[New] The Peak of Primes  Amazon’s Hot Tweets & Shows, '23</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-maximizing-impact-10-indispentic-instagram-editors-apps/"><u>[Updated] In 2024, Maximizing Impact  10 Indispentic Instagram Editors' Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-useful-tips-and-apps-for-taking-amazing-android-photography/"><u>[Updated] Useful Tips and Apps for Taking Amazing Android Photography</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-video-player-apps-for-windows-phone/"><u>2024 Approved  Best Video Player Apps for Windows Phone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-7-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 7 Plus without the Previous Owner?</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-m14-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy M14 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v29-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V29 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oneplus-ace-2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus Ace 2 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-lava-agni-2-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Agni 2 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-v29-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V29 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y200-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y200 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-g310-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55T in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-poco-c55-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco C55 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-poco-f5-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco F5 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a18-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A18 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-c65-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco C65 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-10-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 10 4G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-itel-p40plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P40+ phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-90-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-imovie-alternatives-expert-approved-video-editing-options/"><u>No-Cost iMovie Alternatives Expert-Approved Video Editing Options</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-tips-15-expertly-chosen-tripods-for-gopro-cameras-for-2024/"><u>Pro Tips  15 Expertly Chosen Tripods for GoPro Cameras for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-x50i-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor X50i</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-new-phase-of-dall-e-3-advanced-editing-options-a-work-in-progress/"><u>The New Phase of DALL-E 3: Advanced Editing Options - A Work in Progress</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor X7b</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-poco-m6-pro-4g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Poco M6 Pro 4G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-spark-20-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Spark 20 without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-galaxy-m54-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Galaxy M54 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung .</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-printer-software-on-windows-download-latest-drivers-for-w10-and-w11/"><u>Update Your HP Printer Software on Windows: Download Latest Drivers for W10 & W11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-living-by-the-youtube-number-game-understanding-your-view-requirements/"><u>[Updated] Living by the YouTube Number Game Understanding Your View Requirements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-metaverse-designs-your-quick-start-for-avatars/"><u>[Updated] Mastering Metaverse Designs Your Quick-Start for Avatars</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-p55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel P55 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/download-high-quality-porno-movies-from-anybunny-in-mp4-or-avi-formats/"><u>Download High-Quality Porno Movies From Anybunny in MP4 or AVI Formats</u></a></li>
+<li><a href="https://techidaily.com/experience-bespoke-advertising-solutions-through-cutting-edge-cookiebot-systems/"><u>Experience Bespoke Advertising Solutions Through Cutting-Edge Cookiebot Systems</u></a></li>
+<li><a href="https://techidaily.com/finereader-rendre-le-contenu-actuel-et-releve-accessible-pour-vos-lecteurs-via-abbyy/"><u>FineReader: Rendre Le Contenu Actuel Et Relevé Accessible Pour Vos Lecteurs via ABBYY</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-microphone-on-the-steelseries-arctis-1-headset/"><u>How to Fix a Non-Functional Microphone on the SteelSeries Arctis 1 Headset</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-14-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/lecart-essentiel-entre-reconnaissance-optique-de-caracteres-ocr-et-identification-par-projection-idp-quelles-sont-les-differences/"><u>L'Écart Essentiel Entre Reconnaissance Optique De Caractères (OCR) Et Identification Par Projection (IDP): Quelles Sont Les Différences ?</u></a></li>
+<li><a href="https://techidaily.com/limpact-de-la-technologie-ia-sur-la-gestion-et-lanalyse-documentaire-en-finance-exemple-pratique/"><u>L'Impact De La Technologie IA Sur La Gestion Et L'Analyse Documentaire en Finance : Exemple Pratique</u></a></li>
+<li><a href="https://techidaily.com/leverage-cookiebots-efficient-analytics-tools-for-enhanced-web-performance-measurement/"><u>Leverage Cookiebot's Efficient Analytics Tools for Enhanced Web Performance Measurement</u></a></li>
+<li><a href="https://techidaily.com/leveraging-cookiebot-technology-for-tailored-user-experiences-on-websites/"><u>Leveraging Cookiebot Technology for Tailored User Experiences on Websites</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quickstart-guide-enhancing-windows-11-boot-performance-quickly-and-effectively/"><u>QuickStart Guide: Enhancing Windows 11 Boot Performance Quickly and Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/scopri-i-primi-3-software-gratuiti-per-la-gestione-dei-dvd-su-windows-10-che-ti-permettono-di-guardare-tutto/"><u>Scopri I Primi 3 Software Gratuiti per La Gestione Dei DVD Su Windows 10 Che Ti Permettono Di Guardare Tutto!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-if-unreal-engine-suffers-from-d3d-vanishing/"><u>What if Unreal Engine Suffers From D3D Vanishing?</u></a></li>
 </ul></div>
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->

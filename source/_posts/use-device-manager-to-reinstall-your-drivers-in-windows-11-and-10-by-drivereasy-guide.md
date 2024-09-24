@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to reinstall your drivers in Windows 11 & 10
-date: 2024-08-01T18:46:32.400Z
+date: 2024-09-18T17:37:06.903Z
 tags: 
   - driver
   - device driver
@@ -18,18 +18,6 @@ To reinstall a device’s driver in Windows Device Manager:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -44,9 +32,6 @@ To reinstall a device’s driver in Windows Device Manager:
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -63,14 +48,15 @@ This page describes how to do this.
 
 [Download Free Version](https://www.drivereasy.com/goto/affdownload.php?affid=108875)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -86,8 +72,12 @@ And without all these drivers, none of your devices will work.
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -123,27 +113,32 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
-
 
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
@@ -167,47 +162,26 @@ There are two reasons why…
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>[New] Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] From Streams to Statements  Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-how-to-keep-your-videos-quiet-and-clear/"><u>[New] How to Keep Your Videos Quiet and Clear</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dive-into-filmmaking-the-role-of-lenses-in-videos/"><u>[New] In 2024, Dive Into Filmmaking  The Role of Lenses in Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-macs-best-gif-capture-tools-ranked-and-reviewed/"><u>[New] Mac's Best GIF Capture Tools Ranked and Reviewed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-masterful-screencasting-insights-into-advanced-techniques-and-tools/"><u>[New] Masterful Screencasting  Insights Into Advanced Techniques & Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-guide-to-youtube-image-branding-for-2024/"><u>[Updated] A Step-by-Step Guide to YouTube Image Branding for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-breaking-down-zoom-session-division/"><u>[Updated] In 2024, Breaking Down Zoom Session Division</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-explore-our-curated-top-12-click-based-pc-titles/"><u>[Updated] In 2024, Explore Our Curated Top 12 Click-Based PC Titles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>2024 Approved  How To Downgrade Or Rollback The macOs Sierra To Os X El Capitan</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-nextgen-fidelity-upgrade-your-viewing-experience/"><u>2024 Approved  NextGen Fidelity  Upgrade Your Viewing Experience</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhance-your-videos-call-to-action-a-step-by-step-filmora-guide-for-2024/"><u>Enhance Your Video's Call-to-Action  A Step-by-Step Filmora Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-t2-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo T2 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-x-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone X System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-selective-best-camera-apps-for-low-speed-photo-and-video/"><u>In 2024, Selective Best Camera Apps for Low Speed Photo and Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tiktok-effect-overhaul-the-two-pronged-approach/"><u>In 2024, TikTok Effect Overhaul  The Two-Pronged Approach</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-s23-tactical-edition-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy S23 Tactical Edition Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-a38-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo A38)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-compelling-vlog-dialogue-crafting-for-2024/"><u>The Art of Compelling Vlog Dialogue Crafting for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-future-of-display-technology-with-eizos-high-res-monitor/"><u>The Future of Display Technology with EIZO's High-Res Monitor</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-s23-fe-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y100i-power-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nubia-red-magic-9-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-vivo-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Vivo</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-7-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 7 using find my iphone</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-huawei-nova-12-lite-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Huawei Nova 12 Lite</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-t2x-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo T2x 5G</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-15-pro-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 15 Pro files after scanning? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Xiaomi Redmi K70E ?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/windows-best-calling-solutions-7-1-ranked/"><u>Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-appreciation-showcase-easy-access-to-otus-for-2024/"><u>[Updated] Appreciation Showcase Easy Access to OTUs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-new-frontiers-metaverses-vs-omniverse/"><u>2024 Approved Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-c55-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme C55 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-unavailable-remote-procedure-call-error-in-windows-environments/"><u>Diagnosing and Repairing the Unavailable Remote Procedure Call Error in Windows Environments</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-offline-and-play-exciting-apps-to-entertain-you/"><u>Go Offline and Play - Exciting Apps to Entertain You</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-msstore-crash-with-error-code-0x0-on-windows-1011/"><u>How to Overcome MsStore Crash with Error Code 0X0 on Windows 10/11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-11-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Activation Lock</u></a></li>
+<li><a href="https://driver-error.techidaily.com/introducing-the-ultimate-portable-server-solution-packed-with-up-to-256-cores-ampere-altra-cpu-and-an-impressive-combination-of-480tb-nvme-and-4tb-ram-for-o85/"><u>Introducing the Ultimate Portable Server Solution – Packed with Up to 256 Cores, Ampere Altra CPU, and an Impressive Combination of 480TB NVMe & 4TB RAM for Optimal Performance</u></a></li>
+<li><a href="https://techidaily.com/os-melhores-softwares-de-edicao-de-videos-compativeis-com-windows-11-no-ano-de-2024/"><u>Os Melhores Softwares De Edição De Vídeos Compatíveis Com Windows 11 No Ano De 2024</u></a></li>
+<li><a href="https://techidaily.com/passo-a-passo-como-transformar-arquivos-nef-em-jpeg-usando-o-windows-ou-mac/"><u>Passo a Passo: Como Transformar Arquivos NEF Em JPEG Usando O Windows Ou Mac</u></a></li>
+<li><a href="https://techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-display-set-configurations-on-windows-107/"><u>Re-Enabling Display Set Configurations on Windows 10/7</u></a></li>
+<li><a href="https://techidaily.com/secure-and-reliable-multimedia-editing-with-movavi-sikker-solutions/"><u>Secure and Reliable Multimedia Editing with Movavi Sikker Solutions</u></a></li>
+<li><a href="https://techidaily.com/top-11-converteri-mov-gratis-per-mac-windows-e-online-prova-ora/"><u>Top 11 Converteri MOV Gratis per Mac, Windows E Online - Prova Ora</u></a></li>
+<li><a href="https://techidaily.com/top-5-free-editing-software-substitutes-a-pinnacle-studio-pour-pc-et-mac/"><u>Top 5 Free Editing Software Substitutes À Pinnacle Studio Pour PC Et MAC</u></a></li>
+<li><a href="https://techidaily.com/top-6-finns-gratuiti-brannprogram-for-windows-11-8-och-7-fullstandiga-guide/"><u>Top 6 Finns Gratuiti Brännprogram För Windows 11, 8 Och 7 – Fullständiga Guide</u></a></li>
+<li><a href="https://techidaily.com/top-9-unheard-sound-effects-in-film-edit-with-movavis-audio-tools/"><u>Top 9 Unheard Sound Effects in Film - Edit with Movavi's Audio Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-for-improved-connectivity-hdmi-on-windows-10-11/"><u>Update for Improved Connectivity: HDMI on Windows 10, 11</u></a></li>
+<li><a href="https://techidaily.com/swfwebm/"><u>スムーズなオンライン変換: SWFからWEBMへ – モヴェイビーの方法</u></a></li>
 </ul></div>
+

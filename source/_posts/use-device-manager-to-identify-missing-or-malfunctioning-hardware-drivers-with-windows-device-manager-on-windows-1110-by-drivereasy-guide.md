@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-08-01T18:43:17.689Z
+date: 2024-09-22T07:24:23.096Z
 tags: 
   - driver
   - device driver
@@ -25,9 +25,6 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -51,12 +48,8 @@ This page describes how to do this.
 
 [Download Free Version](https://tools.techidaily.com/drivereasy/download/)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -74,8 +67,12 @@ Here’s how Driver Easy works:
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -99,19 +96,10 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -131,6 +119,19 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
@@ -143,9 +144,12 @@ There are two reasons why…
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -153,7 +157,6 @@ Many computer issues are caused by outdated device drivers. Particularly in Wind
 So if your computer has slowed down, you should update your drivers. If it’s crashing or hanging, update your drivers. If you can’t connect to the internet, update your drivers. If your mouse, keyboard, monitor or speakers are acting up, update your drivers. In fact, no matter what your issue, there’s a good chance updating your drivers will fix it.
 
 To understand why, you first have to understand what drivers actually are…
-
 
 
 
@@ -169,55 +172,22 @@ To understand why, you first have to understand what drivers actually are…
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-lensblend-elite-cohesive-image-composer/"><u>[New] LensBlend Elite  Cohesive Image Composer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-free-image-savers-optimizing-video-graphics/"><u>[Updated] 2024 Approved  FREE Image Savers  Optimizing Video Graphics</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-infinix-note-30i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30i Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cut-through-the-dark-screen-on-twitch/"><u>Cut Through the Dark Screen on Twitch</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-se-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone SE Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-x100-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo X100 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-google-pixel-7a-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Google Pixel 7a Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a24-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A24 Phones with/without a PC</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50i Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro Max System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-itel-a60-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel A60 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Plus Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>In 2024, From Video to Music  YouTube to MP3 on MacOS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-xcover-6-pro-tactical-edition-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy XCover 6 Pro Tactical Edition FRP Locks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y78-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y78 5G Lock Screen Password?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-poco-x5-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco X5 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://techidaily.com/is-your-tecno-spark-20-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 20 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-steps-to-elevate-low-quality-webcam-vids/"><u>Quick Steps to Elevate Low-Quality WebCam Vids</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-6s-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Plus Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-13-pro-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 13 Pro screen lock</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-g54-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola G54 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-a79-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on A79 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-13c-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 13C Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from ZTE Blade A73 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-magic-6-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Magic 6 Pro.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-magic-6-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Magic 6.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from ROG Phone 8 Pro</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-13c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi 13C Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Xiaomi ?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-beat-stress-away-the-ultimate-gaming-list/"><u>[Updated] Beat Stress Away The Ultimate Gaming List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-speedy-solutions-to-unsettle-and-reorder-youtube-songs/"><u>[Updated] In 2024, Speedy Solutions to Unsettle and Reorder YouTube Songs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>[Updated] Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>2024 Approved Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/efficiently-record-your-periscope-experience-now/"><u>Efficiently Record Your Periscope Experience Now</u></a></li>
+<li><a href="https://techidaily.com/effortless-printer-to-pc-connection-techniques-in-windows-11-environment/"><u>Effortless Printer-to-PC Connection Techniques in Windows 11 Environment</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-link-a-second-display-unit-in-your-windows-environment-a-comprehensive-guide/"><u>Effortlessly Link a Second Display Unit in Your Windows Environment – A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/elevate-your-eso-adventure-with-expert-techniques-for-overcoming-low-frames-per-second-fps/"><u>Elevate Your ESO Adventure with Expert Techniques for Overcoming Low Frames Per Second (FPS)</u></a></li>
+<li><a href="https://techidaily.com/enabling-local-play-of-minecraft-on-your-pc-an-in-depth-guide-for-windows-11-gamers/"><u>Enabling Local Play of Minecraft on Your PC: An In-Depth Guide for Windows 11 Gamers</u></a></li>
+<li><a href="https://techidaily.com/ensuring-successful-oculus-installation-on-your-pc-running-windows-11-or-10/"><u>Ensuring Successful Oculus Installation on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://techidaily.com/expert-solutions-overcoming-lag-on-an-underperforming-hp-device/"><u>Expert Solutions: Overcoming Lag on an Underperforming HP Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-master-11-key-seo-steps-to-promote-your-videos/"><u>In 2024, Master 11 Key SEO Steps to Promote Your Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/micro-enterprises-guide-to-viral-video-promotion/"><u>Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-addressing-pc-crashes-mid-game/"><u>Step-by-Step Guide: Addressing PC Crashes Mid-Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-download-timeout-errors-effectively/"><u>Ultimate Guide: Solving 'Download Timeout' Errors Effectively</u></a></li>
 </ul></div>
+

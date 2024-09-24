@@ -1,7 +1,7 @@
 ---
 title: Essential Factors to Evaluate Before Buying an Electric Bicycle
-date: 2024-09-16T22:36:52.506Z
-updated: 2024-09-23T18:18:52.192Z
+date: 2024-09-17T23:15:07.794Z
+updated: 2024-09-23T23:04:54.893Z
 tags:
   - cutting-edge
 categories:
@@ -34,10 +34,10 @@ Sarah Chaney / How-To Geek
  If you need a more in depth explainer on [what the different electric bike classes mean](https://extra-skills.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/), we've got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Mid-Drive Motor vs Rear-Hub Motor
@@ -46,13 +46,6 @@ Sarah Chaney / How-To Geek
 
 ![rear hub motor on fiido d3pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/rear-hub-motor-on-fiido-d3pro.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sarah Chaney / How-To Geek
 
  Because a mid-drive motor has a central position, the bike’s weight is more evenly distributed and the ride feels more balanced. A mid-drive motor is more powerful than a hub-drive motor, but it’s also more expensive because the frame has to be specially built around them.
@@ -60,6 +53,13 @@ Sarah Chaney / How-To Geek
  Hub-drive motors are less complicated to fit into a bike’s design, which makes them an easier, cheaper choice for manufacturers. However, hub-drive motors aren’t as efficient as mid-drive motors, and they’re much heavier. Adding extra weight to one end of the bike can make turns while riding feel less natural.
 
  Ebike motors come in various sizes, usually somewhere between 250 to 750 watts. A 750-watt motor compared to a 250-watt motor will be more powerful, more expensive, and (generally) less battery-efficient. The average commuter ebike has either a 250-watt or 350-watt motor paired with a 500Wh battery, both of which offer a good balance of power and range at an affordable price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Cadence Sensor vs Torque Sensor
 
@@ -75,13 +75,6 @@ Sarah Chaney / How-To Geek
 
  It's also worth noting that an ebike with a throttle kind of negates the torque sensor vs cadence sensor debate—that is, if you plan to primarily use the throttle over the pedals. Using only the throttle and never the pedals will result in less total range, but you'll never experience the resistance from a torque sensor or the jerky nature of a cadence sensor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Gearing System: Do You Want a Traditional Bike Feel?
 
 ![gearing system on fiido x ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/spedometer-on-fiido-x-ebike.jpg) 
@@ -93,13 +86,6 @@ Sarah Chaney / How-To Geek
  If you’re heading towards a hill, you can switch to a lower gear to make pedaling uphill easier. Or, if you want to add extra resistance for a good workout or simply to regulate your speed, you can switch to a higher gear.
 
  Some ebikes will offer three gears to switch between, while others may offer up to seven, nine, or eleven gears. Typically, an ebike with a gearing system is also equipped with a torque sensor, and vice versa, but this isn’t always the case, so double-check the specs before you buy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Battery Range: How Far Do You Need to Go?
 
@@ -130,10 +116,10 @@ Sarah Chaney / How-To Geek
  Step-through frames are more comfortable to get on and off for most people, but especially for people who are shorter or don’t have full range of motion. You don’t have to lift your leg nearly as high to get on a step-through frame, which is great if you’re wearing skirts or dresses, or if you need to get off the bike multiple times a day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Accessories and Built-ins Are a Bonus
@@ -153,10 +139,10 @@ Sarah Chaney / How-To Geek
  Before you make the leap, you can check with a local shop to see if an ebike in stock for you to test ride. Not all ebikes will be available to try locally, but it's becoming more likely as ebikes grow in popularity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Commuter Ebike
@@ -173,6 +159,13 @@ Cory Gunther / How-To Geek
 
 ![white priority bicycles ecoast in front of brick wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/9edbd9e5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sarah Chaney / How-To Geek
 
  If you're after a super comfortable, recreational ride, look no further than cruisers. A cruiser ebike, like the [eCoast](https://tech-recovery.techidaily.com/how-to-properly-incorporate-source-code-into-a-microsoft-word-file/), has a wider, cushier seat than you'll find on a commuter ebike, as well as a suspension system and fatter tires for a smoother ride. Many cruisers are designated as Class 2 or 3, which means they come with a throttle and don't require any pedaling from you if you're just trying to enjoy a relaxing day outside.
@@ -181,13 +174,6 @@ Sarah Chaney / How-To Geek
 
 ![cargo ebike on dirt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/970b0067.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Cory Gunther / How-To Geek
 
  A cargo ebike, as the name implies, is handy for hauling a lot of stuff around. These ebikes are generally heavier and larger than other ebikes before adding your own cargo. A cargo ebike, like the [RadWagon 4](https://youtube-docs.techidaily.com/024-approved-avoiding-strikes-youtube-edition/), is defined by its fat tires, built-in racks or extra seats (or both), and thicker frame. Although commuter ebikes might be more common, many people prefer cargo ebikes for their commute to work because it offers so much storage space.
@@ -195,6 +181,13 @@ Cory Gunther / How-To Geek
 ###  Folding Ebike
 
 ![folded fiido x ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folded-fiido-x-ebike.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
 
@@ -207,6 +200,13 @@ Sarah Chaney / How-To Geek
  A mountain ebike, also referred to as EMBs or eMTBs, takes elements from both cargo and cruiser ebikes and bumps it up a notch. EMBs have thick, strong frames, fat tires, and an excellent suspension system. This build makes it easy to tackle trails with large rocks, gravel, or uphill terrain.
 
  There are plenty of electric mountain bikes to choose from, but you certainly won't find as many eMTBs as you would commuter ebikes. More people are looking to use an electric bike on roads or simple trails than rocky, mountainous terrain.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Try to Test Ride an Ebike
 
@@ -227,20 +227,24 @@ Sarah Chaney / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-diy-guide-zero-cost-youtube-intros-and-template-usage/"><u>[New] DIY Guide Zero Cost YouTube Intros & Template Usage</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-guide-to-your-profit-share-in-youtube-shorts-for-2024/"><u>[Updated] A Step-by-Step Guide to Your Profit Share in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>2024 Approved Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-choosing-your-best-vr-camera-insights/"><u>2024 Approved Choosing Your Best VR Camera Insights</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/automate-calendar-events-to-zoom-on-mobile-devices-for-2024/"><u>Automate Calendar Events to Zoom on Mobile Devices for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-get-hooked-by-these-9-impostor-chatgpt-virus-apps-aiming-to-steal-data/"><u>Don't Get Hooked by These 9 Impostor ChatGPT Virus Apps Aiming to Steal Data</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-back-to-normal-goodbye-ghost-bars/"><u>HP Printer Back to Normal: Goodbye, Ghost Bars</u></a></li>
-<li><a href="https://techidaily.com/methode-facile-pour-convertir-un-fichier-mpeg-au-format-ogg-en-ligne-gratuit-tutorial-movavi/"><u>Méthode Facile Pour Convertir Un Fichier MPEG Au Format Ogg en Ligne Gratuit – Tutorial Movavi</u></a></li>
-<li><a href="https://techidaily.com/movavi-media-gallery-discover-georgia-pavlous-visual-artistry/"><u>Movavi Media Gallery: Discover Georgia Pavlou's Visual Artistry</u></a></li>
-<li><a href="https://techidaily.com/movavi-veeerfotos-schoon-cr2-in-png-codeeren-zonder-kosten-online-instant/"><u>Movavi: Veeërfoto's Schoon CR2 in PNG Codeeren Zonder Kosten, Online-Instant</u></a></li>
-<li><a href="https://techidaily.com/movavijpegarwf/"><u>Movaviで簡単JPEGをARWFに自由費用で変換</u></a></li>
-<li><a href="https://techidaily.com/mp3-conversion-guide-transform-your-tunes-on-windows-and-mac-with-movavi/"><u>MP3 Conversion Guide: Transform Your Tunes on Windows and Mac with Movavi</u></a></li>
-<li><a href="https://techidaily.com/online-mp4-mov-mpe-wmv-movavi/"><u>Online 무료 소요시간을 줄이는 MP4, MOV 등 다양한 형식으로 MPE WMV 통합 - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/phony-bot-aid-hijacks-social-network-passwords/"><u>Phony Bot Aid: Hijacks Social Network Passwords</u></a></li>
-<li><a href="https://techidaily.com/ram-wmv/"><u>무세포 RAM WMV 디지털 품종을 쉽게 제공하기 위한 원홍한 컴퓨터 페이스 서비스</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-4-creative-ways-to-insert-youtube-content-in-presentations-for-2024/"><u>[New] 4 Creative Ways to Insert YouTube Content in Presentations for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-photography-choices-for-sharpest-4k-reflections-for-2024/"><u>[New] Top Photography Choices for Sharpest 4K Reflections for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-entering-income-territory-with-a-thousand-followers-for-2024/"><u>[Updated] Entering Income Territory with a Thousand Followers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-the-pathway-of-imovie-content-to-youtube/"><u>[Updated] Perfecting the Pathway of iMovie Content to YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-prime-live-tech-the-most-popular-streaming-tools-reviewed-for-2024/"><u>[Updated] Prime Live Tech The Most Popular Streaming Tools Reviewed for 2024</u></a></li>
+<li><a href="https://techidaily.com/gifmkv-movavi/"><u>網路無限 GIF到MKV自由提供 - 利用 Movavi 影像格式轉檔工具</u></a></li>
+<li><a href="https://techidaily.com/flac-aac-movavi/"><u>移動維馮 FLAC到 AAC格式無間斷地免費轉換 - 使用Movavi轉換器</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-intro-to-digital-realms-vr-simplified/"><u>An Intro to Digital Realms VR Simplified</u></a></li>
+<li><a href="https://techidaily.com/convertirte-facilmente-tu-musica-wav-en-animaciones-flash-swf-gratuito-metodo-experto-por-movavi/"><u>Convertirte Fácilmente Tu Música WAV en Animaciones Flash SWF Gratuito - Método Experto Por Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertissez-gratuitement-vos-fichiers-aif-en-ogg-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers AIF en OGG en Ligne - Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/crear-videos-en-minutos-guia-expertos-para-usar-movavi-video-suite/"><u>Crear Videos en Minutos: Guía Expertos Para Usar Movavi Video Suite</u></a></li>
+<li><a href="https://techidaily.com/expert-insights-on-movavis-flashback-express-an-in-depth-application-review-and-analysis/"><u>Expert Insights on Movavi's FlashBack Express: An In-Depth Application Review and Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-activating-ipads-recovery-mode-easily/"><u>Expert Tips: Activating iPad's Recovery Mode Easily</u></a></li>
+<li><a href="https://techidaily.com/f4v-to-avi-transformation-no-cost-fast-processing-with-movavis-web-based-solution/"><u>F4V to AVI Transformation: No Cost, Fast Processing with Movavi's Web-Based Solution</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-transform-m4v-files-into-wmv-format/"><u>Free Online Converter: Transform M4V Files Into WMV Format</u></a></li>
+<li><a href="https://techidaily.com/free-online-convertor-change-aiff-and-avi-files-without-cost-using-movavi/"><u>Free Online Convertor - Change AIFF and AVI Files Without Cost Using Movavi</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-reach-more-users-by-using-instagram-live-shopping-for-2024/"><u>How To Reach More Users by Using Instagram Live Shopping for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-ggeltiger-m4r-mp3-versterker-veilig-en-eenvoudig-geconverteerd/"><u>Online GGeltiger M4R-MP3 Versterker - Veilig en Eenvoudig Geconverteerd!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-to-save-your-favorite-igtv-on-phoneandroid/"><u>Secrets to Save Your Favorite IGTV on Phone/Android</u></a></li>
 </ul></div>
 

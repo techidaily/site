@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Tactics to Fortify Privacy on Your Windows PC: A Step-by-Step Guide"
-date: 2024-09-22T04:40:35.788Z
-updated: 2024-09-23T19:10:13.710Z
+date: 2024-09-21T03:27:39.326Z
+updated: 2024-09-24T05:08:58.553Z
 tags:
   - desktop
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  Almost every Windows PC has a Windows key on the keyboard. As you've probably guessed, it's the one with the Windows icon. You can press Windows+L to lock your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Ctrl+Alt+Delete
 
  The Ctrl+Alt+Delete keyboard shortcut is commonly used to kill unresponsive software, but you can also use it to lock your computer. Press Ctrl+Alt+Delete, and then click "Lock" in the menu that appears.
@@ -43,16 +50,17 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 ![Lock from ctrl alt delete shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-from-ctrl-alt-delete-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Lock Your Computer in Task Manager
@@ -60,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
  You can also lock your PC in [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). Pressing Ctrl+Alt+Delete, and then [click "Task Manager."](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) You can also type "Task Manager" in the Windows Search box, and then select it in the search results. 
 
 ![Search 'Task Manager,' then click the result or click 'Open.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-task-manager.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go to the "Users" tab, select your user account, then click 'Disconnect.'
 
@@ -82,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![Search 'Command Prompt,' then click the top result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the following command:
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -96,10 +90,10 @@ Rundll32.exe user32.dll,LockWorkStation
 ![The lock command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once this executes, your PC will be locked.
@@ -110,13 +104,6 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Searching for 'Run' in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-the-run-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "Run" window, type the following command, and then click "OK":
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -124,6 +111,19 @@ Rundll32.exe user32.dll,LockWorkStation
 ![The command to lock your PC in a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-run-command.png) 
 
  Once this executes, your PC will be locked.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Create a Desktop Icon to Lock Your Computer
 
@@ -141,13 +141,6 @@ Give your icon a name, and then click "Finish."
 
 **![Name the shortcut icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Name-the-shortcut-icon.png)** 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Your icon will appear on your desktop—double-click it any time to lock your PC.
 
 ##  Set It Up in the Screen Saver Settings
@@ -155,13 +148,6 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
  You can set your PC to lock after the [screen saver](https://some-approaches.techidaily.com/updated-ultimate-guide-to-iphones-video-length-tailoring/) has been on for a certain amount of time. To do so, type "Screen Saver" in the Windows Search box. Click "Change Screen Saver" in the search results.
 
 ![Search 'Screen Saver,' then click 'Change Screen Saver.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-screen-saver.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the "Screen Saver Settings" menu, select the checkbox next to the "On Resume, Display Logon Screen" option. Use the Arrow buttons in the "Wait:" box to select how many minutes should pass before your PC locks, and then click "Apply."
 
@@ -179,14 +165,14 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 **![Dynamic Lock Feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Dynamic-Lock-Feature.png)** 
 
- Your PC will now lock if you move too far away.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Your PC will now lock if you move too far away.
 
 ##  Use the Remote Lock Feature
 
@@ -198,9 +184,23 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 **![Show details for PC to lock remotely](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Show-details-for-PC-to-lock-remotely.png)** 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the "Find My Device" tab, and then click "Lock."
 
 ![Lock PC remotely](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-PC-remotely-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Confirm in all the messages that appear to finish locking your PC.
 
@@ -223,14 +223,24 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-wedding-countdown-the-best-androidios-clock-apps-guide/"><u>[Updated] Streamline Your Wedding Countdown The Best Android/iOS Clock Apps Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G34 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 8 Plus</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/kostenloze-omzettingen-van-ape-naar-aiff-formaat-gratuite-online-vervulling-door-movavi/"><u>Kostenloze Omzettingen Van APE Naar AIFF-Formaat - Gratuite Online Vervulling Door Movavi</u></a></li>
-<li><a href="https://techidaily.com/mac-recording-simplified-5-effective-methods-from-movavi/"><u>Mac Recording Simplified: 5 Effective Methods From Movavi</u></a></li>
-<li><a href="https://techidaily.com/melhores-substitutos-do-final-cut-pro-em-tempo-real-para-sistemas-windows-top-16/"><u>Melhores Substitutos Do Final Cut Pro Em Tempo Real Para Sistemas Windows (Top 16)</u></a></li>
-<li><a href="https://techidaily.com/movaviape-flac/"><u>Movaviを使ったオンデマンドAPE FLAC変換: 完全無料オプション</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcome-dev-error-6068-in-mw-warzone-latest-techniques/"><u>Troubleshooting Guide: Overcome Dev Error #6068 in MW Warzone [Latest Techniques]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-instructor-insights-choosing-the-prime-video-capturing-technology/"><u>[New] Instructor Insights Choosing the Prime Video Capturing Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-androids-ear-4-easy-unrooted-ways/"><u>[Updated] Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-quantum-leap-in-photography-understanding-hdr/"><u>[Updated] Quantum Leap in Photography Understanding HDR</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-camstudio-recording-and-capturing/"><u>2024 Approved Ultimate Guide to CamStudio Recording and Capturing</u></a></li>
+<li><a href="https://techidaily.com/6zu75b2x5ymq5o6l5oqa5ben6iih5pon5l2c5oyh5y2x77ya5zyo57ea5lik5a6m5oiq55qe6auy57sa5pwz6iky6kqy56il/"><u>電影剪接技巧與操作指南：在線上完成的高級教育課程</u></a></li>
+<li><a href="https://techidaily.com/webmogg-movavi/"><u>在線自由WEBM轉OGG的方法 - 利用 Movavi 轉換器優化</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-newly-announced-samsung-galaxy-z-fold-6-find-out-price-availability-and-specifications/"><u>All About the Newly Announced Samsung Galaxy Z Fold 6 - Find Out Price, Availability & Specifications</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-installing-the-latest-drivers-for-audio-technica-devices/"><u>Comprehensive Guide to Installing the Latest Drivers for Audio Technica Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-reno-10-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Reno 10 5G</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-prime-video-to-text-technology-now/"><u>In 2024, Prime Video-to-Text Technology, Now</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-tuoi-file-ogg-in-aiff-senza-costi-con-il-convertitore-di-movavi-gratuito/"><u>Trasforma I Tuoi File OGG in AIFF Senza Costi Con Il Convertitore Di Movavi Gratuito</u></a></li>
+<li><a href="https://techidaily.com/trasforma-orf-in-png-gratuitamente-online-con-movavi-prove-e-cambia/"><u>Trasforma ORF in PNG Gratuitamente Online Con Movavi - Prove E Cambia</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-choosing-the-right-camera-for-professional-music-video-production/"><u>Ultimate Guide: Choosing the Right Camera for Professional Music Video Production</u></a></li>
+<li><a href="https://techidaily.com/understanding-bmp-files-a-comprehensive-guide-on-the-basics-of-bmp-images-and-viewing-them/"><u>Understanding BMP Files: A Comprehensive Guide on the Basics of .bmp Images & Viewing Them</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-powerhouse-within-comprehensive-samsung-galaxy-tab-s7plus-evaluation-for-tech-aficionados/"><u>Unveiling the Powerhouse Within: Comprehensive Samsung Galaxy Tab S7+ Evaluation for Tech Aficionados</u></a></li>
+<li><a href="https://techidaily.com/voorbeurteiling-krijgt-gratis-startknop-voor-productsrecorderproductname-maakt-je-ervan-een-aanvanger/"><u>Voorbeurteiling Krijgt Gratis Startknop Voor {{ product('srecorder').product_name }}, Maakt Je Ervan Een Aanvanger</u></a></li>
+<li><a href="https://techidaily.com/vullend-uw-mp4-op-naar-wma-expert-online-converteertool-movavi-gratis-aanbod/"><u>Vullend Uw MP4 Op Naar WMA: Expert Online Converteertool Movavi Gratis Aanbod</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208586031-windows-10-light-dimmer-malfunction-heres-the-solution/"><u>Windows 10 Light Dimmer Malfunction? Here's the Solution!</u></a></li>
+<li><a href="https://techidaily.com/zoom-meetinglerin-eylemlerini-kontrol-alt-montajla-eam-ile-kaydetmek-movavi/"><u>Zoom Meetinglerin Eylemlerini Kontrol Alt Montajla (EAM) Ile Kaydetmek - Movavi</u></a></li>
 </ul></div>
 

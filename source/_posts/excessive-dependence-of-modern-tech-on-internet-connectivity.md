@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2024-09-18T06:08:26.652Z
-updated: 2024-09-24T08:20:16.127Z
+date: 2024-09-21T07:38:37.853Z
+updated: 2024-09-23T23:03:43.468Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Delayed and canceled flights, delayed packages, and missed work hours. You'd think I'm describing a Gen Z horror movie, but it's actually happening in real time. [CrowdStrike](https://edition.cnn.com/business/live-news/global-outage-intl-hnk/index.html)'s failed cybersecurity update has caused a global outage of Windows systems, exposing the fragility of our modern infrastructure.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Forced Updates Are Disruptive
 
  Microsoft loves to force auto-updates, and there's no easy [way to disable them](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/). These updates are incredibly disruptive even when they go completely smoothly, as they can prevent your system from shutting down and turning on without installing the update. I was late to several online classes during the pandemic because of this; fortunately, so were my other colleagues and professors.
@@ -35,13 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  US and European Airlines heavily rely on Windows machines for communication and organization, so they were hit the hardest; over [2,000 flights](https://www.usatoday.com/story/travel/news/2024/07/19/global-it-outage-flights-canceled-delayed/74466125007/) have been canceled just in the US today because of the bug. [Some estimates](https://www.cnbc.com/2024/07/19/crowdstrike-it-outage-spreads-global-supply-chain.html) point to potential weeks of recovery for air freight. Even though the issue has been largely resolved, systems have to be reset manually, which is a time-consuming task for large corporations.
 
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Single Point of Failure
 
@@ -54,10 +40,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
@@ -71,10 +63,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -87,7 +79,21 @@ Jerome Thomas / How-To Geek
 
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Reduce Your Reliance on the Internet
 
@@ -110,20 +116,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-in-film-the-ultimate-guide-to-producing-slow-motion-videos-with-photos-and-internet/"><u>[New] Pushing Boundaries in Film The Ultimate Guide to Producing Slow-Motion Videos with Photos & Internet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>[New] Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-to-social-glory-enhance-your-feed-with-gifs-insta-style/"><u>[Updated] In 2024, Step-By-Step to Social Glory Enhance Your Feed with GIFs (Insta Style)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-a2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo A2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-exception-breakpoint-obstacle/"><u>Overcoming Windows Exception Breakpoint Obstacle</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-the-access-entry-corrupted-windows-malfunction/"><u>Reversing the 'Access Entry Corrupted' Windows Malfunction</u></a></li>
-<li><a href="https://techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
-<li><a href="https://techidaily.com/stegvisu-diskord-skarmshandling-pa-pc-och-mobil-plattformer/"><u>Stegvisu Diskord-Skärmshandling På PC Och Mobil Plattformer</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reattach-absent-drives-in-windows/"><u>Steps to Reattach Absent Drives in Windows</u></a></li>
-<li><a href="https://techidaily.com/telecharger-et-convertir-facilement-votre-fichier-m4v-au-format-wav-gratuitement-via-movavi/"><u>Télécharger Et Convertir Facilement Votre Fichier M4V Au Format WAV Gratuitement via Movavi</u></a></li>
-<li><a href="https://techidaily.com/televersement-gratuit-des-fichiers-orf-au-format-jpeg-convertissez-facilement-avec-movavi/"><u>Téléversement Gratuit Des Fichiers ORF Au Format JPEG - Convertissez Facilement Avec Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-and-review-to-the-updated-kindle-paperwhite-from-amazon-in-201/"><u>The Ultimate Guide and Review to the Updated Kindle Paperwhite From Amazon in 201#</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-list-of-video-encode-utilities-16-free-options-for-you/"><u>The Ultimate List of Video Encode Utilities: 16 FREE Options for You!</u></a></li>
-<li><a href="https://techidaily.com/top-12-editor-friendly-displays-budget-and-professional-options/"><u>Top 12 Editor-Friendly Displays: Budget and Professional Options</u></a></li>
-<li><a href="https://techidaily.com/top-12-free-mac-image-editing-software-picks-exploring-the-best-choices/"><u>Top 12 Free Mac Image Editing Software Picks - Exploring the Best Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-compatibility-score-which-phones-work-with-gear-vr/"><u>[New] Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile-for-2024/"><u>[Updated] How to Add Timestamp on YouTube Video Link? [Desktop and Mobile] for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-stunning-photographic-mosaics/"><u>[Updated] In 2024, Mastering Stunning Photographic Mosaics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-transforming-shipping-surprises-into-experiences/"><u>2024 Approved Transforming Shipping Surprises Into Experiences</u></a></li>
+<li><a href="https://techidaily.com/gsmpcandroid-movavi-mp3/"><u>移動用GSM音楽をPC/Androidへ変換するための無料ソリューション – Movavi MP3変換</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-you-buy-pause-here-4-ps5-warnings/"><u>Before You Buy, Pause Here: 4 PS5 Warnings</u></a></li>
+<li><a href="https://techidaily.com/gratuito-conversione-in-linea-dei-file-mp2-al-formato-wav-utilizzando-leditor-audio-di-movavi/"><u>Gratuito: Conversione In Linea Dei File MP2 Al Formato WAV Utilizzando L'Editor Audio Di Movavi</u></a></li>
+<li><a href="https://techidaily.com/gravacion-de-video-a-formato-de-audio-libre-y-gratuita-con-mp4-a-mp3-online/"><u>Gravación De Video a Formato De Audio Libre Y Gratuita Con MP4 a MP3 Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>In 2024, Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
+<li><a href="https://techidaily.com/megoldas-az-mxf-a-mp4-konvertalasa-modjairol-8-as-kiadasu-konverter-tenyezoknek-a-macwindows-rendszerrel/"><u>Megoldás Az MXF a MP4 Konvertálása Módjairol 8-as Kiadású Konverter Tényezőknek A Mac/Windows Rendszerrel</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-can-you-enhance-your-drone-footage-with-cinematic-drone-luts-this-article-discusses-top-drone-luts-recommendations-to-simplify-video-editing-for-2024/"><u>New Can You Enhance Your Drone Footage with Cinematic Drone LUTs? This Article Discusses Top Drone LUTs Recommendations to Simplify Video Editing for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-phantom-v-flip-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Phantom V Flip? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-budget-4k-television-a-detailed-look-at-hisenses-50h8f-model/"><u>The Best Budget 4K Television: A Detailed Look at Hisense's 50H8F Model</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2024-09-20T03:59:44.442Z
-updated: 2024-09-23T23:56:41.389Z
+date: 2024-09-18T21:51:59.337Z
+updated: 2024-09-24T06:29:08.291Z
 tags:
   - desktop
 categories:
@@ -19,18 +19,18 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Is sudo So Revered?
 
  The sudo command speeds up administrative tasks by letting you run tasks without having to start a new session as a different user. It's a real time-saver, and it is good for security as it means you don't have to share administrative credentials. It's so widely used in day-to-day Linux operations it's pretty much a [geek meme](https://xkcd.com/149/) at this point.
 
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
 
@@ -43,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * Ensure that Windows UAC prompts are displayed when privilege escalation occurs
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Enable sudo in Windows 11
 
  At the moment, sudo is only available to Windows users running [an Insider Preview of Windows 11](https://tiktok-clips.techidaily.com/2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/). If you want to use sudo today, you'll need to [enroll in the Windows Insider Program](https://program-issues.techidaily.com/boosting-horizon-zero-dawns-speed-tips-for-higher-fps-and-superior-play-experience/), otherwise you'll need to wait until the feature trickles out in an update.
@@ -67,24 +54,31 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
 
@@ -113,14 +107,20 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-above-and-beyond-the-best-non-twitter-networks/"><u>[New] In 2024, Above and Beyond The Best Non-Twitter Networks</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-magic-vs-2-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Magic Vs 2 Fingerprint Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/duas-formas-inovadoras-de-eliminar-barras-negras-em-seus-videos-online/"><u>Duas Formas Inovadoras De Eliminar Barras Negras Em Seus Vídeos Online</u></a></li>
-<li><a href="https://techidaily.com/guide-complet-pour-creer-des-videos-a-poster-sur-youtube-avec-lediteur-de-films-movavi/"><u>Guide Complet Pour Créer Des Vidéos À Poster Sur Youtube Avec L'Éditeur De Films Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-transform-your-flv-videos-into-high-quality-m4v-files-with-movavis-online-tools/"><u>How to Easily Transform Your FLV Videos Into High-Quality M4V Files with Movavi's Online Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-keep-your-skype-running-smoothly-a-guide-with-10-proven-fixes/"><u>How To Keep Your Skype Running Smoothly: A Guide with 10 Proven Fixes</u></a></li>
-<li><a href="https://techidaily.com/iniciando-tu-viaje-como-representante-de-ventas-con-el-programa-de-afiliados-movavi-tecnicas-y-estrategias-para-ganar/"><u>Iniciando Tu Viaje Como Representante De Ventas Con El Programa De Afiliados Movavi: Técnicas Y Estrategias Para Ganar</u></a></li>
-<li><a href="https://techidaily.com/las-10-metodos-mas-efectivos-para-transformar-un-video-a-gif-con-movavi/"><u>Las 10 Métodos Más Efectivos Para Transformar Un Video a GIF Con Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-capture-your-nintendo-switch-game-video/"><u>[New] 2024 Approved How To Capture Your Nintendo Switch Game Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-banishing-facebook-broadcasts-from-laptoptablet/"><u>[New] Banishing Facebook Broadcasts From Laptop/Tablet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-avoid-common-mistakes-in-nighttime-photography/"><u>[New] In 2024, How to Avoid Common Mistakes in Nighttime Photography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso/"><u>[Updated] 2024 Approved Meme Mastery Money-Making The Financial Figures of a Video Virtuoso</u></a></li>
+<li><a href="https://techidaily.com/100-innovadoras-propuestas-de-contenido-para-tu-canaleta-de-youtube/"><u>100 Innovadoras Propuestas De Contenido Para Tu Canaleta De Youtube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-text-design-with-ae-top-10-tips/"><u>2024 Approved Mastering Text Design with AE Top 10 Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-skyrocket-engagement-optimizing-videos-for-peak-views/"><u>2024 Approved Skyrocket Engagement Optimizing Videos for Peak Views</u></a></li>
+<li><a href="https://techidaily.com/1726233754916-movavi/"><u>今なりたけ！Movavi 割引キャンペーン - 安価で質の高い動画変換ソフトをお見せします。</u></a></li>
+<li><a href="https://techidaily.com/1726233743767-movavi/"><u>易用技巧：以最快速度進行影片逆向和正常切換教程 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233757455-avi-mjpeg/"><u>AVI를 MJPEG로 간단한 방식으로 온라인이 자연스럽게 가동: 무료 변환 서비스</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-15-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 15 or iPad?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlock-the-secret-to-pop-in-audio-on-social-video-shares/"><u>In 2024, Unlock the Secret to Pop-In Audio on Social Video Shares</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713954225633-updated-whatre-the-best-alternatives-to-pexels-in-2024/"><u>Updated Whatre the Best Alternatives to Pexels, In 2024</u></a></li>
+<li><a href="https://techidaily.com/1726233762542-webp-jpeg-movavi/"><u>Webp 공간을 절약하기 위한 JPEG 이미지의 비용 없는 온라인 변환 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233691843-movavi/"><u>모바비의 사용자 지원 센터: 고객 이해 안보를 제공하는 Movavi의 영역</u></a></li>
 </ul></div>
 

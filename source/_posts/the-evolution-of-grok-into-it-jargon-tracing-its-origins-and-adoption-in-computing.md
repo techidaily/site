@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of 'Grok' Into IT Jargon: Tracing Its Origins and Adoption in Computing"
-date: 2024-09-16T18:21:54.017Z
-updated: 2024-09-18T17:39:36.842Z
+date: 2024-09-18T07:49:58.110Z
+updated: 2024-09-24T06:50:23.416Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
  You may have heard that Elon Musk has released his own take on ChatGPT, in the form of "[Grok](https://grok.x.ai/)." It's a weird word, to be sure, but Elon didn't invent it. Instead, like the name "Tesla," there's history involved here.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Where Does "Grok" Come From?
 
  The term "Grok" comes from the novel _Stranger in a Strange Land_ by sci-fi master Robert A. Heinlein. The same prolific writer responsible for _Starship Troopers_ and _The Moon is a Harsh Mistress,_ to name a few.
@@ -25,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 _Stranger in a Strange Land_ was published in 1961, and was a controversial novel for quite some time thanks to its radically liberal themes and content. The book tells the story of a man raised by Martians who returns to Earth and provides a very alien perspective on human nature, culture, and society. I really wouldn't want to spoil one of my favorite books of all time, so if you're so inclined, I can't possibly recommend it more.
 
 ![Stranger in a Strange Land Book Cover](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/815tkx3wxyl-_sl1500_.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Stranger in a Strange Land
 
@@ -37,6 +51,13 @@ A true classic Sci-Fi novel that tells the story of a man raised by Martians who
  But the book as a whole isn't the thing we're most interested in here; it's the Martian term _grok,_ which does a lot of heavy lifting in the novel as a sort of mysterious catchall. The translation from Martian is literally "to drink," which in the context of the nearly waterless Mars is a profound concept. Grok has so many connotations that it almost becomes meaningless in a Zen way, but the meaning that matters here is "to understand."
 
  However, to grok isn't just to have a surface understanding of something. It means you understand something innately, that it's become part of who you are. Sort of like Bane from Batman, who [groks the dark](https://www.goodreads.com/quotes/600331-ah-you-think-darkness-is-your-ally-you-merely-adopted), unlike the rich guy in a bat suit.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Computer Geeks Adopted "Grok"
 
@@ -67,25 +88,25 @@ A true classic Sci-Fi novel that tells the story of a man raised by Martians who
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-free-tools-for-digital-video-capture-top-picks/"><u>[Updated] 2024 Approved Free Tools for Digital Video Capture - Top Picks</u></a></li>
-<li><a href="https://techidaily.com/future-proofing-your-pc-after-windows-11s-planned-discontinuation-choices-ahead/"><u>Future-Proofing Your PC After Windows 11'S Planned Discontinuation - Choices Ahead</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2023-file-stellar-by-stellar-guide/"><u>Get Rid of corrupt Excel 2023 File | Stellar</u></a></li>
-<li><a href="https://techidaily.com/guide-adding-your-favorite-websites-to-windows-10s-quick-access-buttons/"><u>Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons</u></a></li>
-<li><a href="https://techidaily.com/how-to-design-personalized-dynamic-backgrounds-for-macos-a-step-by-step-guide/"><u>How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/is-windows-11-24h2-compatible-with-your-computer-understanding-the-update-readiness/"><u>Is Windows 11 24H2 Compatible with Your Computer? Understanding the Update Readiness</u></a></li>
-<li><a href="https://techidaily.com/linux-terminal-techniques-mastering-the-art-of-command-line-software-removal/"><u>Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal</u></a></li>
-<li><a href="https://techidaily.com/mastering-side-by-side-file-comparisons-with-notepadplusplus-tutorial/"><u>Mastering Side-by-Side File Comparisons with Notepad++ Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seamlessly-embedded-your-tiktok-bios-direct-link-method/"><u>Seamlessly Embedded Your TikTok Bio's Direct Link Method</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-solutions-for-resolving-wwe-2k2es-pc-crashing-issues/"><u>Simple Solutions for Resolving WWE 2K2e's PC Crashing Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/skirting-watermarks-in-stock-photography-for-2024/"><u>Skirting Watermarks in Stock Photography for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlined-ai-for-optimal-results-with-bing-android-edition/"><u>Streamlined AI for Optimal Results with Bing, Android Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-editing-essentials-the-ultimate-guide-post-upload-refinements-for-2024/"><u>YouTube Editing Essentials The Ultimate Guide Post-Upload Refinements for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-anonymous-surveillance-methods-hiding-private-data-effectively/"><u>[New] 2024 Approved Anonymous Surveillance Methods Hiding Private Data Effectively</u></a></li>
+<li><a href="https://techidaily.com/1-professional-video-production-made-easy-a-guide-using-movavi/"><u>1. Professional Video Production Made Easy: A Guide Using Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>2024 Approved Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
+<li><a href="https://techidaily.com/2024app-8/"><u>2024新熱門：免費動手繪似顏畫App - 8款選擇</u></a></li>
+<li><a href="https://techidaily.com/aac3gp-movavi/"><u>網路直接無限制AAC到3GP格式傳送 - 使用Movavi 轉錄工具</u></a></li>
+<li><a href="https://techidaily.com/1726233802638-pcxjpeg-movavi/"><u>在线免费PCX与JPEG转换服务 – 优化版Movavi图片编辑器</u></a></li>
+<li><a href="https://techidaily.com/2024app8/"><u>掌上改造美術大師 – 2024最佳免費似顏繪App8款列表</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/audio-capture-system-testing-guide/"><u>Audio Capture System Testing Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-display-on-windows-7/"><u>Correcting Inverted Display on Windows 7</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-direct-tweeting-to-your-facebook-followers/"><u>In 2024, Direct Tweeting to Your Facebook Followers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits-for-2024/"><u>In-Depth Appraisal Does InShot Rule in Video Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/online-video-resources-for-enhanced-learning-experiences-for-2024/"><u>Online Video Resources for Enhanced Learning Experiences for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-obstacle-how-to-address-overwatch-screen-issues-after-startup/"><u>Overcoming the Obstacle: How to Address Overwatch Screen Issues After Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-transition-linux-subsystems-role-within-windows-11-framework/"><u>Tackling the Transition: Linux Subsystem's Role Within Windows 11 Framework</u></a></li>
+<li><a href="https://techidaily.com/transcodage-gratuit-de-fichiers-m4b-a-mkv-guide-complet-sur-movavi/"><u>Transcodage Gratuit De Fichiers M4B À MKV : Guide Complet Sur Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/treasure-hunt-unearthing-piracy-lingo/"><u>Treasure Hunt: Unearthing Piracy Lingo</u></a></li>
+<li><a href="https://techidaily.com/web-mov-swf/"><u>Web용 MOV 파일을 SWF로 자리바꿈하는 방법 - 무료 온라인 도구</u></a></li>
+<li><a href="https://techidaily.com/zoom-v-podstate-nacrtani-movavi-pohlceni-s-netecnou-hory-a-nekolika-sekund/"><u>Zoom v Podstatě: Načrtání Movavi Pohlcení S Netečnou Hory a Několika Sekund</u></a></li>
+<li><a href="https://techidaily.com/1726233755233-aifc-movavi/"><u>무료 AIFC 웹 매디어를 사용하여: Movavi 구현 방법</u></a></li>
+<li><a href="https://techidaily.com/1726233729158-orfjpeg-movavi/"><u>レシピ: ORFからJPEGへの無料オンライン変換 - Movaviで楽しむ</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

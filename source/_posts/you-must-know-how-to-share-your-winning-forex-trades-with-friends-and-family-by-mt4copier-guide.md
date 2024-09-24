@@ -1,6 +1,6 @@
 ---
 title: You must know how to Share Your Winning Forex Trades With Friends and Family
-date: 2024-08-01T19:05:48.241Z
+date: 2024-09-19T22:33:54.592Z
 tags: 
   - mt5
   - mt4
@@ -23,12 +23,8 @@ If you are a successful forex trader, you may want to share your winning trades 
 - **Local Trade Copier™ for MT4 & MT5 (Manager Annual Plan)** : [$965.83/year](https://secure.2checkout.com/order/cart.php?PRODS=4723648&QTY=1&AFFILIATE=108875)
 - **Local Trade Copier™ for MT4 & MT5 (VIP Annual Plan)** : [$2159.55/year](https://secure.2checkout.com/order/cart.php?PRODS=4723650&QTY=1&AFFILIATE=108875)
 
-
 ## MAAB Trade Filter: Copy Master Account Only When It Is Making Profits
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/1.png)
 
 All strategies have drawdowns or periods when they face unfavorable market conditions. MAAB Trade Filter is specifically made to reduce negative effects on your account when combined with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/). It is an easy solution to minimize drawdown and copy Master Account only when it is making profits. This tool also has the power to turn bad EAs and strategies into winners. Find out how MAAB Trade Filter makes it happen in this guide.
@@ -41,13 +37,17 @@ In the picture below you can see the Master account where the purple background 
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 MAAB Trade Filter tracks one Master account. However, you can stack up multiple MAAB Trade Filters to track multiple Master Accounts. Very useful if you have different strategies from multiple Master accounts and want to filter those who are not currently making profits. This way, the Client EA only receives trades from winning Master accounts. MAAB Trade Filter can also work in reverse mode if you need it.
 
 Note that the red Moving Average you see on the Master account histogram is just for your reference. The Moving Average on the Client-side is the one that will be used by Client EA for filtering. Just to avoid confusion if you use different Moving Average settings on those accounts.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Setting up your MAAB Trade Filter
 
 1. First things first, set your MAAB Trade Filter indicator on the server-side, on your Master account. The MAAB Trade Filter will scan every closed trade on the Master account and then send the signal to Client accounts, if applicable.
@@ -58,38 +58,31 @@ Note that the red Moving Average you see on the Master account histogram is just
    
 We are ready now to put MAAB Trade Filter into action! But make sure you understand all of MAAB Trade Filter powers and how to adjust it to your preference. In the next section, we will demonstrate exactly that.
 
-
 ### MAAB Trade Filter Features Demonstration
 
 So, I have my VPS up and four MetaTrader accounts running on it. MetaTrader 4 will be my Master account #1, and MetaTrader 5 will be my Master account #2. On the right side, I have two Client accounts, running on MetaTrader 4 and MetaTrader 5.  Now, both Client accounts will copy trades from both Master accounts, however, MAAB Trade Filter will be engaged so we can see how it filters undesirable trades.
 
 First, I will set up my server-side Master accounts. Open MetaTrader 4 and apply Server EA to the chart (drag n drop) from the Experts list. You will need to have at least version 2.9.9 of the EA to make it work with the MAAB Trade Filter. Click OK and do not worry about settings now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/4.png)
-
 
 Now go to the MT4 Indicator list and apply the “MA on Account Balance (server)” indicator to the chart too. No need to change the settings, however, if you need it to track an EA with a specific Magic Number you have that option available. Otherwise, a setting of 0 means it tracks manual trading. If you set the Magic Number input to -1 it will track all the trades on this account.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/5.png)
 
 If you zoom into the histogram, you will notice each histogram bar represents how closed trade affected the balance. A mouse-over tooltip above the indicator will display balance information on each bar. Notice that the histogram went down as losing trades closed and it went just below the Moving Average. At that point, MAAB Trade Filter would stop accepting trade signals from this Master account.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now I will set up a Metatrader 5 account, my second Master account. I can repeat the same procedure as for the first Master account. I apply the Server EA for the MT5 (at least version 1.1.6), then attach the MAAB Trade Filter indicator dedicated for the MT5 server-side. Notice this second Master account has a balance histogram below the filtering Moving Average, meaning it has a series of losing trades. We do not want these losing trades on the Client account, don’t we? That is why we filter them out using the MAAB Trade Filter.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/7.png)
 
 Moving on to the Client account on MT5. Here I will first insert the MAAB Trade Filter indicator for the client-side onto the MT5 chart window. A settings window will pop up and it will show a few options. You can change the Moving Average periods (default 13), MA types like Simple, Exponential, Smoothed, etc. For the MAAB Trade Filter to work, we must input the Master account number in the ServerAccountNumber field. No worries, in case you forget to type in the number the indicator window will display a warning.
@@ -107,6 +100,13 @@ Finally, I can attach the Client EA now onto the chart. In the EA settings, scro
 Regardless of your preference, The MAAB Trade Filter indicator will show an orange horizontal line that represents the current equity of the Master account. It will refresh every 15 seconds or so. As we see, the balance of this Master account is above the Moving Average so the Client EA will copy the trades to the client side.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to set the Moving Average to 50 periods, of course, this will also affect how the MAAB Trade Filter indicator behaves. With a 50-period Moving Average, the histogram balance is now below the MA, meaning the MAAB Trade Filter will cease copying trades from this Master account. Since the 50 period MA reacts slower to the histogram changes, it will need more winning trades before the histogram is above the MA(50). Only then the Master account trades will be allowed again to the Client account.
 
@@ -130,9 +130,6 @@ Finally, we have a second Client account that we want to improve with MAAB Tradi
 
 Now we add the Client EA v2.9.9f from the Experts list and enable it from the settings window. This time I will also set the EA to compare the Moving Average to equity instead of the account balance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/16.png)
 
 Check out the orange Equity line. It is below the Moving Average right?
@@ -141,39 +138,39 @@ Check out the orange Equity line. It is below the Moving Average right?
 
 Because of this, all trades from this Master account will be suspended until the equity goes above the Moving Average.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### MAAB Trade Filter in Action Examples
 
 Let’s go ahead and make some trades to see how MAAB Trade Filter manages trading from winning Master accounts and from those that currently do not show good performance. I already have a lot of trades open so I will pick one currency pair that does not have any. It is the USDJPY.
 
 Let’s buy half a lot on the first Master account (#60055865) and see what happens on the Client-side platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/18.png)
 
 As expected, the first Client account immediately copied the trade. The account balance from the Master account was above the Moving Average.
 
 However, the second Client account denied that trade. This is because we set the rule to compare the MA to Master’s equity – which was below the MA. We can confirm this by looking at the Experts tab and the line that says “Ignored trade BUY USDJPY because of the MAAB Trade Filter. Master account equity below MA13”. Clearly said, it is doing what we set it to do.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/19.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Even though the balance histogram was above the MA for this Master account, the equity was not. Once the equity goes above MA(13) the MAAB Trade Filter will allow it to pass to the Client account.
 
 Trades that are ignored by the system will also trigger the question mark on the main chart screen to turn red.  A counter for all ignored trades is available too.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Let’s do some more trading from the other Master account. EURUSD looks like a good example, buying 1 lot. This trade is sent to two Client accounts we have linked, but let’s see if it is filtered on any.
 
@@ -183,9 +180,6 @@ The first Client account ignored this EURUSD trade, but the second Client accoun
 
 If we go to fullscreen we can see the message in the Experts tab that trades from one of the Master accounts are ignored. The reason is “Master account balance is below MA13”. Perfect! That is what we want.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/22.png)
 
 Now let’s see what happens when we close this EURUSD trade. It is in a small profit. Alright, the histogram went up a bit as the balance increased by the profit amount. The equity was updated too. On the Client side, the same balance and equity changes are also visible.
@@ -194,52 +188,52 @@ Now let’s see what happens when we close this EURUSD trade. It is in a small p
 
 I will find and close some trades in a loss so I can show you what happens in this case. In the screenshot below, you can see that the loss caused the balance to go down which can be seen on the balance histogram going below the Moving Average.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/24.png)
 
 This means MAAB Trade Filter will no longer allow trades to this Client from either Master account. They both do not pass the filter rules we have set in the MAAB Trade Filter. To test this I will open a new USDJPY trade. As expected I see a “sell USDJPY ignored” message on the Client (see screenshot below), good job!
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/25.png)
 
 Since I have some trades in profit too I will close them to see what happens.
 
 After I close a profitable trade, the balance goes up and its histogram goes above Moving Average again!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/26.png)
 
 Does it mean the MAAB Trade Filter will now allow this Master account trades to the Client-side? Let’s test it out, I will make another USDJPY trade.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/27.png)
 
 Alright, the first client copied this trade, however, the second Client account did not. If you remember, there is a rule for MAAB Trade Filter we set – If equity is below the MA, ignore trades from this Master account. It just does what is supposed to do.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### MAAB Trade Filter Reverse Logic
 
 I open the Client EA settings on the first Client account (the one with two MAAB Trade Filters) and set the MAAB Reverse Logic parameter to True.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/28.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 I will also set the Reverse Trades to True under the Trades Manipulation settings section in the Client EA.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/29.png)
 
 Click OK and then open the Client EA settings on the second Client account (the one with just one MAAB Trade Filter set to compare equity). Now, let’s keep the equity rule and change MAAB Reverse Logic to True.
@@ -260,18 +254,20 @@ Meanwhile, the first Client account ignored this USDJPY trade. The Reverse Logic
 
 But what will happen if I open a EURUSD “buy” trade on the second Master account, the one with reversed trade logic? My “buy” EURUSD trade gets copied as “sell” EURUSD.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/32.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The second Client account copied the trade normally since we do not have any MAAB Trade Filter enabled for this Master account.
 
 The first Client account is a different story though. The Master account has a balance histogram below the MA. Normally, it would not be allowed to the Client-side, yet we have inversed its logic. With the Reversed Trade enabled too, the “buy” EURUSD becomes “sell” EURUSD.
 
 After all this, you might be wondering why would we need all this inversion? Well, this is a perfect solution for all Reversal trading strategies! It makes sense to reverse trades from a losing account, right? Why not make bad, losing strategies profitable? And with the MAAB Filter reverse logic, we are going one step further – we copy bad losing strategies (and reverse their trades) only when the Master account is losing. It is funny but true, now you can start composing bad strategies as well, and make use of all those EAs or strategies you have thrown into the trash bin.
-
-
 
 ## How to set different lot sizes for each copier account
 
@@ -288,7 +284,6 @@ If you are a Forex trader who uses MetaTrader 4 and MetaTrader 5, you may want t
 In this video, Rimantas shows how to copy your Forex and Gold trades from MT4 to MT5 in one click using the [Local Trade Copier](https://tools.techidaily.com/mt4copier/) software, even if you’ve never linked accounts before.
 
 Have you ever played with walkie-talkies? You press a button, say something, and your friend hears it on their walkie-talkie, even if they’re far away. It’s like magic, right? Well, Rimantas has a similar kind of magic trick to show you in this video, but it’s for your Forex and Gold trades.
-
 
 Imagine MT4 is your walkie-talkie, and MT5 is your friend’s walkie-talkie. Normally, if you wanted to tell your friend something, you’d have to walk over to them and say it. But with walkie-talkies, you can just press a button, and they hear you! Rimantas is going to teach you how to press that magical button for your trades. With just one click, you can send your Forex and Gold trades from your MT4 walkie-talkie to your friend’s MT5 walkie-talkie. It’s that simple!
 
@@ -308,9 +303,6 @@ So, get ready for an exciting journey. By the end of this video, you’ll be bro
 
 In this video, Rimantas explains how to make every MT4 & MT5 Client account use the same lot size as the Main account with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ for MT4 & MT5. It is an easy way to copy trades of equal lot size for all Metatrader accounts.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Share Your Winning Forex Trades With Friends and Family
 
 If you are a successful forex trader, you may want to share your winning trades with friends and family. This can be a great way to help them learn about forex trading and potentially make some money. There are a few different ways you can share your trades with others, so let’s take a look at some of the most popular options.
@@ -328,21 +320,6 @@ The [trade copier](https://tools.techidaily.com/mt4copier/), a tool often used i
 
 Overall, the [Local Trade Copier](https://tools.techidaily.com/mt4copier/) can democratize access to trading strategies, allow for shared learning experiences, and potentially increase the profitability for all involved parties through shared knowledge and resources.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Easily Copy & Paste Your Forex and Gold Trades From MT5 to MT4
 
 If you are a Forex trader who uses MetaTrader 5 and MetaTrader 4, you may want to copy your trades from one platform to another. This can be a great way to diversify your trading and take advantage of the unique features of each platform. In this guide, we will show you how to copy your Forex and Gold trades from MT5 to MT4 in one click.
@@ -352,7 +329,6 @@ If you are a Forex trader who uses MetaTrader 5 and MetaTrader 4, you may want t
 In this video, Rimantas shows how to easily copy & paste your Forex and Gold trades from MT5 to MT4 in a few simple steps.
 
 Now you can copy Forex and Gold trades from MT5 to MT4 and reap bigger profits in a few simple steps, without fear of making mistakes, even if you’ve never done it before.
-
 
 Imagine you have a magical notebook. Whatever you write in it, the words magically appear in another notebook too. That’s kind of like what Rimantas is going to show you in this video. It’s like a magic trick for your trades!
 
@@ -367,40 +343,23 @@ It’s like having a magic wand that does the work for you. So, even if you’ve
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-your-quick-reference-to-discord-spoiler-usage/"><u>[New] Your Quick Reference to Discord Spoiler Usage</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[Updated] 2024 Approved  How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-unforgettable-experiences-for-more-subscribers-with-these-6-tips/"><u>[Updated] In 2024, Craft Unforgettable Experiences for More Subscribers with These 6 Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveil-your-videos-secrets-of-social-sharing-success/"><u>[Updated] In 2024, Unveil Your Videos  Secrets of Social Sharing Success</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-understanding-permissions-the-key-to-saving-google-meets/"><u>[Updated] Understanding Permissions  The Key to Saving Google Meets</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-moments-of-quietude-top-idle-smartphone-games/"><u>2024 Approved  Moments of Quietude  Top Idle Smartphone Games</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-steps-for-transitioning-videos-from-youtube-to-dailymotion/"><u>2024 Approved  The Essential Steps for Transitioning Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-90-gt-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 90 GT Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-7-ultimate-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 7 Ultimate without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-zero-30-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Zero 30 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-c51-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C51 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-go-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark Go (2023) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-phantom-v-fold-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Phantom V Fold Without Password | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oppo-a78-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A78 Phone that is Locked?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-go-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark Go (2023) without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-narzo-60-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-taking-video-action-with-gopro-burst-technology/"><u>In 2024, Taking Video Action with GoPro Burst Technology</u></a></li>
-<li><a href="https://techidaily.com/is-your-tecno-camon-20-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Camon 20 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-samsung-galaxy-s24plus-converter-convert-mov-files-for-samsung-galaxy-s24plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung Galaxy S24+ converter-convert .mov files for Samsung Galaxy S24+</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-magic-6-lite-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-x-fold-2-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo X Fold 2 without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-xiaomi-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Xiaomi without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-k11x-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo K11x.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-a05s-by-fonelab-android-recover-photos/"><u>Undelete lost photos from A05s.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-discovering-potential-an-expert-review-of-ion-air-pro-3/"><u>[New] 2024 Approved Discovering Potential An Expert Review of ION Air Pro 3</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-video-ads-mastery-a-guide-to-creating-viral-content/"><u>[New] 2024 Approved Instagram Video Ads Mastery A Guide to Creating Viral Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-discreetly-watch-instas-hidden-gems-here/"><u>[New] In 2024, Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>[New] Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
+<li><a href="https://techidaily.com/6k6k6lqr6auy5oml77yb5lul5lil5piv5ycl57ch5zau44cb5bplusr6ycf55qe5pa55rov77ym55so5l6g5pwz5l2g5aac5l2v6j6n5zci5lin5zcm55qe55u454mh5oiq5lia5by15a6m576o5l2c5zob428/"><u>變身高手！以下是個簡單、快速的方法，用來教你如何融合不同的相片成一張完美作品。</u></a></li>
+<li><a href="https://techidaily.com/1726233701649-rmvb-mp4-movavi/"><u>免費線上 RMVB 改成 MP4 - 優化過的 Movavi 影片換算器指南</u></a></li>
+<li><a href="https://techidaily.com/1726233765475-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://techidaily.com/best-universal-screenshot-applications-the-ultimate-list-of-13-options-from-movavi/"><u>Best Universal Screenshot Applications: The Ultimate List of 13 Options From Movavi</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/discovering-disconnected-users-in-social-network/"><u>Discovering Disconnected Users in Social Network</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-premier-3d-blu-ray-systems-of-today-for-2024/"><u>Explore The Premier 3D Blu-Ray Systems of Today for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977868209-install-logitech-t630-drivers-on-windows-7810-download-now/"><u>Install Logitech T630 Drivers on Windows 7/8/10 - Download Now!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/metaversal-journey-versus-omniverse-quest/"><u>Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-ranking-of-superior-external-blu-ray-drives-to-upgrade-your-setup-in-2024/"><u>The Definitive Ranking of Superior External Blu-Ray Drives to Upgrade Your Setup in 지난해 2024</u></a></li>
+<li><a href="https://techidaily.com/caf-mp4-movavi/"><u>무료 CAF 형식으로의 MP4 파일 변환: 구현 방법 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/aiff-mpeg-movavi/"><u>오픈소스에서 무세금 AIFF MPEG 전환 - MOVAVI</u></a></li>
+<li><a href="https://techidaily.com/1726233800735-movavi/"><u>ご利用された商品について - Movaviによる返品規則紹介</u></a></li>
 </ul></div>
+

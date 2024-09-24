@@ -1,46 +1,22 @@
 ---
 title: Enhance User Experience with Cookiebot Powered Technology
-date: 2024-09-05T06:19:37.914Z
-updated: 2024-09-06T06:19:37.914Z
+date: 2024-09-19T18:41:28.899Z
+updated: 2024-09-23T20:49:33.500Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5e8a5ffb4e4a9c4a1397858e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhance User Experience with Cookiebot Powered Technology
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY Chief Innovation Officer to Deliver Keynote for the World’s Largest AI Event for Business
 
 December 09, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [ABBYY](https://tools.techidaily.com/abbyy/products/)®, a global leader in Digital IQ for the enterprise, today announced it will be among the technology experts sharing insights on Artificial Intelligence (AI) solutions transforming today’s workplace at the 4th annual [AI Summit New York](https://newyork.theaisummit.com/ "AI Summit New York") on December 11 – 12, 2019.
 
 Anthony Macciola, Chief Innovation Officer at ABBYY, will [present](https://tmt.knect365.com/ai-summit-ny/speakers/anthony-macciola/#2-implement-senior-strategists-and-heads-of-function%5Fimproving-the-future-of-work-through-enhanced-digital-intelligence "Presentation") on December 11 at 10:50 am on The Implement Stage. The presentation, titled “Improving the Future of Work Through Enhanced Digital Intelligence,” will offer timely insights on the future of work and the ways in which digital intelligence can transform the modern workplace.
@@ -76,8 +52,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,47 +61,29 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-ancient-aesthetics-public-domain-pieces/"><u>[New] Ancient Aesthetics  Public Domain Pieces</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-calculating-riches-a-look-at-mr-beasts-wallet/"><u>[New] In 2024, Calculating Riches  A Look at Mr. Beast's Wallet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capturing-adventure-top-5-methods-for-screening-minecraft-on-apple-machines/"><u>[New] In 2024, Capturing Adventure  Top 5 Methods for Screening Minecraft on Apple Machines</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-tips-how-to-perfectly-flip-videos-on-devices/"><u>[New] Instagram Tips  How to Perfectly Flip Videos on Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost/"><u>[Updated] 2024 Approved  A Step-by-Step Guide  How To Record, Save & Share YouTube Video for No Cost</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-collaborate-for-success-video-strategies/"><u>[Updated] In 2024, Collaborate for Success  Video Strategies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-maximize-engagement-with-ideal-video-dimensions-on-insta/"><u>[Updated] In 2024, Maximize Engagement with Ideal Video Dimensions on Insta</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-positive-reactions-in-a-world-of-negative-comments/"><u>[Updated] Positive Reactions in a World of Negative Comments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>[Updated] The Path to Virtual Visualization Excellence  A Zoom Video Filters Tutorial</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-avoid-story-filler-how-to-use-multiple-images-wisely-on-insta/"><u>2024 Approved  Avoid Story Filler  How to Use Multiple Images Wisely on Insta</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-broadcast-in-ultra-hd-on-the-social-network/"><u>2024 Approved  Broadcast in Ultra HD on the Social Network</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-innovations-to-enhance-your-short-video-experience/"><u>2024 Approved  Innovations to Enhance Your Short Video Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-on-web-ping-techniques/"><u>A Step-by-Step Guide on Web Ping Techniques</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/achieving-perfect-network-coverage-with-the-netgeer-nightehawk-x4-an-insightful-extender-review/"><u>Achieving Perfect Network Coverage with the Netgeer Nightehawk X4 - An Insightful Extender Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-character-creation-mastery-using-chatgpt-and-dall-e-for-dungeons-and-dragons/"><u>AI Character Creation Mastery: Using ChatGPT & DALL-E for Dungeons & Dragons</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-metric-questioning-critic-consensus/"><u>Beyond the Metric: Questioning Critic Consensus</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-msis-updated-bluetooth-drivers-optimized-support-for-windows-11-and-10/"><u>Download MSI's Updated Bluetooth Drivers - Optimized Support for Windows 11 and 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y100t-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y100t Phone</u></a></li>
-<li><a href="https://techidaily.com/how-to-play-fallout-3-on-windows-10/"><u>How to Play Fallout 3 on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-gmail-password-with-verification-code-2022-tips/"><u>How to RESET Your Gmail Password with Verification Code - 2022 Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-speed-up-your-slow-performing-frequently-freezing-pc-expert-tips/"><u>How to Speed Up Your Slow-Performing, Frequently Freezing PC - Expert Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-torrent-safely-without-getting-caught-without-virus/"><u>How to Torrent Safely [Without Getting Caught, Without Virus]</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-windows-10-drivers-if-you-cant-find-them-on-manufacturers-website/"><u>How to Update Windows 10 Drivers if You Can’t Find Them on Manufacturer’s Website</u></a></li>
-<li><a href="https://techidaily.com/improve-your-listening-experience-mastering-windows-10s-built-in-equalizer-features/"><u>Improve Your Listening Experience: Mastering Windows 10'S Built-In Equalizer Features</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/master-your-media-messages-a-guide-to-fb-video-posts-for-2024/"><u>Master Your Media Messages  A Guide to FB Video Posts for 2024</u></a></li>
-<li><a href="https://techidaily.com/master-your-visuals-customizing-3d-settings-on-nvidias-dashboard/"><u>Master Your Visuals: Customizing 3D Settings on NVIDIA's Dashboard</u></a></li>
-<li><a href="https://techidaily.com/minecraft-offline-mode-a-step-by-step-tutorial-for-windows-10-users/"><u>Minecraft Offline Mode: A Step-by-Step Tutorial for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/msi-camera-malfunction-learn-how-to-repair-and-optimize-with-these-helpful-hints/"><u>MSI Camera Malfunction? Learn How to Repair & Optimize with These Helpful Hints</u></a></li>
-<li><a href="https://techidaily.com/optimizing-graphics-performance-a-guide-to-pubgs-configurations-on-nvidia-gpus/"><u>Optimizing Graphics Performance: A Guide to PUBG's Configurations on NVIDIA GPUs</u></a></li>
-<li><a href="https://techidaily.com/overcoming-restrictions-enabling-access-to-websites-on-google-chrome/"><u>Overcoming Restrictions: Enabling Access to Websites on Google Chrome</u></a></li>
-<li><a href="https://techidaily.com/pc-gaming-basics-essential-guide-to-getting-started-with-fortnite/"><u>PC Gaming Basics: Essential Guide to Getting Started with Fortnite</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/preparing-for-facebooks-updated-marketing-strategy-for-2024/"><u>Preparing for Facebook’s Updated Marketing Strategy for 2024</u></a></li>
-<li><a href="https://techidaily.com/preventing-thermal-damage-steps-for-finding-and-fixing-an-overheated-processor/"><u>Preventing Thermal Damage: Steps for Finding & Fixing an Overheated Processor</u></a></li>
-<li><a href="https://techidaily.com/processor-power/"><u>Processor Power</u></a></li>
-<li><a href="https://techidaily.com/quick-fix-how-to-retrieve-a-missing-word-file-on-windows-10-visual-guide/"><u>Quick Fix: How to Retrieve a Missing Word File on Windows 10 (Visual Guide)</u></a></li>
-<li><a href="https://techidaily.com/refreshing-windows-11-performance-a-comprehensive-guide-to-hard-reset-techniques/"><u>Refreshing Windows 11 Performance: A Comprehensive Guide to Hard Reset Techniques</u></a></li>
-<li><a href="https://techidaily.com/revive-your-arch-bluetooth-mouse-compatibility-following-the-latest-windows-amoled-update/"><u>Revive Your Arch Bluetooth Mouse Compatibility Following the Latest Windows Amoled Update</u></a></li>
-<li><a href="https://techidaily.com/seamlessly-transfer-your-dvd-content-a-step-by-step-guide-for-windows-11-users/"><u>Seamlessly Transfer Your DVD Content: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/secure-your-ipad-with-a-virtual-private-network-simple-setup-steps-for-enhanced-privacy/"><u>Secure Your iPad with a Virtual Private Network: Simple Setup Steps for Enhanced Privacy</u></a></li>
-<li><a href="https://techidaily.com/simple-solutions-resolve-your-logitech-keyboard-delay-issues-with-these-effortless-tips/"><u>Simple Solutions: Resolve Your Logitech Keyboard Delay Issues with These Effortless Tips</u></a></li>
-<li><a href="https://techidaily.com/simple-steps-switching-your-windows-10-connection-from-public-to-private-mode/"><u>Simple Steps: Switching Your Windows 10 Connection From Public to Private Mode</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-process-for-pairing-android-smartphone-with-pc-using-bluetooth-technology/"><u>Step-by-Step Process for Pairing Android Smartphone with PC Using Bluetooth Technology</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-solutions-making-drag-and-drop-functional-again-on-your-pc/"><u>Step-by-Step Solutions: Making Drag & Drop Functional Again on Your PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-shopping-highlights-editing-steps-for-hauls-and-collections/"><u>[New] 2024 Approved Shopping Highlights Editing Steps for Hauls & Collections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-sound-transforming-apps-for-youtube-vloggers/"><u>[New] In 2024, Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digital-stream-capturers-2023-edition/"><u>[Updated] In 2024, Digital Stream Capturers, 2023 Edition</u></a></li>
+<li><a href="https://win-popular.techidaily.com/free-chakraui-dashboard-by-vision-a-comprehensive-guide-with-uis-and-widgets/"><u>Free ChakraUI Dashboard by Vision: A Comprehensive Guide with UIs & Widgets</u></a></li>
+<li><a href="https://techidaily.com/guide-facile-pour-prendre-des-captures-decran-accelerees-en-directavec-movavi-compatible-multiplateforme/"><u>Guide Facile Pour Prendre Des Captures D'écran Accélérées en Directavec Movavi - Compatible Multiplateforme</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g23-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G23 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-8-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 8 Plus Safe and Legal</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-hobby-footage-into-professional-vlogs/"><u>In 2024, Transforming Hobby Footage Into Professional Vlogs</u></a></li>
+<li><a href="https://techidaily.com/kostenloses-konvertieren-von-aiff-in-aac-mit-movavi-online-tool/"><u>Kostenloses Konvertieren Von AIFF in AAC Mit Movavi Online-Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/movavis-all-in-one-manual-for-mastering-standaard-fotomaten-techniques/"><u>Movavi's All-in-One Manual for Mastering Standaard Fotomaten Techniques</u></a></li>
+<li><a href="https://techidaily.com/movavi-flac-dts-flac/"><u>Movavi의 강력하고 사용자 친화적 FLAC 형식으로 DTS FLAC 전환 기법 – 무료 인터넷 시작</u></a></li>
+<li><a href="https://techidaily.com/mp3-online-ape-mp3/"><u>무료 MP3 형식 변환 - Online 사용 방법 : APE를 MP3으로 전환</u></a></li>
+<li><a href="https://techidaily.com/mp3-movavin/"><u>お使いやすい無料MP3フォーマット変換: Movaviのオンライnツェルベーターソリューション</u></a></li>
+<li><a href="https://techidaily.com/movavi-m4vmpeg/"><u>オンラインで使いやすく無料！Movaviの動画圧縮 - M4VからMPEGへ変換</u></a></li>
+<li><a href="https://techidaily.com/mova-vi-avi/"><u>オンラインでのストレートフォルダ MOVA VI AVIコンバーター - 無料版</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

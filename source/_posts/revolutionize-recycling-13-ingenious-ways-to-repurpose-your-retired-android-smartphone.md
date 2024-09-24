@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone"
-date: 2024-09-21T04:02:12.942Z
-updated: 2024-09-24T05:19:17.551Z
+date: 2024-09-20T07:27:08.387Z
+updated: 2024-09-23T21:30:09.577Z
 tags:
   - mobile
 categories:
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  If you have an old Android phone or two lying around your house collecting dust, this article is for you. Phones are versatile devices that can do just about anything, so there's no need to buy specialized gadgets when an old phone does the trick.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Repurpose It as a Storage Device 
 
  One of the most versatile ways to use a phone is as a storage device in place of an external drive. Sure, USB sticks are small and inexpensive, and [external SSDs](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) can reach insanely fast transfer speeds, but they also cost money to buy, whereas you already have an old phone. Plus, they don't usually support Bluetooth or Wi-Fi for wireless transfers or screens and speakers to show and play your stored media.
@@ -42,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  You could permanently connect it to a Bluetooth speaker if you want it to be as loud as a real smart speaker, but it's not necessary. Plus, you'd have to keep both devices plugged in or charged, so it's too much of a bother if you ask me.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Give It to Your Kid 
@@ -53,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  If you don't want to buy your child a phone because phones are an expensive commodity or for parenting reasons, I hear you. Thankfully, Android phones give you plenty of ways to manage a device other than enabling [Kids Mode](https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-se-without-password-by-drfone-ios/) on your own Samsung phone.
 
  There are [tools and apps you can use](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/) to manage what your kids can do on their phones and how much they can use it. This way, your child can have a way to contact you without getting glued to their screen. Old phones also make for pretty decent [cameras for kids](https://article-helps.techidaily.com/new-maximize-your-iphone-xs-selfie-potential-top-free-apps-for-2024/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Use It as a TV Remote and Streaming Device 
 
@@ -63,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 ## 5  Use It as a Mini Car Multimedia and Dash Cam 
 
  I'm all in favor of retrofitting touchscreens in old cars to get modern features like Android Auto, Google Maps, and Spotify. However, if you don't want to spend money on a car stereo and spend several hours figuring out the wiring, just hook up an old phone to the stereo. The phone can [double as a dash cam](https://remote-screen-capture.techidaily.com/in-2024-live-stream-to-screen-seamlessly-reviewed/), so if it's plugged in, it can act as a permanent multimedia solution for your car that doesn't rely on your main phone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Strap It to Your Bicycle 
 
@@ -76,23 +103,9 @@ Joe Fedewa / How-To Geek
 
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8  Use It as a PC Webcam 
 
 ![Woman in a meeting on a laptop using a phone as a webcam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ditch-the-webcam-i-use-my-android-phone-camera-to-look-better-on-video-calls.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/view-over-businesslady-shoulder-seated-workplace-1704165919) / Shutterstock
 
@@ -100,33 +113,27 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
  Your old phone already has everything that you need in a security camera—a solid camera, microphone, Wi-Fi, and storage. Smart security cameras are expensive and arguably [more prone to hacking](https://remote-screen-capture.techidaily.com/updated-webcam-ingenuity-for-productivity-boost/) than smartphones, though you shouldn't fully trust a phone running an outdated version of Android, either, so exercise caution. Follow our guide to [turn your old phone into a security camera](https://facebook-video-content.techidaily.com/updated-2024-approved-top-score-facebooks-1-10-music-video-showcase/).
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10  Use It as a Cheap Handheld 
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -143,13 +150,6 @@ Jason Montoya / How-To Geek
 ## 12  Transform It Into a Picture Frame or Calendar 
 
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 13  Sell It 
 
@@ -172,25 +172,22 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms/"><u>[New] In 2024, Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-next-level-content-creation-tools-post-vimeo/"><u>[Updated] 2024 Approved Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-formulating-a-singular-hashtag-for-your-tiktok-sphere/"><u>[Updated] Formulating a Singular Hashtag for Your TikTok Sphere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games/"><u>[Updated] In 2024, Next-Gen Odyssey Explore the Best of Windows 10'S Apps & Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-selecting-the-ideal-livestream-service-for-2024/"><u>[Updated] The Art of Selecting the Ideal Livestream Service for 2024</u></a></li>
-<li><a href="https://techidaily.com/11-napontal-jobboldali-a-reformacios-videok-tervezesere-szolo-2024-as-vilagszeru-szerterseg/"><u>11 Napontal Jobboldali: A Reformációs Videók Tervezésére Szóló 2024-as Világszerű Szertérség</u></a></li>
-<li><a href="https://techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
-<li><a href="https://techidaily.com/as-melhores-ferramentas-de-edicao-livre-de-video-top-10-em-2024-guia-completo/"><u>As Melhores Ferramentas De Edição Livre De Vídeo Top 10 Em 2024: Guia Completo</u></a></li>
-<li><a href="https://techidaily.com/baixar-conversor-de-tiff-para-gif-online-gratuito-movavi/"><u>Baixar Conversor De TIFF Para GIF Online Gratuito - Movavi</u></a></li>
-<li><a href="https://techidaily.com/como-tomar-capturas-de-pantalla-gratuitas-en-windows-11-sin-necesidad-de-aplicaciones-extras/"><u>Cómo Tomar Capturas De Pantalla Gratuitas en Windows 11 Sin Necesidad De Aplicaciones Extras</u></a></li>
-<li><a href="https://techidaily.com/conversione-libera-m4a-in-mp3-con-web-based-servizi-gratis-movavi-solutions/"><u>Conversione Libera .m4a in .mp3 Con Web-Based Servizi Gratis - Movavi Solutions</u></a></li>
-<li><a href="https://techidaily.com/convert-your-flac-files-to-mp3-for-free-with-movavis-web-based-tool/"><u>Convert Your FLAC Files to MP3 for Free with Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
-<li><a href="https://techidaily.com/enregistreur-video-de-screenshots-libre-screencapturepro/"><u>Enregistreur Vidéo De Screenshots Libre – ScreenCapturePro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-insights-how-to-effectively-use-the-chkdsk-tool-in-windows-os/"><u>Expert Insights: How To Effectively Use the ChkDsk Tool in Windows OS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-tech-dollars-with-the-acer-aspire-e-15-a-comprehensive-review/"><u>Maximizing Your Tech Dollars with the Acer Aspire E 15 - A Comprehensive Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-guide-downloading-and-installing-obs-for-macos/"><u>Step-by-Step Guide Downloading & Installing OBS for macOS</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/user-experience-revolutionized-by-cookiebot-technology/"><u>User Experience Revolutionized by Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/1726233732017-mov-mjpeg-movavi/"><u>シンプルな手順でMOV MJPEG形式の自由にオンライン変換 - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-your-first-adobe-presenter-video-for-2024/"><u>[New] The Ultimate Guide to Your First Adobe Presenter Video for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elite-microphones-matched-to-premium-4k-camera-systems/"><u>[Updated] 2024 Approved Elite Microphones Matched to Premium 4K Camera Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-tips-for-locating-youtubes-content-creation-hub-for-2024/"><u>[Updated] Essential Tips for Locating YouTube's Content Creation Hub for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-start-up-must-haves-decoded/"><u>[Updated] GoPro Start-Up Must-Haves Decoded</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-motorola-moto-g24-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Motorola Moto G24 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-echo-to-etchings-discovering-preeminent-text-apps/"><u>In 2024, Echo to Etchings Discovering Preeminent Text Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/selecciona-el-capturador-ideal-de-pantalla-para-tu-pc-con-windows-1087-guia-completa-para-grabar-toda-su-pantalla/"><u>Selecciona El Capturador Ideal De Pantalla Para Tu PC Con Windows (10/8/7): Guía Completa Para Grabar Toda Su Pantalla</u></a></li>
+<li><a href="https://techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-guide-to-creating-free-youtube-banners-top-10-best-designers-reviewed/"><u>The Ultimate Guide to Creating Free YouTube Banners: Top 10 Best Designers Reviewed!</u></a></li>
+<li><a href="https://techidaily.com/top-15-videstableringsprogrammer-i-2024-denne-gratis-og-kosten-parat/"><u>Top 15 Videstableringsprogrammer I 2024: Denne Gratis Og Kosten Parat</u></a></li>
+<li><a href="https://techidaily.com/transforma-tus-archivos-vob-gratuitamente-a-video-el-mejor-uso-de-movavi-explicado-detalladamente/"><u>Transforma Tus Archivos VOB Gratuitamente a Video: El Mejor Uso De Movavi Explicado Detalladamente</u></a></li>
+<li><a href="https://techidaily.com/transformar-imagenes-animadas-gif-en-videos-mov-sin-gastar-tutorial-paso-a-paso-y-opciones-gratuitas-online/"><u>Transformar Imágenes Animadas GIF en Videos MOV Sin Gastar: Tutorial Paso a Paso Y Opciones Gratuitas Online</u></a></li>
+<li><a href="https://techidaily.com/transformez-votre-fichier-m4b-en-version-wma-gratuite-sur-internet-avec-convertmovavi/"><u>Transformez Votre Fichier M4B en Version WMA Gratuite Sur Internet Avec ConvertMovavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-immagini-tiff-in-jpg-di-fronte-a-computer-gratuitamente-utilizzando-movavi/"><u>Trasforma Immagini TIFF in JPG Di Fronte a Computer Gratuitamente Utilizzando Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasformare-il-tuo-filmato-mka-in-formato-mkv-senza-costi-convertitore-video-online/"><u>Trasformare Il Tuo Filmato MKA in Formato MKV Senza Costi - Convertitore Video OnLine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-a-reasonable-processor-speed-for-modern-day-use/"><u>What's a Reasonable Processor Speed for Modern-Day Use?</u></a></li>
 </ul></div>
 

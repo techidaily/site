@@ -1,7 +1,7 @@
 ---
 title: "Drive Traffic with Cutting-Edge Automated Tracking: The Power of Cookiebot"
-date: 2024-08-22T08:27:10.953Z
-updated: 2024-08-23T08:27:10.953Z
+date: 2024-09-21T09:39:20.126Z
+updated: 2024-09-24T03:05:51.094Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63e5abfaa3c7c10c7e5faa6e1.jpg
@@ -20,6 +20,13 @@ Did you know that the International Day of Families is celebrated on the 15th of
 At ABBYY, we value accommodating the diverse needs of our colleagues to ensure that thriving at work does not come at the expense of striking an ideal balance between professional and family life. We do this by providing flexible work arrangements including hybrid work, remote work, work-from-abroad opportunities, and flexible working hours across most of our teams.
 
 From stories of siblings and partners working together to colleagues discovering the joys of parenthood, a few ABBYY colleagues share their stories on balancing work and family life.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Anastasiia and Anna
 
@@ -67,16 +74,10 @@ For me to respond with good energy, it is key that I prioritize maintaining a go
 
 Ryan, Senior Solution Consultant
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Steve
 
 ![steve-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/steve-600x600.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Steve**, our Head of Talent Acquisition based in the US, shares Ryan's view that once you become a parent, striking the perfect work-life balance takes center stage.
 
 “For me, work-life balance has always been a priority. Since becoming a parent, however, it has become both more important and a challenge to balance the two. One thing that has become abundantly clear to me is how fast time goes by once you’re a parent, which has really put things into perspective in terms of what matters most when prioritizing one’s time. After having my first child, I found myself seeking greater flexibility in my career to accommodate these new responsibilities. Working remotely allows that flexibility to not only have more time but also allows you to choose how that time is spent. It has been a game changer for me and my family in the best of ways.
@@ -87,12 +88,16 @@ After having my first child, I found myself seeking greater flexibility in my ca
 
 Steve, Head of Talent Acquisition
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Aleksandar
 
 ![aleksandar-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/aleksandar-600x600.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 "At first, I thought that becoming a parent will maybe have, so to say, a negative impact on my work and career," confessed **Aleksandar** from our Finance team in Serbia who has recently joined ABBYY after becoming a father. 
 
@@ -104,17 +109,17 @@ Initially, my biggest concern was how to organize my time and find a balance bet
 
 Aleksander, Order Fulfillment Specialist
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Konstantin and Ekaterina
 
 ![konstantin-ekaterina-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/konstantin-ekaterina-600x600.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 In our Cyprus Research Development (R&D) and Product Development teams, we found **Konstantin** and **Ekaterina** who shared a bit about their experience working as a married couple with children at ABBYY:
 
 “Truth be told, ABBYY isn't our first rodeo together. We hustled as waiters back in our student days, then rocked it out at another IT joint.
@@ -130,8 +135,12 @@ Yeah, we chat about work at home sometimes, but we make sure to switch it off, t
 Konstantin and Ekaterina, R&D and Product Development
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Rahul
 
 ![rahul-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/rahul-600x600.png) 
@@ -204,8 +213,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,48 +222,25 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-savvy-capturing-spherical-photos-with-iphone/"><u>[New] 2024 Approved  Social Media Savvy  Capturing Spherical Photos with iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-pairing-of-tiktok-bio-and-linktree-connection/"><u>[New] Perfect Pairing of TikTok Bio & Linktree Connection</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pro-level-hp-notebook-screen-recording-techniques-uncovered/"><u>[New] Pro-Level HP Notebook Screen Recording Techniques Uncovered</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flashing-frequencies-role-music-synopsis/"><u>[Updated] 2024 Approved  Flashing Frequencies  Role-Music Synopsis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>[Updated] Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-instagram-desktop-video-upload-for-2024/"><u>[Updated] The Ultimate Guide to Instagram Desktop Video Upload for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-battery-awareness-custom-notification-for-win11-users/"><u>Accelerating Battery Awareness: Custom Notification for Win11 Users</u></a></li>
-<li><a href="https://techidaily.com/amd-driver-woes-be-gone-master-the-art-of-uninstallation-on-windows-devices/"><u>AMD Driver Woes Be Gone: Master the Art of Uninstallation on Windows Devices</u></a></li>
-<li><a href="https://techidaily.com/banishing-delays-efficient-solutions-for-fast-booting-windows-11-systems/"><u>Banishing Delays: Efficient Solutions for Fast-Booting Windows 11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-with-influence-harnessing-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Connect with Influence: Harnessing the Power of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-immersive-tech-vr-explained-simply/"><u>Exploring Immersive Tech  VR Explained Simply</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grand-revelations-in-cinema-trailers-for-2024/"><u>Grand Revelations in Cinema Trailers for 2024</u></a></li>
-<li><a href="https://techidaily.com/1723808290812-how-to-connect-ps4-controller-to-ps3-easily/"><u>How to Connect PS4 Controller to PS3. Easily</u></a></li>
-<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-cutting-edge-techniques-elevating-your-youtube-edits-using-imovie/"><u>In 2024, Cutting-Edge Techniques  Elevating Your YouTube Edits Using iMovie</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-f15-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy F15 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://techidaily.com/1723808310103-installing-your-epson-printer-made-simple-follow-these-steps/"><u>Installing Your Epson Printer Made Simple: Follow These Steps!</u></a></li>
-<li><a href="https://techidaily.com/master-playing-games-with-a-ps4-controller-on-steam-a-detailed-tutorial/"><u>Master Playing Games with a PS4 Controller on Steam - A Detailed Tutorial</u></a></li>
-<li><a href="https://techidaily.com/mastering-pubg-settings-discover-the-best-techniques-for-a-smoother-gaming-experience-top-7-strategies/"><u>Mastering PUBG Settings: Discover the Best Techniques for a Smoother Gaming Experience (Top 7 Strategies)</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-window-11-screenshotting-tutorials/"><u>Mastering the Art of Window 11 Screenshotting Tutorials</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-fps-in-fortnite-essential-tips/"><u>Maximize Your FPS in Fortnite - Essential Tips</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-pubg-gameplay-top-strategies-to-increase-fps-in-2020/"><u>Maximize Your PUBG Gameplay: Top Strategies to Increase FPS in 2020</u></a></li>
-<li><a href="https://techidaily.com/navigating-windows-10-advanced-startup-features-with-minimal-hassle-a-how-to-guide/"><u>Navigating Windows 10 Advanced Startup Features with Minimal Hassle: A How-To Guide</u></a></li>
-<li><a href="https://techidaily.com/optimize-and-overclock-the-ultimate-list-of-tricks-to-make-your-laptop-faster/"><u>Optimize and Overclock: The Ultimate List of Tricks to Make Your Laptop Faster.</u></a></li>
-<li><a href="https://techidaily.com/optimize-windows-11-for-gamers-by-switching-off-mouse-acceleration-feature/"><u>Optimize Windows 11 for Gamers by Switching Off Mouse Acceleration Feature</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pioneering-screen-capture-methods-with-adobe-captivity-unveiled/"><u>Pioneering Screen Capture Methods with Adobe Captivity Unveiled</u></a></li>
-<li><a href="https://techidaily.com/quick-fixes-rebuilding-the-icon-cache-on-your-windows-7-8-or-vista-pc/"><u>Quick Fixes: Rebuilding the Icon Cache on Your Windows 7, 8 or Vista PC</u></a></li>
-<li><a href="https://techidaily.com/self-fixing-operating-system-tools-for-windows-11-users/"><u>Self-Fixing Operating System Tools for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/solving-high-disk-usage-woes-tips-for-windows-11-users-facing-a-full-disk-scenario/"><u>Solving High Disk Usage Woes - Tips for Windows 11 Users Facing a Full Disk Scenario</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-perform-a-successful-system-restore-in-windows-10/"><u>Step by Step Tutorial: How to Perform a Successful System Restore in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-fixes-for-non-functional-windows-system-diagnostic-app/"><u>Step-by-Step Fixes for Non-Functional Windows System Diagnostic App</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-capturing-images-with-your-lenovo-computers-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Lenovo Computer's Built-In Camera</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-clearing-viruses-off-your-android-smartphone-without-erasing-everything/"><u>Step-by-Step Guide: Clearing Viruses Off Your Android Smartphone Without Erasing Everything</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-steps-for-the-notorious-pacific-drive-crashes-on-windows-and-mac/"><u>Step-by-Step Troubleshooting Steps for the Notorious 'Pacific Drive' Crashes on Windows and Mac</u></a></li>
-<li><a href="https://techidaily.com/tackling-the-trouble-easy-ways-to-fix-your-frozen-windows-update-dilemma/"><u>Tackling the Trouble: Easy Ways to Fix Your Frozen Windows Update Dilemma</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-guide-how-to-upgrade-bios-compatible-with-windows-11/"><u>The Ultimate Guide: How to Upgrade BIOS Compatible with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-fixing-seagate-hdd-visibility-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing Seagate HDD Visibility Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-managing-high-cpu-consumption-by-antimalware-service-executable-on-windows-systems/"><u>Troubleshooting Guide: Managing High CPU Consumption by 'Antimalware Service Executable' On Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-resolving-issues-with-your-logitech-k780-keyboard/"><u>Troubleshooting Tips: Resolving Issues with Your Logitech K780 Keyboard</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-solving-the-black-webcam-issue-in-windows-11-and-10/"><u>Troubleshooting Tips: Solving the Black Webcam Issue in Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-eliminating-low-fps-issues-in-minecraft-on-high-end-systems-tips/"><u>Ultimate Guide: Eliminating Low FPS Issues in Minecraft on High-End Systems - Tips</u></a></li>
-<li><a href="https://techidaily.com/1723808226582-unlock-the-power-of-advanced-startup-in-windows-11-easy-methods-revealed/"><u>Unlock the Power of Advanced Startup in Windows 11: Easy Methods Revealed</u></a></li>
-<li><a href="https://techidaily.com/wireless-gameplay-on-ps4-integrating-a-keyboard-and-mouse-into-your-setup/"><u>Wireless Gameplay on PS4: Integrating a Keyboard and Mouse Into Your Setup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flawless-soundscapes-in-the-world-of-social-media-videos-for-2024/"><u>[New] Flawless Soundscapes in the World of Social Media Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-navigating-networking-on-linkedin/"><u>[New] In 2024, Navigating Networking on LinkedIn</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-social-engagement-instagram-stories-surveys-for-2024/"><u>[Updated] Demystifying Social Engagement Instagram Stories Surveys for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-instant-sharing-transferring-twitter-videos-to-fb-2-written-in-english/"><u>2024 Approved Instant Sharing Transferring Twitter Videos to FB (2 Written in English)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-c53-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme C53 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-videos-the-best-5-tech-aids/"><u>Boosting Videos The Best 5 Tech Aids</u></a></li>
+<li><a href="https://techidaily.com/easy-video-format-changing-mp2wmv-online-tools-from-movavi-download-now/"><u>Easy Video Format Changing: MP2/WMV Online Tools From Movavi, Download Now!</u></a></li>
+<li><a href="https://techidaily.com/efficient-movavi-video-editing-tutorials-schritt-fur-schritt-lektionen-fur-die-optimale-videobearbeitung/"><u>Efficiënt Movavi Video Editing Tutorials: Schritt Für Schritt Lektionen Für Die Optimale Videobearbeitung</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-convert-your-vob-videos-to-mkv-at-no-cost-using-movavis-web-service/"><u>Effortlessly Convert Your VOB Videos to MKV at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://techidaily.com/expertly-curated-discover-the-best-16-video-streamers-on-the-market/"><u>Expertly Curated: Discover the Best 16 Video Streamers on the Market</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-8-superior-apps-for-managing-additional-phone-lines/"><u>Explore 8 Superior Apps for Managing Additional Phone Lines</u></a></li>
+<li><a href="https://techidaily.com/explore-our-selection-of-highest-ranking-4k-recording-applications-for-every-device-type-movavi-recommended-picks/"><u>Explore Our Selection of Highest-Ranking 4K Recording Applications for Every Device Type – Movavi Recommended Picks</u></a></li>
+<li><a href="https://techidaily.com/free-conversion-tool-effortlessly-change-trp-to-mpg-with-movavi/"><u>Free Conversion Tool: Effortlessly Change TRP to MPG with Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-conversion-vob-to-m4v-files-with-moveavi-start-today/"><u>Free Online Conversion: VOB to M4V Files with Moveavi - Start Today!</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-videos-to-webm-format-instantly-with-moveavew/"><u>Free Online Converter: Change MP4 Videos to WebM Format Instantly with Moveavew</u></a></li>
+<li><a href="https://techidaily.com/gratisk-online-omzetten-van-m4r-naar-aiff-formaat-met-movavi/"><u>Gratisk Online Omzetten Van M4R Naar AIFF-Formaat Met Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-personalizing-windows-11-backgrounds-easily/"><u>In 2024, Personalizing Windows 11 Backgrounds Easily</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-final-cut-pro-tutorial-rotate-video-180-with-these-easy-steps-for-2024/"><u>Updated Final Cut Pro Tutorial Rotate Video 180° with These Easy Steps for 2024</u></a></li>
 </ul></div>
+

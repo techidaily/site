@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment"
-date: 2024-08-18T03:46:18.840Z
-updated: 2024-08-19T03:46:18.840Z
+date: 2024-09-21T03:13:50.660Z
+updated: 2024-09-24T00:50:16.482Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ The answer is, no.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975bf68b4ff6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Use DISM Tool**
 
 **DISM**  stands for Deployment Image & Servicing Management. It is a tool that allows you to make changes to Windows features, packages, drivers, and international settings. In this case, we will use it to help us clean up our WinSxS folder.
@@ -75,6 +82,13 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c1fc428ac.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check for possible typo. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c4b394177.png)
@@ -91,6 +105,13 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup /ResetBase
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c55d520c4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Still in the same window, type in or copy and paste in the following command:
 
 Dism.exe /online /Cleanup-Image /SPSuperseded
@@ -98,6 +119,13 @@ Dism.exe /online /Cleanup-Image /SPSuperseded
  This command helps you reduce the amount of space used by a Service Pack.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c5c8b3c70.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Make sure that you have made no typo and hit Enter.
 
@@ -115,8 +143,6 @@ Hope your problem solved!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,55 +152,20 @@ Hope your problem solved!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-redefine-viewing-premium-platforms-for-videos/"><u>[New] 2024 Approved  Redefine Viewing  Premium Platforms for Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-titles-your-gateway-to-open-worlds/"><u>[New] In 2024, Essential Titles  Your Gateway to Open Worlds</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfect-your-gaming-capture-console-gameplay-on-a-computer/"><u>[New] In 2024, Perfect Your Gaming Capture  Console Gameplay on a Computer</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-transformation-of-video-on-facebook/"><u>[New] The Transformation of Video on Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping/"><u>[Updated] 2024 Approved  Effortless Downloads at Zero Cost  Find the Top 20 Tools for YouTube Sound Ripping</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-hitting-the-sweet-spot-balancing-images-in-your-instagram-story-for-2024/"><u>[Updated] Hitting the Sweet Spot  Balancing Images in Your Instagram Story for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-substitutes-for-winmovie-new-windows-editors/"><u>[Updated] Substitutes for WinMovie  New Windows Editors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-understanding-whatsapps-voice-communication-system/"><u>[Updated] Understanding WhatsApp's Voice Communication System</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-the-secrets-of-instagrams-musical-emoji-usage-for-2024/"><u>[Updated] Unveiling the Secrets of Instagram's Musical Emoji Usage for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-chuckle-inducing-layout/"><u>2024 Approved  Optimal Chuckle-Inducing Layout</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-perfect-green-screen-in-kinemaster/"><u>2024 Approved  Unveiling the Secrets to Perfect Green Screen in Kinemaster</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-your-onedrive-save-point-on-windows-10/"><u>Altering Your OneDrive Save Point on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-x90s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo X90S Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-asus-rog-phone-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Asus ROG Phone 7 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-on-getting-a-stuck-paradox-launcher-back-in-action/"><u>Expert Advice on Getting a Stuck Paradox Launcher Back in Action</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A2 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-fold-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel Fold without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y200e-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y200e 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-f23-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo F23 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro Max without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-smart-8-plus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Smart 8 Plus Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-streamlining-post-production-adding-annotations-to-videos/"><u>In 2024, Streamlining Post-Production  Adding Annotations to Videos</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Max Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-narzo-60-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Narzo 60 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-moto-g73-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Moto G73 5G</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-common-problems-with-your-hp-wireless-keyboard-step-by-step-guide/"><u>Solving Common Problems with Your HP Wireless Keyboard: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-dsounddll-file-absence-issue-a-step-by-step-guide/"><u>Solving the dsound.dll File Absence Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-lava-blaze-2-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Lava Blaze 2 5G</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-lava-blaze-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Blaze Pro 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-huawei-p60-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Huawei P60.</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-se-2022-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone SE (2022) screen lock</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor X7b</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/zoomed-up-enhancing-action-film-clarity/"><u>Zoomed Up  Enhancing Action Film Clarity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-facebook-video-success-key-strategies-revealed/"><u>[New] Unlocking Facebook Video Success Key Strategies Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-viral-potential-with-ai-driven-video-titles/"><u>[New] Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-in-depth-look-at-bandicams-functionality-for-video-creation/"><u>[Updated] 2024 Approved In-Depth Look at Bandicam's Functionality for Video Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-foremost-4k-camcorders-our-best-picks/"><u>[Updated] In 2024, Foremost 4K Camcorders Our Best Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-video-storytelling-adding-narration-step-by-step/"><u>[Updated] Mastering Video Storytelling Adding Narration Step-by-Step</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlock-free-tunes-steps-for-youtube-content-creators/"><u>2024 Approved Unlock Free Tunes Steps for YouTube Content Creators</u></a></li>
+<li><a href="https://techidaily.com/cambia-archivos-de-tiff-a-jpg-sin-coste-con-la-herramienta-on-line-de-conversion-de-imagenes-de-movavi/"><u>Cambia Archivos De Tiff a Jpg Sin Coste Con La Herramienta On-Line De Conversión De Imágenes De Movavi</u></a></li>
+<li><a href="https://techidaily.com/cambiar-facilmente-webm-a-mov-file-sin-coste-con-herramienta-de-movavi/"><u>Cambiar Fácilmente Webm a Mov File Sin Coste Con Herramienta De Movavi</u></a></li>
+<li><a href="https://techidaily.com/capturing-desktop-activity-a-guide-to-screen-recording-with-audio-on-windows-systems/"><u>Capturing Desktop Activity: A Guide to Screen Recording With Audio on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/choosing-the-right-video-format-a-comprehensive-guide-on-mp4-vs-mkv/"><u>Choosing the Right Video Format: A Comprehensive Guide on MP4 vs MKV</u></a></li>
+<li><a href="https://techidaily.com/comparando-formatos-de-video-en-que-se-diferencian-mp4-y-wmv/"><u>Comparando Formatos De Video: En Qué Se Diferencian MP4 Y WMV</u></a></li>
+<li><a href="https://techidaily.com/conversione-online-per-la-gratuita-da-wav-a-formato-m4b-senza-problemi-usando-movavi/"><u>Conversione Online per La Gratuità: Da WAV a Formato M4B Senza Problemi Usando Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-quick-fix-for-background-removal-in-figma-projects/"><u>In 2024, Quick Fix for Background Removal in Figma Projects</u></a></li>
+<li><a href="https://techidaily.com/caf-mp4-movavi/"><u>무료 CAF 형식으로의 MP4 파일 변환: 구현 방법 - Movavi</u></a></li>
 </ul></div>
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

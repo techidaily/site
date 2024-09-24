@@ -1,7 +1,7 @@
 ---
 title: "The Metaverse Unveiled: Understanding Its Depths Beyond Simple VR Technology"
-date: 2024-09-13T18:45:29.563Z
-updated: 2024-09-18T19:26:14.111Z
+date: 2024-09-22T20:46:09.134Z
+updated: 2024-09-23T20:51:52.813Z
 tags:
   - cutting-edge
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 
  Tech CEOs keep talking about "the metaverse." Mark Zuckerberg [insists](https://www.bloomberg.com/news/articles/2021-07-29/mark-zuckerberg-explains-metaverse-vision-to-facebook-fb-investors-analysts) that Facebook will be seen as a "metaverse company" instead of a social media company---so much so that he renamed the company "Meta." Satya Nadella [proclaims](https://www.linkedin.com/pulse/expanding-partner-opportunity-microsoft-cloud-satya-nadella/) Microsoft is creating a "metaverse stack" for the enterprise. We'll explain what's going on, starting with Snow Crash.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Origins of "Metaverse": Snow Crash
 
  Author Neil Stephenson coined the term "metaverse" in [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958?tag=hotoge-20&ascsubtag=UUhtgUeUpU209169&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F745807%2Fwhat-is-the-metaverse-is-it-just-virtual-reality-or-something-more%2F&asc%5Fcampaign=Short-Term), a dystopian [cyberpunk](https://extra-resources.techidaily.com/photoshops-stabilization-capabilities-real-advantage/) novel published in 1992.
@@ -32,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 
  In fact, in 2011, Stephenson told [Forbes](https://www.forbes.com/sites/davidewalt/2011/09/19/neal-stephenson-reamde-video-games/) that he saw video games like World of Warcraft as the real metaverse: Virtual worlds you could inhabit with your friends. In 2021, games like Minecraft and Fortnite are perhaps closer to the vision of the metaverse he foresaw.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Is the "Metaverse" Just Rebranded Virtual Reality?
 
  There are lots of [great VR headsets](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) out there. We love the Oculus Quest 2\. [It's the future of virtual reality](https://youtube-sure.techidaily.com/024-approved-how-much-cash-can-you-score-for-watching-a-million-videos/), and [VR games like Beat Saber](https://youtube-help.techidaily.com/2024-approved-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/) will sell you on why virtual reality can be great.
@@ -41,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
  In 2017, Stephenson made that case to [Vanity Fair](https://www.vanityfair.com/news/2017/06/neal-stephenson-metaverse-snow-crash-silicon-valley-virtual-reality), pointing out that virtual reality (VR) and not augmented reality (AR) was necessary for that kind of vision:
 
 > If you're in an AR application, you are where you are. You're in your physical environment, you're seeing everything around you normally, but there's additional stuff that's being added. So VR has the ability to take you to a completely different fictional place---the kind of thing that's described in the Metaverse in Snow Crash. When you go into the Metaverse, you're on the street, you're in the Black Sun, and your surroundings disappear. In the book, Hiro lives in a shabby shipping container, but when he goes to the Metaverse, he's a big deal and has access to super high-end real estate.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Maybe the Metaverse Is Just the New "Web 2.0"
 
@@ -61,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
  When you realize Facebook owns [Oculus](https://www.oculus.com/), the company's desire to strongly push a future VR-based platform makes a lot of sense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Microsoft and "Digital Twins"
@@ -74,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
  Of course, as we learned with Windows 10's "Mixed Reality" headsets, [that term often just means Virtual Reality to Microsoft](https://tech-recovery.techidaily.com/unleash-inspiration-the-507-most-captivating-instagram-captions/). However, it can also mean augmented reality: And, little surprise, Microsoft also has a headset to sell you: [The HoloLens](https://www.microsoft.com/en-us/hololens).
 
 ![51nbYwWXNuL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51nbywwxnul-_sl500_.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Coined the Term
 
@@ -107,14 +127,18 @@ Read the classic cyberpunk book that apparently inspired a generation of tech CE
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-essential-meme-template-toolkit/"><u>[Updated] In 2024, The Essential Meme Template Toolkit</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-making-your-mark-on-facebooks-algorithmic-landscape/"><u>[Updated] Making Your Mark on Facebook's Algorithmic Landscape</u></a></li>
-<li><a href="https://techidaily.com/beat-the-macbook-air-with-lenovos-new-yoga-slim-7x-a-revolutionary-snapdragon-x-elite-infused-laptop-review/"><u>Beat the MacBook Air with Lenovo's New Yoga Slim 7X - A Revolutionary Snapdragon X Elite-Infused Laptop Review</u></a></li>
-<li><a href="https://techidaily.com/budget-friendly-productivity-tools-evaluating-a-cost-effective-substitute-for-the-expensive-microsoft-office-software/"><u>Budget-Friendly Productivity Tools: Evaluating a Cost-Effective Substitute for the Expensive Microsoft Office Software</u></a></li>
-<li><a href="https://techidaily.com/can-you-increase-your-systems-memory-a-detailed-look-at-upgrading-ram-in-windows-devices/"><u>Can You Increase Your System's Memory? A Detailed Look at Upgrading RAM in Windows Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-uefi-system/"><u>Secure & Speed-Up UEFI System</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/skyrim-review-for-the-nintendo-switch-dive-into-an-enchanting-richly-crafted-game-world/"><u>Skyrim Review for the Nintendo Switch - Dive Into an Enchanting, Richly Crafted Game World.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-ai-chatbot-services-what-you-should-look-for-7-key-points/"><u>The Ultimate Guide to AI Chatbot Services: What You Should Look For (7 Key Points)</u></a></li>
-<li><a href="https://techidaily.com/windows-11s-future-thriving-beyond-2025-at-a-cost/"><u>Windows 11'S Future: Thriving Beyond 2025 at a Cost</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/audio-enthusiast-hub-capture-and-audit-mp3-files-for-2024/"><u>Audio Enthusiast Hub Capture and Audit MP3 Files for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/budding-photographers-guide-to-enhanced-gopro-capabilities/"><u>Budding Photographers' Guide to Enhanced GoPro Capabilities</u></a></li>
+<li><a href="https://techidaily.com/create-stunning-wedding-montages-with-movavi-top-marriage-video-editing-software/"><u>Create Stunning Wedding Montages with Movavi - Top Marriage Video Editing Software</u></a></li>
+<li><a href="https://techidaily.com/de-top-5-moglichkeiten-einen-perlenkollage-erstellt-zu-hoe/"><u>De Top 5 Möglichkeiten, Einen Perlenkollage Erstellt Zu Hoe</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-21-speech-to-text-solutions-for-flawless-conversion-technology/"><u>Discover the Best 21 Speech-to-Text Solutions for Flawless Conversion Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windowed-discords-query-system/"><u>Enhancing Windowed Discord's Query System</u></a></li>
+<li><a href="https://techidaily.com/flac-versus-wav-choosing-the-ideal-audio-format-expert-comparison/"><u>FLAC versus WAV: Choosing the Ideal Audio Format - Expert Comparison</u></a></li>
+<li><a href="https://techidaily.com/free-online-gif-to-avi-video-conversion-easy-with-movavi/"><u>Free Online GIF to AVI Video Conversion - Easy with Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-websites-for-acoustic-phone-alerts-for-2024/"><u>Leading Websites for Acoustic Phone Alerts for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/music-infused-video-editing-top-picks-for-android-and-iphone-for-2024/"><u>Music-Infused Video Editing Top Picks for Android and iPhone for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-what-to-do-when-your-razer-man-owar-mic-fails/"><u>Solving the Problem - What to Do When Your Razer Man O'War Mic Fails</u></a></li>
+<li><a href="https://techidaily.com/flv-movavis-online-converter/"><u>언제나 크레딧없이 FLV 파일을 바로 대화형 원활한 변환 - Movavi's Online Converter</u></a></li>
 </ul></div>
 

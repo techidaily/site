@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Eliminating Background From Images in Windows 11"
-date: 2024-09-22T04:25:40.759Z
-updated: 2024-09-24T02:57:13.393Z
+date: 2024-09-22T07:43:39.174Z
+updated: 2024-09-24T04:47:34.533Z
 tags:
   - deals
 categories:
@@ -18,10 +18,16 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 * [Replace an Image's Background With a Solid Color](https://youtube-data.techidaily.com/024-approved-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
  If you want to remove an image’s background or replace it with a solid color, look no further than your Windows 11 PC’s Paint and Photos app. These apps have built-in background removal and replacement features, and we’ll show you how to use them.
 
  After removing the background, if you wish to keep transparency in your image, make sure to save your image as a PNG file. This is because other formats like JPG don’t support transparent images.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove the Entire Background of an Image
 
@@ -47,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
  When Paint opens, in the "Image" section at the top, click Remove Background (the icon of multiple lines and a person).
 
 !['Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-background-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Paint to delete the background. When that’s done, you’ll see the edited image.
 
@@ -70,33 +90,20 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 ![The 'Rectangle' selection tool highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-rectangle-selection-tool-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Use the rectangle tool to select the part of the image where you want to delete the background. After making the selection, from the "Image" section at the top, choose Remove Background (the icon of a person and multiple lines behind them).
 
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait while Paint deletes the background from the specified image area. Then, save your image by navigating to File > Save or pressing Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Replace an Image's Background With a Solid Color
 
@@ -106,23 +113,9 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 ![Open With > Photos highlighted in image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-open-image-with-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the app opens, select Edit Image (or press Ctrl+E) in the top bar. 
 
 !['Edit Image' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-edit-image-photos.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the following screen, from the options at the top, select the icon of a person with lines behind them. This is the background removal and replacement tool.
 
@@ -132,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 !['Replace' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-replace-background-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll see a color palette. Here, choose the color to fill your image’s current background. If you know a color’s [HEX](https://screen-capture.techidaily.com/updated-2024-approved-elite-group-of-high-speed-video-snapshot-apps/) or [RGB](https://extra-approaches.techidaily.com/in-2024-mastering-brand-collaboration-on-youtube/) code, enter those values in the given boxes. This helps you quickly get to the color you want.
 
 ![The color palette highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-choose-color-photos.jpg) 
@@ -147,19 +133,33 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 !['Apply' and 'Reset Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-apply-color-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your image is now ready to be saved.
 
  To save the image, click "Save Options" in the top-right corner. If you want to save the edited image as a copy of the original image, click "Save as Copy." To rewrite the original image with the edited image, just choose "Save." If you want copy the edited image to your clipboard so you can paste it in other apps, choose "Copy to Clipboard" instead. 
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-save-edited-image-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And Photos will perform your chosen action.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  What if You Don't Find the "Replace" Option in Photos
@@ -170,18 +170,18 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-microsoft-store-library.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the right pane, next to "Microsoft Photos," choose "Update." Wait while the Store updates the app.
 
  If you see "Open" instead of "Update," your app version is already updated.
 
 !['Open' highlighted for Microsoft Photos in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-update-photos-microsoft-store.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch Photos and you’ll find the option to replace your images’ backgrounds.
 
@@ -202,19 +202,25 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-5-low-cost-pinterest-video-download-software/"><u>[Updated] 2024 Approved Top 5 Low-Cost Pinterest Video Download Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-strategizing-effective-movie-sneak-peeks/"><u>2024 Approved Strategizing Effective Movie Sneak Peeks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ver-these-10-quickly-rising-youtube-inspirations-for-2024/"><u>Discover These 10 Quickly Rising YouTube Inspirations for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-xiaomi-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Xiaomi ?</u></a></li>
-<li><a href="https://techidaily.com/ferramenta-de-conversao-gratuita-para-webp-files-site-do-movavi/"><u>Ferramenta De Conversão Gratuita Para Webp Files - Site Do Movavi</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-mp4-to-m4v-by-movavi-get-your-videos-transformed/"><u>Free Online Converter MP4 to M4V by Movavi - Get Your Videos Transformed!</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-swf-to-webm-moveave/"><u>Free Online Converter SWF to WEBM - Moveave</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-change-ogg-audiovideo-to-mov-format-with-ease/"><u>Free Online Converter: Change .ogg Audio/Video to .mov Format with Ease</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/google-launches-pixel-8a-a-cost-effective-alternative-to-high-end-phones/"><u>Google Launches Pixel 8A - A Cost-Effective Alternative to High-End Phones</u></a></li>
-<li><a href="https://techidaily.com/gratis-converter-geen-inkomsten-m4v-naar-mp4-online-de-beste-oplossing-van-movavi/"><u>Gratis Converter: Geen Inkomsten-M4V Naar MP4 Online - De Beste Oplossing Van Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-7-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 7 The Right Way</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-solution-addressing-and-repairing-search-glitches-on-palworld/"><u>The Ultimate Solution: Addressing and Repairing Search Glitches on PalWorld</u></a></li>
-<li><a href="https://techidaily.com/flv-to-mov-online-movavi/"><u>무료 FLV to MOV 변환 - Online 콘텐츠를 유지하면서 Movavi로 제공</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-role-of-arvr-in-medical-training-for-2024/"><u>[New] The Role of AR/VR in Medical Training for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-educators-excellence-the-best-10-recording-equipment-rankings/"><u>[Updated] Educator's Excellence The Best 10 Recording Equipment Rankings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-audiovisual-elements-in-eye-catching-fb-advertising/"><u>[Updated] In 2024, Audiovisual Elements in Eye-Catching FB Advertising</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-10-spectacular-reactions-on-creative-youtube-videos/"><u>[Updated] In 2024, Discover 10 Spectacular Reactions on Creative YouTube Videos</u></a></li>
+<li><a href="https://techidaily.com/11-napontal-jobboldali-a-reformacios-videok-tervezesere-szolo-2024-as-vilagszeru-szerterseg/"><u>11 Napontal Jobboldali: A Reformációs Videók Tervezésére Szóló 2024-as Világszerű Szertérség</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breathe-life-into-your-zoom-cam-with-our-fix-tips/"><u>Breathe Life Into Your Zoom Cam with Our Fix Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/how-to-download-final-cut-pro-for-free/"><u>How to Download Final Cut Pro for Free?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-edge-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Edge 40 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-mic-woes-fix-it-now-five-essential-steps-for-headset-audio-troubleshooting-success/"><u>Razer Mic Woes? Fix It Now: Five Essential Steps for Headset Audio Troubleshooting Success</u></a></li>
+<li><a href="https://techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-guide-to-creating-free-youtube-banners-top-10-best-designers-reviewed/"><u>The Ultimate Guide to Creating Free YouTube Banners: Top 10 Best Designers Reviewed!</u></a></li>
+<li><a href="https://techidaily.com/top-15-videstableringsprogrammer-i-2024-denne-gratis-og-kosten-parat/"><u>Top 15 Videstableringsprogrammer I 2024: Denne Gratis Og Kosten Parat</u></a></li>
+<li><a href="https://techidaily.com/transforma-tus-archivos-vob-gratuitamente-a-video-el-mejor-uso-de-movavi-explicado-detalladamente/"><u>Transforma Tus Archivos VOB Gratuitamente a Video: El Mejor Uso De Movavi Explicado Detalladamente</u></a></li>
+<li><a href="https://techidaily.com/transformar-imagenes-animadas-gif-en-videos-mov-sin-gastar-tutorial-paso-a-paso-y-opciones-gratuitas-online/"><u>Transformar Imágenes Animadas GIF en Videos MOV Sin Gastar: Tutorial Paso a Paso Y Opciones Gratuitas Online</u></a></li>
+<li><a href="https://techidaily.com/transformez-votre-fichier-m4b-en-version-wma-gratuite-sur-internet-avec-convertmovavi/"><u>Transformez Votre Fichier M4B en Version WMA Gratuite Sur Internet Avec ConvertMovavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-immagini-tiff-in-jpg-di-fronte-a-computer-gratuitamente-utilizzando-movavi/"><u>Trasforma Immagini TIFF in JPG Di Fronte a Computer Gratuitamente Utilizzando Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasformare-il-tuo-filmato-mka-in-formato-mkv-senza-costi-convertitore-video-online/"><u>Trasformare Il Tuo Filmato MKA in Formato MKV Senza Costi - Convertitore Video OnLine</u></a></li>
+<li><a href="https://techidaily.com/tutorial-facile-transformer-un-fichier-flv-en-format-mpeg-gratuite-online-avec-convertit-videos/"><u>Tutorial Facile: Transformer Un Fichier FLV en Format MPEG Gratuite Online Avec Convertit-Vidéos</u></a></li>
 </ul></div>
 

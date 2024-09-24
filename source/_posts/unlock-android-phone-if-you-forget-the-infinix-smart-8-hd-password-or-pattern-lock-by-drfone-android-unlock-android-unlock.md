@@ -1,6 +1,6 @@
 ---
 title: Unlock android phone if you forget the Infinix Smart 8 HD password or pattern lock
-date: 2024-08-01T18:35:46.130Z
+date: 2024-09-16T16:41:51.900Z
 tags: 
   - android unlock
   - android devices unlock
@@ -184,53 +184,29 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-facebook-video-downloader-application-for-mobilewinmac/"><u>[New] 2024 Approved  2023 | Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-nailing-instagram-aesthetics-tips-for-video-dimensions/"><u>[Updated] 2024 Approved  Nailing Instagram Aesthetics  Tips for Video Dimensions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-pushing-boundaries-with-innovative-instagram-content-for-2024/"><u>[Updated] Pushing Boundaries with Innovative Instagram Content for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-laughter-edit-suite/"><u>2024 Approved  Peak Laughter Edit Suite</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-picture-perfection-picart-guide-to-pristine-image-editing/"><u>2024 Approved  Picture Perfection  PicArt Guide to Pristine Image Editing</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-the-power-of-yi-4k-cameras/"><u>Exploring the Power of YI 4K Cameras</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-c300-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia C300 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-huawei-nova-y71-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Huawei Nova Y71 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-itel-p40-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel P40 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-6-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 6 Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 2023 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-z50-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Z50 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-civi-3-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Civi 3 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-13-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 13 mini Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c12-plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C12 Plus Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12r-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12R Phone without PIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-to-start-windows-11s-admin-powershell-instance/"><u>Method to Start Windows 11'S Admin PowerShell Instance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-xr21-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia XR21.</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-7-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Plus Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-tecno-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Tecno unlock screen</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2019-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2019 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m54-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M54 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-a58-4g-by-fonelab-android-recover-data/"><u>The way to get back lost data from A58 4G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-a78-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo A78</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-c65-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-13-pro-max-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 13 Pro Max SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-c67-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from C67 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-xiaomi-redmi-note-13-proplus-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Xiaomi Redmi Note 13 Pro+ 5G password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-galaxy-z-fold-5-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Galaxy Z Fold 5</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-vivo-y02t-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Vivo Y02T on Mac?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-honor-magic-5-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Magic 5 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-picture-perfection-the-finest-10-sites-reviewed/"><u>[New] Free Picture Perfection The Finest 10 Sites Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nstant-youtube-financial-forecasting-for-2024/"><u>[New] Instant YouTube Financial Forecasting for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-script-mastery-online-academy/"><u>2024 Approved Script Mastery Online Academy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-7-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 7 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-discuss-the-role-of-aggregates-in-determining-the-properties-of-concrete/"><u>Approach: Discuss the Role of Aggregates in Determining the Properties of Concrete.</u></a></li>
+<li><a href="https://techidaily.com/asus-expertbook-p5-advanced-energy-saving-performance-with-up-to/"><u>ASUS ExpertBook P5: Advanced Energy-Saving Performance with Up To</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/demystifying-the-purpose-what-is-a-blue-image-on-facebook-for-2024/"><u>Demystifying the Purpose What Is a Blue Image on Facebook for 2024</u></a></li>
+<li><a href="https://techidaily.com/download-arc-browser-the-newest-web-browsing-option-compatible-with-windows-10/"><u>Download Arc Browser: The Newest Web Browsing Option Compatible with Windows 10</u></a></li>
+<li><a href="https://techidaily.com/efficient-file-management-utilizing-command-prompt-tips-for-finding-and-opening-documents/"><u>Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents</u></a></li>
+<li><a href="https://techidaily.com/enhance-appearance-in-video-chats-the-reason-behind-choosing-an-android-phone-camera-over-traditional-webcams/"><u>Enhance Appearance in Video Chats: The Reason Behind Choosing an Android Phone Camera Over Traditional Webcams</u></a></li>
+<li><a href="https://techidaily.com/enhanced-audio-editing-features-unveiled-in-the-latest-microsoft-clipchamp-update/"><u>Enhanced Audio Editing Features Unveiled in the Latest Microsoft Clipchamp Update</u></a></li>
+<li><a href="https://techidaily.com/experience-enhanced-windows-11-upgraded-copilot-photos-widgets-and-additional-features/"><u>Experience Enhanced Windows 11: Upgraded Copilot, Photos, Widgets, and Additional Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-x9b-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from X9b</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-guide-to-using-emoji-on-apples-iphone/"><u>The Definitive Guide to Using Emoji on Apple's iPhone</u></a></li>
+<li><a href="https://techidaily.com/unlocking-text-insights-best-free-ai-applications-for-pdf-examination/"><u>Unlocking Text Insights: Best FREE AI Applications for PDF Examination</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

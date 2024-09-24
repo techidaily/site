@@ -1,7 +1,7 @@
 ---
 title: Sign .xlsx Online - Add Signature to .xlsx for Free
-date: 2024-08-01T17:04:16.417Z
-updated: 2024-08-02T17:04:16.417Z
+date: 2024-09-17T04:38:41.794Z
+updated: 2024-09-23T16:54:28.967Z
 tags: 
   - signer
   - signer online
@@ -24,9 +24,12 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -43,9 +46,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -56,11 +56,14 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
@@ -82,16 +85,10 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -102,10 +99,14 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2.2.5. Download your document for free
 
@@ -115,9 +116,6 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -131,9 +129,6 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -144,9 +139,23 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.2. Text template
 
@@ -163,9 +172,12 @@ You can also use a signature line in Excel to insert a signature with properties
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -190,41 +202,19 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024s-prime-cameras-for-first-timers/"><u>[New] 2024'S Prime Cameras for First Timers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-fullscreen-image-of-page-layout-for-2024/"><u>[New] Fullscreen Image of Page Layout for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-top-faces-essential-fb-videos-for-2024/"><u>[New] Mastering Top Faces  Essential FB Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comprehensive-fb-messenger-recordings-explained-for-2024/"><u>[Updated] Comprehensive FB Messenger Recordings Explained for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-recording-roulette-top-strategies-for-tv-show-capture/"><u>[Updated] Recording Roulette  Top Strategies for TV Show Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-creator-toolkit-commanding-video-kingdoms/"><u>[Updated] The Ultimate Creator Toolkit  Commanding Video Kingdoms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlimited-legal-fb-beats-access/"><u>2024 Approved  Unlimited, Legal FB Beats Access</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-meizu-21-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Meizu 21 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G24 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-note-30-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Note 30 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-narzo-60-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme Narzo 60 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y36i-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y36i in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 12 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-c33-2023-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme C33 2023</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-edge-40-neo-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2021-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2021</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-itel-a60s-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Itel A60s without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y100i-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y100i</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-blaze-2-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava Blaze 2 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-red-magic-8s-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Red Magic 8S Pro.</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-g42-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia G42 5G</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-14-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi 14 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://techidaily.com/zte-axon-40-lite-music-recovery-recover-deleted-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>ZTE Axon 40 Lite Music Recovery - Recover Deleted Music from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-learn-to-stream-lol-with-these-simple-steps-3-ways/"><u>[New] 2024 Approved Learn to Stream LOL with These Simple Steps (3 Ways)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elite-audio-modifying-tools-tailored-to-youtube-creators/"><u>[Updated] Elite Audio Modifying Tools Tailored to YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[Updated] In 2024, From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-webcam-ingenuity-for-productivity-boost/"><u>[Updated] In 2024, Webcam Ingenuity for Productivity Boost</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-13t-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi 13T Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to others devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-hp-wifi-drivers-on-windows-computers-and-laptops/"><u>How to Update or Install HP Wifi Drivers on Windows Computers and Laptops</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-story-complete-guide-what-is-it-and-how-to-use-it/"><u>In 2024, Facebook Story Complete Guide What Is It and How to Use It?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/investing-in-a-smart-lock-a-cheaper-alternative-to-professional-locksmith-assistance/"><u>Investing in a Smart Lock: A Cheaper Alternative to Professional Locksmith Assistance</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 7 Plus | Stellar</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s17-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S17 Pro Reset Code | Dr.fone</u></a></li>
 </ul></div>
+

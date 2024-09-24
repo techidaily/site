@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to update your drivers in Windows 10 & 7
-date: 2024-08-01T18:47:46.511Z
+date: 2024-09-20T01:22:23.025Z
 tags: 
   - driver
   - device driver
@@ -25,17 +25,10 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/4.jpg) 
 
 
@@ -52,9 +45,6 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -70,6 +60,19 @@ With [Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/):
 Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step-by-step instructions
 
@@ -94,24 +97,22 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -120,9 +121,6 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -137,7 +135,12 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What happens if a driver is missing or outdated?
 
@@ -148,6 +151,14 @@ The same thing needs to happen when your device manufacturer changes the way you
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,44 +172,27 @@ Now when we say “your device won’t work properly”, sometimes this means si
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>[New] 2024 Approved  Profit From YouTube  Monetize YouTube Shorts and Boost Your Income</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-photos-app-magic-crafting-stunningly-slow-motion-videos-online/"><u>[New] Photos App Magic  Crafting Stunningly Slow-Motion Videos Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gamers-graphically-glorious-reviews/"><u>[Updated] 2024 Approved  GAMER'S GRAPHICALLY GLORIOUS REVIEWS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing/"><u>[Updated] 2024 Approved  Navigating the Shadows  A Step-by-Step for Anonymous Instagram Live Viewing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ascending-with-expertise-mastering-the-art-and-science-of-asmr-production-for-2024/"><u>[Updated] Ascending with Expertise  Mastering The Art & Science of ASMR Production for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-street-smart-showdown-top-hand-to-hand-video-games/"><u>[Updated] Street Smart Showdown  Top Hand-to-Hand Video Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unveiling-the-secrets-to-swiftly-altering-snapchat-soundscapes/"><u>[Updated] Unveiling the Secrets to Swiftly Altering Snapchat Soundscapes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-the-hd-audiovideo-experience-in-android/"><u>2024 Approved  Ace the HD Audio/Video Experience in Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-use-vlc-for-professional-screen-recording/"><u>2024 Approved  How to Use VLC for Professional Screen Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-streaming-showdown-obs-vs-twitch/"><u>2024 Approved  The Streaming Showdown  OBS vs Twitch</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-tecno-spark-20c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Spark 20C Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/honoring-ten-years-at-mondlyback-filter-excellence/"><u>Honoring Ten Years at MondlyBack Filter Excellence</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-play-8t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Play 8T Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-gt-10-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix GT 10 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-xcover-7-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy XCover 7 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 11 Pro Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-note-30-vip-racing-edition-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30 VIP Racing Edition Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Pro Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-s23plus-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel S23+ PC | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>In 2024, Style with Confidence  Adding Border Artistry to Your Instagram Posts</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-c55-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme C55</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-sony-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Sony</u></a></li>
-<li><a href="https://games-able.techidaily.com/tailoring-display-and-illumination-for-optimal-gaming/"><u>Tailoring Display & Illumination for Optimal Gaming</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-hot-30-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Hot 30 5G</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-se-2022-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone SE (2022) Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>Unleashing Visual Potential  Incorporating New Fonts in AE</u></a></li>
-<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-x100-pro-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo X100 Pro)</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-13-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 13?</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-14-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi 14 won’t play MP4 files</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-recording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>[New] 2024 Approved Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-writers-toolkit-dialogue-and-narration-techniques-for-success-for-2024/"><u>[New] The Writer's Toolkit Dialogue and Narration Techniques for Success for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers/"><u>[Updated] Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers</u></a></li>
+<li><a href="https://techidaily.com/adapt-chatgpt-to-mirror-your-unique-voice-in-written-communication/"><u>Adapt ChatGPT to Mirror Your Unique Voice in Written Communication</u></a></li>
+<li><a href="https://techidaily.com/amazing-amazon-fresh-subscription-revolutionizing-your-grocery-shopping-experience/"><u>Amazing Amazon Fresh Subscription: Revolutionizing Your Grocery Shopping Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/amazon-login-revolutionized-a-step-by-step-guide-on-utilizing-passkeys-for-secure-access/"><u>Amazon Login Revolutionized: A Step-by-Step Guide on Utilizing Passkeys for Secure Access</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-dossiers-decoded-craft-your-signature-bio-with-stars/"><u>Digital Dossiers Decoded Craft Your Signature Bio with Stars</u></a></li>
+<li><a href="https://techidaily.com/global-collaboration-boosts-as-kodak-alaris-joins-forces-with-abbyy-for-enhanced-services/"><u>Global Collaboration Boosts as Kodak Alaris Joins Forces with ABBYY for Enhanced Services</u></a></li>
+<li><a href="https://techidaily.com/igura-and-abbyy-unite-to-revolutionize-corporate-invoice-management-and-streamline-ap-workflows/"><u>Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-15-pro-max-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone 15 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/innovative-strides-at-abbyy-with-patrick-jeans-recent-promotion-to-cpo-and-cto-roles/"><u>Innovative Strides at ABBYY with Patrick Jean's Recent Promotion to CPO and CTO Roles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/install-completed-without-nvidia-errors/"><u>Install Completed Without NVIDIA Errors</u></a></li>
+<li><a href="https://techidaily.com/leading-the-way-abbyys-continued-dominance-in-intelligent-automation-solutions/"><u>Leading the Way: ABBYY's Continued Dominance in Intelligent Automation Solutions</u></a></li>
+<li><a href="https://techidaily.com/prazise-dokumentverarbeitung-fur-die-gesundheitsbranche-erfolgreiche-fallstudien-mit-abbyy/"><u>Präzise Dokumentverarbeitung Für Die Gesundheitsbranche: Erfolgreiche Fallstudien Mit ABBYY</u></a></li>
+<li><a href="https://techidaily.com/revolutionizing-digital-intake-discover-why-abbyy-dominated-intelligent-docs-in-202n-according-to-isg/"><u>Revolutionizing Digital Intake: Discover Why ABBYY Dominated Intelligent Docs in 202N, According to ISG</u></a></li>
+<li><a href="https://techidaily.com/the-latest-advancebs-in-artificial-intelligence-and-their-impact/"><u>The Latest Advancebs in Artificial Intelligence and Their Impact</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-camera-timers-on-your-iphone/"><u>Ultimate Guide: Setting Up Camera Timers on Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-future-exploring-abbyys-global-identification-solutions-comprehensive-analysis-of-emerging-patterns/"><u>Unveiling the Future: Exploring ABBYY's Global Identification Solutions - Comprehensive Analysis of Emerging Patterns</u></a></li>
 </ul></div>
+

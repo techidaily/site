@@ -1,7 +1,7 @@
 ---
 title: Sign .rtf file Documents Online for Free
-date: 2024-08-01T17:02:46.875Z
-updated: 2024-08-02T17:02:46.875Z
+date: 2024-09-19T20:14:20.848Z
+updated: 2024-09-24T02:02:37.626Z
 tags: 
   - signer
   - signer online
@@ -19,16 +19,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 Electronic Signature in Word is a simple and secure way to sign documents online. It's a legally binding way to sign Word documents, and it's easy to use. You can sign Word documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Word documents online with DigiSigner, a free electronic signature service.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,25 +47,29 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -86,6 +84,19 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **B** Type your name.
 
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
@@ -93,6 +104,19 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 - **C** Scan an image of your signature and upload it to the document.
 
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2.2.4. Fill out the document
 
@@ -108,9 +132,6 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Word
 
 The ability to leave your signature in electronic format in Word documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -125,8 +146,12 @@ Now you don’t even need to be in the office to be able to verify the document.
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -137,14 +162,17 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -153,17 +181,19 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -188,39 +218,21 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ranking-of-top-10-budget-friendly-video-meeting-tools-for-organizations-and-schools/"><u>[Updated] 2024 Approved  Ranking of Top 10 Budget-Friendly Video Meeting Tools for Organizations & Schools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-breaking-down-manycams-recording-capabilities-for-professionals-for-2024/"><u>[Updated] Breaking Down ManyCam's Recording Capabilities for Professionals for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-performance-gpus-for-4k-vision/"><u>[Updated] High-Performance GPUs for 4K Vision</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-understanding-ip-sounds-and-songs-on-instagram/"><u>[Updated] Understanding IP  Sounds and Songs on Instagram</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y100t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y100t Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/experience-legendary-ps3-gaming-on-your-pc-today/"><u>Experience Legendary PS3 Gaming on Your PC Today</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-imovies-automated-size-control/"><u>Exploring iMovie's Automated Size Control</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nubia-red-magic-8s-proplus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nubia Red Magic 8S Pro+ Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a24-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A24?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-motorola-moto-g04-lock-screen-password-by-drfone-android/"><u>How To Change Motorola Moto G04 Lock Screen Password?</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f54-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F54 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-x8b-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X8b Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-k70-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi K70 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-13-proplus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 13 Pro+ 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-note-30i-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Note 30i without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-magic-6-lite-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Magic 6 Lite Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-c67-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme C67 4G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s24-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S24 Ultra Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-itel-a70-by-fonelab-android-recover-data/"><u>Undelete lost data from Itel A70</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-blade-a73-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Blade A73 5G</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>Updated 2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-depths-of-funimate-for-2024/"><u>[New] Discover the Depths of Funimate for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-methods-for-converting-twitter-videos-into-mp3-format/"><u>[New] Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-recorded-talk-extraction-and-study/"><u>[Updated] 2024 Approved Recorded Talk Extraction & Study</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-resurrecting-lost-confidential-snapshots/"><u>[Updated] In 2024, Resurrecting Lost, Confidential Snapshots</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-guide-making-your-gifs-into-stickers-via-discordwhatsapp/"><u>2024 Approved The Ultimate Guide Making Your GIFs Into Stickers via Discord/WhatsApp</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-pova-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pova 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-chatgpt-direct-browser-access-vs-enhanced-plugin-versions/"><u>Choosing the Right ChatGPT: Direct Browser Access Vs. Enhanced Plugin Versions</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lenovo-thinkphone-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lenovo ThinkPhone in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-10t-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 10T 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/next-level-screenshots-review-of-apowersofts-pc-recorder-for-2024/"><u>Next-Level Screenshots Review of Apowersoft's PC Recorder for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-poco-f5-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Poco F5 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-a1-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from A1 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-best-free-mobile-apps-for-global-voice-calls/"><u>Top 5 Best Free Mobile Apps for Global Voice Calls</u></a></li>
 </ul></div>
+

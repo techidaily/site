@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-09-23T02:42:50.667Z
-updated: 2024-09-24T06:11:59.520Z
+date: 2024-09-22T05:03:38.417Z
+updated: 2024-09-24T04:22:47.382Z
 tags:
   - desktop
 categories:
@@ -32,14 +32,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
 
@@ -59,16 +59,16 @@ Close
 
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Running Xubuntu
 
@@ -80,26 +80,26 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Running Ubuntu
 
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
 
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
@@ -137,22 +137,25 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-impact-and-innovations-in-vegaspro-a-2019-review/"><u>[New] The Impact and Innovations in VegasPro A 2019 Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-immersive-world-of-lg-27ud68/"><u>2024 Approved Discovering the Immersive World of LG 27UD68</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-for-solving-game-freezes-dragon-age-origins-and-windows-10-compatibility-issues-fixed/"><u>Expert Tips for Solving Game Freezes: Dragon Age: Origins & Windows 10 Compatibility Issues Fixed!</u></a></li>
-<li><a href="https://techidaily.com/flac-versus-wav-choosing-the-ideal-audio-format-expert-comparison/"><u>FLAC versus WAV: Choosing the Ideal Audio Format - Expert Comparison</u></a></li>
-<li><a href="https://techidaily.com/free-online-gif-to-avi-video-conversion-easy-with-movavi/"><u>Free Online GIF to AVI Video Conversion - Easy with Movavi</u></a></li>
-<li><a href="https://techidaily.com/free-online-vob-to-mkv-conversion-with-movavi-effortless-video-format-change/"><u>Free Online VOB to MKV Conversion with Movavi - Effortless Video Format Change</u></a></li>
-<li><a href="https://techidaily.com/gratis-converter-online-para-arquivos-ts-em-flv-movavi/"><u>Gratis Converter Online Para Arquivos TS Em FLV - Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuite-en-online-toegankelijke-omgewisseling-van-mkv-tot-flac-formaat-voor-optimale-soundquaaliteit-movavi/"><u>Gratuite en Online-Toegankelijke Omgewisseling Van MKV Tot FLAC-Formaat Voor Optimale Soundquaaliteit - Movavi</u></a></li>
-<li><a href="https://techidaily.com/guia-simple-de-resizing-gratuita-ajuste-multiple-de-fotografias-en-un-solo-click/"><u>Guía Simple De Resizing Gratuita: Ajuste Múltiple De Fotografías en Un Solo Click</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-solve-the-leaf-error-in-apex-legends-fix-guide-2022/"><u>How to Solve the 'Leaf' Error in Apex Legends (Fix Guide - 2022)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-oppo-a38-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo A38 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-samsung-galaxy-s21-ultra-the-pinnacle-of-android-phones/"><u>In-Depth Look at the Samsung Galaxy S21 Ultra - The Pinnacle of Android Phones</u></a></li>
-<li><a href="https://techidaily.com/kostenloze-omzetting-van-wav-naar-m4a-bestand-online-movavi/"><u>Kostenloze Omzetting Van WAV Naar M4A-Bestand Online - Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-reducing-audio-intensity-in-videos/"><u>Step-by-Step Guide: Reducing Audio Intensity in Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/superior-computing-desktops-await-you-for-2024/"><u>Superior Computing Desktops Await You for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-blur-faces-or-objects-in-videos-best-apps-for-ios-and-android/"><u>Updated 2024 Approved Blur Faces or Objects in Videos Best Apps for iOS and Android</u></a></li>
-<li><a href="https://techidaily.com/flv-movavis-online-converter/"><u>언제나 크레딧없이 FLV 파일을 바로 대화형 원활한 변환 - Movavi's Online Converter</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snap-and-save-securely-downloading-vids-from-twitter-for-2024/"><u>[Updated] Snap & Save Securely Downloading Vids From Twitter for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discovering-vr-a-concise-explanation-for-all/"><u>Discovering VR A Concise Explanation for All</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/game-on-in-reality-the-ultimate-vr-headset-comparison-for-2024/"><u>Game On in Reality The Ultimate VR Headset Comparison for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-restore-sound-output-while-live-streaming-on-twitch-a-step-by-step-guide/"><u>How to Restore Sound Output While Live Streaming on Twitch – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-nubia-flip-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock ZTE Nubia Flip 5G Phone without PIN</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-zoom-for-video-conferencing-a-guide-for-gmail-professionals/"><u>In 2024, Incorporating Zoom for Video Conferencing A Guide for Gmail Professionals</u></a></li>
+<li><a href="https://techidaily.com/online-free-ogg-to-m4a-converter-by-movavi/"><u>Online Free OGG to M4A Converter by Movavi</u></a></li>
+<li><a href="https://techidaily.com/online-gratis-conversor-ogv-para-wmv-facil-utilizacao-com-o-site-de-ajuda-do-movavi/"><u>Online Grátis Conversor OGV Para WMV - Fácil Utilização Com O Site De Ajuda Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/passaggi-essenziali-per-la-registrazione-dello-schermo-in-windows-tensione-migliorando-lesperienza-utente/"><u>Passaggi Essenziali per La Registrazione Dello Schermo in Windows Tensione, Migliorando L'esperienza Utente.</u></a></li>
+<li><a href="https://techidaily.com/ri-codifica-professionale-da-vob-a-flv-con-movavi-strumenti-online-senza-costi/"><u>Ri-Codifica Professionale Da VOB a FLV Con Movavi: Strumenti Online Senza Costi!</u></a></li>
+<li><a href="https://techidaily.com/top-7-essential-tools-for-transforming-flac-audio-into-mp3-format-on-macos/"><u>Top 7 Essential Tools for Transforming FLAC Audio Into MP3 Format on macOS</u></a></li>
+<li><a href="https://techidaily.com/top-editing-video-apps-of-2024-how-to-choose-the-perfect-one-for-your-needs/"><u>Top Editing Video Apps of 2024: How to Choose the Perfect One for Your Needs</u></a></li>
+<li><a href="https://techidaily.com/topo-das-5-criadoras-de-letreiros-mais-influentes-do-youtube-acesse-online/"><u>Topo Das 5 Criadoras De Letreiros Mais Influentes Do YouTube: Acesse Online</u></a></li>
+<li><a href="https://techidaily.com/transformer-des-fichiers-au-format-mp3-sans-frais-sur-movavi-guerilla-seo-pour-les-amateurs-de-musique/"><u>Transformer Des Fichiers Au Format MP3 Sans Frais Sur Movavi : Guérilla SEO Pour Les Amateurs De Musique</u></a></li>
+<li><a href="https://techidaily.com/transformer-un-fichier-alaw-au-format-mp3-gratuitement-sur-internet-movavi/"><u>Transformer Un Fichier Alaw Au Format MP3 Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-6-tested-and-trusted-ai-solutions-for-high-quality-video-up-scaling/"><u>Ultimate Guide: 6 Tested & Trusted AI Solutions for High-Quality Video Up-Scaling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862716478-unleash-your-productivity-the-innovative-and-user-friendly-acemagic-x1-dual-screen-laptop-awaits-you/"><u>Unleash Your Productivity: The Innovative and User-Friendly Acemagic X1 Dual-Screen Laptop Awaits You!</u></a></li>
+<li><a href="https://techidaily.com/taxistikh-metatroph-live-video-se-mp3-xwris-dwrhma-anapoympoystos-and-eydisk/"><u>Ταχιστική Μετατροπή Live Video Σε MP3 Χωρίς Δώρημα - [Αναπουμπούστος & Εύδιsk]</u></a></li>
 </ul></div>
 

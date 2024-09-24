@@ -1,7 +1,7 @@
 ---
 title: Explore Innovative Solutions with ABBYY at Their May 2024 Intelligence Automation Summit
-date: 2024-08-22T08:22:34.686Z
-updated: 2024-08-23T08:22:34.686Z
+date: 2024-09-23T01:52:17.285Z
+updated: 2024-09-23T21:50:18.335Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e5b172234fc08b6d719a1524.jpg
@@ -38,6 +38,13 @@ Bruce Orcutt, CMO at ABBYY
 
 Take your organization to the next level of operational efficiency by registering for Intelligent Automation Month sessions today at [www.abbyy.com/intelligent-automation-month/](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY puts your information to work with purpose-built AI. We combine innovation and experience to transform data from business-critical documents into intelligent actionable outcomes in over 200 languages in real time. We are trusted by more than 10,000 companies globally, including many of the Fortune 500, to drive significant impact where it matters most: accelerate the customer experience, operational excellence, and competitive advantage. ABBYY is a global company with headquarters in Milpitas, CA and offices in 13 countries, and is the [Official Intelligent Automation Partner of Arsenal Women Football Club](https://tools.techidaily.com/abbyy/products/). For more information, visit [www.abbyy.com/company](https://tools.techidaily.com/abbyy/products/) and follow us on [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware), [Facebook](https://www.facebook.com/ABBYYsoft), and [Instagram](https://www.instagram.com/abbyyglobal/).
@@ -52,8 +59,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -63,42 +68,21 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-expert-picks-ideal-software-for-screenshots-and-recordings/"><u>[New] In 2024, Expert Picks  Ideal Software for Screenshots & Recordings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-professional-tips-designing-youtube-trailers-in-filmora/"><u>[New] Professional Tips  Designing YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-tech-best-drone-gimbals-reviewed-for-2024/"><u>[New] Top Tech  Best Drone Gimbals Reviewed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-length-video-view-remove-youtube-preview/"><u>2024 Approved  Full-Length Video View  Remove YouTube Preview</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry/"><u>2024 Approved  The Future's Canvas  Unveiling 6 Pioneers of NFT Artistry</u></a></li>
-<li><a href="https://techidaily.com/all-about-usb-selective-suspend-in-depth-information-you-cant-miss/"><u>All About USB Selective Suspend: In-Depth Information You Can't Miss</u></a></li>
-<li><a href="https://techidaily.com/an-overview-of-the-expanding-use-cases-for-ethereum-based-applications-including-gaming-social-media-supply-chain-management-and-more/"><u>An Overview of the Expanding Use Cases for Ethereum-Based Applications, Including Gaming, Social Media, Supply Chain Management, and More</u></a></li>
-<li><a href="https://techidaily.com/beginners-guide-top-5-essential-safety-tips-for-navigating-the-web-securely/"><u>Beginner's Guide: Top 5 Essential Safety Tips for Navigating the Web Securely</u></a></li>
-<li><a href="https://techidaily.com/bios-setup-hands-on-starting-up-into-system-firmware-on-windows-versions/"><u>BIOS Setup Hands-On: Starting Up Into System Firmware on Windows Versions</u></a></li>
-<li><a href="https://techidaily.com/boost-your-laptops-performance-swiftly-on-windows-11781-with-these-easy-tips/"><u>Boost Your Laptop's Performance Swiftly on Windows 11/7/8.1 with These Easy Tips</u></a></li>
-<li><a href="https://techidaily.com/connecting-multiple-screens-to-your-computer-explained/"><u>Connecting Multiple Screens to Your Computer Explained</u></a></li>
-<li><a href="https://techidaily.com/diablo-ii-reimagined-ultimate-tips-and-tricks-for-maximizing-frame-rate/"><u>Diablo II Reimagined: Ultimate Tips & Tricks for Maximizing Frame Rate</u></a></li>
-<li><a href="https://techidaily.com/directx-12-downloading-made-easy-tips-and-steps-for-windows-10-users/"><u>DirectX 12 Downloading Made Easy - Tips & Steps for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/easy-guide-sharing-gameplay-experiences-with-loved-ones-on-xbox-one/"><u>Easy Guide: Sharing Gameplay Experiences with Loved Ones on Xbox One</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-for-instant-vpn-connection-a-simple-guide/"><u>Easy Steps for Instant VPN Connection: A Simple Guide</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-determining-your-computer-screens-refresh-rate/"><u>Easy Steps: Determining Your Computer Screen's Refresh Rate</u></a></li>
-<li><a href="https://techidaily.com/efficient-methods-to-immediately-restore-camera-functionality-using-device-manager/"><u>Efficient Methods to Immediately Restore Camera Functionality Using Device Manager</u></a></li>
-<li><a href="https://techidaily.com/effortless-ways-to-modify-the-country-of-origin-on-netflix/"><u>Effortless Ways to Modify the Country of Origin on Netflix</u></a></li>
-<li><a href="https://techidaily.com/expert-tips-to-improve-godfall-performance-and-end-the-frustrating-lag/"><u>Expert Tips to Improve Godfall Performance and End the Frustrating Lag</u></a></li>
-<li><a href="https://techidaily.com/1723808261745-guide-preventing-unwanted-windows-11-updates-without-hitches/"><u>Guide: Preventing Unwanted Windows 11 Updates Without Hitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-10-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 10 & 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-90-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor 90 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/1723808074120-mastering-the-art-of-playing-minecraft-without-wifi-tips-and-steps-for-windows-11-users/"><u>Mastering the Art of Playing Minecraft Without WiFi: Tips and Steps for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/1723808152090-skyrim-se-upgrade-maximize-your-gameplay-with-revolutionary-fps-improvement-and-beyond/"><u>Skyrim SE Upgrade: Maximize Your Gameplay with Revolutionary FPS Improvement and Beyond!</u></a></li>
-<li><a href="https://techidaily.com/troubleshoot-invisible-amd-graphics-driver-problems-in-windows-expert-tips-to-appear-in-device-manager/"><u>Troubleshoot Invisible AMD Graphics Driver Problems in Windows: Expert Tips to Appear in Device Manager</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-and-repairing-your-lenovos-photography-application-issues-on-windows-1through-easy-steps/"><u>Troubleshooting and Repairing Your Lenovo's Photography Application Issues on Windows 1([Through Easy Steps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/troubleshooting-playtime-smoothness-on-pc-tips-to-address-stuttering-in-ac-valhalla/"><u>Troubleshooting Playtime Smoothness on PC: Tips to Address Stuttering in AC Valhalla</u></a></li>
-<li><a href="https://techidaily.com/turn-off-sticky-keys-on-windows-10-easily-with-pictures/"><u>Turn Off Sticky Keys on Windows 10 Easily [with Pictures]</u></a></li>
-<li><a href="https://techidaily.com/turning-up-the-volume-expert-tips-to-fix-your-ps4s-audio-issue/"><u>Turning Up the Volume: Expert Tips to Fix Your PS4's Audio Issue</u></a></li>
-<li><a href="https://techidaily.com/understanding-and-locating-your-mac-address-a-comprehensive-guide/"><u>Understanding and Locating Your MAC Address: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-compressor-for-fcpx-best-practices-for-exporting-and-delivering-videos/"><u>Updated In 2024, Compressor for FCPX Best Practices for Exporting and Delivering Videos</u></a></li>
-<li><a href="https://techidaily.com/vpn-for-ipad-how-to-setup-vpn-on-ipad-quickly-and-easily/"><u>VPN for iPad | How to Setup VPN on iPad | Quickly & Easily</u></a></li>
-<li><a href="https://howto.techidaily.com/zte-nubia-flip-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Flip 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-this-years-offbeat-movie-masterpieces/"><u>[Updated] 2024 Approved This Year’s Offbeat Movie Masterpieces</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-spark-interest-engage-followers-maximizing-tiktok-unboxer-appeal/"><u>[Updated] Spark Interest, Engage Followers Maximizing TikTok Unboxer Appeal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-in-audio-design-with-magix-fusion-x/"><u>[Updated] Unlocking Potential in Audio Design with Magix Fusion X</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-convert-your-vob-videos-to-mkv-at-no-cost-using-movavis-web-service/"><u>Effortlessly Convert Your VOB Videos to MKV at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://techidaily.com/expertly-curated-discover-the-best-16-video-streamers-on-the-market/"><u>Expertly Curated: Discover the Best 16 Video Streamers on the Market</u></a></li>
+<li><a href="https://techidaily.com/explore-our-selection-of-highest-ranking-4k-recording-applications-for-every-device-type-movavi-recommended-picks/"><u>Explore Our Selection of Highest-Ranking 4K Recording Applications for Every Device Type – Movavi Recommended Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-woes-solving-world-of-warcraft-audio-issues/"><u>Fixing Silent Woes: Solving World of Warcraft Audio Issues</u></a></li>
+<li><a href="https://techidaily.com/free-conversion-tool-effortlessly-change-trp-to-mpg-with-movavi/"><u>Free Conversion Tool: Effortlessly Change TRP to MPG with Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-conversion-vob-to-m4v-files-with-moveavi-start-today/"><u>Free Online Conversion: VOB to M4V Files with Moveavi - Start Today!</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-videos-to-webm-format-instantly-with-moveavew/"><u>Free Online Converter: Change MP4 Videos to WebM Format Instantly with Moveavew</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-s18e-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo S18e FRP Locks</u></a></li>
+<li><a href="https://techidaily.com/gratisk-online-omzetten-van-m4r-naar-aiff-formaat-met-movavi/"><u>Gratisk Online Omzetten Van M4R Naar AIFF-Formaat Met Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-updated-hp-officejet-pro-8720-drivers-in-windows-step-by-step-tutorial/"><u>How to Find and Install Updated HP Officejet Pro 8720 Drivers in Windows: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-art-of-engaging-crafting-compelling-reddit-content/"><u>In 2024, The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-data-integration-the-ultimate-technique-for-combining-dual-excel-columns/"><u>Mastering Data Integration: The Ultimate Technique for Combining Dual Excel Columns</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-skewing-photo-captions/"><u>Tips for Skewing Photo Captions</u></a></li>
 </ul></div>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

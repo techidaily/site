@@ -1,7 +1,7 @@
 ---
 title: Boost Your Laptop's Performance Swiftly on Windows 11/7/8.1 with These Easy Tips
-date: 2024-08-18T03:46:49.615Z
-updated: 2024-08-19T03:46:49.615Z
+date: 2024-09-22T20:41:35.509Z
+updated: 2024-09-23T18:50:34.815Z
 tags:
   - win11
   - win10
@@ -30,17 +30,38 @@ Windows Update is a feature that automatically checks and provide updates for ou
 3. **[Change Group Policy Settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Bonus tip: Update your device drivers via Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Disable the Windows Update Service
 
  Method 2 is pretty much self-explanatory. By**disabling the Windows Update Service** , Windows will stop checking for updates, hence sparing you the wanted Windows updates. To do so:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
  2) Scroll down to the bottom, locate and double-click on **Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31df211e366.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In Startup type, select**Disabled** , then click >**Stop** ( make sure the word**Stop** is grayed out) >**Apply** \>**OK** .
 
@@ -56,21 +77,22 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e4af7b4b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  2) Click on**the name of your Wifi connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e51d793cb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Toggle the**Set as metered connection** switch**On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
  4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Change Group Policy Settings**
 
@@ -84,30 +106,32 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Double-click on**Windows Update** \> **Configure Automatic Updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6) Restart your computer for the changes to take effect.
 
 ### Bonus tip: Update your device drivers via Driver Easy
@@ -140,8 +164,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,35 +173,17 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-pixels-and-players-advanced-tactics-for-recording-gaming/"><u>[New] Pixels and Players  Advanced Tactics for Recording Gaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-vdx-quickcapture-evaluation-guide-comprehensive-review-for-2024/"><u>[New] VDX QuickCapture Evaluation Guide  Comprehensive Review for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-audio-mastery-top-strategies-for-win10-users/"><u>[Updated] Audio Mastery  Top Strategies for Win10 Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-consumer-reactions-vllo-edition/"><u>[Updated] Consumer Reactions  VLLO Edition</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-m14-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy M14 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-poco-m6-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco M6 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-m6-pro-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco M6 Pro 4G?</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-13-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 13 mini Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-repair-your-windows-windows-11-bluetooth-connection-fixing-qualcomm-atheros-drivers/"><u>How to Repair Your Windows ([Windows) 11 Bluetooth Connection: Fixing Qualcomm Atheros Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-fold-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel Fold Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y17s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y17s without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-z50-ultra-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Z50 Ultra Through Google Earth?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a60-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A60 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone X Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-a14-4g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy A14 4G Phone Screen?</u></a></li>
-<li><a href="https://techidaily.com/is-your-itel-p55-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel P55 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nokia-110-2g-2023-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nokia 110 2G (2023)</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-s18-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo S18 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-f23-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from F23 5G</u></a></li>
-<li><a href="https://techidaily.com/tecno-data-retrieval-tool-restore-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Tecno Data Retrieval tool – restore lost data from Tecno</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a58-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A58 4G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a15-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A15 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-find-n3-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo Find N3</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-classic-facebook-narratives-laptop-and-mobile-strategies/"><u>Unlocking Classic Facebook Narratives  Laptop & Mobile Strategies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-s21-fe-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy S21 FE 5G (2023) play AVCHD mts files?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-beyond-boundaries-how-to-validate-your-tiktok-video-rights/"><u>[New] 2024 Approved Beyond Boundaries How to Validate Your TikTok Video Rights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-central-luts-in-post-production-filmmaking-revolution/"><u>[New] Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-effective-ways-to-modify-tracks-tempo-on-spotify-for-2024/"><u>[New] Effective Ways to Modify Tracks Tempo on Spotify for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-family-vehicle-entertainment-adventures/"><u>[New] In 2024, Top Family Vehicle Entertainment Adventures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-producing-dynamic-content-for-discord-channels/"><u>[New] Producing Dynamic Content for Discord Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-lack-of-subtitles-in-classic-film-dvds-understanding-the-reason-and-finding-solutions/"><u>1. Lack of Subtitles in Classic Film DVDs: Understanding the Reason & Finding Solutions</u></a></li>
+<li><a href="https://techidaily.com/mp3aac-audio-transformation-download-our-no-cost-web-service-for-immediate-flac-format-conversion/"><u>MP3/AAC Audio Transformation: Download Our No-Cost Web Service for Immediate FLAC Format Conversion</u></a></li>
+<li><a href="https://techidaily.com/mp4-vs-mkv-a-comparative-guide-to-choosing-the-right-format-insights-from-movavi/"><u>MP4 vs MKV: A Comparative Guide to Choosing the Right Format - Insights From Movavi</u></a></li>
+<li><a href="https://techidaily.com/ntscmovavi/"><u>NTSCへのパルコード変換手順【Movavi専用ガイド】</u></a></li>
+<li><a href="https://techidaily.com/online-vrijetijdige-gratis-konvertor-lgif-naar-mp4mpeg-professioneel-solucieert-movavi/"><u>Online Vrijetijdige Gratis-Konvertor LGif Naar Mp4/Mpeg - Professioneel Solucieert Movavi</u></a></li>
+<li><a href="https://techidaily.com/os-melhores-11-conversores-de-filmes-mov-gratuitos-para-macs-e-pcs-solucoes-online/"><u>Os Melhores 11 Conversores De Filmes MOV Gratuitos Para Macs E PCs - Soluções Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-sims-4-cannot-be-launched-a-comprehensive-solution-guide/"><u>Overcoming 'Sims 4 Cannot Be Launched': A Comprehensive Solution Guide</u></a></li>
 </ul></div>
+

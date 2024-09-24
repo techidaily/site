@@ -1,7 +1,7 @@
 ---
 title: Harnessing Cookiebot's Power for Advanced Digital Engagement Strategies
-date: 2024-08-22T08:24:29.793Z
-updated: 2024-08-23T08:24:29.793Z
+date: 2024-09-20T11:12:38.774Z
+updated: 2024-09-23T16:56:33.194Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e440f8880873d74d5b6083f2.jpg
@@ -68,8 +68,12 @@ From your perspective and from ABBYY's perspective, how can OCR, invoice scannin
 And for that, you need to have good insights into what your businesses are doing. And especially finance leaders need elevate the conversation in thinking about what's driving your team; what value is my team delivering? Is that entering data—or is that thinking about our processes delivering the accounting, giving insights to the business? I think it's the latter. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The Changing Role of the Finance Leader
 
 ABBYY Chief Financial Officer James Ritter shares insights on how finance leaders can adapt to the changing business landscape with the help of intelligent automation.
@@ -111,9 +115,18 @@ A lot of great conversation today, Max. But before we go, is there anything else
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -122,23 +135,34 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Related posts
 
 ![](https://static1.abbyy.com/abbyycommedia/37736/idp-scheme-848x444-b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [What Is Intelligent Document Processing, and How Does It Work?](https://tools.techidaily.com/abbyy/products/) 
 
 #### Subscribe for blog updates
@@ -191,8 +215,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,51 +224,22 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-essential-guide-to-rapid-signature-removal-for-2024/"><u>[New] Essential Guide to Rapid Signature Removal for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-essential-guide-to-mac-based-lecture-recording/"><u>[New] In 2024, The Essential Guide to Mac-Based Lecture Recording</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>[New] Personalized Content Sharing on Vimeo  Basic, Plus & Pro Explained</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-diverse-iptv-content-distribution/"><u>[Updated] Diverse IPTV Content Distribution</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>2024 Approved  The Vida Journey  From Raw Footage to Cinematic Scene</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/3-pinnacle-phones-for-professional-video-capture-for-2024/"><u>3 Pinnacle Phones for Professional Video Capture for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y02t-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y02T FRP Bypass Instantly</u></a></li>
-<li><a href="https://techidaily.com/beginners-guide-to-wiping-clean-and-refreshing-your-hp-laptop-the-complete-factory-reset-method/"><u>Beginner's Guide to Wiping Clean and Refreshing Your HP Laptop - The Complete Factory Reset Method</u></a></li>
-<li><a href="https://techidaily.com/beginners-tutorial-on-boosting-cpu-performance-with-overclocking/"><u>Beginner's Tutorial on Boosting CPU Performance with Overclocking</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-stabilized-camera-gimbals-for-iphone-android-and-dslr/"><u>Best Stabilized Camera Gimbals for iPhone, Android, and DSLR</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l2740dw-compatible-windows-drivers-download-links-here/"><u>Brother MFC-L2740DW: Compatible Windows Drivers Download Links Here</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-hot-40-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Hot 40 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/compattelrunnerexe-high-disk-usage-in-windows-10-and-7-solved/"><u>CompatTelRunner.exe High Disk Usage in Windows 10 & 7 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-mastering-system-restoration-on-windows-11-with-eight-key-steps/"><u>Complete Guide: Mastering System Restoration on Windows 11 with Eight Key Steps</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-how-to-unlink-onedrive-from-your-windows-11-pcs-file-system/"><u>Complete Tutorial: How to Unlink OneDrive From Your Windows 11 PC's File System</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-instructions-keeping-your-windows-n-update-cycle-on-pause/"><u>Comprehensive Instructions: Keeping Your Windows N Update Cycle On Pause</u></a></li>
-<li><a href="https://techidaily.com/connecting-your-playstation-4-controller-a-comprehensive-tutorial/"><u>Connecting Your PlayStation 4 Controller - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techidaily.com/cpu-at-100-effective-fixes-for-optimizing-your-systems-performance/"><u>CPU at 100%%? Effective Fixes for Optimizing Your System's Performance</u></a></li>
-<li><a href="https://techidaily.com/diagnosing-and-repairing-darkened-webcam-display-for-windows-users/"><u>Diagnosing and Repairing Darkened Webcam Display for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/discover-the-worlds-leading-torrent-platforms-a-comprehensive-top-10-guide/"><u>Discover the World's Leading Torrent Platforms: A Comprehensive Top 10 Guide</u></a></li>
-<li><a href="https://techidaily.com/effortless-way-to-upgrade-graphics-device-drivers-in-windows-10-system/"><u>Effortless Way to Upgrade Graphics Device Drivers in Windows 10 System</u></a></li>
-<li><a href="https://techidaily.com/essential-tips-for-successful-windows-10-os-installation/"><u>Essential Tips for Successful Windows 10 OS Installation</u></a></li>
-<li><a href="https://techidaily.com/expert-recommendations-top-video-editors-specially-designed-for-mac-by-apple/"><u>Expert Recommendations: Top Video Editors Specially Designed for Mac by Apple</u></a></li>
-<li><a href="https://techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/fixing-an-undetected-sd-card-quick-troubleshooting-steps/"><u>Fixing an Undetected SD Card: Quick Troubleshooting Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-activate-or-deactivate-hibernation-mode-on-your-windows-10-pc/"><u>How to Activate or Deactivate Hibernation Mode on Your Windows 10 PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-boost-fps-in-rust/"><u>How to Boost FPS in Rust</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-screen-resolution-windows-11-solved/"><u>How to Change Screen Resolution Windows 11 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/how-to-connect-laptop-to-tv-with-hdmi-with-pictures/"><u>How to Connect Laptop to TV with HDMI [with Pictures]</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-find-and-install-new-driver-updates-for-windows-10-and-11/"><u>How to Easily Find and Install New Driver Updates for Windows 10 and 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-inf-drivers-windows-1178xpvista/"><u>How to Install Inf Drivers (Windows 11/7/8/XP/Vista)</u></a></li>
-<li><a href="https://techidaily.com/how-to-optimize-minecraft-gameplay-fixing-low-fps-in-the-latest-high-performance-gear/"><u>How to Optimize Minecraft Gameplay: Fixing Low FPS in the Latest High-Performance Gear</u></a></li>
-<li><a href="https://techidaily.com/identifying-your-systems-graphics-processing-unit-a-step-by-step-guide/"><u>Identifying Your System's Graphics Processing Unit: A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>In 2024, Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
-<li><a href="https://howto.techidaily.com/infinix-zero-30-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Zero 30 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/master-playing-games-with-a-ps4-controller-on-steam-a-detailed-tutorial/"><u>Master Playing Games with a PS4 Controller on Steam - A Detailed Tutorial</u></a></li>
-<li><a href="https://techidaily.com/mastering-pubg-settings-discover-the-best-techniques-for-a-smoother-gaming-experience-top-7-strategies/"><u>Mastering PUBG Settings: Discover the Best Techniques for a Smoother Gaming Experience (Top 7 Strategies)</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-window-11-screenshotting-tutorials/"><u>Mastering the Art of Window 11 Screenshotting Tutorials</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-fps-in-fortnite-essential-tips/"><u>Maximize Your FPS in Fortnite - Essential Tips</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-pubg-gameplay-top-strategies-to-increase-fps-in-2020/"><u>Maximize Your PUBG Gameplay: Top Strategies to Increase FPS in 2020</u></a></li>
-<li><a href="https://techidaily.com/navigating-windows-10-advanced-startup-features-with-minimal-hassle-a-how-to-guide/"><u>Navigating Windows 10 Advanced Startup Features with Minimal Hassle: A How-To Guide</u></a></li>
-<li><a href="https://techidaily.com/optimize-and-overclock-the-ultimate-list-of-tricks-to-make-your-laptop-faster/"><u>Optimize and Overclock: The Ultimate List of Tricks to Make Your Laptop Faster.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rapid-setup-for-stellar-users/"><u>Rapid Setup for Stellar Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-dial-achieving-smooth-volume-ramp-ups/"><u>Updated In 2024, Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-apples-pride-ios-10-best-no-cost-collages-and-photo-edits-for-2024/"><u>[New] Apple's Pride IOS' 10 Best No-Cost Collages & Photo Edits for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inshot-soundsmith-adding-audio-to-videos/"><u>[Updated] InShot Soundsmith Adding Audio to Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-making-money-fast-the-pathway-to-success-in-youtube-shorts/"><u>[Updated] Making Money Fast The Pathway to Success in YouTube Shorts</u></a></li>
+<li><a href="https://techidaily.com/1-free-online-conversion-change-webm-files-into-high-quality-flac-audio-format/"><u>1. Free Online Conversion: Change WebM Files Into High-Quality FLAC Audio Format</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unleash-stunning-visuals-top-10-high-resolution-displays-for-mac/"><u>2024 Approved Unleash Stunning Visuals - Top 10 High-Resolution Displays for Mac</u></a></li>
+<li><a href="https://techidaily.com/4-efektivni-tridy-nahravani-webovyh-stranek-do-audiotekstu-podrobny-pruvodce-s-movavi/"><u>4 Efektivní Třídy Nahrávání Webovyh Stránek Do Audiotekstu: Podrobný Průvodce S Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233783102-productsrecorderproductname/"><u>获取{{ product('srecorder').product_name}}的免费访问金钥匙序列号</u></a></li>
+<li><a href="https://techidaily.com/1726233776228-flv-movavi/"><u>簡便無需下載的線上 FLV格式自由切換器 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233776256-3gpwma-movavi/"><u>線上即時 3GP至WMA無成本導航 - Movavi 轉換器解決方案</u></a></li>
+<li><a href="https://techidaily.com/best-video-smoothing-applications-of-202-the-year-with-pay-free-choices-available/"><u>Best Video Smoothing Applications of 202 the Year, With Pay-Free Choices Available</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-life-in-motion-top-9-smartphone-props-for-dynamic-cinematography/"><u>Capturing Life in Motion Top 9 Smartphone Props for Dynamic Cinematography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/narrative-crafting-via-chatgpt-text-games/"><u>Narrative Crafting via ChatGPT Text Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-itel-p55-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Itel P55 Location | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-to-the-newest-nvidia-quadro-graphics-drivers-on-windows-11-dch-support-included/"><u>Update to the Newest NVIDIA Quadro Graphics Drivers on Windows 11 (DCH Support Included)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/1726233744406-png-pgm-movavi/"><u>웹 안에서 비용 없이 PNG을 PGM로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233804388-caf/"><u>オンラインで簡単! CAF形式の画像を変換するための特別便利な無料ツール</u></a></li>
 </ul></div>
+

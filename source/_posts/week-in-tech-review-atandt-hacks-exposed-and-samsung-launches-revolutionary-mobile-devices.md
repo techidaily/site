@@ -1,7 +1,7 @@
 ---
 title: "Week in Tech Review: AT&T Hacks Exposed & Samsung Launches Revolutionary Mobile Devices"
-date: 2024-09-21T02:01:43.716Z
-updated: 2024-09-23T19:25:00.689Z
+date: 2024-09-19T22:45:06.553Z
+updated: 2024-09-23T19:05:22.389Z
 tags:
   - deals
 categories:
@@ -20,10 +20,10 @@ This was a busy week for tech news, with Samsung releasing new phones and access
  Even if you aren't an AT&T customer, this breach probably affects you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Thunderbird's Big "Nebula" Update Is Now Available](https://win-dash.techidaily.com/fresh-release-enhanced-biometric-drivers-for-seamless-windows-integration/) 
@@ -32,33 +32,40 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 ![A screenshot of the updated Thunderbird 128 interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/23.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Mozilla
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [The Samsung Galaxy Buds 3 Look A Lot Like AirPods](https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/) 
 
  Samsung’s new lower-cost wireless earbuds took a few notes from Apple’s AirPods.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [These Features Are Now Rolling out to All Windows 11 PCs](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
  An updated Start menu, the return of "show desktop," new emoji, and more are rolling out to all Windows 11 PCs after a few months in Insider testing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Spotify Is Now a Social Media Platform](https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/) 
 
@@ -84,13 +91,6 @@ Justin Duino / How-To Geek
 
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [The Galaxy Watch Ultra is Samsung's Most Expensive Wearable Yet](https://ai-video-apps.techidaily.com/updated-2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/) 
 
  The new Galaxy Watch Ultra takes some inspiration from the Apple Watch Ultra.
@@ -99,27 +99,27 @@ Justin Duino / How-To Geek
 
 Justin Duino / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
  Samsung’s new regular smartwatch has new internal hardware and the same circular screen.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Microsoft Overhauls Game Pass With Higher Prices and New “Standard” Plan](https://howto.techidaily.com/tecno-pova-5-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
  The console-only Game Pass is being replaced with a different "Standard" plan, and pricing is changing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [ASUS' Newest NUC Tiny PCs Are Really Powerful](https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/) 
 
@@ -140,22 +140,15 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-listening-transcription-tool-unveiled/"><u>[New] Free Listening Transcription Tool Unveiled</u></a></li>
-<li><a href="https://techidaily.com/1726233723807-avimp4-movavi/"><u>無料で簡単なAVIファイルのMP4へのオンライン変換 - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-step-by-step-guide-transferring-winx-dvds-onto-your-ipad-seamlessly/"><u>Comprehensive Step-by-Step Guide: Transferring WinX DVDs Onto Your iPad Seamlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-mkv-viewing-in-vlc-tips-for-overcoming-the-mkv-file-not-supported-problem/"><u>Effortless MKV Viewing in VLC: Tips for Overcoming the ‘MKV File Not Supported’ Problem</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harness-natural-light-for-iphone-photography-for-2024/"><u>Harness Natural Light for iPhone Photography for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c32-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia C32</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-the-art-of-profile-video-attraction/"><u>In 2024, Mastering the Art of Profile Video Attraction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-kids-and-chatgpt-with-ease-five-key-techniques-to-ensure-safety/"><u>Navigating Kids and ChatGPT with Ease: Five Key Techniques to Ensure Safety</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-fps-drops-in-counter-strike-2-essential-tweaks-for-a-smooth-pc-gaming-experience/"><u>Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/top-15-modi-piu-efficaci-per-scaricare-podcast-su-pc-o-mobile-con-movavi/"><u>Top 15 Modi Più Efficaci per Scaricare Podcast Su PC O Mobile Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/top-green-screen-apps-compatible-with-pc-android-and-ios-devices/"><u>Top Green Screen Apps Compatible with PC, Android & iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/top-video-converters-for-ts-to-mp4-conversion-reviews-and-comparisons/"><u>Top Video Converters for TS to MP4 Conversion - Reviews and Comparisons</u></a></li>
-<li><a href="https://techidaily.com/transforma-tus-clips-wav-al-formato-avi-sin-costo-alguno-usando-el-convertidor-en-linea-de-movavi/"><u>Transforma Tus Clips WAV Al Formato AVI Sin Costo Alguno Usando El Convertidor en Línea De Movavi</u></a></li>
-<li><a href="https://techidaily.com/transformar-imagenes-de-rw2-a-jpg-sin-coste-adicional-con-la-herramienta-online-de-muoviavi/"><u>Transformar Imágenes De RW2 a JPG Sin Coste Adicional Con La Herramienta Online De MuoviAVI</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-windows-10-update-error-0xc1900208-a-comprehensive-fix-guide/"><u>Winning the Battle Against Windows 10 Update Error 0xC1900208: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://techidaily.com/wmvswf-pdfepub/"><u>WMV/SWF 파일을 원거나 보다 강력한 구성으로 PDF/EPUB로 무료 바이트 단위로 온라인 전송</u></a></li>
-<li><a href="https://techidaily.com/webp-gifmovavi/"><u>オンライン無料WEBP画像直し - GIF形式にMovavi変換する方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-35-funny-photo-editors-and-apps-online-ios-android/"><u>[New] Best 35 Funny Photo Editors and Apps [Online, iOS, Android]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flixfortress-over-a-hundred-channels-of-fortitude-for-2024/"><u>[Updated] FlixFortress Over a Hundred Channels of Fortitude for 2024</u></a></li>
+<li><a href="https://techidaily.com/1726233754208-mp3/"><u>【迅速＆用途広く】フリーウェアで動画をMP3に変換する -オンラインツール</u></a></li>
+<li><a href="https://techidaily.com/1726233785702-ai-12/"><u>AI 얼굴 만들기를 위한 12가지 획기적인 프로그램 선보기</u></a></li>
+<li><a href="https://article-files.techidaily.com/clearer-views-the-top-10-online-photo-fixes-for-2024/"><u>Clearer Views The Top 10 Online Photo Fixes for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-windows-11-update-code-0x800f0922-your-ultimate-guide-to-8-solutions/"><u>Conquer Windows 11 Update Code 0X800f0922 - Your Ultimate Guide to 8 Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-iphone-enthusiasts-can-join-and-view-shared-albums-with-simple-instructions/"><u>How iPhone Enthusiasts Can Join and View Shared Albums with Simple Instructions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 12 Pro Max Making It Possible</u></a></li>
+<li><a href="https://techidaily.com/1726233761033-mp43gp-movavi/"><u>コストレスで高速なオンラインMP4/3GP動画変換 - Movaviを超えて</u></a></li>
+<li><a href="https://techidaily.com/1726233776009-movavi/"><u>モバビでスムーズに動画の字幕付け: 初心者から上達までガイド【Movavi・文字表示】</u></a></li>
 </ul></div>
 

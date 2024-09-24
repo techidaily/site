@@ -1,7 +1,7 @@
 ---
 title: "Efficient Invoicing Made Easy: How ABBYY's Software Revolutionizes Adactus Housing Group's Operations"
-date: 2024-09-05T06:19:37.876Z
-updated: 2024-09-06T06:19:37.876Z
+date: 2024-09-20T19:58:25.532Z
+updated: 2024-09-23T21:02:15.239Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b52b80b737f6be60e6367144.PNG
@@ -13,12 +13,6 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 
 Other | Accounts Payable Automation
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY Solution Partner Automates Invoice Processing for Adactus Housing Group
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
@@ -31,16 +25,17 @@ Other | Accounts Payable Automation
 
 [![09-case-adactus](https://static4.abbyy.com/abbyycommedia/15131/09-case-adactus.jpg)](https://www.youtube.com/watch?v=VSzi7j1qpcE) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Adactus Group](https://static2.abbyy.com/abbyycommedia/14441/adactus_155x80.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 | Name                  | Adactus Group                                               |
 | --------------------- | ----------------------------------------------------------- |
 | Headquarters          | Lancashire                                                  |
@@ -52,11 +47,12 @@ Other | Accounts Payable Automation
 ![INVU](https://static1.abbyy.com/abbyycommedia/14443/invu_logo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 | Name | INVU                                 |
 | ---- | ------------------------------------ |
 | Web  | [www.invu.net](http://www.invu.net/) |
@@ -79,18 +75,6 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 
 ###### SEE HOW ABBYY CAN HELP
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Up to **60,000**
 
 paper invoices are normally received each year
@@ -100,11 +84,12 @@ paper invoices are normally received each year
 represent 50% of the transactions stream
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **4** full time staff
 
 minimum intervention in invoice processing
@@ -155,22 +140,10 @@ The benefit of introducing this solution is a slicker way of working which limit
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/14325/1a-adactus-1-real-estate-en_small.jpg)](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [read more](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -180,6 +153,13 @@ Share  True ?  : ""
 [More about ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
 
@@ -193,8 +173,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,42 +182,21 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-embedding-youtube-music-in-media-files-for-2024/"><u>[New] Embedding YouTube Music in Media Files for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fb-live-guide-audiences/"><u>[New] In 2024, FB Live Guide Audiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-obs-the-ultimate-tutorial-for-live-broadcasts-for-2024/"><u>[New] Mastering OBS  The Ultimate Tutorial for Live Broadcasts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-gear-helmet-cams-the-most-trusted-choice-riders/"><u>[New] Top Gear Helmet Cams - The Most Trusted Choice Riders</u></a></li>
-<li><a href="https://techidaily.com/solved-oculus-quest-2-not-connecting-to-pc/"><u>[SOLVED] Oculus Quest 2 Not Connecting to PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-buys-in-the-realm-of-4k-video-tools/"><u>[Updated] 2024 Approved  Best Buys in the Realm of 4K Video Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-filmmaking-fundamentals-for-engaging-facebook-groups/"><u>[Updated] 2024 Approved  Filmmaking Fundamentals for Engaging Facebook Groups</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-how-to-use-inshot-for-laptoppc-and-alternatives-video-editor/"><u>2024 Approved  How to Use Inshot for Laptop/PC and Alternatives Video Editor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>2024 Approved  Top Shots and Their Tales  The Most Shared Stock Memes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>Avoiding Pitfalls  Common Mistakes in Instagram Filmmaking</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ergoheads-ultimate-standing-desk-mat-assessed-unmatched-endurance-and-ease-over-hours-of-work/"><u>Ergohead's Ultimate Standing Desk Mat Assessed - Unmatched Endurance and Ease Over Hours of Work</u></a></li>
-<li><a href="https://article-posts.techidaily.com/exploring-peak-performance-best-oculus-rift-players/"><u>Exploring Peak Performance  Best Oculus Rift Players</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fusing-iphones-media-for-cohesive-outputs-for-2024/"><u>Fusing iPhones' Media for Cohesive Outputs for 2024</u></a></li>
-<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
-<li><a href="https://techidaily.com/hiberfilsys-windows-11-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 11 & How to Delete It? [Solved]</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-display-language-in-windows-7/"><u>How to Change Display Language in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-disable-pop-up-blocker-in-chrome-firefox-edge-and-ie/"><u>How to Disable Pop-Up Blocker in Chrome, Firefox, Edge and IE</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily!</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-11/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-unfreeze-a-computer-in-windows-10/"><u>How to Unfreeze a Computer in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-realtek-pcie-fe-family-controller-drivers-in-windows-7/"><u>How to Update Realtek PCIe FE Family Controller Drivers in Windows 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-xs-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone XS?</u></a></li>
-<li><a href="https://techidaily.com/laptop-projector-connection-made-simple-expert-tips-and-techniques/"><u>Laptop-Projector Connection Made Simple: Expert Tips and Techniques</u></a></li>
-<li><a href="https://techidaily.com/lowering-processor-consumption-tips-for-smoother-performance-on-windows-systems/"><u>Lowering Processor Consumption: Tips for Smoother Performance on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/master-your-mouse-control-a-comprehensive-tutorial-for-tweaking-and-troubleshooting-sensitivity-problems/"><u>Master Your Mouse Control: A Comprehensive Tutorial for Tweaking and Troubleshooting Sensitivity Problems</u></a></li>
-<li><a href="https://techidaily.com/mastering-system-recovery-in-windows-11-accessing-boot-settings-explained/"><u>Mastering System Recovery in Windows 11: Accessing Boot Settings Explained</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-effortless-screen-captures-in-windows-8/"><u>Mastering the Art of Effortless Screen Captures in Windows 8</u></a></li>
-<li><a href="https://techidaily.com/navigating-the-uninstallation-of-nvidia-drivers-in-windows-11/"><u>Navigating the Uninstallation of NVIDIA Drivers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/optimizing-pubg-gameplay-mastering-nvidia-graphics-card-settings/"><u>Optimizing PUBG Gameplay: Mastering Nvidia Graphics Card Settings</u></a></li>
-<li><a href="https://techidaily.com/overcoming-challenges-in-installing-oculus-on-the-latest-versions-of-windows-os/"><u>Overcoming Challenges in Installing Oculus on the Latest Versions of Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-logitech-g-hub-malfunctions-tips-and-tricks-for-windows-users/"><u>Overcoming Logitech G Hub Malfunctions: Tips and Tricks for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/protecting-your-data-with-easy-backup-how-to-make-restore-points-in-windows-xp/"><u>Protecting Your Data with Easy Backup: How to Make Restore Points in Windows XP</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-identifying-the-latest-nvidia-drivers-on-your-system/"><u>Quick Guide: Identifying the Latest NVIDIA Drivers on Your System</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-seamlessly-linking-bluetooth-speaker-and-laptop-together/"><u>Quick Guide: Seamlessly Linking Bluetooth Speaker and Laptop Together</u></a></li>
-<li><a href="https://techidaily.com/quickly-find-out-how-much-ram-you-have-in-windows-easy-tutorial-inside/"><u>Quickly Find Out How Much RAM You Have in Windows – Easy Tutorial Inside</u></a></li>
-<li><a href="https://techidaily.com/solving-gameplay-interruptions-a-guide-to-handling-fps-drops-in-beyond-light/"><u>Solving Gameplay Interruptions: A Guide to Handling FPS Drops in BEYOND LIGHT</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-strategy-behind-automatic-youtube-playback-on-fb-for-2024/"><u>The Strategy Behind Automatic YouTube Playback on FB for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-ultimate-playbook-for-earning-via-youtube-shorts/"><u>The Ultimate Playbook for Earning via YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-creativity-choosing-high-quality-camera-lenses/"><u>[New] 2024 Approved Cutting Edge Creativity Choosing High-Quality Camera Lenses</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-soundscaping-stories-musical-elements-in-reels/"><u>[Updated] In 2024, Soundscaping Stories Musical Elements in Reels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-magixs-acid-pro-critique-with-comparison-tools/"><u>[Updated] Magix's ACID Pro Critique with Comparison Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-guide-gifs-becoming-stickers-on-discord-whatsapp-and-telegram/"><u>[Updated] Transformative Guide GIFs Becoming Stickers on Discord, WhatsApp & Telegram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-maze-of-music-rights-on-instagram/"><u>2024 Approved Navigating the Maze of Music Rights on Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-content-generation-what-can-you-do-if-your-job-is-now-considered-automated/"><u>AI Content Generation: What Can You Do If Your Job Is Now Considered Automated?</u></a></li>
+<li><a href="https://techidaily.com/convertisseur-gratuit-en-ligne-de-fichiers-wav-a-format-mp4-movavi/"><u>Convertisseur Gratuit en Ligne De Fichiers WAV À Format MP4 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertissez-votre-video-mpe-en-gif-gratuit-en-ligne-rapidement-grace-a-movavi-solution-de-conversion-avancee/"><u>Convertissez Votre Vidéo MPE en GIF Gratuit en Ligne Rapidement Grâce À Movavi - Solution De Conversion Avancée</u></a></li>
+<li><a href="https://techidaily.com/descubre-la-forma-rapida-y-gratuita-de-transformar-tus-videos-aifc-en-calidad-m4a-usando-movavi-online-converter/"><u>Descubre La Forma Rápida Y Gratuita De Transformar Tus Videos AIFC en Calidad M4A Usando Movavi Online Converter</u></a></li>
+<li><a href="https://techidaily.com/download-converter-online-free-mp4-to-3gp-transformation-by-movavi/"><u>Download Converter Online: Free MP4 to 3GP Transformation by Movavi</u></a></li>
+<li><a href="https://techidaily.com/download-official-imovie-software-for-your-windows-pc-step-by-step-guide/"><u>Download Official iMovie Software for Your Windows PC: Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/easily-turn-videos-right-side-up-on-android-phones-with-movavi-clips-complete-tutorial/"><u>Easily Turn Videos Right Side Up on Android Phones with Movavi Clips - Complete Tutorial</u></a></li>
+<li><a href="https://techidaily.com/explore-the-premier-alternatives-to-chatgpt-featuring-innovative-free-and-paid-artificial-intelligence-chatbots/"><u>Explore the Premier Alternatives to ChatGPT : Featuring Innovative Free & Paid Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-conexant-smartaudios-silent-mode-a-fix-guide-for-windows-10-users/"><u>Resolve Conexant SmartAudio's Silent Mode: A Fix Guide for Windows 10 Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-c50-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-6-platforms-revolutionizing-business-social-interaction/"><u>Top 6 Platforms Revolutionizing Business-Social Interaction</u></a></li>
 </ul></div>
+

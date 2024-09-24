@@ -1,7 +1,7 @@
 ---
 title: ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer
-date: 2024-09-15T16:49:39.836Z
-updated: 2024-09-18T16:02:13.555Z
+date: 2024-09-21T09:00:32.559Z
+updated: 2024-09-24T07:03:06.956Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c669607905f5ab705b440efbb.jpg
@@ -59,23 +59,29 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-deciphering-average-income-the-podcasters-guide-for-2024/"><u>[New] Deciphering Average Income The Podcaster's Guide for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-comprehensive-analysis-of-top-6-hdmi-enabled-monitors/"><u>[New] In 2024, Comprehensive Analysis of Top 6 HDMI-Enabled Monitors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[Updated] 2024 Approved Perfect Your iPhone Photography Top-Tier Filming Aids</u></a></li>
-<li><a href="https://techidaily.com/1-step-by-step-guide-completely-erase-and-hide-user-accounts-in-linux/"><u>1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-text-to-laughter-kapwings-toolkit/"><u>2024 Approved Transform Text to Laughter - Kapwing's Toolkit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-toms-hardware-insights/"><u>Exploring Electronics with Tom’s Hardware Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-steamvr-issues-a-simple-and-fast-solution/"><u>Fixing SteamVR Issues: A Simple and Fast Solution</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-ranked-guide-to-legally-acquiring-mtvs-unplugged-performances-online/"><u>Top-Ranked Guide to Legally Acquiring MTV's Unplugged Performances Online</u></a></li>
-<li><a href="https://techidaily.com/understanding-your-apple-id-the-truth-behind-its-continued-existence/"><u>Understanding Your Apple ID: The Truth Behind Its Continued Existence</u></a></li>
-<li><a href="https://techidaily.com/unlock-enhanced-coding-assistance-in-notepad-on-windows-11-with-innovative-ai-technology/"><u>Unlock Enhanced Coding Assistance in Notepad on Windows 11 with Innovative AI Technology!</u></a></li>
-<li><a href="https://techidaily.com/windows-11-users-tutorial-customizing-date-and-time-display-preferences/"><u>Windows 11 User's Tutorial: Customizing Date and Time Display Preferences</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-getting-started-with-computers-the-basics-of-going-live-on-tiktok/"><u>[New] In 2024, Getting Started with Computers The Basics of Going Live on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-all-encompassing-evaluation-gecatas-live-recording/"><u>[Updated] All-Encompassing Evaluation Gecata's Live Recording</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-happiness-awaits-selecting-prime-anime-content-on-youtube/"><u>2024 Approved Happiness Awaits Selecting Prime Anime Content on Youtube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-splitcams-journey-to-video-excellence-an-overview/"><u>2024 Approved SplitCam's Journey to Video Excellence An Overview</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-viral-visionaries-top-meme-creators-on-social-media/"><u>2024 Approved Viral Visionaries Top Meme Creators on Social Media</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722960973439-get-your-elgato-hd60-up-and-running-easy-fixes-for-drivers/"><u>Get Your Elgato HD60 Up and Running: Easy Fixes for Drivers!</u></a></li>
+<li><a href="https://techidaily.com/gratuit-verbetering-en-conversie-van-flac-inhoud-naar-wmv-expertise-van-movavi/"><u>Gratuit Verbetering en Conversie Van Flac-Inhoud Naar WMV: Expertise Van Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-converter-videos-amv-para-formato-mpg-com-movavi-o-site-de-conversao-online-facil/"><u>Gratuito: Converter Vídeos AMV Para Formato MPG Com Movavi, O Site De Conversão Online Fácil!</u></a></li>
+<li><a href="https://techidaily.com/guide-ultime-comment-ameliorer-la-performance-de-votre-pc-pour-les-jeu-videos-sous-windows-11/"><u>Guide Ultime : Comment Améliorer La Performance De Votre PC Pour Les Jeu Vidéos Sous Windows 11</u></a></li>
+<li><a href="https://solve-news.techidaily.com/how-to-easily-convert-your-avchd-videos-into-mp4-format-for-free-on-windows-11-a-step-by-step-guide/"><u>How To Easily Convert Your AVCHD Videos Into MP4 Format For Free On Windows 11: A Step-By-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-solutions-to-unlock-google-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Google Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
+<li><a href="https://techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/next-gen-dvd-unlocking-tools-for-2amz-superior-performance-and-user-experience/"><u>Next-Gen DVD Unlocking Tools for 2Amz: Superior Performance & User Experience</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: ABBYY Ascend as Top Contender in Intelligent Document Management , According to ISG & Quadrant Knowledge Solutions
-date: 2024-09-14T17:59:37.328Z
-updated: 2024-09-18T17:08:40.954Z
+date: 2024-09-19T10:24:57.509Z
+updated: 2024-09-24T11:10:13.922Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e1bd3691a250a97186a2df74.jpg
@@ -41,13 +41,34 @@ La reconnaissance d’ABBYY en tant que leader de l’IDP intervient après le l
 * [Rapport ISG Provider Lens™ Intelligent Automation - Solutions & Services 2021 - Process Mining (U.S.)](https://tools.techidaily.com/abbyy/products/)
 * [Rapport Quadrant Knowledge Solutions SPARK Matrix for IDP 2021](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY permet aux entreprises d’appréhender de manière précise leurs process et contenus via sa plateforme d'[intelligence digitale](https://tools.techidaily.com/abbyy/products/). Les technologies d'ABBYY équipent plus de 5 000 entreprises, dont un grand nombre figurent dans le classement Fortune 500\. L’entreprise est reconnue pour ses solutions de pointe dans les domaines du [Content Intelligence](https://tools.techidaily.com/abbyy/products/) et du [Process Intelligence](https://tools.techidaily.com/abbyy/products/) qui ont pour vocation d’améliorer l'efficacité, la rentabilité et la compétitivité des entreprises ainsi que l’expérience client. ABBYY possède des bureaux dans 14 pays. Pour davantage d'informations, veuillez consulter le site <https://www.abbyy.com/fr/>.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Contact presse :
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Bianca Stupp
 
@@ -72,24 +93,25 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-premier-tools-to-scrub-tiktok-brand-images/"><u>[New] 2024 Approved Premier Tools to Scrub TikTok Brand Images</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-pro-level-insights-for-perfectly-crafted-snaps/"><u>[New] Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-instagrams-vertical-vortex-sideways-media-mystery/"><u>[Updated] 2024 Approved Instagram's Vertical Vortex Sideways Media Mystery</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y78-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y78 5G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/google-pixel-7a-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Google Pixel 7a ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-frontier-from-crashing-on-your-computer-a-step-by-step-solution/"><u>How to Stop 'Frontier' From Crashing on Your Computer – A Step-by-Step Solution</u></a></li>
-<li><a href="https://techidaily.com/maximizing-your-data-security-the-benefits-of-storing-time-machine-backups-on-a-macs-built-in-hardware/"><u>Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware</u></a></li>
-<li><a href="https://techidaily.com/microsoft-launches-innovative-pc-search-with-ai-recall-function/"><u>Microsoft Launches Innovative PC Search with AI Recall Function</u></a></li>
-<li><a href="https://techidaily.com/overcoming-windows-update-hurdle-fixing-the-0x80070643-issue-efficiently/"><u>Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently</u></a></li>
-<li><a href="https://techidaily.com/quickly-lock-your-windows-desktop-via-command-prompt-on-a-windows-11-machine/"><u>Quickly Lock Your Window's Desktop via Command Prompt on a Windows 11 Machine</u></a></li>
-<li><a href="https://techidaily.com/reviving-retro-windows-audio-a-step-by-step-guide-to-restoring-classic-system-sounds-in-windows-11/"><u>Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tailored-soundtracks-at-your-fingertips-constructing-youtube-music-collections-webmobile/"><u>Tailored Soundtracks at Your Fingertips Constructing YouTube Music Collections (Web/Mobile)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>[New] 2024 Approved The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-4k-marvel-sony-xperia-xz-premium-reviewed/"><u>[New] Exploring the 4K Marvel Sony Xperia XZ Premium Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-backtracking-visuals-proficient-strategies-for-insta-image-source/"><u>[New] In 2024, Backtracking Visuals Proficient Strategies for Insta Image Source</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-lunar-luster-online-a-curated-list-of-hdr-sky-images/"><u>[New] Lunar Luster Online A Curated List of HDR Sky Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-impressive-image-sequence-on-instagram/"><u>[Updated] 2024 Approved Impressive Image Sequence on Instagram</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlock-potential-with-best-sd-cards-for-gopro-hero-78/"><u>[Updated] Unlock Potential with Best SD Cards for GoPro HERO 7/8</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/blueprint-for-reaching-set-annual-targets/"><u>Blueprint For Reaching Set Annual Targets</u></a></li>
+<li><a href="https://techidaily.com/conversao-de-video-wmv-para-formato-3g2-online-e-gratuito-pelo-movavi/"><u>Conversão De Vídeo WMV Para Formato 3G2 Online E Gratuito Pelo Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertidor-m4a-en-webm-gratuito-y-facil-de-usar-para-obtener-mejores-calidad-de-video-online/"><u>Convertidor M4A en WebM Gratuito Y Fácil De Usar Para Obtener Mejores Calidad De Video Online.</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-free-desktop-notetakers-for-windows-11-users-to-enhance-learning-and-organization/"><u>Discover the Best Free Desktop Notetakers for Windows 11 Users to Enhance Learning & Organization</u></a></li>
+<li><a href="https://techidaily.com/diy-green-screen-setup-and-use-in-videos-complete-guide-2024/"><u>DIY Green Screen Setup & Use in Videos - Complete Guide 2024</u></a></li>
+<li><a href="https://techidaily.com/effective-strategies-for-recording-conferences-using-zoom-skype-and-similar-platforms/"><u>Effective Strategies for Recording Conferences Using Zoom, Skype, and Similar Platforms</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-upload-and-convert-your-3gp-videos-to-high-quality-mpeg-no-cost-solution/"><u>Effortlessly Upload and Convert Your 3GP Videos to High-Quality MPEG - No Cost Solution!</u></a></li>
+<li><a href="https://techidaily.com/ferramenta-de-conversao-gratuita-para-webp-files-site-do-movavi/"><u>Ferramenta De Conversão Gratuita Para Webp Files - Site Do Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-geforce-rtx-3060-ti-drivers-for-optimal-windows-11-performance/"><u>New Release: GeForce RTX 3060 Ti Drivers for Optimal Windows 11 Performance</u></a></li>
+<li><a href="https://techidaily.com/ntsc-versus-pal-analise-abrangente-dos-diferentes-formatos-de-video-e-seu-desempenho/"><u>NTSC versus PAL: Análise Abrangente Dos Diferentes Formatos De Vídeo E Seu Desempenho</u></a></li>
+<li><a href="https://techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-5-video-and-picture-capturing-tools-for-smartphones/"><u>Top 5 Video & Picture Capturing Tools for Smartphones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Phones</u></a></li>
+<li><a href="https://techidaily.com/wmaaiff-movavi/"><u>コストなしでWMAとAIFFを変換する – オンラインツール集（Movavi）</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

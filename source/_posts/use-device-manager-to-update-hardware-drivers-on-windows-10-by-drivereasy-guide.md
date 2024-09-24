@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to update hardware drivers on Windows 10
-date: 2024-08-01T18:47:37.416Z
+date: 2024-09-22T10:30:28.663Z
 tags: 
   - driver
   - device driver
@@ -18,9 +18,6 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -37,9 +34,6 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -48,14 +42,15 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -68,14 +63,21 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -113,9 +115,23 @@ To automatically update to the correct version of all the drivers that are missi
 
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
@@ -132,9 +148,6 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -150,7 +163,6 @@ You don’t need to know what system your computer is running, you don’t need 
 This page describes how to do this.
 
 [Download Free Version](https://tools.techidaily.com/drivereasy/download/)
-
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
@@ -168,46 +180,20 @@ The free version will identify all your outdated drivers, and allow you to downl
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>[New] In 2024, Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beak-beat-boatwrights/"><u>[Updated] Beak Beat Boatwrights</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c12-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-straightforward-path-learn-how-to-use-ez-grabber-effectively/"><u>2024 Approved  A Straightforward Path  Learn How To Use EZ Grabber Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-end-photo-overlays-for-creative-texting/"><u>2024 Approved  High-End Photo Overlays for Creative Texting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-perfect-pairings-the-science-of-matching-music-with-imagery/"><u>2024 Approved  Perfect Pairings  The Science of Matching Music with Imagery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unparalleled-editing-experience-vimeo-edition-awaits/"><u>2024 Approved  Unparalleled Editing Experience  Vimeo Edition Awaits</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v27-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V27 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y200-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y200 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-gt-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 GT in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-poco-m6-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco M6 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hue-harmonization-handbook-for-experts-for-2024/"><u>Hue Harmonization Handbook for Experts for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-x-flip-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo X Flip? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-advanced-techniques-for-capturing-ps3-gaming-adventures/"><u>In 2024, Advanced Techniques for Capturing PS3 Gaming Adventures</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-camon-20-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Camon 20 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-composing-engaging-podcast-thumbnails/"><u>In 2024, Composing Engaging Podcast Thumbnails</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-the-art-of-podcast-title-creation-essential-tips-and-inspirations/"><u>In 2024, Perfecting the Art of Podcast Title Creation  Essential Tips & Inspirations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-tips-for-constructing-inspirational-day-to-day-visual-narratives/"><u>In 2024, Tips for Constructing Inspirational Day-to-Day Visual Narratives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-financial-demands-of-music-video-production/"><u>In 2024, Understanding the Financial Demands of Music Video Production</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-lava-blaze-2-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m14-4g-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy M14 4G won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-tecno-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Tecno</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-poco-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Poco</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c02-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C02 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y200-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y200 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-play-8t-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Play 8T</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-civi-3-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Civi 3</u></a></li>
-<li><a href="https://techidaily.com/vivo-y78plus-video-recovery-recover-deleted-videos-from-vivo-y78plus-by-fonelab-android-recover-video/"><u>Vivo Y78+ Video Recovery - Recover Deleted Videos from Vivo Y78+</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-innovative-methods-to-record-windows-8-display/"><u>[New] 2024 Approved Innovative Methods to Record Windows 8 Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-periscope-essentials-is-it-free-register-now-guide/"><u>[New] Periscope Essentials Is It Free? Register Now Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-the-way-we-see-toolwiz-apps-full-review-2023/"><u>[Updated] Revolutionizing the Way We See Toolwiz App's Full Review, 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-stream-ready-strategies-for-crystal-clear-steam-recordings/"><u>[Updated] Stream-Ready Strategies for Crystal Clear Steam Recordings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>2024 Approved Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-experience-optimizing-your-sites-performance/"><u>Cookiebot-Enhanced Experience: Optimizing Your Site's Performance</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-the-secret-ingredient-boosting-your-websites-seo/"><u>Cookiebot: The Secret Ingredient Boosting Your Website's SEO</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-your-ultimate-marketing-automation-partner/"><u>Cookiebot: Your Ultimate Marketing Automation Partner</u></a></li>
+<li><a href="https://techidaily.com/customized-engagement-through-the-power-of-cookiebot-technology/"><u>Customized Engagement Through the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/drive-engagement-with-lead-forms-boost-your-site-with-cookiebot/"><u>Drive Engagement with Lead Forms: Boost Your Site with Cookiebot</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y28-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y28 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-automated-audio-transcription-with-azure-for-2024/"><u>Mastering the Art of Automated Audio Transcription with Azure for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-scenes-powerhouses-an-overview-of-facebook-twitter-instagram-and-youtube/"><u>The Digital Scene's Powerhouses: An Overview of Facebook, Twitter, Instagram & Youtube</u></a></li>
 </ul></div>
+

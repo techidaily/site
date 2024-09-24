@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Making Drag & Drop Functional Again on Your PC"
-date: 2024-08-18T03:36:47.429Z
-updated: 2024-08-19T03:36:47.429Z
+date: 2024-09-22T17:15:24.358Z
+updated: 2024-09-24T04:21:06.532Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c55215
  1) On your keyboard, press**Windows logo key** and**R** at the same time. Type**control panel** in the search box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859ba2c280.png)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) View by**Category** , and then choose**Uninstall a program** under Programs category.
 
@@ -85,12 +92,16 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Repair system files
 
  The**0xc0000142 Error** blue screen of death error may be related to system files. When the system files were broken or corrupted, it may cause a Blue screen issue.
@@ -112,11 +123,16 @@ There are 2 ways to solve it. Here’s how:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -129,16 +145,17 @@ There are 2 ways to solve it. Here’s how:
  2) Type**cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
@@ -155,14 +172,23 @@ There are 2 ways to solve it. Here’s how:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -180,8 +206,6 @@ There are 2 ways to solve it. Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,43 +215,18 @@ There are 2 ways to solve it. Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-social-media-mastery-incorporating-polls-in-stories-for-2024/"><u>[New] Social Media Mastery  Incorporating Polls in Stories for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-most-popular-6-free-and-quick-youtube-video-repositories/"><u>[New] The Most Popular 6  Free & Quick YouTube Video Repositories</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-minimal-time-maximum-effect/"><u>[Updated] Minimal Time, Maximum Effect</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-roadmap-to-a-top-ranked-facebook-profile-for-2024/"><u>[Updated] The Roadmap to a Top-Ranked Facebook Profile for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-art-of-thumbnail-design-choosing-best-fonts/"><u>2024 Approved  The Art of Thumbnail Design  Choosing Best Fonts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 Pro and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600423390-stellar-data-recovery-windows/"><u>無料のStellar Data Recoveryソフトウェア: Windows用データを完全に復元できます</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accessing-nvidias-generative-ai-for-your-projects/"><u>Accessing NVIDIA's Generative AI for Your Projects</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/distinguishing-profile-names-from-usernames-on-platforms/"><u>Distinguishing Profile Names From Usernames on Platforms</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-htc-u23-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an HTC U23 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-x9b-music-recovery-recover-deleted-music-from-honor-x9b-by-fonelab-android-recover-music/"><u>Honor X9b Music Recovery - Recover Deleted Music from Honor X9b</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-s23-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy S23 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y78-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y78 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g04-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G04 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a34-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A34 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Pro Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-note-13-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi Note 13 5G Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-pro-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>In 2024, The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-hot-30i-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix Hot 30i</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-vivo-y36i-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Vivo Y36i</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y78t on Windows</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-11-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 11 Pro Max Suddenly | Stellar</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g13-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G13 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-selecting-the-perfect-phone-case/"><u>The Ultimate Guide to Selecting the Perfect Phone Case</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-v30t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme V30T Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-go-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-solve-palworlds-eos-login-issues/"><u>Troubleshooting Steps: How to Solve Palworld's EOS Login Issues</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-itel-a70-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Itel A70.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-redmi-13c-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Redmi 13C 5G.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-devices-in-vista-using-basic-operating-principles/"><u>Updating Devices in Vista Using Basic Operating Principles</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/2024-tips-fortnite-fps-boost/"><u>[2024 Tips] Fortnite FPS Boost</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premier-open-source-switch-clones/"><u>[New] 2024 Approved Premier Open-Source Switch Clones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-top-10-horizontal-and-vertical-igtv-editing-apps-reviewed/"><u>[New] 2024 Approved Top 10 Horizontal & Vertical IGTV Editing Apps Reviewed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[New] How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp/"><u>2024 Approved Prolific Strategies for Broadcasting FB Videos on WhatsApp</u></a></li>
+<li><a href="https://techidaily.com/1723808339414-cant-remember-the-password-for-gmail-try-these-fixes/"><u>Can't Remember the Password for Gmail? Try These Fixes</u></a></li>
+<li><a href="https://techidaily.com/1723808314748-dealing-with-the-mysterious-hxtrsrexe-in-windows-10-tips-and-solutions-revealed/"><u>Dealing with the Mysterious hxtrsr.exe in Windows 10 - Tips and Solutions Revealed!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-alteration-rotate-film-frames-with-vlc-for-2024/"><u>Easy Alteration Rotate Film Frames with VLC for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-v-purse-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor V Purse?</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-errors-validating-windows-11-temporary-folder/"><u>Preventing Errors: Validating Windows 11 Temporary Folder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-quick-methods-to-change-your-iphone-footage-into-mp4-format/"><u>Simple Guide: Quick Methods to Change Your iPhone Footage Into MP4 Format</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-importance-of-using-a-vpn-a-comprehensive-guide/"><u>Understanding the Importance of Using a VPN: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/1723808151422-your-sd-card-not-detected-heres-the-fix/"><u>Your SD Card Not Detected? Here's the Fix</u></a></li>
 </ul></div>
+

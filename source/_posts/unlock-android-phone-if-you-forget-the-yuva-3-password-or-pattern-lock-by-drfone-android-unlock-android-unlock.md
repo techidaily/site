@@ -1,6 +1,6 @@
 ---
 title: Unlock android phone if you forget the Yuva 3 password or pattern lock
-date: 2024-08-01T18:37:06.157Z
+date: 2024-09-18T03:40:39.707Z
 tags: 
   - android unlock
   - android devices unlock
@@ -183,70 +183,25 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enjoy-endless-creativity-discover-the-best-in-cheap-online-video-downloading-for-2024/"><u>[New] Enjoy Endless Creativity  Discover the Best in Cheap, Online Video Downloading for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-premiere-practices-implementing-inout-effects/"><u>[New] Professional Premiere Practices  Implementing In/Out Effects</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>[Updated] 2024 Approved  Seamless Conversion From iPhone/PC  Explore the #8 Best Apps</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-anime-inspired-shorts-top-20-trends-on-tiktok-for-2024/"><u>[Updated] Anime-Inspired Shorts  Top 20 Trends on TikTok for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-6-creative-editors-on-the-latest-macos-big-sur/"><u>[Updated] Top 6 Creative Editors on the Latest macOS Big Sur</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-xs-max-imei-checker-by-drfone-ios/"><u>Best Free iPhone XS Max IMEI Checker</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-of-mobile-8-ranked-free-and-premium-apps-for-androids-video-tiles/"><u>Best of Mobile  #8 Ranked Free & Premium Apps for Android's Video Tiles</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-14-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi 14 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-itel-p55t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel P55T Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-automatically-resize-videos-for-instagram-on-mac/"><u>How to Automatically Resize Videos for Instagram on Mac?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-m6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-gt-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24 Ultra Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-10-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 10 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-zte-axon-40-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on ZTE Axon 40 Lite Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-magic-5-lite-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor Magic 5 Lite to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-discord-video-downloading-guide-free-ios-android-pc-mac-methods/"><u>In 2024, Discord Video Downloading Guide  Free iOS, Android, PC, Mac Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lift-run-dance-select-the-most-motivating-exercise-tracks/"><u>In 2024, Lift, Run, Dance - Select the Most Motivating Exercise Tracks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-a78-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A78 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-apps-for-refining-dji-aerial-footage/"><u>Prime Apps for Refining DJi Aerial Footage</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF files on my Mac using tool | Stellar</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s24plus-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S24+ won’t play MKV movies</u></a></li>
-<li><a href="https://techidaily.com/sign-excel-2016-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2016 Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-tecno-phantom-v-flip-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Tecno Phantom V Flip</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-yuva-3-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-c67-4g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme C67 4G</u></a></li>
-<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2023-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2023 | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Edge 2023</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-realme-gt-5-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Realme GT 5 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-m6-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from M6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-poco-by-fonelab-android-recover-music/"><u>The way to get back lost music from Poco</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-zero-5g-2023-turbo-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Zero 5G 2023 Turbo without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-40c-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 40C Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-go-2024-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark Go (2024) Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
+<li><a href="https://techidaily.com/boost-your-marketing-results-with-cookiebots-powerful-cookie-based-solutions/"><u>Boost Your Marketing Results with Cookiebot's Powerful Cookie-Based Solutions</u></a></li>
+<li><a href="https://techidaily.com/boost-your-online-presence-with-cookiebot-technology/"><u>Boost Your Online Presence with Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/boost-your-sites-engagement-with-cookiebot-the-ultimate-analytics-solution/"><u>Boost Your Site's Engagement with Cookiebot - The Ultimate Analytics Solution!</u></a></li>
+<li><a href="https://techidaily.com/boosting-digital-engagement-with-advanced-cookiebot-solutions/"><u>Boosting Digital Engagement with Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://techidaily.com/boosting-website-traffic-with-advanced-automated-tracking-featuring-cookiebot-technology/"><u>Boosting Website Traffic with Advanced Automated Tracking - Featuring Cookiebot Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-red-magic-8s-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Red Magic 8S Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/humorhexagonhub-photofunniesfactory/"><u>HumorHexagonHub PhotoFunniesFactory</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-f54-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/skepticism-grows-over-zerogpt-and-detection-tools/"><u>Skepticism Grows Over ZeroGPT & Detection Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essence-of-portuguese-keyboard-shortcuts-across-continents/"><u>The Essence of Portuguese Keyboard Shortcuts Across Continents</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

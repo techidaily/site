@@ -1,7 +1,7 @@
 ---
 title: How to Perform Hard Reset on Vivo Y56 5G? | Dr.fone
-date: 2024-08-01T15:04:28.053Z
-updated: 2024-08-02T15:04:28.053Z
+date: 2024-09-19T16:36:26.160Z
+updated: 2024-09-24T16:47:58.377Z
 tags: 
   - reset
 categories:
@@ -27,6 +27,13 @@ Some of the most common situations that require **Vivo Y56 5G Hard Reset** are:
 - If your device functions too slowly, a hard reset will make it faster. A hard reset will clear the cache and unwanted files, so your phone runs smoothly.
 - Lastly, an **Vivo Y56 5G hard reset** prevents your device from constant crashes. Therefore, if your phone has some software issue, look no further.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Easy Ways for Your Vivo Y56 5G Hard Reset
 
 ### 1\. Hard Reset from Settings
@@ -39,9 +46,6 @@ Some of the most common situations that require **Vivo Y56 5G Hard Reset** are:
 
 **Step 4:** Approve the command in the popup window. However, ensure that your Vivo Y56 5G phone has an adequate battery to start and reset. You can put your phone on charging if the battery levels are low.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reset from settings](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-hard-reset-1.jpg)
 
 ### 2\. Recovery Mode
@@ -60,16 +64,15 @@ Recovery mode assists you in opening the hidden features on your Vivo Y56 5G. By
 
 **Step 6:** Click OK to finish the process, and that's **how to reset Vivo Y56 5G** phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-hard-reset-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Dr.Fone-Data Eraser
 
 Whether you intend to Change your phone/tablet or give them to somebody, you should delete your data. However, the physically deleted records on Android can be restored, especially with some expert tools. In light of this, the Dr.Fone Data Eraser ensures you erase information on Vivo Y56 5G permanently. It can't be recovered using any means, including proficient tools. Here's how:
@@ -80,17 +83,18 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 - Connect your Vivo Y56 5G phone to the PC through a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![connect your Vivo Y56 5G](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 - Click the "Erase All Data" button to eradicate all your data.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![start](https://images.wondershare.com/drfone/guide/android-erase-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Key in "000000" into the popup window to affirm your activity.
 
@@ -98,21 +102,12 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 - Then, at that point, Dr.Fone will begin deleting all data on your Vivo Y56 5G phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 - Then click the Factory Data Reset or Erase All Data on the phone. That will assist you with totally cleaning all the settings on the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### 4\. Dr.Fone-Phone Backup
@@ -121,15 +116,24 @@ Dr.Fone Phone Backup (Android) is a wonderful tool for backups and restoration t
 
 - Open Dr.Fone on your PC, and select the "Phone Backup" tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![phone backup](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Then, at that point, connect your Vivo Y56 5G phone to the PC through a USB cable and tap on OK.
 
 ![connect your Vivo Y56 5G](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Click Backup to begin the Backup of Vivo Y56 5G phone data.
 - After the Android phone is connected, select the File types you need to back up. Of course, Dr.Fone has checked all the document types for you. Then click on Backup to begin.
@@ -138,36 +142,29 @@ Dr.Fone Phone Backup (Android) is a wonderful tool for backups and restoration t
 
 - The process will require a couple of minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backing up](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - After it is finished, you can tap on View the backup button to see what's in the backup record.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Conclusion
 
 Above are some strategies with which you can do an **Vivo Y56 5G hard reset**. However, a backup is needed if you don't want to lose your data after a reset. Therefore, in the end, we have mentioned the best tools for that purpose. You must consider these tools before going for a simple reset. Anybody can perform the last two sections (Dr.Fone tools) without issue. Therefore, we strongly suggest you download and install the Dr.Fone tool by Wondershare.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Hard Resetting an Vivo Y56 5G Device Made Easy
 
 If you have owned any Vivo Y56 5G smartphone, you should know about the UI features these handsets offer. The new age of Color OS has been giving the best client experience. Moreover, it is easier to hard reset your Vivo Y56 5G phone if you need to sell a phone. This article will guide you on **resetting Vivo Y56 5G phone** with simple steps.
 
 We have shared a step-by-step manual on how you can perform **Vivo Y56 5G hard reset**. Several methods are mentioned in this article, and all of them are tested. Resetting any Vivo Y56 5G phone is not a hard task. You should know about the right steps. However, we suggest you use Dr.Fone - Data Eraser for better results and more commands. It is hassle-free software and lets you selectively delete the desired data from your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Some Common Causes of Vivo Y56 5G Hard Reset
 
 There are many occasions when a person may want to hard reset their Vivo Y56 5G phone. Some of these are:
@@ -178,22 +175,12 @@ There are many occasions when a person may want to hard reset their Vivo Y56 5G 
 - If your phone is constantly crashing, and you want to make your experience smoother, a hard reset may help.
 - Lastly, you need to remove everything from your phone when you are looking to sell your phone. In such cases, a hard reset will do your work quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: 2 simple ways to hard reset your Vivo Y56 5G
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Hard Reset from Settings
 
 - **Step 1.** Go to the Settings application on your Vivo Y56 5G phone and open System Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![system settings](https://images.wondershare.com/drfone/article/2022/09/hard-reset-oppo-1.jpg)
 
 - **Step 2.** Go to the “Backup and Reset” menu and click the “Reset Phone” option.
@@ -220,17 +207,11 @@ Hard resetting Vivo Y56 5G smartphones is also simple, assuming you know the rig
 
 To make your **Oppo hard reset** experience easier, you need to look for an expert service. We would suggest you use Wondershare Dr.Fone. Dr.Fone is an all-in-one professional software for screen unlock, data erasure, data recovery, system repair, and more. In case of a hard reset, if you have forgotten the screen lock, you can use their Screen Unlock feature. Interestingly, their Data Erasure software provides the full command to its users. You can use it to delete the desired files or fully reset your phone. Overall, it is a safe tool with an almost 100% access rate. It works with almost 99% of the Android phones available in the market and has great customer support service. Therefore, download it right away and make your hard reset experience smoother.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Steps to Use [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 - **Step 1:** After launching Dr.Fone, please use a USB cable to connect your Vivo Y56 5G phone. And tap the “Screen Unlock” option.
 - **Step 2:** Please select the left part with 3 phones, “Unlock Android Screen” to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3:** To unlock Vivo Y56 5G phone, the left “100% Remove Screen Lock” is the only feasible way. In this interface, we include most android brands. And as Vivo Y56 5G user, it’s also in the list we offered.
@@ -243,15 +224,8 @@ To make your **Oppo hard reset** experience easier, you need to look for an expe
 
 - Congrats! You’re able to access your Vivo Y56 5G phone without hassle and it’s already hard reset!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![unlock finisded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Steps to Use [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
@@ -260,9 +234,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 - **Step 2:** Connect your Vivo Y56 5G phone to the PC through a USB connector.
 - **Step 3:** Click on the “Erase All Data” button to begin. Ensure you have backed up your important files before you continue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![start erase](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 - **Step 4:** Then type in “000000” to affirm your action. Then Dr.Fone will begin deleting all data on your phone.
@@ -273,14 +244,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Presently, your Android phone has been wiped, and it can be used as a new one.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Resetting an Vivo Y56 5G phone can be tricky sometimes; therefore, it should be finished with the right tools and strategies. Above, we have listed multiple ways to **hard reset Vivo Y56 5G**. You need to pick the best strategy according to your situation. However, for an easy, solid, protected, and speedy technique, we recommend [Dr.Fone by Wondershare](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It provides multiple tools in a single program and has a higher success ratio compared to the other methods. So install it right away for a speedy hard reset of your Vivo Y56 5G device.
@@ -297,10 +271,6 @@ If the Android device is working well, to hard reset Android tablet without usin
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Reset Android without volume buttons using Dr.Fone - Data Eraser (Android)
 
 If you need to reset an Android device that doesn't have functional volume buttons, [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can assist you in securely erasing all data and performing a reset. This software provides a reliable solution that doesn't require volume buttons.
@@ -315,22 +285,20 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 
 - **Step 2:** Click “Erase” to start erasing all data on the Android device. Think again about whether you want to delete all data and type “000000” to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![start data earser](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 - **Step 3:** Wait for the erase process to end, and you can view the erasure report to check the data type erased after erasing completes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-07.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -354,10 +322,14 @@ Press and hold the power button as well as the home button of your device simult
 
 Using the home button to navigate, move down to the “Wipe data/factory reset” option. Press the power button to select the option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wipe data/factory reset](https://images.wondershare.com/drfone/others/factory-reset-huawei-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You may have to confirm your choice by selecting “Yes”.
 
@@ -367,18 +339,12 @@ You may have to confirm your choice by selecting “Yes”.
 
 After the reset is complete, navigate to the “reboot system now” option and select it to reboot your device. At the end of this process, your device will be reset.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
 
 ## Part 3: Reset Android with the reset pinhole
 
 There are many reasons for opting to reset an Android smartphone or tablet. Sometimes, a forgotten password might get your tablet locked. At times, the screen of your smartphone or tablet might get stuck and fail to respond. Or your device might come with a non-removable battery to make matters worse. For all these problems and many others, you might want to reset your device. But if your device does not come with a home button or volume buttons, you might want to use a different method. Generally, such devices come with a reset pinhole on the Vivo Y56 5G device which can be used to reset the Vivo Y56 5G device. To perform a tablet hard reset without the volume button, follow the simple steps described below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose yes](https://images.wondershare.com/drfone/article/2017/04/14931910627827.jpg)
 
 - **Step 1: Find the Reset pinhole.**
@@ -391,9 +357,6 @@ After locating it, insert a stretched paperclip or a small pin into the hole and
 
 Now all the data in your Android device will be reset. After this, you can continue to use your device normally without any problem.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Reset Android from Settings (phone works normally)
 
 If your Android tablet or smartphone is functioning normally, your device can be reset to the factory settings using just your device itself. Even if your device does not have a home button or volume control buttons, this method will be applicable and can be used to reset the Vivo Y56 5G device. But before using this method to reset your Android device, make sure to back up all the necessary information that you have on your device. You can also sync all the important files to the cloud using your Google account. Also, it is necessary to keep in mind that this procedure will remove all the accounts into which your device is signed in. To know how to reset an Android tablet without volume button, read on.
@@ -412,9 +375,6 @@ After that, navigate or scroll down until you can find the “Backup and Reset�
 
 Now swipe down to find the “Factory data reset” option and tap on it. A new screen will appear, requesting you for confirmation to proceed with the process. Tap on “Reset device” to start the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup reset](https://images.wondershare.com/drfone/article/2017/04/14931915614133.jpg)
 
 At the end of the process, your device will be reset and ready to use after it completes the mandatory reboot.
@@ -456,15 +416,11 @@ Wait for the reboot process to complete, and then you can access the phone or ta
 
 ![screen unlock successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 So these are the methods with which you can do a reset without using volume buttons. The difficulty level of the methods depends on the type and brand of the Android device. The first two parts can be performed easily by anyone, and that too in a matter of a few minutes. However, the third method may pose some difficulty, particularly because manufacturers set different key combinations for rebooting the Vivo Y56 5G device into recovery. Nevertheless, once it is figured out, the rest is easy. Hence, it is up to you to decide on the method to be adopted for hard resetting your Android device.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -478,45 +434,26 @@ So these are the methods with which you can do a reset without using volume butt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-fb-instream-ad-strategies-from-configuration-to-evaluation/"><u>[New] 2024 Approved  Unveiling FB Instream Ad Strategies  From Configuration to Evaluation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-easily-download-specific-youtube-sections-for-2024/"><u>[New] Easily Download Specific YouTube Sections for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-insiders-guide-to-tiktok-on-apple-and-windows-systems-for-2024/"><u>[New] The Insider's Guide to TikTok on Apple and Windows Systems for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-analysis-navigating-the-depths-of-adobes-data-safekeeping-and-competitor-highlights/"><u>[Updated] Full Analysis  Navigating the Depths of Adobe's Data Safekeeping and Competitor Highlights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unveiling-techniques-to-harvest-gif-images-directly-from-fb/"><u>[Updated] In 2024, Unveiling Techniques to Harvest GIF Images Directly From FB</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-8-enhancement-packs-for-live-video-feeds/"><u>2024 Approved  Ultimate 8 Enhancement Packs for Live Video Feeds</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-social-media-hits-to-customizable-ringtone-a-comprehensive-walkthrough-for-2024/"><u>From Social Media Hits to Customizable Ringtone  A Comprehensive Walkthrough for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-11-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s23-tactical-edition-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S23 Tactical Edition Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-11-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 11 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-11-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme 11 Pro Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-11-proplus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme 11 Pro+ to Protect Your Individual Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-14-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi 14 Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-realme-c53-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Realme C53</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nokia C12 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-hot-40-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Hot 40</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-youtube-traffic-11-seo-insights-unveiled-for-2024/"><u>Skyrocketing YouTube Traffic  11 SEO Insights Unveiled for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-sony-xperia-10-v-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Sony Xperia 10 V</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/striking-visuals-that-move-us-top-20-instagram-photos-for-2024/"><u>Striking Visuals that Move Us  Top 20 Instagram Photos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/techniques-for-interpreting-video-reactions-on-youtube-for-2024/"><u>Techniques for Interpreting Video Reactions on YouTube for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-oneplus-open-by-fonelab-android-recover-data/"><u>The way to get back lost data from OnePlus Open</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-realme-11-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Realme 11 Pro.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-smart-7-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Smart 7.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-vivo-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo fingerprint</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-9-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 9 Pro+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-leveraging-social-media-for-increased-video-engagement-on-youtube/"><u>[New] 2024 Approved Leveraging Social Media for Increased Video Engagement on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-key-tips-to-enhance-your-experience-with-tiktok-macos/"><u>[Updated] In 2024, Key Tips to Enhance Your Experience with TikTok (macOS)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-new-dimensions-a-guide-to-iphone-xs-advanced-cameras/"><u>2024 Approved Discovering New Dimensions A Guide to iPhone X's Advanced Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-seamless-content-consumption-configuring-pip-for-youtube-on-iphone/"><u>2024 Approved Seamless Content Consumption Configuring PIP for YouTube on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-symphonic-syncopation-perfecting-audio-transitions/"><u>2024 Approved Symphonic Syncopation Perfecting Audio Transitions</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a38-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A38 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-x100-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo X100 Pattern Lock Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-launching-an-inclusive-and-engaging-fb-donation-drive-for-2024/"><u>Guide to Launching an Inclusive and Engaging FB Donation Drive for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-process-for-downloading-and-updating-canon-drivers-in-windows/"><u>Hassle-Free Process for Downloading and Updating Canon Drivers in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS iOS System? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-8-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 8</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v13-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF v1.3 File using PDF Repair Tool | Stellar</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v16-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.6 File</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-xiaomi-redmi-k70-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xiaomi Redmi K70</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2007-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2007 File Error | Stellar</u></a></li>
 </ul></div>
+

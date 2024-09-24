@@ -1,7 +1,7 @@
 ---
 title: "Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users"
-date: 2024-09-21T17:50:29.916Z
-updated: 2024-09-24T01:05:56.947Z
+date: 2024-09-22T08:43:10.107Z
+updated: 2024-09-24T07:37:07.599Z
 tags:
   - deals
 categories:
@@ -18,16 +18,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -61,10 +55,10 @@ Close
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Change System Sounds in Settings
@@ -72,6 +66,13 @@ Close
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
 
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
 
@@ -81,16 +82,16 @@ Close
 
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
 
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
 
@@ -105,13 +106,6 @@ Close
 Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
 
@@ -142,25 +136,19 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-personality-showcase-100-crafted-caption-ideas-for-2024/"><u>[New] Insta Personality Showcase - 100 Crafted Caption Ideas for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-effortless-audio-collection-from-your-imac/"><u>[Updated] 2024 Approved Effortless Audio Collection From Your iMac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exploring-screen-recording-with-zdsoft/"><u>[Updated] 2024 Approved Exploring Screen Recording with ZDSoft</u></a></li>
-<li><a href="https://techidaily.com/mp3-ogv-movavi/"><u>「お金をかけずに MP3 と OGV 形式で音楽ファイルを簡単に変換:Movavi」</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-slug-lines-for-effective-storytelling/"><u>2024 Approved Mastering Slug Lines for Effective Storytelling</u></a></li>
-<li><a href="https://techidaily.com/mp4-movavi-aac/"><u>在线无花言不语MP4转换：以 Movavi 为首选，AAC 格式自由免费</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-8-family-safety-applications-for-web-monitoring/"><u>Best 8 Family Safety Applications for Web Monitoring</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-diagnosing-and-repairing-your-razer-man-owar-microphone-issues/"><u>Expert Guide: Diagnosing & Repairing Your Razer Man O'War Microphone Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-se-2022-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone SE (2022) to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-youtube-tagging-strategies-for-optimal-visibility/"><u>In 2024, Essential YouTube Tagging Strategies for Optimal Visibility</u></a></li>
-<li><a href="https://techidaily.com/melhores-substitutos-do-final-cut-pro-em-tempo-real-para-sistemas-windows-top-16/"><u>Melhores Substitutos Do Final Cut Pro Em Tempo Real Para Sistemas Windows (Top 16)</u></a></li>
-<li><a href="https://techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
-<li><a href="https://techidaily.com/movavis-free-tool-for-quickly-transforming-m4r-files-into-mp3-format-on-the-web/"><u>Movavi's Free Tool for Quickly Transforming M4R Files Into MP3 Format on the Web</u></a></li>
-<li><a href="https://techidaily.com/movaviape-flac/"><u>Movaviを使ったオンデマンドAPE FLAC変換: 完全無料オプション</u></a></li>
-<li><a href="https://techidaily.com/mp4-conversion-tool-seamless-mov-to-mp4-upgrade-for-free-with-movavis-online-service/"><u>MP4 Conversion Tool - Seamless MOV to MP4 Upgrade for Free with Movavi's Online Service</u></a></li>
-<li><a href="https://techidaily.com/online-free-rmvb-to-mp4-converter-fast-e-fai-da-te-with-videmovil/"><u>Online Free RMVB to MP4 Converter - Fast E Fai Da Te with VideMovil</u></a></li>
-<li><a href="https://techidaily.com/online-vidora-ljud-en-guid-till-att-extrahera-klarton-fran-videos-for-bra-seo/"><u>Online Vidöra Ljud: En Guid Till Att Extrahera Klarton Från Videos För Bra SEO</u></a></li>
-<li><a href="https://techidaily.com/protect-your-digital-content-with-movavis-advanced-multimedia-software-solutions/"><u>Protect Your Digital Content with Movavi's Advanced Multimedia Software Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-unending-appeal-of-facebook-6-insights-for-users/"><u>The Unending Appeal of Facebook: 6 Insights for Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-your-youtube-click-through-rate-upload-schedule-insights/"><u>[New] In 2024, Maximizing Your YouTube Click-Through Rate Upload Schedule Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-gear-up-essential-asmr-microphones-to-consider/"><u>[Updated] In 2024, Gear Up Essential ASMR Microphones to Consider</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-viral-hit-list-tiktok-edition-for-2024/"><u>[Updated] Twitter's Viral Hit List TikTok Edition for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-valheims-optimal-seed-selection-strategies/"><u>[Updated] Valheim's Optimal Seed Selection Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/a-step-by-step-guide-to-repairing-voice-chat-and-content-warning-malfunctions/"><u>A Step-by-Step Guide to Repairing Voice Chat & Content Warning Malfunctions</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-free-desktop-notetakers-for-windows-11-users-to-enhance-learning-and-organization/"><u>Discover the Best Free Desktop Notetakers for Windows 11 Users to Enhance Learning & Organization</u></a></li>
+<li><a href="https://techidaily.com/diy-green-screen-setup-and-use-in-videos-complete-guide-2024/"><u>DIY Green Screen Setup & Use in Videos - Complete Guide 2024</u></a></li>
+<li><a href="https://techidaily.com/effective-strategies-for-recording-conferences-using-zoom-skype-and-similar-platforms/"><u>Effective Strategies for Recording Conferences Using Zoom, Skype, and Similar Platforms</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-upload-and-convert-your-3gp-videos-to-high-quality-mpeg-no-cost-solution/"><u>Effortlessly Upload and Convert Your 3GP Videos to High-Quality MPEG - No Cost Solution!</u></a></li>
+<li><a href="https://techidaily.com/ferramenta-de-conversao-gratuita-para-webp-files-site-do-movavi/"><u>Ferramenta De Conversão Gratuita Para Webp Files - Site Do Movavi</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-invisible-motion-capture-instruction/"><u>In 2024, Invisible Motion Capture Instruction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-roadside-emergencies-with-the-halo-bolt-portable-chargerjump-starter-a-thorough-product-assessment/"><u>Revolutionize Your Roadside Emergencies with the Halo Bolt Portable Charger/Jump Starter: A Thorough Product Assessment</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/transforming-patient-interactions-with-abbyy-cutting-edge-innovations-for-modern-telehealth-services/"><u>Transforming Patient Interactions with ABBYY: Cutting-Edge Innovations for Modern Telehealth Services</u></a></li>
 </ul></div>
 

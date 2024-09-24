@@ -1,7 +1,7 @@
 ---
 title: "Inside Look Into ABBYY's Hierarchy of Success: The Visionary Leaders From Founders to CFO Who Steered Its Course"
-date: 2024-08-22T08:28:18.837Z
-updated: 2024-08-23T08:28:18.837Z
+date: 2024-09-16T23:53:24.052Z
+updated: 2024-09-23T16:15:59.268Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3b7699086866b0998ff7b7cb.jpg
@@ -10,6 +10,13 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ## Inside Look Into ABBYY's Hierarchy of Success: The Visionary Leaders From Founders to CFO Who Steered Its Course
 
 ## 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ABBYY leadership team
 
@@ -49,6 +56,13 @@ Chief Marketing Officer
 
 ![Bruce Orcutt](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/1486x836-bruce-orcutt.jpg?h=836&iar=0&w=1486)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Chip VonBurg
 
 Chief Customer Officer
@@ -80,6 +94,13 @@ Founder and Board Director
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 ![David Yang](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/1486x836-david-yang.jpg?h=836&iar=0&w=1486)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Natasha Mann
 
@@ -131,6 +152,19 @@ Chief Technology and Product Officer
 
 ![Patrick Jean](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/1486x836-patrick-jean.png?h=836&iar=0&w=1486)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Clayton C. Peddy
 
 Chief Information Security Officer (CISO)
@@ -170,6 +204,13 @@ Chief Financial Officer
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 ![Brian-Unruh](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/brian-unruh_1486x836.jpg?h=836&iar=0&w=1486)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### David Yang, Ph.D.
 
@@ -238,6 +279,13 @@ Chief Information Security Officer (CISO)
 
 ![743x418_Clayton_Peddy](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/743x418_clayton_peddy.jpg?h=418&iar=0&w=743)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Bruce Orcutt
 
 Chief Marketing Officer
@@ -262,6 +310,13 @@ Chief Revenue Officer
 
 ![Neil Murphy](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/1486x836-neil-murphy.jpg?h=836&iar=0&w=1486)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Brian Unruh
 
 Chief Financial Officer
@@ -269,6 +324,13 @@ Chief Financial Officer
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 ![Brian-Unruh](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/brian-unruh_1486x836.jpg?h=836&iar=0&w=1486)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### David Yang, Ph.D.
 
@@ -310,9 +372,6 @@ Board Director
 
 ![Alex-Beregovsky](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/1486x836-alex-beregovsky.jpg?h=836&iar=0&w=1486)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Ready to speak with an expert?
 
 [Schedule a demo](https://tools.techidaily.com/abbyy/products/)[Get in touch](https://tools.techidaily.com/abbyy/products/)
@@ -323,8 +382,6 @@ Board Director
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -334,45 +391,17 @@ Board Director
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-internet-fame-becoming-a-vtuber-in-2024/"><u>[New] From Idea to Internet Fame  Becoming a VTuber, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-your-way-through-premiere-pros-fs-mode/"><u>[New] Navigate Your Way Through Premiere Pro's FS Mode</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-navigating-music-licens-written-by-john-doe/"><u>[New] Navigating Music Licens Written by John Doe</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-gaming-adventure-list-ghost-of-tsushimas-allies-for-2024/"><u>[New] Ultimate Gaming Adventure List – Ghost of Tsushima's Allies for 2024</u></a></li>
-<li><a href="https://techidaily.com/solved-oculus-quest-2-not-connecting-to-pc/"><u>[SOLVED] Oculus Quest 2 Not Connecting to PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-eras-endwatchers-top-youtube-viewership-for-2024/"><u>[Updated] Era's Endwatchers  Top YouTube Viewership for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-boost-your-movie-magic-free-text-animation-basics/"><u>[Updated] In 2024, Boost Your Movie Magic  Free Text Animation Basics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premium-picks-for-pros-top-10-webcams-in-win-11/"><u>[Updated] In 2024, Premium Picks for Pros  Top 10 Webcams in Win 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-hidden-potential-sharing-videos-with-ease/"><u>[Updated] In 2024, Unlock Hidden Potential  Sharing Videos with Ease</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/demystifying-the-world-of-discord-stickers/"><u>Demystifying the World of Discord Stickers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-demise-laptops-last-stand/"><u>Display Demise: Laptop's Last Stand</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-custom-fonts-onto-your-iphone-with-ease/"><u>Download Custom Fonts Onto Your iPhone with Ease</u></a></li>
-<li><a href="https://techidaily.com/effortless-file-duplication-from-windows-1n-10-to-secondary-drives-an-ultimate-7-step-process/"><u>Effortless File Duplication From Windows 1N 10 to Secondary Drives: An Ultimate 7-Step Process</u></a></li>
-<li><a href="https://techidaily.com/expert-advice-how-to-get-your-google-chrome-up-and-running-after-an-unexpected-stop/"><u>Expert Advice: How to Get Your Google Chrome Up and Running After an Unexpected Stop</u></a></li>
-<li><a href="https://techidaily.com/fixes-implemented-for-successful-windows-11-installs-overcoming-initial-errors/"><u>Fixes Implemented for Successful Windows 11 Installs – Overcoming Initial Errors</u></a></li>
-<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
-<li><a href="https://techidaily.com/guide-monitoring-your-pcs-temperature-in-windows-11/"><u>Guide: Monitoring Your PC's Temperature in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/hiberfilsys-windows-11-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 11 & How to Delete It? [Solved]</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-display-language-in-windows-7/"><u>How to Change Display Language in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-disable-pop-up-blocker-in-chrome-firefox-edge-and-ie/"><u>How to Disable Pop-Up Blocker in Chrome, Firefox, Edge and IE</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-7-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 7 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily!</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-11/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-unfreeze-a-computer-in-windows-10/"><u>How to Unfreeze a Computer in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-realtek-pcie-fe-family-controller-drivers-in-windows-7/"><u>How to Update Realtek PCIe FE Family Controller Drivers in Windows 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/laptop-projector-connection-made-simple-expert-tips-and-techniques/"><u>Laptop-Projector Connection Made Simple: Expert Tips and Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-enhancements-in-logitech-extreme-3d-pro-gaming-mouse-drivers/"><u>Latest Enhancements in Logitech Extreme 3D PRO Gaming Mouse Drivers</u></a></li>
-<li><a href="https://techidaily.com/lowering-processor-consumption-tips-for-smoother-performance-on-windows-systems/"><u>Lowering Processor Consumption: Tips for Smoother Performance on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/master-your-mouse-control-a-comprehensive-tutorial-for-tweaking-and-troubleshooting-sensitivity-problems/"><u>Master Your Mouse Control: A Comprehensive Tutorial for Tweaking and Troubleshooting Sensitivity Problems</u></a></li>
-<li><a href="https://techidaily.com/mastering-system-recovery-in-windows-11-accessing-boot-settings-explained/"><u>Mastering System Recovery in Windows 11: Accessing Boot Settings Explained</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-effortless-screen-captures-in-windows-8/"><u>Mastering the Art of Effortless Screen Captures in Windows 8</u></a></li>
-<li><a href="https://techidaily.com/navigating-the-uninstallation-of-nvidia-drivers-in-windows-11/"><u>Navigating the Uninstallation of NVIDIA Drivers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/optimizing-pubg-gameplay-mastering-nvidia-graphics-card-settings/"><u>Optimizing PUBG Gameplay: Mastering Nvidia Graphics Card Settings</u></a></li>
-<li><a href="https://techidaily.com/overcoming-challenges-in-installing-oculus-on-the-latest-versions-of-windows-os/"><u>Overcoming Challenges in Installing Oculus on the Latest Versions of Windows OS</u></a></li>
-<li><a href="https://techidaily.com/protecting-your-data-with-easy-backup-how-to-make-restore-points-in-windows-xp/"><u>Protecting Your Data with Easy Backup: How to Make Restore Points in Windows XP</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-identifying-the-latest-nvidia-drivers-on-your-system/"><u>Quick Guide: Identifying the Latest NVIDIA Drivers on Your System</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-seamlessly-linking-bluetooth-speaker-and-laptop-together/"><u>Quick Guide: Seamlessly Linking Bluetooth Speaker and Laptop Together</u></a></li>
-<li><a href="https://techidaily.com/quickly-find-out-how-much-ram-you-have-in-windows-easy-tutorial-inside/"><u>Quickly Find Out How Much RAM You Have in Windows – Easy Tutorial Inside</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-update-guide-for-c6515-machine/"><u>System Update Guide for C6515 Machine</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-essential-guide-to-recording-dynamic-digital-audio-broadcasts-for-2024/"><u>Updated The Essential Guide to Recording Dynamic Digital Audio Broadcasts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-virtual-identity-your-metaverse-persona-creation-companion/"><u>[Updated] 2024 Approved Mastering Virtual Identity Your Metaverse Persona Creation Companion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-enjoy-pure-browsing-our-selections-of-7-top-android-adblockers/"><u>[Updated] Enjoy Pure Browsing Our Selections of 7 Top Android AdBlockers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-razer-drivers-for-your-windows-system-versions-include-win-10-8-7-xp-vista/"><u>Get the Latest Razer Drivers for Your Windows System (Versions Include Win 10, 8, 7, XP, Vista)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-unstable-stardew-valley-gameplay-on-pc/"><u>In-Depth Analysis & Solutions for Unstable Stardew Valley Gameplay on PC</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/mastering-the-digital-arena-winning-strategies-against-online-native-banking-services-an-abbyy-guide/"><u>Mastering the Digital Arena: Winning Strategies Against Online-Native Banking Services - An ABBYY Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-battle-royale-experience-activating-gpu-in-call-of-duty-warzone-on-pc/"><u>Optimizing Battle Royale Experience: Activating GPU in Call of Duty: Warzone on PC</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-recycling-13-ingenious-ways-to-repurpose-your-retired-android-smartphone/"><u>Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone</u></a></li>
+<li><a href="https://techidaily.com/samsung-unveils-the-priciest-addition-the-galaxy-watch-ultra/"><u>Samsung Unveils the Priciest Addition: The Galaxy Watch Ultra</u></a></li>
+<li><a href="https://techidaily.com/seamless-integration-strategies-for-apple-and-android-device-users/"><u>Seamless Integration Strategies for Apple and Android Device Users</u></a></li>
+<li><a href="https://techidaily.com/secure-your-smartphone-on-a-bike-with-homemade-android-auto-support/"><u>Secure Your Smartphone on a Bike with Homemade Android Auto Support</u></a></li>
+<li><a href="https://techidaily.com/thinking-of-buying-a-new-tablet-why-you-shouldnt-ignore-the-compact-powerhouse-ipad-mini/"><u>Thinking of Buying a New Tablet? Why You Shouldn't Ignore the Compact Powerhouse: IPad Mini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-ultra-hd-with-8k-resolution-and-uhd-tv-technology/"><u>Understanding Ultra HD with 8K Resolution and UHD TV Technology</u></a></li>
 </ul></div>
+

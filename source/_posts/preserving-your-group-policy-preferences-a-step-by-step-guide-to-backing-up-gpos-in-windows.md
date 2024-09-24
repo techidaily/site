@@ -1,7 +1,7 @@
 ---
 title: "Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows"
-date: 2024-09-18T01:58:46.921Z
-updated: 2024-09-24T06:44:15.425Z
+date: 2024-09-22T04:23:13.976Z
+updated: 2024-09-24T04:18:23.862Z
 tags:
   - deals
 categories:
@@ -20,26 +20,12 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 * [How to Restore the Local Group Policy Editor Settings](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-c55-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 * [How to Back Up and Restore the Local Group Policy Editor Settings Using LGPO](https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-f23-5g-drfone-by-drfone-virtual-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Backing up the Local Group Policy Editor settings is very easy. To do this, navigate to the "C:\\Windows\\System32\\GroupPolicy" folder and copy all of the files inside it. Then, navigate to the location where you want to back up the settings, create a new folder, and paste the copied files inside it.
 * To restore your Local Group Policy Editor settings, open the folder where you backed up the settings and copy all the files inside it. Then, navigate to the "C:\\Windows\\System32\\GroupPolicy" folder and paste the copied files into it.
 
  Do you enjoy trying out experimental app features or Windows beta releases to stay ahead of the curve? If so, you must back up your Local Group Policy Editor settings, since this gives you the ability to hit rewind if your tinkering messes them up. Here are the different ways to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why You Should Back Up the Local Group Policy Editor Settings
 
@@ -80,16 +66,16 @@ attrib -H -S "%BACKUP_DIR%\*.*" /S /D`
     
 ![Back up script in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/back-up-script-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "File" in the top-left corner and choose "Save as". Name the file whatever you wish, with ".bat" appended. Then, select "All files" from the "Save as type" drop-down menu and click "Save".
 
 ![All files option in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/all-files.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, to back up your Local Group Policy Editor settings, go to the location where you saved the batch file, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on it, and choose "Run as administrator". This will create a new folder named "Local Group Policy Editor settings back up folder", which will contain all of your settings.
 
@@ -134,10 +120,10 @@ while ($true) {
 ![Name field in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/name-field.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Trigger tab, choose "When the computer starts" and click "Next".
@@ -147,6 +133,13 @@ while ($true) {
  In the Action tab, choose "Start a program" and click "Next".
 
 ![Start a program in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/start-a-program.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Start a Program tab, paste the following location in the "Program/script" field:
 
@@ -163,20 +156,13 @@ while ($true) {
 ![Finish option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/finish-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, whenever you change the Local Group Policy settings, the script runs automatically and saves the changes to the "Group Policy Backup" folder.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Restore the Local Group Policy Editor Settings
 
@@ -189,6 +175,13 @@ while ($true) {
     
 ![GroupPolicy folder in the C drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/grouppolicy-folder.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Back Up and Restore the Local Group Policy Editor Settings Using LGPO
 
  Local Group Policy Object (LGPO) is a [command-line](https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/) utility that you can use to automate the management of local group policy. It can export the current Local Group Policy settings to a file. This can be especially useful when you are switching to a new system and want to transfer your current device's Local Group Policy Editor settings.
@@ -198,10 +191,16 @@ while ($true) {
 ![Download option in Microsoft Site](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/download.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the file is downloaded, [extract it](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) somewhere on your computer. Then, open the extracted folder, copy the LGPO.exe file, and paste it in the following location:
@@ -209,13 +208,6 @@ while ($true) {
         `C:\Windows\System32`
     
 ![LGPO File in File Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lgpo-file.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open the Start menu, type "Command Prompt" in the search bar, and click "Run as administrator". Type the following command in Command Prompt and press Enter. Replace "<backup\_folder\_address>" with the address of the folder where you want the utility to back up the Local Group Policy Editor settings.
 
@@ -227,11 +219,25 @@ while ($true) {
 
 ![GUID name folder in File Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/guid-name-folder.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To restore local GPO settings on your new computer, open Command Prompt as administrative rights on your new computer, type the following command, and press Enter. Replace "<GUID\_folder\_address>" with the address where you have saved the backup folder.
 
         `LGPO.exe /g "<GUID_folder_address>"`
     
 ![Restore command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/restore-command.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the command is successfully executed, the Local Group Policy Editor settings will be restored on your new computer.
 
@@ -254,22 +260,18 @@ while ($true) {
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ross-platform-strategies-to-boost-youtube-presence/"><u>[New] Cross-Platform Strategies to Boost YouTube Presence</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-selecting-the-top-cameras-for-smooth-twitch-broadcasts-for-2024/"><u>[New] Selecting the Top Cameras for Smooth Twitch Broadcasts for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/outube-as-a-learning-tool-insider-advice-for-teachers/"><u>[New] YouTube as a Learning Tool Insider Advice for Teachers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-good-to-great-unveiling-video-enhance-22-secrets/"><u>[Updated] From Good to Great Unveiling Video Enhance 2.2 Secrets</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-guide-install-and-update-elans-smbus-driver-for-optimal-performance-on-windows-computers/"><u>Comprehensive Guide: Install and Update ELAN's SMBus Driver for Optimal Performance on Windows Computers</u></a></li>
-<li><a href="https://techidaily.com/effortless-aiff-to-mp3-transformation-explore-movavis-free-service-options/"><u>Effortless AIFF-to-MP3 Transformation - Explore Movavi’s Free Service Options</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-guide-to-the-top-5-windows-snipper-tools-for-2024/"><u>Essential Guide to The Top 5 Windows Snipper Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/f4v-to-mp3-converter-professionele-online-konvertiering-ohne-kosten-movavi/"><u>F4V-to-MP3 Converter: Professionele Online Konvertiering Ohne Kosten - Movavi</u></a></li>
-<li><a href="https://techidaily.com/formato-de-archivo-libre-conversion-wav-a-ogg-sin-coste/"><u>Formato De Archivo Libre Conversión WAV a OGG Sin Coste</u></a></li>
-<li><a href="https://techidaily.com/free-and-online-conversion-how-to-transform-your-avi-files-into-quicktime-mov-format/"><u>Free and Online Conversion: How to Transform Your AVI Files Into QuickTime MOV Format</u></a></li>
-<li><a href="https://techidaily.com/free-mp3-conversion-mov-to-mp3-with-moveavis-reliable-online-tool/"><u>Free MP3 Conversion: MOV to MP3 with Moveavi's Reliable Online Tool</u></a></li>
-<li><a href="https://techidaily.com/free-mp4-wmv-file-transformation-service-available-on-movavi-platform/"><u>Free MP4-WMV File Transformation Service Available on Movavi Platform</u></a></li>
-<li><a href="https://techidaily.com/free-online-conversion-transform-wtv-files-into-mp4-format-with-just-a-click/"><u>Free Online Conversion: Transform WTV Files Into MP4 Format with Just a Click</u></a></li>
-<li><a href="https://techidaily.com/free-online-conversion-transforming-video-output-bundles-vob-into-mobile-compatible-mov-files-easily/"><u>Free Online Conversion: Transforming Video Output Bundles (VOB) Into Mobile-Compatible MOV Files Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-xs-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone XS Max/iPad Without Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-gionee-f3-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Gionee F3 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mix-magic-how-to-download-top-dj-content/"><u>Mix Magic How to Download Top DJ Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-can-i-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>[New] How Can I Watch Facebook Videos on My Apple TV for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-snicker-snapshots-jokeframe-for-2024/"><u>[New] Snicker Snapshots JokeFrame for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-swiftly-flip-your-iphone-video-clips/"><u>[New] Swiftly Flip Your iPhone Video Clips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-camstudio-full-features-analysis/"><u>[Updated] 2024 Approved CamStudio Full Features Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/6zu75b2x5ymq5o6l5oqa5ben6iih5pon5l2c5oyh5y2x77ya5zyo57ea5lik5a6m5oiq55qe6auy57sa5pwz6iky6kqy56il/"><u>電影剪接技巧與操作指南：在線上完成的高級教育課程</u></a></li>
+<li><a href="https://techidaily.com/webmogg-movavi/"><u>在線自由WEBM轉OGG的方法 - 利用 Movavi 轉換器優化</u></a></li>
+<li><a href="https://techidaily.com/convert-and-edit-videos-with-movavi-on-your-mac-ideal-for-various-codecs-and-formats/"><u>Convert and Edit Videos with Movavi on Your Mac: Ideal for Various Codecs and Formats</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-audio-files-to-webm-format-using-movavi-tools/"><u>Free Online Converter: Change MP4 Audio Files to WebM Format Using Movavi Tools</u></a></li>
+<li><a href="https://techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-soundwaves-compreeved-websites-for-skype-audio/"><u>In 2024, The Soundwaves Compreeved Websites for Skype Audio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/merge-audio-files-into-powerpoint-staging-for-2024/"><u>Merge Audio Files Into PowerPoint Staging for 2024</u></a></li>
+<li><a href="https://techidaily.com/zoom-meetinglerin-eylemlerini-kontrol-alt-montajla-eam-ile-kaydetmek-movavi/"><u>Zoom Meetinglerin Eylemlerini Kontrol Alt Montajla (EAM) Ile Kaydetmek - Movavi</u></a></li>
 </ul></div>
 

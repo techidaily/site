@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars"
-date: 2024-09-18T23:54:08.794Z
-updated: 2024-09-24T03:57:23.627Z
+date: 2024-09-17T09:46:55.573Z
+updated: 2024-09-24T11:00:43.285Z
 tags:
   - cutting-edge
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
 ![Neutron star emitting gravitational waves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/neutron_star_merger_still_2_new.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 NASA
 
  The project mostly crunches data from LIGO gravitational-wave detectors. But the MeerKAT radio telescope, Arecibo radio telescope, and Fermi gamma-ray satellite also contribute.
@@ -39,10 +32,10 @@ NASA
  Like many[other volunteer science projects](https://easy-unlock-android.techidaily.com/unveiling-critical-privacy-risks-in-modern-day-chatbots-3-key-concerns-revealed/), Einstein@Home runs on the BOINC platform. [BOINC](https://fox-hovers.techidaily.com/updated-in-2024-highest-quality-ai-voice-to-text-software/) is an app developed by UC Berkeley to share and use volunteer computing resources. You can share your CPU, GPU, storage, and network resources through BOINC. All you have to do is download the BOINC app and run the Einstein@Home project on it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Creating the Perfect Einstein@Home Setup
@@ -66,16 +59,16 @@ NASA
 
 ![Launching the BOINC installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setup-launch.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  BOINC will automatically launch when you click "Finish."
 
 ![Finishing the BOINC installation and launching the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-boinc.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  BOINC manager should launch with a blank project slate. Now we’re ready to add the Einstein@Home project to our BOINC installation.
 
@@ -85,16 +78,16 @@ NASA
 
 ![Adding Einstein@Home in the BOINC project list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/choose-einsteinhome-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Accepting Einstein@Home terms of use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/enabling-einsteinhome.png) 
 
 ![Logging into the Einstein@Home project on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/logging-in.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -107,6 +100,13 @@ Close
  On the top menu, click "View" and select "Advanced view." Then click Options > Computing Preferences and increase the percentage of the CPU usage and CPU time. Then click "Save" and restart the BOINC manager.
 
  It might look stuck at first, but give it a couple of minutes to get up and running. If you see a green arrow next to a task, it means BOINC is actively working on it. If you see a red stop sign, it means BOINC has paused processing that task.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Some Pro Tips
 
@@ -122,12 +122,6 @@ Close
 
 ![Computing preferences in Advanced view on BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view-preferences-1.PNG) 
 
-Close 
-
- In the advanced view, you can see details of tasks, their progress, results, deadlines, and other helpful information.
-
-![Tasks shown in Advanced view on the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/task-details.PNG) 
-
 <!-- affiliate ads begin -->
 <a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
   <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
@@ -135,15 +129,21 @@ Close
 <img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+Close 
+
+ In the advanced view, you can see details of tasks, their progress, results, deadlines, and other helpful information.
+
+![Tasks shown in Advanced view on the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/task-details.PNG) 
+
  Einstein@Home validates the results your machine sends in and grants you credits for every validated task. These credits will show up on your official certificate which is great for bragging rights.
 
 ![My BOINC computation certificate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/certificate.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -165,24 +165,25 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-viral-visionaries-twitters-10-hotest-content-threads-today/"><u>[New] 2024 Approved Viral Visionaries Twitter's 10 Hotest Content Threads Today</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-peek-into-insta-stories-unseen-by-others/"><u>[New] In 2024, Peek Into Insta Stories Unseen by Others</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-spread-laughter-with-simple-steps-in-kinemaster/"><u>[Updated] 2024 Approved Spread Laughter with Simple Steps in KineMaster</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-guide-to-trending-youtubers/"><u>[Updated] In 2024, The Ultimate Guide to Trending YouTubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-scrutinizing-how-content-makers-get-paid-from-youtube-shorts-videos/"><u>2024 Approved Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capture-all-hulu-streaming-on-different-os-and-devices/"><u>Capture All Hulu Streaming on Different OS and Devices</u></a></li>
-<li><a href="https://techidaily.com/effortlessly-convert-your-vob-videos-to-mkv-at-no-cost-using-movavis-web-service/"><u>Effortlessly Convert Your VOB Videos to MKV at No Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://techidaily.com/expertly-curated-discover-the-best-16-video-streamers-on-the-market/"><u>Expertly Curated: Discover the Best 16 Video Streamers on the Market</u></a></li>
-<li><a href="https://techidaily.com/explore-our-selection-of-highest-ranking-4k-recording-applications-for-every-device-type-movavi-recommended-picks/"><u>Explore Our Selection of Highest-Ranking 4K Recording Applications for Every Device Type – Movavi Recommended Picks</u></a></li>
-<li><a href="https://techidaily.com/free-conversion-tool-effortlessly-change-trp-to-mpg-with-movavi/"><u>Free Conversion Tool: Effortlessly Change TRP to MPG with Movavi</u></a></li>
-<li><a href="https://techidaily.com/free-online-conversion-vob-to-m4v-files-with-moveavi-start-today/"><u>Free Online Conversion: VOB to M4V Files with Moveavi - Start Today!</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-change-mp4-videos-to-webm-format-instantly-with-moveavew/"><u>Free Online Converter: Change MP4 Videos to WebM Format Instantly with Moveavew</u></a></li>
-<li><a href="https://techidaily.com/gratisk-online-omzetten-van-m4r-naar-aiff-formaat-met-movavi/"><u>Gratisk Online Omzetten Van M4R Naar AIFF-Formaat Met Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
-<li><a href="https://techidaily.com/gratuit-online-kunt-u-je-mp4-naar-mkv-verkeren-met-beslistheid-movavi/"><u>Gratuit Online: Kunt U Je MP4 Naar MKV Verkeren Met Beslistheid - Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/retrospect-significant-stories-from-google/"><u>Retrospect: Significant Stories From Google</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/simple-steps-transform-your-aeaatrac1-tracks-into-high-quality-mp3-format/"><u>Simple Steps: Transform Your AEA/ATRAC1 Tracks Into High-Quality MP3 Format</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unleash-your-creativity-with-youtubes-green-screens-for-2024/"><u>Unleash Your Creativity with YouTube's Green Screens for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-for-algorithms-chatgpts-new-command-respondive-capability/"><u>Voice for Algorithms: ChatGPT's New Command-Respondive Capability</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-use-luts-in-after-effect/"><u>[New] In 2024, How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastery-in-muting-facebook-videos-mobilelaptop/"><u>[New] In 2024, Mastery in Muting Facebook Videos (Mobile/Laptop)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-tips-for-accurate-age-input-in-tiktok-profiles/"><u>[New] Tips for Accurate Age Input in TikTok Profiles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elite-list-of-best-videocall-services-without-cost/"><u>[Updated] 2024 Approved Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://techidaily.com/6k6k6lqr6auy5oml77yb5lul5lil5piv5ycl57ch5zau44cb5bplusr6ycf55qe5pa55rov77ym55so5l6g5pwz5l2g5aac5l2v6j6n5zci5lin5zcm55qe55u454mh5oiq5lia5by15a6m576o5l2c5zob428/"><u>變身高手！以下是個簡單、快速的方法，用來教你如何融合不同的相片成一張完美作品。</u></a></li>
+<li><a href="https://techidaily.com/1726233701649-rmvb-mp4-movavi/"><u>免費線上 RMVB 改成 MP4 - 優化過的 Movavi 影片換算器指南</u></a></li>
+<li><a href="https://techidaily.com/1726233765475-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9000-discounted-shop-at-best-buy-for-lower-than-ryzen-70/"><u>AMD Ryzen 9000 Discounted: Shop at Best Buy for Lower-than-Ryzen 70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Plus Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-master-at-iphones-hdr-photography-techniques/"><u>In 2024, Becoming a Master at iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-fixing-ghost-recon-breakpoint-say-goodbye-to-frustrating-crashes/"><u>Master the Art of Fixing Ghost Recon: Breakpoint – Say Goodbye to Frustrating Crashes</u></a></li>
+<li><a href="https://techidaily.com/top-11-converteri-mov-gratis-per-mac-windows-e-online-prova-ora/"><u>Top 11 Converteri MOV Gratis per Mac, Windows E Online - Prova Ora</u></a></li>
+<li><a href="https://techidaily.com/top-5-free-editing-software-substitutes-a-pinnacle-studio-pour-pc-et-mac/"><u>Top 5 Free Editing Software Substitutes À Pinnacle Studio Pour PC Et MAC</u></a></li>
+<li><a href="https://techidaily.com/top-6-finns-gratuiti-brannprogram-for-windows-11-8-och-7-fullstandiga-guide/"><u>Top 6 Finns Gratuiti Brännprogram För Windows 11, 8 Och 7 – Fullständiga Guide</u></a></li>
+<li><a href="https://techidaily.com/top-9-unheard-sound-effects-in-film-edit-with-movavis-audio-tools/"><u>Top 9 Unheard Sound Effects in Film - Edit with Movavi's Audio Tools</u></a></li>
+<li><a href="https://techidaily.com/transferer-mp3-a-un-format-iphone-aac-sans-frais-guide-complet-sur-line/"><u>Transférer MP3 À Un Format IPhone AAC Sans Frais : Guide Complet Sur Line</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-top-free-online-video-merging-software/"><u>Updated The Ultimate List Top Free Online Video Merging Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-updates-made-simple-resolving-error-0xc1900101/"><u>Win11 Updates Made Simple: Resolving Error 0xC1900101</u></a></li>
+<li><a href="https://techidaily.com/wmaflvmovavi/"><u>WMA/FLVファイルを問わず、Movaviでの無料オンラインコーデック変換</u></a></li>
+<li><a href="https://techidaily.com/1726233800735-movavi/"><u>ご利用された商品について - Movaviによる返品規則紹介</u></a></li>
 </ul></div>
 

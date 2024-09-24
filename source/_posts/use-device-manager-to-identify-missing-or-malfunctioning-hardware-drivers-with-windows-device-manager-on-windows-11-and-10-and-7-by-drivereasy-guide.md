@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-08-01T18:43:14.063Z
+date: 2024-09-17T03:57:10.672Z
 tags: 
   - driver
   - device driver
@@ -32,9 +32,6 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -47,9 +44,6 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## How to update all your drivers with just 1 click
@@ -89,32 +83,31 @@ To automatically update to the correct version of all the drivers that are missi
 
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -123,6 +116,12 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 
 To understand why, you first have to understand what drivers actually are…
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What happens if a driver is missing or outdated?
 
@@ -135,10 +134,12 @@ Now when we say “your device won’t work properly”, sometimes this means si
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -155,7 +156,6 @@ This page describes how to do this.
 
 [Download Free Version](https://tools.techidaily.com/drivereasy/download/)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
 <ins class="adsbygoogle"
@@ -170,54 +170,24 @@ The free version will identify all your outdated drivers, and allow you to downl
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlocking-64128gbs-full-potential-for-video-storing/"><u>[New] 2024 Approved  Unlocking 64/128GB's Full Potential for Video Storing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-easy-to-follow-setting-up-snapchat-on-a-mac/"><u>[New] Easy to Follow  Setting up Snapchat on a Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>[New] Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-effortless-enchantment-make-your-mark-with-striking-templates-for-tiktok/"><u>[Updated] Effortless Enchantment  Make Your Mark with Striking Templates for TikTok</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flip-it-right-youtube-video-retrospectives-with-tips-for-2024/"><u>[Updated] Flip It Right  YouTube Video Retrospectives (With Tips!) For 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-transition-logic-pro-xs-audio-fade-technique/"><u>[Updated] In 2024, Mastering Transition  Logic Pro X's Audio Fade Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/20-windows-command-prompt-cmd-commands-you-must-know/"><u>20 Windows Command Prompt (CMD) Commands You Must Know</u></a></li>
-<li><a href="https://article-posts.techidaily.com/accelerate-your-video-content-creation-for-2024/"><u>Accelerate Your Video Content Creation for 2024</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-plus-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Plus Data Completely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-z-flip-5-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy Z Flip 5 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-x7-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find X7 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic5-ultimate-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic5 Ultimate in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-xcover-6-pro-tactical-edition-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy XCover 6 Pro Tactical Edition If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-1-v-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 1 V in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nubia-red-magic-9-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Red Magic 9 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-10c-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark 10C phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-deconstructing-the-legal-framework-of-youtube-and-cc-licenses/"><u>In 2024, Deconstructing the Legal Framework of Youtube & CC Licenses</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigate-effortlessly-to-your-favorite-facebook-videos-with-these-top-addons/"><u>In 2024, Navigate Effortlessly to Your Favorite Facebook Videos With These Top Addons</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/iphone-time-lapse-101-minimizing-wait-times/"><u>IPhone Time Lapse 101  Minimizing Wait Times</u></a></li>
-<li><a href="https://techidaily.com/is-your-lenovo-thinkphone-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lenovo ThinkPhone working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-mastery-for-streamlined-project-planning/"><u>Keyboard Mastery for Streamlined Project Planning</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition.</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-t2-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo T2 5G</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-y55s-5g-2023-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-a18-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo A18</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-warnings-in-your-systems-integrated-development-tools/"><u>Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools</u></a></li>
-<li><a href="https://techidaily.com/s18-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>S18 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
-<li><a href="https://techidaily.com/sign-a-pdf-v11-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.1 document with digital signature software</u></a></li>
-<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2016-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2016</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-c300-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from C300</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-google-pixel-fold-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Google Pixel Fold</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-g54-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from G54 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-xiaomi-by-fonelab-android-recover-music/"><u>Undelete lost music from Xiaomi</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-magic-vs-2-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor Magic Vs 2 password or pattern lock</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-11-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-g2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo G2</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audiences-take-gopro-hero5-footage/"><u>[New] Audience's Take GoPro Hero5 Footage</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-youtube-triumphs-an-in-depth-guide-to-creator-studio/"><u>[New] Navigating YouTube Triumphs An In-Depth Guide to Creator Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-superior-web-recording-gear/"><u>[Updated] In 2024, Superior Web Recording Gear</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290618850-2024-dvd/"><u>2024年におすすめの DVD ビデオの一括保存技術：リッピング完全ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-phantom-sensation-in-virtual-reality-is-this-a-common-perception-among-users/"><u>Demystifying Phantom Sensation in Virtual Reality – Is This a Common Perception Among Users?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nubia-red-magic-9-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nubia Red Magic 9 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/steps-for-regaining-entry-to-your-misremembered-facebook-profile/"><u>Steps for Regaining Entry to Your Misremembered Facebook Profile</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlining-iphone-and-mac-photography-tips-for-consolidating-repeated-portraits-in-albums/"><u>Streamlining iPhone and Mac Photography: Tips for Consolidating Repeated Portraits in Albums</u></a></li>
+<li><a href="https://techidaily.com/the-comprehensive-kodi-walkthrough-getting-netflix-up-and-running/"><u>The Comprehensive Kodi Walkthrough: Getting Netflix Up and Running</u></a></li>
+<li><a href="https://techidaily.com/the-quickest-ways-to-isolate-and-save-audio-from-online-videos/"><u>The Quickest Ways to Isolate and Save Audio From Online Videos</u></a></li>
+<li><a href="https://techidaily.com/top-5-netflix-friendly-vpns-enhancing-streaming-privacy/"><u>Top 5 Netflix-Friendly VPNs Enhancing Streaming Privacy</u></a></li>
+<li><a href="https://techidaily.com/top-7-solutions-to-resolve-goose-duck-glitch-in-pc-games/"><u>Top 7 Solutions to Resolve 'Goose-Duck' Glitch in PC Games</u></a></li>
+<li><a href="https://techidaily.com/transfer-your-chrome-favorites-to-firefox-in-a-flash-a-step-by-step-guide/"><u>Transfer Your Chrome Favorites to Firefox in a Flash: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-for-resolving-the-0x80070422-error-on-windows-10-devices/"><u>Troubleshooting Guide for Resolving the 0X80070422 Error on Windows 10 Devices</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-user-authentication-errors-successfully-logging-into-windows-10-systems/"><u>Troubleshooting User Authentication Errors: Successfully Logging Into Windows 10 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-mac-compatible-hd-video-converter-seamlessly-convert-avchd-mkv-mov-to-mp4-and-more/"><u>Ultimate Mac-Compatible HD Video Converter: Seamlessly Convert AVCHD, MKV, MOV to MP4 and More!</u></a></li>
 </ul></div>
+

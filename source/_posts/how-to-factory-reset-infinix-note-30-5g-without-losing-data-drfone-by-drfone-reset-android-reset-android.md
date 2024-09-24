@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Infinix Note 30 5G without Losing Data | Dr.fone
-date: 2024-08-01T14:29:02.581Z
-updated: 2024-08-02T14:29:02.581Z
+date: 2024-09-19T16:35:12.624Z
+updated: 2024-09-24T17:35:20.324Z
 tags: 
   - reset
 categories:
@@ -46,19 +46,15 @@ Dr.Fone - Phone Backup (Android) enables you to backup all your data, including 
 
 Back up and restore data from your device to a computer with a single click. It's a tried and tested program and compatible with over 8000+ devices. To use it, click the link, download it and follow these instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -70,9 +66,6 @@ Backup & Restore Data Turns Flexible
 
 **3,823,152** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to backup Android phone with Dr.Fone Basic
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
@@ -85,27 +78,25 @@ Step 2. Wait for the backup process to complete. A progress bar will show you ho
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![complete android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 Also, you can watch this video to learn more details.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/bVYDAhCnKOU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Factory Reset Android Phone
 
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1. Using the Settings Menu To Factory Reset Your Device
 
 You can factory data reset your Android device via the settings menu by following these steps.
@@ -126,17 +117,10 @@ If your phone is misbehaving it might be easier to reset it via Recovery Mode. T
 
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/14587119349819.jpg)
 
 Step 3. If done correctly. You'll find an image of an Android robot alongside a red exclamation mark and the words 'No command'.
@@ -157,9 +141,6 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
@@ -167,17 +148,18 @@ Please note: this reset will also delete Android Device Manager and you will the
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Infinix Note 30 5G to the Internet and login into your Google account when prompted.
 
 Once you have restarted your mobile, connect it to your PC and open Dr.Fone on your computer. Select Phone Backup, and click on the Restore button to start restoring the data to your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
@@ -199,8 +181,19 @@ After factory resetting your Android Phone, your phone should work smoothly. But
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Everything from Old Devices to New Devices in 1 Click!
@@ -222,13 +215,7 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Infinix Note 30 5G
-
 
 Wiping data or carrying out a factory reset on an Android device is an effective solution for various issues on your Android phone. Even if you are contemplating selling your phone and you need all your device data to be wiped out, you carry out a factory reset. But, before you proceed, what’s important is to understand about wipe data/ factory reset, because, if you don’t, you might end up losing all your important data before it is backed up, serving no purpose. So, before you wipe data/ factory reset Android, here’s what you should know about it.
 
@@ -236,10 +223,14 @@ Wiping data or carrying out a factory reset on an Android device is an effective
 
 Doing a factory reset on the Android device will remove all the applications installed on the Infinix Note 30 5G device along with the data associated with them. This brings back all the default settings of the Infinix Note 30 5G device as it was when the phone was new, giving you a clean slate to start all over again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wipe data factory reset](https://images.wondershare.com/drfone/article/2017/04/14925871266656.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Since Wipe data/factory reset deletes all applications, app data, and information (documents, videos, images, music, etc) stored in the internal space, it is required for you to perform a [data backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) operation before you reset the Android device to factory settings. However, wipe data/factory reset does not affect the SD card in any way. So, even if you have the SD card inserted with videos, images, documents, and any other personal information in the Android device while carrying out a factory reset, everything will remain safe and intact.
 
@@ -261,17 +252,10 @@ Now, scroll down to “wipe data/factory reset” option from the list of comman
 
 Now, scroll down to “Yes – delete all user data” using the volume button and then push the power button to select.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![delete all user data](https://images.wondershare.com/drfone/article/2017/04/14925874254055.jpg)
 
 In some time your device will be reset into factory settings with all your data erased. The entire process will take a few minutes. Ensure that you have the phone at least 70% charged so that it does not run out of charge midway.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Part 3: Does Wipe Data/ Factory Reset wipe all your data?
 
 There are various instances where you would require performing a wipe/factory reset on your device. It might be because of some glitch that you would like to troubleshoot on your Android device. Wiping data from the phone is a universal solution in such cases. Even in cases where you want to sell your device, performing a factory reset seems the best option. What’s important is to make sure you don’t leave a trace of your personal information on the Infinix Note 30 5G device. Therefore, wipe data/factory reset is never the ultimate solution to rely on. It is neither the best option anyway.
@@ -280,14 +264,8 @@ Contrary to conventional thought of relying on wipe data/factory reset Android b
 
 So, to protect your privacy and completely wipe data off the Infinix Note 30 5G device, you can use Dr.Fone - Data Eraser. This is an amazing tool that erases everything on the Infinix Note 30 5G device without leaving an ounce of data in it. Here’s how you can use [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) to completely wipe the data and protect privacy:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
 
 Fully Erase Everything on Android and Protect Your Privacy
@@ -303,9 +281,6 @@ Step 1: Install and launch Dr.Fone - Data Eraser
 
 First of all, install Dr.Fone on your computer and launch it by double-clicking on the icon. You will find the below window. You will find various toolkits on the interface. Select Erase from various toolkits.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Initiate the Process
@@ -332,6 +307,13 @@ And you could watch this YouTube video for an in-depth tutorial.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Hence, today we learned about wiping data and also factory reset. Well as per us, using [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) is the best option as it is a simple and click-through process and helps you completely erase data from your Android. This toolkit also is the best as it supports all Android devices available in the market today.
@@ -340,22 +322,14 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-
-
 ## The Easiest Methods to Hard Reset Infinix Note 30 5G
 
 You can use **Infinix Note 30 5G A37 hard reset** to solve your various smartphone problems. If your Infinix Note 30 5G runs slower and its screen gets stuck, a hard reset can clear these problems. A hard reset also helps when you want to erase all data from your device before you sell. Suppose your phone runs out of storage. You can save your data on cloud storage and do a factory reset to free up space. You can also use it to unlock your device by removing the screen lock.
 
 When you do a factory reset from settings, you will need the Infinix Note 30 5G device's password. Dr.Fone is the best tool to hard reset your Infinix Note 30 5G without a password. It has an easy-to-use UI, and safe data backup features to enable users to back up their data before resetting. Here is the complete guide to hard reset your Infinix Note 30 5G using three methods.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: In What Cases Should I Hard Reset My Infinix Note 30 5G?
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1: Can't Unlock it (forgot password, too many wrong attempts)
 
 Most people **hard reset Infinix Note 30 5G** because they forgot the lock screen password. When you can't remember your phone's password, a hard reset is the fastest way to unlock your device. With a hard reset, you can delete all types of data and settings from your device. It helps you remove passwords, PINs, patterns, and fingerprint locks. Once you forget your phone's password and enter the wrong password too many times, you will get a blocking alert. After another wrong attempt, the system will block your device. When you reach this point, you can only use a hard reset to unlock your device.
@@ -364,28 +338,23 @@ Most people **hard reset Infinix Note 30 5G** because they forgot the lock scree
 
 If your Infinix Note 30 5G works slowly, such as taking time when you open any app, you can use a hard reset to fix this problem. When you are using a smartphone, you can easily find out if it's working slower or not. If your device takes time to load games or shows lag when you watch videos, you can do a hard reset to clear its storage. When you **reset Infinix Note 30 5G**, you clear its storage and cache, which helps your device work faster. It also removes junk files from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3: Constant Crashes
 
 Suppose your phone constantly crashes for no reason at all. Chances are that there is some problem with its software or new updates. When your device crashes, the screen gets stuck for some seconds before it automatically recovers. If it happens once in a while, then it is not a big problem. But, if it happens constantly, then you will need to fix your device before it gets even worse. An **Infinix Note 30 5G hard reset** reverts it to its factory settings by deleting all data, personalization, settings, and updates. Doing so removes any type of threat and bug from your device.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: What to do to Hard Reset Infinix Note 30 5G? 3 Easiest Ways for You
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1: Hard Reset from Settings (password/pattern Needed)
 
 The fastest way to hard reset Infinix Note 30 5G is to use the factory reset option from settings. Although you don't need a third-party tool for this method, it requires the Infinix Note 30 5G device's password or pattern. You can't use this method on a locked Infinix Note 30 5G device. Suppose your phone has some issues like slow working, frozen screen, app crashes, or keeps rebooting. In these situations, the **Infinix Note 30 5G hard reset** is the best solution. Before factory resetting your device, create a data backup to recover it afterward. Here are the steps to hard reset Infinix Note 30 5G from settings.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![oppo a37 settings menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-hard-reset-01.jpg)
 
 - Power on your Infinix Note 30 5G and open "Settings."
@@ -414,9 +383,6 @@ If you want to permanently wipe all data and settings from your Infinix Note 30 
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
 
 Hard Reset Oppo A37 Without Any Hassle!
@@ -434,31 +400,10 @@ Hard Reset Oppo A37 Without Any Hassle!
 
 - Enable USB debugging on your mobile phone and connect it to your PC via a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![connect your Infinix Note 30 5G](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 - After the connection is complete, Dr.Fone will recognize your smartphone and open the "Erase All Data" screen. Click on the "Start" option to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![start erasing all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 - Next, type the code that appears on the screen for confirmation. After you enter the code, Dr.Fone will start erasing data from your device.
@@ -469,15 +414,11 @@ Key features:
 
 ![data erased](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Conclusion
 
 Let's end our guide for the easiest ways to **hard reset Infinix Note 30 5G**. You can do a factory reset if you know your phone's password. If you don't know the password, you can do a hard reset from recovery mode. The safest and fastest way to erase all data from your device is by using Dr.Fone - Data Eraser. With Dr.Fone, you don't have to follow complex steps, and you can back up your data so you can recover it after the reset is complete. Aside from that, you can use Dr.Fone to unlock your device without a password.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -491,65 +432,18 @@ Let's end our guide for the easiest ways to **hard reset Infinix Note 30 5G**. Y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[New] 2024 Approved  A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-masterclass-uploading-without-complications-on-social-media/"><u>[New] 2024 Approved  Masterclass  Uploading Without Complications on Social Media</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-innovative-techniques-for-igtv-backgrounds/"><u>[Updated] 2024 Approved  Innovative Techniques for IGTV Backgrounds</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-screen-partition-prowess-top-recorders-rating/"><u>[Updated] In 2024, Screen Partition Prowess  Top Recorder's Rating</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-speakers-guide-to-captivating-visual-storytelling-for-2024/"><u>[Updated] The Speaker's Guide to Captivating Visual Storytelling for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>2024 Approved  Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-review-of-non-google-augmented-reality-accessories/"><u>2024 Approved  Comprehensive Review of Non-Google Augmented Reality Accessories</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-note-30-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Note 30 5G</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-6-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 6 Plus How to Bypass?</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-asus-rog-phone-7-ultimate-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Asus ROG Phone 7 Ultimate Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-lava-blaze-curve-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Blaze Curve 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-xcover-7-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy XCover 7 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-normal-to-fantastic-picture-distortion-insights/"><u>From Normal to Fantastic  Picture Distortion Insights</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v27-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g24-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G24 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-12-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 12 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-v2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic V2 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-poco-x6-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco X6 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-5-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Realme GT 5 Pro Phone Without Password?</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 mini Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Max Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-bridging-the-gap-how-to-successfully-export-srt-from-premiere/"><u>In 2024, Bridging the Gap  How to Successfully Export SRT From Premiere</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-cost-effective-buys-on-gopros/"><u>In 2024, Finding Cost-Effective Buys on GoPros</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y36i-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-note-30i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix Note 30i FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-v30-lite-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of V30 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 6 | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-surge-troubleshoot-for-a-swift-windows-11/"><u>Speedy Surge: Troubleshoot for a Swift Windows 11</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-13-pro-max-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 13 Pro Max failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-x50i-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor X50i</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-realme-by-fonelab-android-recover-data/"><u>The way to get back lost data from Realme</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oppo-a18-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Oppo A18 without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-galaxy-a15-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Galaxy A15 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-se-2020-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone SE (2020) Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-6s-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 6s Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-smart-8-hd-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Infinix Smart 8 HD</u></a></li>
-<li><a href="https://techidaily.com/update-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Update drivers with Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-edge-2023-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Edge 2023</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-galaxy-f54-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Galaxy F54 5G</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT 5 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/x-audio-workstation-for-home-computers/"><u>X-Audio Workstation for Home Computers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-integrating-your-photos-smart-transfers-from-iphone-to-snapchat/"><u>[Updated] Integrating Your Photos Smart Transfers From iPhone to Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/beyond-sharex-exploring-superior-tools-for-2024/"><u>Beyond-ShareX Exploring Superior Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-pc-customization-with-hytes-latest-offerings-superior-cooler-technology-rgb-illumination-and-motherboard-header-integration/"><u>Experience Next-Level PC Customization with Hyte's Latest Offerings: Superior Cooler Technology, RGB Illumination, and Motherboard Header Integration</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y27s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y27s Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-htc-u23-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-storm-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Storm 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-hot-30-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-ios-psp-emulators-our-top-5-selections/"><u>In 2024, Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-y28-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo Y28 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
+

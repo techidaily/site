@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Navigating Printer Setup and Management on Your Windows 10 Machine"
-date: 2024-09-21T06:42:13.162Z
-updated: 2024-09-24T07:13:54.366Z
+date: 2024-09-18T10:30:48.314Z
+updated: 2024-09-24T03:42:59.519Z
 tags:
   - deals
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b760d1fde54b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d1fde54b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also use the old interface at Control Panel > Hardware and Sound > Devices and Printers. Click the "Add a Printer" button to get started.
 
  However you install the printer, Windows will probably download the necessary printer drivers on the fly. If this doesn't work, visit the printer manufacturer's website to download and install the appropriate drivers or software package for your model of printer. For some printers, such as all-in-one printers, you might also need to visit the manufacturer's website for drivers and apps that let you access the added functionality.
@@ -47,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b760d447a301](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d447a301.png) 
 
  You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Change Printing Preferences
 
@@ -71,9 +57,30 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b760ec197ec6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ec197ec6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
 
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Change Printer Device Settings
 
@@ -86,20 +93,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b760f54e0215](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f54e0215.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
 
@@ -110,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  From the Control Panel interface, right-click a printer and select "Printer Properties." Click the "Print Test Page" button.
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Set Your Default Printer
 
@@ -131,22 +124,21 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Manage Your Print Queue
 
@@ -161,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the Printer menu and use the various options to manage your entire queue. For example, you can click Printer > Pause Printing to temporarily pause all print jobs until you unpause them, or click Printer > Cancel All Documents to cancel all pending print jobs.
 
@@ -188,6 +187,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  To share a printer over the Internet—for example, to print to your home printer when you're away from home—[set up Google Cloud Print](https://facebook-video-footage.techidaily.com/updated-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Troubleshoot a Printer
 
  If you're having trouble with a printer, you might need to [do some troubleshooting](https://on-screen-recording.techidaily.com/budget-recording-tools-the-ultimate-guide-for-windows/). The basics are pretty obvious: Make sure the printer is powered on and connected to your computer—or your Wi-Fi or Ethernet network, if it's a network printer. Ensure the printer has enough paper and check if it has sufficient ink or toner. Ink and toner status may appear in the printer's settings window, or you may have to view this information by reading a screen on the printer itself. You might also need to install printer drivers from your printer's manufacturer.
@@ -197,10 +203,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b7616f600c24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7616f600c24.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
@@ -226,21 +232,22 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[New] 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-increasing-ram-to-achieve-peak-performance-in-minecraft-for-2024/"><u>[New] Increasing RAM to Achieve Peak Performance in Minecraft for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-7-virtual-marksmen-battles-for-2024/"><u>[New] Ultimate 7 Virtual Marksmen Battles for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-elevating-tiktok-engagement-through-effective-hashtags/"><u>[Updated] 2024 Approved Elevating TikTok Engagement Through Effective Hashtags</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-continuous-media-archiving/"><u>[Updated] In 2024, Continuous Media Archiving</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/analysis-variety-in-fb-video-aspects/"><u>Analysis Variety in FB Video Aspects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-printer-software-downloads-mp280-driver-version-compatible-with-multiple-windows-os/"><u>Canon Printer Software Downloads - MP280 Driver Version Compatible with Multiple Windows OS</u></a></li>
-<li><a href="https://techidaily.com/conversion-libre-al-rescate-de-ts-a-mpeg-sin-problemas-mediante-movavi-guia-paso-a-paso/"><u>Conversión Libre Al Rescate De TS a MPEG Sin Problemas Mediante Movavi - Guía Paso a Paso</u></a></li>
-<li><a href="https://techidaily.com/conversion-rapida-de-videos-transforma-tus-archivos-flv-en-formato-avi-con-el-convertidor-de-movavi/"><u>Conversión Rápida De Vídeos: Transforma Tus Archivos FLV en Formato AVI Con El Convertidor De Movavi</u></a></li>
-<li><a href="https://techidaily.com/conversion-sin-costo-de-wmv-a-mp3-usando-el-servicio-en-linea-de-movavi/"><u>Conversión Sin Costo De WMV a MP3 Usando El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://techidaily.com/conversione-gratuita-da-tod-a-avi-online-con-movavi/"><u>Conversione Gratuita Da .tod a .avi Online Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/convert-anime-music-videos-amvs-into-mp3-for-free-with-movavis-easy-tool/"><u>Convert Anime Music Videos (AMVs) Into MP3 for Free with Movavi's Easy Tool</u></a></li>
-<li><a href="https://techidaily.com/convertissez-facilement-et-sans-frais-un-fichier-ram-en-mp4-via-movavi-service-de-conversion-en-ligne-rapide/"><u>Convertissez Facilement Et Sans Frais Un Fichier RAM en MP4 via Movavi - Service De Conversion en Ligne Rapide</u></a></li>
-<li><a href="https://techidaily.com/cr2-bmp/"><u>CR2 BMP 이미지를 원할 수 있는 무료 가용성 강화: 컴퓨터 마음에서</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-14-pro-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/premier-voice-recorders-for-android-comprehensive-and-cost-free-for-2024/"><u>Premier Voice Recorders for Android - Comprehensive and Cost-Free for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-converting-your-fb-videos-to-shareable-mp3-music/"><u>[New] Converting Your Fb Videos to Shareable MP3 Music</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-eight-high-performing-tablets-for-future-photography-titans/"><u>[New] Eight High-Performing Tablets for Future Photography Titans</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[New] The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-frames-from-apples-display-max-length-156/"><u>[Updated] Essential Frames From Apple's Display (Max Length 156)</u></a></li>
+<li><a href="https://techidaily.com/1-professional-video-production-made-easy-a-guide-using-movavi/"><u>1. Professional Video Production Made Easy: A Guide Using Movavi</u></a></li>
+<li><a href="https://techidaily.com/2024app-8/"><u>2024新熱門：免費動手繪似顏畫App - 8款選擇</u></a></li>
+<li><a href="https://techidaily.com/aac3gp-movavi/"><u>網路直接無限制AAC到3GP格式傳送 - 使用Movavi 轉錄工具</u></a></li>
+<li><a href="https://techidaily.com/1726233802638-pcxjpeg-movavi/"><u>在线免费PCX与JPEG转换服务 – 优化版Movavi图片编辑器</u></a></li>
+<li><a href="https://techidaily.com/2024app8/"><u>掌上改造美術大師 – 2024最佳免費似顏繪App8款列表</u></a></li>
+<li><a href="https://techidaily.com/cambiar-musica-opus-a-formato-wma-sin-costo-usando-el-convertidor-en-linea-de-movavi-guia-paso-a-paso/"><u>Cambiar Música OPUS a Formato WMA Sin Costo Usando El Convertidor en Línea De Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-troubleshooting-made-easy-fixing-the-ue4-madness-glitch/"><u>Outriders Troubleshooting Made Easy: Fixing the UE4 Madness Glitch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picking-the-top-action-cam-gopro-or-sony-fdr-x1000v-for-2024/"><u>Picking the Top Action Cam GoPro or Sony FDR-X1000V for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-guide-speedy-duplication-of-your-entire-dvd-library-using-top-tier-ripping-software/"><u>Quick Guide: Speedy Duplication of Your Entire DVD Library Using Top-Tier Ripping Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-gaming-with-a-curved-ultrawide-display/"><u>Revolutionizing Gaming with a Curved Ultrawide Display</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-g42-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia G42 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://techidaily.com/1726233755233-aifc-movavi/"><u>무료 AIFC 웹 매디어를 사용하여: Movavi 구현 방법</u></a></li>
+<li><a href="https://techidaily.com/1726233729158-orfjpeg-movavi/"><u>レシピ: ORFからJPEGへの無料オンライン変換 - Movaviで楽しむ</u></a></li>
 </ul></div>
 

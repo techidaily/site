@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2024-09-17T20:05:38.946Z
-updated: 2024-09-23T19:37:40.396Z
+date: 2024-09-17T00:32:46.135Z
+updated: 2024-09-23T18:03:22.644Z
 tags:
   - cutting-edge
 categories:
@@ -22,22 +22,35 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Decentralized Social, or DeSo, is a way of social networking built on open blockchain technology without a central authority that owns and operates the network, creating new opportunities for how we can use social media and giving more power to you, the user.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **A Quick Note on Web2 and Web3** 
 
  For our discussion of DeSo, it's helpful to understand that legacy social media platforms and the type of interactive code that they use to host and share interactive content is often described as Web2\. The current mix of innovations happening with cryptocurrencies, [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), metaverse concepts, decentralized finance, and blockchain technology are often referred to as Web3.
 
  The biggest difference is that while Web2 technology and internet companies like Meta and Twitter are owned and operated by a central authority, Web3 technology is distributed and owned by the users who govern the protocols on which it is built such as [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/) and [Solana](https://facebook-video-content.techidaily.com/new-enjoy-whole-audio-on-twitch-addressing-muted-segments-now-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **What's a Social Graph and Why Does It Matter?** 
 
 ![Network structures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Network-strcuture.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)_
 
@@ -50,10 +63,16 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
  In Web2, central authorities have ultimate control over this trove of data, they own it, and they use it as they see fit. DeSo applications being built in Web3 are poised to bring more of the opaque aspects of our social graph above the surface so that developers and users can have more power, gain more insight, and build better systems for living and working together.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Decentralized Social Brings Power Back to the Users** 
@@ -76,18 +95,24 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  This effectively turns the social graph each Web2 social media company controls into a moat that they use to keep you there. If you want to go to a different platform, you have to start all over again, building a following and creating and sharing content.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Benefits of DeSo Built with an Open Social Graph** 
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
 _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Control** 
 
@@ -113,13 +138,6 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Case Study: Lens Protocol, An Open Social Graph** 
 
 ![Lens Protocol](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-05-at-1.51.56-PM.png) 
@@ -127,6 +145,19 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 _[Lens Protocol](https://lens.xyz/)_
 
 [Lens is a protocol](https://lens.xyz/) that is changing the nature of social media in Web3 by creating an open, decentralized, and composable social graph. Because it's permissionless, it can be leveraged and built upon by anyone else with a desire to create a front-end social experience tailored to the user experience, audience, and types of content or data they want to bring to the surface. Lens allows designers and developers to pull specific details from the underwater section of the iceberg to the surface at will depending on their goals.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Lens Is Composable and Modular** 
 
@@ -137,13 +168,6 @@ _[Lens Protocol](https://lens.xyz/)_
  Community governance means that you can create new ways of controlling how an application functions, and the users have a say in the evolution of the app. For instance, when you follow someone else, you're given a "Follower NFT" which has built-in governance mechanisms, including[snapshotting and delegation](https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system), which allow for sophisticated content sharing privileges or exclusive tiering of your follower list. Another example is that you can create modules with a built-in governance-managed treasury fee.
 
  Lens leverages the modular method for allowing an ecosystem of apps to build without having to worry about the backend and underlying technology. This frees up developers and designers to focus on the user experience and front end. Builders can bypass the heavy lift of creating network effects and bootstrapping a network, offering them a chance to streamline their efforts for creating real value for the end users. Furthermore, modular design allows for an infinitely expanding amount of use cases and features that interact and layer on top of one another that goes beyond platforms like Facebook and Twitter.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Where Do We Go From Here?** 
 
@@ -172,24 +196,25 @@ _[Lens Protocol](https://lens.xyz/)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-enriching-meta-descriptions-a-template-transformation-journey/"><u>[New] In 2024, Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-guide-to-effective-nvidia-video-capture/"><u>[New] In 2024, Guide to Effective NVIDIA Video Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-ventures-steps-for-monetizing-content/"><u>[New] YouTube Ventures Steps for Monetizing Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-world-of-snapchat-for-professional-growth-for-2024/"><u>[Updated] Navigating the World of Snapchat for Professional Growth for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-smooth-windows-11-upgrade-process-and-avoiding-stucks/"><u>Expert Tips for Smooth Windows 11 Upgrade Process & Avoiding Stucks</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-keyboard-wont-type/"><u>Fixed: Keyboard Won't Type</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-edge-40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Edge 40 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://techidaily.com/mpewma/"><u>MPEファイルからWMAへの完全無料変換ツール - ムーヴェイビ</u></a></li>
-<li><a href="https://techidaily.com/o-guia-definitivo-selecionando-a-ferramenta-perfeita-de-edicao-de-video-do-gopro-em-2024/"><u>O Guia Definitivo: Selecionando a Ferramenta Perfeita De Edição De Video Do GoPro Em 2024</u></a></li>
-<li><a href="https://techidaily.com/online-zonder-risicos-gratis-mp4-naar-flv-omzetten-voor-uw-mobiele-apps-movavi-als-uitgebreide-solutient/"><u>Online Zonder Risico's: Gratis MP4 Naar FLV Omzetten Voor Uw Mobiele Apps - Movavi Als Uitgebreide Solutiënt</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-bluetooth-pairings-a-comprehensive-fix-guide/"><u>Resolving Silent Bluetooth Pairings - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/spotifys-1-hitlist-rankings-for-2024/"><u>Spotify's #1 Hitlist Rankings for 2024</u></a></li>
-<li><a href="https://techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-guide-to-creating-free-youtube-banners-top-10-best-designers-reviewed/"><u>The Ultimate Guide to Creating Free YouTube Banners: Top 10 Best Designers Reviewed!</u></a></li>
-<li><a href="https://techidaily.com/top-15-videstableringsprogrammer-i-2024-denne-gratis-og-kosten-parat/"><u>Top 15 Videstableringsprogrammer I 2024: Denne Gratis Og Kosten Parat</u></a></li>
-<li><a href="https://techidaily.com/transforma-tus-archivos-vob-gratuitamente-a-video-el-mejor-uso-de-movavi-explicado-detalladamente/"><u>Transforma Tus Archivos VOB Gratuitamente a Video: El Mejor Uso De Movavi Explicado Detalladamente</u></a></li>
-<li><a href="https://techidaily.com/transformar-imagenes-animadas-gif-en-videos-mov-sin-gastar-tutorial-paso-a-paso-y-opciones-gratuitas-online/"><u>Transformar Imágenes Animadas GIF en Videos MOV Sin Gastar: Tutorial Paso a Paso Y Opciones Gratuitas Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-to-create-top-5-mod-video-editors-for-aspiring-filmmakers/"><u>Updated 2024 Approved Free to Create Top 5 MOD Video Editors for Aspiring Filmmakers</u></a></li>
-<li><a href="https://techidaily.com/mxf-wmv-online-free-converter-movavi/"><u>영구제 MXF WMV 혼합을 원호하여 Online Free Converter - Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-divide-and-conquer-easy-chapter-addition-for-vimeo-videos/"><u>[New] Divide and Conquer Easy Chapter Addition for Vimeo Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spark-the-flame-top-10-motivational-films-for-you/"><u>[Updated] Spark the Flame Top 10 Motivational Films for You</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-mini-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 mini Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/address-mobile-devices-stalled-fb-videos/"><u>Address Mobile Devices Stalled FB Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-pc-crashes-no-more-expert-advice-for-a-smooth-gaming-experience/"><u>Battlefield 2042 PC Crashes No More - Expert Advice for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/exclusive-windows-amd-audio-suite/"><u>Exclusive Windows AMD Audio Suite</u></a></li>
+<li><a href="https://techidaily.com/ferramenta-de-conversao-gratuita-para-webp-files-site-do-movavi/"><u>Ferramenta De Conversão Gratuita Para Webp Files - Site Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-mp4-to-m4v-by-movavi-get-your-videos-transformed/"><u>Free Online Converter MP4 to M4V by Movavi - Get Your Videos Transformed!</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-swf-to-webm-moveave/"><u>Free Online Converter SWF to WEBM - Moveave</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-ogg-audiovideo-to-mov-format-with-ease/"><u>Free Online Converter: Change .ogg Audio/Video to .mov Format with Ease</u></a></li>
+<li><a href="https://techidaily.com/gratis-converter-geen-inkomsten-m4v-naar-mp4-online-de-beste-oplossing-van-movavi/"><u>Gratis Converter: Geen Inkomsten-M4V Naar MP4 Online - De Beste Oplossing Van Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratis-omzetten-en-herstellen-van-online-bestandsen-met-movavi-zonder-inzichten/"><u>Gratis Omzetten En Herstellen Van Online Bestandsen Met Movavi - Zonder Inzichten</u></a></li>
+<li><a href="https://techidaily.com/gratuit-verbetering-en-conversie-van-flac-inhoud-naar-wmv-expertise-van-movavi/"><u>Gratuit Verbetering en Conversie Van Flac-Inhoud Naar WMV: Expertise Van Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-converter-videos-amv-para-formato-mpg-com-movavi-o-site-de-conversao-online-facil/"><u>Gratuito: Converter Vídeos AMV Para Formato MPG Com Movavi, O Site De Conversão Online Fácil!</u></a></li>
+<li><a href="https://techidaily.com/guide-ultime-comment-ameliorer-la-performance-de-votre-pc-pour-les-jeu-videos-sous-windows-11/"><u>Guide Ultime : Comment Améliorer La Performance De Votre PC Pour Les Jeu Vidéos Sous Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-guide-creating-your-first-music-video/"><u>In 2024, IPhone's Guide Creating Your First Music Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-teamgroup-t-force-dark-airflow-i-top-choice-for-nvme-ssd-cooling/"><u>In-Depth Analysis of the TeamGroup T-Force Dark AirFlow I - Top Choice for NVMe SSD Cooling</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/joshis-success-youtube-earnings-strategy-for-2024/"><u>Joshi's Success YouTube Earnings Strategy for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-narzo-60-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme Narzo 60 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/flv-to-mov-online-movavi/"><u>무료 FLV to MOV 변환 - Online 콘텐츠를 유지하면서 Movavi로 제공</u></a></li>
 </ul></div>
 

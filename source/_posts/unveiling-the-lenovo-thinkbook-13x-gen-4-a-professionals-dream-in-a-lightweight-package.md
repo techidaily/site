@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package"
-date: 2024-09-20T00:38:59.799Z
-updated: 2024-09-23T17:02:44.427Z
+date: 2024-09-21T16:28:08.402Z
+updated: 2024-09-24T11:28:58.381Z
 tags:
   - desktop
 categories:
@@ -129,10 +129,16 @@ Expand
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -144,6 +150,13 @@ Jerome Thomas / How-To Geek
  From the front, the ultra-thin frame encases a vibrant 13.5-inch touchscreen display, while the webcam is built into the bezel, with the quad microphone system and two microphones nestled into the top of the bezel. Its lightweight build—just 2.7 pounds—is perfect for taking on the go. It fit comfortably under my arm when folded and was easy to tote around town when I had a power outage at home and needed to work elsewhere.
 
  The keyboard is a 10keyless chiclet affair that takes up about half of the laptop's base, and the buttonless touchpad rests underneath it in a nearly central location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Ports: Just the Basics** 
 
@@ -157,15 +170,22 @@ Close
 
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
 
 ![The keyboard on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-keyboard-on-the-lenovo-thinkbook-13x-gen-4_53755343766_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -179,16 +199,16 @@ Jerome Thomas / How-To Geek
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Display and Graphics: Beautiful 2.8K Stands Out
@@ -212,22 +232,15 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance: Excellent Computing Within Limits
 
 ![The Lenovo ThinkBook 13x Gen 4 has an Intel processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-has-an-intel-processor_53755667204_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -269,20 +282,13 @@ Close
 
  Singing or speaking at louder volumes also triggered the noise cancellation to come on rather strongly, and it drowned out particular high tones of speech or voice.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -292,6 +298,13 @@ Close
 ##  Battery and Charging: Decent Battery Gain and Drain
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -306,13 +319,6 @@ Jerome Thomas / How-To Geek
  Those looking for a more gaming-centric setup might consider a [gaming laptop](https://youtube-zero.techidaily.com/ed-gamers-galaxy-100plus-spaces-of-play/) or if you want the best of both worlds, something with a little more oomph, an upgraded [Dell XPS 16 (9640)](https://desktop-recording.techidaily.com/updated-in-2024-hone-your-talks-expert-insights-into-google-meet-chats/).
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -339,15 +345,15 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-record-mov-files-on-windows-11-for-2024/"><u>[New] How to Record MOV Files on Windows 11 for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-a-comprehensive-list-of-top-virtual-classrooms-not-inspired-by-udemy/"><u>2024 Approved A Comprehensive List of Top Virtual Classrooms Not Inspired by Udemy</u></a></li>
-<li><a href="https://techidaily.com/gratisk-online-omzetten-van-m4r-naar-aiff-formaat-met-movavi/"><u>Gratisk Online Omzetten Van M4R Naar AIFF-Formaat Met Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
-<li><a href="https://techidaily.com/gratuit-online-kunt-u-je-mp4-naar-mkv-verkeren-met-beslistheid-movavi/"><u>Gratuit Online: Kunt U Je MP4 Naar MKV Verkeren Met Beslistheid - Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuita-conversao-de-imagens-para-formato-jpeg-online-facil-com-movavi/"><u>Gratuita Conversão De Imagens Para Formato JPEG Online - Fácil Com Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-the-proprietor-of-chatgpt-who-holds-the-reins/"><u>Identifying the Proprietor of ChatGPT: Who Holds the Reins?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-a24-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy A24 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premium-cloud-based-recorder-tech/"><u>Premium Cloud-Based Recorder Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverse-digital-gaming-purchases-on-console-xsx/"><u>Reverse Digital Gaming Purchases on Console XS/X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-smartphones-with-ois-for-shooting-smooth-videos/"><u>[Updated] Best Smartphones with OIS for Shooting Smooth Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-simple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>[Updated] Simple Path Your Guide to Convert YouTube Audio on Mac</u></a></li>
+<li><a href="https://techidaily.com/100-innovadoras-propuestas-de-contenido-para-tu-canaleta-de-youtube/"><u>100 Innovadoras Propuestas De Contenido Para Tu Canaleta De Youtube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-repair-missing-disc-drive-controller-or-device-driver-alerts/"><u>Expert Advice: How To Repair Missing Disc Drive Controller or Device Driver Alerts</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-easeus-recexperts-review/"><u>In 2024, EaseUS RecExperts Review</u></a></li>
+<li><a href="https://techidaily.com/transformation-sans-frais-de-fichiers-m1v-a-mp4-sur-le-web-via-movavi/"><u>Transformation Sans Frais De Fichiers M1V À MP4 Sur Le Web via Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repair-guide-for-life-is-strange-game-crash-problem/"><u>Troubleshooting and Repair Guide for Life Is Strange Game-Crash Problem</u></a></li>
+<li><a href="https://techidaily.com/wma-vers-m4a-telechargement-gratuit-du-service-de-conversion-en-ligne-de-movavi/"><u>WMA Vers M4A: Téléchargement Gratuit Du Service De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233691843-movavi/"><u>모바비의 사용자 지원 센터: 고객 이해 안보를 제공하는 Movavi의 영역</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Adjust Image Dimensions on Your iPhone/iPad
-date: 2024-09-19T04:20:04.144Z
-updated: 2024-09-24T01:32:28.140Z
+date: 2024-09-17T23:47:54.934Z
+updated: 2024-09-24T09:07:24.998Z
 tags:
   - mobile
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The editor in the Photos app is quite feature-rich, but you can't change the file size of photos. Luckily, you can use a shortcut or a third-party app to resize or reduce photo size on iPhone and iPad. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Resize a Photo Using Shortcuts
 
  If you need to reduce a photo's resolution or file size, look no further [than the Shortcuts app](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/). Shortcuts is Apple's built-in automation tool that helps you create your own tools and simplify multi-step processes that you perform frequently.
@@ -25,13 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  On a Mac? You can resize a photo in a couple of seconds [using the built-in Preview app](https://fox-cloud.techidaily.com/new-in-2024-unlocking-studio-secrets-extensive-xvideoreview/).
 
  Just looking to crop a photo, rather than make the entire image smaller? You can [crop images in the Photos app](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) itself by tapping the "Edit" button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Creating an Image Resize Shortcut
 
@@ -52,25 +52,19 @@ Close
 ![The 'Resize' function followed by a 'Save' function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/8saveimage.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Adding the Shortcut to the Share Sheet
@@ -94,10 +88,10 @@ Close
  If you tried increasing the size of an image and it came out blurry or pixelated, you can [try a free or paid AI tool to upscale it](https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y36i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Resize a Photo Using a Third-Party App
@@ -135,24 +129,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-captions-adding-words-to-images-in-oses/"><u>[New] Perfecting Captions Adding Words to Images in OSes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide/"><u>[New] Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings/"><u>[New] Unlocking the Secrets of Zoom Communication Practical Advice for Successful Meetings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-clip-conquest-top-tags-for-dominating-video-trends-on-social-media/"><u>[Updated] In 2024, Clip Conquest Top Tags for Dominating Video Trends on Social Media</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-10-brightness-issue-how-to-restore-functionality/"><u>Fixing Windows 10 Brightness Issue: How To Restore Functionality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-address-your-pcs-audio-glitch-fix-for-dolby-headphone-not-working-resolved/"><u>How to Address Your PC's Audio Glitch: Fix for Dolby Headphone Not Working, Resolved!✔️</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-downloading-and-editing-whatsapp-alerts/"><u>In 2024, The Essential Guide to Downloading & Editing WhatsApp Alerts</u></a></li>
-<li><a href="https://techidaily.com/online-free-conversion-transforming-m4a-files-into-mpeg-format-with-ease/"><u>Online Free Conversion: Transforming M4A Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://techidaily.com/online-gratis-conversion-von-flvvob-dateien-mit-movavi-kostenlose-konvertierung/"><u>Online Gratis Conversion Von FLV/VOB Dateien Mit Movavi - Kostenlose Konvertierung</u></a></li>
-<li><a href="https://techidaily.com/os-melhores-softwares-de-edicao-de-videos-compativeis-com-windows-11-no-ano-de-2024/"><u>Os Melhores Softwares De Edição De Vídeos Compatíveis Com Windows 11 No Ano De 2024</u></a></li>
-<li><a href="https://techidaily.com/passo-a-passo-como-transformar-arquivos-nef-em-jpeg-usando-o-windows-ou-mac/"><u>Passo a Passo: Como Transformar Arquivos NEF Em JPEG Usando O Windows Ou Mac</u></a></li>
-<li><a href="https://techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
-<li><a href="https://techidaily.com/secure-and-reliable-multimedia-editing-with-movavi-sikker-solutions/"><u>Secure and Reliable Multimedia Editing with Movavi Sikker Solutions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-illustrators-journey-navigating-for-success-in-designing-for-2024/"><u>The Illustrator's Journey Navigating for Success in Designing for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-secrets-of-speed-learn-czech-with-digital-aids/"><u>The Secrets of Speed: Learn Czech with Digital Aids</u></a></li>
-<li><a href="https://techidaily.com/top-11-converteri-mov-gratis-per-mac-windows-e-online-prova-ora/"><u>Top 11 Converteri MOV Gratis per Mac, Windows E Online - Prova Ora</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-focus-on-you-not-the-surroundings-blur-techniques-for-google-meet-success/"><u>[New] 2024 Approved Focus on You, Not the Surroundings Blur Techniques for Google Meet Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-prime-picks-leading-mac-recording-software/"><u>[Updated] 2024 Approved Prime Picks Leading Mac Recording Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-cinematography-tips-three-way-borders/"><u>2024 Approved Insta Cinematography Tips Three-Way Borders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/decoding-podcast-access-a-detailed-iphone-guidebook/"><u>Decoding Podcast Access A Detailed iPhone Guidebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-depths-of-ai-truthgpt-discovery-and-the-story-behind-mullvad-vpn-police-raid-plus-best-no-cost-games-and-essential-mechanic-keyboard-knowledge35/"><u>Exploring the Depths of AI: TruthGPT Discovery & The Story Behind Mullvad VPN Police Raid - Plus Best No-Cost Games & Essential Mechanic Keyboard Knowledge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-your-livestreams-with-manycam-top-tier-virtual-camera-solutions-for-seamless-broadcasting/"><u>Revolutionize Your Livestreams with ManyCam - Top-Tier Virtual Camera Solutions for Seamless Broadcasting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revolutionize-your-teams-productivity-with-these-tools/"><u>Revolutionize Your Team's Productivity with These Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-how-to-correct-the-absent-jvmdll-file-issue/"><u>Step-by-Step Solution: How to Correct the Absent jvm.dll File Issue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/0-most-watched-youtube-video-in-24-hours/"><u>Top 10 Most Watched YouTube Video in 24 Hours</u></a></li>
 <li><a href="https://techidaily.com/top-5-free-editing-software-substitutes-a-pinnacle-studio-pour-pc-et-mac/"><u>Top 5 Free Editing Software Substitutes À Pinnacle Studio Pour PC Et MAC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trim-wmis-firm-grip-on-cores/"><u>Trim WMI's Firm Grip on Cores</u></a></li>
-<li><a href="https://techidaily.com/swfwebm/"><u>スムーズなオンライン変換: SWFからWEBMへ – モヴェイビーの方法</u></a></li>
+<li><a href="https://techidaily.com/top-6-finns-gratuiti-brannprogram-for-windows-11-8-och-7-fullstandiga-guide/"><u>Top 6 Finns Gratuiti Brännprogram För Windows 11, 8 Och 7 – Fullständiga Guide</u></a></li>
+<li><a href="https://techidaily.com/top-9-unheard-sound-effects-in-film-edit-with-movavis-audio-tools/"><u>Top 9 Unheard Sound Effects in Film - Edit with Movavi's Audio Tools</u></a></li>
+<li><a href="https://techidaily.com/transferer-mp3-a-un-format-iphone-aac-sans-frais-guide-complet-sur-line/"><u>Transférer MP3 À Un Format IPhone AAC Sans Frais : Guide Complet Sur Line</u></a></li>
+<li><a href="https://techidaily.com/wmaflvmovavi/"><u>WMA/FLVファイルを問わず、Movaviでの無料オンラインコーデック変換</u></a></li>
 </ul></div>
 

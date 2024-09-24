@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-09-21T04:16:02.348Z
-updated: 2024-09-23T21:14:16.578Z
+date: 2024-09-22T22:31:54.240Z
+updated: 2024-09-24T00:12:46.513Z
 tags:
   - desktop
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Identify Music From the Menu Bar or Control Center
@@ -51,10 +51,10 @@ Close
 ![Safari for Mac displaying information about Blinding Lights by The Weeknd.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-safari-browser-shazam-website-song-information-blinding-lights-by-the-weeknd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To open the song in the Apple Music app instead, hover over it and click the tiny Apple Music button. Hitting the trashcan icon will remove the selected song from your Shazam history.
@@ -77,22 +77,15 @@ Close
 
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
 ![Details view in Shortcuts for Mac with the Add Keyboard Shortcut button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-add-keyboard-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don't see the Shazam shortcut? Click "Gallery" in the sidebar, search for "Shazam," choose "Shazam shortcut," and hit the "Add Shortcut" button.
@@ -100,6 +93,19 @@ Close
  After closing the Shortcuts app, you can identify music anytime you like by whatever keyboard shortcut you created, even if Shortcuts isn't running. I prefer the Shazam shortcut because it shows a menu where I can decide whether to play the song on Apple Music, add it to my library, or copy the song title to the clipboard.
 
 ![The Shazam shortcut in macOS displaying music recognition menu, with the Copy to Clipboard option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shazam-shortcut-results-menu-options.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
 
@@ -124,22 +130,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-skyrocket-savings-on-clouds-compare-prices-s-lows/"><u>[New] In 2024, Skyrocket Savings on Clouds Compare Prices 'S Lows</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>[Updated] In 2024, Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
-<li><a href="https://techidaily.com/movavi-aiff-avi/"><u>無限制地獄 - 用 Movavi 自由轉化 AIFF 成 AVI</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficiently-transform-dvd-content-into-mp4-on-macos-and-windows-11-discover-the-best-techniques/"><u>Efficiently Transform DVD Content Into MP4 on macOS and Windows 11: Discover the Best Techniques!</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-frozen-resource-monitor-applications-on-win11/"><u>Fixing Frozen Resource Monitor Applications on Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-wireless-mouse-malfunction-in-windows-11-and-10-a-step-by-step-guide/"><u>Fixing Your Wireless Mouse Malfunction in Windows 11 and 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-12r-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus 12R Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/gratuite-en-online-toegankelijke-omgewisseling-van-mkv-tot-flac-formaat-voor-optimale-soundquaaliteit-movavi/"><u>Gratuite en Online-Toegankelijke Omgewisseling Van MKV Tot FLAC-Formaat Voor Optimale Soundquaaliteit - Movavi</u></a></li>
-<li><a href="https://techidaily.com/guia-simple-de-resizing-gratuita-ajuste-multiple-de-fotografias-en-un-solo-click/"><u>Guía Simple De Resizing Gratuita: Ajuste Múltiple De Fotografías en Un Solo Click</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-ensuring-the-accuracy-of-medical-data-retrieved-via-chatgpt-and-other-ais/"><u>Guide: Ensuring the Accuracy of Medical Data Retrieved via ChatGPT and Other AIs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-magic-vs-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor Magic Vs 2 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/kostenloze-omzetting-van-wav-naar-m4a-bestand-online-movavi/"><u>Kostenloze Omzetting Van WAV Naar M4A-Bestand Online - Movavi</u></a></li>
-<li><a href="https://techidaily.com/libera-tu-multimedia-transformacion-gratuita-swf-a-mkv-en-linea-mediante-movavi/"><u>Libera Tu Multimedia: Transformación Gratuita SWF a MKV en Línea Mediante Movavi</u></a></li>
-<li><a href="https://techidaily.com/mka-mkv-converter-vrije-online-tool-voor-formatconversie-movavi/"><u>MKA-MKV Converter: Vrije Online Tool Voor Formatconversie - Movavi</u></a></li>
-<li><a href="https://techidaily.com/movavi-xrecorder-free-trial-ultimate-screen-recording-software-for-windows/"><u>Movavi XRecorder Free Trial - Ultimate Screen Recording Software for Windows</u></a></li>
-<li><a href="https://techidaily.com/movavi-wma-m4a/"><u>Movavi에서 WMA을 M4A로 전환하는 데 필요한 단계: 비용 부과 없이 쉽게 변환</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multi-photo-sharing-easy-steps-to-post-several-images-on-facebook/"><u>Multi-Photo Sharing: Easy Steps to Post Several Images on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-google-meet-mastery-for-free-hostparticipants-ultimate-handbook/"><u>2024 Approved Google Meet Mastery for Free Host/Participant's Ultimate Handbook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/aiming-for-the-stars-select-7-top-shooter-experiences/"><u>Aiming for the Stars Select 7 Top Shooter Experiences</u></a></li>
+<li><a href="https://techidaily.com/convertissez-facilement-et-sans-frais-un-fichier-ram-en-mp4-via-movavi-service-de-conversion-en-ligne-rapide/"><u>Convertissez Facilement Et Sans Frais Un Fichier RAM en MP4 via Movavi - Service De Conversion en Ligne Rapide</u></a></li>
+<li><a href="https://techidaily.com/cr2-bmp/"><u>CR2 BMP 이미지를 원할 수 있는 무료 가용성 강화: 컴퓨터 마음에서</u></a></li>
+<li><a href="https://techidaily.com/create-mp4-video-from-gif-without-cost-with-movavis-easy-web-tool/"><u>Create MP4 Video From GIF Without Cost With Movavi's Easy Web Tool</u></a></li>
+<li><a href="https://techidaily.com/create-stunning-wedding-montages-with-movavi-top-marriage-video-editing-software/"><u>Create Stunning Wedding Montages with Movavi - Top Marriage Video Editing Software</u></a></li>
+<li><a href="https://techidaily.com/de-top-5-moglichkeiten-einen-perlenkollage-erstellt-zu-hoe/"><u>De Top 5 Möglichkeiten, Einen Perlenkollage Erstellt Zu Hoe</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-21-speech-to-text-solutions-for-flawless-conversion-technology/"><u>Discover the Best 21 Speech-to-Text Solutions for Flawless Conversion Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-ways-to-determine-how-much-data-youve-used-online/"><u>Efficient Ways to Determine How Much Data You've Used Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-addressing-and-correcting-asus-pce-ac56-wireless-driver-conflicts-on-windows-11-8-and-7/"><u>Expert Tips for Addressing and Correcting ASUS PCE-AC56 Wireless Driver Conflicts on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://techidaily.com/flac-versus-wav-choosing-the-ideal-audio-format-expert-comparison/"><u>FLAC versus WAV: Choosing the Ideal Audio Format - Expert Comparison</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guiding-machines-to-mankinds-ethical-path/"><u>Guiding Machines to Mankind's Ethical Path</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>In 2024, Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laugh-ledger-unveiling-the-best-text-generation-apps/"><u>Laugh Ledger Unveiling the Best Text Generation Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rise-to-the-top-mobile-youtubing-without-million-subscriber-status-for-2024/"><u>Rise to the Top Mobile YouTubing Without Million-Subscriber Status for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-text-in-motion-the-best-tracking-and-animation-tools/"><u>Updated 2024 Approved Text in Motion The Best Tracking and Animation Tools</u></a></li>
 </ul></div>
 

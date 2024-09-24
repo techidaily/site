@@ -1,7 +1,7 @@
 ---
 title: How to Hard Reset Realme 11 5G Without Password | Dr.fone
-date: 2024-08-01T14:53:32.731Z
-updated: 2024-08-02T14:53:32.731Z
+date: 2024-09-18T16:43:51.626Z
+updated: 2024-09-24T16:16:35.196Z
 tags: 
   - reset
 categories:
@@ -18,18 +18,12 @@ Nothing good lasts forever, not even your all-singing, all-dancing new Android s
 
 Before taking the plunge, there are a number of factors to consider. We've put together a quick guide to let you know what you need to know... and what you need to do. Before we start deleting stuff, however, it's important to understand what a Factory reset is.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What is Factory Reset?
 
 There are two types of reset for every Android device, soft and hard resets. A [soft reset](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is just a way to force the Android operating system to shut down in the event of a freeze and you only risk losing any data which wasn't saved prior to the reset.
 
 A hard reset, also known as a factory reset and a master reset, returns the Realme 11 5G device to the condition it was in when it left the factory. Performing a factory reset will permanently delete any and all personal data you have on your device. This includes any personal settings, apps, pictures, documents, and music stored on your device. A factory reset is irreversible, which means before considering taking this step, it is a good idea to back your data and settings up. A factory reset is a great way to purge buggy updates and other malfunctioning software and can give your phone a new lease of life.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
 ### Signs You Need to Reset Phone
@@ -45,8 +39,12 @@ You'll probably already know if your phone needs a reset, but if you're unsure, 
 Remember factory resetting will erase everything on your device, so it's essential that you back up anything you can't afford to lose.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Back Up Your Data Before Factory Reset
 
 There are a number of Android data backup software for PC out there. Having a Google account will help you save your contacts and settings, but it won't save your pictures, documents, or music. There are numerous cloud-based systems available like Dropbox and Onedrive where your data is saved onto a cloud-based server, but you'll need a data connection or wi-fi to restore to your device and of course, you are trusting a third party with your data. We recommend [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). It's easy to use and will save everything and best of all you know exactly where it is.
@@ -57,14 +55,6 @@ Back up and restore data from your device to a computer with a single click. It'
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -77,15 +67,16 @@ Backup & Restore Data Turns Flexible
 **3,823,152** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to backup Android phone with Dr.Fone Basic
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
@@ -100,15 +91,8 @@ Also, you can watch this video to learn more details.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/bVYDAhCnKOU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Factory Reset Android Phone
 
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
@@ -128,17 +112,18 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Realme 11 5G device resets itself.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2. Resetting Your Phone in Recovery Mode
 
 If your phone is misbehaving it might be easier to reset it via Recovery Mode. To do this you must turn your device off first.
 
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
@@ -155,9 +140,6 @@ Step 6. Scroll to 'Yes - erase all user data' and to complete the process press 
 
 Please note: Devices running Android 5.1 or above, will still require you to enter your Google Password to complete this reset.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Resetting Your Phone Remotely With Android Device Manager
 
 You can also perform a factory reset by using the Android Device manager App. Obviously, you'll need to have Android Device Manager installed on your phone for which you'll need a Google Account.
@@ -166,18 +148,12 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Realme 11 5G to the Internet and login into your Google account when prompted.
@@ -188,9 +164,6 @@ Once you have restarted your mobile, connect it to your PC and open Dr.Fone on y
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
@@ -199,9 +172,6 @@ Then you will be able to select what files you want to restore. You can click Re
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
@@ -231,11 +201,6 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Is your Realme 11 5G working too slow? Here's how you can hard reset it
 
 If Realme 11 5G 3.4 hard reset or Realme 11 5G hard reset is the only option for your mobile phone, you can perform a factory reset to make your device function as it did on the first day. You may need a hard reset if it works slowly, hangs, you want to bypass screen lock, your memory is full, and you want to erase everything, you want to sell or give your device away, and you don't want anyone to be able to access your files or passwords.
@@ -248,9 +213,6 @@ We advise you to remove all accounts from the Realme 11 5G device before perform
 
 ## Part 2: How to Hard Reset My Realme 11 5G
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Fastboot Mode
 
 - Shut down your phone.
@@ -275,14 +237,8 @@ _reboot bootloader using adb_
 - Press and hold the Power and Volume Up buttons at the same time until the Realme 11 5G device vibrates. Release all the presses if the Realme 11 5G logo or Recovery screen shows.
 - You can give your phone up to 30 seconds to display the recovery screen.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tips
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)(delete all data completely)
 
 Dr.Fone - Data Eraser helps you quickly get rid of all the unwanted information and all of your data however it is always advisable to back it up using the Dr.Fone - Phone Backup.
@@ -295,18 +251,12 @@ Let's see how you can delete completely all the data using Dr.Fone - Data Eraser
 
 Connect your Realme 11 5G to the PC via a USB wire. Ensure that your phone has USB debugging turned on. You will see a pop-up window on your phone asking you to approve USB debugging.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect to device](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 **Step 2:** Begin wiping your Realme 11 5G phone.
 
 Dr.Fone will then automatically recognize and connect to your Realme 11 5G smartphone. To begin wiping all of your data, select "Erase All Data.".
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![erase all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 Before proceeding, ensure that you have backed up any critical data because deleted data cannot be retrieved. After that, type "000000" to confirm your activity.
@@ -325,10 +275,14 @@ Once all app data, photos, and other private data have been completely erased, D
 
 Your Realme 11 5G phone has now been completely wiped, giving it the appearance of being brand new.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)(easy backup before a new hard reset)
 
@@ -340,9 +294,6 @@ Launch Dr.Fone on your PC and choose "Phone Backup" from the list of options.
 
 Then, connect your Realme 11 5G phone to the computer using a USB cord. Please ensure that the phone is in USB debugging mode. If your Realme 11 5G version is 4.2.2 or higher, a pop-up window on the Realme 11 5G phone will prompt you to accept USB Debugging. Please press the OK button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 To begin backing up the data on your Realme 11 5G phone, click Backup.
@@ -357,20 +308,12 @@ After connecting the Realme 11 5G phone, pick the file types you wish to back up
 
 The backup will take a few moments. Please do not detach your Realme 11 5G phone, use it, or erase any data from it during the backup process.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup completed](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 When the backup is finished, you can view the contents of the backup file by clicking the View the backup button.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 Now that you know how to hard reset Realme 11 5G it is time to implement all the possible ways and see which one works for you. We also recommend you to proceed with backing up and restoration of all the information so that you will not have to repent in the end. It is all about using smart tools like Dr.Fone - Data Eraser and Dr.Fone - Phone Backup.
@@ -383,6 +326,13 @@ The need to reset a Realme 11 5G phone arises in several situations like forgett
 
 In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Things You Should Be Aware of Before Resetting Realme 11 5G Phones
 
 Before you start resetting your Realme 11 5G device through any of the methods, there are certain important things that should be considered and taken care of. Check them out as below.
@@ -390,6 +340,13 @@ Before you start resetting your Realme 11 5G device through any of the methods, 
 - First of all, ensure that your Realme 11 5G phone is charged so that the battery does not go off in between and stop the ongoing process.
 - Ensure to clear the cache on your Realme 11 5G phone.
 - If your Realme 11 5G phone is not locked, make sure to take the backup of the Realme 11 5G device to prevent accidental loss of data. If the Realme 11 5G device is locked, ensure that from next time you keep taking the backup on regular basis.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Reset Realme 11 5G Phone When Locked?
 
@@ -410,9 +367,6 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 
 With the completion of the above steps, your Realme 11 5G phone will reset.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Perform a Hard Reset on Realme 11 5G with Hardware Keys
 
 Hard reset which is also termed factory reset is a feature that will reset all the Realme 11 5G device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
@@ -426,21 +380,10 @@ Hard reset which is also termed factory reset is a feature that will reset all t
 - **Step 5.** Again, to confirm the hard reset, click on the **Wipe data/factory reset** button.
 - **Step 6.** The process of hard resetting will start and when completed, click on **Reboot system now** for restarting the unlocked phone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![hard reset with hardware keys](https://images.wondershare.com/drfone/article/2022/06/hard-reset.jpg)
 
 _**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Realme 11 5G device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Realme 11 5G FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Realme 11 5G codes that can be used to bypass the FRP lock._
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: An Efficient Alternative to Reset Locked Realme 11 5G Phone
 
 If the above-listed methods do not work for any reason, we recommend using [Dr.Fone-Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) as the best alternative. This is a Windows and Mac-based tool that can help bypass and remove all types of screen locks including PIN, passcode, pattern, Face ID as well as a fingerprint. The software not only works with Realme 11 5G but all other popular Android devices including Realme 11 5G, LG, Oppo, and more.
@@ -453,9 +396,6 @@ The screen locks can be removed without rooting, and the software is completely 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool for factory reset Realme 11 5G Phone When Locked
@@ -482,13 +422,17 @@ The Best Tool for factory reset Realme 11 5G Phone When Locked
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3. How to Reset Realme 11 5G Phone at Normal Cases?
 
 In normal situations, the Realme 11 5G phones can be reset using the settings menu or the Android Factory Reset code. Both these methods and their guide to getting the process done are listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Reset Realme 11 5G phones through the Phone Settings menu
 
 To unlock the screen and reset your Realme 11 5G phone, the settings menu of the Realme 11 5G device can be used. For this method, you do not need to make your device enter the recovery mode. The steps for the process are as follows.
@@ -512,14 +456,17 @@ Steps to reset Realme 11 5G phone using secret reset code
 The above methods can also be tried if you get stuck in a situation on how to factory reset Realme 11 5G tablets without password. Also, we recently covered a method of how to bypass the Google account on Realme 11 5G after a factory reset, we have now had the opportunity to test this with many people with different models of Android and have found mixed results.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The above given are multiple options that can be used for resetting your Realme 11 5G phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Realme 11 5G device as it supports removing all types of screen locks in a hassle-free manner.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -533,59 +480,20 @@ The above given are multiple options that can be used for resetting your Realme 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-does-t-series-generate-revenue/"><u>[New] 2024 Approved  How Does T-Series Generate Revenue?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-is-splitcam-the-pinnacle-of-recording-capabilities/"><u>[New] Is SplitCam The Pinnacle of Recording Capabilities?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unleashing-the-full-capabilities-of-macoss-screen-recording-feature/"><u>[Updated] 2024 Approved  Unleashing the Full Capabilities of macOS's Screen Recording Feature</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-ads-performance-animation-strategies-for-success-for-2024/"><u>[Updated] Elevate Your Ad's Performance  Animation Strategies for Success for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-engaging-video-audiences-choosing-impactful-youtube-images/"><u>[Updated] In 2024, Engaging Video Audiences  Choosing Impactful YouTube Images</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-2-ways-to-fade-audio-in-ableton/"><u>2024 Approved  2 Ways to Fade Audio in Ableton</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-spark-interest-fast-unique-bios-and-hashtags-for-tinder-success/"><u>2024 Approved  Spark Interest Fast  Unique Bios and Hashtags for Tinder Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-basics-unlocked-start-here-with-these-9-educational-hubs/"><u>AI Basics Unlocked: Start Here with These 9 Educational Hubs</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-poco-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco C51 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169303840-elevate-gaming-choose-large-format-cabinet-fronts/"><u>Elevate Gaming: Choose Large-Format Cabinet Fronts</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-130-music-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia 130 Music in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c12-plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-11-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 11 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 mini to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-inkjet-printer-installation-guide/"><u>HP Inkjet Printer Installation Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-plus-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 12 mini</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-spectral-rgb-vs-srgb-formats/"><u>In 2024, Spectral Rgb Vs Srgb Formats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-a-comprehensive-review-the-premier-audio-changers-for-smartphones/"><u>New In 2024, A Comprehensive Review The Premier Audio Changers for Smartphones</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-engaging-videos-with-the-ken-burns-effect-a-step-by-step-tutorial/"><u>New In 2024, Create Engaging Videos with the Ken Burns Effect A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-pairing-sound-and-imagery-in-media-production/"><u>Perfect Pairing  Sound & Imagery in Media Production</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-y27s-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Y27s</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Smart 8 HD</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X8b</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-8-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 8 Suddenly | Stellar</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-app-downloads-discover-10-proven-fixes-now/"><u>Struggling with iPhone App Downloads? Discover 10 Proven Fixes Now!</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-zero-30-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Zero 30 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-tecno-spark-20c-by-fonelab-android-recover-music/"><u>The way to get back lost music from Tecno Spark 20C</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-yuva-3-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Yuva 3 Pro without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-a59-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from A59 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-note-30-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Note 30.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-nokia-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Nokia fingerprint</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-11-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 11 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 7</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-razr-40-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Razr 40 Ultra?</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-realme-11x-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Realme 11X 5G</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y28-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y28 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-the-techniques-for-autoplay-youtube-videos-on-fb-for-2024/"><u>[New] Unveiling the Techniques for Autoplay YouTube Videos on FB for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-convenient-viewing-setting-up-youtube-on-large-tv-panels-for-2024/"><u>[Updated] Convenient Viewing Setting Up YouTube on Large TV Panels for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nubia-red-magic-8s-proplus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nubia Red Magic 8S Pro+ Location | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-poco-x5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco X5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-y78-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo Y78 5G)</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy S23 Ultra can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchat-ai-unraveling-its-multifaceted-value/"><u>Snapchat AI: Unraveling Its Multifaceted Value</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-samsung-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Samsung</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unearthing-the-mightiest-multisyllable/"><u>Unearthing the Mightiest Multisyllable</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-m6-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco M6 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+

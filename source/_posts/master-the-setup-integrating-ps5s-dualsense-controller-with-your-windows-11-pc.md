@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC"
-date: 2024-09-22T20:01:10.680Z
-updated: 2024-09-23T22:34:35.162Z
+date: 2024-09-18T05:04:39.584Z
+updated: 2024-09-24T04:42:45.155Z
 tags:
   - deals
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
@@ -46,9 +46,29 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
@@ -57,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, click on "Manage Sound Devices".
@@ -77,20 +91,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
@@ -105,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
@@ -120,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
@@ -134,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -162,16 +162,24 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-pioneering-the-future-of-video-conferencing-with-google-meet-to-youtube/"><u>[New] 2024 Approved Pioneering the Future of Video Conferencing with Google Meet to YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-combining-zoom-and-facebook-live-a-step-by-step-guide-for-2024/"><u>[New] Combining Zoom & Facebook Live A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-user-generated-content-harnessing-community-influence/"><u>[Updated] 2024 Approved Unlocking User-Generated Content Harnessing Community Influence</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-partnership-unlocked-break-through-at-10k-vistas/"><u>[Updated] YouTube Partnership Unlocked Break Through at 10K Vistas</u></a></li>
-<li><a href="https://techidaily.com/100-innovadoras-propuestas-de-contenido-para-tu-canaleta-de-youtube/"><u>100 Innovadoras Propuestas De Contenido Para Tu Canaleta De Youtube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-method-to-dismantle-youtube-shorts/"><u>2024 Approved The Ultimate Method to Dismantle YouTube Shorts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-easy-methods-for-archiving-digital-meeting-recordings/"><u>In 2024, Easy Methods for Archiving Digital Meeting Recordings</u></a></li>
-<li><a href="https://techidaily.com/transforma-tus-presentaciones-ppt-en-pdf-sin-coste-con-movavi-guia-de-convertir-archivos-en-linea-gratuita/"><u>Transforma Tus Presentaciones PPT en PDF Sin Coste Con Movavi: Guía De Convertir Archivos en Línea Gratuita</u></a></li>
-<li><a href="https://techidaily.com/transformacion-de-videos-a-formato-wmv-una-guia-sencilla-con-movavi/"><u>Transformación De Videos a Formato WMV: Una Guía Sencilla Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/transformation-sans-frais-de-fichiers-m1v-a-mp4-sur-le-web-via-movavi/"><u>Transformation Sans Frais De Fichiers M1V À MP4 Sur Le Web via Movavi</u></a></li>
-<li><a href="https://techidaily.com/wma-vers-m4a-telechargement-gratuit-du-service-de-conversion-en-ligne-de-movavi/"><u>WMA Vers M4A: Téléchargement Gratuit Du Service De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-building-a-filmmaking-foundation-on-youtube/"><u>[Updated] In 2024, Frame by Frame Building a Filmmaking Foundation on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-light-up-your-feed-expert-tips-for-instagram-highlights-3-steps/"><u>[Updated] Light Up Your Feed Expert Tips for Instagram Highlights (3 Steps)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ride-safely-leading-helmet-cams-reviewed-for-motorcycling-for-2024/"><u>[Updated] Ride Safely Leading Helmet Cams Reviewed for Motorcycling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos/"><u>[Updated] The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diving-into-ai-dialogue-imitation-techniques-used-by-chatbots-to-converse-like-us/"><u>Diving Into AI Dialogue Imitation: Techniques Used by Chatbots to Converse Like Us</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/explore-polarr-photo-editor-features-in-detail/"><u>Explore Polarr Photo Editor Features in Detail</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 15 Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-turn-the-tide-how-to-make-a-youtube-playlist-run-backward/"><u>In 2024, Turn the Tide How to Make a YouTube Playlist Run Backward</u></a></li>
+<li><a href="https://techidaily.com/methode-facile-pour-convertir-un-fichier-mpeg-au-format-ogg-en-ligne-gratuit-tutorial-movavi/"><u>Méthode Facile Pour Convertir Un Fichier MPEG Au Format Ogg en Ligne Gratuit – Tutorial Movavi</u></a></li>
+<li><a href="https://techidaily.com/movavi-media-gallery-discover-georgia-pavlous-visual-artistry/"><u>Movavi Media Gallery: Discover Georgia Pavlou's Visual Artistry</u></a></li>
+<li><a href="https://techidaily.com/movavi-veeerfotos-schoon-cr2-in-png-codeeren-zonder-kosten-online-instant/"><u>Movavi: Veeërfoto's Schoon CR2 in PNG Codeeren Zonder Kosten, Online-Instant</u></a></li>
+<li><a href="https://techidaily.com/movavijpegarwf/"><u>Movaviで簡単JPEGをARWFに自由費用で変換</u></a></li>
+<li><a href="https://techidaily.com/mp3-conversion-guide-transform-your-tunes-on-windows-and-mac-with-movavi/"><u>MP3 Conversion Guide: Transform Your Tunes on Windows and Mac with Movavi</u></a></li>
+<li><a href="https://techidaily.com/online-mp4-mov-mpe-wmv-movavi/"><u>Online 무료 소요시간을 줄이는 MP4, MOV 등 다양한 형식으로 MPE WMV 통합 - Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selecting-the-right-audio-for-your-unboxing-projects/"><u>Selecting the Right Audio for Your Unboxing Projects</u></a></li>
+<li><a href="https://techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
+<li><a href="https://techidaily.com/stegvisu-diskord-skarmshandling-pa-pc-och-mobil-plattformer/"><u>Stegvisu Diskord-Skärmshandling På PC Och Mobil Plattformer</u></a></li>
+<li><a href="https://techidaily.com/ram-wmv/"><u>무세포 RAM WMV 디지털 품종을 쉽게 제공하기 위한 원홍한 컴퓨터 페이스 서비스</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Printing: How to Set Up Your Laptop with Any Printer, Cable or Wi-Fi"
-date: 2024-08-18T03:38:30.193Z
-updated: 2024-08-19T03:38:30.193Z
+date: 2024-09-20T18:13:16.012Z
+updated: 2024-09-23T18:54:38.504Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to stop desktop icons from moving randomly
 
  It is most annoying when you find your desktop icons keep moving all the time. You just want them to stay in the place where they should be, rather than wander here and there like a rover. If that’s the case, you should go on with the steps below to lock your desktop icons.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
  1) Right-click an empty area on your desktop to open the context menu. Click**View** and then**Align icons to grid** . Make sure the**Auto arrange icons** option is**unticked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-378.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Personalize** .
 
@@ -60,9 +74,23 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-384.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Make sure you uncheck the**Allow themes to change desktop icons** option. Then click**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-385.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Run a full scan for viruses and malware with your antivirus program to ensure that your PC has not been infected.
 
@@ -80,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,60 +117,21 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-leading-edge-in-creating-stunning-facebook-cover-photos-top-11-sites-reviewed/"><u>[New] The Leading Edge in Creating Stunning Facebook Cover Photos - Top 11 Sites Reviewed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-understanding-budgets-youtube-marketing-investments-for-2024/"><u>[New] Understanding Budgets  YouTube Marketing Investments for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-clear-up-your-photos-best-10-online-image-enhancers-revealed/"><u>[Updated] Clear Up Your Photos  Best 10 Online Image Enhancers Revealed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fifth-round-of-top-time-lapse-capture-apps/"><u>[Updated] In 2024, Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-magix-acid-pro-critique-and-comparable-products/"><u>[Updated] Magix ACID Pro  Critique & Comparable Products</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-meme-tacular-iphone-hacks/"><u>[Updated] Meme-Tacular iPhone Hacks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-high-quality-audio-interpretation-via-google/"><u>[Updated] Unlocking High-Quality Audio Interpretation via Google</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-snap-boost-optimize-images-at-zero-cost/"><u>2024 Approved  Snap-Boost  Optimize Images at Zero Cost</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streaming-showdown-obs-or-twitch-studio/"><u>2024 Approved  Streaming Showdown  OBS or Twitch Studio</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unleash-your-creative-potential-with-picart-clear-skies/"><u>2024 Approved  Unleash Your Creative Potential with PicArt Clear Skies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-what-makes-vegaspro-2019-stand-out-an-examination/"><u>2024 Approved  What Makes VegasPro 2019 Stand Out? An Examination</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-webcam-integration-on-windows-11-pcs/"><u>Android Webcam Integration on Windows 11 PCs</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-camon-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Camon 20 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clipcomposers-evaluation-full-breakdown-of-video-editing-software/"><u>ClipComposer's Evaluation – Full Breakdown of Video Editing Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/craft-the-perfect-christmas-look-in-windows-11/"><u>Craft the Perfect Christmas Look in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-seamless-playtime-how-to-resolve-manor-lords-pc-game-crashes/"><u>Ensuring Seamless Playtime: How to Resolve Manor Lords PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-correctly-address-and-repair-the-notorious-0xc19001e1-glitch-in-w10/"><u>Expert Tips to Correctly Address and Repair the Notorious 0xC19001E1 Glitch in W10</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/full-image-display-mastering-the-art-of-complete-picture-posting-on-insta/"><u>Full Image Display: Mastering the Art of Complete Picture Posting on Insta</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y100t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y100t in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-x9b-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X9b Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2022-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2022) to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2v-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2V in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-huawei-nova-y71-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Huawei Nova Y71 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-yuva-3-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 3 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y36-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y36 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-gt-5-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme GT 5 phone? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-intimate-filmmaking-approaches/"><u>In 2024, Expert Tips for Intimate Filmmaking Approaches</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inshot-editors-guide-to-fluid-cut-techniques-for-2024/"><u>Inshot Editor's Guide to Fluid Cut Techniques for 2024</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-13c-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi 13C 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-6-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Plus Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-xiaomi-14-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Xiaomi 14 on Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rhythm-rendezvous-optimal-dj-video-selections-for-2024/"><u>Rhythm Rendezvous  Optimal DJ Video Selections for 2024</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-6-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 6 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Gionee F3 Pro</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-spark-10-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-15-essential-gopro-accessories-for-newbies-for-2024/"><u>Top 15 Essential GoPro Accessories for Newbies for 2024</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-oppo-reno-10-proplus-5g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Oppo Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-meizu-21-by-fonelab-android-recover-data/"><u>Undelete lost data from Meizu 21</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-motorola-moto-g04-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Motorola Moto G04.</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-14-pro-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 14 Pro without itunes or icloud</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-realme-11x-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Realme 11X 5G fingerprint</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-htc-u23-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of HTC U23 Pro on Windows?</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-moto-g04-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Moto G04 ?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-strategies-for-recording-online-classes/"><u>[Updated] Cutting-Edge Strategies for Recording Online Classes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-revolutionize-your-memes-with-these-7-top-gif-creation-techniques-for-2024/"><u>[Updated] Revolutionize Your Memes with These 7 Top GIF Creation Techniques for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ottimi-modi-per-effettuare-la-registrazione-dello-screenshot-sul-tuo-mac-una-guida-completa/"><u>5 Ottimi Modi per Effettuare La Registrazione Dello Screenshot Sul Tuo Mac: Una Guida Completa</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-12-proplus-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 12 Pro+ 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-asus-rog-phone-7-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Asus ROG Phone 7 Phone FRP Lock</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lgs-newest-addition-a-comprehensive-guide-to-the-updated-classic-in-wear-os-20-the-stylish-timepiece/"><u>LG's Newest Addition: A Comprehensive Guide to the Updated Classic in Wear OS 2.0 - The Stylish Timepiece</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-activating-and-running-chatgpt-with-shellgpt-in-ubuntus-terminal-environment/"><u>Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-blocking-crypto-sites-in-your-brave-browser-experience/"><u>Step-by-Step Guide: Blocking Crypto Sites in Your Brave Browser Experience</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-interacting-with-uniswap-via-metamask-on-ios-and-android-devices/"><u>Step-by-Step Guide: Interacting with Uniswap via MetaMask on iOS and Android Devices</u></a></li>
+<li><a href="https://techidaily.com/tcl-enters-the-augmented-reality-market-with-innovative-smart-eyewear/"><u>TCL Enters the Augmented Reality Market with Innovative Smart Eyewear</u></a></li>
+<li><a href="https://techidaily.com/tech-giant-apple-advocates-for-widespread-us-right-to-repair-act/"><u>Tech Giant Apple Advocates for Widespread U.S. Right-to-Repair Act</u></a></li>
+<li><a href="https://techidaily.com/tesla-electric-cars-with-the-greatest-distance-on-a-single-charge/"><u>Tesla Electric Cars with the Greatest Distance on a Single Charge</u></a></li>
+<li><a href="https://techidaily.com/the-downside-of-touch-button-overuse-why-companies-must-rethink-their-digital-interfaces/"><u>The Downside of Touch Button Overuse: Why Companies Must Rethink Their Digital Interfaces</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-value-the-ultimate-review-of-fellowes-microban-wired-keyboards-for-smart-savers/"><u>Unlocking Value: The Ultimate Review of Fellowes Microban Wired Keyboards for Smart Savers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-survival-guide-overcoming-common-obstacles-and-challenges/"><u>Updated 2024 Approved FCPX Survival Guide Overcoming Common Obstacles and Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-makes-an-rtx-card-different-discover-the-innovations-in-nvidias-latest-graphics-cards/"><u>What Makes an RTX Card Different? Discover the Innovations in NVIDIA’s Latest Graphics Cards</u></a></li>
 </ul></div>
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->

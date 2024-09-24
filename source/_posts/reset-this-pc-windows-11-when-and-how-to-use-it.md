@@ -1,7 +1,7 @@
 ---
 title: Reset This PC Windows 11 - When & How to Use It
-date: 2024-08-18T03:44:54.976Z
-updated: 2024-08-19T03:44:54.976Z
+date: 2024-09-23T03:32:53.138Z
+updated: 2024-09-24T09:29:31.422Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Windows Update is a feature that automatically checks and provide updates for ou
 3. **[Change Group Policy Settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Bonus tip: Update your device drivers via Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Disable the Windows Update Service
 
  Method 2 is pretty much self-explanatory. By**disabling the Windows Update Service** , Windows will stop checking for updates, hence sparing you the wanted Windows updates. To do so:
@@ -48,6 +55,13 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 4) Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: **Meter your Wifi network**
 
  If you’re using Wifi network, then method 2 will just do the trick. By**metering your Wi-fi network** , Windows will automatically take it that you’re on a limited data plan (even if you aren’t) and stop forcing Windows updates on your computer. Here’s how:
@@ -56,23 +70,14 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e4af7b4b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  2) Click on**the name of your Wifi connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e51d793cb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Toggle the**Set as metered connection** switch**On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
 
 ## **Method 3: Change Group Policy Settings**
@@ -84,8 +89,12 @@ Windows Update is a feature that automatically checks and provide updates for ou
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320075a239c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Double-click on **Computer Configuration** \> **Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
@@ -94,19 +103,27 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer for the changes to take effect.
 
@@ -124,6 +141,13 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45814031f86.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Y ou can upgrade to the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click   **Update All**   to automatically download and install the correct version of   **ALL** the drivers that are missing or out of date on your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321850aaba5.jpg)
@@ -140,8 +164,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,40 +173,20 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-vloggers-dream-exploring-the-best-12-video-capture-devices/"><u>[New] A Vlogger's Dream  Exploring the Best 12 Video Capture Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-youtube-hidden-videos-for-2024/"><u>[New] How to Find YouTube Hidden Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-navigating-video-sizes-on-instagram-the-ultimate-2023-guide-for-2024/"><u>[New] Navigating Video Sizes on Instagram - The Ultimate 2023 Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-quintessential-list-of-top-tier-gaming-cams-for-live-viewers-for-2024/"><u>[New] The Quintessential List of Top-Tier Gaming Cams for Live Viewers for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-essential-techniques-for-mac-based-ootd-tiktok-videos/"><u>[Updated] 2024 Approved  Essential Techniques for Mac-Based OOTD TikTok Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-transmit-facebook-live-via-televisions/"><u>[Updated] How to Transmit Facebook Live via Televisions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[Updated] Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-overcome-no-image-problem-in-youtube-shorts/"><u>2024 Approved  How To Overcome No Image Problem in YouTube Shorts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>2024 Approved  The Path to Flawless Streams  A Guide to Recording on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/after-ps5-availability-pricing-expectations-uncertain/"><u>After PS5 Availability, Pricing Expectations Uncertain</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-a59-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo A59 5G?</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-meizu-21-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Meizu 21 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-g54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola G54 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G24 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-hot-40i-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Hot 40i Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-note-30-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Note 30 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-12-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 12 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-8-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 8 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-game-bugs-solutions-for-tales-of-arise-crashing-issues/"><u>Resolving Game Bugs: Solutions for 'Tales of Arise' Crashing Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sensibilities-of-machines-can-ai-truly-feel/"><u>Sensibilities of Machines: Can AI Truly Feel?</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-100-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor 100 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-c33-2023-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme C33 2023</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-edge-40-neo-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-itel-a60s-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Itel A60s without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-blaze-2-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava Blaze 2 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-red-magic-8s-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Red Magic 8S Pro.</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-g42-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia G42 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-14-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi 14 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>[New] Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-reigning-on-rankings-transforming-your-online-presence/"><u>[New] Reigning on Rankings Transforming Your Online Presence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-first-step-designing-attractive-videos-on-a-mac/"><u>[New] Your First Step Designing Attractive Videos on a Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-traditional-rogues-vs-modern-roguism/"><u>[Updated] 2024 Approved Traditional Rogues Vs. Modern Roguism</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unleashing-the-potential-of-4k-a-review-of-asuss-proart-pa-329q-monitor/"><u>[Updated] In 2024, Unleashing the Potential of 4K A Review of Asus's ProArt PA 329Q Monitor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-your-virtual-meeting-vibes-google-meet-background-tips/"><u>[Updated] Perfect Your Virtual Meeting Vibes Google Meet Background Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/embrace-video-creation-integrating-windows-movie-maker/"><u>Embrace Video Creation Integrating Windows Movie Maker</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-14-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 14 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solving-the-no-internet-secured-problem-in-windows-a-step-by-step-guide/"><u>Solving the 'No Internet, Secured' Problem in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-flushing-the-system-update-cache-in-windows-11-and-10/"><u>Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-integrating-full-system-colour-selection-on-windows-10-pcs/"><u>Step-by-Step Guide: Integrating Full-System Colour Selection on Windows 10 PCs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stream-to-success-obs-youtube-broadcast-basics/"><u>Stream to Success OBS Youtube Broadcast Basics</u></a></li>
+<li><a href="https://techidaily.com/streamlined-integration-manage-your-phone-easily-with-the-updated-windows-11-start-menu-feature/"><u>Streamlined Integration: Manage Your Phone Easily with the Updated Windows 11 Start Menu Feature</u></a></li>
+<li><a href="https://techidaily.com/the-power-of-desktop-widgets-unleashed-time-to-get-on-board/"><u>The Power of Desktop Widgets Unleashed: Time to Get On Board!</u></a></li>
+<li><a href="https://techidaily.com/top-11-undiscovered-secrets-in-windows-11-boost-your-productivity/"><u>Top 11 Undiscovered Secrets in Windows 11: Boost Your Productivity!</u></a></li>
 </ul></div>
+

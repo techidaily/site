@@ -1,7 +1,7 @@
 ---
 title: The Future Resurgence of Optical Media Driven by Revolutionary Technology
-date: 2024-09-17T19:01:18.160Z
-updated: 2024-09-18T18:22:50.079Z
+date: 2024-09-23T08:40:34.838Z
+updated: 2024-09-24T10:19:27.898Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In the 90s, every sci-fi movie that featured data storage invariably had some far-future version of a CD in it. It may have been in a caddy, or have a weird holographic sheen, but everyone thought optical discs were the future. Today, that doesn't seem likely, but continuing research into optical storage might prove those movies right after all.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is "Optical" Storage?
 
  It pains me to write this, but there are probably some of you reading this who only have vague contact with optical media. While you can still readily get Blu-ray, DVD, and CD media, many people have grown up in a digital download and streaming age, with little need to ever touch a disc. Which means, there's a good chance you don't actually know how it works. Everyone else can just skip to the next section, but here goes:
@@ -34,10 +41,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Say Hello to the Petabit Disc!
@@ -45,16 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Petabit disc diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-15-35-51.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu 
@@ -64,6 +65,13 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  You can read the [published paper](https://www.nature.com/articles/s41586-023-06980-y) in _Nature,_ but the gist of it is that the team managed to create a disc with a 3D structure and hundreds of layers. Consider that the best Blu-ray disc has but four layers, and you'll understand that this is a monumental improvement.
 
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Does This Mean for Us?
 
@@ -88,19 +96,24 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-androids-premier-gaming-application-decoding-the-kinemaster-experience/"><u>[New] 2024 Approved Android's Premier Gaming Application - Decoding the KineMaster Experience</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>[New] Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-slow-start-technique/"><u>[New] Slow Start Technique</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-negative-time-videos-on-instagram-for-2024/"><u>[New] The Ultimate Guide to Negative-Time Videos on Instagram for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-strategies-to-streamline-your-google-meet-calendar/"><u>[Updated] In 2024, Strategies to Streamline Your Google Meet Calendar</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-overcoming-video-send-failures-in-facebook-chat-iphoneandroid-guide-for-2024/"><u>[Updated] Overcoming Video Send Failures in Facebook Chat IPhone/Android Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-beginners-approach-to-audio-enhancement-in-audition-for-2024/"><u>A Beginner's Approach to Audio Enhancement in Audition for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://techidaily.com/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/"><u>The Essential Tutorial: Convert Strings with Base64 in the Linux Environment</u></a></li>
-<li><a href="https://techidaily.com/two-methods-for-formatting-drives-in-ubuntu-a-comprehensive-guide/"><u>Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-lenovo-thinkbook-13x-gen-4-a-professionals-dream-in-a-lightweight-package/"><u>Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package</u></a></li>
-<li><a href="https://techidaily.com/upcoming-windows-11-security-enhancement-auto-encryption-feature-now-available/"><u>Upcoming Windows 11 Security Enhancement: Auto-Encryption Feature Now Available</u></a></li>
-<li><a href="https://techidaily.com/why-i-continue-to-choose-windows-10-unveiling-the-top-five-factors-for-my-go-to-os/"><u>Why I Continue to Choose Windows #10: Unveiling the Top Five Factors for My Go-To OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-what-lies-unseen-in-instagram-story-watching/"><u>[New] 2024 Approved What Lies Unseen in Instagram Story Watching</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-becoming-a-youtube-star-utilizing-the-power-of-featured-channels-for-2024/"><u>[New] Becoming a Youtube Star Utilizing the Power of Featured Channels for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-guide-to-top-hd-video-recorders/"><u>[New] In 2024, Ultimate Guide to Top HD Video Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-final-step-delete-your-youtube-shorts-link/"><u>[New] The Final Step Delete Your YouTube Shorts Link</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-your-guide-to-the-funniest-and-most-touching-memes-on-instagram/"><u>[Updated] Your Guide to the Funniest & Most Touching Memes on Instagram</u></a></li>
+<li><a href="https://techidaily.com/conversion-gratuite-de-videos-mp4-en-fichiers-audio-flac-en-ligne-video-et-audio/"><u>Conversion Gratuite De Vidéos MP4 en Fichiers Audio FLAC en Ligne - Vidéo Et Audio</u></a></li>
+<li><a href="https://techidaily.com/conversion-libre-al-rescate-de-ts-a-mpeg-sin-problemas-mediante-movavi-guia-paso-a-paso/"><u>Conversión Libre Al Rescate De TS a MPEG Sin Problemas Mediante Movavi - Guía Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/conversion-rapida-de-videos-transforma-tus-archivos-flv-en-formato-avi-con-el-convertidor-de-movavi/"><u>Conversión Rápida De Vídeos: Transforma Tus Archivos FLV en Formato AVI Con El Convertidor De Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-sin-costo-de-wmv-a-mp3-usando-el-servicio-en-linea-de-movavi/"><u>Conversión Sin Costo De WMV a MP3 Usando El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversione-gratuita-da-tod-a-avi-online-con-movavi/"><u>Conversione Gratuita Da .tod a .avi Online Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/convert-anime-music-videos-amvs-into-mp3-for-free-with-movavis-easy-tool/"><u>Convert Anime Music Videos (AMVs) Into MP3 for Free with Movavi's Easy Tool</u></a></li>
+<li><a href="https://techidaily.com/convertissez-facilement-et-sans-frais-un-fichier-ram-en-mp4-via-movavi-service-de-conversion-en-ligne-rapide/"><u>Convertissez Facilement Et Sans Frais Un Fichier RAM en MP4 via Movavi - Service De Conversion en Ligne Rapide</u></a></li>
+<li><a href="https://techidaily.com/cr2-bmp/"><u>CR2 BMP 이미지를 원할 수 있는 무료 가용성 강화: 컴퓨터 마음에서</u></a></li>
+<li><a href="https://techidaily.com/create-mp4-video-from-gif-without-cost-with-movavis-easy-web-tool/"><u>Create MP4 Video From GIF Without Cost With Movavi's Easy Web Tool</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y02twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y02Twith/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-c50-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco C50 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-12-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi Redmi 12 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-and-effective-methods-for-restoring-accidentally-deleted-images-on-your-iphone/"><u>Secure & Effective Methods for Restoring Accidentally Deleted Images on Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sonic-sequencing-for-improved-imovie-projects-for-2024/"><u>Sonic Sequencing for Improved iMovie Projects for 2024</u></a></li>
 </ul></div>
 

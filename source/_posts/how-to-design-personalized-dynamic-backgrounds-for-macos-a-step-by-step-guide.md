@@ -1,7 +1,7 @@
 ---
 title: "How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide"
-date: 2024-09-17T22:07:58.277Z
-updated: 2024-09-24T03:06:18.845Z
+date: 2024-09-17T16:00:01.243Z
+updated: 2024-09-23T23:30:41.117Z
 tags:
   - desktop
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
  Dynamic wallpapers in macOS cycle through a series of images to change your desktop background throughout the day, based on criteria such as the time or your system settings. While macOS has a lot of dynamic wallpapers pre-installed, you can also make your own. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What You Need to Make Dynamic Wallpapers
 
  The free [Equinox](https://equinoxmac.com) app is a very simple tool for creating dynamic wallpapers. It's available through the [Mac App Store](https://apps.apple.com/gb/app/equinox-create-wallpaper/id1591510203) or [GitHub](https://github.com/rlxone/Equinox).
@@ -39,20 +32,13 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The Equinox home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-equinox-home-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Equinox works well with photos of the same location that you've shot yourself, stills grabbed from a time-lapse video, or abstract images made in Photoshop. It's also a great use for AI. You can [create images in MidJourney](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/) or [use the ChatGPT-based tool DALL-E](https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/). Lots of AI services can even [polish your existing images](https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-black-boxes-understanding-their-functionality/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Dynamic Wallpaper for macOS
@@ -67,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The opening screen in the Equinox app showing the types of dynamic wallpaper you can make.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-opening-screen-in-the-equinox-app-showing-the-types-of-dynamic-wallpaper-you-can-make.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Solar
 
  Click "Solar" and drag your images into the window. For each image, you will need to fill in the Altitude and Azimuth values.
@@ -79,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![Calculating the Azimuth and Altitude settings in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/calcutating-the-azimuth-and-altitude-settings-in-equinox.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now adjust the time and drag the updated result onto the next image, and repeat until you've done all the images.
 
  When you've done that, close the Calculator window and click "Create." This will open another window, where you can see a preview of your dynamic wallpaper. Click "Set" to apply it immediately, or "Save" to save it as a file.
@@ -93,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![The options to Save or Set your wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-options-to-save-or-set-your-wallpaper-in-equinox.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Time
@@ -117,9 +109,23 @@ Your browser does not support the video tag.
 
 ![An appearance wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-appearance-wallpaper-in-equinox.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For it to work, you need to go to System Settings > Appearance > Appearance > Auto so that your system cycles between light and dark modes.
 
 ![The Light mode and Dark mode settings in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-light-mode-and-dark-mode-settings-in-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -140,17 +146,22 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-new-era-vr-game-engines-whats-revolutionary/"><u>[New] New Era VR Game Engines What's Revolutionary ?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-thriving-in-twitter-live-tv-mode-for-2024/"><u>[New] Thriving in Twitter Live TV Mode for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-srt-to-subcap-conversion-techniques/"><u>2024 Approved SRT to SUBCAP Conversion Techniques</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-ace-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus Ace 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-proplus-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted 12 Pro+ 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://techidaily.com/top-green-screen-apps-compatible-with-pc-android-and-ios-devices/"><u>Top Green Screen Apps Compatible with PC, Android & iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/top-video-converters-for-ts-to-mp4-conversion-reviews-and-comparisons/"><u>Top Video Converters for TS to MP4 Conversion - Reviews and Comparisons</u></a></li>
-<li><a href="https://techidaily.com/transforma-tus-clips-wav-al-formato-avi-sin-costo-alguno-usando-el-convertidor-en-linea-de-movavi/"><u>Transforma Tus Clips WAV Al Formato AVI Sin Costo Alguno Usando El Convertidor en Línea De Movavi</u></a></li>
-<li><a href="https://techidaily.com/transformar-imagenes-de-rw2-a-jpg-sin-coste-adicional-con-la-herramienta-online-de-muoviavi/"><u>Transformar Imágenes De RW2 a JPG Sin Coste Adicional Con La Herramienta Online De MuoviAVI</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/webp-gifmovavi/"><u>オンライン無料WEBP画像直し - GIF形式にMovavi変換する方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonious-handling-of-hues-top-6-mac-video-apps-in-big-sur/"><u>[Updated] Harmonious Handling of Hues Top 6 Mac Video Apps in Big Sur</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-wonders-with-the-nikon-d500/"><u>[Updated] High Definition Wonders with the Nikon D500</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pushing-boundaries-in-media-text-curve-concepts/"><u>[Updated] Pushing Boundaries in Media Text Curve Concepts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pic-perfect-ranking-the-best-photo-stickering-apps-for-iphonesandroids/"><u>2024 Approved Pic Perfect Ranking the Best Photo Stickering Apps for iPhones/Androids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-precision-record-keeper-for-chromebook/"><u>2024 Approved Precision Record Keeper for ChromeBook</u></a></li>
+<li><a href="https://techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversione-liberamente-accessibile-di-audiovideo-da-ogg-a-wma-con-moviconvert-il-metodo-piu-facile/"><u>Conversione Liberamente Accessibile Di Audio/Video Da OGG a WMA Con MoviConvert: Il Metodo Più Facile!</u></a></li>
+<li><a href="https://techidaily.com/convert-cele-mai-bune-5-converters-dvd-in-formati-moldovenesti-integrare-pc-si-acces-online-hd/"><u>Convert Cele Mai Bune – 5 Converters DVD În Formați Moldovenesti Integrare PC Și Acces Online | HD</u></a></li>
+<li><a href="https://techidaily.com/converti-file-m4b-a-mp4-senza-costi-gratuito-con-movavi/"><u>Converti File M4B a MP4 Senza Costi - Gratuito Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertisseur-gratuit-en-ligne-de-fichiers-wav-a-format-mp4-movavi/"><u>Convertisseur Gratuit en Ligne De Fichiers WAV À Format MP4 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertissez-votre-video-mpe-en-gif-gratuit-en-ligne-rapidement-grace-a-movavi-solution-de-conversion-avancee/"><u>Convertissez Votre Vidéo MPE en GIF Gratuit en Ligne Rapidement Grâce À Movavi - Solution De Conversion Avancée</u></a></li>
+<li><a href="https://techidaily.com/descubre-la-forma-rapida-y-gratuita-de-transformar-tus-videos-aifc-en-calidad-m4a-usando-movavi-online-converter/"><u>Descubre La Forma Rápida Y Gratuita De Transformar Tus Videos AIFC en Calidad M4A Usando Movavi Online Converter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/dial-up-discovery-mastering-quick-search-on-social-media-for-2024/"><u>Dial-Up Discovery Mastering Quick Search on Social Media for 2024</u></a></li>
+<li><a href="https://techidaily.com/download-converter-online-free-mp4-to-3gp-transformation-by-movavi/"><u>Download Converter Online: Free MP4 to 3GP Transformation by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-through-cookiebot-technology-integration/"><u>Enhanced User Experience Through Cookiebot Technology Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/getting-started-on-youtube-setting-up-and-generating-income-for-2024/"><u>Getting Started on YouTube Setting Up & Generating Income for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/guiding-principles-for-swapping-gender-on-instagram-facebook-and-snapchat-pics-for-2024/"><u>Guiding Principles for Swapping Gender on Instagram, Facebook & Snapchat Pics for 2024</u></a></li>
 </ul></div>
 

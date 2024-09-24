@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu User Guide: Personalizing Your Folders with Unique Icons"
-date: 2024-09-22T17:33:33.465Z
-updated: 2024-09-24T00:39:52.261Z
+date: 2024-09-20T20:45:19.122Z
+updated: 2024-09-24T08:57:03.930Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 * [Customize Ubuntu the Way You Want](https://twitter-videos.techidaily.com/2024-approved-integrate-twitter-and-snapchat-posting-tweets-as-snaps/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 * To change the folder color, install the "folder-color" utility using the "sudo apt install folder-color" command. Right-click the folder and access the "folder-color" settings. From there, select a suitable color or emblem for your folder.
 
  Want to personalize folder icons on Ubuntu? Try changing the icons or color of your folders. It helps you organize your files better, makes your folders more recognizable, and adds some flair to your Linux desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Change Folder Icons on Ubuntu
 
@@ -56,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![Ubuntu background screen showing various applications on the dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ubuntuhome-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, right-click on the folder you want to customize. Then, click the "Properties" option.
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Inside the "Properties" section, click on the default folder icon.
 
@@ -79,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![Folder icon with new look](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Give a Unique Color to Your Folder Icons on Ubuntu
 
  You may not always want to replace the folder icon entirely. Sometimes you might just prefer to modify the folder color or put a badge on it. If you only want to change the color of a folder, without changing its icon, use the folder-color extension.
@@ -90,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 sudo apt install folder-color
 
 ![Command to install the folder-color extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/picture1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is done, restart the Nautilus file manager using:
 
@@ -110,18 +103,25 @@ nautilus -q
 
 ![Nautilus file manager showing home directory after changing color to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Similarly, you can also add emblems to your folder icon.
 
 ![Nautilus file manager shows the home directory after adding an emblem to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can change the color of multiple folders at once. Select all the folders, then right-click and choose a suitable color for the folders.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Restore a Folder's Icon to Its Default Look
 
@@ -139,6 +139,13 @@ nautilus -q
 
 ![A window for reverting a custom icon to its default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You have successfully restored the folder icon to its original look.
 
 ![Nautilus file manager showing home directory after restoring icon of videos folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1.png) 
@@ -150,10 +157,10 @@ nautilus -q
 ![A window showing the main context menu along with the color tool submenu with the default option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The folder icon with the default color will be restored successfully.
@@ -161,13 +168,6 @@ nautilus -q
 ![Nautilus file manager showing home directory after restoring videos folder color icon to default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16.png) 
 
  The "Default" button of the folder-color extension will also revert any changes made from the folder's "Properties" section. However, any changes made using the folder-color extension, like changing the color, emblem, and others are irreversible through the "Revert" button under folder properties.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Customize Ubuntu the Way You Want
 
@@ -190,19 +190,20 @@ nautilus -q
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-basic-to-breathtaking-storytelling-through-smart-bokeh-use/"><u>[New] From Basic to Breathtaking Storytelling Through Smart Bokeh Use</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-notch-animated-text-settings-for-2024/"><u>[Updated] Top-Notch Animated Text Settings for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-zero-30-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Zero 30 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-launch-errors-demystified-the-definitive-guide-to-entry-point-fixes/"><u>Fortnite Launch Errors Demystified: The Definitive Guide to Entry Point Fixes</u></a></li>
-<li><a href="https://techidaily.com/gratuit-wegomzetten-van-wav-naar-mkv-onlinemaker-movavi/"><u>Gratuit Wegomzetten Van WAV Naar MKV - Onlinemaker Movavi</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-video-descriptions-on-instagram/"><u>In 2024, Mastering Video Descriptions on Instagram</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-blaze-curve-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Blaze Curve 5G FRP Bypass</u></a></li>
-<li><a href="https://techidaily.com/innovative-audio-tricks-for-videos-adding-fun-voices-of-robots-radio-broadcasts-and-chipmunks/"><u>Innovative Audio Tricks for Videos: Adding Fun Voices of Robots, Radio Broadcasts, and Chipmunks</u></a></li>
-<li><a href="https://techidaily.com/kostenloze-omzettingen-van-ape-naar-aiff-formaat-gratuite-online-vervulling-door-movavi/"><u>Kostenloze Omzettingen Van APE Naar AIFF-Formaat - Gratuite Online Vervulling Door Movavi</u></a></li>
-<li><a href="https://techidaily.com/mac-recording-simplified-5-effective-methods-from-movavi/"><u>Mac Recording Simplified: 5 Effective Methods From Movavi</u></a></li>
-<li><a href="https://techidaily.com/melhores-substitutos-do-final-cut-pro-em-tempo-real-para-sistemas-windows-top-16/"><u>Melhores Substitutos Do Final Cut Pro Em Tempo Real Para Sistemas Windows (Top 16)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-100-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[New] Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-expert-tips-save-skype-call-as-mp3-free/"><u>[New] In 2024, Expert Tips Save Skype Call as Mp3 (Free)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/erfect-panning-leading-stabilizers-unveiled/"><u>[New] Perfect Panning Leading Stabilizers Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-appreciate-with-us-open-source-and-subscription-outro-samples/"><u>[Updated] Appreciate with Us Open-Source & Subscription Outro Samples</u></a></li>
+<li><a href="https://techidaily.com/conversione-libera-online-da-mka-a-mkv-scopri-come-usare-movavi-per-lo-streaming-fruibile-gratuitamente/"><u>Conversione Libera Online Da MKA a MKV: Scopri Come Usare Movavi per Lo Streaming Fruibile Gratuitamente</u></a></li>
+<li><a href="https://techidaily.com/convertir-archivo-de-pelicula-ape-a-formato-ogg-sin-coste-guia-movilvi/"><u>Convertir Archivo De Película APE a Formato Ogg Sin Coste: Guía Móvilvi</u></a></li>
+<li><a href="https://techidaily.com/convertisseur-gratuit-de-fichiers-mov-en-flac-en-ligne-moovie/"><u>Convertisseur Gratuit De Fichiers MOV en FLAC en Ligne - Moovie</u></a></li>
+<li><a href="https://techidaily.com/convertissez-vos-fichiers-nsv-en-mp3-sans-frais-decouvrez-comment-avec-notre-guide-rapide/"><u>Convertissez Vos Fichiers NSV en MP3 Sans Frais - Découvrez Comment Avec Notre Guide Rapide!</u></a></li>
+<li><a href="https://techidaily.com/crea-video-ottenendo-il-tuo-tta-online-gratuitamente-con-movavi-fai-un-convertito/"><u>Crea Video Ottenendo Il Tuo TTA Online Gratuitamente Con Movavi - Fai Un Convertito!</u></a></li>
+<li><a href="https://techidaily.com/descargar-musica-de-formato-au-a-flac-sin-coste-guia-integral-de-conversion-online-con-movavi/"><u>Descargar Música De Formato AU a FLAC Sin Coste: Guía Integral De Conversión Online Con Movavi</u></a></li>
+<li><a href="https://fox-http.techidaily.com/diving-deep-into-the-world-of-image-curvature/"><u>Diving Deep Into the World of Image Curvature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/exploring-social-boundaries-sign-up-for-a-facebook-profile-for-2024/"><u>Exploring Social Boundaries Sign Up for a Facebook Profile for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-windows-drivers-for-your-brother-hl-l2380dw-laser-printer-now/"><u>Get the Latest Windows Drivers for Your Brother HL-L2380DW Laser Printer Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v27-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V27</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-oppo-f25-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo F25 Pro 5G Phone Password Using Emergency Call</u></a></li>
 </ul></div>
 

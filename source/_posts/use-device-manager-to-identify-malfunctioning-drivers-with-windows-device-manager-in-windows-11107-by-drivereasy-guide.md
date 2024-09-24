@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-08-01T18:40:56.371Z
+date: 2024-09-22T04:24:40.685Z
 tags: 
   - driver
   - device driver
@@ -19,9 +19,6 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -43,12 +40,13 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 
 To understand why, you first have to understand what drivers actually are…
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -57,14 +55,15 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -81,13 +80,15 @@ This page describes how to do this.
 
 [Download Free Version](https://tools.techidaily.com/drivereasy/download/)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -99,8 +100,12 @@ There are two reasons why…
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -121,44 +126,21 @@ The free version will identify all your outdated drivers, and allow you to downl
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-to-visual-storytelling-key-shot-techniques/"><u>[New] Beginner’s Guide to Visual Storytelling  Key Shot Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-make-every-snap-count-top-15-tips-and-tricks/"><u>[New] In 2024, How to Make Every Snap Count  Top 15 Tips & Tricks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-real-time-capture-from-obs-to-instagram-for-2024/"><u>[New] Real-Time Capture  From OBS to Instagram for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-upload-and-share-videos-on-twitter-made-easy/"><u>[New] Upload & Share  Videos on Twitter Made Easy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-improve-aesthetics-techniques-for-instagram-video-borders-for-2024/"><u>[Updated] Improve Aesthetics  Techniques for Instagram Video Borders for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-personalize-the-save-spot-of-mac-images/"><u>[Updated] In 2024, Personalize the Save Spot of Mac Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-effective-strategies-for-removing-backgrounds-in-images/"><u>2024 Approved  Effective Strategies for Removing Backgrounds in Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-ways-you-can-maintain-your-xbox-series-x-hardware/"><u>5 Ways You Can Maintain Your Xbox Series X Hardware</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-13-pro-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 13 Pro 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-hot-40i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Hot 40i Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Plus Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-15-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-narzo-60x-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme Narzo 60x 5G FRP</u></a></li>
-<li><a href="https://techidaily.com/is-your-tecno-pova-5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Smart 8 HD</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-moto-g14-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Moto G14 on Windows</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-open-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Open</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-x-fold-2-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from X Fold 2</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-s17-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo S17 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-poco-f5-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco F5 Pro 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-xiaomi-13t-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-x100-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo X100 password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/will-xiaomi-civi-3-disney-100th-anniversary-edition-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi Civi 3 Disney 100th Anniversary Edition play AVCHD mts files?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tips-and-tricks-for-perfect-tweets-with-videos/"><u>[Updated] 2024 Approved Tips and Tricks for Perfect Tweets with Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-the-art-of-visual-flow-with-kinemaster/"><u>2024 Approved Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-streamlining-your-social-video-logs-on-facebook/"><u>2024 Approved Streamlining Your Social Video Logs on Facebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuiti-convertitori-ogg-online-per-file-audioformati-aif-movavi/"><u>Gratuiti: Convertitori OGG OnLine per File Audioformati AIF - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-hidden-taskbar-search-in-windows-11/"><u>How to Enable the Hidden Taskbar Search in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/qt-gif-online-movavi/"><u>QT GIF 무료 변환 - Online 자동화: 이제 시청자를 위해 Movavi</u></a></li>
+<li><a href="https://techidaily.com/regolare-le-dimensioni-dei-tuoi-video-una-guida-facile-e-pratica-moviava/"><u>Regolare Le Dimensioni Dei Tuoi Video: Una Guida Facile E Pratica - Movi'Ava</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-complimentary-installation-files-for-the-newest-corsair-keyboard-drivers-on-your-windows-machine/"><u>Secure and Complimentary Installation Files for the Newest CORSAIR Keyboard Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/text-artistry-in-ae-our-top-10-recommendations-for-2024/"><u>Text Artistry in AE Our Top 10 Recommendations for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-12-chromium-extensions-ideal-for-puzzle-enthusiasts/"><u>Top 12 Chromium Extensions Ideal for Puzzle Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/top-13-plataformas-de-streaming-para-substituir-o-youtube-em-2024/"><u>Top 13 Plataformas De Streaming Para Substituir O YouTube Em 2024</u></a></li>
+<li><a href="https://techidaily.com/top-25-free-lightbox-frameworks-and-tools-fur-programmierprojekte-2024-edition/"><u>Top 25 Free Lightbox Frameworks & Tools Für Programmierprojekte - 2024 Edition</u></a></li>
+<li><a href="https://techidaily.com/top-8-techniques-for-converting-mts-files-to-mp4-on-windows-and-mac/"><u>Top 8 Techniques for Converting MTS Files to MP4 on Windows and Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mts-video-editing-software-5-top-rated-options/"><u>Updated MTS Video Editing Software 5 Top-Rated Options</u></a></li>
 </ul></div>
+

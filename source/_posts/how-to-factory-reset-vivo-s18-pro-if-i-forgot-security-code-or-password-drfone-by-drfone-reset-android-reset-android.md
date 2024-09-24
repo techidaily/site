@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Vivo S18 Pro If I Forgot Security Code or Password? | Dr.fone
-date: 2024-08-01T14:42:43.153Z
-updated: 2024-08-02T14:42:43.153Z
+date: 2024-09-18T16:55:39.603Z
+updated: 2024-09-24T17:13:04.383Z
 tags: 
   - reset
 categories:
@@ -26,9 +26,6 @@ A hard reset, also known as a factory reset and a master reset, returns the Vivo
 
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Signs You Need to Reset Phone
 
 You'll probably already know if your phone needs a reset, but if you're unsure, look for some of the following signs. If you recognize any of the following symptoms then a factory reset is probably a good idea.
@@ -70,9 +67,6 @@ Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **M
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
@@ -83,14 +77,8 @@ Also, you can watch this video to learn more details.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/bVYDAhCnKOU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Factory Reset Android Phone
 
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
@@ -115,10 +103,14 @@ If your phone is misbehaving it might be easier to reset it via Recovery Mode. T
 
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
@@ -142,34 +134,22 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Vivo S18 Pro to the Internet and login into your Google account when prompted.
 
 Once you have restarted your mobile, connect it to your PC and open Dr.Fone on your computer. Select Phone Backup, and click on the Restore button to start restoring the data to your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
@@ -180,18 +160,18 @@ Once you've successfully completed your first reset, you'll realize how simple t
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -206,9 +186,6 @@ Transfer Everything from Old Devices to New Devices in 1 Click!
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Resetting your Android device can resolve performance issues and prepare it for resale or gifting. However, a factory reset erases all personal data, making it essential to back up your data before proceeding.
@@ -216,8 +193,6 @@ Resetting your Android device can resolve performance issues and prepare it for 
 Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) are recommended for this purpose. You can perform a factory reset using the settings menu, recovery mode, or Android Device Manager. Remember, a factory reset is irreversible, so take every precaution necessary to safeguard your important data.
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
-
-
 
 ## How to Reset a Vivo S18 Pro Phone That Is Locked
 
@@ -227,9 +202,6 @@ The need to reset a Vivo S18 Pro phone arises in several situations like forgett
 
 In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Things You Should Be Aware of Before Resetting Vivo S18 Pro Phones
 
 Before you start resetting your Vivo S18 Pro device through any of the methods, there are certain important things that should be considered and taken care of. Check them out as below.
@@ -238,16 +210,10 @@ Before you start resetting your Vivo S18 Pro device through any of the methods, 
 - Ensure to clear the cache on your Vivo S18 Pro phone.
 - If your Vivo S18 Pro phone is not locked, make sure to take the backup of the Vivo S18 Pro device to prevent accidental loss of data. If the Vivo S18 Pro device is locked, ensure that from next time you keep taking the backup on regular basis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Reset Vivo S18 Pro Phone When Locked?
 
 Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Vivo S18 Pro phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Reset Vivo S18 Pro using Google's Android Device Manager
 
 The Android Device Manager which is also known as Find My Phone is an excellent feature that is majorly used for locating the lost or the stolen phone. This feature also allows the users to unlock and reset their devices. The Android Device Manager can only function if you know the Google ID and password that was used for device initialization. The feature can be used to erase the Vivo S18 Pro device data and reset it.
@@ -264,8 +230,12 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 With the completion of the above steps, your Vivo S18 Pro phone will reset.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Perform a Hard Reset on Vivo S18 Pro with Hardware Keys
 
 Hard reset which is also termed factory reset is a feature that will reset all the Vivo S18 Pro device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
@@ -279,9 +249,6 @@ Hard reset which is also termed factory reset is a feature that will reset all t
 - **Step 5.** Again, to confirm the hard reset, click on the **Wipe data/factory reset** button.
 - **Step 6.** The process of hard resetting will start and when completed, click on **Reboot system now** for restarting the unlocked phone.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard reset with hardware keys](https://images.wondershare.com/drfone/article/2022/06/hard-reset.jpg)
 
 _**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Vivo S18 Pro device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Vivo S18 Pro FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Vivo S18 Pro codes that can be used to bypass the FRP lock._
@@ -299,8 +266,12 @@ The screen locks can be removed without rooting, and the software is completely 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool for factory reset Vivo S18 Pro Phone When Locked
@@ -321,15 +292,25 @@ The Best Tool for factory reset Vivo S18 Pro Phone When Locked
 
 - **Step 3.** In the next step, select your Vivo S18 Pro phone's brand from the supported list in Dr.Fone to ensure it enters the correct specific mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. How to Reset Vivo S18 Pro Phone at Normal Cases?
 
@@ -345,9 +326,6 @@ To unlock the screen and reset your Vivo S18 Pro phone, the settings menu of the
 
 The steps above will reset your phone to the default factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Reset Vivo S18 Pro phones with factory reset code
 
 There are Android Reset Codes for different brands of phones that can be used for resetting the Vivo S18 Pro device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Vivo S18 Pro phones is **\*#\*#2846579#\*#\***.
@@ -360,16 +338,10 @@ Steps to reset Vivo S18 Pro phone using secret reset code
 
 The above methods can also be tried if you get stuck in a situation on how to factory reset Vivo S18 Pro tablets without password. Also, we recently covered a method of how to bypass the Google account on Vivo S18 Pro after a factory reset, we have now had the opportunity to test this with many people with different models of Android and have found mixed results.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The above given are multiple options that can be used for resetting your Vivo S18 Pro phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Vivo S18 Pro device as it supports removing all types of screen locks in a hassle-free manner.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ## All About Factory Reset, What Is It and What It Does to Your Vivo S18 Pro?
@@ -382,9 +354,6 @@ Therefore, we have gathered all that you need to know about a factory reset. Aft
 
 ## Part 1: What is Vivo S18 Pro Factory Reset?
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Principles of Vivo S18 Pro Factory Reset
 
 Before you reset your Vivo S18 Pro phone, you must ensure your data is all backed up someplace. It can be either on another device or transferred to the cloud. While changing your phone, you can exchange data from your old Vivo S18 Pro without much stretch. If you own a Vivo S18 Pro, a large portion of your data is put away securely in servers.
@@ -403,29 +372,17 @@ Now is the right time to **factory reset Vivo S18 Pro** when you have everything
 
 - On your Vivo S18 Pro, head into the settings application. Look over right down and search for System and click it. Look down and search for Reset options.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset options](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-1.jpg)
 
 - Go to System and tap the "Erase all data" option.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![erase all data](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-3.jpg)
 
 - Note: After tapping this, the following page will allow you to see what will be cleaned from the Vivo S18 Pro device. Make sure everything is covered in your backup.
 - Pick whether you need to delete any downloaded SIMs and tap Erase all data.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-4.jpg)
 
 - You might need to enter your password to complete the reset.
@@ -436,9 +393,6 @@ A factory reset deletes everything from your Vivo S18 Pro device. You might util
 
 A hard reset is a basic rebooting of your cell phone. It doesn't influence the data on your Vivo S18 Pro. You might utilize a hard reset when your Vivo S18 Pro is acting slow. However, it is different from a standard reboot of your Vivo S18 Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Part 2: What can Vivo S18 Pro Factory Reset do?
 
 A factory reset deletes every user information, application, related application data, and settings on your pixel phone. It is like hard drive reformatting in a PC. However, a factory reset fixes different hardware and software-related issues. It also unlocks your phone in case you forget your lock screen password, or you need to **factory reset Vivo S18 Pro** before selling it to protect your privacy.
@@ -449,51 +403,45 @@ A factory reset deletes every user information, application, related application
 
 You can use Dr.Fone Data Eraser to reset your Vivo S18 Pro phone within minutes. Whether you need to sell your old Vivo S18 Pro or want to make it look like a new one, you can delete its files with Dr.Fone - Data Eraser. All private data and downloads are taken out. Moreover, you can delete your Vivo S18 Pro even if its software is corrupted. Additionally, you can erase specific documents on your Vivo S18 Pro also. The other Vivo S18 Pro data and settings will be protected in this case. So, here is the Wondershare Dr.Fone step-by-step guide to doing so:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 - Launch the Wondershare Dr.Fone software and click the "Data Eraser" from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Connect your Vivo S18 Pro and PC using a connector. Please make sure that USB Debugging is on in your Vivo S18 Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![connect your Vivo S18 Pro](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 - The software will automatically read your Vivo S18 Pro phone and start to erase your files. Click "Erase All Data."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![erase all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 - Type in "000000" to affirm your activity and continue.
 
 ![type to confirm](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Then, at that point, Dr.Fone will ask you to click the Factory Reset option on your Vivo S18 Pro. You can also select "Erase All Data" to reset your Vivo S18 Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![erased successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
 ### 2\. [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 As we mentioned before, we recommend you back up your files before a factory reset. You can use Dr.Fone - Phone Backup (Android) to back up data without any hassle and data loss. With this tool, backing up your Vivo S18 Pro has never been simpler. The program makes it simple to back up your Vivo S18 Pro data to the PC and recover supporting data for your Android gadget. Now let's find out how you can back up and upload your Vivo S18 Pro files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 - Open Dr.Fone Phone Backup on your PC, and select the "Phone Backup" option.
@@ -513,12 +461,18 @@ As we mentioned before, we recommend you back up your files before a factory res
 
 ![backup complete](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 Factory resetting is not ideal for some problems, but sometimes it becomes the only possible solution. So, if you have your phone stuck or want to sell your old phone, you need to **factory reset Vivo S18 Pro**. But make sure to back up your phone before going for a reset. You can back up your files before a factory reset using Dr.Fone - Phone Backup (Android).
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -532,47 +486,21 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-defeat-bot-intruders-elevate-video-engagement-for-2024/"><u>[New] Defeat Bot Intruders, Elevate Video Engagement for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-essential-tips-for-youtube-short-fixes/"><u>[New] In 2024, Essential Tips for YouTube Short Fixes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-expand-your-reach-sharing-live-streams-on-facebook/"><u>[New] In 2024, Expand Your Reach  Sharing Live Streams on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-optimizing-your-social-media-wirecast-on-facebook-streaming-for-2024/"><u>[New] Optimizing Your Social Media  Wirecast on Facebook Streaming for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-review-unpacking-the-features-of-android-lightroom/"><u>[Updated] Masterclass Review  Unpacking the Features of Android Lightroom</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-dive-deep-into-single-platform-livestreaming-with-onestream/"><u>2024 Approved  Dive Deep Into Single-Platform Livestreaming with OneStream</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-amend-blurry-mobile-streaming-on-social-platforms/"><u>2024 Approved  How to Amend Blurry Mobile Streaming on Social Platforms</u></a></li>
-<li><a href="https://article-helps.techidaily.com/advanced-techniques-for-lut-use-in-premiere-pro-for-2024/"><u>Advanced Techniques for LUT Use in Premiere Pro for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-14-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-m14-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy M14 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ions-pro-3-unveiled-a-camera-ready-to-conquer-action-scenes/"><u>ION's Pro 3 Unveiled - A Camera Ready to Conquer Action Scenes</u></a></li>
-<li><a href="https://techidaily.com/is-your-nokia-c210-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C210 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-c67-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C67 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-selection-of-secure-online-video-communication-sites/"><u>New 2024 Approved The Ultimate Selection of Secure Online Video Communication Sites</u></a></li>
-<li><a href="https://techidaily.com/remove-motorola-g54-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola G54 5G unlock screen</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-a15-4g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://techidaily.com/samsung-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2013-online-add-signature-to-word-2013-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Online - Add Signature to Word 2013 for Free</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-magic-6-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor Magic 6 Pro without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-samsung-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Samsung without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-lava-agni-2-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Lava Agni 2 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-motorola-g54-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Motorola G54 5G.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-artisanarray-pro-online-creation-powerhouse/"><u>[New] 2024 Approved ArtisanArray Pro Online Creation Powerhouse</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-kinemasters-guide-to-fluid-film-segments/"><u>[New] Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-tunes-with-mac-studios/"><u>[New] Mastering Tunes with Mac Studios</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rethink-your-feed-6-innovative-video-platforms-on-mobile-devices/"><u>2024 Approved Rethink Your Feed 6 Innovative Video Platforms on Mobile Devices</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discerning-true-value-from-recordcasts-promises-for-2024/"><u>Discerning True Value From RecordCast’s Promises for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-secure-connections-to-identity-proof/"><u>From Secure Connections to Identity Proof</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x8b-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X8b without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-through-post-production-color-nuances/"><u>Navigating Through Post-Production Color Nuances</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-not-available-status-codes-in-windows-os/"><u>Resolving 'Not Available' Status Codes in Windows OS</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-y27-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Y27 5G</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-blaze-curve-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Blaze Curve 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+

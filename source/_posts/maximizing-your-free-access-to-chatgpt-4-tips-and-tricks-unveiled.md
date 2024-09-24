@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Free Access to ChatGPT #4 - Tips and Tricks Unveiled!
-date: 2024-09-19T19:24:29.885Z
-updated: 2024-09-24T03:04:43.428Z
+date: 2024-09-18T00:48:01.518Z
+updated: 2024-09-23T21:31:38.794Z
 tags:
   - cutting-edge
 categories:
@@ -19,25 +19,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  "You’ve reached our limit of messages per hour. Please try again later." This familiar warning from ChatGPT 4o can be mildly annoying or downright frustrating. If you were in the zone and the rate limit warning interrupted your workflow, this list is for you.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  ChatGPT 4o Has a Weird Quota System
 
  Even after you pay $20 a month, OpenAI only gives you 80 [ChatGPT 4o](https://some-approaches.techidaily.com/unlock-your-creative-potential-with-the-premier-free-software-lineup-on-mac-for-2024/) messages per three hours. Or almost 25 messages every hour. It’s surprisingly easy to burn through the quota well before that. And if you don’t use up your messages for the three-hour period, they don’t roll over to the next. The counter will just reset every three hours.
 
 !["You've reached your GPT-4o limit" message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-021237.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perhaps even more jarringly, the rate limit message pops up out of nowhere. OpenAI doesn’t show you how many messages you’ve got left and for how long. In fact, it doesn’t even outright specify how many messages you get every hour before a session. I had to do some digging to find out that 80 messages per three hours figure.
 
@@ -63,18 +49,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Poe AI homepage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-022135.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some models are paid and others are free. Some are official, others are user-made. In Poe, they’re all called bots. There’s a GPT 4o bot, a Gemini 1.5 Pro bot, a web search bot, Claude bots, and a ton of other official bots. Then there’s a whole catalog of unofficial bots based on the official models that are good at doing one specific thing.
 
  For instance, I often use the GPT 4o bot for math problems, so it recommends bots specifically trained to do math. I can see a trigonometry bot, calculus professor bot, algebra bot, and dozens of others like it. You can expect similar bot suggestions based on your personal use cases.
 
 ![Recommended bots list on Poe.com.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-022203.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There’s also a whole catalog of AI bots that target every category. Poe has bots for image generation, QR code generation, programming, utilities, learning, advice, coaching, translation, games, research, and even bots that roast you. Many are based on different variants of ChatGPT 4o.
 
@@ -82,13 +68,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Creating a custom bot in Poe AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-022255.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use Poe in the browser or install the app (available on Windows, Android, and iOS).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Lutton AI
 
  The [Lutton AI](https://wrtn.ai/) pleasantly surprised me because it doesn’t seem to have a rate limit. It is based on ChatGPT 4o, but it doesn’t ask you to sign up to use the assistant. Nor does it limit your use in any way. You can upload images and code attachments or enter text prompts. There’s no indication of a limiter on the website and neither does it need to “cool down” while I’m using it. Technically, even if it did, you could always run another instance of the website in a different browser or an incognito window.
 
 ![Wrtn AI homepage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-022352.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The only catch is that the service is in Korean, so you’ll have to translate the interface and the chat. Most browsers have a handy button for instantly translating a website. So I’ve been able to use Lutton without a hiccup.
 
@@ -101,19 +108,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 [AI SDK](https://sdk.vercel.ai/) runs on the cloud platform Vercel. It gives you free but limited access to GPT 4o. Just like Lutton, you don’t need to log in to use ChatGPT 4o (although you can log in if you want to save your chat history).
 
 ![Running ChatGPT 4o on SDK AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-022111.png) 
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This platform also lets you control some advanced settings that you can’t adjust with the official OpenAI clients. You can tweak parameters like the maximum output tokens (units of text) and the temperature (how closely the response matches the prompt). And you can direct message-by-message comparisons with other LLMs.
 
@@ -136,24 +130,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-cataloging-camera-types-for-visual-media/"><u>2024 Approved Cataloging Camera Types for Visual Media</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-curated-list-of-happiness-crying-combo-on-instagram-pages/"><u>A Curated List of Happiness-Crying Combo on Instagram Pages</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-innovation-in-wearables-inside-look-at-the-fitbit-versa/"><u>Affordable Innovation in Wearables: Inside Look at the Fitbit Versa</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-resolving-non-responsive-shutdown-situations-in-windows-10-systems/"><u>Guide To Resolving Non-Responsive Shutdown Situations in Windows 10 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-pova-5-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Pova 5 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>In 2024, Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-v2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic V2 Phone without PIN</u></a></li>
-<li><a href="https://techidaily.com/passaggi-essenziali-per-la-registrazione-dello-schermo-in-windows-tensione-migliorando-lesperienza-utente/"><u>Passaggi Essenziali per La Registrazione Dello Schermo in Windows Tensione, Migliorando L'esperienza Utente.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/ri-codifica-professionale-da-vob-a-flv-con-movavi-strumenti-online-senza-costi/"><u>Ri-Codifica Professionale Da VOB a FLV Con Movavi: Strumenti Online Senza Costi!</u></a></li>
-<li><a href="https://techidaily.com/top-7-essential-tools-for-transforming-flac-audio-into-mp3-format-on-macos/"><u>Top 7 Essential Tools for Transforming FLAC Audio Into MP3 Format on macOS</u></a></li>
-<li><a href="https://techidaily.com/top-editing-video-apps-of-2024-how-to-choose-the-perfect-one-for-your-needs/"><u>Top Editing Video Apps of 2024: How to Choose the Perfect One for Your Needs</u></a></li>
-<li><a href="https://techidaily.com/topo-das-5-criadoras-de-letreiros-mais-influentes-do-youtube-acesse-online/"><u>Topo Das 5 Criadoras De Letreiros Mais Influentes Do YouTube: Acesse Online</u></a></li>
-<li><a href="https://techidaily.com/transformer-des-fichiers-au-format-mp3-sans-frais-sur-movavi-guerilla-seo-pour-les-amateurs-de-musique/"><u>Transformer Des Fichiers Au Format MP3 Sans Frais Sur Movavi : Guérilla SEO Pour Les Amateurs De Musique</u></a></li>
-<li><a href="https://techidaily.com/transformer-un-fichier-alaw-au-format-mp3-gratuitement-sur-internet-movavi/"><u>Transformer Un Fichier Alaw Au Format MP3 Gratuitement Sur Internet - Movavi</u></a></li>
-<li><a href="https://techidaily.com/transformez-facilement-votre-video-wmv-en-differents-formats-avec-le-convertisseur-video-virtuose-tous-les-outils-de-transcodage-par-movavi/"><u>Transformez Facilement Votre Vidéo WMV en Différents Formats Avec Le Convertisseur Vidéo Virtuose | Tous Les Outils De Transcodage Par Movavi</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlocking-user-generated-content-harnessing-community-influence/"><u>Unlocking User-Generated Content Harnessing Community Influence</u></a></li>
-<li><a href="https://techidaily.com/taxistikh-metatroph-live-video-se-mp3-xwris-dwrhma-anapoympoystos-and-eydisk/"><u>Ταχιστική Μετατροπή Live Video Σε MP3 Χωρίς Δώρημα - [Αναπουμπούστος & Εύδιsk]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-elite-voice-recorders-for-apple-devices-unveiled-for-2024/"><u>[New] 5 Elite Voice Recorders for Apple Devices Unveiled for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>[Updated] In 2024, Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-twitch-enthusiasts-recording-guidebook-for-2024/"><u>[Updated] The Twitch Enthusiast's Recording Guidebook for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>Calm Tales on Screen Analyzing Parent-Child Bedtime Videos</u></a></li>
+<li><a href="https://techidaily.com/flac-versus-wav-choosing-the-ideal-audio-format-expert-comparison/"><u>FLAC versus WAV: Choosing the Ideal Audio Format - Expert Comparison</u></a></li>
+<li><a href="https://techidaily.com/free-online-gif-to-avi-video-conversion-easy-with-movavi/"><u>Free Online GIF to AVI Video Conversion - Easy with Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-vob-to-mkv-conversion-with-movavi-effortless-video-format-change/"><u>Free Online VOB to MKV Conversion with Movavi - Effortless Video Format Change</u></a></li>
+<li><a href="https://techidaily.com/gratis-converter-online-para-arquivos-ts-em-flv-movavi/"><u>Gratis Converter Online Para Arquivos TS Em FLV - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-hot-40i-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Hot 40i to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x5-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X5 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-budget-friendly-gaming-capture-software-revealed-for-2024/"><u>Top Budget-Friendly Gaming Capture Software Revealed for 2024</u></a></li>
+<li><a href="https://techidaily.com/flv-movavis-online-converter/"><u>언제나 크레딧없이 FLV 파일을 바로 대화형 원활한 변환 - Movavi's Online Converter</u></a></li>
 </ul></div>
 

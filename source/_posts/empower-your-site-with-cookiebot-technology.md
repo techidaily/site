@@ -1,7 +1,7 @@
 ---
 title: Empower Your Site with Cookiebot Technology
-date: 2024-08-22T08:23:29.509Z
-updated: 2024-08-23T08:23:29.509Z
+date: 2024-09-18T08:22:36.501Z
+updated: 2024-09-23T17:55:28.659Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3b27173b44a827d0fae8995e.jpg
@@ -40,6 +40,13 @@ _Neil Murphy, Global Channel Chief at ABBYY._
 ABBYY’s intelligent process automation platform includes industry-leading intelligent document processing (IDP) and process mining and task mining solutions. These include [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/), the industry’s first low-code/no-code platform that applies AI to understand your documents in a fast and simple way. Vantage makes today’s digital worker and processes smarter by delivering skills that read, understand, and extract insights from documents, helping enterprises accelerate digital transformation. [ABBYY Timeline](https://tools.techidaily.com/abbyy/products/) features advanced process mining and task mining technology using the latest artificial intelligence (AI). It enables businesses to automatically build an interactive digital twin of their processes, analyze them in real time to identify bottlenecks, and predict future outcomes to facilitate decision-making of technology investments.  
 For information visit <https://www.abbyy.com/solutions/intelligent-process-automation-ipa/>.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -51,15 +58,23 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Editorial Contact
 
 ![02E Eva Mariahufschmitt](https://static4.abbyy.com/abbyycommedia/23663/02e-eva-mariahufschmitt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Eva-Maria Hufschmitt
 
 _ABBYY_
@@ -74,8 +89,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,54 +98,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techidaily.com/2024-tips-fortnite-fps-boost/"><u>[2024 Tips] Fortnite FPS Boost</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-nightly-narratives-analyzing-video-based-storytelling/"><u>[New] Nightly Narratives  Analyzing Video-Based Storytelling</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-mac-programming-options-excluding-bandicam/"><u>[Updated] 2024 Approved  Best Mac Programming Options Excluding Bandicam</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-win10s-video-call-ecosystem-a-guide-to-using-zoom/"><u>[Updated] 2024 Approved  Navigating Win10's Video Call Ecosystem  A Guide to Using Zoom</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-download-premium-quality-designs-at-no-cost-for-youtube-creators/"><u>[Updated] In 2024, Download Premium-Quality Designs at No Cost – For YouTube Creators</u></a></li>
-<li><a href="https://techidaily.com/advanced-techniques-to-boost-minecraft-performance-on-powerful-computers/"><u>Advanced Techniques to Boost Minecraft Performance on Powerful Computers</u></a></li>
-<li><a href="https://techidaily.com/blocking-pop-ups-in-chrome-firefox-and-edge-quickly-and-easily/"><u>Blocking Pop-Ups in Chrome, Firefox and Edge | Quickly & Easily</u></a></li>
-<li><a href="https://techidaily.com/boost-your-minecraft-performance-ultimate-guide-to-eliminating-lag-on-powerful-gaming-rigs/"><u>Boost Your Minecraft Performance: Ultimate Guide to Eliminating Lag on Powerful Gaming Rigs</u></a></li>
-<li><a href="https://techidaily.com/1723808339414-cant-remember-the-password-for-gmail-try-these-fixes/"><u>Can't Remember the Password for Gmail? Try These Fixes</u></a></li>
-<li><a href="https://techidaily.com/1723808314748-dealing-with-the-mysterious-hxtrsrexe-in-windows-10-tips-and-solutions-revealed/"><u>Dealing with the Mysterious hxtrsr.exe in Windows 10 - Tips and Solutions Revealed!</u></a></li>
-<li><a href="https://techidaily.com/easily-create-a-password-reset-disk-in-windows-10-step-by-step/"><u>Easily Create a Password Reset Disk in Windows 10 [Step by Step]</u></a></li>
-<li><a href="https://techidaily.com/easy-tips-for-downloading-and-setting-up-hewlett-packards-windows-7-compatible-drives/"><u>Easy Tips for Downloading and Setting Up Hewlett Packard's Windows 7 Compatible Drives</u></a></li>
-<li><a href="https://techidaily.com/easy-to-follow-tutorial-a-detailed-walkthrough-of-using-a-virtual-private-network-vpn-effectively/"><u>Easy-to-Follow Tutorial: A Detailed Walkthrough of Using a Virtual Private Network (VPN) Effectively</u></a></li>
-<li><a href="https://techidaily.com/effortless-driver-update-processes-for-windows-versions-7-8-and-10/"><u>Effortless Driver Update Processes for Windows Versions 7, 8 & 10</u></a></li>
-<li><a href="https://techidaily.com/effortless-file-duplication-from-windows-1n-10-to-secondary-drives-an-ultimate-7-step-process/"><u>Effortless File Duplication From Windows 1N 10 to Secondary Drives: An Ultimate 7-Step Process</u></a></li>
-<li><a href="https://techidaily.com/expert-advice-how-to-get-your-google-chrome-up-and-running-after-an-unexpected-stop/"><u>Expert Advice: How to Get Your Google Chrome Up and Running After an Unexpected Stop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/find-out-which-phones-make-the-best-friends-with-gear-vr/"><u>Find Out Which Phones Make the Best Friends with Gear VR</u></a></li>
-<li><a href="https://techidaily.com/fixes-implemented-for-successful-windows-11-installs-overcoming-initial-errors/"><u>Fixes Implemented for Successful Windows 11 Installs – Overcoming Initial Errors</u></a></li>
-<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
-<li><a href="https://techidaily.com/guide-monitoring-your-pcs-temperature-in-windows-11/"><u>Guide: Monitoring Your PC's Temperature in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/hiberfilsys-windows-11-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 11 & How to Delete It? [Solved]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y200-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y200.</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-display-language-in-windows-7/"><u>How to Change Display Language in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-disable-pop-up-blocker-in-chrome-firefox-edge-and-ie/"><u>How to Disable Pop-Up Blocker in Chrome, Firefox, Edge and IE</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-8-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 8 Plus</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily!</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-11/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40plus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel P40+ Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-implement-shutter-speed-blurring-in-psx/"><u>In 2024, Implement Shutter Speed Blurring in PSX</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-tips-for-professional-adjustments-in-ps/"><u>Quick Tips for Professional Adjustments in PS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/redefining-tv-viewing-lg-bp550-2023-edition/"><u>Redefining TV Viewing - LG BP550 2023 Edition</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-for-integrating-beats-wireless-with-microsofts-latest-operating-systems/"><u>Step-by-Step Guide for Integrating Beats Wireless with Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-on-enabling-fps-counter-in-csglobal-offensive/"><u>Step-by-Step Tutorial on Enabling FPS Counter in CS:Global Offensive</u></a></li>
-<li><a href="https://techidaily.com/swift-direct3d-downloader-simple-and-fast/"><u>Swift Direct3D Downloader - Simple and Fast!</u></a></li>
-<li><a href="https://techidaily.com/the-darcy-weisbach-equation-relates-friction-factor-to-pressure-drop-dp-f-ld-rv2-2/"><u>The Darcy-Weisbach Equation Relates Friction Factor to Pressure Drop: ΔP = F (L/D) (ρV^2 / 2)</u></a></li>
-<li><a href="https://techidaily.com/top-7-solutions-to-resolve-goose-goose-duck-game-lag-issues-on-your-computer/"><u>Top 7 Solutions to Resolve Goose Goose Duck Game Lag Issues on Your Computer</u></a></li>
-<li><a href="https://techidaily.com/troubleshoot-skype-connection-issues-in-windows-11-with-these-5-simple-solutions/"><u>Troubleshoot Skype Connection Issues in Windows 11 with These 5 Simple Solutions</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-full-processor-load-problems-solutions-inside/"><u>Troubleshooting Full Processor Load Problems - Solutions Inside</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-steps-to-resolve-unreal-engine-4-crashes-on-windows/"><u>Troubleshooting Steps to Resolve Unreal Engine 4 Crashes on Windows</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-uninstalling-problematic-amd-driver-in-windows/"><u>Troubleshooting Tips: Uninstalling Problematic AMD Driver in Windows</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-mastering-video-downloads-from-vimeo-with-ease/"><u>Ultimate Guide: Mastering Video Downloads From Vimeo with Ease</u></a></li>
-<li><a href="https://techidaily.com/unlocking-the-secrets-of-windows-10-launch-screen-with-simple-instructions/"><u>Unlocking the Secrets of Windows 10 Launch Screen with Simple Instructions</u></a></li>
-<li><a href="https://techidaily.com/unplugged-adventures-accessing-offline-mode-in-minecraft-for-windows-11-users/"><u>Unplugged Adventures: Accessing Offline Mode in Minecraft for Windows 11 Users</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-expert-picks-top-speech-transcription-tools-for-android-and-ios-users/"><u>Updated 2024 Approved Expert Picks Top Speech Transcription Tools for Android and iOS Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-best-free-video-editors-for-recording-gameplay-for-2024/"><u>Updated S Best Free Video Editors for Recording Gameplay for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/windows-11-creators-edition-revisited-discover-the-innovations-in-insider-preview-build-1503/"><u>Windows 11 Creators Edition Revisited - Discover the Innovations in Insider Preview Build 1503</u></a></li>
-<li><a href="https://techidaily.com/wireless-playstation-4-controllers-setup-made-simple/"><u>Wireless Playstation 4 Controllers Setup Made Simple</u></a></li>
-<li><a href="https://techidaily.com/1723808151422-your-sd-card-not-detected-heres-the-fix/"><u>Your SD Card Not Detected? Here's the Fix</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>[New] Maximize MS Edge Usage Understanding and Using Picture-in-Picture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-art-of-memory-management-increasing-ram-in-minecraft-for-2024/"><u>[New] The Art of Memory Management Increasing RAM in Minecraft for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-ig-potential-strategies-for-accumulating-1000plus-likesmonth/"><u>[Updated] 2024 Approved Unlocking IG Potential Strategies for Accumulating 1,000+ Likes/Month</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-vimeos-edge-over-youtube-what-the-data-says/"><u>[Updated] Vimeo’s Edge Over YouTube? What the Data Says</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-smart-7-hd-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Smart 7 HD FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-8-plus-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 8 Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-amd-directx-error/"><u>Repaired AMD DirectX Error</u></a></li>
+<li><a href="https://techidaily.com/switch-your-audio-effortlessly-upload-and-convert-avi-to-wma-file-types-at-zero-charge-using-our-simple-tool/"><u>Switch Your Audio: Effortlessly Upload and Convert AVI to WMA File Types at Zero Charge Using Our Simple Tool</u></a></li>
+<li><a href="https://techidaily.com/top-12-applicazioni-sniping-gratuite-piu-efficienti-del-2024-solomovi/"><u>Top 12 Applicazioni Sniping Gratuite Più Efficienti Del 2024 - SoloMovi</u></a></li>
+<li><a href="https://techidaily.com/top-9-livres-de-software-mais-populares-para-masterizacao-de-cds-e-dvds-no-computador/"><u>Top 9 Livres De Software Mais Populares Para Masterização De CDs E DVDs No Computador</u></a></li>
+<li><a href="https://techidaily.com/transformacion-facil-de-archivo-mkv-a-mp4-para-usuarios-de-mac-paso-a-paso/"><u>Transformación Fácil De Archivo MKV a MP4 Para Usuarios De Mac: Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/transforme-imagens-de-animacao-gif-em-tiff-off-line-sem-custo-algum-pelo-movavi/"><u>Transforme Imagens De Animação GIF Em TIFF Off-Line Sem Custo Algum Pelo Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-votre-fichier-opus-en-m4a-sans-frais-online-a-linstant-via-movavi/"><u>Transformez Votre Fichier OPUS en M4A Sans Frais - Online À L'Instant via Movavi</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-tuoi-file-ogg-in-aiff-senza-costi-con-il-convertitore-di-movavi-gratuito/"><u>Trasforma I Tuoi File OGG in AIFF Senza Costi Con Il Convertitore Di Movavi Gratuito</u></a></li>
+<li><a href="https://techidaily.com/trasforma-orf-in-png-gratuitamente-online-con-movavi-prove-e-cambia/"><u>Trasforma ORF in PNG Gratuitamente Online Con Movavi - Prove E Cambia</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-choosing-the-right-camera-for-professional-music-video-production/"><u>Ultimate Guide: Choosing the Right Camera for Professional Music Video Production</u></a></li>
+<li><a href="https://techidaily.com/understanding-bmp-files-a-comprehensive-guide-on-the-basics-of-bmp-images-and-viewing-them/"><u>Understanding BMP Files: A Comprehensive Guide on the Basics of .bmp Images & Viewing Them</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unleash-your-creativity-creating-memorable-pfps-on-discord/"><u>Unleash Your Creativity Creating Memorable Pfp's on Discord</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Beware of Fake Help: Social Media Bots Posing as Travel Support Agents"
-date: 2024-09-23T08:47:22.227Z
-updated: 2024-09-24T04:44:53.291Z
+date: 2024-09-22T10:28:05.752Z
+updated: 2024-09-24T08:30:36.213Z
 tags:
   - web
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Spot a Phony Representative
 
  If you’ve been on any social media platform long enough, you’ve likely developed an innate sense for spambots—like a “smell test” of sorts. But even the most studious of us can make a mistake when we’re stressed (such as when dealing with a rough airline experience), and one mistake is all it takes.
@@ -32,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  The vast majority of airlines do not provide individual agents with separate official company accounts for the sake of customer service. If the airline in question is going to reach out to you, it’s almost certainly going to be the primary one. Or possibly an official alternate account with “help” in the name.
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-17.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Official company accounts on many social media platforms should have some form of verification attached to them (i.e. a yellow/gold checkmark or something similar). If the account responding to your grievance isn’t verified, it’s a bot.
 
@@ -42,49 +56,35 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
 
 ![Fake representative account page using a poorly cropped photo of a NBC news anchor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-07.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
 
 ![Fake representative account page showing "Joined August 2024."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -106,20 +106,24 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-convert-songs-to-calls-essential-websites-for-youtubetones-extraction/"><u>[New] 2024 Approved Convert Songs to Calls Essential Websites for YoutubeTones Extraction</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes/"><u>[New] In 2024, Perfecting Sound on Snapchat Master Your Vocal Effects in Minutes</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimize-your-content-creation-for-vimeo-with-best-edits/"><u>[Updated] 2024 Approved Optimize Your Content Creation for Vimeo with Best Edits</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-your-laughs-kinemaster-for-top-memes/"><u>2024 Approved Ace Your Laughs KineMaster for Top Memes</u></a></li>
-<li><a href="https://techidaily.com/gsmpcandroid-movavi-mp3/"><u>移動用GSM音楽をPC/Androidへ変換するための無料ソリューション – Movavi MP3変換</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-critical-ark-bug-a-step-by-step-guide/"><u>Fixing the Critical 'Ark' Bug: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-learning-with-legends-top-history-youtube-content-for-learners/"><u>In 2024, Learning with Legends Top History YouTube Content for Learners</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-facebook-cover-videos-essential-insights/"><u>In 2024, Mastering Facebook Cover Videos Essential Insights</u></a></li>
-<li><a href="https://techidaily.com/megoldas-az-mxf-a-mp4-konvertalasa-modjairol-8-as-kiadasu-konverter-tenyezoknek-a-macwindows-rendszerrel/"><u>Megoldás Az MXF a MP4 Konvertálása Módjairol 8-as Kiadású Konverter Tényezőknek A Mac/Windows Rendszerrel</u></a></li>
-<li><a href="https://techidaily.com/methode-facile-pour-convertir-un-fichier-mpeg-au-format-ogg-en-ligne-gratuit-tutorial-movavi/"><u>Méthode Facile Pour Convertir Un Fichier MPEG Au Format Ogg en Ligne Gratuit – Tutorial Movavi</u></a></li>
-<li><a href="https://techidaily.com/movavi-media-gallery-discover-georgia-pavlous-visual-artistry/"><u>Movavi Media Gallery: Discover Georgia Pavlou's Visual Artistry</u></a></li>
-<li><a href="https://techidaily.com/movavi-veeerfotos-schoon-cr2-in-png-codeeren-zonder-kosten-online-instant/"><u>Movavi: Veeërfoto's Schoon CR2 in PNG Codeeren Zonder Kosten, Online-Instant</u></a></li>
-<li><a href="https://techidaily.com/movavijpegarwf/"><u>Movaviで簡単JPEGをARWFに自由費用で変換</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-nt-fs-service-failure-leading-to-bsod-on-windows-11/"><u>Step-by-Step Guide: Correcting NT FS Service Failure Leading to BSOD on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-to-recover-lost-gpeditmsc-access/"><u>Unlocking Secrets to Recover Lost Gpedit.msc Access</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-save-and-archive-google-voice-chats/"><u>[New] In 2024, How to Save and Archive Google Voice Chats</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>[Updated] Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-video-boosters-say-goodbye-to-slow-mo/"><u>[Updated] Top 8 Video Boosters Say Goodbye to Slow Mo</u></a></li>
+<li><a href="https://techidaily.com/100-innovadoras-propuestas-de-contenido-para-tu-canaleta-de-youtube/"><u>100 Innovadoras Propuestas De Contenido Para Tu Canaleta De Youtube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-for-capturing-stunning-close-up-footage/"><u>2024 Approved Pro Tips for Capturing Stunning Close-Up Footage</u></a></li>
+<li><a href="https://techidaily.com/1726233754916-movavi/"><u>今なりたけ！Movavi 割引キャンペーン - 安価で質の高い動画変換ソフトをお見せします。</u></a></li>
+<li><a href="https://techidaily.com/1726233776782-wma-movavi/"><u>網路無限 WMA格式自由轉換 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233743767-movavi/"><u>易用技巧：以最快速度進行影片逆向和正常切換教程 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233757455-avi-mjpeg/"><u>AVI를 MJPEG로 간단한 방식으로 온라인이 자연스럽게 가동: 무료 변환 서비스</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-determining-the-powershell-versions-available-in-windows-10/"><u>Guide: Determining the PowerShell Versions Available in Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-lava-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Lava?</u></a></li>
+<li><a href="https://techidaily.com/1726233802138-movavi/"><u>Movaviの力を体感せよ! 信頼性高いインフュージョナーからの支持とレビュー</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-free-flv-video-editors-for-beginners-and-pros-alike/"><u>New Best Free FLV Video Editors for Beginners and Pros Alike</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/screenplay-grooves-best-background-tunes-for-yt-shorts-for-2024/"><u>Screenplay Grooves Best Background Tunes For YT Shorts for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktok-refresh-mishap-immediate-solutions-needed/"><u>TikTok Refresh Mishap Immediate Solutions Needed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/1726233762542-webp-jpeg-movavi/"><u>Webp 공간을 절약하기 위한 JPEG 이미지의 비용 없는 온라인 변환 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/wma-vers-m4a-telechargement-gratuit-du-service-de-conversion-en-ligne-de-movavi/"><u>WMA Vers M4A: Téléchargement Gratuit Du Service De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233691843-movavi/"><u>모바비의 사용자 지원 센터: 고객 이해 안보를 제공하는 Movavi의 영역</u></a></li>
 </ul></div>
 

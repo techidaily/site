@@ -1,6 +1,6 @@
 ---
 title: Solutions to open Excel 2016 Read Only Documents
-date: 2024-08-01T17:15:27.226Z
+date: 2024-09-19T17:06:50.103Z
 tags: 
   - repair
   - repair excel
@@ -16,14 +16,8 @@ keywords: repair .xls,repair excel 2003,repair .xlsm
 
 'Excel cannot open read-only documents' is an error message that usually appears when you try to open an Excel (**XLS** or **XLSX**) file downloaded from the Internet, email, or the network server. It may also appear when you try to open an encrypted or password-protected Excel document. In such a case, MS Excel prevents the user from making any changes to the document.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
 There could be several reasons that may cause the error. Some of them are as follows:
@@ -37,6 +31,13 @@ There could be several reasons that may cause the error. Some of them are as fol
 - Protected Excel workbook
 - Damaged or missing MS Office (MS Excel) program files
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solutions to Open and Edit Read-Only Excel Documents
 
 Below are a few solutions that can help you fix the 'Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted' error and allow you to open and edit Excel documents.
@@ -48,18 +49,6 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
 - Right-click on the particular Excel (xls/xlsx) document and select '**Properties'.**
   - Uncheck the '**Read-only'** attribute and then click the '**OK'** button.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
 
 Now try to open the Excel document and check if the problem is fixed.
@@ -77,6 +66,13 @@ To safeguard the system, MS Excel opens such files in **Protected View**. It may
 However, you can click **File > Info** and then click '**Edit Anyway**' to access and edit file content. You may also disable the **Protected View** setting via **_File > Options > Trust Center > Trust Center Settings…> Protected View._** However, we do not recommend this.
 
 ![Protected View](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Protected-view-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Renew/Activate Microsoft Office**
 
@@ -106,17 +102,24 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 - Open Control Panel and click **Uninstall a Program** link under **Programs.**
 - Choose Microsoft Office from the list and click the **Change** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
 
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After the Repair, open the Excel workbook and check if the error is resolved.
 
@@ -129,8 +132,12 @@ The error message may also appear if you access an Excel workbook from a network
 If none of the solutions worked, the Excel workbook could be damaged or corrupt. To repair such damaged Excel workbook or spreadsheet, you can use the inbuilt '**Open and Repair…**’ option in MS Excel or install an **[Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**, such as Stellar Repair for Excel. The software comes in handy when the **Open and Repair** option fails to fix the Excel workbook problems. It repairs the corrupt or damaged Excel workbook, extracts all components and content from the file with 100% integrity, and saves them in a new Excel workbook.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Sometimes, the 'Excel cannot open read-only documents' error can be resolved by a simple restart. But if it doesn't work, you can follow the solutions discussed in this article to resolve the 'Excel cannot open read-only documents' issue.  However, if the issue is caused due to a damaged or corrupt Excel workbook, these methods may not work. In such a case, you can use Excel's inbuilt repair utility, i.e., **Open and Repair,** or install Stellar Repair for Excel software recommended by **MVPs** and **industry experts** to fix all kinds of problems with MS Excel workbooks.
@@ -150,47 +157,22 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-guide-the-best-no-money-recording-software/"><u>[New] 2024 Approved  Essential Guide  The Best No-Money Recording Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-speedy-tracking-visuals-plus-voices/"><u>[New] 2024 Approved  Speedy Tracking  Visuals + Voices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovating-content-tips-for-facebook-slide-show-makers/"><u>[New] In 2024, Innovating Content  Tips for Facebook Slide Show Makers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-making-the-most-of-both-worlds-tweeting-and-sending-videos-with-whatsapp/"><u>[Updated] 2024 Approved  Making the Most of Both Worlds  Tweeting & Sending Videos with WhatsApp</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-blocking-facebooks-advertising-overload-in-real-time-for-2024/"><u>[Updated] Blocking Facebook's Advertising Overload in Real Time for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-diving-deep-into-game-details-with-roblox-zooming-for-2024/"><u>[Updated] Diving Deep Into Game Details with Roblox Zooming for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-peculiar-picasso-creating-quirky-quick-memes/"><u>[Updated] Peculiar Picasso  Creating Quirky, Quick Memes</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a78-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A78 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-zoom-substitutes-for-pcs-tablets-for-2024/"><u>Essential Zoom Substitutes for PCs, Tablets for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-v30t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme V30T Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-14-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 14 Ultra Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-curve-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze Curve 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c22-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C22 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone SE Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g24-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G24 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-poco-f5-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Poco F5 Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/secret-techniques-in-ps-for-first-timers-for-2024/"><u>Secret Techniques in PS for First-Timers for 2024</u></a></li>
-<li><a href="https://techidaily.com/sign-excel-documents-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel Documents Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-spark-10-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-xiaomi-redmi-13c-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-x8b-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on X8b without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-v29e-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo V29e.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-11x-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme 11X 5G</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-x-fold-2-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo X Fold 2</u></a></li>
-<li><a href="https://techidaily.com/vivo-y77t-messages-recovery-recover-deleted-messages-from-vivo-y77t-by-fonelab-android-recover-messages/"><u>Vivo Y77t Messages Recovery - Recover Deleted Messages from Vivo Y77t</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-3-best-ways-to-get-pinterest-video-to-mp3-downloaded/"><u>[Updated] In 2024, 3 Best Ways to Get Pinterest Video to MP3 Downloaded</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-showcase-splendor-best-cover-apps-for-iphones-and-android/"><u>[Updated] In 2024, Showcase Splendor Best Cover Apps for iPhones & Android</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-seamless-sync-tweets-as-videos-on-whatsapp/"><u>[Updated] Seamless Sync Tweets as Videos on WhatsApp</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-s23-fe-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy S23 FE Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/affordable-powerhouse-a-detailed-look-at-the-acer-predator-orion-5000s-value-and-high-end-features/"><u>Affordable Powerhouse: A Detailed Look at the Acer Predator Orion 5000'S Value and High-End Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/enhance-user-experience-with-easy-top-down-scrolls-and-multi-platform-linkage-to-facebook-linkedin-and-youtube/"><u>Enhance User Experience with Easy Top-Down Scrolls & Multi-Platform Linkage to Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-predictive-emoji-issues-7-fast-solutions-for-your-iphoneipad/"><u>Fixing Predictive Emoji Issues: 7 Fast Solutions for Your iPhone/iPad</u></a></li>
+<li><a href="https://techidaily.com/inside-toms-electronics-expert-insights-on-hardware-solutions/"><u>Inside Tom's Electronics: Expert Insights on Hardware Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y100a-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y100A – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/navigate-and-network-simplified-the-ultimate-guide-to-optimizing-menu-functionality-for-top-level-social-media-engagement-on-facebook-linkedin-and-youtube.m1/"><u>Navigate and Network Simplified: The Ultimate Guide to Optimizing Menu Functionality for Top-Level Social Media Engagement on Facebook, LinkedIn, and YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windowsnvidia-compatibility-hurdle/"><u>Overcoming Windows/Nvidia Compatibility Hurdle</u></a></li>
+<li><a href="https://techidaily.com/top-tips-for-optimizing-menu-functionality-on-leading-networks-learn-to-efficiently-scroll-and-manage-content-on-facebook-linkedin-and-youtube/"><u>Top Tips for Optimizing Menu Functionality on Leading Networks – Learn to Efficiently Scroll & Manage Content on Facebook, LinkedIn, and YouTube!</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-steps-when-your-outlook-search-doesnt-work-anymore/"><u>Troubleshooting Steps: When Your Outlook Search Doesn't Work Anymore</u></a></li>
+<li><a href="https://techidaily.com/unveiling-top-gadgets-insights-from-toms-hardware-experts/"><u>Unveiling Top Gadgets: Insights From Tom’s Hardware Experts</u></a></li>
 </ul></div>
+

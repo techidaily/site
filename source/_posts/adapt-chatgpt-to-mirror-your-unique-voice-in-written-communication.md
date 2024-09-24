@@ -1,7 +1,7 @@
 ---
 title: Adapt ChatGPT to Mirror Your Unique Voice in Written Communication
-date: 2024-09-17T19:32:27.061Z
-updated: 2024-09-18T16:22:59.404Z
+date: 2024-09-20T19:46:57.145Z
+updated: 2024-09-24T08:48:52.905Z
 tags:
   - cutting-edge
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Using Text Samples to Teach ChatGPT Your Style](https://youtube-help.techidaily.com/in-2024-instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash/)
 * [Using Generic Tone Prompts to Describe Your Style](https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-a60s-device-by-drfone-android/)
 * [Limitations and Points of Caution](https://facebook-record-videos.techidaily.com/watch-more-not-less-secrets-to-free-youtube-gains-for-2024/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -65,34 +72,28 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We get another affirmative from ChatGPT.
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then follow up with the prompt to start writing, which in this example is:
 
 > Please write a guide on why people no longer need screen protectors for their phones using the sample style.
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As with the previous example, you'll have to judge how successful ChatGPT is for yourself.
 
@@ -112,18 +113,18 @@ Related: [How to Tell If an Article Was Written by ChatGPT](https://facebook-cli
 
 ![ChatGPT 3.5 Output With Tone Specifiers In The Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-11.33.24.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ChatGPT 3.5 Output With Tone Specifiers In The Prompt
 
  That was using ChatGPT 3.5, but here's the same prompt, but with a ChatGPT 4 upgrade:
 
 ![ChatGPT 3.5 Output With Tone Specifiers In The Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-11.33.24.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ChatGPT 3.5 Output With Tone Specifiers In The Prompt
 
@@ -132,6 +133,13 @@ ChatGPT 3.5 Output With Tone Specifiers In The Prompt
  Keep in mind that you can tweak the output on the fly. For example, you ask something like, "Try that again, but use more active voice and less humor," or anything you like, really.
 
 Related: [ChatGPT Network Error: 7 Fixes to Try](https://discord-videos.techidaily.com/updated-decoding-the-secrets-of-discord/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Limitations and Points of Caution
 
@@ -165,13 +173,24 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techidaily.com/1-transform-your-bash-shell-into-a-colorful-spectacle-with-just-one-simple-command/"><u>1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command</u></a></li>
-<li><a href="https://techidaily.com/access-the-pioneering-pc-word-editor-free-and-available-online/"><u>Access the Pioneering PC Word Editor: Free and Available Online!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-cartoon-animation-software-for-android-and-ios/"><u>Best Cartoon Animation Software for Android and iOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-talk-revolutionizing-generative-tech/"><u>Beyond Talk: Revolutionizing Generative Tech</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-the-cryptic-signals-facebooks-re-branding/"><u>Deciphering the Cryptic Signals: Facebook’s Re-Branding?</u></a></li>
-<li><a href="https://techidaily.com/decoding-x-tracing-the-origins-of-linuxs-iconic-symbol/"><u>Decoding X: Tracing the Origins of Linux's Iconic Symbol</u></a></li>
-<li><a href="https://games-able.techidaily.com/designing-family-approved-child-friendly-steam-games/"><u>Designing Family-Approved Child-Friendly Steam Games</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-13-mini-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 13 mini in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-the-world-of-zoom-audio-to-text-tools/"><u>[Updated] 2024 Approved Navigating the World of Zoom Audio to Text Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-tier-editing-suites-in-apples-macos-big-sur-release/"><u>[Updated] Top-Tier Editing Suites in Apple's MacOS Big Sur Release</u></a></li>
+<li><a href="https://techidaily.com/mp3-ogv-movavi/"><u>「お金をかけずに MP3 と OGV 形式で音楽ファイルを簡単に変換:Movavi」</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streamlining-video-communication-in-laptop-using-whatsapp-desktop/"><u>2024 Approved Streamlining Video Communication in Laptop Using WhatsApp Desktop</u></a></li>
+<li><a href="https://techidaily.com/mp4-movavi-aac/"><u>在线无花言不语MP4转换：以 Movavi 为首选，AAC 格式自由免费</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2000-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2000 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone XR to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-7-hd-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 7 HD to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/kostenloze-omzettingen-van-ape-naar-aiff-formaat-gratuite-online-vervulling-door-movavi/"><u>Kostenloze Omzettingen Van APE Naar AIFF-Formaat - Gratuite Online Vervulling Door Movavi</u></a></li>
+<li><a href="https://techidaily.com/mac-recording-simplified-5-effective-methods-from-movavi/"><u>Mac Recording Simplified: 5 Effective Methods From Movavi</u></a></li>
+<li><a href="https://techidaily.com/melhores-substitutos-do-final-cut-pro-em-tempo-real-para-sistemas-windows-top-16/"><u>Melhores Substitutos Do Final Cut Pro Em Tempo Real Para Sistemas Windows (Top 16)</u></a></li>
+<li><a href="https://techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
+<li><a href="https://techidaily.com/movavis-free-tool-for-quickly-transforming-m4r-files-into-mp3-format-on-the-web/"><u>Movavi's Free Tool for Quickly Transforming M4R Files Into MP3 Format on the Web</u></a></li>
+<li><a href="https://techidaily.com/movaviape-flac/"><u>Movaviを使ったオンデマンドAPE FLAC変換: 完全無料オプション</u></a></li>
+<li><a href="https://techidaily.com/mp4-conversion-tool-seamless-mov-to-mp4-upgrade-for-free-with-movavis-online-service/"><u>MP4 Conversion Tool - Seamless MOV to MP4 Upgrade for Free with Movavi's Online Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-disabling-sticky-keys-in-windows-11-with-visual-aids/"><u>Simple Steps: Disabling Sticky Keys in Windows 11 with Visual Aids</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-2024-choice-in-police-body-cameras-a-buyers-guide/"><u>Top 2024 Choice in Police Body Cameras: A Buyer's Guide</u></a></li>
 </ul></div>
 

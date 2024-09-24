@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2024-09-18T21:19:58.760Z
-updated: 2024-09-23T22:58:45.506Z
+date: 2024-09-23T06:19:20.562Z
+updated: 2024-09-23T23:13:42.789Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Much as they would like you to forget, Copilot is not Microsoft’s first crack at a digital assistant. In fact, they’ve built two before this: Clippy and Cortana—the former of which we loved to hate and the latter of which we simply hated (or completely ignored).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Clippy: The Assistant We All Love to Hate
 
  For me, Clippy was a nostalgic part of my childhood. The infamous paperclip would pop up from time to time when I was fiddling with my dad’s desktop without permission, and I loved to watch him morph into different shapes and interact with me.
@@ -29,6 +36,13 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![Clippy, a paperclip with googly eyes and eyebrows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/clippy.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Clippy debuted in Microsoft Office 97 and gave tips to help new users familiarize themselves with the software. Things were all well and good, except for one key detail that Microsoft forgot to consider when building Clippy: humans learn.
 
  As the fledgling PC users slowly became familiar with their computers, they eventually advanced to the point where they no longer needed Clippy's advice. Unfortunately for them, Clippy just didn't care. The relentless little assistant was designed to help, and help it would, regardless of whether you wanted it or not.
@@ -36,10 +50,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Clippy would go on to frustrate users until it was disabled by default in Office XP and retired in Office 2007.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Cortana: The One That Missed the Mark
@@ -62,25 +76,11 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![An unfinished letter in Microsoft Word and a paperclip with a textbox above it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-unfinished-letter-in-microsoft-word-and-a-paperclip-with-a-textbox-above-it.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cortana was much the same. It held the search bar hostage, and there was no simple way to disable it. Microsoft even baked Cortana into the setup process for new PCs so she was impossible to escape.
 
  In my opinion, a good assistant should help you when you need it, and get out of your way when you don’t. No one likes a backseat driver. It might seem counterintuitive, but if Copilot is to succeed, it needs to be as unobtrusive as possible.
 
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Don't Just Tell Me How—Do It for Me
 
@@ -103,10 +103,16 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Microsoft's already had a poor start in this regard. [Recall](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/)–which was supposed to be a huge selling point for the Copilot+ PCs has been [beset by privacy concerns](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/) since its announcement. Even though Recall is different from Copilot, they are so closely intertwined in the new Copilot+ PCs that Copilot can't help but be tainted by association.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Copilot, I Need to Know I Can Trust You
@@ -134,25 +140,17 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>[Updated] 2024 Approved Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-momentary-motion-picture-manuscript/"><u>[Updated] In 2024, Momentary Motion Picture Manuscript</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-htc-vive-redefining-virtual-playtime-with-unmatched-immersion/"><u>2024 Approved HTC Vive Redefining Virtual Playtime with Unmatched Immersion</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-video-length-constraints-explained/"><u>2024 Approved Mastering Instagram Video Length Constraints Explained</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-professional-photography-hacks-perfecting-motion-blur-with-adobe-tools-for-2024/"><u>[New] Professional Photography Hacks Perfecting Motion Blur with Adobe Tools for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/choosing-the-right-video-format-a-comprehensive-guide-on-mp4-vs-mkv/"><u>Choosing the Right Video Format: A Comprehensive Guide on MP4 vs MKV</u></a></li>
+<li><a href="https://techidaily.com/comparando-formatos-de-video-en-que-se-diferencian-mp4-y-wmv/"><u>Comparando Formatos De Video: En Qué Se Diferencian MP4 Y WMV</u></a></li>
+<li><a href="https://techidaily.com/conversione-online-per-la-gratuita-da-wav-a-formato-m4b-senza-problemi-usando-movavi/"><u>Conversione Online per La Gratuità: Da WAV a Formato M4B Senza Problemi Usando Movavi</u></a></li>
 <li><a href="https://techidaily.com/convert-any-video-file-with-movavis-no-cost-nsv-to-mp3-tool-beginner-friendly/"><u>Convert Any Video File with Movavi's No-Cost NSV to MP3 Tool - Beginner Friendly</u></a></li>
-<li><a href="https://techidaily.com/convert-your-videos-faster-m4v-to-webm-for-free-using-movavis-tools/"><u>Convert Your Videos Faster! M4V to WEBM for Free Using Movavi's Tools</u></a></li>
-<li><a href="https://techidaily.com/converti-file-m2p-a-formato-avi-online-e-gratuitamente-con-movavi/"><u>Converti File M2P a Formato AVI Online E Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/copia-video-vob-a-file-mp3-strumenti-di-conversione-liberi-e-premium-movavi/"><u>Copia Video VOB a File MP3: Strumenti Di Conversione Liberi E Premium - Movavi</u></a></li>
-<li><a href="https://techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
-<li><a href="https://techidaily.com/descargar-herramienta-de-conversion-gratuita-convertir-archivo-aiff-a-formato-ogg/"><u>Descargar Herramienta De Conversión Gratuita: Convertir Archivo AIFF a Formato OGG</u></a></li>
-<li><a href="https://techidaily.com/descubre-la-solucion-definitiva-herramientas-expertas-para-abrir-archivos-swf/"><u>Descubre La Solución Definitiva: Herramientas Expertas Para Abrir Archivos SWF</u></a></li>
-<li><a href="https://techidaily.com/easy-video-format-changing-mp2wmv-online-tools-from-movavi-download-now/"><u>Easy Video Format Changing: MP2/WMV Online Tools From Movavi, Download Now!</u></a></li>
-<li><a href="https://techidaily.com/efficient-movavi-video-editing-tutorials-schritt-fur-schritt-lektionen-fur-die-optimale-videobearbeitung/"><u>Efficiënt Movavi Video Editing Tutorials: Schritt Für Schritt Lektionen Für Die Optimale Videobearbeitung</u></a></li>
-<li><a href="https://techidaily.com/effortlessly-convert-your-vob-videos-to-mkv-at-no-cost-using-movavis-web-service/"><u>Effortlessly Convert Your VOB Videos to MKV at No Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-media-content-via-youtube-studio-editing-skills-for-2024/"><u>Elevate Your Media Content via YouTube Studio Editing Skills for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-6-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 6?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-smart-8-hd-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Smart 8 HD to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/master-video-playback-speeds-in-minutes-not-hours-for-2024/"><u>Master Video Playback Speeds in Minutes, Not Hours for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/quick-tips-for-effective-android-video-chatting/"><u>Quick Tips for Effective Android Video Chatting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-laptops-silent-speakers-comprehensive-fixes-for-malfunctioning-headphone-jaxports/"><u>Reviving Your Laptop's Silent Speakers: Comprehensive Fixes for Malfunctioning Headphone JAXPORTS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-techniques-for-captivate-content/"><u>In 2024, Cutting-Edge Techniques for Captivate Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>New In 2024, Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/reel-in-the-solution-to-instagram-video-glitches/"><u>Reel in the Solution to Instagram Video Glitches</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-insiders-guide-to-lengthening-videos-and-freezing-time-on-snapchat-for-2024/"><u>The Insider's Guide to Lengthening Videos and Freezing Time on Snapchat for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-a05s-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel A05s Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

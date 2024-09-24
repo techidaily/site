@@ -1,7 +1,7 @@
 ---
 title: "10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity"
-date: 2024-09-20T06:01:21.755Z
-updated: 2024-09-23T19:56:24.984Z
+date: 2024-09-16T23:01:22.940Z
+updated: 2024-09-23T17:54:47.431Z
 tags:
   - cutting-edge
 categories:
@@ -27,22 +27,15 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
  Microsoft's [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/)\-based AI chatbot is part of what the company calls "New Bing." It's slowly being added to more things, and [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/) is surprisingly useful---if you know what to do with it. We'll show you the ropes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Bing Chat in Google Chrome
 
 ![Chrome running Bing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chrome-with-bing.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As of April 2023, Bing Chat is limited to the Microsoft Edge browser on desktop. If you're one of the millions of people that uses Google Chrome and you want to try the new Bing, you'll need to get clever. There are a couple of [workarounds you can use to get access to Bing Chat in Chrome](https://fox-info.techidaily.com/2024-approved-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/).
 
@@ -59,10 +52,10 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 * **More Balanced**: Informative and friendly, somewhere between the other styles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Generate Images With DALL-E
@@ -77,18 +70,18 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
  Get a particularly cool response from Bing Chat? You can easily share responses with the share button. You can quickly share to Facebook, Twitter, email, and Pinterest, or copy the link to share in any other way you'd like. [Links open in Bing](https://sl.bing.net/kVF1MyTSKei) and the response is given in real-time again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Give Bing Feedback
 
 ![Rate the answer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-27-57.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
  Another thing you can do from responses is rate them. Click the thumbs up and thumbs down icons on the corner of responses to tell Bing if it did a good or bad job answering your prompt. This is supposed to help improve responses over time.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Ask For Changes
 
@@ -96,16 +89,16 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
  You never have to settle for Bing's first response to a prompt. It can be tweaked and changed until you reach the 20-message limit, and you don't have to repeat the prompt every time. Let's say you asked for a recipe for vegetable soup, but the first response didn't include turnips. Simply follow-up by asking "add turnips to the recipe."
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Wipe Bing's Memory
 
 ![Click the &quot;New Topic&quot; button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_13-58-00.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bing Chat has a limit of 20 prompts per conversation. However, you can wipe the slate clean at any time by clicking the "New Topic" button. This will wipe the current conversation, and Bing will start over from scratch with no memory of the previous topic. [Bing can get weird](https://www.reviewgeek.com/145905/i-made-bings-chat-ai-break-every-rule-and-go-insane/) if you change topics too many times in the same conversation.
 
@@ -116,32 +109,33 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 ![Tap the Bing Chat button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-19-23.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Bing Chat isn't limited to only the Microsoft Edge browser. The chatbot can be easily accessed on iPhone and Android with the Bing app as well. First, download the app from the [App Store](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231?at=1010l392g&ct=htg882581) or [Google Play Store](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.microsoft.bing%26hl%3Den%5FUS%26gl%3DUS&cuid=xid:fr1681838202aaa). Sign in and tap the big Bing Chat button in the toolbar to start chatting.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Bing Chat from the Windows Start Menu
 
 ![Click &quot;Chat&quot; in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-49-58.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can initiate Bing Chat conversations from the Start Menu in Windows 11\. Simply open the Start Menu, start typing your prompt, and click the "Chat" button to send it to Bing Chat. Microsoft Edge will open directly to Bing Chat with your prompt already submitted.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Bing Chat from Microsoft Edge
 
@@ -170,17 +164,18 @@ Related: [How to Remove Bing Chat "Discover" Button in Microsoft Edge](https://s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-free-youtube-intro-steps-and-template-guide/"><u>[Updated] Free YouTube Intro Steps and Template Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts-for-2024/"><u>[Updated] Quick and Easy Mac Screen Captures Utilizing Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-understanding-miracast-support-on-windows-7/"><u>Comprehensive Guide: Understanding Miracast Support on Windows 7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cut-down-chaos-learning-background-erasure-with-photopea/"><u>Cut Down Chaos Learning Background Erasure with Photopea</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-zte-nubia-flip-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From ZTE Nubia Flip 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 15</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-in-built-fm-radio-functionality-on-smartphones/"><u>Mastering the Art of In-Built FM Radio Functionality on Smartphones</u></a></li>
-<li><a href="https://techidaily.com/raggiungere-i-primati-seo-con-questi-6-strumenti-chiave-nel-mese-di-settembre-del-2024-unire-due-video/"><u>Raggiungere I Primati SEO Con Questi 6 Strumenti Chiave Nel Mese Di Settembre Del 2024 - Unire Due Video</u></a></li>
-<li><a href="https://techidaily.com/solucoes-de-software-para-abranger-arquivos-embalados-no-swf-abra-agora/"><u>Soluções De Software Para Abranger Arquivos Embalados No SWF - Abra Agora!</u></a></li>
-<li><a href="https://techidaily.com/top-13-mejores-reproductores-de-webcam-para-windows-10-una-guia-completa/"><u>Top 13 Mejores Reproductores De Webcam Para Windows 10: Una Guía Completa</u></a></li>
-<li><a href="https://techidaily.com/top-15-ferramentas-de-correcao-de-audio-e-video-mais-valorizadas-em-2024-livres-ou-premium/"><u>Top 15 Ferramentas De Correção De Áudio E Video - Mais Valorizadas Em 2024: Livres Ou Premium</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-futures-best-on-display-premium-video-cameras-in-2-written-by-michael-a-risley/"><u>[Updated] Future's Best on Display Premium Video Cameras in 2 Written by Michael A. Risley</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-performers-the-leading-8k-camera-lineup/"><u>2024 Approved Best Performers The Leading 8K Camera Lineup</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-portable-balancing-system-for-video-capture/"><u>2024 Approved Portable Balancing System for Video Capture</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-display-issues-how-we-overcame-the-notorious-black-screen/"><u>Fixing Display Issues: How We Overcame the Notorious Black Screen</u></a></li>
+<li><a href="https://techidaily.com/gratuit-online-kunt-u-je-mp4-naar-mkv-verkeren-met-beslistheid-movavi/"><u>Gratuit Online: Kunt U Je MP4 Naar MKV Verkeren Met Beslistheid - Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuita-conversao-de-imagens-para-formato-jpeg-online-facil-com-movavi/"><u>Gratuita Conversão De Imagens Para Formato JPEG Online - Fácil Com Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuite-web-konvertierung-von-nef-zu-png-mit-movavi-best-practices-und-tipps/"><u>Gratuite Web-Konvertierung Von NEF Zu PNG Mit Movavi - Best Practices Und Tipps</u></a></li>
+<li><a href="https://techidaily.com/gratuito-moviola-convertendo-formatos-3gp-e-wma-com-o-movavi/"><u>Gratuito Moviola: Convertendo Formatos 3GP E WMA Com O Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-load-issues-on-sea-of-thieves/"><u>How to Fix Continuous Load Issues on Sea of Thieves</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 13? | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-games-from-crashing-on-your-computer/"><u>How to Stop Games From Crashing on Your Computer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sectionalviewpoint-investigation/"><u>SectionalViewpoint Investigation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,36 +1,18 @@
 ---
 title: "Enhance Your Online Marketing: Smart Analytics Powered by Cookiebot Solutions"
-date: 2024-09-05T06:19:37.929Z
-updated: 2024-09-06T06:19:37.929Z
+date: 2024-09-19T00:29:37.217Z
+updated: 2024-09-24T07:59:32.945Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73a148ad43909fb1af78cba44.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhance Your Online Marketing: Smart Analytics Powered by Cookiebot Solutions
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 Other | Accounts Payable Automation
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY FlexiCapture for Invoices Transforms Sportina Group’s Invoice Processing
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
@@ -44,21 +26,23 @@ Other | Accounts Payable Automation
 ![Sportina](https://static1.abbyy.com/abbyycommedia/20183/sportina-556x304.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Sportina Group](https://static1.abbyy.com/abbyycommedia/20182/sportina_logo-178x36.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 | Name         | Sportina Group           |
 | ------------ | ------------------------ |
 | Headquarters | Southeast Europe         |
@@ -111,6 +95,13 @@ Sportina’s new invoice processing system now includes the components necessary
 
 ![process](https://static1.abbyy.com/abbyycommedia/20186/sportina-diagramm.jpg?width=534&height=283)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Result
 
 Sportina’s previous invoice process took 8 to 15 business days to manually confirm an invoice and enter data into its ERP system. After deploying its new system with a DMS and ABBYY FlexiCapture for Invoices, the apparel company is now able to classify documents without human interference and processes invoices within 5 to 7 business days. Data is extracted from documents with high efficiency and passed to the DMS automatically, thus eliminating any manual entry. Sportina was able to significantly reduce costs and redirect resources to other business critical operations.
@@ -128,21 +119,16 @@ In the near future, Sportina Group plans to use ABBYY products for full text OCR
 [![Accounts Payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/20184/sportina-360x162.jpg)](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") [PDF Version](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Read the document](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") 
 
 ###### Like, share or repost
@@ -165,8 +151,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,40 +160,24 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>[Updated] 2024 Approved  A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-laptop-recording-mastering-screenrec/"><u>[Updated] 2024 Approved  Ultimate Laptop Recording  Mastering ScreenRec</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-vintage-visions-older-tech-modern-memories/"><u>[Updated] 2024 Approved  Vintage Visions  Older Tech, Modern Memories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools-for-2024/"><u>[Updated] From Raw Video to Engaging YouTube Videos with Sony Vegas Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-tiny-snippets-deciphered-important-facts/"><u>[Updated] Tiny Snippets Deciphered  Important Facts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-vivas-video-experience/"><u>[Updated] Understanding Viva's Video Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturequality-assessor-network/"><u>2024 Approved  CaptureQuality Assessor Network</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-discover-7-premium-android-adblocking-tools/"><u>2024 Approved  Discover 7 Premium Android AdBlocking Tools</u></a></li>
-<li><a href="https://techidaily.com/boosting-windows-11-audio-quality-top-tips-for-using-an-equalizer-effectively/"><u>Boosting Windows 11 Audio Quality: Top Tips for Using an Equalizer Effectively</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-capturing-screen-images-using-windows-11/"><u>Complete Guide: Capturing Screen Images Using Windows 11</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-creating-gifs-from-your-photos-and-images/"><u>Complete Tutorial for Creating GIFs From Your Photos and Images</u></a></li>
-<li><a href="https://techidaily.com/easy-tutorial-on-how-to-perform-a-fresh-start-on-your-macbook-air/"><u>Easy Tutorial on How to Perform a Fresh Start on Your MacBook Air</u></a></li>
-<li><a href="https://techidaily.com/fix-non-functional-headphones-on-windows-11-pc-troubleshooting-steps/"><u>Fix: Non-Functional Headphones on Windows 11 PC - Troubleshooting Steps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-se-2020-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone SE (2020) Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/get-your-snipping-tool-back-to-work-with-these-fixes-for-windows-10-and-11-systems/"><u>Get Your Snipping Tool Back to Work with These Fixes for Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-minecraft-play-on-pcs-correcting-driver-errors/"><u>Harmonizing Minecraft Play on PCs, Correcting Driver Errors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-narzo-60-pro-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Narzo 60 Pro 5G Phone</u></a></li>
-<li><a href="https://techidaily.com/1723808353699-how-to-install-mods-for-fallout-4-on-your-pc-beginners-guide/"><u>How to Install Mods for Fallout 4 on Your PC – Beginner’s Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/save-call-transcript-review/"><u>Save Call Transcript Review</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-solutions-to-enhance-fps-and-reduce-stuttering-in-call-of-duty-modern-warfares-cold-war-2nv-update/"><u>Step-by-Step Solutions to Enhance FPS & Reduce Stuttering in Call of Duty: Modern Warfare's Cold War (2Nv) Update</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-on-linking-a-printer-in-windows-11-os/"><u>Step-by-Step Tutorial on Linking a Printer in Windows 11 OS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-art-of-discretion-blurring-faces-in-video-editing-for-2024/"><u>The Art of Discretion Blurring Faces in Video Editing for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-placing-multiple-geo-tags-on-google-maps-easily/"><u>The Ultimate Tutorial for Placing Multiple Geo-Tags on Google Maps Easily</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-tutorial-on-updating-device-drivers-in-windows-10-and-11-systems/"><u>The Ultimate Tutorial on Updating Device Drivers in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y27s-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y27s to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/1723808275190-trouble-with-chatgpt-fix-it-in-five-simple-steps/"><u>Trouble with ChatGPT? Fix It in Five Simple Steps</u></a></li>
-<li><a href="https://techidaily.com/1723808212540-trouble-with-windows-10-booting-up-discover-simple-solutions-now/"><u>Trouble with Windows 10 Booting Up? Discover Simple Solutions Now!</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-dealing-with-unresponsive-spotify-apps-in-windows-environments/"><u>Troubleshooting Tips: Dealing with Unresponsive Spotify Apps in Windows Environments</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-configuring-and-activating-a-virtual-private-network-vpn-on-android-with-ease/"><u>Ultimate Guide: Configuring and Activating a Virtual Private Network (VPN) on Android with Ease</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-resolving-zoom-share-screen-issues/"><u>Ultimate Guide: Resolving 'Zoom Share Screen' Issues</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-setting-up-your-triple-monitor-display/"><u>Ultimate Guide: Setting Up Your Triple-Monitor Display</u></a></li>
-<li><a href="https://techidaily.com/unlock-internet-freedom-in-the-usa-exclusive-free-vpn-trial-offers-for-secure-browsing/"><u>Unlock Internet Freedom in the USA: Exclusive Free VPN Trial Offers for Secure Browsing</u></a></li>
-<li><a href="https://techidaily.com/unlock-your-browsing-guide-to-unblocking-sites-in-chrome/"><u>Unlock Your Browsing: Guide to Unblocking Sites in Chrome</u></a></li>
-<li><a href="https://techidaily.com/unlocking-the-secrets-of-disk-management-a-beginners-tutorial-for-windows-11-users/"><u>Unlocking the Secrets of Disk Management: A Beginner's Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-smart-8-plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Smart 8 Plus Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs-for-2024/"><u>[Updated] Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-temporal-annotation-perfecting-photo-date-insertion/"><u>[Updated] Seamless Temporal Annotation Perfecting Photo Date Insertion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-art-of-causality-loop-demonstrations/"><u>2024 Approved Art of Causality Loop Demonstrations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-step-by-step-guide-to-lut-mastery/"><u>2024 Approved Step-by-Step Guide to LUT Mastery</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x6-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X6</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-reverse-the-ordinary-turning-images-upside-down/"><u>In 2024, Reverse the Ordinary Turning Images Upside Down</u></a></li>
+<li><a href="https://techidaily.com/online-free-conversion-transforming-m4a-files-into-mpeg-format-with-ease/"><u>Online Free Conversion: Transforming M4A Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://techidaily.com/online-gratis-conversion-von-flvvob-dateien-mit-movavi-kostenlose-konvertierung/"><u>Online Gratis Conversion Von FLV/VOB Dateien Mit Movavi - Kostenlose Konvertierung</u></a></li>
+<li><a href="https://techidaily.com/os-melhores-softwares-de-edicao-de-videos-compativeis-com-windows-11-no-ano-de-2024/"><u>Os Melhores Softwares De Edição De Vídeos Compatíveis Com Windows 11 No Ano De 2024</u></a></li>
+<li><a href="https://techidaily.com/passo-a-passo-como-transformar-arquivos-nef-em-jpeg-usando-o-windows-ou-mac/"><u>Passo a Passo: Como Transformar Arquivos NEF Em JPEG Usando O Windows Ou Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-your-photos-utilizing-psxs-erase-feature/"><u>Perfecting Your Photos Utilizing PSX's Erase Feature</u></a></li>
+<li><a href="https://techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/reconsidering-ties-unfriending-someone-from-fb/"><u>Reconsidering Ties: Unfriending Someone From FB</u></a></li>
+<li><a href="https://techidaily.com/secure-and-reliable-multimedia-editing-with-movavi-sikker-solutions/"><u>Secure and Reliable Multimedia Editing with Movavi Sikker Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solutions-facilement-accessibles-pour-les-difficultes-de-lecture-des-dvd-et-disques-sur-votre-playstation-4/"><u>Solutions Facilement Accessibles Pour Les Difficultés De Lecture Des DVD Et Disques Sur Votre PlayStation 4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
+<li><a href="https://techidaily.com/top-11-converteri-mov-gratis-per-mac-windows-e-online-prova-ora/"><u>Top 11 Converteri MOV Gratis per Mac, Windows E Online - Prova Ora</u></a></li>
+<li><a href="https://techidaily.com/mp4-webm/"><u>제공된 단계를 따르면 크리티비전 MP4로 WEBM 영상을 원고 부터 무료로 직접 변환할 수 있습니다</u></a></li>
+<li><a href="https://techidaily.com/swfwebm/"><u>スムーズなオンライン変換: SWFからWEBMへ – モヴェイビーの方法</u></a></li>
 </ul></div>
+

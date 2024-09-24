@@ -1,7 +1,7 @@
 ---
 title: 「電子帳簿保存に迅速採用!PDF活用でシンプル始めよう」
-date: 2024-08-22T08:28:35.622Z
-updated: 2024-08-23T08:28:35.622Z
+date: 2024-09-18T22:20:03.772Z
+updated: 2024-09-24T05:22:28.023Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b60bbb71db163db20304611c.jpg
@@ -17,15 +17,19 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 ![](https://static5.abbyy.com/abbyycommedia/35260/electronic-bookeeping-cover-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1．電子帳簿保存法の背景
 
 昨今、電子データによる取引が一般化してきているため、領収書や請求書などの商取引に使われる帳簿書類がメールで送られてくることは珍しくなくなりましたが、同時に電子データであるため、容易に変更が可能であり税務調査上の問題があります。
 
 そこで政府は、電子データであっても改ざんされていないことを証明できるような仕組みを考え、電子帳簿保存法として施行しました。これにより、企業の帳簿管理において、様々な税法で原則的に紙での保存が義務付けられている帳簿書類は、電子帳簿保存法によって一定の要件を満たせば、パソコンのファイルとして電子保存しておくことができます。
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## ２．電子帳簿保存法に対応するための要件（真実性・可視性）
 
 電子データは紙に比べて簡単に変更できるという特性を持つため、帳簿などの書類に適用する場合は改ざんされていないことを証明する「真実性」が必要になります。国税庁が提示する[真実性の要件](https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/pdf/0021012-095%5F03.pdf)には４つありますが、電子的に対応する方法としてタイムスタンプという暗号化技術を使って文書が変更されていないことを証明するか、もしくは変更があった場合の履歴を残しておくことができるクラウドストレージなどの活用を挙げています。
@@ -35,22 +39,27 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 ![今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用](https://static1.abbyy.com/abbyycommedia/35261/electronic-content-1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 図１．索引簿（[国税庁\_電子帳簿保存法一問一答 問](https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/pdf/0021006-031%5F03.pdf)12より引用）
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ３．各要件（真実性・可視性）への対応方法は？
 
 まず、真実性を証明するためにクラウドストレージを活用する方法について考えてみましょう。Microsoft Word等をご利用の方は[OneDrive](https://support.microsoft.com/ja-jp/office/onedrive-%E3%81%AB%E4%BF%9D%E5%AD%98%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E4%BB%A5%E5%89%8D%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%BE%A9%E5%85%83%E3%81%99%E3%82%8B-159cad6d-d76e-4981-88ef-de6e96c93893)も使える場合が多いと思われますが、ここにPDF化した注文書などを保存しておくと自動的に変更履歴が残ります。ファイルを右クリックして「バージョン履歴」を選択すると、図２のように履歴が表示され、過去のファイルをダウンロードできるようになり、改ざんの有無が証明できます。他の方法としては、弊社[ABBYY FineReader PDF 15](https://tools.techidaily.com/abbyy/products/)の[デジタル署名機能](https://tools.techidaily.com/abbyy/products/)を使って、タイムスタンプサーバーと連携する方法もあります。
 
 ![今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用](https://static1.abbyy.com/abbyycommedia/35262/electronic-content-2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 図２．バージョン履歴
 
 次に、可視性の要件を満たす索引簿を作ってみましょう。弊社の[FineReader PDF 15](https://tools.techidaily.com/abbyy/products/)を使うと、OCR機能を使って紙やFAXから生成された画像ファイルを、検索可能なPDFとして電子保存しておくことで、探し出しやすくなり管理上便利になります。また、書類から必要な項目だけを抜き出してCSVファイルとしても出力できます（図3）。
@@ -65,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 ![今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用](https://static1.abbyy.com/abbyycommedia/35264/electronic-content-4b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 図4．取引書類の一元化と索引簿作成の流れ
 
 ## ４．できるところから始めてみよう！
@@ -83,9 +89,12 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 [エンタープライズ](https://tools.techidaily.com/abbyy/products/) [OCR（文字認識）](https://tools.techidaily.com/abbyy/products/) [支払勘定（Account Payable）](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -140,8 +149,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,51 +158,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-screen-capture-contenders-a-comprehensive-review/"><u>[New] 2024 Approved  Top Screen Capture Contenders  A Comprehensive Review</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-capture-the-crown-of-highlights-iosandroid-covers-for-2024/"><u>[New] Capture the Crown of Highlights  IOS/Android Covers for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-instant-mp3-conversion-of-fb-video-content/"><u>[New] In 2024, Instant MP3 Conversion of FB Video Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-veil-insta-story-exploration-without-trace/"><u>[New] In 2024, Unveiling the Veil  Insta Story Exploration without Trace</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-sightcast-peer-review-system-for-2024/"><u>[New] SightCast Peer Review System for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-tailored-content-creation-how-to-cropped-and-export-videos-for-instagram/"><u>[New] Tailored Content Creation  How to Cropped & Export Videos for Instagram</u></a></li>
-<li><a href="https://techidaily.com/solved-download-directx-12-for-windows-11/"><u>[SOLVED] Download DirectX 12 for Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-soundtrack-strategy-elevating-facebook-videos-with-music/"><u>[Updated] In 2024, The Soundtrack Strategy  Elevating Facebook Videos with Music</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-top-picks-free-download-sites-for-custom-skype-tones/"><u>2024 Approved  Top Picks  Free Download Sites for Custom Skype Tones</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-all-about-kapwing-video-translation/"><u>2024 Approved All About Kapwing Video Translation</u></a></li>
-<li><a href="https://facebook.techidaily.com/cutting-down-on-facebooks-reels-consumption/"><u>Cutting Down on Facebook's Reels Consumption</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-x100-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo X100 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-12-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 12</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-red-magic-9-proplus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Nubia Red Magic 9 Pro+ Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a14-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A14 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>In 2024, Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ative-responses-the-ultimate-guide-to-youtube-reacts-for-2024/"><u>Innovative Responses  The Ultimate Guide to YouTube Reacts for 2024</u></a></li>
-<li><a href="https://techidaily.com/master-safe-mode-on-windows-10-explore-4-effective-methods-and-their-screenshots/"><u>Master Safe Mode on Windows 10: Explore 4 Effective Methods and Their Screenshots</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-pubg-matches-expert-strategies-to-skyrocket-fps-in-2020/"><u>Maximize Your PUBG Matches: Expert Strategies to Skyrocket FPS in 2020</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-disk-space-protecting-files-while-freeing-up-in-win11-max-156-chars/"><u>Optimizing Disk Space: Protecting Files While Freeing Up in Win11 (Max 156 Chars)</u></a></li>
-<li><a href="https://techidaily.com/overcome-high-disk-usage-problems-a-successful-fix-for-windows-10s-task-manager-dilemma/"><u>Overcome High Disk Usage Problems - A Successful Fix for Windows 10’S Task Manager Dilemma</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-overwatch-glitches-fixing-persistent-game-freezes/"><u>Overcoming Overwatch Glitches: Fixing Persistent Game Freezes</u></a></li>
-<li><a href="https://techidaily.com/quick-fix-removing-temporary-data-and-cache-for-a-smoother-windows-10-experience/"><u>Quick Fix: Removing Temporary Data & Cache for a Smoother Windows 10 Experience</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-how-to-seamlessly-translate-pages-with-google-chrome-mozilla-firefox-and-microsoft-edge/"><u>Quick Guide: How to Seamlessly Translate Pages with Google Chrome, Mozilla Firefox, and Microsoft Edge</u></a></li>
-<li><a href="https://techidaily.com/reset-this-pc-windows-11-when-and-how-to-use-it/"><u>Reset This PC Windows 11 - When & How to Use It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revamp-your-game-ultimate-guide-to-resolve-risk-of-rain-2-freezing-issues/"><u>Revamp Your Game: Ultimate Guide to Resolve 'Risk of Rain 2' Freezing Issues</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-discovering-your-pcs-specifications-on-windows-11/"><u>Simple Guide: Discovering Your PC's Specifications on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/simple-steps-for-finding-deleted-microsoft-word-documents-on-windows-10-plus-images/"><u>Simple Steps for Finding Deleted Microsoft Word Documents on Windows 10 + Images!</u></a></li>
-<li><a href="https://techidaily.com/sleeker-starts-for-windows-10-systems-mastering-quick-boots/"><u>Sleeker Starts for Windows 10 Systems – Mastering Quick Boots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/social-media-music-rules-and-regulations/"><u>Social Media Music Rules and Regulations</u></a></li>
-<li><a href="https://techidaily.com/solution-found-thaw-your-stalled-windows-update-now/"><u>Solution Found: Thaw Your Stalled Windows Update Now</u></a></li>
-<li><a href="https://techidaily.com/solving-non-functional-f8-on-windows-11-a-step-by-step-guide-for-successful-access-to-safe-mode/"><u>Solving Non-Functional F8 on Windows 11: A Step-by-Step Guide for Successful Access to Safe Mode</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-capturing-high-quality-videos-directly-from-your-pc/"><u>Step-by-Step Guide: Capturing High-Quality Videos Directly From Your PC</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-creating-a-bootable-win-11-usb-drive-from-iso-file/"><u>Step-by-Step Guide: Creating a Bootable Win 11 USB Drive From ISO File</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-techniques-to-overcome-latency-problems-with-your-logitech-mouse/"><u>Step-by-Step Techniques to Overcome Latency Problems with Your Logitech Mouse</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-on-configuring-a-three-monitor-workstation/"><u>Step-by-Step Tutorial on Configuring a Three-Monitor Workstation</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-on-enablingdisabling-hibernate-mode-for-windows-10-users/"><u>Step-by-Step Tutorial on Enabling/Disabling Hibernate Mode for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/successful-guide-disabling-onedrive-integration-in-windows-11-file-explorer/"><u>Successful Guide: Disabling OneDrive Integration in Windows 11 File Explorer</u></a></li>
-<li><a href="https://techidaily.com/tech-guide-detailed-steps-to-perform-a-complete-factory-reset-on-your-toshiba-computer/"><u>Tech Guide: Detailed Steps to Perform a Complete Factory Reset on Your Toshiba Computer</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/tips-to-handle-unintended-self-presence-in-video-conversations/"><u>Tips to Handle Unintended Self-Presence in Video Conversations</u></a></li>
-<li><a href="https://techidaily.com/top-rated-vpn-services-for-enhancing-your-pc-gaming-experience/"><u>Top Rated VPN Services for Enhancing Your PC Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-resolving-windows-11-desktop-apps-and-data-sync-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Desktop Apps and Data Sync Issues</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-steps-for-reinstating-your-network-cards-driver-on-windows-10-devices/"><u>Troubleshooting Steps for Reinstating Your Network Card's Driver on Windows 10 Devices</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-your-audio-recordings-essential-tips-for-using-microsofts-voice-recording-tool-in-windows-11/"><u>Troubleshooting Your Audio Recordings: Essential Tips for Using Microsoft's Voice Recording Tool in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-step-by-step-instructions-on-downloading-movies-with-utorrent/"><u>Ultimate Guide: Step-by-Step Instructions on Downloading Movies with uTorrent</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-a-simple-way-to-get-kinemaster-on-your-mac-download-and-install/"><u>Updated 2024 Approved A Simple Way to Get KineMaster on Your Mac Download and Install</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a05-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A05 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>[New] New Horizons in Video Codecs Comparing Av1 and VP9</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-first-timers-insights-into-pixel-density-matters-for-2024/"><u>[Updated] First-Timer's Insights Into Pixel Density Matters for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-streamlined-approach-simplifying-film-projects-with-movie-maker-for-2024/"><u>A Streamlined Approach Simplifying Film Projects with Movie Maker for 2024</u></a></li>
+<li><a href="https://techidaily.com/conversao-de-video-wmv-para-formato-3g2-online-e-gratuito-pelo-movavi/"><u>Conversão De Vídeo WMV Para Formato 3G2 Online E Gratuito Pelo Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertidor-m4a-en-webm-gratuito-y-facil-de-usar-para-obtener-mejores-calidad-de-video-online/"><u>Convertidor M4A en WebM Gratuito Y Fácil De Usar Para Obtener Mejores Calidad De Video Online.</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-free-desktop-notetakers-for-windows-11-users-to-enhance-learning-and-organization/"><u>Discover the Best Free Desktop Notetakers for Windows 11 Users to Enhance Learning & Organization</u></a></li>
+<li><a href="https://techidaily.com/diy-green-screen-setup-and-use-in-videos-complete-guide-2024/"><u>DIY Green Screen Setup & Use in Videos - Complete Guide 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-color-shifts-and-warping-on-your-monitor/"><u>Effective Solutions for Correcting Color Shifts & Warping on Your Monitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experts-guide-to-the-15-top-luts-for-gopro-films/"><u>Expert's Guide to The 15 Top LUTs for GoPro Films</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/hdmi-radeon-revival/"><u>HDMI Radeon Revival</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-blaze-2-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Blaze 2 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scriptwriting-essentials-for-realistic-chatter/"><u>In 2024, Scriptwriting Essentials for Realistic Chatter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-uninterrupted-operation/"><u>Windows 11: Uninterrupted Operation</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "1. Monitoring PC Heat: A Guide to Measuring CPU Temperatures in Windows 11"
-date: 2024-09-20T20:39:38.593Z
-updated: 2024-09-23T18:11:42.986Z
+date: 2024-09-18T20:47:47.564Z
+updated: 2024-09-23T21:58:09.314Z
 tags:
   - deals
 categories:
@@ -36,22 +36,29 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![Select System > Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/1-windows-recovery-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the "Recovery" page, next to "Advanced Startup," click "Restart Now." Then, in the open prompt, select "Restart Now."
 
 [Your PC will turn off](https://facebook-video-recording.techidaily.com/roku-meets-social-media-watching-facebook-live-effortlessly/), so make sure you've saved your unsaved work in your open apps.
 
 ![Select "Restart Now."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2-windows-advanced-reboot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When [your PC turns back on](https://smart-video-creator.techidaily.com/updated-in-2024-tone-it-up-5-easy-to-use-online-generators-no-charge/), in the open menu, navigate to Troubleshoot > UEFI Firmware Settings and click "Restart." You'll enter the BIOS/UEFI menu.
 
  Here, you might find your CPU's current temperature next to the "CPU Core Temperature" or a similar option. If you don't find this option on your BIOS/UEFI's main page, check out the other tabs, like "Advanced." If you can't find any temperatures, use one of the third-party tools demonstrated below.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using Core Temp
 
@@ -61,16 +68,16 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![Install Core Temp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/3-install-core-temp-app.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run the Core Temp app. In the app's "Temperature Readings" section, you'll see your current CPU temp.
 
 ![View the CPU temperature in Core Temp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/4-core-temp-cpu-temperature.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The temp numbers are constantly updating, as your CPU's temp keeps fluctuating.
 
@@ -79,10 +86,17 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ![Access the CPU temperature in the system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/5-core-temp-system-tray.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using Speccy to Check CPU Temperature
@@ -109,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![Choose &quot;Run as Administrator&quot; in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/8-run-open-hardware-monitor-as-admin.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "User Account Control" prompt, select "Yes."
 
  On the app screen, in the "Temperatures" section, you'll find the temp of each core of your CPU.
@@ -125,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
  The app also displays other useful information, like the temperature of your hard drive or SSD drive.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check Your CPU Temp in Windows 11 with HWiNFO
@@ -137,29 +144,28 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![Select "Sensors-only" and then click "Start."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-7.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll through the list of the devices until you see "CPU" related terms. It'll show you the current temperature in addition to the minimum and maximum temperature.
 
 ![Look for the section relating to your CPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Frequently Asked Questions
 
 ###  What's a normal temp for my CPU?
 
  The [normal temp for your CPU](https://screen-mirror.techidaily.com/best-3-vivo-v29-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/) varies by what you're doing on your PC. If you're running a processor-intensive app or game, your CPU temp naturally will rise. It's ideal, however, if your CPU's temp stays around 75 degrees Celsius (167 degrees Fahrenheit).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  What's the maximum temperature for a CPU?
 
@@ -184,20 +190,18 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-premium-after-effects-text-enhancements/"><u>[New] In 2024, Premium After Effects Text Enhancements</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-visionary-dialogue-writer/"><u>[Updated] 2024 Approved Visionary Dialogue Writer</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[Updated] In 2024, Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-ranking-the-best-free-passport-picture-services-worldwide/"><u>2024 Approved Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-vr-journey-begins-with-these-top-titles/"><u>2024 Approved VR Journey Begins with These TOP Titles</u></a></li>
-<li><a href="https://techidaily.com/flac-aac-movavi/"><u>移動維馮 FLAC到 AAC格式無間斷地免費轉換 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://techidaily.com/convertirte-facilmente-tu-musica-wav-en-animaciones-flash-swf-gratuito-metodo-experto-por-movavi/"><u>Convertirte Fácilmente Tu Música WAV en Animaciones Flash SWF Gratuito - Método Experto Por Movavi</u></a></li>
-<li><a href="https://techidaily.com/convertissez-gratuitement-vos-fichiers-aif-en-ogg-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers AIF en OGG en Ligne - Avec Movavi</u></a></li>
-<li><a href="https://techidaily.com/crear-videos-en-minutos-guia-expertos-para-usar-movavi-video-suite/"><u>Crear Videos en Minutos: Guía Expertos Para Usar Movavi Video Suite</u></a></li>
-<li><a href="https://techidaily.com/expert-insights-on-movavis-flashback-express-an-in-depth-application-review-and-analysis/"><u>Expert Insights on Movavi's FlashBack Express: An In-Depth Application Review and Analysis</u></a></li>
-<li><a href="https://techidaily.com/f4v-to-avi-transformation-no-cost-fast-processing-with-movavis-web-based-solution/"><u>F4V to AVI Transformation: No Cost, Fast Processing with Movavi's Web-Based Solution</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-transform-m4v-files-into-wmv-format/"><u>Free Online Converter: Transform M4V Files Into WMV Format</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-disclosure-on-the-t5-cameras-action-features-for-2024/"><u>Full Disclosure on the T5 Camera's Action Features for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-post-production-using-luts-in-after-effects/"><u>In 2024, Simplifying Post Production Using LUTs in After Effects</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-play-40c-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor Play 40C Phones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-building-brands-on-the-buzzing-platform-of-instagram-marketing/"><u>[Updated] 2024 Approved Building Brands on the Buzzing Platform of Instagram Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-4k-aerial-experience-with-xiaomis-drone/"><u>2024 Approved The Ultimate 4K Aerial Experience with Xiaomi's Drone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/converti-mpg-in-formati-video-come-mp4-avi-o-mkv-senza-costi-tramite-movavi/"><u>Converti MPG in Formati Video Come MP4, AVI O MKV Senza Costi Tramite Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertir-videos-sin-costo-facilmente-cambio-gratuito-de-formatos-m4v-a-mp4-por-medio-de-servicios-en-linea-como-movavi/"><u>Convertir Vídeos Sin Costo Fácilmente: Cambio Gratuito De Formatos M4V a MP4 Por Medio De Servicios en Línea Como Movavi</u></a></li>
+<li><a href="https://techidaily.com/creation-gratuite-de-site-web-pgm-avec-movavi-convertir-votre-pgm-en-ligne-facilement/"><u>Création Gratuite De Site Web PGM Avec Movavi - Convertir Votre PGM en Ligne Facilement!</u></a></li>
+<li><a href="https://techidaily.com/de-gouden-18-bestaan-de-zeven-sterkste-betaalde-foto-sites-in-nederland/"><u>De Gouden 18: Bestaan De Zeven Sterkste Betaalde Foto Sites in Nederland</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/direct-digital-diaries-2023-edition/"><u>Direct Digital Diaries - 2023 Edition</u></a></li>
+<li><a href="https://techidaily.com/effective-training-video-production-a-step-by-step-guide-with-movavi/"><u>Effective Training Video Production: A Step-by-Step Guide with Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-virtual-reality-use-in-healthcare/"><u>In 2024, Virtual Reality Use in Healthcare</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-11-5g-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme 11 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solving-premiere-pro-2022s-dynamic-link-issues-with-after-effects-now-fixed/"><u>Solving Premiere Pro 2022'S Dynamic Link Issues with After Effects - Now Fixed!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-iron-bank-of-erebor-online-resources-for-got-audio-calls-for-2024/"><u>The Iron Bank of Erebor Online Resources for GoT Audio Calls for 2024</u></a></li>
 </ul></div>
 

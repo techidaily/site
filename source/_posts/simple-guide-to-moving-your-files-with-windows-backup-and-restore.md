@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to Moving Your Files with Windows Backup & Restore
-date: 2024-09-18T03:15:33.199Z
-updated: 2024-09-24T02:31:43.319Z
+date: 2024-09-22T10:59:17.042Z
+updated: 2024-09-24T06:24:43.428Z
 tags:
   - deals
 categories:
@@ -19,16 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,10 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, click "Accounts" and follow the on-screen instructions to sign in.
@@ -59,10 +53,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -79,6 +79,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Use Windows Backup
 
  So, we recommend you use Windows Backup to make the transfer, as this lets you copy more things—from your folders (the same ones that OneDrive would have backed up) to your personal settings and preferences—to your new computer.
@@ -93,6 +100,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
 * The Settings option will let you copy your accessibility settings, any elements you have personalized on your old PC, your language and dictionary preferences, and any other settings you've adjusted.
@@ -106,25 +120,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 4: Restore to Your New PC
 
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -149,17 +149,14 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-audio-downloads-these-24-tools-split-youtube-sounds/"><u>[New] 2024 Approved Effortless Audio Downloads These 24 Tools Split YouTube Sounds</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-whiteboard-tech-in-online-classes-ios-android-and-macbooks/"><u>[Updated] 2024 Approved Mastering Whiteboard Tech in Online Classes IOS, Android, and MacBooks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-step-by-step-guide-to-effective-screen-recording-with-mobizen/"><u>[Updated] In 2024, Step-by-Step Guide to Effective Screen Recording with Mobizen</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-optimal-mics-tailored-to-youtube-professionals/"><u>[Updated] Optimal Mics Tailored to YouTube Professionals</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/canon-mp280-printer-free-downloads-of-updated-drivers-for-windows-11-8-and-7-users/"><u>Canon MP280 Printer: Free Downloads of Updated Drivers for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://techidaily.com/comprendre-les-conditions-du-contrat-de-license-dutilisation-finale-avec-la-logiciel-movavi/"><u>Comprendre Les Conditions Du Contrat De License D'Utilisation Finale Avec La Logiciel Movavi</u></a></li>
-<li><a href="https://techidaily.com/conversao-online-de-imagens-jpeg-para-formato-tiff-gratuita-do-movavi/"><u>Conversão Online De Imagens JPEG Para Formato TIFF Gratuita Do Movavi</u></a></li>
-<li><a href="https://techidaily.com/convertir-videos-sin-costo-facilmente-cambio-gratuito-de-formatos-m4v-a-mp4-por-medio-de-servicios-en-linea-como-movavi/"><u>Convertir Vídeos Sin Costo Fácilmente: Cambio Gratuito De Formatos M4V a MP4 Por Medio De Servicios en Línea Como Movavi</u></a></li>
-<li><a href="https://techidaily.com/creation-gratuite-de-site-web-pgm-avec-movavi-convertir-votre-pgm-en-ligne-facilement/"><u>Création Gratuite De Site Web PGM Avec Movavi - Convertir Votre PGM en Ligne Facilement!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-update-tips-ensuring-your-logitech-m51amouse-is-running-the-latest-software/"><u>Easy Update Tips: Ensuring Your Logitech M51amouse Is Running the Latest Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-a23-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A23 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-switching-between-safe-mode-and-picture-in-picture-on-iosmacos/"><u>In 2024, Switching Between Safe Mode & Picture In Picture on iOS/MacOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-jokejuxtaposer-quickly-craft-memes-for-all-occasions-for-2024/"><u>[New] JokeJuxtaposer Quickly Craft Memes for All Occasions for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-step-by-step-establishing-a-signature-persona-on-youtube/"><u>2024 Approved Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevating-your-itunes-media-library-with-recordings/"><u>Elevating Your iTunes Media Library with Recordings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-smart-8-plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Smart 8 Plus Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-art-of-fixing-damaged-m4v-playback-problems/"><u>Master the Art of Fixing Damaged M4V Playback Problems</u></a></li>
+<li><a href="https://techidaily.com/telecharger-et-convertir-facilement-votre-fichier-m4v-au-format-wav-gratuitement-via-movavi/"><u>Télécharger Et Convertir Facilement Votre Fichier M4V Au Format WAV Gratuitement via Movavi</u></a></li>
+<li><a href="https://techidaily.com/televersement-gratuit-des-fichiers-orf-au-format-jpeg-convertissez-facilement-avec-movavi/"><u>Téléversement Gratuit Des Fichiers ORF Au Format JPEG - Convertissez Facilement Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-list-of-video-encode-utilities-16-free-options-for-you/"><u>The Ultimate List of Video Encode Utilities: 16 FREE Options for You!</u></a></li>
+<li><a href="https://techidaily.com/top-12-editor-friendly-displays-budget-and-professional-options/"><u>Top 12 Editor-Friendly Displays: Budget and Professional Options</u></a></li>
 </ul></div>
 

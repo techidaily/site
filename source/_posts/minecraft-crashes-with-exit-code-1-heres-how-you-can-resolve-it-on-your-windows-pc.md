@@ -1,7 +1,7 @@
 ---
 title: Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
-date: 2024-09-20T04:34:31.696Z
-updated: 2024-09-24T00:03:30.358Z
+date: 2024-09-17T01:53:25.715Z
+updated: 2024-09-24T03:39:15.889Z
 tags:
   - desktop
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Change the Java Executable File](https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/)
 * [Reinstall Minecraft](https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The _Minecraft_ Exit Code 1 error often appears when the mod version you're using is different from the game version. You should make sure the mod version you use matches your _Minecraft_ version.
@@ -41,11 +34,25 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Exit Code 1 on Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-code-1-on-minecraft.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For example, if you have _Minecraft_ version 1.20.6 installed on your computer and you have a mod made for version 1.19.4, you might see the error. In this case, you'll need to manually update the outdated mod to its latest version.
 
  To do this, you'll first need to check the _Minecraft_ version installed on your computer. Open _Minecraft_, click the "Installations" tab, and check the "Latest Release" entry to see your _Minecraft_ version.
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
@@ -54,16 +61,10 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Mods folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mods-folder-in-the-file-explorer.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the mods folder, go through the names of all the mods and check the version number. If you find a mod with a different version number than the _Minecraft_ version installed on your computer, it's probably the culprit behind the error.
@@ -71,22 +72,15 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll need to replace that mod with its latest version to fix the problem. For this, take note of the name of that mod, and then visit the [CurseForge website](https://www.curseforge.com/minecraft). Type the name of that mod and hit the search icon.
 
 ![Search icon on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/search-icon-the-curseforge-website.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose the relevant mod from the result that appears. Switch to the "Files" tab. You'll see different versions of that mod. You need to click on that version which corresponds with the version of _Minecraft_ you're using.
 
@@ -97,13 +91,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Detect and Delete the Problematic Mod
 
@@ -153,6 +140,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Change the Java Executable File
 
  Whenever you install _Minecraft_, it automatically installs the required Java Runtime Executable (JRE) on your computer and uses it to run the game. However, there may be instances where the launcher fails to detect the JRE, or perhaps it's searching in an incorrect location.
@@ -162,10 +156,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Installations tab in the Minecraft Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installations-tab-in-the-minecraft-launcher.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the three dots next to the "Latest release" entry and choose "Edit."
@@ -182,9 +182,23 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
     
 ![Open option in the Open File window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-option-in-the-open-file-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "Save" button.
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, restart the game and check for the issue again.
 
@@ -196,13 +210,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
 ![Delete option to delete the Mincraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-option-to-delete-the-mincraft-folder.jpg) 
@@ -210,13 +217,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
 ![Minecraft log in page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/minecraft-log-in-page.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have installed _Minecraft_, you can move the "Saves" folder to the following location:
 
@@ -243,17 +243,20 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/oost-your-mobile-film-game-best-9-camera-add-ons-for-vloggers/"><u>[New] Boost Your Mobile Film Game Best 9 Camera Add-Ons For Vloggers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ice-games-2022-top-moments-revealed/"><u>[Updated] In 2024, Ice Games 2022 Top Moments Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-edge-with-free-best-premiere-pro-resources/"><u>2024 Approved Professional Edge with FREE, Best Premiere Pro Resources</u></a></li>
-<li><a href="https://techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
-<li><a href="https://techidaily.com/descargar-herramienta-de-conversion-gratuita-convertir-archivo-aiff-a-formato-ogg/"><u>Descargar Herramienta De Conversión Gratuita: Convertir Archivo AIFF a Formato OGG</u></a></li>
-<li><a href="https://techidaily.com/descubre-la-solucion-definitiva-herramientas-expertas-para-abrir-archivos-swf/"><u>Descubre La Solución Definitiva: Herramientas Expertas Para Abrir Archivos SWF</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-ft232r-usb-to-uart-bridge-driver-instantly/"><u>Download the FT232R USB-to-UART Bridge Driver Instantly</u></a></li>
-<li><a href="https://techidaily.com/easy-video-format-changing-mp2wmv-online-tools-from-movavi-download-now/"><u>Easy Video Format Changing: MP2/WMV Online Tools From Movavi, Download Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970005998-get-the-newest-software-update-for-your-brother-hl-l2370dw-printer-now-available/"><u>Get the Newest Software Update for Your Brother HL-L2370DW Printer - Now Available!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-se-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone SE - 4 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-14-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi 14 Pro Device</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone SE to Android | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business/"><u>[New] The Entrepreneur's Playbook Gather These Vital Products to Thrive in Business</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-6-top-mc-village-home-structures-unveiled-for-2024/"><u>[Updated] 6 Top MC Village Home Structures Unveiled for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-virtuverse-video-vault/"><u>[Updated] VirtuVerse Video Vault</u></a></li>
+<li><a href="https://techidaily.com/ogvwebm-movavi/"><u>立即在線將OGV文件更改為WEBM，利用 Movavi 優化易用的影片編輯工具</u></a></li>
+<li><a href="https://techidaily.com/ogg-gifmovavi/"><u>免費線上移動 OGG到 GIF：使用Movavi 影像轉換工具</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-next-generation-of-ai-introducing-googles-palm-2-large-language-architecture/"><u>Exploring the Next Generation of AI: Introducing Google's PALM 2 Large Language Architecture</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-smart-7-hd-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Smart 7 HD to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/mastering-the-art-of-captivating-video-edits-a-guide-to-impressive-visual-flair/"><u>Mastering the Art of Captivating Video Edits: A Guide to Impressive Visual Flair</u></a></li>
+<li><a href="https://techidaily.com/migliori-programmi-con-ia-per-costruire-canzoni-digitalmente/"><u>Migliori Programmi Con IA Per Costruire Canzoni Digitalmente</u></a></li>
+<li><a href="https://techidaily.com/movavi-payment-methods-secure-and-flexible-online-transactions/"><u>Movavi Payment Methods - Secure & Flexible Online Transactions</u></a></li>
+<li><a href="https://techidaily.com/noiseless-video-record-of-your-screens-easy-fix-and-tutorial-by-movavi/"><u>Noiseless Video Record of Your Screens - Easy Fix & Tutorial by Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-foundation-defining-electronic-storytelling/"><u>The Foundation Defining Electronic Storytelling</u></a></li>
+<li><a href="https://extra-information.techidaily.com/what-is-apple-m1-chip/"><u>What Is Apple M1 Chip?</u></a></li>
+<li><a href="https://techidaily.com/online-flac-movavi/"><u>무료 앱을 사용하여 Online FLAC 크리티비톡 편집 - Movavi</u></a></li>
 </ul></div>
 

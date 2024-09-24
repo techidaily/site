@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment"
-date: 2024-09-11T16:31:54.973Z
-updated: 2024-09-18T18:53:55.627Z
+date: 2024-09-20T16:07:44.331Z
+updated: 2024-09-24T10:52:03.737Z
 tags:
   - cutting-edge
 categories:
@@ -51,13 +51,6 @@ python --version
 
 ![Checking the version of Python in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/1-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If Python isn't installed, you can install it using this command.
 
 sudo apt install python3
@@ -68,11 +61,31 @@ pip --version
 
 ![Checking the version of pip in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2-6.png) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It wasn't installed on our test computer, so we added it using `apt`.
 
 sudo apt install python3-pip
 
 ![Installing pip on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/3-5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We're going to install ShellGPT in a [Python virtual environment](https://docs.python.org/3/library/venv.html). This sandboxes ShellGPT from your system Python files and libraries, and means it cannot accidentally interfere with your other Python programs. It's just a safe precaution.
 
@@ -92,18 +105,18 @@ cd shellgpt
 
 ![Creating the shellgpt directory](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/5-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, we use the `-m` (module) option and run the Python virtual environment module and create a new virtual environment inside our new directory. We created one called "shellgpt."
 
 python3 -m venv shellgpt
 
 ![Generating the shellgpt virtual environment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/6-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This gives us a private, virtual environment called "shellgpt", inside our "shellgpt" directory. To activate it we need to run a script called "activate." This is located in the "bin" directory of our virtual environment.
 
@@ -127,6 +140,13 @@ source shellgpt/bin/activate
 
 ![The ChatGPT "Create new secret key" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/8-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type in a name for your key---it can be anything---and then click the green "Create Secret Key" button.
 
 ![providing a name for the API key, with the "Create secret key" button highlghited](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/9-3.png) 
@@ -144,10 +164,10 @@ export OPENAI_API_KEY=<your secret API key>
 ![Exporting the ChatGPT API key on the command line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/10-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To put the export command in your ".bashrc" file, use your favorite editor and add the command to your file.
@@ -156,18 +176,18 @@ gedit ~/.bashrc
 
 ![Adding the export ChatGPT line to the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/11-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Save your changes and close the editor. To force your terminal session to reread your ".bashrc" file, use the `source` command.
 
  source \~/.bashrc
 
 ![Using source to force the shell to read the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/12-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 5: Install ShellGPT
 
@@ -203,6 +223,13 @@ alias chatgpt="cd ~/shellgpt/;source shellgpt/bin/activate"
 
 ![Adding an alias to the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/17-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Remember to use the names of the directory and virtual environment that you created. We called our alias "chatgpt", but you can use whatever name you prefer. Save your changes, and use `source ` to read the ".bashrc" file again.
 
 source ~/.bashrc
@@ -214,13 +241,6 @@ source ~/.bashrc
 chatgpt
 
 ![Using the chatgpt alias to access ShellGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/19-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Learning ShellGPT Commands
 
@@ -239,6 +259,13 @@ sgpt --code "Show me an example of a recursive function in C"
 ![Using ChatGPT to generate a recursive function in C, with the --code option so only the function code is displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/21-2.png) 
 
  ShellGPT, through ChatGPT, can also generate [syntax-correct Bash commands and shell scripts](https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  "In Conclusion"
 
@@ -263,16 +290,20 @@ sgpt --code "Show me an example of a recursive function in C"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-defining-techniques-for-e-narrative-construction/"><u>[New] Defining Techniques for E-Narrative Construction</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effortless-access-to-videos-find-your-perfect-chromium-extension-for-fb-vids/"><u>[New] In 2024, Effortless Access to Videos Find Your Perfect Chromium Extension for FB Vids</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-astro-a40-microphone-issues-step-by-step-troubleshooting-guide/"><u>Fixing Astro A40 Microphone Issues: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-arduino-usb-driver-on-your-pc/"><u>How to Install the Latest Arduino USB Driver on Your PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-7-places-to-find-royalty-free-sound-effects-for-youtube-videos/"><u>In 2024, 7 Places to Find Royalty Free Sound Effects for YouTube Videos</u></a></li>
-<li><a href="https://techidaily.com/mastering-login-names-how-to-update-your-username-in-windows-1110-efficiently/"><u>Mastering Login Names: How to Update Your Username in Windows 11/10 Efficiently</u></a></li>
-<li><a href="https://techidaily.com/mastering-wsl-a-comprehensive-tutorial-for-using-linux-bash-shell-on-windows-10-systems/"><u>Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems</u></a></li>
-<li><a href="https://techidaily.com/microsoft-announces-prolonged-support-and-updates-for-surface-computers/"><u>Microsoft Announces Prolonged Support and Updates for Surface Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-ps5-connectivity-wi-fi-troubleshooting-steps/"><u>Navigating PS5 Connectivity: Wi-Fi Troubleshooting Steps</u></a></li>
-<li><a href="https://techidaily.com/preserving-your-group-policy-preferences-a-step-by-step-guide-to-backing-up-gpos-in-windows/"><u>Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-logitech-g-hub-connection-problems-under-windows-os/"><u>Resolving Logitech G Hub Connection Problems Under Windows OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-secrets-sharing-restricted-youtube-content-via-email/"><u>[New] In 2024, Unveiling Secrets Sharing Restricted YouTube Content via Email</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unveiling-strategies-to-stand-out-with-a-great-podcast-name/"><u>[New] In 2024, Unveiling Strategies to Stand Out with a Great Podcast Name</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-steps-to-extract-and-save-your-youtube-watch-lists/"><u>[Updated] In 2024, Easy Steps to Extract and Save Your YouTube Watch Lists</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes/"><u>[Updated] Top Thumbnails The Ultimate Guide to Optimal YouTube Sizes</u></a></li>
+<li><a href="https://techidaily.com/1-free-online-conversion-change-webm-files-into-high-quality-flac-audio-format/"><u>1. Free Online Conversion: Change WebM Files Into High-Quality FLAC Audio Format</u></a></li>
+<li><a href="https://techidaily.com/1726233776228-flv-movavi/"><u>簡便無需下載的線上 FLV格式自由切換器 - Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-k11x-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo K11x to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-for-eye-catching-podcast-artwork/"><u>In 2024, Innovative Ideas for Eye-Catching Podcast Artwork</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-master-guide-to-choosing-your-mp4-player/"><u>In 2024, Master Guide to Choosing Your MP4 Player</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-innovators-guide-to-non-intrusive-audio-modulation-in-modern-videos-for-2024/"><u>New The Innovators Guide to Non-Intrusive Audio Modulation in Modern Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-file-ogv-in-mp4-gratuitamente-guida-completa-di-movavi/"><u>Trasforma I File OGV in MP4 Gratuitamente: Guida Completa Di Movavi</u></a></li>
+<li><a href="https://techidaily.com/verdingvrije-webbedienst-voor-mxf-gif-converter-met-movavi/"><u>Verdingvrije Webbedienst Voor MXF-GIF Converter Met Movavi</u></a></li>
+<li><a href="https://techidaily.com/yayincilik-sisteminde-cizgi-film-yapisi-animasyon-hareketleri-arasindaki-teknoloji-ve-kunlu-olana-aciklar/"><u>Yayıncılık Sistemi'nde Çizgi Film Yapısı | Animasyon Hareketleri Arasındaki Teknoloji Ve Künlü Olana Açıklar</u></a></li>
+<li><a href="https://techidaily.com/1726233744406-png-pgm-movavi/"><u>웹 안에서 비용 없이 PNG을 PGM로 전환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-09-23T04:07:29.539Z
-updated: 2024-09-23T20:44:50.163Z
+date: 2024-09-18T19:13:26.039Z
+updated: 2024-09-23T22:02:28.485Z
 tags:
   - deals
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To delete a file or folder, use the "Remove-Item PATH" cmdlet in PowerShell. In this command, replace "PATH" with the full path to the file or folder you want to remove.
@@ -42,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, [open a File Explorer window](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) and locate the file or folder whose path you want to find. Then, hold down the Shift key on your keyboard, right-click your file or folder, and choose "Copy as Path."
 
 !['Copy as Path' highlighted in Windows' context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-copy-file-folder-path-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
 
@@ -63,6 +63,19 @@ Remove-Item "C:\Users\username\Desktop\Old-List.txt"
 
 Remove-Item "C:\Users\username\Desktop\Old-List.txt" -Confirm
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Delete a Specific Folder Using PowerShell
 
  You can use PowerShell’s "Remove-Item" cmdlet to remove any directory from your PC.
@@ -78,6 +91,13 @@ Remove-Item PATH
 Remove-Item "C:\Users\username\Desktop\Old Files"
 
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Delete All Files in a Folder But Keep the Folder
 
@@ -96,10 +116,10 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files From a Folder and Its Subfolders
@@ -117,20 +137,6 @@ Remove-Item PATH -Recurse -Include *.*
 Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
 
@@ -169,18 +175,14 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-best-free-video-editing-software-for-youtube-top-8-reviews-for-2024/"><u>[New] The Best Free Video Editing Software for YouTube (Top 8 Reviews) for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-expanding-photography-quality/"><u>[Updated] 2024 Approved Expanding Photography Quality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-empowering-your-firestick-for-full-scale-projection-on-hd-or-dlp-screens/"><u>Comprehensive Tutorial: Empowering Your Firestick for Full-Scale Projection on HD or DLP Screens</u></a></li>
-<li><a href="https://techidaily.com/gifisation-de-vos-videos-guide-pratique-sur-movavi-converter/"><u>GIFisation De Vos Videos : Guide Pratique Sur Movavi Converter</u></a></li>
-<li><a href="https://techidaily.com/gratuit-vertaling-van-3gp-naar-flv-onderhoud-vrije-online-tools-movavi/"><u>Gratuit Vertaling Van 3GP Naar FLV: Onderhoud Vrije Online Tools - Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuita-online-conversao-aif-em-ogg-pelo-servico-web-de-movavi/"><u>Gratuita Online: Conversão AIF Em OGG Pelo Serviço Web De Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuito-conversor-de-formatos-mxf-para-wav-online-movavi/"><u>Gratuito Conversor De Formatos MXF Para WAV Online - Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuito-conversor-online-de-imagens-pcx-para-png-do-movavi/"><u>Gratuito Conversor Online De Imagens PCX Para PNG Do Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuito-download-de-conversor-tiff-online-movavi-image-editing/"><u>Gratuito Download De Conversor TiFF Online - Movavi Image Editing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-6-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 6 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterful-selection-top-15-accessories-for-gopro-enthusiasts-for-2024/"><u>Masterful Selection Top 15 Accessories for GoPro Enthusiasts for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722742845022-the-ultimate-guide-to-nintendos-iconic-game-and-watch-exploring-the-legendary-super-mario-bros/"><u>The Ultimate Guide to Nintendo's Iconic Game & Watch: Exploring the Legendary Super Mario Bros.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-usb-wi-fi-navigators-the-ultimate-list/"><u>Top Rated USB Wi-Fi Navigators: The Ultimate List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-disabling-and-erasing-your-old-unused-linkedin-profile/"><u>[New] In 2024, Disabling and Erasing Your Old, Unused LinkedIn Profile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-your-xbox-experience-with-advanced-screen-capture-methods-for-2024/"><u>[New] Optimizing Your Xbox Experience with Advanced Screen Capture Methods for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-techniques-for-efficient-zoom-meeting-recordings/"><u>[Updated] In 2024, Techniques for Efficient Zoom Meeting Recordings</u></a></li>
+<li><a href="https://techidaily.com/1-professional-video-production-made-easy-a-guide-using-movavi/"><u>1. Professional Video Production Made Easy: A Guide Using Movavi</u></a></li>
+<li><a href="https://techidaily.com/1726233802638-pcxjpeg-movavi/"><u>在线免费PCX与JPEG转换服务 – 优化版Movavi图片编辑器</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-instructional-guide-recording-high-quality-audio-on-iphone-devices/"><u>New Step-by-Step Instructional Guide Recording High-Quality Audio on iPhone Devices</u></a></li>
+<li><a href="https://techidaily.com/1726233755233-aifc-movavi/"><u>무료 AIFC 웹 매디어를 사용하여: Movavi 구현 방법</u></a></li>
+<li><a href="https://techidaily.com/1726233729158-orfjpeg-movavi/"><u>レシピ: ORFからJPEGへの無料オンライン変換 - Movaviで楽しむ</u></a></li>
 </ul></div>
 

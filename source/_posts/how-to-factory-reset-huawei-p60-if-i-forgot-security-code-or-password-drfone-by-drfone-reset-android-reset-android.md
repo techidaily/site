@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Huawei P60 If I Forgot Security Code or Password? | Dr.fone
-date: 2024-08-01T14:28:34.767Z
-updated: 2024-08-02T14:28:34.767Z
+date: 2024-09-20T16:35:39.635Z
+updated: 2024-09-24T16:53:46.096Z
 tags: 
   - reset
 categories:
@@ -18,9 +18,6 @@ Nothing good lasts forever, not even your all-singing, all-dancing new Android s
 
 Before taking the plunge, there are a number of factors to consider. We've put together a quick guide to let you know what you need to know... and what you need to do. Before we start deleting stuff, however, it's important to understand what a Factory reset is.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What is Factory Reset?
 
 There are two types of reset for every Android device, soft and hard resets. A [soft reset](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is just a way to force the Android operating system to shut down in the event of a freeze and you only risk losing any data which wasn't saved prior to the reset.
@@ -49,14 +46,8 @@ Dr.Fone - Phone Backup (Android) enables you to backup all your data, including 
 
 Back up and restore data from your device to a computer with a single click. It's a tried and tested program and compatible with over 8000+ devices. To use it, click the link, download it and follow these instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -68,20 +59,21 @@ Backup & Restore Data Turns Flexible
 
 **3,823,152** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to backup Android phone with Dr.Fone Basic
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
@@ -110,6 +102,13 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 
 ![factory reset android from settings menu](https://images.wondershare.com/drfone/others/factory-reset-from-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Huawei P60 device resets itself.
 
 ### Method 2. Resetting Your Phone in Recovery Mode
@@ -122,9 +121,6 @@ Step 1. Press and hold the Volume up button and the Power button at the same tim
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/14587119349819.jpg)
 
 Step 3. If done correctly. You'll find an image of an Android robot alongside a red exclamation mark and the words 'No command'.
@@ -138,8 +134,12 @@ Step 6. Scroll to 'Yes - erase all user data' and to complete the process press 
 Please note: Devices running Android 5.1 or above, will still require you to enter your Google Password to complete this reset.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3. Resetting Your Phone Remotely With Android Device Manager
 
 You can also perform a factory reset by using the Android Device manager App. Obviously, you'll need to have Android Device Manager installed on your phone for which you'll need a Google Account.
@@ -148,14 +148,25 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Restoring Your Phone After a Reset
 
@@ -171,28 +182,16 @@ Dr.Fone will display all the backup files. Select the backup file you would like
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
@@ -208,9 +207,6 @@ Transfer Everything from Old Devices to New Devices in 1 Click!
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 Resetting your Android device can resolve performance issues and prepare it for resale or gifting. However, a factory reset erases all personal data, making it essential to back up your data before proceeding.
@@ -219,27 +215,12 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is your Huawei P60 working too slow? Here's how you can hard reset it
 
 If Huawei P60 3.4 hard reset or Huawei P60 hard reset is the only option for your mobile phone, you can perform a factory reset to make your device function as it did on the first day. You may need a hard reset if it works slowly, hangs, you want to bypass screen lock, your memory is full, and you want to erase everything, you want to sell or give your device away, and you don't want anyone to be able to access your files or passwords.
 
 The following instructions will show you how to completely wipe up all of your data and restore the Huawei P60 to its factory-fresh condition.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why do I Need to Hard Reset My Huawei P60?
 
 We advise you to remove all accounts from the Huawei P60 device before performing a factory reset, especially if you plan to sell, give away, or donate the 3.4. It is also a good idea to unlink the Google account. By doing this, we can prevent issues for new users as some more recent smartphones have a feature called FRP, or Factory Reset Protection, which requires the Google account or PIN number that was originally used to set up the Huawei P60 when a device is factory restored.
@@ -270,15 +251,8 @@ _reboot bootloader using adb_
 - Press and hold the Power and Volume Up buttons at the same time until the Huawei P60 device vibrates. Release all the presses if the Huawei P60 logo or Recovery screen shows.
 - You can give your phone up to 30 seconds to display the recovery screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Bonus Tips
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)(delete all data completely)
 
 Dr.Fone - Data Eraser helps you quickly get rid of all the unwanted information and all of your data however it is always advisable to back it up using the Dr.Fone - Phone Backup.
@@ -287,16 +261,10 @@ Let's see how you can delete completely all the data using Dr.Fone - Data Eraser
 
 **Step 1:** Connect your Huawei P60 smartphone to your computer. Start Dr.Fone on your computer. Select "Data Eraser" from the tool list.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Connect your Huawei P60 to the PC via a USB wire. Ensure that your phone has USB debugging turned on. You will see a pop-up window on your phone asking you to approve USB debugging.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect to device](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 **Step 2:** Begin wiping your Huawei P60 phone.
@@ -307,9 +275,6 @@ Dr.Fone will then automatically recognize and connect to your Huawei P60 smartph
 
 Before proceeding, ensure that you have backed up any critical data because deleted data cannot be retrieved. After that, type "000000" to confirm your activity.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![code to erase](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 Dr. Fone will next proceed to wipe the data on your Huawei P60 phone. The entire procedure takes only a few minutes. Turn off the phone and do not run any phone administration programs on the PC.
@@ -326,25 +291,10 @@ Your Huawei P60 phone has now been completely wiped, giving it the appearance of
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)(easy backup before a new hard reset)
 
 **Step 1:** Connect your Huawei P60 phone to your PC.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Launch Dr.Fone on your PC and choose "Phone Backup" from the list of options.
@@ -363,11 +313,15 @@ After connecting the Huawei P60 phone, pick the file types you wish to back up. 
 
 ![file types](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The backup will take a few moments. Please do not detach your Huawei P60 phone, use it, or erase any data from it during the backup process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![backup completed](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 When the backup is finished, you can view the contents of the backup file by clicking the View the backup button.
@@ -377,8 +331,6 @@ When the backup is finished, you can view the contents of the backup file by cli
 ### The Bottom Line
 
 Now that you know how to hard reset Huawei P60 it is time to implement all the possible ways and see which one works for you. We also recommend you to proceed with backing up and restoration of all the information so that you will not have to repent in the end. It is all about using smart tools like Dr.Fone - Data Eraser and Dr.Fone - Phone Backup.
-
-
 
 ## The Easiest Methods to Hard Reset Huawei P60
 
@@ -392,35 +344,16 @@ When you do a factory reset from settings, you will need the Huawei P60 device's
 
 Most people **hard reset Huawei P60** because they forgot the lock screen password. When you can't remember your phone's password, a hard reset is the fastest way to unlock your device. With a hard reset, you can delete all types of data and settings from your device. It helps you remove passwords, PINs, patterns, and fingerprint locks. Once you forget your phone's password and enter the wrong password too many times, you will get a blocking alert. After another wrong attempt, the system will block your device. When you reach this point, you can only use a hard reset to unlock your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2: Huawei P60 Works too Slowly
 
 If your Huawei P60 works slowly, such as taking time when you open any app, you can use a hard reset to fix this problem. When you are using a smartphone, you can easily find out if it's working slower or not. If your device takes time to load games or shows lag when you watch videos, you can do a hard reset to clear its storage. When you **reset Huawei P60**, you clear its storage and cache, which helps your device work faster. It also removes junk files from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 3: Constant Crashes
 
 Suppose your phone constantly crashes for no reason at all. Chances are that there is some problem with its software or new updates. When your device crashes, the screen gets stuck for some seconds before it automatically recovers. If it happens once in a while, then it is not a big problem. But, if it happens constantly, then you will need to fix your device before it gets even worse. An **Huawei P60 hard reset** reverts it to its factory settings by deleting all data, personalization, settings, and updates. Doing so removes any type of threat and bug from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Part 2: What to do to Hard Reset Huawei P60? 3 Easiest Ways for You
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### 1: Hard Reset from Settings (password/pattern Needed)
 
 The fastest way to hard reset Huawei P60 is to use the factory reset option from settings. Although you don't need a third-party tool for this method, it requires the Huawei P60 device's password or pattern. You can't use this method on a locked Huawei P60 device. Suppose your phone has some issues like slow working, frozen screen, app crashes, or keeps rebooting. In these situations, the **Huawei P60 hard reset** is the best solution. Before factory resetting your device, create a data backup to recover it afterward. Here are the steps to hard reset Huawei P60 from settings.
@@ -438,9 +371,6 @@ The fastest way to hard reset Huawei P60 is to use the factory reset option from
 
 You can **hard reset Huawei P60** by entering the recovery mode if you forgot your phone's password. You can use this method in case your device is locked, and you can't reach the settings menu to do a simple factory reset. It also helps if your phone is stuck at the boot logo and keeps rebooting. You will lose all your data with a hard reset from recovery mode. Only do a hard reset if you know your Google account and password. Because after the reset is complete, the system will ask you to unlock FRP. Here are the steps to hard reset your Huawei P60 with recovery mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![power and volume down keys](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-hard-reset-02.jpg)
 
 - Power off your Huawei P60 with the power key, and make sure that you have at least 50% battery backup.
@@ -454,9 +384,6 @@ You can **hard reset Huawei P60** by entering the recovery mode if you forgot yo
 
 If you want to permanently wipe all data and settings from your Huawei P60, you can use Dr.Fone - Data Eraser. When your device is running out of storage or working slower, you can erase all of its data to fix these problems. Before you erase data from your device, you can use Dr.Fone to create a data backup with contacts, files, images, and your other personal data. This way, after erasing everything, you can easily recover anything you want. Dr.Fone is the best third-party tool with efficient solutions for any smartphone problem. You can use Dr.Fone to unlock devices, transfer WhatsApp, system repair, virtual location, and Data Backup & Reset. Follow these steps to **hard reset Huawei P60** with Dr.Fone - Data Eraser.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
@@ -474,12 +401,23 @@ Hard Reset Oppo A37 Without Any Hassle!
 
 ![drfone home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Enable USB debugging on your mobile phone and connect it to your PC via a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect your Huawei P60](https://images.wondershare.com/drfone/guide/android-erase-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - After the connection is complete, Dr.Fone will recognize your smartphone and open the "Erase All Data" screen. Click on the "Start" option to continue.
 
@@ -487,24 +425,17 @@ Hard Reset Oppo A37 Without Any Hassle!
 
 - Next, type the code that appears on the screen for confirmation. After you enter the code, Dr.Fone will start erasing data from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![erase data confirmation](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
 - Once the process ends, Dr.Fone will ask you to tap on the "Factory Reset" option on your smartphone. It will erase all settings and complete the factory reset.
 
 ![data erased](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Conclusion
 
 Let's end our guide for the easiest ways to **hard reset Huawei P60**. You can do a factory reset if you know your phone's password. If you don't know the password, you can do a hard reset from recovery mode. The safest and fastest way to erase all data from your device is by using Dr.Fone - Data Eraser. With Dr.Fone, you don't have to follow complex steps, and you can back up your data so you can recover it after the reset is complete. Aside from that, you can use Dr.Fone to unlock your device without a password.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -518,46 +449,17 @@ Let's end our guide for the easiest ways to **hard reset Huawei P60**. You can d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-streamlining-short-film-previews-for-channels/"><u>[New] 2024 Approved  Streamlining Short Film Previews for Channels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-commerce-in-the-metaverse-for-2024/"><u>[New] Cutting-Edge Commerce in the Metaverse for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-essential-guide-for-beginners-in-final-cut-pro/"><u>[New] The Ultimate Essential Guide for Beginners in Final Cut Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-concluding-your-digital-identity-on-instagram/"><u>[Updated] 2024 Approved  Concluding Your Digital Identity on Instagram</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-record-android-internal-sound-4-non-root-methods/"><u>[Updated] 2024 Approved  Record Android Internal Sound  4 Non-Root Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-to-perfectly-utilize-instagrams-sound-stickers-for-2024/"><u>[Updated] Expert Tips to Perfectly Utilize Instagram's Sound Stickers for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-facetime-with-your-android-phone/"><u>[Updated] How To Facetime with Your Android Phone ?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-timing-what-you-need-to-know/"><u>[Updated] Instagram Video Timing  What You Need To Know</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-verified-vids-the-reality-of-instas-self-validation-for-2024/"><u>[Updated] Verified Vids  The Reality of Insta’s Self-Validation for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-headline-hero-proven-strategies-in-focus/"><u>2024 Approved  Become a Headline Hero  Proven Strategies in Focus</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>2024 Approved  Unleashing Visual Potential  Incorporating New Fonts in AE</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a18-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A18 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/battleground-bliss-a-ranking-of-7-top-military-sims/"><u>Battleground Bliss  A Ranking of 7 Top Military Sims</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-8-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 8 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-6-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-g14-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-smart-8-plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Smart 8 Plus Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-a2plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi A2+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-xs-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 System? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-11-pro-max-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 11 Pro Max online without jailbreak</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-7-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-x9b-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor X9b</u></a></li>
-<li><a href="https://techidaily.com/sign-excel-2007-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2007 Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-pova-5-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Pova 5 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone SE (2020) | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-pivotal-point-in-view-count-for-online-earning/"><u>The Pivotal Point in View Count for Online Earning</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-zte-blade-a73-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on ZTE Blade A73 5G</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-2019-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2019 Workbook Issue Fix 2024</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-motorola-g24-power-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Motorola G24 Power password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-lava-blaze-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/vivo-x-fold-2-video-recovery-recover-deleted-videos-from-vivo-x-fold-2-by-fonelab-android-recover-video/"><u>Vivo X Fold 2 Video Recovery - Recover Deleted Videos from Vivo X Fold 2</u></a></li>
-<li><a href="https://techidaily.com/will-xiaomi-mix-fold-3-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi Mix Fold 3 play AVCHD mts files?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-your-thumbnail-design-journey-today/"><u>[New] 2024 Approved Streamline Your Thumbnail Design Journey Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-captioning-for-clearer-communication/"><u>[New] In 2024, YouTube Captioning for Clearer Communication</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-visionary-studio-guide-detailed-xreviewers-digest-for-2024/"><u>[New] The Visionary Studio Guide Detailed XReviewer's Digest for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-2023-insights-into-snipping-those-facebook-live-moments/"><u>[Updated] 2024 Approved 2023 Insights Into Snipping Those Facebook Live Moments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-free-intro-templates-for-videos/"><u>2024 Approved Exclusive Free Intro Templates for Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-mingwm10dll-file-missing-step-by-step-guide/"><u>Solving mingwm10.dll File Missing: Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to update your drivers on Windows 7</u></a></li>
 </ul></div>
+

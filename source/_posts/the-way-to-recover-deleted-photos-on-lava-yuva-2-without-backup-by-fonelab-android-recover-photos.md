@@ -1,6 +1,6 @@
 ---
 title: The way to recover deleted photos on Lava Yuva 2 without backup.
-date: 2024-08-01T17:45:04.741Z
+date: 2024-09-19T04:44:16.343Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -131,55 +131,39 @@ Soon, all Android available files will be classified into category on the left. 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-reference-to-youtube-video-aspect-ratios/"><u>[New] 2024 Approved  The Ultimate Reference to YouTube Video Aspect Ratios</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-video-popularity-mastering-youtube-thumbnail-selection-for-2024/"><u>[New] Achieving Video Popularity  Mastering YouTube Thumbnail Selection for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ensuring-flawless-sending-of-large-videos-from-iphone-to-mac-pc/"><u>[New] In 2024, Ensuring Flawless Sending of Large Videos From iPhone to Mac PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-cutting-edge-videotelephony-solutions-list-for-2024/"><u>[Updated] Cutting-Edge Videotelephony Solutions List for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-social-score-best-tools-for-post-and-engagement/"><u>[Updated] Elevate Your Social Score  Best Tools for Post and Engagement</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>2024 Approved  Bring Your Imaginations to Life  Time-Lapse Photography with GoPro Studio</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-peering-into-the-digital-universe-what-is-vr/"><u>2024 Approved  Peering Into the Digital Universe  What Is VR?</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y78t-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y78t Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-hd-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 HD If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a18-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-6-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic 6 Lite phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-magic-v2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic V2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-poco-c65-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco C65 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-k70-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi K70 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/memorable-narratives-in-book-videos/"><u>Memorable Narratives in Book Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/secrets-revealed-the-best-youtube-thumbnails-for-virality-for-2024/"><u>Secrets Revealed  The Best YouTube Thumbnails for Virality for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-razr-40-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Razr 40</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-90-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor 90</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-lava-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Lava</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-redmi-note-12-pro-4g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-11-proplus-by-fonelab-android-recover-music/"><u>Undelete lost music from 11 Pro+</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-p40plus-by-fonelab-android-recover-music/"><u>Undelete lost music from P40+</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-note-30-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Note 30 5G fingerprint</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 11/10/7</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-20-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 20 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-x-fold-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo X Fold 2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-15-plus-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 15 Plus takes time in scanning my iPhone? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-k70-pro-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi K70 Pro won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-listening-preferences-deciding-between-podcasts-and-youtube/"><u>[New] 2024 Approved Listening Preferences Deciding Between Podcasts & YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-esports-news-and-analysis-from-top-vloggers-for-2024/"><u>[New] Esports News and Analysis From Top Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-essential-techniques-for-music-layering-in-fb-media/"><u>[New] In 2024, The Essential Techniques for Music Layering in FB Media</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-p55t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-12r-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 12R Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-mavic-air-vs-dji-spark-the-ultimate-battle-for-gamers/"><u>DJI Mavic Air Vs. DJI Spark The Ultimate Battle for Gamers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-radpower-radcity-5-plus-an-impressive-yet-substantially-built-e-bike-for-daily-commutes/"><u>Exploring RadPower RadCity 5 Plus: An Impressive, Yet Substantially-Built E-Bike for Daily Commutes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/from-queens-to-the-big-screen-the-impact-of-miles-morales-in-marvels-latest-game/"><u>From Queens to the Big Screen: The Impact of Miles Morales in Marvel's Latest Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-noise-issues-in-dying-light-for-an-enhanced-gaming-experience/"><u>How to Overcome Noise Issues in Dying Light for an Enhanced Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v13-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.3 File | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-lava-storm-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Lava Storm 5G</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/your-youtube-snippets-into-memorable-gifs-for-2024/"><u>Turn Your YouTube Snippets Into Memorable GIFs for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-power-of-communication-top-10-features-in-google-meet-and-chat-revealed/"><u>Unlock the Power of Communication: Top 10 Features in Google Meet and Chat Revealed</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

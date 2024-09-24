@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-08-01T18:40:52.743Z
+date: 2024-09-17T21:07:15.981Z
 tags: 
   - driver
   - device driver
@@ -33,10 +33,6 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -45,10 +41,6 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 
 To understand why, you first have to understand what drivers actually are…
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -65,9 +57,6 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -91,20 +80,40 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What happens if a driver is missing or outdated?
 
@@ -117,8 +126,12 @@ Now when we say “your device won’t work properly”, sometimes this means si
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -135,7 +148,6 @@ This page describes how to do this.
 
 [Download Free Version](https://www.drivereasy.com/goto/affdownload.php?affid=108875)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
 ## All our drivers are certified
@@ -151,13 +163,24 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We test on all the most popular combinations of hardware & software
 
@@ -168,9 +191,6 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -208,8 +228,12 @@ We then scan a small selection of computers with our development-only Driver Eas
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -251,46 +275,20 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-crafting-premium-soundtracks-with-zooms-record-feature/"><u>[New] 2024 Approved  Crafting Premium Soundtracks with Zoom's Record Feature</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] 2024 Approved  Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-iconic-nintendo-switch-combat-games-compilation-max-156-for-2024/"><u>[New] Iconic Nintendo Switch Combat Games Compilation (Max 156) for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-screens-with-active-8-a-comparative-review/"><u>[New] In 2024, Mastering Screens with Active 8 - A Comparative Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-artisans-guide-to-podcast-scriptwriting-including-free-samples/"><u>[New] The Artisan's Guide to Podcast Scriptwriting (Including Free Samples)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-winning-with-facebook-videos-for-2024/"><u>[New] The Ultimate Guide to Winning with Facebook Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-jumpstart-your-journey-to-tiktok-fame-with-these-hits/"><u>[Updated] 2024 Approved  Jumpstart Your Journey to TikTok Fame with These Hits</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-audiovisual-creators-top-5-app-picks-of-the-era/"><u>[Updated] Audiovisual Creators' Top 5 App Picks of the Era</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-changing-console-voice/"><u>[Updated] The Comprehensive Guide to Changing Console Voice</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-gt-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix GT 10 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-find-n3-flip-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Find N3 Flip in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y17s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y17s in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-n3-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find N3 Flip without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 6 Plus to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-8t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 8T Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-review-analyzing-androids-lightroom/"><u>In 2024, Comprehensive Review  Analyzing Android's Lightroom</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-filming-at-home-top-5-efficient-tricks-for-2024/"><u>Master the Art of Filming at Home – Top 5 Efficient Tricks for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-motorola-moto-g04-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Motorola Moto G04</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-xiaomi-redmi-k70e-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2007-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2007 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-galaxy-a14-4g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Galaxy A14 4G</u></a></li>
-<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2021-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2021</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2021-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2021 Spreadsheet Disappears after Opening</u></a></li>
-<li><a href="https://techidaily.com/solved-microsoft-excel-2016-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2016 File Error The document cannot be saved</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme 11 5G.</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-13-pro-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 Pro lock with iTunes</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-apple-iphone-15-pro-max-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Apple iPhone 15 Pro Max on Mac?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/videorecording-mastery-with-screencapture-x/"><u>VideoRecording Mastery with ScreenCapture X</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 6 Plus? | Stellar</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-decoding-youtubes-operations-following-uploads/"><u>[New] 2024 Approved Decoding YouTube’s Operations Following Uploads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-integration-into-google-meet-participants-for-2024/"><u>[New] Integration Into Google Meet Participants for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimal-transfer-methods-iphone-camera-roll-to-snapchat-journey/"><u>[Updated] Optimal Transfer Methods IPhone Camera Roll to Snapchat Journey</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/0-drivers/"><u>0 Drivers.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capture-gaming-moments-a-comprehensive-guide-for-ps4-screengrabs/"><u>Capture Gaming Moments: A Comprehensive Guide for PS4 Screengrabs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-10-iphone-recovery-programs-of-2024-fully-compatible-with-ios-17/"><u>Discover the Leading 10 iPhone Recovery Programs of 2024, Fully-Compatible with iOS 17</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/gratis-ogv-to-mp3-versterking-online-met-movavi-converter-tool/"><u>Gratis OGV-to-MP3-Versterking Online Met Movavi Converter Tool</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-v29e-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo V29e Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-a14-4g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy A14 4G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/las-5-formas-mas-efectivas-de-crear-un-cuadro-con-fotografias-en-2024-tutoriales-y-consejos-movavi/"><u>Las 5 Formas Más Efectivas De Crear Un Cuadro Con Fotografías en 2024 - Tutoriales Y Consejos - Movavi</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-whats-fresh-with-movavi-screen-recorder/"><u>Latest Updates: What's Fresh with Movavi Screen Recorder</u></a></li>
+<li><a href="https://techidaily.com/master-the-art-of-clipping-with-top-tier-video-editing-tools/"><u>Master the Art of Clipping with Top-Tier Video Editing Tools</u></a></li>
+<li><a href="https://techidaily.com/masterclass-em-fotografia-digital-desbravando-o-mundo-dos-efeitos-visuais-e-filtros-para-fotos-perfeitas/"><u>Masterclass Em Fotografia Digital - Desbravando O Mundo Dos Efeitos Visuais E Filtros Para Fotos Perfeitas</u></a></li>
 </ul></div>
+

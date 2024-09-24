@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10"
-date: 2024-09-22T00:56:18.513Z
-updated: 2024-09-24T01:35:36.376Z
+date: 2024-09-23T03:06:48.389Z
+updated: 2024-09-23T22:04:16.802Z
 tags:
   - deals
 categories:
@@ -24,24 +24,31 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  You can do almost anything from the Command Prompt on Windows 10—even open the [Google Chrome web browser](https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/). You can also open Chrome in incognito mode or jump straight to a website. Here's how it's done.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Open Chrome Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing "command" in the Windows 10 search bar and then selecting "Command Prompt" from the search results.
 
 ![Launching the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/0.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Command Prompt, run the following command:
 
         `start chrome`
     
 ![The "start chrome" command in a Command Prompt window open in Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-21.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Chrome will now open. You can also do the same thing from the "Run" window.
 
@@ -53,26 +60,13 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The web browser will now open.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
@@ -84,6 +78,13 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
  You'll then be asked to enter your computer's admin password. Type the password and press the Enter key to proceed.
 
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll now be running Chrome as an administrator.
 
@@ -101,14 +102,14 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
- Chrome will now open in incognito mode.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Chrome will now open in incognito mode.
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -119,13 +120,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `start chrome www.howtogeek.com` 
 
 ![Opening Chrome to howtogeek.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-starting-chrome-with-a-specific-website.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have multiple profiles on Google Chrome, opening Chrome in this way to a specific website will automatically launch into the most recently used profile. 
 
@@ -148,10 +142,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
@@ -171,25 +165,18 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-snap-share-thrive-on-instagram/"><u>[New] In 2024, Snap, Share, Thrive on Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-fast-track-your-fame-on-instagram-our-ultimate-list-of-15-must-try-techniques/"><u>[Updated] In 2024, Fast-Track Your Fame on Instagram Our Ultimate List of 15 Must-Try Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[Updated] In 2024, Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-collection-of-10-advanced-fcp-tools/"><u>2024 Approved The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-motorola-moto-g13-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Motorola Moto G13 is off? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/download-mp4-convert-software-discover-factory-pros-free-trial-and-easy-payment-features/"><u>Download MP4 Convert Software: Discover Factory Pro's Free Trial and Easy Payment Features</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-m6-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco M6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/gratis-omzetten-en-herstellen-van-online-bestandsen-met-movavi-zonder-inzichten/"><u>Gratis Omzetten En Herstellen Van Online Bestandsen Met Movavi - Zonder Inzichten</u></a></li>
-<li><a href="https://techidaily.com/gratuit-verbetering-en-conversie-van-flac-inhoud-naar-wmv-expertise-van-movavi/"><u>Gratuit Verbetering en Conversie Van Flac-Inhoud Naar WMV: Expertise Van Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuito-converter-videos-amv-para-formato-mpg-com-movavi-o-site-de-conversao-online-facil/"><u>Gratuito: Converter Vídeos AMV Para Formato MPG Com Movavi, O Site De Conversão Online Fácil!</u></a></li>
-<li><a href="https://techidaily.com/guide-ultime-comment-ameliorer-la-performance-de-votre-pc-pour-les-jeu-videos-sous-windows-11/"><u>Guide Ultime : Comment Améliorer La Performance De Votre PC Pour Les Jeu Vidéos Sous Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
-<li><a href="https://techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-screen-recording-on-imac-with-ease/"><u>Mastering Screen Recording on iMac with Ease</u></a></li>
-<li><a href="https://techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
-<li><a href="https://techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
-<li><a href="https://techidaily.com/mpewma/"><u>MPEファイルからWMAへの完全無料変換ツール - ムーヴェイビ</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/orchestrating-originality-top-8-schools-for-story-innovation/"><u>Orchestrating Originality Top 8 Schools for Story Innovation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-your-video-step-by-step-from-sdr-to-hdri/"><u>[New] 2024 Approved Elevate Your Video Step-by-Step From SDR to HDRI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube/"><u>[Updated] 2024 Approved From Capture to Screen The Complete Process of Uploading 360 Vids on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-11-techniques-for-perfecting-color-in-post-production/"><u>[Updated] 2024 Approved Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlined-iphone-snapchat-linkage-for-photographs-and-memories/"><u>[Updated] In 2024, Streamlined iPhone-Snapchat Linkage for Photographs & Memories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-selecting-the-ultimate-5-game-chat-devices-for-2024/"><u>[Updated] Selecting the Ultimate 5 Game Chat Devices for 2024</u></a></li>
+<li><a href="https://techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
+<li><a href="https://techidaily.com/as-melhores-ferramentas-de-edicao-livre-de-video-top-10-em-2024-guia-completo/"><u>As Melhores Ferramentas De Edição Livre De Vídeo Top 10 Em 2024: Guia Completo</u></a></li>
+<li><a href="https://techidaily.com/baixar-conversor-de-tiff-para-gif-online-gratuito-movavi/"><u>Baixar Conversor De TIFF Para GIF Online Gratuito - Movavi</u></a></li>
+<li><a href="https://techidaily.com/como-tomar-capturas-de-pantalla-gratuitas-en-windows-11-sin-necesidad-de-aplicaciones-extras/"><u>Cómo Tomar Capturas De Pantalla Gratuitas en Windows 11 Sin Necesidad De Aplicaciones Extras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-diagnosing-and-fixing-blue-screen-issues-in-windows/"><u>Expert Tips for Diagnosing and Fixing Blue Screen Issues in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-sony-xperia-5-v-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Sony Xperia 5 V</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-p40plus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel P40+ Phone</u></a></li>
+<li><a href="https://techidaily.com/1726233732017-mov-mjpeg-movavi/"><u>シンプルな手順でMOV MJPEG形式の自由にオンライン変換 - Movavi</u></a></li>
 </ul></div>
 

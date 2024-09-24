@@ -1,7 +1,7 @@
 ---
 title: "「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」"
-date: 2024-09-15T18:34:07.518Z
-updated: 2024-09-18T17:14:05.983Z
+date: 2024-09-16T17:34:05.392Z
+updated: 2024-09-23T18:56:26.544Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d85277a374a3a1037690eb16.jpg
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 11月17日, 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 日本の従業員における42%は「AIで業務負担の軽減になる」と回答  
 深刻化する人手不足の中で注目される「ドキュメントAI」
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 
 [![](https://static1.abbyy.com/abbyycommedia/34771/infographic-for-survey-jp.jpg)](https://www.abbyy.com/media/34771/infographic-for-survey-jp.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 【調査方法】
 
 本調査はABBYYが委託し、Sapio Research社が2021年9、10月に実施。英国、米国、フランス、ドイツ、日本の企業（従業員500人以上）で働く5,025人を対象とし、ドキュメント内のデータにアクセスする際の問題、幅広い影響、ソフトウェアと自動化技術の役割について聞き取り調査を実施しました。
@@ -83,28 +97,17 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-crafting-perfect-boomerangs-in-snap/"><u>[New] 2024 Approved The Art of Crafting Perfect Boomerangs in Snap</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-melodies-that-matter-instagram-music-guide/"><u>[New] Melodies that Matter Instagram Music Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-compact-cameras-for-1000-or-less-4k/"><u>2024 Approved Best Compact Cameras for $1000 or Less (4K)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-superfluous-extensions-for-optimal-chatgpt-performance/"><u>Avoid Superfluous Extensions for Optimal ChatGPT Performance</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-mac-experience-with-our-top-7-accessibility-features-designed-for-all-users/"><u>Enhance Your Mac Experience with Our Top 7 Accessibility Features Designed for All Users</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>In 2024, From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-index-affordable-flexible-image-sources/"><u>In 2024, Premier Index Affordable, Flexible Image Sources</u></a></li>
-<li><a href="https://techidaily.com/introducing-chrome-support-in-vivaldi-browser-version-66-a-new-era-of-web-panel-customization/"><u>Introducing Chrome Support in Vivaldi Browser Version 6.6: A New Era of Web Panel Customization</u></a></li>
-<li><a href="https://techidaily.com/linux-beginners-guide-discovering-the-best-alternatives-to-ubuntu/"><u>Linux Beginners' Guide: Discovering the Best Alternatives to Ubuntu</u></a></li>
-<li><a href="https://techidaily.com/mastering-tune-recognition-on-macos-a-step-by-step-guide/"><u>Mastering Tune Recognition on macOS: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-remote-productivity-with-these-6-essential-windows-taskforcetools-in-windows-11-for-supercharged-remote-work-output/"><u>Maximize Your Remote Productivity with These 6 Essential Windows #TaskForceTools in Windows #11 for Supercharged Remote Work Output</u></a></li>
-<li><a href="https://techidaily.com/my-journey-away-from-windows-how-embracing-the-macbook-changed-everything/"><u>My Journey Away From Windows: How Embracing the MacBook Changed Everything</u></a></li>
-<li><a href="https://techidaily.com/newly-launched-arc-browser-compatible-with-microsofts-windows-11-operating-system/"><u>Newly Launched: Arc Browser Compatible with Microsoft's Windows 11 Operating System</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ranking-top-online-tutorial-providers-excluding-udemy/"><u>Ranking Top Online Tutorial Providers Excluding Udemy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211374264-stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/"><u>Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-android-9-youtube-download-apps-for-2024/"><u>The Ultimate Guide to Android 9 YouTube Download Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-augmented-reality-stickers-beyond-google/"><u>[Updated] Comparing Augmented Reality Stickers Beyond Google</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-essential-camcorder-list-ultimate-expert-review-for-2024/"><u>[Updated] Essential Camcorder List – Ultimate Expert Review for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-your-following-with-these-top-insta-apps/"><u>Boost Your Following with These Top Insta Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/mpewma/"><u>MPEファイルからWMAへの完全無料変換ツール - ムーヴェイビ</u></a></li>
+<li><a href="https://techidaily.com/o-guia-definitivo-selecionando-a-ferramenta-perfeita-de-edicao-de-video-do-gopro-em-2024/"><u>O Guia Definitivo: Selecionando a Ferramenta Perfeita De Edição De Video Do GoPro Em 2024</u></a></li>
+<li><a href="https://techidaily.com/online-zonder-risicos-gratis-mp4-naar-flv-omzetten-voor-uw-mobiele-apps-movavi-als-uitgebreide-solutient/"><u>Online Zonder Risico's: Gratis MP4 Naar FLV Omzetten Voor Uw Mobiele Apps - Movavi Als Uitgebreide Solutiënt</u></a></li>
+<li><a href="https://techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-screen-brightness-the-top-10-causes-of-automatic-dimming/"><u>Understanding iPhone Screen Brightness: The Top 10 Causes of Automatic Dimming</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles/"><u>Unveiling the Immersive Era VR's Progress & Upcoming Struggles</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/windows-1011photo/"><u>Windows 10/11のPhotoアプリによる動画連結手順：徹底解説</u></a></li>
+<li><a href="https://techidaily.com/mxf-wmv-online-free-converter-movavi/"><u>영구제 MXF WMV 혼합을 원호하여 Online Free Converter - Movavi</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

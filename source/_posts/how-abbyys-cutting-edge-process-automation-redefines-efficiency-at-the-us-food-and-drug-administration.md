@@ -1,7 +1,7 @@
 ---
 title: How ABBYY's Cutting-Edge Process Automation Redefines Efficiency at The US Food & Drug Administration
-date: 2024-08-22T08:23:36.553Z
-updated: 2024-08-23T08:23:36.553Z
+date: 2024-09-22T07:55:54.657Z
+updated: 2024-09-24T02:55:24.284Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
@@ -19,11 +19,25 @@ Government | Healthcare | Document Processing
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ABBYY’s Intelligent Process Automation Platform Transforms the U.S. Food and Drug Administration
 
 Government | Document Processing 
 
 ![ABBYY’s Digital Intelligence Platform transforms the U.S. Food and Drug Administration](https://static1.abbyy.com/abbyycommedia/29661/11-fda-cover-556x303.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -81,11 +95,28 @@ ABBYY’s AI-powered platform captures and extracts vital data and information f
 
 [![Download the PDF version](https://static4.abbyy.com/abbyycommedia/29662/11c-fda-cover-360x162.jpg)](https://static2.abbyy.com/abbyycommedia/29586/fda-customer-story-en-12802.pdf "PDF Version") [PDF Version](https://static2.abbyy.com/abbyycommedia/29586/fda-customer-story-en-12802.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Read the document](https://static2.abbyy.com/abbyycommedia/29586/fda-customer-story-en-12802.pdf "PDF Version") 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -98,8 +129,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,40 +138,18 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieving-precision-with-obs-implementing-timer-functionality/"><u>[New] 2024 Approved  Achieving Precision with OBS  Implementing Timer Functionality</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-zero-to-hero-creating-an-online-gaming-empire/"><u>[New] 2024 Approved  From Zero to Hero  Creating an Online Gaming Empire</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-overcome-video-loading-failure-chrome/"><u>[New] 2024 Approved  Overcome Video Loading Failure  Chrome</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-capture-the-inspired-moment-essential-photos-for-ig-for-2024/"><u>[New] Capture the Inspired Moment  Essential Photos for IG for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-enhancing-your-gopros-energy-duration-for-2024/"><u>[New] Enhancing Your GoPro's Energy Duration for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/5-simple-ways-to-save-your-youtube-content-for-2024/"><u>5 Simple Ways to Save Your YouTube Content for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/affordable-powerhouse-a-detailed-look-at-the-acer-predator-orion-5000s-value-and-high-end-features/"><u>Affordable Powerhouse: A Detailed Look at the Acer Predator Orion 5000'S Value and High-End Features</u></a></li>
-<li><a href="https://techidaily.com/connect-and-display-your-mac-screen-on-any-tv-with-easy-airplay-setup-instructions/"><u>Connect and Display Your Mac Screen on Any TV with Easy AirPlay Setup Instructions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/effortless-conversion-turning-avis-into-gifs-with-filmora-software/"><u>Effortless Conversion  Turning AVIs Into GIFs with Filmora Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-videos-youtube-trailers-through-filmora/"><u>Elevate Your Videos  YouTube Trailers Through Filmora</u></a></li>
-<li><a href="https://techidaily.com/enhance-user-experience-with-easy-top-down-scrolls-and-multi-platform-linkage-to-facebook-linkedin-and-youtube/"><u>Enhance User Experience with Easy Top-Down Scrolls & Multi-Platform Linkage to Facebook, LinkedIn & YouTube</u></a></li>
-<li><a href="https://techidaily.com/exploring-copernic-a-comprehensive-guide-to-efficient-photo-browsing/"><u>Exploring Copernic: A Comprehensive Guide to Efficient Photo Browsing</u></a></li>
-<li><a href="https://techidaily.com/get-your-hands-on-a-high-performance-lenovo-legion-desktop-with-rtx-4080-gpu-priced-at-an-amazing-low-of-2091/"><u>Get Your Hands on a High-Performance Lenovo Legion Desktop with RTX 4080 GPU - Priced at an Amazing Low of $2,091</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-note-30-vip-racing-edition-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Note 30 VIP Racing Edition FRP In 3 Different Ways</u></a></li>
-<li><a href="https://techidaily.com/1723262403567-huge-savings-save-200-on-the-alienware-aurora-r16-with-rtx-4070-super-now-just-1499/"><u>Huge Savings: Save $200 on the Alienware Aurora R16 with RTX 4070 Super – Now Just $1,499</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/inside-scoop-on-high-performance-hardware-at-toms-tech-corner/"><u>Inside Scoop on High-Performance Hardware at Tom's Tech Corner</u></a></li>
-<li><a href="https://techidaily.com/inside-toms-electronics-expert-insights-on-hardware-solutions/"><u>Inside Tom's Electronics: Expert Insights on Hardware Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-zebra-gk420d-drivers-with-ease-begin-printing-instantly/"><u>Install Zebra GK420d Drivers with Ease - Begin Printing Instantly</u></a></li>
-<li><a href="https://techidaily.com/mastering-smooth-document-control-unveiling-copernics-productivity-shortcuts/"><u>Mastering Smooth Document Control: Unveiling Copernic's Productivity Shortcuts</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-digital-world-toms-hardware-experts-guide/"><u>Mastering the Digital World: Tom's Hardware Experts Guide</u></a></li>
-<li><a href="https://techidaily.com/navigate-and-network-simplified-the-ultimate-guide-to-optimizing-menu-functionality-for-top-level-social-media-engagement-on-facebook-linkedin-and-youtube.m1/"><u>Navigate and Network Simplified: The Ultimate Guide to Optimizing Menu Functionality for Top-Level Social Media Engagement on Facebook, LinkedIn, and YouTube</u></a></li>
-<li><a href="https://techidaily.com/navigating-the-world-of-electronics-toms-hardware-wisdom/"><u>Navigating the World of Electronics: Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://program-issues.techidaily.com/preventing-unexpected-game-interruptions-overcoming-ffxivs-pc-stability-issues/"><u>Preventing Unexpected Game Interruptions: Overcoming FFXIV's PC Stability Issues.</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-installing-the-anker-mouse-software/"><u>Step-by-Step Guide: Installing the Anker Mouse Software</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-setting-up-a-keyboard-and-mouse-with-your-ps4-console/"><u>Step-by-Step Guide: Setting Up a Keyboard & Mouse with Your PS4 Console</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-easily-installing-and-refreshing-your-system-with-windows-11/"><u>Step-by-Step Tutorial: Easily Installing and Refreshing Your System with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-reading-system-error-messages-in-windows/"><u>Step-by-Step Tutorial: Reading System Error Messages in Windows</u></a></li>
-<li><a href="https://techidaily.com/the-silicon-chronicles-with-tom-a-deep-dive-into-cutting-edge-pc-technology/"><u>The Silicon Chronicles with Tom: A Deep Dive Into Cutting-Edge PC Technology</u></a></li>
-<li><a href="https://techidaily.com/top-techniques-for-optimizing-a-sluggishly-running-and-intermittent-frozen-computer/"><u>Top Techniques for Optimizing a Sluggishly Running and Intermittent Frozen Computer</u></a></li>
-<li><a href="https://techidaily.com/top-tips-for-optimizing-menu-functionality-on-leading-networks-learn-to-efficiently-scroll-and-manage-content-on-facebook-linkedin-and-youtube/"><u>Top Tips for Optimizing Menu Functionality on Leading Networks – Learn to Efficiently Scroll & Manage Content on Facebook, LinkedIn, and YouTube!</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-steps-when-your-outlook-search-doesnt-work-anymore/"><u>Troubleshooting Steps: When Your Outlook Search Doesn't Work Anymore</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-mastering-efficient-optimization-techniques-in-windows-10/"><u>Ultimate Guide: Mastering Efficient Optimization Techniques in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/unleash-gaming-potential-at-999-dollars-nvidia-rtx-and-intel-core-in-one-pc/"><u>Unleash Gaming Potential at 999 Dollars – NVIDIA RTX and Intel Core in One PC</u></a></li>
-<li><a href="https://techidaily.com/unveiling-top-gadgets-insights-from-toms-hardware-experts/"><u>Unveiling Top Gadgets: Insights From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-strategizing-your-approach-highlight-and-story-downloads/"><u>[Updated] In 2024, Strategizing Your Approach Highlight & Story Downloads</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-5-best-mp3-cutters-online/"><u>2024 Approved 5 Best MP3 Cutters Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-pros-finest-10-text-plans/"><u>2024 Approved Premiere Pro's Finest 10 Text Plans</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-podcast-reviews-by-gpodcasts/"><u>2024 Approved Premium Podcast Reviews by GPodcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/framed-perfection-websites-and-apps-to-elevate-your-images/"><u>Framed Perfection Websites and Apps to Elevate Your Images</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-laptop-drivers-for-your-windows-pc-here/"><u>Get the Newest HP Laptop Drivers for Your Windows PC Here!</u></a></li>
+<li><a href="https://techidaily.com/gratuit-verbetering-en-conversie-van-flac-inhoud-naar-wmv-expertise-van-movavi/"><u>Gratuit Verbetering en Conversie Van Flac-Inhoud Naar WMV: Expertise Van Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-converter-videos-amv-para-formato-mpg-com-movavi-o-site-de-conversao-online-facil/"><u>Gratuito: Converter Vídeos AMV Para Formato MPG Com Movavi, O Site De Conversão Online Fácil!</u></a></li>
+<li><a href="https://techidaily.com/guide-ultime-comment-ameliorer-la-performance-de-votre-pc-pour-les-jeu-videos-sous-windows-11/"><u>Guide Ultime : Comment Améliorer La Performance De Votre PC Pour Les Jeu Vidéos Sous Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
 </ul></div>
+

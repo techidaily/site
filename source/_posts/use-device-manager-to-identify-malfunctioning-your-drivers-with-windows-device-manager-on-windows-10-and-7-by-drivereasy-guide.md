@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-08-01T18:41:37.310Z
+date: 2024-09-17T02:52:35.147Z
 tags: 
   - driver
   - device driver
@@ -25,9 +25,6 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -35,10 +32,6 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -55,7 +48,6 @@ This page describes how to do this.
 
 [Download Free Version](https://www.drivereasy.com/goto/affdownload.php?affid=108875)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
 ## What happens if a driver is missing or outdated?
@@ -69,8 +61,12 @@ Now when we say “your device won’t work properly”, sometimes this means si
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -79,7 +75,12 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
@@ -89,6 +90,12 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 
 To understand why, you first have to understand what drivers actually are…
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to update all your drivers with just 1 click
 
@@ -107,8 +114,12 @@ Here’s how Driver Easy works:
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -132,16 +143,10 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -159,54 +164,18 @@ To automatically update to the correct version of all the drivers that are missi
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-embarking-on-the-online-world-starting-a-facebook-life/"><u>[New] 2024 Approved  Embarking on the Online World  Starting a Facebook Life</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-tips-for-making-youtube-introductory-trailers/"><u>[New] 2024 Approved  Essential Tips for Making YouTube Introductory Trailers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[New] In 2024, Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enhancing-video-appeal-mac-thumbnails-tutorial/"><u>[Updated] 2024 Approved  Enhancing Video Appeal  Mac Thumbnails Tutorial</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-future-filming-top-15-video-cameras-to-watch/"><u>[Updated] 2024 Approved  Future Filming – Top 15 Video Cameras to Watch</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-guide-to-identifying-recent-instagram-leavers/"><u>[Updated] 2024 Approved  Guide to Identifying Recent Instagram Leavers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-precision-convert-guide-unbeatable-on-line-ytvideos-translation/"><u>[Updated] Precision Convert Guide  Unbeatable On-Line YTVideos Translation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-premier-ai-for-stunning-photo-creation/"><u>[Updated] Premier AI for Stunning Photo Creation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-game-changer-gear-on-youtube/"><u>[Updated] The Ultimate Game Changer - Gear on YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-digital-diaries-top-picks-for-personal-recorders/"><u>2024 Approved  Digital Diaries  Top Picks for Personal Recorders</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lensleaks-revealing-affordable-stunning-tiktok-bgs/"><u>2024 Approved  LensLeaks  Revealing Affordable, Stunning TikTok BGs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>Becoming a Snapshot Wizard  Top Positions for iPhone Photos</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-11-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-c65-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-x50iplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X50i+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-12r-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 12R Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-6-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 6 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-a2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi A2 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-n3-flip-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find N3 Flip If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y02t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y02T in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-facebook-messenger-calls/"><u>How to Record Facebook Messenger Calls</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-13-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 13 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-xr-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone XR to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y27s-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y27s Android SIM Unlock APK</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-rectifying-disks-not-available-on-windows-pcs/"><u>Method: Rectifying Disks Not Available on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-non-operational-ccleaner-on-win11/"><u>Overhauling Non-Operational CCleaner on Win11</u></a></li>
-<li><a href="https://techidaily.com/remove-note-30i-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Note 30i unlock screen</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2021-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2021 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-lava-blaze-2-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Lava Blaze 2 on Mac</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-redmi-a2plus-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Redmi A2+</u></a></li>
-<li><a href="https://techidaily.com/sign-wpd-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wpd file Documents Online for Free</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone SE | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix GT 10 Pro</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-motorola-edge-2023-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Motorola Edge 2023</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Oppo A1x 5G</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-a1x-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo A1x 5G</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-a15-4g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A15 4G play AVCHD mts files?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-mastery-essential-tech-to-enhance-your-streams-for-2024/"><u>YouTube Mastery  Essential Tech to Enhance Your Streams for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-boosting-vimeo-content-delivery-for-2024/"><u>[New] Boosting Vimeo Content Delivery for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[Updated] Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-data-visualization-for-effective-communication/"><u>2024 Approved Mastering the Art of Data Visualization for Effective Communication</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-it-possible-for-chatgpt-to-generate-visual-content/"><u>Is It Possible for ChatGPT to Generate Visual Content?</u></a></li>
+<li><a href="https://techidaily.com/is-personal-information-essential-for-artificial-intelligence-development/"><u>Is Personal Information Essential for Artificial Intelligence Development?</u></a></li>
+<li><a href="https://techidaily.com/looking-for-stunning-backgrounds-explore-nasas-james-webb-space-telescope-image-collection/"><u>Looking for Stunning Backgrounds? Explore NASA’s James Webb Space Telescope Image Collection</u></a></li>
+<li><a href="https://techidaily.com/mastering-personalized-communication-tailoring-your-chatgpt-responses/"><u>Mastering Personalized Communication: Tailoring Your ChatGPT Responses</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-hard-win-harder-the-ultimate-list-of-iosandroid-sports-titles/"><u>Play Hard, Win Harder: The Ultimate List of iOS/Android Sports Titles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-spark-go-2024-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools-for-2024/"><u>Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools for 2024</u></a></li>
 </ul></div>
+

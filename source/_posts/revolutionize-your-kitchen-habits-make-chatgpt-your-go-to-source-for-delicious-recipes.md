@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Kitchen Habits: Make ChatGPT Your Go-To Source for Delicious Recipes"
-date: 2024-09-14T18:36:08.112Z
-updated: 2024-09-18T19:31:16.696Z
+date: 2024-09-21T17:41:28.304Z
+updated: 2024-09-24T03:59:55.474Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e0
 
  I'm a huge foodie who loves to travel the world. On my trips, I often come across dishes I've never even heard of before. After trying them, I always get curious about the recipe. That's when I turn to ChatGPT to learn all the details of those dishes, from the ingredients to how to prepare them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Identify a Dish and Find Its Recipe Using ChatGPT
 
 [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/) has been around for a while, and this isn't the first time it's been used in cooking. In fact, my colleague Joe took ChatGPT for a spin and asked it to [suggest a dish for dinner](https://tech-haven.techidaily.com/how-to-deactivate-microsofts-guard-in-windows-11-with-3-different-approaches/).
@@ -28,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e0
  However, OpenAI recently released the [GPT-4o](https://some-approaches.techidaily.com/unlock-your-creative-potential-with-the-premier-free-software-lineup-on-mac-for-2024/) update, which has introduced image recognition capability to the chatbot. This means you can give an image to ChatGPT and ask questions about it, all for free. However, remember that ChatGPT does still offer a paid plan, and as a free user, you only have limited access to GPT-4o. You'll need to [upgrade to ChatGPT Plus](https://chatgpt.com/#pricing), which costs $20 per month, to get extended access to GPT-4o.
 
 ![ChatGPT 4o introduction on ChatGPT website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/chatgpt4o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can leverage this capability in various situations, from asking ChatGPT to solving a math question to explaining a complex engineering diagram. Here, I will show you how I use the ChatGPT capability to find out about the ingredients and recipe of an unknown dish.
 
@@ -41,6 +55,13 @@ Close
 
  ChatGPT will take a few seconds to analyze the image and then provide you with all the details you requested.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Good Are the Results Compared to Google Lens?
 
  As I mentioned before, I love to travel, and this isn't the first time I've thought about how I can use my smartphone to identify the dishes I'm eating. In fact, I used to use Google Lens for that very purpose. In case you're not familiar with it, [Google Lens](https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) has a similar capability to GPT-4o, which is the ability to provide information related to an uploaded image.
@@ -48,6 +69,13 @@ Close
  However, the main reason I switched from Google Lens to ChatGPT is because ChatGPT uses the latest technology. Additionally, I've noticed that Google Lens sometimes fails to recognize what's in the image correctly. For example, the dish in the picture below is tandoori lamb chops, but Google Lens incorrectly identified it as Tandoori Chicken.
 
 ![Google Lens screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/google-lens-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is just one example. I've seen this happen with many dishes, and I've also noticed that Google Lens often struggles to identify a dish when there are multiple items in the picture. For instance, in the image above, there are three items -- onions, lemon, and tandoori lamb chops. Because of these multiple items, Google Lens might not identify the dish correctly.
 
@@ -74,28 +102,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>[Updated] 2024 Approved Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-media-hitmakers-top-10-music-video-recipes-for-fb/"><u>[Updated] In 2024, Social Media Hitmakers - TOP 10 Music Video Recipes for FB</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-your-channels-income-understanding-critical-view-thresholds-for-2024/"><u>Boost Your Channel's Income Understanding Critical View Thresholds for 2024</u></a></li>
-<li><a href="https://techidaily.com/guide-enabling-and-using-apple-maps-on-your-windows-pc/"><u>Guide: Enabling and Using Apple Maps on Your Windows PC</u></a></li>
-<li><a href="https://techidaily.com/handling-chromes-security-warning-on-file-downloads-steps-to-successfully-save-files/"><u>Handling Chrome's Security Warning on File Downloads: Steps to Successfully Save Files</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-convert-online-sites-to-on-demand-desktop-programs-skip-the-hurdles-and-start-today/"><u>How to Easily Convert Online Sites to On-Demand Desktop Programs – Skip the Hurdles and Start Today</u></a></li>
-<li><a href="https://techidaily.com/how-to-fix-a-persistent-caps-lock-on-windows-a-guide-to-adjusting-the-keyboard-settings/"><u>How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings</u></a></li>
-<li><a href="https://techidaily.com/how-windows-memory-leakage-is-expanding-computer-storage-needs/"><u>How Windows Memory Leakage Is Expanding Computer Storage Needs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-xs-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone XS Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inventory-of-videography-items-for-exploration/"><u>Inventory of Videography Items for Exploration</u></a></li>
-<li><a href="https://techidaily.com/local-user-creation-bypass-no-longer-works-in-windows-11-update/"><u>Local User Creation Bypass No Longer Works in Windows 11 Update</u></a></li>
-<li><a href="https://techidaily.com/mastering-keyboard-shortcuts-how-to-efficiently-copy-cut-and-paste-in-windows-11/"><u>Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-capturing-your-epic-adventures-in-garrys-mod-on-pc/"><u>Step-by-Step Guide: Capturing Your Epic Adventures in Garry's Mod on PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computing-by-toms-tech-experts/"><u>The Ultimate Guide to Computing by Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-raspberry-pi-model-bplus-with-16gb-memory-successes-and-pitfalls/"><u>Upgrading Your Raspberry Pi Model B+ with 16GB Memory: Successes and Pitfalls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ig-boomerangs-crafting-compelling-circular-content-for-2024/"><u>[New] IG Boomerangs Crafting Compelling Circular Content for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-capturing-attention-the-power-of-these-top-10-tags/"><u>[New] In 2024, Capturing Attention The Power of These Top 10 Tags</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-terrain-trove-top-maps-for-treasure-seeking/"><u>[Updated] Terrain Trove Top Maps for Treasure Seeking</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-overview-using-nearby-share-effectively/"><u>A Comprehensive Overview: Using Nearby Share Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-x50-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor X50 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-iptv-screen/"><u>How to Record IPTV Screen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-power-of-creativity-magix-video-pro-x-demystified/"><u>In 2024, The Power of Creativity Magix Video Pro X Demystified</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>In 2024, Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-list-of-androids-best-music-video-apps/"><u>The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://techidaily.com/top-12-free-mac-image-editing-software-picks-exploring-the-best-choices/"><u>Top 12 Free Mac Image Editing Software Picks - Exploring the Best Choices</u></a></li>
+<li><a href="https://techidaily.com/top-13-webcam-software-solutions-for-windows-10-users-discover-the-ideal-choice/"><u>Top 13 Webcam Software Solutions for Windows 10 Users - Discover the Ideal Choice</u></a></li>
+<li><a href="https://techidaily.com/top-9-ferramentas-de-gestao-fotografica-mais-inovadoras-em-2024-lista-completa/"><u>Top 9 Ferramentas De Gestão Fotográfica Mais Inovadoras Em 2024: Lista Completa</u></a></li>
+<li><a href="https://techidaily.com/transforma-graciosamente-su-videoclip-3gp-en-formato-flv-por-internet-gratis-hace-uso-de-movavi/"><u>Transforma Graciosamente Su Videoclip 3GP en Formato FLV Por Internet Gratis - Hace Uso De Movavi</u></a></li>
+<li><a href="https://techidaily.com/transforma-sus-mp3-a-ausin-problemas-guia-completa-para-usar-movavi-sin-gastos-extras/"><u>Transforma Sus MP3 a AUsin Problemas: Guía Completa Para Usar Movavi Sin Gastos Extras</u></a></li>
+<li><a href="https://techidaily.com/trasforma-file-mp4-in-punti-guida-al-convertitore-di-file-video-on-line-and-app-desktop-con-movavi/"><u>Trasforma File MP4 in Punti: Guida Al Convertitore Di File Video On-Line & App Desktop Con Movavi</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

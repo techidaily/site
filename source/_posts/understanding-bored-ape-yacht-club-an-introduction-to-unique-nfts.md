@@ -1,7 +1,7 @@
 ---
 title: "Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs"
-date: 2024-09-12T18:19:53.510Z
-updated: 2024-09-18T16:53:02.584Z
+date: 2024-09-19T18:42:13.411Z
+updated: 2024-09-23T18:48:09.239Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
  If you're scratching your head at the deluge of Gorillaz-style monkey avatars everywhere on the web, congratulations! You've just had your first encounter with the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and it might make even less sense than you imagine.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  NFT Avatars in a Nutshell
 
  Before we can even touch what the whole Bored Ape thing is about, you need to know a few fundamental things about NFTs or Non-fungible Tokens. We'll go over the least you need to know for it all to make sense, but you can check out our [NFT explainer](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/) for the complete rundown.
@@ -35,6 +42,13 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
  The last thing you need to know is that NFTs can be traded, or sold for currencies such as US dollars, [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/), or Ethereum. The last one is pretty important because NFTs are generally "minted" on the [Ethereum blockchain](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  So What's Up With The Monkey Business?
 
 ![NFTs on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nft-avatars.jpg) 
@@ -47,18 +61,24 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
  Once the initial run of NFTs is purchased from the creators of the set, the monkey-trading begins. Owners of these NFTs can put them up for sale and see if there are any takers, and boy have there been some takers. Bored Ape Yacht Club NFT sales have totaled over [1 billion dollars](https://markets.businessinsider.com/news/currencies/bored-ape-yacht-club-nft-sales-1-billion-opensea-bayc-2022-1) alone. The current record for a [Bored Ape NFT is $3.4 million](https://hypebeast.com/2021/10/bored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse), although more typically they sell in the hundreds of thousands.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  OK, But Why Are They Worth Anything?
 
  The simplest answer to this is because people say they are worth something. This might sound a little trite, but the truth is that value is subjective. Humans tend to value things that are scarce or unique more than things that are commonplace and plentiful. We have irrational attachments to certain things too. A perfect replica of Elvis Presley's white jumpsuit might be worth a few hundred bucks, but the one that Elvis actually wore is worth more than a [million dollars](https://parade.com/1258636/lindsaylowe/elvis-presley-white-jumpsuit-outfit-sold-at-auction-find-out-price/).
 
  The real-world examples of things that have little intrinsic value (e.g. Issue 1 of Action Comics), but then sell for [insane amounts](https://www.supermanhomepage.com/action-comics-1-sells-for-record-price/). NFTs are worth what people are willing to pay for them, the hard part was convincing people to buy them in the first place, which is easier if you have a little help from a famous friend!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Celebrities Are Going Bananas for Bored Apes
 
@@ -73,10 +93,16 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  Celebrity involvement in NFTs, especially the Bored Ape Yacht Club, also makes sense thanks to extra perks that come with Yacht Club membership. For example, there's an exclusive Discord server, and you might get invited to [exclusive parties](https://www.theverge.com/22824387/bored-ape-yacht-club-nft-party-new-york) where you might run into famous Bored Ape owners such as [Eminem](https://fortune.com/2022/01/03/eminem-nft-bored-ape-yacht-club/) (who spent $462 000 on his Bored Ape) or [Snoop Dogg](https://boardroom.tv/bored-ape-nft-celebrity-owners/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Are NFTs Exploding?
@@ -104,19 +130,25 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-mov-saving-strategies-the-six-must-know-tactics-for-windows-11-users-for-2024/"><u>[New] .MOV Saving Strategies - The Six Must-Know Tactics for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-ensure-consistent-frame-rates-in-multi-camera-setups/"><u>[New] 2024 Approved How to Ensure Consistent Frame Rates in Multi-Camera Setups</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-forget-your-finstas-quickly-iosandroid-advice/"><u>[Updated] In 2024, Forget Your Finstas Quickly IOS/Android Advice</u></a></li>
-<li><a href="https://techidaily.com/court-verdict-impacts-cryptocurrency-holders-could-your-ethereum-lose-its-legal-status/"><u>Court Verdict Impacts Cryptocurrency Holders: Could Your Ethereum Lose Its Legal Status?</u></a></li>
-<li><a href="https://techidaily.com/crafting-customized-chatgpt-avatars-tailored-for-any-scenario/"><u>Crafting Customized ChatGPT Avatars Tailored for Any Scenario</u></a></li>
-<li><a href="https://techidaily.com/engage-with-documents-adobes-revolutionary-ai-enables-conversational-interaction-with-pdfs/"><u>Engage with Documents: Adobe's Revolutionary AI Enables Conversational Interaction with PDFs</u></a></li>
-<li><a href="https://techidaily.com/essay-writing-with-ai-the-pros-and-cons-of-utilizing-chatgpt/"><u>Essay Writing with AI: The Pros and Cons of Utilizing ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/essential-insights-top-7-facts-on-plug-in-hybrid-cars/"><u>Essential Insights: Top 7 Facts on Plug-In Hybrid Cars</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-ace-2v-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus Ace 2V to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/professionelles-video-debracken-ein-schritt-fur-schritt-leitfaden-zur-verwendung-von-handbrake-fur-vollformatvideos/"><u>Professionelles Video-Debracken: Ein Schritt-Für-Schritt-Leitfaden Zur Verwendung Von HandBrake Für Vollformatvideos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speeding-up-browsing-with-microsoft-edge-on-win10w11/"><u>Speeding Up Browsing with Microsoft Edge on Win10/W11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/speeding-up-periscope-live-broadcasting-tips/"><u>Speeding Up Periscope Live Broadcasting Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/troubleshooting-iphone-and-android-fb-messenger-stuck-on-videos-for-2024/"><u>Troubleshooting iPhone & Android FB Messenger Stuck on Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chucklechisel-designing-memes-in-adobe/"><u>[New] ChuckleChisel Designing Memes in Adobe</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitch-your-way-mastering-twitter-video-livestreaming/"><u>[Updated] Twitch Your Way Mastering Twitter Video Livestreaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-3-strategies-converting-pinner-visuals-to-audio/"><u>2024 Approved Top 3 Strategies Converting Pinner Visuals to Audio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-through-iphones-top-10-visual-arrangement-techniques/"><u>2024 Approved Unleash Creativity Through iPhone's Top 10 Visual Arrangement Techniques</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725287909819-dvd/"><u>DVDへの変換テクニック：高解像度ビデオ全てが安く保存できる方法</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-webcam-software-update-for-windows-users/"><u>Free Logitech Webcam Software Update for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/gratis-converter-geen-inkomsten-m4v-naar-mp4-online-de-beste-oplossing-van-movavi/"><u>Gratis Converter: Geen Inkomsten-M4V Naar MP4 Online - De Beste Oplossing Van Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratis-omzetten-en-herstellen-van-online-bestandsen-met-movavi-zonder-inzichten/"><u>Gratis Omzetten En Herstellen Van Online Bestandsen Met Movavi - Zonder Inzichten</u></a></li>
+<li><a href="https://techidaily.com/gratuit-verbetering-en-conversie-van-flac-inhoud-naar-wmv-expertise-van-movavi/"><u>Gratuit Verbetering en Conversie Van Flac-Inhoud Naar WMV: Expertise Van Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuito-converter-videos-amv-para-formato-mpg-com-movavi-o-site-de-conversao-online-facil/"><u>Gratuito: Converter Vídeos AMV Para Formato MPG Com Movavi, O Site De Conversão Online Fácil!</u></a></li>
+<li><a href="https://techidaily.com/guide-ultime-comment-ameliorer-la-performance-de-votre-pc-pour-les-jeu-videos-sous-windows-11/"><u>Guide Ultime : Comment Améliorer La Performance De Votre PC Pour Les Jeu Vidéos Sous Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m14-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy M14 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-cybernetic-video-capture-tools/"><u>In 2024, Top Cybernetic Video Capture Tools</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
+<li><a href="https://techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-your-old-vhs-tapes-into-modern-mp4-avi-or-mov-files/"><u>Step-by-Step Guide: Transforming Your Old VHS Tapes Into Modern MP4, AVI or MOV Files</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-smart-shower-systems/"><u>Top Rated Smart Shower Systems</u></a></li>
 </ul></div>
 

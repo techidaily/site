@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Navigate Windows 10: Discover These 13 Shortcut Tips for Settings"
-date: 2024-09-20T00:52:15.843Z
-updated: 2024-09-23T16:25:44.506Z
+date: 2024-09-16T19:59:38.404Z
+updated: 2024-09-24T07:41:20.524Z
 tags:
   - desktop
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  The Settings app is a hub for almost all of Windows 10's settings, and you'll probably find yourself accessing it pretty frequently. Luckily, there's more than one way to open the Settings app—from several different locations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use a Keyboard Shortcut
 
  Windows 10 is [packed full of keyboard shortcuts](https://windows11.techidaily.com/unlocking-microsoft-family-safety-potential/) to help you streamline your workflow, so it should come as no surprise that there's a keyboard shortcut to open the Settings menu.
@@ -43,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  The Settings app will open.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Power User Menu
@@ -54,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  The Power User menu, also known as the [WinX menu](https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-m6-5g-unlock-without-password-by-drfone-android/), is essentially the Start menu's context menu. Open it by right-clicking the Windows icon in the bottom-left corner of your desktop, or use the Windows+X keyboard shortcut. The Power User menu will appear. Here, click "Settings."
 
 ![Right-click the Start button, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-power-user-menu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Settings will open.
 
@@ -75,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  Settings will then launch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access Settings From the Context Menu on the Desktop
@@ -91,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ##  Open Settings From File Explorer
@@ -105,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  You can also access the Settings app from File Explorer's ribbon. First, [open File Explorer](https://youtube-web.techidaily.com/ed-2024-approved-streamers-financial-health-check-in-youtubers/) by clicking its icon in the Taskbar, or use the Windows+E keyboard shortcut.
 
 ![Click the File Explorer icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-File-Explorer-icon..png) 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, in File Explorer, click "This PC" in the left-hand pane and then click "Open Settings" in the ribbon.
 
@@ -117,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  There's also a way to start the Settings app from the [Action Center](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). First, click the text bubble in the bottom-right corner of your desktop to open the Action Center.
 
 ![Click the text bubble icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-text-bubble-icon..png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click "Expand" in the bottom-left corner of the Action Center.
 
@@ -141,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Click 'File,' then select 'Run New Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tsk-mngr-file-run-new-task.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Create New Task window will appear. In the text box, type **ms-settings:** in the field, and then click "OK."
 
 ![Enter 'ms-settings:' into the Run box, then click 'OK.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-new-task.png) 
@@ -160,9 +152,23 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Search for and launch 'Control Panel.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/search-and-launch-control-panel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once in Control Panel, click "User Accounts."
 
 ![Click "User Accounts" in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-User-Accounts-in-Control-Panel..png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the next screen, click "User Accounts" again.
 
@@ -171,13 +177,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  Next, click the "Make Changes to My Account in PC Settings" option.
 
 ![Click "Make changes to my account in PC settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Make-changes-to-my-account-in-PC-settings..png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Settings app will open and you'll be on your profile information page. Click "Home" to go to the top page of the Settings app.
 
@@ -198,10 +197,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 ![Opening 'Command Prompt' from the Start Menu or taskbar search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Command Prompt, run this command:
@@ -211,6 +210,19 @@ start ms-settings:
 ![Running 'start ms-settings:' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cmd.png) 
 
  The Settings app will open.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Run a Command in Windows PowerShell
 
@@ -243,20 +255,17 @@ start ms-settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-ringtone-deals-from-gots-best-online-sources/"><u>2024 Approved Exclusive Ringtone Deals From GoT's Best Online Sources</u></a></li>
-<li><a href="https://techidaily.com/flac-aac-movavi/"><u>移動維馮 FLAC到 AAC格式無間斷地免費轉換 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://techidaily.com/convertissez-gratuitement-vos-fichiers-aif-en-ogg-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers AIF en OGG en Ligne - Avec Movavi</u></a></li>
-<li><a href="https://techidaily.com/crear-videos-en-minutos-guia-expertos-para-usar-movavi-video-suite/"><u>Crear Videos en Minutos: Guía Expertos Para Usar Movavi Video Suite</u></a></li>
-<li><a href="https://techidaily.com/expert-insights-on-movavis-flashback-express-an-in-depth-application-review-and-analysis/"><u>Expert Insights on Movavi's FlashBack Express: An In-Depth Application Review and Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-specs-of-samsung-galaxy-z-fold-6-anticipated-price-point-and-availability-date-announced/"><u>Explore the Specs of Samsung Galaxy Z Fold 6: Anticipated Price Point & Availability Date Announced</u></a></li>
-<li><a href="https://techidaily.com/f4v-to-avi-transformation-no-cost-fast-processing-with-movavis-web-based-solution/"><u>F4V to AVI Transformation: No Cost, Fast Processing with Movavi's Web-Based Solution</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-transform-m4v-files-into-wmv-format/"><u>Free Online Converter: Transform M4V Files Into WMV Format</u></a></li>
-<li><a href="https://techidaily.com/free-online-convertor-change-aiff-and-avi-files-without-cost-using-movavi/"><u>Free Online Convertor - Change AIFF and AVI Files Without Cost Using Movavi</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-bass-brilliance-new-device-overview/"><u>In 2024, Bass Brilliance New Device Overview</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-efficient-backup-of-camera-roll-to-share-via-snapchat/"><u>In 2024, Efficient Backup of Camera Roll to Share via Snapchat</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-asus-rog-phone-8-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Asus ROG Phone 8 Devices | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-talking-avatar/"><u>In 2024, What Is Talking Avatar?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/0-digital-rich-list/"><u>Top 50 Digital Rich List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unveil-the-zodiac-persona-perfecting-personalized-bios-on-whatsapp/"><u>[New] 2024 Approved Unveil the Zodiac Persona - Perfecting Personalized Bios on WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-screenshot-experience-apple-and-androids-best-sticker-add-ons-for-2024/"><u>[Updated] Enhance Your Screenshot Experience Apple & Android's Best Sticker Add-Ons for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-narrative-what-the-google-podcasts-app-offers/"><u>[Updated] Full Narrative What the Google Podcasts App Offers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-unplugged-effective-fixes-for-pc-game-crashes-in-cyberpunk-2077/"><u>Cyberpunk Unplugged: Effective Fixes for PC Game Crashes in Cyberpunk 2077</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fresh-features-alert-learn-to-update-a-samsung-television-system/"><u>Fresh Features Alert! Learn to Update a Samsung Television System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-conversational-ai-essential-for-surviving-extreme-outdoor-conditions/"><u>Is Conversational AI Essential for Surviving Extreme Outdoor Conditions?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-completely-removing-your-presence-from-chatgpt/"><u>Step-by-Step Guide: Completely Removing Your Presence From ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/top-13-webcam-software-solutions-for-windows-10-users-discover-the-ideal-choice/"><u>Top 13 Webcam Software Solutions for Windows 10 Users - Discover the Ideal Choice</u></a></li>
+<li><a href="https://techidaily.com/top-9-ferramentas-de-gestao-fotografica-mais-inovadoras-em-2024-lista-completa/"><u>Top 9 Ferramentas De Gestão Fotográfica Mais Inovadoras Em 2024: Lista Completa</u></a></li>
+<li><a href="https://techidaily.com/transforma-graciosamente-su-videoclip-3gp-en-formato-flv-por-internet-gratis-hace-uso-de-movavi/"><u>Transforma Graciosamente Su Videoclip 3GP en Formato FLV Por Internet Gratis - Hace Uso De Movavi</u></a></li>
+<li><a href="https://techidaily.com/transforma-sus-mp3-a-ausin-problemas-guia-completa-para-usar-movavi-sin-gastos-extras/"><u>Transforma Sus MP3 a AUsin Problemas: Guía Completa Para Usar Movavi Sin Gastos Extras</u></a></li>
 </ul></div>
 

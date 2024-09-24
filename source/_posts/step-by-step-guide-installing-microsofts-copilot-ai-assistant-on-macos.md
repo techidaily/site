@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-09-17T07:30:36.500Z
-updated: 2024-09-23T17:09:45.941Z
+date: 2024-09-19T05:56:00.722Z
+updated: 2024-09-24T10:12:45.452Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,19 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Copilot Web App
 
  Microsoft's Copilot AI assistant is available on the web in any web browser. You can simply load it up in whatever browser you use and access it from there. A better option, though, is to save it as a web app.
@@ -28,37 +41,30 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
  You can save web apps in other browsers, too. In Chrome, tap the three-dot menu button, go to More Tools > Create Shortcut, check "Open as Window", and click "Create". In Edge, click the three-dot menu button and go to Apps > Install This Site as an App.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Run the Copilot iPad App on Your Mac
 
@@ -81,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -106,18 +112,24 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-adding-descriptive-titlestexts-via-microsoft-photos-win-11-for-2024/"><u>[New] Adding Descriptive Titles/Texts via Microsoft Photos Win 11 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-automating-subtitles-for-social-media-visuals-on-instagram/"><u>[New] Automating Subtitles for Social Media Visuals on Instagram</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizedusageofyourwebcamrecorder/"><u>2024 Approved OptimizedUsageOfYourWebcamRecorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/compensated-analysis-the-vlog-perspective-on-goods-in-2024/"><u>Compensated Analysis The Vlog Perspective on Goods, In 2024</u></a></li>
-<li><a href="https://techidaily.com/download-e-converter-audio-e-video-em-linha-gratuitamente-com-moviavi-sua-ferramenta-de-conversao-de-mp4-simplificada/"><u>Download E Converter Áudio E Vídeo Em Linha Gratuitamente Com Moviávi: Sua Ferramenta De Conversão De MP4 Simplificada</u></a></li>
-<li><a href="https://techidaily.com/download-movavis-web-based-media-transformation-tool-for-hassle-free-mp3-audio-from-3gp-files-completely-gratis/"><u>Download Movavi's Web-Based Media Transformation Tool for Hassle-Free MP3 Audio From 3GP Files, Completely Gratis!</u></a></li>
-<li><a href="https://techidaily.com/downloadable-solutions-for-quick-and-hassle-free-rmvb-to-mp4-file-transformation-by-moveavi/"><u>Downloadable Solutions for Quick & Hassle-Free RMVB to MP4 File Transformation by Moveavi</u></a></li>
-<li><a href="https://techidaily.com/easy-step-by-step-guide-to-convert-avi-videos-to-wmv-utilize-the-power-of-movavis-free-tool/"><u>Easy Step-by-Step Guide to Convert AVI Videos to WMV - Utilize the Power of Movavi's Free Tool!</u></a></li>
-<li><a href="https://techidaily.com/effortless-aiff-to-mp3-transformation-explore-movavis-free-service-options/"><u>Effortless AIFF-to-MP3 Transformation - Explore Movavi’s Free Service Options</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empowered-parenting-with-ai-the-ultimate-chatgpt-and-generative-tech-roadmap-for-families/"><u>Empowered Parenting with AI: The Ultimate ChatGPT & Generative Tech Roadmap for Families</u></a></li>
-<li><a href="https://techidaily.com/f4v-to-mp3-converter-professionele-online-konvertiering-ohne-kosten-movavi/"><u>F4V-to-MP3 Converter: Professionele Online Konvertiering Ohne Kosten - Movavi</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-6-ways-to-embed-facebook-live-on-a-website/"><u>In 2024, 6 Ways to Embed Facebook Live on a Website</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-6s-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 6s Plus? How to Fix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixed-7-fixes-for-twitch-streams-not-loading/"><u>[Fixed] 7 Fixes for Twitch Streams Not Loading</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-refining-online-discussions-in-google-meet/"><u>[New] In 2024, Refining Online Discussions in Google Meet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-video-producers-route-to-royalty-free-soundtracks/"><u>[New] The Video Producer’s Route to Royalty-Free Soundtracks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tutorial-smoothly-embedding-urls-on-instagram-feed/"><u>[New] Tutorial Smoothly Embedding URLs on Instagram Feed</u></a></li>
+<li><a href="https://techidaily.com/mp3-ogv-movavi/"><u>「お金をかけずに MP3 と OGV 形式で音楽ファイルを簡単に変換:Movavi」</u></a></li>
+<li><a href="https://techidaily.com/mp4-movavi-aac/"><u>在线无花言不语MP4转换：以 Movavi 为首选，AAC 格式自由免费</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exploring-the-unspoken-rules-of-instagram-mastery-for-2024/"><u>Exploring the Unspoken Rules of Instagram Mastery for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-s23plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy S23+ Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/kostenloze-omzettingen-van-ape-naar-aiff-formaat-gratuite-online-vervulling-door-movavi/"><u>Kostenloze Omzettingen Van APE Naar AIFF-Formaat - Gratuite Online Vervulling Door Movavi</u></a></li>
+<li><a href="https://techidaily.com/mac-recording-simplified-5-effective-methods-from-movavi/"><u>Mac Recording Simplified: 5 Effective Methods From Movavi</u></a></li>
+<li><a href="https://techidaily.com/melhores-substitutos-do-final-cut-pro-em-tempo-real-para-sistemas-windows-top-16/"><u>Melhores Substitutos Do Final Cut Pro Em Tempo Real Para Sistemas Windows (Top 16)</u></a></li>
+<li><a href="https://techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
+<li><a href="https://techidaily.com/movavis-free-tool-for-quickly-transforming-m4r-files-into-mp3-format-on-the-web/"><u>Movavi's Free Tool for Quickly Transforming M4R Files Into MP3 Format on the Web</u></a></li>
+<li><a href="https://techidaily.com/movaviape-flac/"><u>Movaviを使ったオンデマンドAPE FLAC変換: 完全無料オプション</u></a></li>
+<li><a href="https://techidaily.com/mp4-conversion-tool-seamless-mov-to-mp4-upgrade-for-free-with-movavis-online-service/"><u>MP4 Conversion Tool - Seamless MOV to MP4 Upgrade for Free with Movavi's Online Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-printer-paper-jams-and-errors/"><u>Overcoming Printer Paper Jams and Errors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/syncing-your-pre-recording-with-real-time-facebook-broadcasts-for-2024/"><u>Syncing Your Pre-Recording with Real-Time Facebook Broadcasts for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-no-cost-video-editors-for-side-by-side-videos-online-and-offline-for-2024/"><u>Updated Best No-Cost Video Editors for Side-by-Side Videos Online & Offline for 2024</u></a></li>
 </ul></div>
 

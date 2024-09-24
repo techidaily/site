@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look at the Lenovo ThinkPad X1 Titanium Yoga: A Dream Come True for Diehard ThinkPad Lovers"
-date: 2024-08-09T01:48:55.667Z
-updated: 2024-08-10T01:48:55.667Z
+date: 2024-09-21T10:09:13.636Z
+updated: 2024-09-24T11:34:00.329Z
 categories:
   - BestProducts
 description: "This Article Describes Exclusive Look at the Lenovo ThinkPad X1 Titanium Yoga: A Dream Come True for Diehard ThinkPad Lovers"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 ## Amazon Fire TV Cube
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/K_gugGZBSXUKggkCqocQEu_IF2U=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
 
 Lifewire/Emily Ramirez
@@ -42,11 +39,21 @@ Lifewire/Emily Ramirez
 
 4.6
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Fire TV Cube
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/WzC13ETTqm-8PU2bc8-jh9O3G7c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
 
 Lifewire/Emily Ramirez
@@ -70,16 +77,10 @@ Lifewire/Emily Ramirez
 
  Updated for 2019, the Amazon Fire TV Cube brings powerful hardware that can stream thousands of channels and apps in full[4K HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) with Dolby Vision encoding. The glowing cube also takes voice commands, basically making it an Echo speaker, but is Alexa’s brainpower and its beefy hexacore processor enough to justify its relatively hefty price tag? I spent 15 hours putting it to the test, read on to see how I liked it.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/XdJMKZTDX0bcXYVWQa5F4sXhnt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroHoriz-bb386a84025b49d2a22d3d34c6974007.jpg)
 
  Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Futuristic design powered by Alexa**
 
  The Fire TV Cube is a cute, futuristic-looking block that will stand out on your home console despite its 4-inch sides. On the outside, it’s virtually unchanged from the first-generation model. Across the top, there’s a blue LED bar that lights up whenever the Cube takes action. The sides of the cube have a glossy black finish that’s a fingerprint magnet. There’s volume and menu buttons on the top, as well, but we don’t foresee a lot of use for them considering that the Cube comes with a remote. In the back, there’s an[HDMI connector](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a power adapter port, and a micro USB port.
@@ -94,15 +95,19 @@ Lifewire/Emily Ramirez
 
  My biggest pet peeve with the Cube’s design and features is its accessory bundle. For $120, Amazon could have afforded to throw in an HDMI cable—the $30 Roku Express has one, for instance. If you end up purchasing a Cube, remember to also get an[HDMI cable](https://www.lifewire.com/hdmi-cables-and-connectors-what-you-need-to-know-4685377) . I’ve found Blue Rigger strikes a great balance between affordability and quality, if you need a recommendation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Some difficulty in getting ready**
 
  Compared to the[Fire TV Stick](https://www.lifewire.com/amazon-fire-tv-stick-4k-review-4691492) , the Cube is a little harder to set up— it doesn’t automatically boot like the Stick, and you need to take into consideration its IR receivers. It must have a clear line of sight to your remote, so place it somewhere you can see it. Additionally, if you want to take advantage of its 4K capabilities, you’ll likely want to use the included Ethernet adapter (and you’ll need to acquire an[Ethernet cable](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ).
 
  Once you have your cables connected and power flowing to the Cube, you now need to go through the software side of setup. It’ll ask you to connect to Internet, pick out some apps/channels, and log into your Amazon account.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Streaming Performance: Fast streaming and almost no buffering**
 
  With a hexa-core processor and an ARM Mali G52-MP2 GPU, the Fire TV Cube is blazing fast. Any trouble streaming 4K content is going to come from your internet connection. When I tested it, content loaded instantly, with little to no buffer time and instant thumbnail loading.
@@ -115,9 +120,6 @@ Lifewire/Emily Ramirez
 
 Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Heavily biased toward Amazon services**
 
  Software is simultaneously Fire TV’s strongest and weakest point. On the one hand, the quantity of content available on the Fire TV platform is astounding—there’s over 5,000 apps to choose from, as well as a meager library of simple games to play. If you’re looking for something, you will find it.
@@ -136,13 +138,17 @@ Lifewire/Emily Ramirez
 
 Lifewire/Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: On the expensive side**
 
  The Fire TV Cube costs $120, which is frankly a little expensive compared to the Fire TV Stick 4K or an Amazon Echo. However, if you want an Echo that’s also a media player, the Cube is your best option. It comes with excellent performance, control for IoT devices, built-in speaker and mic, and svelte looks. While it’s not the best value streaming device, it’s certainly a versatile and well-featured one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Amazon Fire TV Cube vs. Roku Ultra**
 
  There’s a lot to consider if you’re choosing between the Roku Ultra and the Fire TV Cube. Specs-wise, the Fire TV Cube is undoubtedly more powerful and supports more codecs. However, the Roku Ultra has more than enough power to handle 4K content, and it supports HDR, so only the pickiest film lovers would even notice the difference.
@@ -154,6 +160,13 @@ Lifewire/Emily Ramirez
  **A powerful streaming device with lots of added functionality.**
 
  The Amazon Fire TV Cube is a fantastic streamer for those committed to the Alexa ecosystem. However, it’s a little expensive if you only want reliable 4K streaming, in which case you may be better served by the Fire TV Stick 4K or the Roku Streaming Stick+ for $50.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,8 +186,6 @@ Lifewire/Emily Ramirez
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,40 +195,20 @@ Lifewire/Emily Ramirez
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-taming-high-quality-streams-obs/"><u>[New] In 2024, Taming High-Quality Streams (OBS)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-easy-steps-to-setting-up-a-professional-discord-stream/"><u>[Updated] In 2024, Easy Steps to Setting Up a Professional Discord Stream</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unmatched-playwrights-arena/"><u>[Updated] Unmatched Playwright's Arena</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-11r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus 11R Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elite-strategies-for-optimizing-fps-on-valheim-updated-tips/"><u>Elite Strategies for Optimizing FPS on Valheim - Updated Tips</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y27s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y27s in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-pova-5-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Pova 5 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-k11-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo K11 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-logitech-g920-mouse-drivers-on-your-pc-compatible-with-win11-win10-win8-and-win7/"><u>How to Get Logitech G920 Mouse Drivers on Your PC - Compatible with Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-11-proplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 11 Pro+ Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-guide-master-adobe-captivates-screen-capture-feature/"><u>In 2024, Cutting-Edge Guide  Master Adobe Captivate's Screen Capture Feature</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-edgeplus-2023-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Edge+ (2023) Phone? Unlock It Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-next-level-mp4-experience-integrating-advanced-srt-audio/"><u>In 2024, Next-Level MP4 Experience  Integrating Advanced SRT Audio</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-video-tools-for-iphone/"><u>In 2024, Premiere Video Tools for iPhone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-guide-to-excellence-in-zoom-webinars/"><u>In 2024, The Insider’s Guide to Excellence in Zoom Webinars</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-video-production-with-chroma-key-techniques-for-2024/"><u>Mastering Video Production with Chroma Key Techniques for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-note-30-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Note 30 on Windows</u></a></li>
-<li><a href="https://techidaily.com/resolving-iphone-updaterestore-issue-detailed-guide-on-overcoming-error-code-4013/"><u>Resolving iPhone Update/Restore Issue: Detailed Guide on Overcoming Error Code 4013</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-realme-11-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Realme 11 5G</u></a></li>
-<li><a href="https://techidaily.com/stellar-rising-first-photography-restoration-software/"><u>Stellar Rising: First Photography Restoration Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-best-8-platforms-for-effective-youtube-advertising-for-2024/"><u>The Best 8 Platforms for Effective Youtube Advertising for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-cosmic-clear-sweep-setting-up-regular-data-deletion-in-windows-environment/"><u>The Cosmic Clear Sweep - Setting Up Regular Data Deletion in Windows Environment</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-tecno-camon-20-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Tecno Camon 20 without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-pop-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Pop 8 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-how-to-restore-deleted-partition-data-using-advanced-tools/"><u>Ultimate Guide: How to Restore Deleted Partition Data Using Advanced Tools</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-camon-20-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Camon 20 on Windows?</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-vivo-s18-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Vivo S18 Pro on Windows?</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-asus-rog-phone-7-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Asus ROG Phone 7</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 7 Plus? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/windows-cannot-detect-devices-operating-system/"><u>Windows Cannot Detect Device's Operating System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-channels-spotlight-on-the-most-popular-female-creators-for-2024/"><u>[New] Captivating Channels Spotlight on the Most Popular Female Creators for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-in-depth-examination-hero4-black-innovation/"><u>2024 Approved In-Depth Examination Hero4 Black Innovation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-winning-marketing-campaigns-based-on-market-research-data/"><u>Crafting Winning Marketing Campaigns Based on Market Research Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-way-to-enjoy-indiana-jones-movies-back-to-back/"><u>Easy Way to Enjoy Indiana Jones Movies Back to Back</u></a></li>
+<li><a href="https://techidaily.com/how-to-torrent-safely-without-getting-caught-without-virus/"><u>How to Torrent Safely [Without Getting Caught, Without Virus]</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-windows-10-drivers-if-you-cant-find-them-on-manufacturers-website/"><u>How to Update Windows 10 Drivers if You Can’t Find Them on Manufacturer’s Website</u></a></li>
+<li><a href="https://techidaily.com/improve-your-listening-experience-mastering-windows-10s-built-in-equalizer-features/"><u>Improve Your Listening Experience: Mastering Windows 10'S Built-In Equalizer Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proactive-zoom-meeting-strategies-for-improved-skype-interactions/"><u>In 2024, Proactive Zoom Meeting Strategies for Improved Skype Interactions</u></a></li>
+<li><a href="https://techidaily.com/master-your-visuals-customizing-3d-settings-on-nvidias-dashboard/"><u>Master Your Visuals: Customizing 3D Settings on NVIDIA's Dashboard</u></a></li>
+<li><a href="https://techidaily.com/minecraft-offline-mode-a-step-by-step-tutorial-for-windows-10-users/"><u>Minecraft Offline Mode: A Step-by-Step Tutorial for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/msi-camera-malfunction-learn-how-to-repair-and-optimize-with-these-helpful-hints/"><u>MSI Camera Malfunction? Learn How to Repair & Optimize with These Helpful Hints</u></a></li>
+<li><a href="https://techidaily.com/optimizing-graphics-performance-a-guide-to-pubgs-configurations-on-nvidia-gpus/"><u>Optimizing Graphics Performance: A Guide to PUBG's Configurations on NVIDIA GPUs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-solutions-overcome-forza-horizon-5s-persistent-load-screens/"><u>Top 7 Solutions: Overcome Forza Horizon 5'S Persistent Load Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-linux-potential-with-windows-programming/"><u>Unlocking Linux Potential with Windows Programming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveil-the-steps-to-switch-onoff-your-computers-lan-discovery-feature-in-windows-10/"><u>Unveil the Steps to Switch On/Off Your Computer's LAN Discovery Feature in WIndows 10</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images"
-date: 2024-09-21T08:38:11.604Z
-updated: 2024-09-24T08:06:47.105Z
+date: 2024-09-18T03:12:37.208Z
+updated: 2024-09-24T05:06:01.109Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  Photoshop has a built-in neural filter for restoring old scratched photos. But you don’t need to spend 20 bucks a month just to use that feature. Microsoft has developed a more robust AI for the job and it’s completely free. Here’s the only guide you need to bring your old photos back to life.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Microsoft's AI that Brings Old Photos Back to Life
 
  There was a time when it took Photoshop gurus hours of painstaking labor to [fix up old degraded photos](https://some-tips.techidaily.com/updated-top-tunes-where-to-secure-soundscapes/). Today, AI can do most of the heavy lifting. So much so that you can restore a photo with just one click!
@@ -26,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 [Bringing Old Photos Back to Life](https://www.microsoft.com/en-us/research/publication/bringing-old-photos-back-to-life/) is the official Microsoft project for AI-powered photo restoration. The project samples show some stunning restoration jobs on a few degraded photos. I tested it with some photos of my own too, and it worked like a charm.
 
 ![Sample photos showcasing Microsoft's photo restoration AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0001.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, Microsoft has yet to offer an official app to use this AI. If you have a powerful PC and you possess the technical know-how, you can run the AI on your own hardware.
 
@@ -53,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  To get started with Replicate, all we need is a GitHub account. If you already have a GitHub, skip this step, otherwise, head over to [GitHub](https://github.com/join/). You need a valid email to join GitHub and the sign-up only takes a few minutes.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Restoring Old Photos
 
  After [logging into Replicate](https://replicate.com/), we’re ready for the first step. In the search bar, enter **Bringing Old Photos Back to Life**, or you can [go directly to the page](https://www.replicate.com/microsoft/bringing-old-photos-back-to-life).
@@ -62,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 ![Clicking the upload button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload.png) 
 
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -83,10 +89,10 @@ Close
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Colorizing Restored Photos
@@ -101,6 +107,13 @@ Close
 
 ![Arrow indicating the upload button on the Deoldify input form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Deoldify has two settings: the model name and the render factor. You can play around with both until you get the best result. The default is the Artistic model and a render factor of “35” which should work in most scenarios. I got a better result with Stable here.
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
@@ -108,13 +121,6 @@ Close
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
 
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Upscaling Old Photos
 
@@ -124,14 +130,14 @@ Close
 
 ![Arrow pointing at the upload button for ESRGAN AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-2.png) 
 
-![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
 
 Close 
 
@@ -148,10 +154,16 @@ Close
 ![Before and after preview of the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/comparison.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Including these three AI models, Replicate has a whole [collection of image restoration models](https://replicate.com/collections/image-restoration). There’s also a catalog dedicated to image [upscaling and refining models](https://replicate.com/collections/super-resolution).
@@ -177,22 +189,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>[New] 2024 Approved Comprehensive Guide Record Webcam in HD via VLC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-windows-call-platforms-7-1-ranked/"><u>[New] 2024 Approved Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-bring-back-the-sparkle-applying-instagram-effects-retro-style/"><u>[New] In 2024, Bring Back the Sparkle Applying Instagram Effects Retro Style</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-timeline-enhancement-incor-written-by-assistant/"><u>[Updated] 2024 Approved Timeline Enhancement Incor Written by Assistant</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-groundbreaking-gear-for-virtual-reality-players/"><u>[Updated] Groundbreaking Gear for Virtual Reality Players</u></a></li>
-<li><a href="https://techidaily.com/gifmkv-movavi/"><u>網路無限 GIF到MKV自由提供 - 利用 Movavi 影像格式轉檔工具</u></a></li>
-<li><a href="https://techidaily.com/flac-aac-movavi/"><u>移動維馮 FLAC到 AAC格式無間斷地免費轉換 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://techidaily.com/gsmpcandroid-movavi-mp3/"><u>移動用GSM音楽をPC/Androidへ変換するための無料ソリューション – Movavi MP3変換</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-eight-lucrative-chatgpt-jobs-are-they-genuine-pathways-for-earning-extra-cash/"><u>Exploring Eight Lucrative ChatGPT Jobs - Are They Genuine Pathways for Earning Extra Cash?</u></a></li>
-<li><a href="https://techidaily.com/free-online-converter-transform-m4v-files-into-wmv-format/"><u>Free Online Converter: Transform M4V Files Into WMV Format</u></a></li>
-<li><a href="https://techidaily.com/free-online-convertor-change-aiff-and-avi-files-without-cost-using-movavi/"><u>Free Online Convertor - Change AIFF and AVI Files Without Cost Using Movavi</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/concept-to-creation-crafting-youtube-video-splits/"><u>From Concept to Creation Crafting YouTube Video Splits</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-avi-in-gif-verwijderen-online-bewerking-met-movavi/"><u>Gratis AVI-In GIF Verwijderen - Online Bewerking Met Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuito-conversione-in-linea-dei-file-mp2-al-formato-wav-utilizzando-leditor-audio-di-movavi/"><u>Gratuito: Conversione In Linea Dei File MP2 Al Formato WAV Utilizzando L'Editor Audio Di Movavi</u></a></li>
-<li><a href="https://techidaily.com/gravacion-de-video-a-formato-de-audio-libre-y-gratuita-con-mp4-a-mp3-online/"><u>Gravación De Video a Formato De Audio Libre Y Gratuita Con MP4 a MP3 Online</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>In 2024, The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
-<li><a href="https://techidaily.com/megoldas-az-mxf-a-mp4-konvertalasa-modjairol-8-as-kiadasu-konverter-tenyezoknek-a-macwindows-rendszerrel/"><u>Megoldás Az MXF a MP4 Konvertálása Módjairol 8-as Kiadású Konverter Tényezőknek A Mac/Windows Rendszerrel</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streamlining-twitters-video-transfer-to-fb-network/"><u>[Updated] Streamlining Twitters Video Transfer to FB Network</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-secure-extraction-converting-youtube-to-trusted-mp4/"><u>2024 Approved Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
+<li><a href="https://techidaily.com/conversion-amv-en-avi-sans-frais-utiliser-le-service-online-de-movavi/"><u>Conversion Amv en Avi Sans Frais : Utiliser Le Service Online De Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-de-archivos-libremente-en-linea-mp2mp3-a-mp4-mediante-movavi/"><u>Conversión De Archivos Libremente en Línea - MP2/MP3 a MP4 Mediante Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-de-fichiers-asf-vers-mov-en-ligne-strategies-rapides-et-faciles-a-moins-de-cout-guide-expert-de-movavi/"><u>Conversion De Fichiers ASF Vers MOV en Ligne : Stratégies Rapides Et Faciles À Moins De Coût - Guide Expert De Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversion-facile-et-gratuit-de-fichiers-mkv-a-formats-mov-en-ligne-convertixpert/"><u>Conversion Facile Et Gratuit De Fichiers MKV À Formats MOV en Ligne - ConvertiXpert</u></a></li>
+<li><a href="https://techidaily.com/convert-your-ringtone-with-movavi-fast-free-transformation-of-m4r-to-wav/"><u>Convert Your Ringtone with Movavi: Fast, Free Transformation of M4R to WAV</u></a></li>
+<li><a href="https://techidaily.com/convertidor-acc-para-video-avi-en-linea-sin-coste-movavi/"><u>Convertidor ACC Para Video AVI en Línea Sin Coste - Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertir-contenido-flv-a-mpg-facilmente-y-gratis-mediante-el-servicio-en-linea-de-movavi/"><u>Convertir Contenido FLV a MPG Fácilmente Y Gratis Mediante El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-14-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 14 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-video-editing-on-a-budget-free-software-for-32-bit-windows/"><u>New 2024 Approved Video Editing on a Budget Free Software for 32-Bit Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-volume-control-preferences-in-your-windows-pc/"><u>Revive Volume Control Preferences in Your Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-usb-headphones-in-windows-7/"><u>Troubleshooting Guide: Fixing Silent USB Headphones in Windows 7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-distinct-features-of-mts-and-m2ts-in-hd-camcorder-avchd-technology/"><u>Understanding the Distinct Features of MTS and M2TS in HD Camcorder AVCHD Technology</u></a></li>
 </ul></div>
 

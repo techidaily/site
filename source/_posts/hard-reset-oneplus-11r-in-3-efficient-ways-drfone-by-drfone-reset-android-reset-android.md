@@ -1,7 +1,7 @@
 ---
 title: Hard Reset OnePlus 11R in 3 Efficient Ways | Dr.fone
-date: 2024-08-01T13:49:31.587Z
-updated: 2024-08-02T13:49:31.587Z
+date: 2024-09-22T17:56:33.436Z
+updated: 2024-09-24T16:28:24.620Z
 tags: 
   - reset
 categories:
@@ -18,9 +18,6 @@ Nothing good lasts forever, not even your all-singing, all-dancing new Android s
 
 Before taking the plunge, there are a number of factors to consider. We've put together a quick guide to let you know what you need to know... and what you need to do. Before we start deleting stuff, however, it's important to understand what a Factory reset is.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Part 1: What is Factory Reset?
 
 There are two types of reset for every Android device, soft and hard resets. A [soft reset](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is just a way to force the Android operating system to shut down in the event of a freeze and you only risk losing any data which wasn't saved prior to the reset.
@@ -49,10 +46,14 @@ Dr.Fone - Phone Backup (Android) enables you to backup all your data, including 
 
 Back up and restore data from your device to a computer with a single click. It's a tried and tested program and compatible with over 8000+ devices. To use it, click the link, download it and follow these instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
@@ -69,21 +70,10 @@ Backup & Restore Data Turns Flexible
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
@@ -114,20 +104,37 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the OnePlus 11R device resets itself.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2. Resetting Your Phone in Recovery Mode
 
 If your phone is misbehaving it might be easier to reset it via Recovery Mode. To do this you must turn your device off first.
 
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/14587119349819.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. If done correctly. You'll find an image of an Android robot alongside a red exclamation mark and the words 'No command'.
 
@@ -139,10 +146,6 @@ Step 6. Scroll to 'Yes - erase all user data' and to complete the process press 
 
 Please note: Devices running Android 5.1 or above, will still require you to enter your Google Password to complete this reset.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Method 3. Resetting Your Phone Remotely With Android Device Manager
 
 You can also perform a factory reset by using the Android Device manager App. Obviously, you'll need to have Android Device Manager installed on your phone for which you'll need a Google Account.
@@ -152,6 +155,13 @@ Step 1. Sign in to the App and locate your device on whatever medium you are cur
 Step 2. Select erase all data. This is particularly effective if you have lost or had your phone stolen and your device is running Android 5.1 or higher as whoever has your phone will still need your Google Password to be able to reset the Phone.
 
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
@@ -167,30 +177,28 @@ Once you have restarted your mobile, connect it to your PC and open Dr.Fone on y
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -213,28 +221,10 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## All Things You Need to Know about Wipe Data/Factoy Reset For OnePlus 11R
-
 
 Wiping data or carrying out a factory reset on an Android device is an effective solution for various issues on your Android phone. Even if you are contemplating selling your phone and you need all your device data to be wiped out, you carry out a factory reset. But, before you proceed, what’s important is to understand about wipe data/ factory reset, because, if you don’t, you might end up losing all your important data before it is backed up, serving no purpose. So, before you wipe data/ factory reset Android, here’s what you should know about it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What data will be wiped by Wipe Data/Factory Reset?
 
 Doing a factory reset on the Android device will remove all the applications installed on the OnePlus 11R device along with the data associated with them. This brings back all the default settings of the OnePlus 11R device as it was when the phone was new, giving you a clean slate to start all over again.
@@ -243,27 +233,18 @@ Doing a factory reset on the Android device will remove all the applications ins
 
 Since Wipe data/factory reset deletes all applications, app data, and information (documents, videos, images, music, etc) stored in the internal space, it is required for you to perform a [data backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) operation before you reset the Android device to factory settings. However, wipe data/factory reset does not affect the SD card in any way. So, even if you have the SD card inserted with videos, images, documents, and any other personal information in the Android device while carrying out a factory reset, everything will remain safe and intact.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to perform Wipe Data/ Factory Reset?
 
 Performing [wipe data/factory reset on your Android device](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)e is very simple. It is a matter of time before you wipe out everything lying on the internal storage of your Android device. Here’s how you can perform Wipe data/ Factory Rest on your device:
 
 Step 1: First of all, turn off the OnePlus 11R device. Then, use the volume up button, volume down button, and Power button on your Android device simultaneously and hold on to the buttons until the phone turns on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/04/14925873397589.jpg)
 
 Step 2: Release the buttons when the OnePlus 11R device is powered on. Now, use the volume up and down button to sift through the options given on the screen. Use the power button to select “Recovery Mode” on the screen. Your phone will restart into “Recovery Mode’ and you will find the below screen:
 
 Step 3: Holding the power button down, use the volume up button, and the Android system recovery menu will pop up.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/04/14925873903261.jpg)
 
 Now, scroll down to “wipe data/factory reset” option from the list of commands and use the Power button to select it.
@@ -274,13 +255,6 @@ Now, scroll down to “Yes – delete all user data” using the volume button a
 
 In some time your device will be reset into factory settings with all your data erased. The entire process will take a few minutes. Ensure that you have the phone at least 70% charged so that it does not run out of charge midway.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Part 3: Does Wipe Data/ Factory Reset wipe all your data?
 
 There are various instances where you would require performing a wipe/factory reset on your device. It might be because of some glitch that you would like to troubleshoot on your Android device. Wiping data from the phone is a universal solution in such cases. Even in cases where you want to sell your device, performing a factory reset seems the best option. What’s important is to make sure you don’t leave a trace of your personal information on the OnePlus 11R device. Therefore, wipe data/factory reset is never the ultimate solution to rely on. It is neither the best option anyway.
@@ -312,9 +286,6 @@ Step 2: Initiate the Process
 
 When the tool's window opens, click **Start** to trigger the operation.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start erasing all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 Step 3: Confirm and Execute Data Eraser
@@ -341,10 +312,6 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## All About Factory Reset, What Is It and What It Does to Your OnePlus 11R?
@@ -369,38 +336,23 @@ One way or another, you must twofold check these things before a factory reset:
 - Passwords
 - Music
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to Start OnePlus 11R Factory Reset
 
 Now is the right time to **factory reset OnePlus 11R** when you have everything backed up. The following steps will help you factory reset your OnePlus 11R:
 
 - On your OnePlus 11R, head into the settings application. Look over right down and search for System and click it. Look down and search for Reset options.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset options](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-1.jpg)
 
 - Go to System and tap the "Erase all data" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase all data](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-3.jpg)
 
 - Note: After tapping this, the following page will allow you to see what will be cleaned from the OnePlus 11R device. Make sure everything is covered in your backup.
 - Pick whether you need to delete any downloaded SIMs and tap Erase all data.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![factory reset](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-4.jpg)
 
 - You might need to enter your password to complete the reset.
@@ -411,16 +363,10 @@ A factory reset deletes everything from your OnePlus 11R device. You might utili
 
 A hard reset is a basic rebooting of your cell phone. It doesn't influence the data on your OnePlus 11R. You might utilize a hard reset when your OnePlus 11R is acting slow. However, it is different from a standard reboot of your OnePlus 11R.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What can OnePlus 11R Factory Reset do?
 
 A factory reset deletes every user information, application, related application data, and settings on your pixel phone. It is like hard drive reformatting in a PC. However, a factory reset fixes different hardware and software-related issues. It also unlocks your phone in case you forget your lock screen password, or you need to **factory reset OnePlus 11R** before selling it to protect your privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: 2 Easy Ways to improve your OnePlus 11R Factory Reset
 
 ### 1\. [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
@@ -431,21 +377,22 @@ You can use Dr.Fone Data Eraser to reset your OnePlus 11R phone within minutes. 
 
 - Launch the Wondershare Dr.Fone software and click the "Data Eraser" from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Connect your OnePlus 11R and PC using a connector. Please make sure that USB Debugging is on in your OnePlus 11R.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![connect your OnePlus 11R](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
 - The software will automatically read your OnePlus 11R phone and start to erase your files. Click "Erase All Data."
 
 ![erase all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Type in "000000" to affirm your activity and continue.
 
@@ -455,53 +402,48 @@ You can use Dr.Fone Data Eraser to reset your OnePlus 11R phone within minutes. 
 
 ![erased successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 As we mentioned before, we recommend you back up your files before a factory reset. You can use Dr.Fone - Phone Backup (Android) to back up data without any hassle and data loss. With this tool, backing up your OnePlus 11R has never been simpler. The program makes it simple to back up your OnePlus 11R data to the PC and recover supporting data for your Android gadget. Now let's find out how you can back up and upload your OnePlus 11R files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 - Open Dr.Fone Phone Backup on your PC, and select the "Phone Backup" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![phone backup](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Connect your OnePlus 11R and PC through a USB connector. However, make sure to permit USB Debugging on your OnePlus 11R.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect your OnePlus 11R](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 - Click "Backup" to begin the backup of OnePlus 11R data.
 - After the connection, select the File types you need to upload. Of course, Dr.Fone has checked all the document types for you. Then click on backup to begin the process. It will require a short time. Kindly don't detach your OnePlus 11R nor use it during the backup.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![choose file types](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
 - After the backup is finished, you can tap on the "View the Backup" button to see what's in the document.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup complete](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 ### The Bottom Line
 
 Factory resetting is not ideal for some problems, but sometimes it becomes the only possible solution. So, if you have your phone stuck or want to sell your old phone, you need to **factory reset OnePlus 11R**. But make sure to back up your phone before going for a reset. You can back up your files before a factory reset using Dr.Fone - Phone Backup (Android).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -515,43 +457,24 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-maximizing-impact-with-reddit-essential-tips-revealed/"><u>[New] In 2024, Maximizing Impact with Reddit - Essential Tips Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-prime-pick-simple-effective-gaming-edit-suites/"><u>[New] Prime Pick  Simple, Effective Gaming Edit Suites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-key-to-unlocking-io-screen-capture-techniques/"><u>[New] The Key to Unlocking IO Screen Capture Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eye-catcher-gaming-creating-striking-template-designs/"><u>[Updated] In 2024, Eye Catcher Gaming  Creating Striking Template Designs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-secrets-of-the-masters-top-6-signature-removal-apps-revealed/"><u>[Updated] Secrets of the Masters  Top 6 Signature Removal Apps Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-realistic-quantum-leaps-a-vfx-perspective/"><u>2024 Approved  Realistic Quantum Leaps  A VFX Perspective</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-snap-and-crop-utilizing-iphones-image-editing-capabilities/"><u>2024 Approved  Snap & Crop  Utilizing iPhone’s Image Editing Capabilities</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g13-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G13 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-a79-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A79 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-gt-3-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme GT 3 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-14-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-razr-40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Razr 40 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-pova-6-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pova 6 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-androids-secret-weapon-for-stunning-time-lagged-footage/"><u>In 2024, Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-maximizing-shot-stability-on-drones-a-comprehensible-guide/"><u>In 2024, Maximizing Shot Stability on Drones  A Comprehensible Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-bikers-camera-companion-top-hats-reviewed-and-ranked-2023/"><u>In 2024, The Ultimate Biker's Camera Companion – Top Hats Reviewed & Ranked 2023</u></a></li>
-<li><a href="https://driver-install.techidaily.com/in-depth-guide-starting-anew-with-graphics-drivers/"><u>In-Depth Guide: Starting Anew with Graphics Drivers</u></a></li>
-<li><a href="https://techidaily.com/samsung-wont-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung won’t play MKV movies</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-camon-20-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Camon 20 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-lava-agni-2-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Agni 2 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-m6-pro-4g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco M6 Pro 4G.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expedite-your-artistic-expression-fast-collages-on-the-fly/"><u>[New] Expedite Your Artistic Expression Fast Collages on the Fly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-streamlining-video-production-with-clear-sound-effects/"><u>[Updated] 2024 Approved Streamlining Video Production with Clear Sound Effects</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-bloodthirsty-horror-your-go-to-8-zombie-titles-for-2024/"><u>[Updated] Bloodthirsty Horror Your Go-To 8 Zombie Titles for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-take-portrait-photo-with-your-old-iphone-x8-plus7-plus/"><u>[Updated] Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-imagery-with-quantum-hdr/"><u>2024 Approved Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-itel-p40-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P40 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-nord-n30-se-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Nord N30 SE in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>How To Change Infinix GT 10 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unleash-your-creativity-the-best-animation-makers-for-beginners-and-pros/"><u>New 2024 Approved Unleash Your Creativity The Best Animation Makers for Beginners and Pros</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/razer-blade-pro-17-review-portable-powerhouse/"><u>Razer Blade Pro 17 Review: Portable Powerhouse</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users/"><u>The Complete Hulu Recording Manual for PC, Mac & Mobile Users</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-a14-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-pop-8-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-htc-u23-by-fonelab-android-recover-photos/"><u>Undelete lost photos from HTC U23.</u></a></li>
 </ul></div>
+

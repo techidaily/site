@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2024-09-20T06:55:22.631Z
-updated: 2024-09-23T18:01:44.723Z
+date: 2024-09-21T07:02:54.228Z
+updated: 2024-09-24T02:16:34.058Z
 tags:
   - mobile
 categories:
@@ -15,13 +15,40 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
@@ -32,10 +59,16 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 Valve
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
@@ -50,16 +83,16 @@ Valve
 
  Finally, a Start menu change that makes sense.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
@@ -67,32 +100,11 @@ Valve
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Motorola
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
@@ -119,18 +131,16 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieve-professional-quality-on-yt-with-simple-blurring/"><u>[New] In 2024, Achieve Professional Quality on YT with Simple Blurring</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-editing-apps-revolutionize-your-photo-backgrounds/"><u>[New] Top Editing Apps Revolutionize Your Photo Backgrounds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-background-guide-for-online-video-calls/"><u>[Updated] 2024 Approved The Ultimate Background Guide for Online Video Calls</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-master-your-movie-recording-pc-mac-and-mobile-devices-for-2024/"><u>[Updated] Master Your Movie Recording PC, Mac & Mobile Devices for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-miniature-asian-houses-innovative-designs-for-mcers/"><u>2024 Approved Miniature Asian Houses Innovative Designs for MCers</u></a></li>
-<li><a href="https://techidaily.com/2024app-8/"><u>2024新熱門：免費動手繪似顏畫App - 8款選擇</u></a></li>
-<li><a href="https://techidaily.com/aac3gp-movavi/"><u>網路直接無限制AAC到3GP格式傳送 - 使用Movavi 轉錄工具</u></a></li>
-<li><a href="https://techidaily.com/1726233802638-pcxjpeg-movavi/"><u>在线免费PCX与JPEG转换服务 – 优化版Movavi图片编辑器</u></a></li>
-<li><a href="https://techidaily.com/2024app8/"><u>掌上改造美術大師 – 2024最佳免費似顏繪App8款列表</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-12-mini-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 12 mini IMEI Checker</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-6-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 6 Plus when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-video-editor-how-to-edit-instagram-videos/"><u>In 2024, Instagram Video Editor How to Edit Instagram Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/superior-smartphone-editors-elevating-your-gopro-shots/"><u>Superior Smartphone Editors Elevating Your GoPro Shots</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-guide-how-to-automate-recording-of-your-google-gatherings/"><u>[New] In 2024, Effortless Guide How to Automate Recording of Your Google Gatherings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-hosting-and-joining-google-meet-your-free-comprehensive-guidebook/"><u>[New] In 2024, Hosting and Joining Google Meet Your Free, Comprehensive Guidebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficiently-capture-whatsapp-chat-a-step-by-step-tutorial-for-2024/"><u>[Updated] Efficiently Capture WhatsApp Chat A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fast-video-capture-and-guided-narration-tool/"><u>[Updated] Fast Video Capture & Guided Narration Tool</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-no-more-complexities-record-with-nvidia/"><u>[Updated] In 2024, No More Complexities Record with NVIDIA</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023s-best-replacements-for-samsung-gear-360/"><u>2023'S Best Replacements for Samsung Gear 360</u></a></li>
+<li><a href="https://techidaily.com/mp4-vs-mkv-a-comparative-guide-to-choosing-the-right-format-insights-from-movavi/"><u>MP4 vs MKV: A Comparative Guide to Choosing the Right Format - Insights From Movavi</u></a></li>
+<li><a href="https://techidaily.com/ntscmovavi/"><u>NTSCへのパルコード変換手順【Movavi専用ガイド】</u></a></li>
+<li><a href="https://techidaily.com/online-vrijetijdige-gratis-konvertor-lgif-naar-mp4mpeg-professioneel-solucieert-movavi/"><u>Online Vrijetijdige Gratis-Konvertor LGif Naar Mp4/Mpeg - Professioneel Solucieert Movavi</u></a></li>
+<li><a href="https://techidaily.com/os-melhores-11-conversores-de-filmes-mov-gratuitos-para-macs-e-pcs-solucoes-online/"><u>Os Melhores 11 Conversores De Filmes MOV Gratuitos Para Macs E PCs - Soluções Online</u></a></li>
+<li><a href="https://techidaily.com/qt-gif-online-movavi/"><u>QT GIF 무료 변환 - Online 자동화: 이제 시청자를 위해 Movavi</u></a></li>
 </ul></div>
 

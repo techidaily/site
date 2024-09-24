@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-09-21T22:46:43.648Z
-updated: 2024-09-24T07:40:21.000Z
+date: 2024-09-21T16:14:43.210Z
+updated: 2024-09-24T01:20:39.427Z
 tags:
   - deals
 categories:
@@ -40,32 +40,25 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamline-slack-collaboration-with-best-10-free-tools/"><u>[New] In 2024, Streamline Slack Collaboration with Best 10 Free Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-essence-of-style-in-ae-title-design/"><u>[New] In 2024, The Essence of Style in AE Title Design</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-androids-prime-video-calls-top-10-cost-free-options/"><u>[Updated] In 2024, Android's Prime Video Calls Top 10 Cost-Free Options</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pathway-to-profitability-with-the-new-youtube-premium-program/"><u>[Updated] Pathway to Profitability with the New YouTube Premium Program</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/connecting-players-and-friends-stream-xbox-to-fb/"><u>Connecting Players & Friends Stream Xbox to FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-control-over-ps5-game-sets/"><u>Efficient Control Over PS5 Game Sets</u></a></li>
-<li><a href="https://techidaily.com/gratisk-online-omzetten-van-m4r-naar-aiff-formaat-met-movavi/"><u>Gratisk Online Omzetten Van M4R Naar AIFF-Formaat Met Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
-<li><a href="https://techidaily.com/gratuit-online-kunt-u-je-mp4-naar-mkv-verkeren-met-beslistheid-movavi/"><u>Gratuit Online: Kunt U Je MP4 Naar MKV Verkeren Met Beslistheid - Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuita-conversao-de-imagens-para-formato-jpeg-online-facil-com-movavi/"><u>Gratuita Conversão De Imagens Para Formato JPEG Online - Fácil Com Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuite-web-konvertierung-von-nef-zu-png-mit-movavi-best-practices-und-tipps/"><u>Gratuite Web-Konvertierung Von NEF Zu PNG Mit Movavi - Best Practices Und Tipps</u></a></li>
-<li><a href="https://techidaily.com/gratuito-moviola-convertendo-formatos-3gp-e-wma-com-o-movavi/"><u>Gratuito Moviola: Convertendo Formatos 3GP E WMA Com O Movavi</u></a></li>
-<li><a href="https://techidaily.com/guide-complet-pour-creer-des-videos-a-poster-sur-youtube-avec-lediteur-de-films-movavi/"><u>Guide Complet Pour Créer Des Vidéos À Poster Sur Youtube Avec L'Éditeur De Films Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-transform-your-flv-videos-into-high-quality-m4v-files-with-movavis-online-tools/"><u>How to Easily Transform Your FLV Videos Into High-Quality M4V Files with Movavi's Online Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-audio-picks-high-quality-sites-compilation/"><u>In 2024, Best Audio Picks High-Quality Sites Compilation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-100-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 100</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oppo-reno-11-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Oppo Reno 11 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://techidaily.com/iniciando-tu-viaje-como-representante-de-ventas-con-el-programa-de-afiliados-movavi-tecnicas-y-estrategias-para-ganar/"><u>Iniciando Tu Viaje Como Representante De Ventas Con El Programa De Afiliados Movavi: Técnicas Y Estrategias Para Ganar</u></a></li>
-<li><a href="https://techidaily.com/las-10-metodos-mas-efectivos-para-transformar-un-video-a-gif-con-movavi/"><u>Las 10 Métodos Más Efectivos Para Transformar Un Video a GIF Con Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/softer-sounds-guide-for-pcos-users/"><u>Softer Sounds Guide for PC/OS Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks/"><u>[Updated] Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-cultivating-patience-with-youtube-disapproval/"><u>2024 Approved Cultivating Patience with YouTube Disapproval</u></a></li>
+<li><a href="https://techidaily.com/expertly-curated-discover-the-best-16-video-streamers-on-the-market/"><u>Expertly Curated: Discover the Best 16 Video Streamers on the Market</u></a></li>
+<li><a href="https://techidaily.com/explore-our-selection-of-highest-ranking-4k-recording-applications-for-every-device-type-movavi-recommended-picks/"><u>Explore Our Selection of Highest-Ranking 4K Recording Applications for Every Device Type – Movavi Recommended Picks</u></a></li>
+<li><a href="https://techidaily.com/free-conversion-tool-effortlessly-change-trp-to-mpg-with-movavi/"><u>Free Conversion Tool: Effortlessly Change TRP to MPG with Movavi</u></a></li>
+<li><a href="https://techidaily.com/free-online-conversion-vob-to-m4v-files-with-moveavi-start-today/"><u>Free Online Conversion: VOB to M4V Files with Moveavi - Start Today!</u></a></li>
+<li><a href="https://techidaily.com/free-online-converter-change-mp4-videos-to-webm-format-instantly-with-moveavew/"><u>Free Online Converter: Change MP4 Videos to WebM Format Instantly with Moveavew</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-updating-or-downloading-hp-officejet-pro-8620-drivers-in-windows-operating-system/"><u>Guide to Updating or Downloading HP OfficeJet Pro 8620 Drivers in Windows Operating System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-motorola-edge-40-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Motorola Edge 40 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-continuous-media-logging-firms/"><u>In 2024, Continuous Media Logging Firms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-video-quality-mastering-aspect-ratio-and-size-settings-on-youtube/"><u>In 2024, Elevate Video Quality Mastering Aspect Ratio and Size Settings on YouTube</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-quick-and-simple-way-to-solve-your-hawkui-issue/"><u>The Quick and Simple Way to Solve Your Hawkui Issue</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated In 2024, The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

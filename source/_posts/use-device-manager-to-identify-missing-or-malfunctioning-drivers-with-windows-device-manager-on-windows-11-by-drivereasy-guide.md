@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11
-date: 2024-08-01T18:42:56.649Z
+date: 2024-09-22T07:13:32.463Z
 tags: 
   - driver
   - device driver
@@ -19,18 +19,12 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -54,16 +48,19 @@ This page describes how to do this.
 
 [Download Free Version](https://www.drivereasy.com/goto/affdownload.php?affid=108875)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -72,18 +69,12 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -96,6 +87,13 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1. Filter out faulty drivers
 
@@ -129,9 +127,6 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -161,9 +156,6 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -178,6 +170,12 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
@@ -188,6 +186,13 @@ There are two reasons why…
 - Device manufacturers often take a long time to get their drivers into a Windows Update – It’s a time-consuming and difficult process. Sometimes they just miss the deadline and have to wait ‘til the next Windows Update, and sometimes they just give up altogether. In fact, for older devices, this is the norm.
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try Driver Easy for free
 
@@ -211,40 +216,24 @@ The free version will identify all your outdated drivers, and allow you to downl
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mp3ify-your-favorite-videos-top-free-converters-online/"><u>[New] 2024 Approved  MP3ify Your Favorite Videos  Top Free Converters Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-picks-for-instant-recorder-performance/"><u>[Updated] 2024 Approved  Top Picks for Instant Recorder Performance</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-make-a-ken-burns-effect-in-camtasia-9-in-2024/"><u>[Updated] How to Make a Ken Burns Effect in Camtasia 9, In 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-16-innovative-ways-to-archive-web-based-podcasts/"><u>2024 Approved  16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-your-online-presence-using-cookiebot-tools/"><u>Elevate Your Online Presence Using Cookiebot Tools</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-sony-xperia-10-v-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Sony Xperia 10 V Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-uot-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .uot file online free - (Tutorial)</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g73-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G73 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g23-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G23 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-xr-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-x50-gt-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X50 GT Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a38-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A38 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/navigating-the-nuances-of-cross-system-skype-group-communication-effectively-and-efficiently/"><u>Navigating the Nuances of Cross-System Skype Group Communication Effectively and Efficiently</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-5-display-picks-for-immersive-gameplay-for-2024/"><u>Premium 5 Display Picks for Immersive Gameplay for 2024</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a15-4g-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A15 4G can't play MP4 video files</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-nokia-xr21-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Nokia XR21</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/snapquarter-testimony/"><u>SnapQuarter Testimony</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-techniques-for-iphone-7-screen-saving/"><u>Step-by-Step Techniques for iPhone 7 Screen Saving</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-poco-f5-pro-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Poco F5 Pro 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo Reno 11 Pro 5G.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers in Windows 11/10/7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-galaxy-xcover-6-pro-tactical-edition-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Galaxy XCover 6 Pro Tactical Edition on Mac?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x9b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X9b Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-bypass-tools-to-bypass-lock-screen-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Bypass Tools to Bypass Lock Screen(Xiaomi )</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-experts-guide-to-rapid-time-lapsing/"><u>[New] In 2024, Expert's Guide to Rapid Time-Lapsing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[New] In 2024, GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-classic-cinema-revisited-step-by-step-video-guide/"><u>[Updated] In 2024, Classic Cinema Revisited Step-by-Step Video Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-performance-tools-youtube-meets-twitter/"><u>2024 Approved High-Performance Tools YouTube Meets Twitter</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/domescope-discussion-piece/"><u>DomeScope Discussion Piece</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>In 2024, 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-task-mastery-top-picks-for-efficient-calendar-management-in-fb/"><u>In 2024, Task Mastery Top Picks for Efficient Calendar Management in FB</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-world-of-high-tech-components-at-toms-hardware/"><u>Navigating the World of High-Tech Components at Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/solving-high-disk-usage-woes-tips-for-windows-11-users-facing-a-full-disk-scenario/"><u>Solving High Disk Usage Woes - Tips for Windows 11 Users Facing a Full Disk Scenario</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-perform-a-successful-system-restore-in-windows-10/"><u>Step by Step Tutorial: How to Perform a Successful System Restore in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-fixes-for-non-functional-windows-system-diagnostic-app/"><u>Step-by-Step Fixes for Non-Functional Windows System Diagnostic App</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-capturing-images-with-your-lenovo-computers-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Lenovo Computer's Built-In Camera</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-clearing-viruses-off-your-android-smartphone-without-erasing-everything/"><u>Step-by-Step Guide: Clearing Viruses Off Your Android Smartphone Without Erasing Everything</u></a></li>
+<li><a href="https://techidaily.com/tackling-the-trouble-easy-ways-to-fix-your-frozen-windows-update-dilemma/"><u>Tackling the Trouble: Easy Ways to Fix Your Frozen Windows Update Dilemma</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-guide-how-to-upgrade-bios-compatible-with-windows-11/"><u>The Ultimate Guide: How to Upgrade BIOS Compatible with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-fixing-seagate-hdd-visibility-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing Seagate HDD Visibility Issues on Windows 11</u></a></li>
 </ul></div>
+

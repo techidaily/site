@@ -1,7 +1,7 @@
 ---
 title: Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-date: 2024-09-17T05:07:46.247Z
-updated: 2024-09-24T00:34:30.250Z
+date: 2024-09-19T17:58:40.525Z
+updated: 2024-09-23T21:54:14.421Z
 tags:
   - mobile
 categories:
@@ -21,21 +21,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Samsung Messages has long been the text messaging app that comes on Samsung phones. Now, it's gone in favor of Google Messages. While Google Messages may be the better app, that doesn't mean this change is a good thing. In many ways, it's a step backward.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  RCS Was Supposed to Replace SMS, Not Become Another Walled Garden
 
 ![Samsung Messages recommending the user of Google Messages instead.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060161.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the surface, Google Messages is a texting app like any other. On the backend, though, it's not an online instant messaging app like WhatsApp or Signal. [It's built on RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), a protocol meant to serve as a replacement for SMS.
 
@@ -49,13 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There is now only one RCS app on Android: Google Messages. Samsung Messages used to have RCS support, but that feature was retired, and [now the app as a whole is following suit](https://youtube-tips.techidaily.com/ow-to-keep-unwanted-content-away-from-your-computer-and-phone/). There are absolutely valid reasons to [prefer Google Messages over Samsung Messages](https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/). The sad part is, for all practical purposes, using RCS on Android now means everyone has to consolidate around the same app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google Messages Feels, First and Foremost, Like a Google App
 
  Google Messages looks like a Google product. Google branding is present at the top, above your chats, whenever you tap the app icon. When you open settings, you find Google account options first and have to dig deeper to configure the actual app. This leads to the feeling that you're using a Google web service rather than a native app on your phone.
@@ -67,10 +61,10 @@ Close
  Most Android phones now come with Google Messages installed. It doesn't matter if your phone comes from Samsung, Motorola, OnePlus, Sony, or HTC. The text messaging app that once was simply part of the infrastructure of a phone, much like a dialer app, is now yet another Google app joining the likes of Gmail, Google Calendar, Google Maps, and the Play Store itself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Samsung Messages Integrates With Other Samsung Apps
@@ -94,16 +88,16 @@ Close
  I used to prefer for phones to ship with [stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/). Now, I actually appreciate the distinctions Samsung has made with its devices. Samsung's One UI interface is not the garish affair that the company's former TouchWiz interface once was, and there is a lot of functionality baked into Samsung's system that I miss when using other Android devices.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There's Now Less Competition Pushing Google to Innovate
@@ -143,22 +137,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-acid-pro-examined-and-open-source-software-comparison/"><u>[New] ACID Pro Examined & Open-Source Software Comparison</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-seamless-facebook-broadcast-integrating-obs-with-devices-for-2024/"><u>[New] Seamless Facebook Broadcast Integrating OBS with Devices for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-picturecut-studio/"><u>[Updated] PictureCut Studio</u></a></li>
-<li><a href="https://techidaily.com/1726233754208-mp3/"><u>【迅速＆用途広く】フリーウェアで動画をMP3に変換する -オンラインツール</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-quick-windows-surfing-guide-unveiled-for-2024/"><u>[New] Quick Windows Surfing Guide Unveiled for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
 <li><a href="https://techidaily.com/2024top-win10/"><u>2024年度Top Win10视频编辑软件推荐清单</u></a></li>
 <li><a href="https://techidaily.com/3d-animation-software-the-top-12-legjobb-options-for-your-project/"><u>3D Animation Software: The Top 12 Legjobb Options for Your Project</u></a></li>
-<li><a href="https://techidaily.com/aiwav-movavi/"><u>網路無限 AI語音轉WAV - 便利的 MOVAVI 自動語言過濾與轉檔工具</u></a></li>
 <li><a href="https://techidaily.com/ai-mov-movavi/"><u>自由下載無成本 AI 到 MOV 格式 - 使用 Movavi 翻譯器</u></a></li>
 <li><a href="https://techidaily.com/1726233785702-ai-12/"><u>AI 얼굴 만들기를 위한 12가지 획기적인 프로그램 선보기</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-deal-alert-save-500-on-the-new-apple-macbook-pro-with-m3-pro/"><u>Amazon Prime Day Deal Alert: Save $500 on the New Apple MacBook Pro with M3 Pro</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/easy-step-by-step-tutorial-adding-audio-tracks-to-your-gopro-footage-using-a-computer/"><u>Easy Step-by-Step Tutorial: Adding Audio Tracks to Your GoPro Footage Using a Computer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-disseminate-your-tiktok-on-twitter-effectively/"><u>In 2024, Disseminate Your TikTok on Twitter Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-blurring-techniques-best-app-picks/"><u>In 2024, Explore Blurring Techniques Best App Picks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-choosing-music-for-movie-previews/"><u>In 2024, The Science of Choosing Music for Movie Previews</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-techniques-for-combining-chatgpt-and-additive-manufacturing-expertise/"><u>Innovative Techniques for Combining ChatGPT and Additive Manufacturing Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tactics-for-using-gpt-3-in-openai-sandbox/"><u>Tactics for Using GPT-3 in OpenAI Sandbox</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/create-with-colors-youtube-banner-creation-guide-for-2024/"><u>Create with Colors YouTube Banner Creation Guide for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-easy-media-sharing-on-twitter-no-retweets-required/"><u>In 2024, Easy Media Sharing on Twitter - No Retweets Required</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-edge-no-8-online-photomontage-toolkit/"><u>In 2024, Leading Edge No. 8 Online Photomontage Toolkit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-mastering-creative-effects-in-online-zoom-sessions/"><u>In 2024, Step-by-Step Guide Mastering Creative Effects in Online Zoom Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-the-mystery-why-are-my-desktop-icons-vanishing-in-windows-11-solved/"><u>Uncover the Mystery: Why Are My Desktop Icons Vanishing in Windows 11? [SOLVED]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-8-tools-transforming-gameplay/"><u>Visionary 8 Tools Transforming Gameplay</u></a></li>
 <li><a href="https://techidaily.com/7iuk7iuc6rceiou5houuloyypcdtjrjsp5hqulaglsdsnbtsojwg7iks7isc65oc66as6riw/"><u>실시간 비디오 편집기 - 이제 사서드리기</u></a></li>
 <li><a href="https://techidaily.com/1726233761033-mp43gp-movavi/"><u>コストレスで高速なオンラインMP4/3GP動画変換 - Movaviを超えて</u></a></li>
 <li><a href="https://techidaily.com/1726233776009-movavi/"><u>モバビでスムーズに動画の字幕付け: 初心者から上達までガイド【Movavi・文字表示】</u></a></li>

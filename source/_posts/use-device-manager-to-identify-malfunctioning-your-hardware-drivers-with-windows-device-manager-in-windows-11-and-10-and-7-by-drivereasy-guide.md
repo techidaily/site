@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-08-01T18:41:48.798Z
+date: 2024-09-19T18:19:23.504Z
 tags: 
   - driver
   - device driver
@@ -33,9 +33,6 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -47,8 +44,12 @@ There are two reasons why…
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -65,12 +66,8 @@ This page describes how to do this.
 
 [Download Free Version](https://tools.techidaily.com/drivereasy/download/)
 
-
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -93,21 +90,26 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -131,25 +133,10 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -159,6 +146,13 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - are likely to be flagged by antivirus programs; or
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2. Test on all modern versions of Windows
 
@@ -181,6 +175,13 @@ We then scan a small selection of computers with our development-only Driver Eas
 - **08.** If we can prove that the driver was the cause of the computer or device issue, we remove it from Driver Easy, then return to step 1, and install and test the next driver.
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3. Test on many popular computers
 
@@ -225,51 +226,20 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-essential-editing-software-for-horizontal-and-vertical-igtv-for-2024/"><u>[New] Essential Editing Software for Horizontal & Vertical IGTV for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harmonize-your-content-a-guide-to-musical-instagrams/"><u>[New] In 2024, Harmonize Your Content  A Guide to Musical Instagrams</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-15-scrumptious-tiktok-cooking-challenges-that-are-going-viral/"><u>[Updated] 15 Scrumptious TikTok Cooking Challenges That Are Going Viral</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-reference-to-display-recording-methods/"><u>[Updated] In 2024, The Complete Reference to Display Recording Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-content-creation-tools-review-studio-vs-beta/"><u>[Updated] Professional Content Creation Tools Review  Studio Vs. Beta</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-sites-to-buy-mystery-boxes/"><u>2024 Approved  10 Best Sites to Buy Mystery Boxes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-discover-retro-your-path-to-facebook-archives/"><u>2024 Approved  Discover Retro  Your Path to Facebook Archives</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-key-tactics-for-testimonial-videos/"><u>2024 Approved  Key Tactics for Testimonial Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-speedy-solutions-snapshots-of-slideshows/"><u>2024 Approved  Speedy Solutions  Snapshots of Slideshows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unlimited-free-image-refinement-onlinemobile/"><u>2024 Approved  Unlimited Free Image Refinement Online/Mobile</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-note-13-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi Note 13 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-zero-5g-2023-turbo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Zero 5G 2023 Turbo Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-poco-x6-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco X6 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-syncing-tweeting-videos-onto-snapchat-channels-for-2024/"><u>Direct Syncing  Tweeting Videos Onto Snapchat Channels for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discovering-the-best-in-screen-recording-for-2024/"><u>Discovering the Best in Screen Recording for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-meizu-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Meizu FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-network-bridge-in-windows-7/"><u>Effortless Network Bridge in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-infinix-hot-40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Hot 40 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-motorola-moto-g34-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Motorola Moto G34 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-fold-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel Fold Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone X Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y100t-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y100t FRP Bypass</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-live-stream-capture-tv-show-recording-techniques/"><u>In 2024, Mastering Live Stream Capture  TV Show Recording Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-nvidias-easy-method-for-game-captures/"><u>In 2024, NVIDIA's Easy Method for Game Captures</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes-for-2024/"><u>Intergalactic Visions  The Best Sci-Fi Movies in Virtual Universes for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-redmi-note-13-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi Note 13 5G</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-6-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-x-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone X Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-c53-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme C53)</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nokia-110-2g-2023-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nokia 110 2G (2023)</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-s18-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo S18 Pro</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a15-4g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy A15 4G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme 11 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-f23-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from F23 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-nova-y71-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Nova Y71 fingerprint</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-play-8t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor Play 8T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 13 Pro Max? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-making-an-impact-professional-thumbnail-design-for-youtube/"><u>[New] Making an Impact Professional Thumbnail Design for YouTube</u></a></li>
+<li><a href="https://techidaily.com/1-exploring-the-top-spots-ranking-your-visit-to-the-stunning-apple-vision-pro-scenery-with-lake-vrangla-as-a-highlight/"><u>1. Exploring the Top Spots: Ranking Your Visit to the Stunning Apple Vision Pro Scenery, with Lake Vrangla as a Highlight</u></a></li>
+<li><a href="https://techidaily.com/1-exploring-the-world-of-p2e-understanding-play-to-earn-nft-and-cryptocurrency-gaming/"><u>1. Exploring the World of P2E: Understanding Play-to-Earn NFT and Cryptocurrency Gaming</u></a></li>
+<li><a href="https://techidaily.com/10-essential-functions-of-microsofts-bing-chatbot-boost-your-productivity/"><u>10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/accessible-ai-gpt-4-turbo-features-unleashed-with-complimentary-microsoft-copilot/"><u>Accessible AI: GPT-4 Turbo Features Unleashed with Complimentary Microsoft Copilot</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2022-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2022) Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-cooling-essentials-comparing-pwm-and-dc-fan-technologies/"><u>PC Cooling Essentials: Comparing PWM and DC Fan Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125167724-revealing-the-true-potential-of-anycubic-kobra-2-max-unmatched-quality/"><u>Revealing the True Potential of Anycubic Kobra 2 Max - Unmatched Quality!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-top-safari-browser-add-ons-and-applications-for-seamless-youtube-video-retrieval/"><u>The Ultimate Guide: Top Safari Browser Add-Ons & Applications for Seamless YouTube Video Retrieval</u></a></li>
+<li><a href="https://techidaily.com/unlocking-amazon-how-to-easily-set-up-and-use-passkeys-for-login/"><u>Unlocking Amazon: How to Easily Set Up and Use Passkeys for Login</u></a></li>
+<li><a href="https://techidaily.com/unveiling-web3-the-next-evolutionary-step-in-digital-connectivity/"><u>Unveiling Web3: The Next Evolutionary Step in Digital Connectivity</u></a></li>
 </ul></div>
+

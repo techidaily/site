@@ -1,7 +1,7 @@
 ---
 title: "Top Savings Alert: Snag Discounts on Amazon Fire TV, EcoFlow Charger & Beyond!"
-date: 2024-09-21T02:12:39.624Z
-updated: 2024-09-24T03:28:27.016Z
+date: 2024-09-20T11:03:57.873Z
+updated: 2024-09-23T16:06:13.651Z
 tags:
   - deals
 categories:
@@ -27,16 +27,16 @@ Amazon's 43-inch, 50-inch, and 65-inch Omni TVs deliver an excellent bang for yo
 
  Amazon's high-end Omni series smart TVs offer many features, such as Dolby Vision, HDR 10, and hands-free voice controls. Right now, you can get a stunning 65-inch model for the lowest price since Black Friday. [Save $200 on Amazon's 65-inch 4K TV](https://www.amazon.com/amazon-fire-tv-65-inch-omni-series-4k-smart-tv/dp/B08T6J1HG8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Ring Battery Doorbell Plus and Stick Up Cam for $150 ($70 Off)](https://www.amazon.com/Ring-Battery-Doorbell-Stick-White/dp/B0CCZMMD9D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-07-02 at 9.08.52 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-02-at-9-08-52-am.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Ring Battery Doorbell Plus and Ring Stick Up Cam
 
@@ -46,21 +46,22 @@ Get the award-winning Ring Battery Doorbell Plus along with the popular Ring Sti
 
  If you've yet to get a video doorbell we have a deal for you. For Prime Day, one of Ring's best cameras, the Battery Doorbell Plus, is bundled with the indoor Stick Up camera. Better yet, you can [get both for $70 off](https://www.amazon.com/Ring-Battery-Doorbell-Stick-White/dp/B0CCZMMD9D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Samsung Galaxy S24 for $720 ($80 Off)](https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDMSZB4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Samsung Galaxy S24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/samsung-galaxy-s24.png) 
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Samsung Galaxy S24
@@ -83,22 +84,21 @@ The Flexispot is an affordable way to get into a height-adjustable standing desk
 
  Height-adjustable standing desks can get expensive, but if you want to elevate your workstation on a budget, the FLEXISPOT is a solid option. Their 48 x 24 sit or stand desk is [down to only $136](https://www.amazon.com/FLEXISPOT-Standing-Electric-Adjustable-Whole-Piece/dp/B08BHPMYGK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [EcoFlow Delta 2 (1024Wh) Portable Power Station for $499 ($490 Off)](https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0B9XB57XM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-07-03 at 8.27.56 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-03-at-8-27-56-am.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  ECOFLOW Delta 2 Portable Power Battery
@@ -135,17 +135,20 @@ If you need on-demand power in an affordable, reliable, and portable package, co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exclusive-farewell-to-game-costs-for-2024/"><u>[New] Exclusive Farewell to Game Costs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/7-key-strategies-for-perfect-macro-video-shooting/"><u>7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressing-and-correcting-code-6-disruptions-in-modern-warfare-campaign-pc-version/"><u>Addressing and Correcting Code 6 Disruptions in Modern Warfare Campaign - PC Version</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-when-it-comes-to-creating-safe-effective-workout-plans-specifically-tailored-to-you/"><u>How Reliable Is ChatGPT When It Comes To Creating Safe, Effective Workout Plans Specifically Tailored To You?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 5G Users</u></a></li>
-<li><a href="https://techidaily.com/o-guia-definitivo-selecionando-a-ferramenta-perfeita-de-edicao-de-video-do-gopro-em-2024/"><u>O Guia Definitivo: Selecionando a Ferramenta Perfeita De Edição De Video Do GoPro Em 2024</u></a></li>
-<li><a href="https://techidaily.com/online-zonder-risicos-gratis-mp4-naar-flv-omzetten-voor-uw-mobiele-apps-movavi-als-uitgebreide-solutient/"><u>Online Zonder Risico's: Gratis MP4 Naar FLV Omzetten Voor Uw Mobiele Apps - Movavi Als Uitgebreide Solutiënt</u></a></li>
-<li><a href="https://techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-guide-to-creating-free-youtube-banners-top-10-best-designers-reviewed/"><u>The Ultimate Guide to Creating Free YouTube Banners: Top 10 Best Designers Reviewed!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/winx-dvd-ripper-platinum-accelerate-your-dvd-ripping-to-lightning-speed-on-windows-10/"><u>WinX DVD Ripper Platinum - Accelerate Your DVD Ripping to Lightning Speed on Windows 10!</u></a></li>
-<li><a href="https://techidaily.com/mxf-wmv-online-free-converter-movavi/"><u>영구제 MXF WMV 혼합을 원호하여 Online Free Converter - Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-zoom-webinar-mastery-a-novices-step-by-step-tutorial-for-2024/"><u>[New] Zoom Webinar Mastery A Novice's Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-securing-premium-image-on-zoom-via-strategic-filters/"><u>[Updated] Securing Premium Image on Zoom via Strategic Filters</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Infinix Hot 40.</u></a></li>
+<li><a href="https://techidaily.com/conversione-libera-m4a-in-mp3-con-web-based-servizi-gratis-movavi-solutions/"><u>Conversione Libera .m4a in .mp3 Con Web-Based Servizi Gratis - Movavi Solutions</u></a></li>
+<li><a href="https://techidaily.com/convert-your-flac-files-to-mp3-for-free-with-movavis-web-based-tool/"><u>Convert Your FLAC Files to MP3 for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dive-into-title-design-adding-insights-to-visual-content-via-windows-photos-app/"><u>Dive Into Title Design Adding Insights to Visual Content via Windows Photos App</u></a></li>
+<li><a href="https://techidaily.com/enregistreur-video-de-screenshots-libre-screencapturepro/"><u>Enregistreur Vidéo De Screenshots Libre – ScreenCapturePro</u></a></li>
+<li><a href="https://techidaily.com/entendendo-o-formato-divx-tudo-sobre-arquivos-e-como-abrange-los/"><u>Entendendo O Formato DivX: Tudo Sobre Arquivos E Como Abrangê-Los</u></a></li>
+<li><a href="https://techidaily.com/explore-the-best-gopro-editing-tools-a-comprehensive-list-of-13-leading-video-editors-for-action-cams/"><u>Explore the Best GoPro Editing Tools: A Comprehensive List of 13 Leading Video Editors for Action Cams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975882151-get-your-logitech-k350-keyboard-up-and-running-drivers-downloaded-here/"><u>Get Your Logitech K350 Keyboard Up and Running: Drivers Downloaded Here</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smooth-play-improve-your-frames-per-second-fps-on-elden-ring/"><u>Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-live-status-checking-if-the-service-is-down-or-user-connection-issue/"><u>Xbox Live Status: Checking if the Service Is Down or User Connection Issue</u></a></li>
 </ul></div>
 

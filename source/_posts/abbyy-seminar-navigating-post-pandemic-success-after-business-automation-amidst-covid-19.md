@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Seminar: Navigating Post-Pandemic Success After Business Automation Amidst COVID-19"
-date: 2024-08-22T08:22:54.242Z
-updated: 2024-08-23T08:22:54.242Z
+date: 2024-09-23T01:22:07.906Z
+updated: 2024-09-23T18:48:09.097Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f80c7ae4dc1f76086ad70935.jpg
@@ -15,6 +15,13 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 English
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featuring
 
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
@@ -27,19 +34,8 @@ Product Marketing Manager, **ABBYY**
 
 ![Reggietwigg 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reggietwigg 198X198](https://static2.abbyy.com/abbyycommedia/31957/reggietwigg-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Reginald J. Twigg, Ph.D.
 
 Director, Enterprise Solutions Marketing, **ABBYY**
@@ -47,13 +43,21 @@ Director, Enterprise Solutions Marketing, **ABBYY**
 ![Webinar: You have automated to survive COVID-19, but what now?](https://static1.abbyy.com/abbyycommedia/33287/79-youve-automated-to-survive-covid-360x232.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 COVID-19 forced mass adoption of digital transformation technologies, mainly to keep businesses running when the workforce, customers, and partners at once became virtual and relied on automation that was readily available. Now, a year into this new paradigm of work, we’ve learned that merely automating a process is not digital transformation; rather, processes must be re-imagined as experience management — especially those processes around employee and customer service.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### This session highlights:
 
 * A “Digital Intelligence” approach to transforming processes that involve people using unstructured content to make decisions and serve their users
@@ -62,11 +66,28 @@ COVID-19 forced mass adoption of digital transformation technologies, mainly to 
 
 Watch this insightful session and walk away with answers you need.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fill in the form to register for the webinar now
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
@@ -80,9 +101,6 @@ Please check your inbox, we have sent you a confirmation email.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -139,8 +157,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,42 +166,25 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-igtv-followers-essential-techniques-to-grow-your-audience-for-2024/"><u>[New] Mastering IGTV Followers  Essential Techniques to Grow Your Audience for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-up-to-date-techniques-for-screenshotting-idevices/"><u>[New] Up-to-Date Techniques for Screenshotting iDevices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-5-best-bandicam-mac-alternatives-for-2024/"><u>[Updated] 5 Best Bandicam Mac Alternatives for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-capturing-the-essence-of-facetime-on-facebook-for-2024/"><u>[Updated] Capturing the Essence of FaceTime on Facebook for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-precise-screen-record-azs-full-app-dissection-for-2024/"><u>[Updated] Precise Screen Record - AZ's Full App Dissection for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-photography-journey-with-vsco-editing-tool/"><u>[Updated] Ultimate Photography Journey with VSCO Editing Tool</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-spot-real-vs-sham-accounts-in-instagram-life/"><u>2024 Approved  Spot Real Vs. Sham Accounts in Instagram Life</u></a></li>
-<li><a href="https://techidaily.com/amd-driver-woes-be-gone-master-the-art-of-uninstallation-on-windows-devices/"><u>AMD Driver Woes Be Gone: Master the Art of Uninstallation on Windows Devices</u></a></li>
-<li><a href="https://techidaily.com/banishing-delays-efficient-solutions-for-fast-booting-windows-11-systems/"><u>Banishing Delays: Efficient Solutions for Fast-Booting Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-what-to-do-when-you-cant-find-physxloaderdll/"><u>Comprehensive Guide: What To Do When You Can't Find physxloader.dll</u></a></li>
-<li><a href="https://techidaily.com/connect-play-and-enjoy-wirelessly-linking-bluetooth-speaker-and-laptop-easily/"><u>Connect, Play & Enjoy: Wirelessly Linking Bluetooth Speaker and Laptop Easily.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/flicker-no-more-your-complete-fix-manual-for-persistent-display-glitches/"><u>Flicker No More! Your Complete Fix Manual for Persistent Display Glitches</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oneplus-ace-2v-frp-by-drfone-android/"><u>Full Guide to Bypass OnePlus Ace 2V FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-redmi-note-12-pro-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Redmi Note 12 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://techidaily.com/1723808290812-how-to-connect-ps4-controller-to-ps3-easily/"><u>How to Connect PS4 Controller to PS3. Easily</u></a></li>
-<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/1723808310103-installing-your-epson-printer-made-simple-follow-these-steps/"><u>Installing Your Epson Printer Made Simple: Follow These Steps!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastery-over-light-and-shadow-with-hdr-software/"><u>Mastery Over Light and Shadow with HDR Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-instagram-and-podcast-sharing/"><u>Navigating the World of Instagram & Podcast Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pro-level-strategies-for-mass-downloading-tiktok-content/"><u>Pro-Level Strategies for Mass Downloading TikTok Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-wobbling-keyboard-arrows-in-windows-environments/"><u>Revive Wobbling Keyboard Arrows in Windows Environments</u></a></li>
-<li><a href="https://techidaily.com/solving-high-disk-usage-woes-tips-for-windows-11-users-facing-a-full-disk-scenario/"><u>Solving High Disk Usage Woes - Tips for Windows 11 Users Facing a Full Disk Scenario</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-perform-a-successful-system-restore-in-windows-10/"><u>Step by Step Tutorial: How to Perform a Successful System Restore in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-fixes-for-non-functional-windows-system-diagnostic-app/"><u>Step-by-Step Fixes for Non-Functional Windows System Diagnostic App</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-capturing-images-with-your-lenovo-computers-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Lenovo Computer's Built-In Camera</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-clearing-viruses-off-your-android-smartphone-without-erasing-everything/"><u>Step-by-Step Guide: Clearing Viruses Off Your Android Smartphone Without Erasing Everything</u></a></li>
-<li><a href="https://techidaily.com/tackling-the-trouble-easy-ways-to-fix-your-frozen-windows-update-dilemma/"><u>Tackling the Trouble: Easy Ways to Fix Your Frozen Windows Update Dilemma</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-guide-how-to-upgrade-bios-compatible-with-windows-11/"><u>The Ultimate Guide: How to Upgrade BIOS Compatible with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-fixing-seagate-hdd-visibility-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing Seagate HDD Visibility Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-managing-high-cpu-consumption-by-antimalware-service-executable-on-windows-systems/"><u>Troubleshooting Guide: Managing High CPU Consumption by 'Antimalware Service Executable' On Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-resolving-issues-with-your-logitech-k780-keyboard/"><u>Troubleshooting Tips: Resolving Issues with Your Logitech K780 Keyboard</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-solving-the-black-webcam-issue-in-windows-11-and-10/"><u>Troubleshooting Tips: Solving the Black Webcam Issue in Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-eliminating-low-fps-issues-in-minecraft-on-high-end-systems-tips/"><u>Ultimate Guide: Eliminating Low FPS Issues in Minecraft on High-End Systems - Tips</u></a></li>
-<li><a href="https://techidaily.com/1723808226582-unlock-the-power-of-advanced-startup-in-windows-11-easy-methods-revealed/"><u>Unlock the Power of Advanced Startup in Windows 11: Easy Methods Revealed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-step-by-step-voice-recording-techniques-for-iphone-users/"><u>Updated 2024 Approved Step-by-Step Voice Recording Techniques for iPhone Users</u></a></li>
-<li><a href="https://techidaily.com/wireless-gameplay-on-ps4-integrating-a-keyboard-and-mouse-into-your-setup/"><u>Wireless Gameplay on PS4: Integrating a Keyboard and Mouse Into Your Setup</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-animators-odyssey-crafting-your-own-fx-realm/"><u>[New] The Animator's Odyssey Crafting Your Own FX Realm</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unmasking-imagerys-origins-a-complete-guide-to-reverse-picture-searching-in-instagram/"><u>[Updated] 2024 Approved Unmasking Imagery's Origins A Complete Guide to Reverse Picture Searching in Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>[Updated] The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
+<li><a href="https://techidaily.com/4-efektivni-tridy-nahravani-webovyh-stranek-do-audiotekstu-podrobny-pruvodce-s-movavi/"><u>4 Efektivní Třídy Nahrávání Webovyh Stránek Do Audiotekstu: Podrobný Průvodce S Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-lava-yuva-3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Lava Yuva 3 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/1726233783102-productsrecorderproductname/"><u>获取{{ product('srecorder').product_name}}的免费访问金钥匙序列号</u></a></li>
+<li><a href="https://techidaily.com/best-video-smoothing-applications-of-202-the-year-with-pay-free-choices-available/"><u>Best Video Smoothing Applications of 202 the Year, With Pay-Free Choices Available</u></a></li>
+<li><a href="https://techidaily.com/cambia-file-aac-a-mp3-online-gratuitamente-con-movavi/"><u>Cambia File AAC a MP3 Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/comprendre-les-conditions-du-contrat-de-license-dutilisation-finale-avec-la-logiciel-movavi/"><u>Comprendre Les Conditions Du Contrat De License D'Utilisation Finale Avec La Logiciel Movavi</u></a></li>
+<li><a href="https://techidaily.com/conversao-online-de-imagens-jpeg-para-formato-tiff-gratuita-do-movavi/"><u>Conversão Online De Imagens JPEG Para Formato TIFF Gratuita Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/convertir-videos-sin-costo-facilmente-cambio-gratuito-de-formatos-m4v-a-mp4-por-medio-de-servicios-en-linea-como-movavi/"><u>Convertir Vídeos Sin Costo Fácilmente: Cambio Gratuito De Formatos M4V a MP4 Por Medio De Servicios en Línea Como Movavi</u></a></li>
+<li><a href="https://techidaily.com/creation-gratuite-de-site-web-pgm-avec-movavi-convertir-votre-pgm-en-ligne-facilement/"><u>Création Gratuite De Site Web PGM Avec Movavi - Convertir Votre PGM en Ligne Facilement!</u></a></li>
+<li><a href="https://techidaily.com/de-gouden-18-bestaan-de-zeven-sterkste-betaalde-foto-sites-in-nederland/"><u>De Gouden 18: Bestaan De Zeven Sterkste Betaalde Foto Sites in Nederland</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmony-match-maker-for-2024/"><u>Harmony Match Maker for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-openai-the-foundation-behind-it-all/"><u>Inside OpenAI: The Foundation Behind It All</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-code-with-ai-assistants-comparing-github-copilot-to-chatgpt-for-developers/"><u>Mastering Code with AI Assistants: Comparing GitHub Copilot to ChatGPT for Developers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-guide-non-destructive-video-trimming-for-mac-users/"><u>Quick Guide: Non-Destructive Video Trimming for Mac Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spelling-grammar-and-idioms-differ/"><u>Spelling, Grammar, and Idioms Differ</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/1726233804388-caf/"><u>オンラインで簡単! CAF形式の画像を変換するための特別便利な無料ツール</u></a></li>
 </ul></div>
+

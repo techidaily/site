@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Art: Not Everything Is Created By An Algorithm"
-date: 2024-09-17T21:57:17.714Z
-updated: 2024-09-24T04:06:13.968Z
+date: 2024-09-22T17:50:29.788Z
+updated: 2024-09-23T20:21:43.077Z
 tags:
   - web
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
@@ -42,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
 
  The uproar around Meta’s AI labeling stems from the fact that the company does not discriminate between using AI to generate photo-realistic images and [using an AI process to edit a photo](https://fox-http.techidaily.com/enhancing-your-aesthetic-vision/). As far as Meta is concerned, both fall into the same category.
@@ -51,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
@@ -62,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -82,18 +88,18 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Meta’s AI Labeling Is Not Foolproof
 
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
 
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
 
@@ -124,15 +130,22 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-visualize-images-mastering-photo-editing-tools/"><u>[New] 2024 Approved Visualize Images Mastering Photo Editing Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-impact-of-visual-client-reviews-on-business-image/"><u>[New] Impact of Visual Client Reviews on Business Image</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-supercharge-your-channel-growth-harness-the-potential-of-collaborative-videos/"><u>[New] Supercharge Your Channel Growth Harness the Potential of Collaborative Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>2024 Approved Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
-<li><a href="https://techidaily.com/gifmkv-movavi/"><u>網路無限 GIF到MKV自由提供 - 利用 Movavi 影像格式轉檔工具</u></a></li>
-<li><a href="https://techidaily.com/free-online-convertor-change-aiff-and-avi-files-without-cost-using-movavi/"><u>Free Online Convertor - Change AIFF and AVI Files Without Cost Using Movavi</u></a></li>
-<li><a href="https://techidaily.com/gratuito-conversione-in-linea-dei-file-mp2-al-formato-wav-utilizzando-leditor-audio-di-movavi/"><u>Gratuito: Conversione In Linea Dei File MP2 Al Formato WAV Utilizzando L'Editor Audio Di Movavi</u></a></li>
-<li><a href="https://techidaily.com/gravacion-de-video-a-formato-de-audio-libre-y-gratuita-con-mp4-a-mp3-online/"><u>Gravación De Video a Formato De Audio Libre Y Gratuita Con MP4 a MP3 Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protecting-your-presence-how-to-modify-passwords-in-the-updated-twitter-experience/"><u>Protecting Your Presence: How to Modify Passwords in the Updated Twitter Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-fix-reinstating-your-disappeared-chats-from-chatgpt-histories/"><u>The Ultimate Fix: Reinstating Your Disappeared Chats From ChatGPT Histories</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlocking-instagrams-hidden-qanda-features/"><u>[New] 2024 Approved Unlocking Instagram’s Hidden Q&A Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-proactive-techniques-for-seamless-zoom-usage-on-a-chromebook/"><u>[New] Proactive Techniques for Seamless Zoom Usage on a Chromebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-the-veil-of-space-time-the-greatest-sci-fi-films-experiences/"><u>[Updated] Beyond the Veil of Space-Time The Greatest Sci-Fi Films' Experiences</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-webp-conversion-to-jpeg/"><u>[Updated] Mastering the Art of WebP Conversion to JPEG</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-eco-film-hub-dive-into-green-screen-creativity/"><u>2024 Approved Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-techno-titans-earnings-forecast-on-gaming-channels/"><u>In 2024, Techno Titans Earnings Forecast on Gaming Channels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-whos-watching-your-guide-to-instagram-eye-rolls-count/"><u>In 2024, Who's Watching? Your Guide to Instagram Eye-Rolls Count</u></a></li>
+<li><a href="https://techidaily.com/solucoes-de-software-para-abranger-arquivos-embalados-no-swf-abra-agora/"><u>Soluções De Software Para Abranger Arquivos Embalados No SWF - Abra Agora!</u></a></li>
+<li><a href="https://techidaily.com/top-13-mejores-reproductores-de-webcam-para-windows-10-una-guia-completa/"><u>Top 13 Mejores Reproductores De Webcam Para Windows 10: Una Guía Completa</u></a></li>
+<li><a href="https://techidaily.com/top-15-ferramentas-de-correcao-de-audio-e-video-mais-valorizadas-em-2024-livres-ou-premium/"><u>Top 15 Ferramentas De Correção De Áudio E Video - Mais Valorizadas Em 2024: Livres Ou Premium</u></a></li>
+<li><a href="https://techidaily.com/top-18-free-film-editing-software-options-for-windows-11-8-and-7-users/"><u>Top 18 Free Film Editing Software Options for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-webm-en-mp4-gratuitement-sur-internet-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier WebM en MP4 Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://techidaily.com/transforma-tus-presentaciones-ppt-en-pdf-sin-coste-con-movavi-guia-de-convertir-archivos-en-linea-gratuita/"><u>Transforma Tus Presentaciones PPT en PDF Sin Coste Con Movavi: Guía De Convertir Archivos en Línea Gratuita</u></a></li>
+<li><a href="https://techidaily.com/transformacion-de-videos-a-formato-wmv-una-guia-sencilla-con-movavi/"><u>Transformación De Videos a Formato WMV: Una Guía Sencilla Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/transformation-sans-frais-de-fichiers-m1v-a-mp4-sur-le-web-via-movavi/"><u>Transformation Sans Frais De Fichiers M1V À MP4 Sur Le Web via Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-hey-siri-malfunctions-on-iphone/"><u>Ultimate Guide: Resolving 'Hey Siri' Malfunctions on iPhone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-editing-gopro-videos-on-mac-best-practices-and-software/"><u>Updated In 2024, Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
 </ul></div>
 

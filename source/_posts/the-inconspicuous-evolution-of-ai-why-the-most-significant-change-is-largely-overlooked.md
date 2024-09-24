@@ -1,7 +1,7 @@
 ---
 title: "The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked"
-date: 2024-09-12T18:06:05.189Z
-updated: 2024-09-18T19:01:18.435Z
+date: 2024-09-21T17:54:32.002Z
+updated: 2024-09-24T04:46:15.654Z
 tags:
   - cutting-edge
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Outside The Hype
 
  I know what you’re thinking. You’re tired of hearing every tech company ramble about AI like it’s the magical solution to all the world’s problems. You’re sick of the AI features popping up in your favorite apps. Maybe you’re an artist, writer, or some other creator that heard [OpenAI’s CTO say](https://fortune.com/2024/06/24/ai-creative-industry-jobs-losses-openai-cto-mira-murati-skill-displacement/) that AI could kill some creative jobs that “shouldn’t have been there in the first place,” and you’re ready to burn it all down to the ground. I get that, and I agree most implementations of “AI” right now are solutions in search of a problem or actively harmful.
@@ -33,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The ability to run large language models on a more typical smartphone, tablet, or PC opens up other interesting use cases. For example, the upcoming [“Apple Intelligence” on iPhones, iPads, and Macs](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) will use on-device AI to sort notifications and better understand spoken language in Siri. There are some features that are harder to build and scale when they require a powerful datacenter somewhere, and that’s what hardware makers are trying to change right now.
@@ -40,6 +54,13 @@ Corbin Davenport / How-To Geek
  There aren’t many applications and services that use on-device AI right now, because they can behave differently across different devices and operating systems, and not everyone has a phone or PC with the required processing power. Newer developer tools, like [NVIDIA’s TensorRT-LLM](https://blogs.nvidia.com/blog/ignite-rtx-ai-tensorrt-llm-chat-api/) and [Qualcomm’s AI Engine Direct SDK](https://www.qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk), are slowly making that part more accessible for software developers. Eventually, adding a feature that requires a powerful LLM won’t be much more complex than adding a feature that needs any other system function, and I expect that’s when we’ll see more apps adding useful features.
 
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What’s Old Is New
 
@@ -66,28 +87,16 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-freeze-the-frame-overcoming-shake-phenomena/"><u>[New] In 2024, Freeze the Frame Overcoming Shake Phenomena</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tapping-into-trendy-partnerships-how-to-profit-from-your-passion-on-instagram/"><u>[Updated] In 2024, Tapping Into Trendy Partnerships How to Profit From Your Passion on Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-p40-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel P40? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-garmin-forerunner-265-watch-a-runners-companion/"><u>Comprehensive Analysis: Garmin Forerunner 265 Watch - A Runner's Companion</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/convertible-convenience-at-a-bargain-in-depth-analysis-of-the-asus-chromebook-flip-c302ca/"><u>Convertible Convenience at a Bargain: In-Depth Analysis of the Asus Chromebook Flip C302CA</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-analytics-solutions-enhance-your-digital-strategy/"><u>Cookiebot-Enabled Analytics Solutions - Enhance Your Digital Strategy</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-personalization-and-analytics-solutions/"><u>Cookiebot-Enabled Personalization & Analytics Solutions</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-optimize-your-site-with-our-innovative-tracking-technology/"><u>Cookiebot-Enabled: Optimize Your Site with Our Innovative Tracking Technology</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enhanced-site-performance-optimized-with-advanced-tracking-technology/"><u>Cookiebot-Enhanced Site Performance: Optimized with Advanced Tracking Technology</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/downloading-and-saving-fb-video-files-os-agnostic-guide-for-2024/"><u>Downloading and Saving FB Video Files OS-Agnostic Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/drive-traffic-with-smart-bots-discover-how-our-automated-solutions-outperform-traditional-methods/"><u>Drive Traffic with Smart Bots: Discover How Our Automated Solutions Outperform Traditional Methods</u></a></li>
-<li><a href="https://techidaily.com/efficient-invoicing-made-easy-how-abbyys-software-revolutionizes-adactus-housing-groups-operations/"><u>Efficient Invoicing Made Easy: How ABBYY's Software Revolutionizes Adactus Housing Group's Operations</u></a></li>
-<li><a href="https://techidaily.com/effiziente-verarbeitung-von-unterlagen-mit-ki-die-abbyy-losung/"><u>Effiziente Verarbeitung Von Unterlagen Mit KI: Die ABBYY Lösung</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-5-webcams-for-cutting-edge-twitch-live-streaming-quality/"><u>In 2024, Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-picks-ultimate-guide-to-the-best-17-inch-laptops/"><u>Top Picks: Ultimate Guide to the Best 17-Inch Laptops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-software-for-live-broadcasting/"><u>2024 Approved Best Software for Live Broadcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-mac-user-writers-guide-to-dynamic-srt-adjustment/"><u>2024 Approved The Mac User’ Writers Guide to Dynamic SRT Adjustment</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effiziente-methoden-zur-videostabilisierung-auf-windows-mac-android-und-iphone/"><u>Effiziente Methoden Zur Videostabilisierung Auf Windows, Mac, Android Und iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-maximize-your-cricket-viewing-with-premium-livestreams-for-2024/"><u>How to Maximize Your Cricket Viewing with Premium Livestreams for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/trasforma-i-tuoi-file-ogg-in-aiff-senza-costi-con-il-convertitore-di-movavi-gratuito/"><u>Trasforma I Tuoi File OGG in AIFF Senza Costi Con Il Convertitore Di Movavi Gratuito</u></a></li>
+<li><a href="https://techidaily.com/trasforma-orf-in-png-gratuitamente-online-con-movavi-prove-e-cambia/"><u>Trasforma ORF in PNG Gratuitamente Online Con Movavi - Prove E Cambia</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-choosing-the-right-camera-for-professional-music-video-production/"><u>Ultimate Guide: Choosing the Right Camera for Professional Music Video Production</u></a></li>
+<li><a href="https://techidaily.com/understanding-bmp-files-a-comprehensive-guide-on-the-basics-of-bmp-images-and-viewing-them/"><u>Understanding BMP Files: A Comprehensive Guide on the Basics of .bmp Images & Viewing Them</u></a></li>
+<li><a href="https://techidaily.com/voorbeurteiling-krijgt-gratis-startknop-voor-productsrecorderproductname-maakt-je-ervan-een-aanvanger/"><u>Voorbeurteiling Krijgt Gratis Startknop Voor {{ product('srecorder').product_name }}, Maakt Je Ervan Een Aanvanger</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-copyright-rules-simplified-a-non-legal-guide-for-2024/"><u>YouTube's Copyright Rules Simplified A Non-Legal Guide for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

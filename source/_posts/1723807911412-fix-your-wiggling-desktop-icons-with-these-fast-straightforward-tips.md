@@ -1,7 +1,7 @@
 ---
 title: Fix Your Wiggling Desktop Icons with These Fast, Straightforward Tips
-date: 2024-08-18T03:41:52.334Z
-updated: 2024-08-19T03:41:52.334Z
+date: 2024-09-20T07:49:21.272Z
+updated: 2024-09-24T07:31:53.577Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to stop desktop icons from moving randomly
 
  It is most annoying when you find your desktop icons keep moving all the time. You just want them to stay in the place where they should be, rather than wander here and there like a rover. If that’s the case, you should go on with the steps below to lock your desktop icons.
@@ -56,13 +63,34 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-383.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the pop-up window, select**Themes** from its left pane. Then click**Desktop icon settings** on the right panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-384.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Make sure you uncheck the**Allow themes to change desktop icons** option. Then click**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-385.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Run a full scan for viruses and malware with your antivirus program to ensure that your PC has not been infected.
 
@@ -80,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,61 +117,24 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>[New] 2024 Approved  Visionary Solutions  Top 1 Ward Video Recorders on the Web</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-gross-earnings-of-youtube-luminaries/"><u>[New] In 2024, Global Gross Earnings of YouTube Luminaries</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-audiences-on-the-rise-gauge-for-2024/"><u>[Updated] Audiences on the Rise Gauge for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-skyward-savings-for-your-snaps-the-best-free-to-premium-cloud-storages/"><u>2024 Approved  Skyward Savings for Your Snaps  The Best Free to Premium Cloud Storages</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-enhancing-view-in-roblox-worlds/"><u>2024 Approved  Step-By-Step  Enhancing View in Roblox Worlds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-low-memory-alerts-for-vmware-hosts/"><u>Addressing Low Memory Alerts for VmWare Hosts</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-x6-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find X6 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-sony-xperia-10-v-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Sony Xperia 10 V Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-finest-browser-clickers-the-ultimate-picks-for-android-users/"><u>Discover the Finest Browser Clickers: The Ultimate Picks for Android Users</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y100-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y100 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-s23-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel S23 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-meizu-21-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Meizu 21 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-p60-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei P60 Safely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-reno-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-90-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 90 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-c53-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C53 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-11-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 11 Pro 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-precision-polishing-insights-from-vlle-on-apps/"><u>In 2024, Precision Polishing  Insights From VLLE on Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-iphones-visual-look-up-not-responding-explore-common-problems-and-fixes/"><u>Is Your iPhone's Visual Look Up Not Responding? Explore Common Problems and Fixes</u></a></li>
-<li><a href="https://techidaily.com/remove-realme-c33-2023-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Realme C33 2023 unlock screen</u></a></li>
-<li><a href="https://techidaily.com/remove-reno-11f-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Reno 11F 5G unlock screen</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-xiaomi-redmi-k70-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Xiaomi Redmi K70</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m14-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy M14 5G can’t play AVCHD .mts video</u></a></li>
-<li><a href="https://techtrends.techidaily.com/savor-these-10-amazing-cooking-competitions-and-documentaries-on-netflix/"><u>Savor These 10 Amazing Cooking Competitions and Documentaries on Netflix</u></a></li>
-<li><a href="https://techidaily.com/sign-svd-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .svd file Online with DigiSigner</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-to-retrieve-your-vehicles-radio-unlocking-code/"><u>Simple Steps to Retrieve Your Vehicle's Radio Unlocking Code</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-magic-6-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Magic 6</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones/"><u>Top Creative Apps Roundup  Choose From the Best 8 Photo Edits for Smartphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-reset-and-secure-your-facebook-account/"><u>Ultimate Guide: Steps to Reset and Secure Your Facebook Account</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c12-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C12 Pro.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-xperia-10-v-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xperia 10 V</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-moto-g14-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola Moto G14.</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-11-pro-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 Pro lock with iCloud</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nokia-c12-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nokia C12</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-music-recovery-recover-deleted-music-from-xiaomi-by-fonelab-android-recover-music/"><u>Xiaomi Music Recovery - Recover Deleted Music from Xiaomi</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-12-pro-4g-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi Note 12 Pro 4G won’t play MP4 files</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-ace-2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-closer-look-at-facebooks-video-transformation/"><u>[New] A Closer Look at Facebook’s Video Transformation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-a14-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy A14 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/broadcast-battle-obs-against-wirecast/"><u>Broadcast Battle OBS Against Wirecast</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-7-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 7 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-6-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 6 Plus?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-zte-nubia-z60-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your ZTE Nubia Z60 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/integrate-your-work-life-logging-into-windows-11-with-a-microsoft-365-business-account-a-comprehensive-guide/"><u>Integrate Your Work Life: Logging Into Windows 11 with a Microsoft 365 Business Account - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-approval-process-for-official-recognition-on-the-rebranded-microblogging-network/"><u>Navigating the Approval Process for Official Recognition on the Rebranded Microblogging Network</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/sifting-through-social-media-archives-a-guide-for-laptopsphones/"><u>Sifting Through Social Media Archives A Guide for Laptops/Phones</u></a></li>
+<li><a href="https://techidaily.com/simple-guide-capturing-images-on-your-pc-using-windows-7/"><u>Simple Guide: Capturing Images on Your PC Using Windows 7</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-to-determine-your-current-windows-operating-system/"><u>Simple Steps to Determine Your Current Windows Operating System</u></a></li>
+<li><a href="https://techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily!</u></a></li>
+<li><a href="https://techidaily.com/solving-frame-rate-issues-why-do-i-experience-drop-in-frames-per-second-fps-while-playing-diablo-4-on-pc/"><u>Solving Frame Rate Issues: Why Do I Experience Drop in Frames Per Second (FPS) While Playing Diablo 4 on PC?</u></a></li>
+<li><a href="https://techidaily.com/step-inside-the-boot-options-of-windows-10-with-this-comprehensive-guide/"><u>Step Inside the Boot Options of Windows 10 with This Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-boot-your-windows-7vistaxp-into-safe-mode/"><u>Step-by-Step Guide: Boot Your Windows 7/Vista/XP Into Safe Mode</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-enabling-wireless-internet-on-your-computer-or-laptop/"><u>Step-by-Step Guide: Enabling Wireless Internet on Your Computer or Laptop</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-removing-temp-files-on-windows-10-made-easy/"><u>Step-by-Step Guide: Removing Temp Files on Windows 10 Made Easy</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-repairing-drag-and-drop-mechanism-in-windows-environment/"><u>Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment</u></a></li>
 </ul></div>
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

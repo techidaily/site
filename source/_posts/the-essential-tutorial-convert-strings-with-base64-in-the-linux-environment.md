@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial: Convert Strings with Base64 in the Linux Environment"
-date: 2024-09-20T00:34:37.887Z
-updated: 2024-09-24T00:48:00.872Z
+date: 2024-09-19T10:52:50.892Z
+updated: 2024-09-23T22:18:06.926Z
 tags:
   - desktop
 categories:
@@ -32,10 +32,10 @@ echo 'I love Linux' | base64
 ![The Linux terminal showing the process of encoding a string](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Because of the default behavior of the echo command, there's a trailing newline character at the end of the string. If you'd like to omit that and only use the string, run:
@@ -59,10 +59,10 @@ base64 <<< 'I love Linux'
  Similar to the echo command, here-strings also add a newline character at the end of the string.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Encoding Files Using the base64 Command
@@ -84,16 +84,10 @@ base64 base.txt > output.txt
  As you can see, the terminal didn't display the output. This command saved it to another file instead.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Decoding a base64 String Using the base64 Command
@@ -111,10 +105,10 @@ base64 -d <<< SG93VG9HZWVrCg==
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of here-strings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, there might be non-alphanumeric characters in a string. You can ignore those while decoding the string by using the "-i" option.
@@ -135,16 +129,16 @@ echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​�
 
 ![The Linux terminal showing the process of decoding a base64 string using the Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, the convenient way is to create a Python program that can handle the encoding and decoding by taking user input. First, let's create a program that will encode a string. Here's the encoding code:
 
         `import base64  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get input string from the user  
 input_string = input("Enter the string to encode: ")  
@@ -153,10 +147,10 @@ input_string = input("Enter the string to encode: ")
 encoded_string = base64.b64encode(input_string.encode('utf-8'))  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Decode the encoded string to ensure it's correct (optional)  
@@ -172,6 +166,13 @@ print("Decoded string (verification):", decoded_string)
 python3 base64_encoder.py
 
 ![The Linux terminal showcasing the process of encoding a string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also create a program to decode a base64 string. Here's a code snippet you can use:
 
@@ -191,13 +192,6 @@ except Exception as e:
 python3 base64_decoder.py
 
 ![The Linux terminal displaying the process of decoding a base64 string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can use these Python programs to encode and decode any strings.
 
@@ -220,25 +214,25 @@ python3 base64_decoder.py
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guidelines-to-erase-youtube-recordings-on-pc-for-2024/"><u>[New] Guidelines to Erase YouTube Recordings on PC for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-rapid-video-capture-software-w-audible-commentaries/"><u>[Updated] 2024 Approved Rapid Video Capture Software W/ Audible Commentaries</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hourly-video-consumption-total-daily-gb-amount/"><u>2024 Approved Hourly Video Consumption Total Daily GB Amount</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/cambiar-facilmente-webm-a-mov-file-sin-coste-con-herramienta-de-movavi/"><u>Cambiar Fácilmente Webm a Mov File Sin Coste Con Herramienta De Movavi</u></a></li>
-<li><a href="https://techidaily.com/capturing-desktop-activity-a-guide-to-screen-recording-with-audio-on-windows-systems/"><u>Capturing Desktop Activity: A Guide to Screen Recording With Audio on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/choosing-the-right-video-format-a-comprehensive-guide-on-mp4-vs-mkv/"><u>Choosing the Right Video Format: A Comprehensive Guide on MP4 vs MKV</u></a></li>
-<li><a href="https://techidaily.com/comparando-formatos-de-video-en-que-se-diferencian-mp4-y-wmv/"><u>Comparando Formatos De Video: En Qué Se Diferencian MP4 Y WMV</u></a></li>
-<li><a href="https://techidaily.com/conversione-online-per-la-gratuita-da-wav-a-formato-m4b-senza-problemi-usando-movavi/"><u>Conversione Online per La Gratuità: Da WAV a Formato M4B Senza Problemi Usando Movavi</u></a></li>
-<li><a href="https://techidaily.com/convert-any-video-file-with-movavis-no-cost-nsv-to-mp3-tool-beginner-friendly/"><u>Convert Any Video File with Movavi's No-Cost NSV to MP3 Tool - Beginner Friendly</u></a></li>
-<li><a href="https://techidaily.com/convert-your-videos-faster-m4v-to-webm-for-free-using-movavis-tools/"><u>Convert Your Videos Faster! M4V to WEBM for Free Using Movavi's Tools</u></a></li>
-<li><a href="https://techidaily.com/converti-file-m2p-a-formato-avi-online-e-gratuitamente-con-movavi/"><u>Converti File M2P a Formato AVI Online E Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/copia-video-vob-a-file-mp3-strumenti-di-conversione-liberi-e-premium-movavi/"><u>Copia Video VOB a File MP3: Strumenti Di Conversione Liberi E Premium - Movavi</u></a></li>
-<li><a href="https://techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125188820-get-phrozens-premium-sonic-mini-8k-s-resin-printer-for-a-steal-at-325/"><u>Get Phrozen's Premium Sonic Mini 8K S Resin Printer for a Steal at $325!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>How to Add Instagram Filter to Existing Photos and Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-process-of-downloading-and-transforming-raywenderlich-series-from-video-to-mp4-or-mov-on-windowsmac-os/"><u>Step-by-Step Process of Downloading and Transforming Raywenderlich Series From Video to MP4 or MOV on Windows/Mac OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-observing-instagram-without-having-an-account/"><u>Step-by-Step Tutorial on Observing Instagram without Having an Account</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/win10-screen-snapshot-maker-pro-for-2024/"><u>Win10 Screen Snapshot Maker Pro for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-change-your-tiktok-username-an-ultimate-guide/"><u>[New] 2024 Approved How to Change Your TikTok Username - an Ultimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-audio-capture-system-testing-guide/"><u>[New] In 2024, Audio Capture System Testing Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-marketing-edge-with-video-based-client-advocacy/"><u>2024 Approved Marketing Edge with Video-Based Client Advocacy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-skys-boldest-workhorses-top-10-drones/"><u>2024 Approved The Sky's Boldest Workhorses - Top 10 Drones</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/ogvwebm-movavi/"><u>立即在線將OGV文件更改為WEBM，利用 Movavi 優化易用的影片編輯工具</u></a></li>
+<li><a href="https://techidaily.com/ogg-gifmovavi/"><u>免費線上移動 OGG到 GIF：使用Movavi 影像轉換工具</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-90-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor 90 Pro</u></a></li>
+<li><a href="https://techidaily.com/las-10-metodos-mas-efectivos-para-transformar-un-video-a-gif-con-movavi/"><u>Las 10 Métodos Más Efectivos Para Transformar Un Video a GIF Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/mastering-the-art-of-captivating-video-edits-a-guide-to-impressive-visual-flair/"><u>Mastering the Art of Captivating Video Edits: A Guide to Impressive Visual Flair</u></a></li>
+<li><a href="https://techidaily.com/migliori-programmi-con-ia-per-costruire-canzoni-digitalmente/"><u>Migliori Programmi Con IA Per Costruire Canzoni Digitalmente</u></a></li>
+<li><a href="https://techidaily.com/movavi-payment-methods-secure-and-flexible-online-transactions/"><u>Movavi Payment Methods - Secure & Flexible Online Transactions</u></a></li>
+<li><a href="https://techidaily.com/noiseless-video-record-of-your-screens-easy-fix-and-tutorial-by-movavi/"><u>Noiseless Video Record of Your Screens - Easy Fix & Tutorial by Movavi</u></a></li>
+<li><a href="https://techidaily.com/online-free-converter-from-ram-to-wma-with-movavi-efficient-simpel-en-betalingsgevoegd/"><u>Online Free Converter From RAM to WMA with Movavi: Efficiënt, Simpel en Betalingsgevoegd</u></a></li>
+<li><a href="https://techidaily.com/online-konvertie-van-wav-naar-mkv-met-gratuite-dienstverlening-movavi/"><u>Online Konvertie Van WAV Naar MKV Met Gratuite Dienstverlening - Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/prime-video-hits-on-twitter-the-most-popular-watches-of-23-for-2024/"><u>Prime Video Hits on Twitter The Most Popular Watches of '23 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/select-top-6-slide-show-making-tools-on-latest-iphones-for-2024/"><u>Select Top 6 Slide Show Making Tools on Latest iPhones for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-resolving-chatgpt-communication-issues/"><u>Troubleshooting Guide: Resolving ChatGPT Communication Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unleash-potential-secrets-for-career-growth-in-designing-for-2024/"><u>Unleash Potential Secrets for Career Growth in Designing for 2024</u></a></li>
+<li><a href="https://techidaily.com/online-flac-movavi/"><u>무료 앱을 사용하여 Online FLAC 크리티비톡 편집 - Movavi</u></a></li>
 </ul></div>
 

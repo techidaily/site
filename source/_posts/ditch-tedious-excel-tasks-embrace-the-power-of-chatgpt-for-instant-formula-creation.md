@@ -1,7 +1,7 @@
 ---
 title: Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
-date: 2024-09-17T06:54:17.704Z
-updated: 2024-09-24T00:08:53.764Z
+date: 2024-09-20T08:10:36.586Z
+updated: 2024-09-24T05:40:30.628Z
 tags:
   - cutting-edge
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [ChatGPT Can Troubleshoot and Tweak Your Formulas](https://screen-mirroring-recording.techidaily.com/2024-approved-clear-vision-in-gaming-captures-overcoming-obs-black-screens/)
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can use ChatGPT to create Excel formulas even without prior knowledge of the tool.
@@ -27,13 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Get a Quick Excel Formula From ChatGPT
 
  If you dread the mere thought of opening Excel, let alone creating formulas, you've come to the right place. ChatGPT offers you an easy way to create Excel formulas with zero practical experience required.
@@ -41,13 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  All you have to do is give ChatGPT an explanation of what you want to do, and it'll give you a formula, along with detailed instructions on how to implement it. Just make sure to mention the range (columns and rows) that you want to apply the formula to, and it'll do the rest for you. In this example, I have an assortment of orders for various items with varying prices and profit margins.
 
 ![A list of orders for mugs, spoons, teapots, and kettles in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/test-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  My goal is to calculate the revenue and profit for each order. While the formula required to do this isn't complex, let's just assume that I knew nothing about Excel, and it was my first day on the job. I'd turn to ChatGPT and ask it for a formula:
 
@@ -61,6 +54,13 @@ Close
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
@@ -72,6 +72,13 @@ Close
  These are just a few basic examples demonstrating what you can do with ChatGPT and Excel. You can use your AI buddy to build upon formulas and organize your data in any way you can imagine. There's even a new [experimental function for custom GPT prompts](https://fox-glue.techidaily.com/getting-acquainted-with-quantum-hdr-techniques-for-2024/). The point is that you never have to think about which formula to use or even know how it works. Still, it helps to know a thing or two about Excel to get the most out of it. Check out our [Excel for Beginners](https://vp-tips.techidaily.com/professional-stability-essentials-for-youtube-videographers/) guide for a quick crash course.
 
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  You Can Create Formatting Rules With ChatGPT
 
@@ -88,10 +95,10 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
@@ -105,13 +112,6 @@ Close
  You can also use ChatGPT to identify what's causing an error. Let's say an event organizer was trying to calculate the total number of passengers from each city using a simple addition formula and encountered the #VALUE! error because they mixed text and numbers. After explaining the issue to ChatGPT, it immediately recognized the error and gave a fix accompanied by a simple explanation.
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
 
@@ -138,21 +138,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-pioneering-easy-audio-alterations-for-competitive-play/"><u>[New] 2024 Approved Pioneering Easy Audio Alterations for Competitive Play</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gigglegallery-log-in-and-make-magic-videos/"><u>[New] GiggleGallery Log In and Make Magic Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ideal-audio-gear-compatible-with-cutting-edge-4k-technology/"><u>[New] Ideal Audio Gear Compatible with Cutting-Edge 4K Technology</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-achieving-gentle-growth-of-silence-in-audio-production/"><u>[Updated] Achieving Gentle Growth of Silence in Audio Production</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamlining-the-experience-accessing-facebooks-video-features-through-apple-tv/"><u>[Updated] In 2024, Streamlining the Experience Accessing Facebook's Video Features Through Apple TV</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-vr-innovations-unwrapped-top-peripherals-spotlight-for-2024/"><u>[Updated] VR Innovations Unwrapped - Top Peripherals Spotlight for 2024</u></a></li>
-<li><a href="https://techidaily.com/11-napontal-jobboldali-a-reformacios-videok-tervezesere-szolo-2024-as-vilagszeru-szerterseg/"><u>11 Napontal Jobboldali: A Reformációs Videók Tervezésére Szóló 2024-as Világszerű Szertérség</u></a></li>
-<li><a href="https://techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-youtube-traction-techniques-for-million-sub-attainment/"><u>In 2024, Youtube Traction Techniques for Million-Sub Attainment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-asrocks-pg27qft2a-exceptional-value-for-high-refresh-rate-gaming-enthusiasts/"><u>Review of ASRock's PG27QFT2A - Exceptional Value for High Refresh Rate Gaming Enthusiasts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-pova-6-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Pova 6 Pro 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techidaily.com/transformez-votre-fichier-m4b-en-version-wma-gratuite-sur-internet-avec-convertmovavi/"><u>Transformez Votre Fichier M4B en Version WMA Gratuite Sur Internet Avec ConvertMovavi</u></a></li>
-<li><a href="https://techidaily.com/trasforma-immagini-tiff-in-jpg-di-fronte-a-computer-gratuitamente-utilizzando-movavi/"><u>Trasforma Immagini TIFF in JPG Di Fronte a Computer Gratuitamente Utilizzando Movavi</u></a></li>
-<li><a href="https://techidaily.com/trasformare-il-tuo-filmato-mka-in-formato-mkv-senza-costi-convertitore-video-online/"><u>Trasformare Il Tuo Filmato MKA in Formato MKV Senza Costi - Convertitore Video OnLine</u></a></li>
-<li><a href="https://techidaily.com/tutorial-facile-transformer-un-fichier-flv-en-format-mpeg-gratuite-online-avec-convertit-videos/"><u>Tutorial Facile: Transformer Un Fichier FLV en Format MPEG Gratuite Online Avec Convertit-Vidéos</u></a></li>
-<li><a href="https://techidaily.com/1726233732017-mov-mjpeg-movavi/"><u>シンプルな手順でMOV MJPEG形式の自由にオンライン変換 - Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-flawlessrecorder-suite-w10-edition-for-2024/"><u>[Updated] FlawlessRecorder Suite W10 Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>[Updated] The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-graphics-genesis-radeon-reclaimed/"><u>2024 Approved Graphics Genesis Radeon Reclaimed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/elevate-your-gaming-with-nvidias-updated-drivers-for-gtx-1660-ti-card-tips-and-tricks/"><u>Elevate Your Gaming with NVIDIA's Updated Drivers for GTX 1660 Ti Card – Tips & Tricks</u></a></li>
+<li><a href="https://techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-canon-footage-advanced-video-editing-software-and-strategies/"><u>In 2024, Transform Your Canon Footage Advanced Video Editing Software and Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/infusing-life-into-text-instagram-story-animations-tips/"><u>Infusing Life Into Text Instagram Story Animations Tips</u></a></li>
+<li><a href="https://techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
+<li><a href="https://techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-design-and-send-video-invites-on-the-go-best-mobile-apps/"><u>New In 2024, Design and Send Video Invites On-the-Go Best Mobile Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-adobe-creative-suite-issues-resolving-after-effects-crashes-for-windows-1110-users/"><u>Overcoming Adobe Creative Suite Issues – Resolving After Effects Crashes for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gta-5-stutters-and-fixes/"><u>Troubleshooting GTA 5 Stutters and Fixes</u></a></li>
 </ul></div>
 

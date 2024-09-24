@@ -1,7 +1,7 @@
 ---
 title: Abby OCR技術で実現! 完全内製化による税務収納業務生産性の飛躍的向上と外部コスト削減
-date: 2024-08-22T08:23:54.777Z
-updated: 2024-08-23T08:23:54.777Z
+date: 2024-09-16T20:49:13.542Z
+updated: 2024-09-23T16:24:51.658Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1202b54d6fbdf849bf81ed68.jpg
@@ -18,6 +18,13 @@ Government | Forms Processing | Document Processing
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/ja/184357.png?h=40&iar=0&w=120)
 
 [お客様のストーリーに戻る](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ABBYYのAI OCRで税務収納業務の効率化が進み外部委託費を皆減 業務の完全内製化を実現し、生産性も大幅向上
 
@@ -112,13 +119,40 @@ ABBYYのAI OCRは読み取り精度や拡張性が高く、スクリプト処理
 
 ![](https://static1.abbyy.com/abbyycommedia/36881/nakano-all-556-303.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 写真左より、TOPPANエッジ株式会社 石田様、中野区 高津様、坂本様、TOPPANエッジ株式会社 大台様
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![Learn more about ABBYY Vantage](https://static2.abbyy.com/abbyycommedia/24337/mailroom_automation_360x162.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
@@ -130,9 +164,6 @@ ABBYYのAI OCRは読み取り精度や拡張性が高く、スクリプト処理
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 専門家に相談する準備はできていますか?
 
 私たちは、自動化への取り組みをお手伝いさせていただきたいと思っています。
@@ -145,8 +176,6 @@ ABBYYのAI OCRは読み取り精度や拡張性が高く、スクリプト処理
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,58 +185,22 @@ ABBYYのAI OCRは読み取り精度や拡張性が高く、スクリプト処理
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exploring-youtubes-regular-income-mechanism/"><u>[New] 2024 Approved  Exploring YouTube's Regular Income Mechanism</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevating-instagram-posts-with-perfectly-sized-videos/"><u>[New] In 2024, Elevating Instagram Posts with Perfectly Sized Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-superior-on-screen-moment-documentation/"><u>[New] In 2024, Superior On-Screen Moment Documentation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-understanding-facebook-story-algorithms-how-to-optimize-for-success/"><u>[Updated] 2024 Approved  Understanding Facebook Story Algorithms  How to Optimize for Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gear-up-essential-asmr-microphones-to-consider-for-2024/"><u>[Updated] Gear Up  Essential ASMR Microphones to Consider for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-eyesharp-record-chromeos-native-cam/"><u>[Updated] In 2024, EyeSharp Record  ChromeOS Native Cam</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-tunefabs-top-screen-recorder-picks/"><u>[Updated] In 2024, Tunefab's Top Screen Recorder Picks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-ensure-periscope-videos-are-secured-post-record/"><u>2024 Approved  How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-inspire-your-brand-with-smart-channel-name-genesis/"><u>2024 Approved  Inspire Your Brand with Smart Channel Name Genesis</u></a></li>
-<li><a href="https://techidaily.com/beat-windows-11-error-80240020-your-step-by-step-fix-for-a-smooth-update-process/"><u>Beat Windows 11 Error 80240020 - Your Step-by-Step Fix for a Smooth Update Process</u></a></li>
-<li><a href="https://techidaily.com/beginners-guide-setting-up-your-pc-with-a-gaming-wheel-for-an-immersive-experience/"><u>Beginner's Guide: Setting Up Your PC With A Gaming Wheel For An Immersive Experience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/bellylaugh-beats-top-choices-for-laughable-ringtone-downloads/"><u>BellyLaugh Beats  Top Choices for Laughable Ringtone Downloads</u></a></li>
-<li><a href="https://fox-info.techidaily.com/bring-your-stories-alive-techniques-for-animation-in-text/"><u>Bring Your Stories Alive  Techniques for Animation in Text</u></a></li>
-<li><a href="https://techidaily.com/case-studies-showcasing-successful-use-cases-such-as-defi-decentralized-finance-nfts-non-fungible-tokens-and-daos-decentralized-autonomous-organizations/"><u>Case Studies Showcasing Successful Use Cases, Such as DeFi (Decentralized Finance), NFTs (Non-Fungible Tokens), and DAOs (Decentralized Autonomous Organizations)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-recording-gear-the-ultimate-voice-recorders-2023-for-2024/"><u>Cutting-Edge Recording Gear  The Ultimate Voice Recorders 2023 for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deciphering-the-lg-watch-styles-heritage-a-detailed-assessment-of-iconic-wear-os-cuisine-20-timepiece-offerings/"><u>Deciphering the LG Watch Style's Heritage: A Detailed Assessment of Iconic Wear OS Cuisine 2.0 Timepiece Offerings</u></a></li>
-<li><a href="https://techidaily.com/desktop-icon-shuffle-stop-it-here-simple-fixes-in-a-nutshell/"><u>Desktop Icon Shuffle? Stop It Here: Simple Fixes in a Nutshell</u></a></li>
-<li><a href="https://techidaily.com/1723808070986-disable-windows-11-updates-easily/"><u>Disable Windows 11 Updates Easily</u></a></li>
-<li><a href="https://techidaily.com/discover-your-motherboard-type-with-simple-tricks/"><u>Discover Your Motherboard Type with Simple Tricks</u></a></li>
-<li><a href="https://techidaily.com/diy-tutorial-setting-up-a-secure-vpn-connection-on-netgear-routers-illustrated-steps-inside/"><u>DIY Tutorial: Setting Up a Secure VPN Connection on Netgear Routers – Illustrated Steps Inside</u></a></li>
-<li><a href="https://techidaily.com/download-utorrent-the-ultimate-free-torrent-client-for-windows-11-users/"><u>Download Utorrent: The Ultimate Free Torrent Client for Windows 11 Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/driving-down-the-charts-a-compreranble-seo-approach-for-podcasters/"><u>Driving Down the Charts  A Compreranble Seo Approach for Podcasters</u></a></li>
-<li><a href="https://techidaily.com/easy-fixes-for-the-missing-external-media-device-driver-problem-in-windows/"><u>Easy Fixes for the 'Missing External Media Device Driver' Problem in Windows</u></a></li>
-<li><a href="https://techidaily.com/easy-mac-vpn-setup-guide-secure-your-connection-with-simple-steps/"><u>Easy Mac VPN Setup Guide: Secure Your Connection with Simple Steps</u></a></li>
-<li><a href="https://techidaily.com/effective-solutions-to-overcome-access-denied-during-windows-updates-error-0x80070005/"><u>Effective Solutions to Overcome 'Access Denied' During Windows Updates (Error: 0X80070005)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-oppo-find-n3-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo Find N3 Face Lock?</u></a></li>
-<li><a href="https://techidaily.com/1723808353906-how-to-check-ram-on-windows-quickly-and-easily/"><u>How to Check RAM on Windows | Quickly & Easily.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-take-off-or-change-a-cell-phones-protective-glass-screen/"><u>How to Take Off or Change a Cell Phone's Protective Glass Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-p55-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel P55 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-maximizing-your-fb-video-view-going-full-screen/"><u>In 2024, Maximizing Your FB Video View  Going Full Screen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-securing-your-snapchat-footage-a-step-by-step-process/"><u>In 2024, Securing Your Snapchat Footage  A Step-by-Step Process</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-11-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 11 to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-nearby-landscapes-on-roblox-easily-for-2024/"><u>Navigate Nearby Landscapes on Roblox Easily for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pro-video-creators-guide-to-ideal-laptops-for-2024/"><u>Pro Video Creators' Guide to Ideal Laptops for 2024</u></a></li>
-<li><a href="https://techidaily.com/1723808367182-solve-your-hxtsrexe-woes-in-windows-11-expert-tips-and-tricks/"><u>Solve Your HxTsr.exe Woes in Windows 11 – Expert Tips and Tricks</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-torrents/"><u>Step-by-Step Guide: Mastering the Art of Downloading Torrents</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-performing-a-complete-system-restore-on-windows-11/"><u>Step-by-Step Guide: Performing a Complete System Restore on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-removing-your-printers-drivers-from-windows-computers/"><u>Step-by-Step Guide: Removing Your Printer's Drivers From Windows Computers</u></a></li>
-<li><a href="https://techidaily.com/the-complete-guide-to-dualplusmonitor-configurations-for-enhanced-productivity/"><u>The Complete Guide to Dual+Monitor Configurations for Enhanced Productivity</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-x-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone X</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-toms-computer-components-and-tech-reviews-the-go-to-gear-guide/"><u>Top Tom's Computer Components & Tech Reviews: The Go-To Gear Guide</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-gameplay-display-issues-resolving-screen-latency-in-dual-setup-with-windows-11/"><u>Troubleshooting Gameplay Display Issues: Resolving Screen Latency in Dual Setup with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-top-five-ways-to-restart-non-functioning-chatgpt/"><u>Troubleshooting Guide: Top Five Ways to Restart Non-Functioning ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-for-reducing-tiworkerexes-extensive-disk-activity-on-windows-10-systems/"><u>Troubleshooting Tips for Reducing tiWorker.exe's Extensive Disk Activity on Windows 10 Systems</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-connecting-and-using-an-external-hdd-with-your-playstation-4/"><u>Ultimate Guide: Connecting and Using an External HDD with Your PlayStation 4</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-how-to-successfully-pair-android-phone-with-pc-using-bluetooth/"><u>Ultimate Guide: How to Successfully Pair Android Phone with PC Using Bluetooth</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-selecting-the-perfect-vpn-to-protect-and-access-youtube-anywhere/"><u>Ultimate Guide: Selecting the Perfect VPN to Protect & Access YouTube Anywhere</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-for-burning-optical-discs-using-microsofts-latest-operating-system-windows-11/"><u>Ultimate Tutorial for Burning Optical Discs Using Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-mastering-game-sharing-on-your-ps4/"><u>Ultimate Tutorial: Mastering Game Sharing on Your PS4</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-best-value-in-tablets-a-detailed-look-at-the-enhanced-apple-ipad-8th-gen-with-a-102-inch-display/"><u>Unveiling the Best Value in Tablets: A Detailed Look at the Enhanced Apple iPad (8Th Gen) with a 10.2 Inch Display</u></a></li>
-<li><a href="https://techidaily.com/visual-distortions-gone-effortless-methods-for-clearer-tv-viewing-experience/"><u>Visual Distortions Gone: Effortless Methods for Clearer TV Viewing Experience</u></a></li>
-<li><a href="https://techidaily.com/wireless-wonder-how-to-link-an-epson-printer-to-wifi-securely-and-successfully/"><u>Wireless Wonder: How to Link an Epson Printer to WiFi Securely and Successfully</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mac-acoustics-for-aspiring-artists/"><u>[New] 2024 Approved Mac Acoustics for Aspiring Artists</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-high-end-vision-booster-convert-with-clarity/"><u>[New] In 2024, High-End Vision Booster Convert with Clarity</u></a></li>
+<li><a href="https://techidaily.com/1726233754208-mp3/"><u>【迅速＆用途広く】フリーウェアで動画をMP3に変換する -オンラインツール</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-teaser-film-assortment/"><u>2024 Approved Pinnacle Teaser Film Assortment</u></a></li>
+<li><a href="https://techidaily.com/2024top-win10/"><u>2024年度Top Win10视频编辑软件推荐清单</u></a></li>
+<li><a href="https://techidaily.com/3d-animation-software-the-top-12-legjobb-options-for-your-project/"><u>3D Animation Software: The Top 12 Legjobb Options for Your Project</u></a></li>
+<li><a href="https://techidaily.com/ai-mov-movavi/"><u>自由下載無成本 AI 到 MOV 格式 - 使用 Movavi 翻譯器</u></a></li>
+<li><a href="https://techidaily.com/1726233785702-ai-12/"><u>AI 얼굴 만들기를 위한 12가지 획기적인 프로그램 선보기</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-your-art-with-professional-color-alteration/"><u>Elevate Your Art with Professional Color Alteration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-to-screen-capture-windows/"><u>Essential Guide to Screen Capture Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-onscreen-power-expert-tips-on-cropping-images-for-2024/"><u>Harnessing Onscreen Power Expert Tips on Cropping Images for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-12r-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus 12R to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-pre-windows-era-to-modern-windows-11-today/"><u>In 2024, From Pre-Windows Era To Modern Windows 11 Today</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-5-udemy-subtitle-translator-auto-translation/"><u>New Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://techidaily.com/7iuk7iuc6rceiou5houuloyypcdtjrjsp5hqulaglsdsnbtsojwg7iks7isc65oc66as6riw/"><u>실시간 비디오 편집기 - 이제 사서드리기</u></a></li>
+<li><a href="https://techidaily.com/1726233761033-mp43gp-movavi/"><u>コストレスで高速なオンラインMP4/3GP動画変換 - Movaviを超えて</u></a></li>
+<li><a href="https://techidaily.com/1726233776009-movavi/"><u>モバビでスムーズに動画の字幕付け: 初心者から上達までガイド【Movavi・文字表示】</u></a></li>
 </ul></div>
+

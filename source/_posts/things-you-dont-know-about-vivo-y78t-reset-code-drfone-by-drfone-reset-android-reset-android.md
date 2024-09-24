@@ -1,7 +1,7 @@
 ---
 title: Things You Dont Know About Vivo Y78t Reset Code | Dr.fone
-date: 2024-08-01T17:55:59.594Z
-updated: 2024-08-02T17:55:59.594Z
+date: 2024-09-18T04:55:27.141Z
+updated: 2024-09-24T01:27:53.391Z
 tags: 
   - reset
 categories:
@@ -18,24 +18,14 @@ Nothing good lasts forever, not even your all-singing, all-dancing new Android s
 
 Before taking the plunge, there are a number of factors to consider. We've put together a quick guide to let you know what you need to know... and what you need to do. Before we start deleting stuff, however, it's important to understand what a Factory reset is.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What is Factory Reset?
 
 There are two types of reset for every Android device, soft and hard resets. A [soft reset](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is just a way to force the Android operating system to shut down in the event of a freeze and you only risk losing any data which wasn't saved prior to the reset.
 
 A hard reset, also known as a factory reset and a master reset, returns the Vivo Y78t device to the condition it was in when it left the factory. Performing a factory reset will permanently delete any and all personal data you have on your device. This includes any personal settings, apps, pictures, documents, and music stored on your device. A factory reset is irreversible, which means before considering taking this step, it is a good idea to back your data and settings up. A factory reset is a great way to purge buggy updates and other malfunctioning software and can give your phone a new lease of life.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Signs You Need to Reset Phone
 
 You'll probably already know if your phone needs a reset, but if you're unsure, look for some of the following signs. If you recognize any of the following symptoms then a factory reset is probably a good idea.
@@ -69,28 +59,33 @@ Backup & Restore Data Turns Flexible
 
 **3,823,152** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### How to backup Android phone with Dr.Fone Basic
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
 ![complete android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Also, you can watch this video to learn more details.
 
@@ -99,11 +94,28 @@ Also, you can watch this video to learn more details.
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Factory Reset Android Phone
 
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1. Using the Settings Menu To Factory Reset Your Device
 
@@ -117,11 +129,15 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 
 ![factory reset android from settings menu](https://images.wondershare.com/drfone/others/factory-reset-from-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Vivo Y78t device resets itself.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2. Resetting Your Phone in Recovery Mode
 
 If your phone is misbehaving it might be easier to reset it via Recovery Mode. To do this you must turn your device off first.
@@ -158,9 +174,6 @@ Please note: this reset will also delete Android Device Manager and you will the
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Vivo Y78t to the Internet and login into your Google account when prompted.
@@ -171,32 +184,27 @@ Once you have restarted your mobile, connect it to your PC and open Dr.Fone on y
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
@@ -212,9 +220,6 @@ Transfer Everything from Old Devices to New Devices in 1 Click!
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 Resetting your Android device can resolve performance issues and prepare it for resale or gifting. However, a factory reset erases all personal data, making it essential to back up your data before proceeding.
@@ -227,13 +232,11 @@ Thank you for reading and if we've been of some help please take the time to boo
 
 Find here 3 easy ways to hard reset Android using ADK or Android Device Manager from your PC. Also, do not forget to back up Android to PC before starting.
 
-
 There are several cases when someone wants to know about how to hard reset an Android phone using PC. Such cases usually arise when your device is not accessible or stolen. It also involves situations when you forget the password or the unlock pattern of your device, or maybe your phone has frozen and is non-responsive. In such situations, it is very important to know how to reset Android phones to factory settings from the computer.
 
 Factory reset will delete all your user data from internal storage. Thus it is also very important to back up all your internal data of the Vivo Y78t device before you hard reset Android via PC. Moreover, a hard reset should be your last option at hand to revive your Android device. Hence, in this article for all the users out there, we have picked up the solution on **how to factory reset Android Phone using PC**.
 
 You must ensure that all the steps are followed in sync so that the hard reset Android via PC is successful.
-
 
 ## Part 1: Back up Android before hard reset
 
@@ -241,9 +244,6 @@ Since factory reset involves removing all data, adjusted settings and logged acc
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexiblely Back up and Restore Android Data
@@ -261,14 +261,18 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 **Step 2:** You can now see the file types that will be backed up, such as Contacts, Messages, Calendars, Videos, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 **Step 3:** Click on "Backup pow"  to proceed with the process. The backup process will start, keeping connected the Vivo Y78t device during the phone backup process.
 
 ![Click on “backup” again](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Within a few minutes, your whole device will be backed up. You can click "View Backups" to view all data that is backed up.
 
@@ -276,9 +280,6 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 Phone Backup is one of the handiest and easy-to-use features within Wondershare Dr.Fone. Users can select their opted files manually to restore. This tool supports 8000+ Android devices worldwide. Users will feel safe and secure using this revolutionary software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 2: Hard Reset Android using Dr.Fone - Screen Unlock (Android)
@@ -287,23 +288,21 @@ Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps yo
 
 **Step 1:** Launch Dr.Fone - Screen Unlock on your computer and select "Screen Unlock" from the main interface. After that , you need to connect your Android phone to the computer using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![launch screen unlock android](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Choose "Android" > click "Unlock Android Screen" if you want to remove the lock screen. Choose your device brand. The hard reset methods vary for different device brands, so make sure that you choose the correct device brand.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![choose device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 3:** Put the Android phone into Specific mode with the help of Dr.Fone. And then, Dr.Fone will factory reset your Android phone within a few minutes. Now you can access your Android phone without a password!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -345,10 +344,6 @@ Now, you have successfully reset your device using a PC.
 
 Although the first process is the easiest, in certain cases, you might have to look for other options too. Kindly follow the steps thoroughly and format your device with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Hard reset Android using Android Device Manager (Find My Device)
 
 When someone loses their phone, or it is stolen, the two questions that commonly arise are: how to locate the phone? And if it is not possible, how to remotely wipe the phone’s data? People can use the Android Device Manager (also referred to as "Find My Device") and do the exact two things. The best thing about this is that it doesn’t need to be installed as it is inbuilt on all Android Devices.
@@ -380,8 +375,6 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 
 So these were the third different methods through which you can hard reset your Android device. Resetting the Vivo Y78t device involves removing every data from the Vivo Y78t device. The phone gets back to the same state as it was out of the box. Hence, most importantly, do not forget to back up data using Phone Backup and restore beforehand so that you do not end up losing anything important.
 
-
-
 ## How to Reset a Vivo Y78t Phone That Is Locked
 
 _“Looking for the best solutions on how to factory reset Vivo Y78t phone when locked?”_
@@ -402,18 +395,12 @@ Before you start resetting your Vivo Y78t device through any of the methods, the
 
 Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Vivo Y78t phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Reset Vivo Y78t using Google's Android Device Manager
 
 The Android Device Manager which is also known as Find My Phone is an excellent feature that is majorly used for locating the lost or the stolen phone. This feature also allows the users to unlock and reset their devices. The Android Device Manager can only function if you know the Google ID and password that was used for device initialization. The feature can be used to erase the Vivo Y78t device data and reset it.
 
 #### Steps to reset Vivo Y78t phone using Google Android Device Manager
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android device manager](https://images.wondershare.com/drfone/article/2022/06/android-device-manager.jpg)
 
 - **Step 1.** On your PC browser, using your Google account, sign in to the Google Find My Device.
@@ -423,18 +410,6 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 
 With the completion of the above steps, your Vivo Y78t phone will reset.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Perform a Hard Reset on Vivo Y78t with Hardware Keys
 
 Hard reset which is also termed factory reset is a feature that will reset all the Vivo Y78t device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
@@ -448,16 +423,10 @@ Hard reset which is also termed factory reset is a feature that will reset all t
 - **Step 5.** Again, to confirm the hard reset, click on the **Wipe data/factory reset** button.
 - **Step 6.** The process of hard resetting will start and when completed, click on **Reboot system now** for restarting the unlocked phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![hard reset with hardware keys](https://images.wondershare.com/drfone/article/2022/06/hard-reset.jpg)
 
 _**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Vivo Y78t device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Vivo Y78t FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Vivo Y78t codes that can be used to bypass the FRP lock._
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: An Efficient Alternative to Reset Locked Vivo Y78t Phone
 
 If the above-listed methods do not work for any reason, we recommend using [Dr.Fone-Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) as the best alternative. This is a Windows and Mac-based tool that can help bypass and remove all types of screen locks including PIN, passcode, pattern, Face ID as well as a fingerprint. The software not only works with Vivo Y78t but all other popular Android devices including Vivo Y78t, LG, Oppo, and more.
@@ -468,9 +437,6 @@ If the above-listed methods do not work for any reason, we recommend using [Dr.F
 
 The screen locks can be removed without rooting, and the software is completely safe to use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -497,9 +463,6 @@ The Best Tool for factory reset Vivo Y78t Phone When Locked
 
 - **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ## Part 3. How to Reset Vivo Y78t Phone at Normal Cases?
@@ -516,9 +479,6 @@ To unlock the screen and reset your Vivo Y78t phone, the settings menu of the Vi
 
 The steps above will reset your phone to the default factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Reset Vivo Y78t phones with factory reset code
 
 There are Android Reset Codes for different brands of phones that can be used for resetting the Vivo Y78t device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Vivo Y78t phones is **\*#\*#2846579#\*#\***.
@@ -535,11 +495,7 @@ The above methods can also be tried if you get stuck in a situation on how to fa
 
 The above given are multiple options that can be used for resetting your Vivo Y78t phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Vivo Y78t device as it supports removing all types of screen locks in a hassle-free manner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -553,45 +509,20 @@ The above given are multiple options that can be used for resetting your Vivo Y7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-simplify-audio-extraction-find-the-most-affordable-solutions/"><u>[New] 2024 Approved  Simplify Audio Extraction  Find the Most Affordable Solutions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-10-video-calls-software-compared-side-by-side/"><u>[New] 2024 Approved  Top 10 Video Calls Software Compared Side by Side</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-comprehensive-review-camera-lenses-for-youtube-for-2024/"><u>[New] A Comprehensive Review  Camera Lenses for YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-syncing-soundtracks-the-apple-way/"><u>[New] In 2024, Syncing Soundtracks  The Apple Way</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-fb-video-content-with-1-5-downloaders/"><u>[Updated] In 2024, Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-iphones-ultimate-live-photography-potential/"><u>[Updated] Unlocking iPhone's Ultimate Live Photography Potential</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-breakout-rooms-for-newcomers-explored-for-2024/"><u>[Updated] Zoom Breakout Rooms for Newcomers Explored for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-your-workflow-optimizing-googles-podcast-submission-system/"><u>2024 Approved  Elevating Your Workflow  Optimizing Google's Podcast Submission System</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-extended-scope-camera-platforms/"><u>2024 Approved  Extended Scope Camera Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-android-listeners-choice/"><u>2024 Approved  Leading Android Listeners' Choice</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-x100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo X100 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>Birthstones and Emojis  Tailoring Your WhatsApp Profile by Sign</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-15-pro-max-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 15 Pro Max Without Passcode Now</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy-for-2024/"><u>Harnessing Instagram Video Potential  Crafting a Strong Marketing Strategy for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-reno-10-proplus-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Reno 10 Pro+ 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-9-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 9 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-itel-a60-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel A60 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-c12-plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Plus without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-palette-tweaks-by-professionals/"><u>In 2024, Advanced Palette Tweaks by Professionals</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-game-genre-matchups-titles-alike-to-gta-v/"><u>In 2024, Game Genre Matchups  Titles Alike to GTA V</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 15?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-8-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 8 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2010-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2010 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-galaxy-m34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Galaxy M34 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-huawei-p60-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Huawei P60</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-edge-40-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Edge 40</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y28-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y28 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-realme-c67-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Realme C67 5G.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-galaxy-a05-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Galaxy A05 password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S24?</u></a></li>
-<li><a href="https://techidaily.com/will-xiaomi-civi-3-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi Civi 3 play AVCHD mts files?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-harmonizing-iphone-footage-like-a-pro/"><u>[Updated] Harmonizing iPhone Footage Like a Pro</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-m14-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy M14 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-ai-setup-gpt-on-pc/"><u>Embracing AI: Setup GPT on PC</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v27e-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V27e Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-pro-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-14-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 14 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-motorola-edge-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Edge 2023 Without Password | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-the-system-error-issue-on-various-windows-versions-windows-1078/"><u>How to Solve the 'System Error ❌' Issue on Various Windows Versions (Windows 10/7/8)</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixed-top-10-windows-glitch-solvers/"><u>Quick Fixed: Top 10 Windows Glitch Solvers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/step-by-step-guide-to-uploading-immersive-photos-via-iosandroid-for-2024/"><u>Step-by-Step Guide to Uploading Immersive Photos via iOS/Android for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers in Windows 11/10/7</u></a></li>
 </ul></div>
+

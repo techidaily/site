@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Restoring Your Ethernet Connectivity on Microsoft's Latest OS, Windows Nul
-date: 2024-09-22T22:38:07.541Z
-updated: 2024-09-23T23:56:07.841Z
+date: 2024-09-16T17:02:12.487Z
+updated: 2024-09-23T18:36:01.257Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * [Update or Reinstall Ethernet Adapter Drivers](https://extra-guidance.techidaily.com/new-quick-guide-integrating-titles-into-videos-within-windows-photos/)
 * [Disable Proxy Server Over LAN](https://youtube-docs.techidaily.com/024-approved-how-to-prevent-thumbnail-absence-in-shorts-uploads/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Connect your device to the internet via Wi-Fi to ensure your internet connection is active. Then, test the Ethernet connection on another device to eliminate any potential issues with your router or Ethernet cable.
@@ -39,16 +46,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "Run" button next to Network and Internet. Follow the on-screen instructions in the Get Help app to identify and fix the problem.
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Preliminary Checks
 
@@ -61,10 +68,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  If these basic troubleshooting steps do not resolve the issue, you can apply the remaining solutions listed below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check if the Internet Is Working
@@ -89,22 +102,35 @@ Hannah Stryker / How-To Geek
 
  If the Ethernet cable and its connectors are in good condition, check the ports where the cable is plugged into your router or PC for any obvious signs of damage. Connect the cable to a different port on your PC (if one is available) to confirm whether the PC port is working properly. Then, try plugging the cable to a different port on your router. If changing the ports does not resolve the issue, try the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Rule Out Issues With Your Router
 
 ![The back of a TP-Link Archer C6 router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img20240122150429.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
  Take a few simple steps to ensure that a problem with your router isn't causing issues with your Ethernet connection. First, [reboot your router](https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-se-to-other-iphone-drfone-by-drfone-ios/) to clear its memory, terminate all tasks, and reload the router's operating system (or firmware). To do this, disconnect the router from the power source, wait for 10 to 30 seconds, then plug it back in and turn it on.
 
  If you're up to it, you can [log into your router's admin interface](https://buynow-reviews.techidaily.com/unveiling-the-potential-a-full-review-of-tp-links-re5-grower-tp-link-re505x-wifi-range-extender/) and confirm that your device isn't blacklisted. If all else fails, you can [completely reset your router settings](https://digital-screen-recording.techidaily.com/microcapture-video-logger-analysis-and-options-for-2024/) to ensure that misconfigured settings aren't causing the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Ensure the Ethernet Connection Is Enabled
 
@@ -122,19 +148,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![Updating the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/updating-the-ethernet-driver-in-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Browse My Computer for Drivers," then select the downloaded driver file from the Downloads folder and let Windows update it.
 
 ![Clicking "Browse my computer for drivers" to manually install the drivers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-06-30_16-32-04.jpg) 
@@ -142,13 +155,6 @@ Ismar Hrnjicevic / How-To Geek
  If updating the driver doesn't resolve the issue, uninstall the driver from Device Manager. Right-click on the driver and select "Uninstall Device."
 
 ![Uninstalling the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uninstalling-the-ethernet-driver-in-device-manager.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, follow the previous instructions to reinstall it manually.
 
@@ -159,10 +165,10 @@ Ismar Hrnjicevic / How-To Geek
 ![Opening the 'Internet Options' Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/1-opening-the-internet-options-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
@@ -170,10 +176,10 @@ Ismar Hrnjicevic / How-To Geek
 ![Turning off the proxy server from LAN settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2-turning-off-the-proxy-server-from-lan-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -195,17 +201,16 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-rx-graphics-retrospect-and-report/"><u>[New] 2024 Approved RX Graphics Retrospect & Report</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-master-9-movie-extractor-hub/"><u>[New] In 2024, Master 9 Movie Extractor Hub</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-windows-11-tips-for-effective-sound-recording/"><u>[New] In 2024, Windows 11 Tips for Effective Sound Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-streamlining-your-digital-workspace-mastering-zoom-sessions/"><u>[New] Streamlining Your Digital Workspace Mastering Zoom Sessions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-25-essential-no-cost-photography-tools-for-creatives/"><u>[Updated] 25 Essential No-Cost Photography Tools for Creatives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-launch-xp-movie-editor-for-seamless-editing/"><u>2024 Approved Launch XP Movie Editor for Seamless Editing</u></a></li>
-<li><a href="https://techidaily.com/efficient-movavi-video-editing-tutorials-schritt-fur-schritt-lektionen-fur-die-optimale-videobearbeitung/"><u>Efficiënt Movavi Video Editing Tutorials: Schritt Für Schritt Lektionen Für Die Optimale Videobearbeitung</u></a></li>
-<li><a href="https://techidaily.com/effortlessly-convert-your-vob-videos-to-mkv-at-no-cost-using-movavis-web-service/"><u>Effortlessly Convert Your VOB Videos to MKV at No Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://techidaily.com/expertly-curated-discover-the-best-16-video-streamers-on-the-market/"><u>Expertly Curated: Discover the Best 16 Video Streamers on the Market</u></a></li>
-<li><a href="https://techidaily.com/explore-our-selection-of-highest-ranking-4k-recording-applications-for-every-device-type-movavi-recommended-picks/"><u>Explore Our Selection of Highest-Ranking 4K Recording Applications for Every Device Type – Movavi Recommended Picks</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>[New] Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-online-gag-artist/"><u>[New] Online Gag Artist</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-revolutionizing-text-design-top-10-after-effects-templates/"><u>[New] Revolutionizing Text Design Top 10 After Effects Templates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-step-by-step-crafting-your-own-android-ringtones-and-sounds/"><u>[Updated] Step-By-Step Crafting Your Own Android Ringtones and Sounds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-neo-5-se-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT Neo 5 SE by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/online-free-converter-from-ram-to-wma-with-movavi-efficient-simpel-en-betalingsgevoegd/"><u>Online Free Converter From RAM to WMA with Movavi: Efficiënt, Simpel en Betalingsgevoegd</u></a></li>
+<li><a href="https://techidaily.com/online-konvertie-van-wav-naar-mkv-met-gratuite-dienstverlening-movavi/"><u>Online Konvertie Van WAV Naar MKV Met Gratuite Dienstverlening - Movavi</u></a></li>
+<li><a href="https://techidaily.com/raggiungere-i-primati-seo-con-questi-6-strumenti-chiave-nel-mese-di-settembre-del-2024-unire-due-video/"><u>Raggiungere I Primati SEO Con Questi 6 Strumenti Chiave Nel Mese Di Settembre Del 2024 - Unire Due Video</u></a></li>
+<li><a href="https://techidaily.com/solucoes-de-software-para-abranger-arquivos-embalados-no-swf-abra-agora/"><u>Soluções De Software Para Abranger Arquivos Embalados No SWF - Abra Agora!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-new-era-of-computing-begins-with-apples-m1-chip-in-their-2020-macbook-pro-13-inch-model-an-in-depth-review/"><u>The New Era of Computing Begins with Apple's M1 Chip in Their 2020 MacBook Pro 13-Inch Model: An In-Depth Review</u></a></li>
+<li><a href="https://techidaily.com/top-13-mejores-reproductores-de-webcam-para-windows-10-una-guia-completa/"><u>Top 13 Mejores Reproductores De Webcam Para Windows 10: Una Guía Completa</u></a></li>
 </ul></div>
 

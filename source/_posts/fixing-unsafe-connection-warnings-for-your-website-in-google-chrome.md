@@ -1,7 +1,7 @@
 ---
 title: Fixing Unsafe Connection Warnings for Your Website in Google Chrome
-date: 2024-08-18T03:47:08.896Z
-updated: 2024-08-19T03:47:08.896Z
+date: 2024-09-18T02:28:43.158Z
+updated: 2024-09-24T11:32:52.555Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How can I set up a VPN on Xbox One?
 
  There are two methods to set up a VPN for Xbox One: through either your Wi-Fi router or your computer. The step-by-step guides for both ways will be shown below.  
@@ -85,12 +82,22 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
@@ -108,6 +115,13 @@ a) get it through your Windows computer:
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
@@ -133,24 +147,28 @@ a) get it through your Windows computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) **Buy a VPN subscription and install its software to configure it on your computer.** You can review[how to choose a VPN service through the method above](https://tools.techidaily.com/drivereasy/download/) .
 
  We recommend[NordVPN](https://tools.techidaily.com/drivereasy/download/) as your best pick. And here’s how you can use it on your computer:
@@ -164,8 +182,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8af87822.jpg)
@@ -186,8 +214,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,48 +223,19 @@ Enjoy playing Xbox One games!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-bridging-the-time-gap-in-social-storytelling-on-fb-pcmobile-for-2024/"><u>[New] Bridging the Time Gap in Social Storytelling on FB, PC/Mobile for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-resume-your-tiktok-journey-post-reload-error/"><u>[New] In 2024, Resume Your TikTok Journey Post-Reload Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-taking-over-ig-monthly-strategies-to-hit-the-1k-follower-goal/"><u>[New] In 2024, Taking Over IG  Monthly Strategies to Hit the 1K Follower Goal</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-make-every-gaming-moment-memorable-for-2024/"><u>[New] Make Every Gaming Moment Memorable for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rivacy-preservation-how-to-make-faces-invisible-online/"><u>[New] Privacy Preservation  How to Make Faces Invisible Online</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-mac-programming-options-excluding-bandicam/"><u>[Updated] 2024 Approved  Best Mac Programming Options Excluding Bandicam</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-boosting-media-throughput-in-microsoft-presentations/"><u>[Updated] Boosting Media Throughput in Microsoft Presentations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rebooted-login-claiming-back-to-facebook/"><u>[Updated] In 2024, Rebooted Login  Claiming Back to Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-incorporating-captions-into-instagrams-video-platform-for-2024/"><u>[Updated] Incorporating Captions Into Instagram's Video Platform for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveil-your-narrative-transforming-photos-to-videos-using-your-phone/"><u>[Updated] Unveil Your Narrative  Transforming Photos to Videos Using Your Phone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-a-compilation-of-the-best-10-image-sharing-sites/"><u>2024 Approved  A Compilation of the Best 10 Image Sharing Sites</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-transform-voice-with-cloud-services-top-5-online-chromebook-audio-editors/"><u>2024 Approved  Transform Voice with Cloud Services  Top 5 Online Chromebook Audio Editors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-non-timebound-screen-recording-selection/"><u>2024 Approved  Ultimate Non-Timebound Screen Recording Selection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/accelerate-your-file-transfers-secure-lexar-usb-driver-downloads-here/"><u>Accelerate Your File Transfers: Secure Lexar USB Driver Downloads Here!</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-s23plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy S23+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-se-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone SE Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-itel-p55-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel P55 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-camon-20-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Camon 20 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-pro-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20c-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20C Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-x9b-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X9b Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-motorola-moto-g24-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Motorola Moto G24 Phones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-z-flip-5-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy Z Flip 5 Phones</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-f54-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F54 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-p55-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on P55 5G</u></a></li>
-<li><a href="https://win-forum.techidaily.com/remove-multiple-users-from-windows-11-an-in-depth-walkthrough-for-a-clean-system/"><u>Remove Multiple Users From Windows 11: An In-Depth Walkthrough for a Clean System</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-itel-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Itel on Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-the-vanished-app-store-on-ios-devices-with-proven-fixes/"><u>Restore the Vanished App Store on iOS Devices with Proven Fixes</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://techidaily.com/spark-10-pro-video-recovery-recover-deleted-videos-from-spark-10-pro-by-fonelab-android-recover-video/"><u>Spark 10 Pro Video Recovery - Recover Deleted Videos from Spark 10 Pro</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-a56s-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from A56s 5G.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-y100-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo Y100 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-of-podcast-rss-feeds-a-step-by-step-tutorial/"><u>2024 Approved Mastery of Podcast RSS Feeds A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-satirical-hits-the-funniest-song-rewrites/"><u>2024 Approved Satirical Hits The Funniest Song Rewrites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-xsplits-equals/"><u>2024 Approved The Ultimate List of Xsplit's Equals</u></a></li>
+<li><a href="https://techidaily.com/mp4-movavi-aac/"><u>在线无花言不语MP4转换：以 Movavi 为首选，AAC 格式自由免费</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-claude-and-chatgpt-the-top-choice-for-daily-conversations/"><u>Comparing Claude and ChatGPT: The Top Choice for Daily Conversations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-m34-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy M34?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/online-free-rmvb-to-mp4-converter-fast-e-fai-da-te-with-videmovil/"><u>Online Free RMVB to MP4 Converter - Fast E Fai Da Te with VideMovil</u></a></li>
+<li><a href="https://techidaily.com/online-vidora-ljud-en-guid-till-att-extrahera-klarton-fran-videos-for-bra-seo/"><u>Online Vidöra Ljud: En Guid Till Att Extrahera Klarton Från Videos För Bra SEO</u></a></li>
+<li><a href="https://techidaily.com/protect-your-digital-content-with-movavis-advanced-multimedia-software-solutions/"><u>Protect Your Digital Content with Movavi's Advanced Multimedia Software Solutions</u></a></li>
+<li><a href="https://techidaily.com/simova-movie-transformation-tool-securely-discounted-purchase/"><u>SiMoVa Movie Transformation Tool - Securely Discounted Purchase</u></a></li>
+<li><a href="https://techidaily.com/switch-your-audio-effortlessly-upload-and-convert-avi-to-wma-file-types-at-zero-charge-using-our-simple-tool/"><u>Switch Your Audio: Effortlessly Upload and Convert AVI to WMA File Types at Zero Charge Using Our Simple Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmatched-document-enhancements-for-2024/"><u>Unmatched Document Enhancements for 2024</u></a></li>
 </ul></div>
+

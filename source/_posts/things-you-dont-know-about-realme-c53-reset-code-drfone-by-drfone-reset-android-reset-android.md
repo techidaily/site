@@ -1,7 +1,7 @@
 ---
 title: Things You Dont Know About Realme C53 Reset Code | Dr.fone
-date: 2024-08-01T17:53:32.667Z
-updated: 2024-08-02T17:53:32.667Z
+date: 2024-09-21T17:38:58.747Z
+updated: 2024-09-24T08:45:30.215Z
 tags: 
   - reset
 categories:
@@ -18,9 +18,6 @@ Nothing good lasts forever, not even your all-singing, all-dancing new Android s
 
 Before taking the plunge, there are a number of factors to consider. We've put together a quick guide to let you know what you need to know... and what you need to do. Before we start deleting stuff, however, it's important to understand what a Factory reset is.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Factory Reset?
 
 There are two types of reset for every Android device, soft and hard resets. A [soft reset](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is just a way to force the Android operating system to shut down in the event of a freeze and you only risk losing any data which wasn't saved prior to the reset.
@@ -29,9 +26,6 @@ A hard reset, also known as a factory reset and a master reset, returns the Real
 
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Signs You Need to Reset Phone
 
 You'll probably already know if your phone needs a reset, but if you're unsure, look for some of the following signs. If you recognize any of the following symptoms then a factory reset is probably a good idea.
@@ -44,10 +38,6 @@ You'll probably already know if your phone needs a reset, but if you're unsure, 
 
 Remember factory resetting will erase everything on your device, so it's essential that you back up anything you can't afford to lose.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Part 2: Back Up Your Data Before Factory Reset
 
 There are a number of Android data backup software for PC out there. Having a Google account will help you save your contacts and settings, but it won't save your pictures, documents, or music. There are numerous cloud-based systems available like Dropbox and Onedrive where your data is saved onto a cloud-based server, but you'll need a data connection or wi-fi to restore to your device and of course, you are trusting a third party with your data. We recommend [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). It's easy to use and will save everything and best of all you know exactly where it is.
@@ -56,14 +46,8 @@ Dr.Fone - Phone Backup (Android) enables you to backup all your data, including 
 
 Back up and restore data from your device to a computer with a single click. It's a tried and tested program and compatible with over 8000+ devices. To use it, click the link, download it and follow these instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -79,16 +63,10 @@ Backup & Restore Data Turns Flexible
 
 Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **My Backup > Back Up Now**. Set the Dr.Fone Link app as your default SMS app on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
@@ -99,18 +77,6 @@ Also, you can watch this video to learn more details.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/bVYDAhCnKOU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 3: How to Factory Reset Android Phone
@@ -127,9 +93,6 @@ Step 2. Find the option for 'Back up and Restore' (please note - using Google to
 
 Step 3. Press the button for 'Factory Data Reset' (please note - this is irreversible)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset android from settings menu](https://images.wondershare.com/drfone/others/factory-reset-from-settings.jpg)
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Realme C53 device resets itself.
@@ -144,10 +107,14 @@ Step 1. Press and hold the Volume up button and the Power button at the same tim
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/14587119349819.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. If done correctly. You'll find an image of an Android robot alongside a red exclamation mark and the words 'No command'.
 
@@ -169,13 +136,17 @@ Step 2. Select erase all data. This is particularly effective if you have lost o
 
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Realme C53 to the Internet and login into your Google account when prompted.
@@ -184,13 +155,15 @@ Once you have restarted your mobile, connect it to your PC and open Dr.Fone on y
 
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
 Then you will be able to select what files you want to restore. You can click Restore to Device to restore them all to your phone or just select individual data to restore.
@@ -199,14 +172,15 @@ Then you will be able to select what files you want to restore. You can click Re
 
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
 After factory resetting your Android Phone, your phone should work smoothly. But what should we do if your phone is still not working as before? The App still crashes or your phone is still running slow, which may be caused by an old operating system or the phone is too old. It is time to change to a new phone. In this case, you may want to switch the data from the old phone to the new phone. How do achieve that? [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is here. It is a dedicated tool to transfer everything from one old device to the new one! You can transfer data without any hassle because of user-friendly instructions.
@@ -214,8 +188,12 @@ After factory resetting your Android Phone, your phone should work smoothly. But
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Everything from Old Devices to New Devices in 1 Click!
@@ -237,9 +215,6 @@ Tools like [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/andro
 
 Thank you for reading and if we've been of some help please take the time to bookmark our page.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I reset my Realme C53 Phone without technical knowledge?
 
 Resetting a Realme C53 smartphone to factory settings could be necessary. You will probably need to do a hard reset if you want to unlock your smartphone or sell it to someone else. The majority of Realme C53 devices may be quickly reset simply by pushing the volume and power buttons together. However, hard resetting a Realme C53 sometimes is a whole other situation and may be much more difficult. That myth will be dispelled for you by us!
@@ -248,9 +223,6 @@ If the Realme C53 device is functioning properly, hard resetting a Realme C53 ta
 
 ## Part 1: 4 Easy solutions to hard reset your Realme C53
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### 1\. From recovery mode to delete all data
 
 It's not particularly difficult to reset a Realme C53 smartphone or tablet, especially if it has a home button. You can only do a hard reset on a Realme C53 tablet without volume buttons after entering recovery mode. Follow the procedures outlined below to learn how to reset a Realme C53 tablet without volume buttons.
@@ -306,6 +278,13 @@ Do any of the following:
 
 The removal of all data from your phone's storage, including applications, app data, and settings, will result from remotely wiping it. Personal information is one type of data that might not be completely removed. After doing this, you won't be able to access your phone remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Dr.Fone - Data Eraser
 
 **Step 1:** Connect your Realme C53 phone to the desktop. Get Dr.Fone running on your PC. Choose "Data Eraser" from the list of tools.
@@ -336,9 +315,6 @@ Dr.Fone will prompt you to tap on Factory Data Reset or Erase All Data on the ph
 
 ![erase successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 2: FAQs
@@ -347,9 +323,6 @@ Dr.Fone will prompt you to tap on Factory Data Reset or Erase All Data on the ph
 
 Yes, there are very few simple tools available that you can use to back up your Realme C53 phone. One such tool is Dr.Fone - Phone backup which is super simple to use and extremely beginner friendly and how you recover all of your lost data from your Realme C53 phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### 2\. Do these solutions damage my Realme C53?
 
 Unfortunately, many of the solutions that you used to recover or back up your Realme C53 phone damage the quality of the information and also the hardware or software of your Realme C53 mobile however the best solution to this problem is using [Dr.Fone - Phone backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) which is a supplied tool which does not cause any problem during or after its usage and help you recover all kind of lost data.
@@ -358,14 +331,7 @@ Unfortunately, many of the solutions that you used to recover or back up your Re
 
 Now that you know how to reset a Realme C53 phone that is locked and how to use Realme C53 hard reset code to reset Realme C53, it is time to implement resolution though you can try, and among the ways given above, the best solution is to go with the Wondershare Dr.Fone - Phone Backup. It is a great tool that will immediately help you recover all of your lost information from your Realme C53 phone without causing any harm to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-
 
 ## 4 Easy Ways for Your Realme C53 Hard Reset
 
@@ -373,9 +339,6 @@ Realme C53 is a popular smartphone brand that has a wide range of models. If you
 
 If your Realme C53 phone is very slow or hangs, and you cannot fix it even working with memory and other stuff, then you can solve this issue using Realme C53 hard reset. This also works if you have forgotten your PIN or password or you want to bypass the screen lock. So, how to hard reset a Realme C53 phone?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: 4 easy ways to hard reset your Realme C53
 
 Hard reset Realme C53 is an excellent solution for bypassing screen lock and recovering locked Realme C53 phone. It is also an option to format your Realme C53 phone if you are handing over or selling your phone and want to keep your data secure. So, what are the tools or techniques for Realme C53 hard reset?
@@ -393,8 +356,12 @@ Google Find My Device is your best bet if you want to reset your Realme C53 phon
 ![erase device](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Gmail account
 
 If you opt for a Realme C53 hard reset because of screen lock or phone locking issues, then your other option is to use the Gmail account to unlock it. If you are wondering how to use a Gmail account for unlocking, here is the step-by-step guide.
@@ -403,18 +370,17 @@ If you opt for a Realme C53 hard reset because of screen lock or phone locking i
 2. When you attempt your phone incorrectly multiple times, you will see the Forgot pattern option.
 3. Click the Forgot pattern option.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![google account](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-2.jpg)
 
 4. Fill in your Google Account credentials to log in.
 5. Now, unlock your device and choose a new password.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Answer security questions
 
@@ -423,18 +389,11 @@ Google security questions or your device company Security questions will help yo
 1. When you attempt a wrong password multiple times, you will see options for recovering passwords.
 2. Click on the Forgot pattern option.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![answer questions](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-3.jpg)
 
 3. Click on the "Answer question".
 4. Answer the security questions correctly to unlock your phones and choose a new password or pattern lock.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### 4\. Use [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
 
 If the reason for hard resetting your phone is any issue with the deleting data of the phone, second-hand phone for sale, then your phone need to data erasing. Since it is a complicated technical procedure for a layman, we recommend using Dr.Fone - Data Eraser because of its ease of use and efficiency. You can erase all types of data using this software. Let us see how it works.
@@ -453,9 +412,6 @@ Connect your Android phone to the computer using a USB cable. Make sure you have
 
 Then Dr.Fone will automatically recognize and connect your Android device. Click on the "Erase All Data" button to start erasing all your data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![erase start](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 Since all the erased data are not recoverable, make sure you [have backed up all the needed data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before you proceed. Then key in “000000” into the box to confirm your operation.
@@ -466,18 +422,12 @@ Type in "000000" to confirm and move on. Since you may lose your data in system 
 
 Then Dr.Fone will start erasing all data on your Android phone. The whole process takes only a few minutes. Please don't disconnect the phone or open any other phone management software on the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 3. **Perform Factory Data Reset on Your Phone**
 
 After all app data, photos, and all other private data have been completely erased, Dr.Fone will ask you to tap on Factory Data Reset or Erase All Data on the phone. This will help you completely wipe all the settings on the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![erase successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
 **Now your Android phone has been completely wiped and it's like a brand new one.**
@@ -488,14 +438,9 @@ After all app data, photos, and all other private data have been completely eras
 
 The best thing you can do to keep your data secure, even in case of unwanted crashes and accidents, is to periodically back up your phone and computer. So, you might ask what the best way to back up my phone is. We recommend [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) because it is part of your phone's comprehensive suite of solutions and works efficiently without any technical input from you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 In the current digital age, part of our life depends on our gadgets, so keeping them updated and tuned in is the best strategy to function without unwanted bumps. Obviously, it takes some pre-planning like periodic data backup, memory refresh, optimum charging, and so on. Dr.Fone is a comprehensive suite of applications that help you maintain your devices and fix them in case of an accident. This article discusses the Dr.Fone - Data Eraser for Realme C53 hard reset.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -509,55 +454,26 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-dare-to-be-noteworthy-top-30-innovative-tiktok-usernames/"><u>[New] 2024 Approved  Dare to Be Noteworthy  Top 30 Innovative TikTok Usernames</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-a-beginners-guide-to-profitable-animated-advertising-in-facebook-for-2024/"><u>[New] A Beginner's Guide to Profitable Animated Advertising in Facebook for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-your-device-a-comprehensive-screen-recording-guide-for-2024/"><u>[New] Capturing Your Device  A Comprehensive Screen Recording Guide for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>[Updated] 2024 Approved  Enhancing Engagement  Creating Top-Tier FB Ad Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-diving-into-instagrams-visual-story-segments/"><u>[Updated] Diving Into Instagram's Visual Story Segments</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-ensure-a-sticker-free-video-experience-on-tiktok/"><u>[Updated] How to Ensure a Sticker-Free Video Experience on TikTok</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-finalcut-pro-101-crafting-professional-youtube-edits/"><u>[Updated] In 2024, FinalCut Pro 101  Crafting Professional YouTube Edits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-insider-guide-to-simplifying-character-voice-modification-pubg-for-2024/"><u>[Updated] The Insider Guide to Simplifying Character Voice Modification (PUBG) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-the-potential-of-your-iphone-with-top-podcast-tips/"><u>[Updated] Unlock the Potential of Your iPhone with Top Podcast Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-exclusive-discounts-on-economical-gopro-cameras/"><u>2024 Approved  Exclusive Discounts on Economical GoPro Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-20-public-license-pubg-image-collections/"><u>Best 20 Public License PUBG Image Collections</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fast-track-to-fluent-ukrainian-with-10-minute-daily-stretches-93-chars/"><u>Fast Track to Fluent Ukrainian with 10-Minute Daily Stretches (93 Chars)</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-8-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 8 Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-6s-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-9-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 9 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-ce-3-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord CE 3 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-c12-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f04-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F04 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-360-degree-rigging-solutions-vr-production/"><u>In 2024, 360 Degree Rigging Solutions VR Production</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a78-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A78 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-b-footage-a-filmmakers-guide/"><u>In 2024, Incorporating B-Footage  A Filmmaker's Guide</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-y36i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y36i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-through-top-6-ideal-helmet-harnesses-for-gopros/"><u>Navigating Through Top 6 Ideal Helmet Harnesses for GoPros</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-13t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2023-causes-and-solutions-stellar-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2023 Causes & Solutions | Stellar</u></a></li>
-<li><a href="https://techidaily.com/sign-ott-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .ott file Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-galaxy-z-flip-5-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Galaxy Z Flip 5</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola G54 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-motorola-edge-40-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-edge-40-neo-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nokia C12 Pro</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s17-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S17 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-a1-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on A1 5G</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-v27e-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo V27e</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-7-plus-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 7 Plus by restoring</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi won’t play AVCHD .mts files</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-fix-discord-packet-loss/"><u>[SOLVED] How to Fix Discord Packet Loss</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simple-strategies-for-recording-on-youtube/"><u>[Updated] 2024 Approved Simple Strategies for Recording on YouTube</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dynamic-live-streaming-made-easy-explore-manycams-virtual-webcam-and-video-editing-suite/"><u>Dynamic Live Streaming Made Easy: Explore ManyCam's Virtual Webcam & Video Editing Suite</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic5-ultimate-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic5 Ultimate in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-12-proplus-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 12 Pro+ 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A2 To Phone | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-livestream-leaders-guide-elevating-pre-recorded-videos-on-social-media/"><u>In 2024, Livestream Leaders' Guide Elevating Pre-Recorded Videos on Social Media</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-risks-cheap-windows-activation-key-drawbacks/"><u>Navigating the Risks: Cheap Windows Activation Key Drawbacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-boot-device-selection-error-with-ease-expert-tips-and-tricks/"><u>Resolving Windows Boot Device Selection Error with Ease – Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-windows-10-sound-settings-issue-a-complete-guide/"><u>Troubleshoot and Fix Windows 10 Sound Settings Issue - A Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme .</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-pro-5g-messages-recovery-recover-deleted-messages-from-vivo-t2-pro-5g-by-fonelab-android-recover-messages/"><u>Vivo T2 Pro 5G Messages Recovery - Recover Deleted Messages from Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13-ultra-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi 13 Ultra can’t play AVCHD .mts video</u></a></li>
 </ul></div>
+

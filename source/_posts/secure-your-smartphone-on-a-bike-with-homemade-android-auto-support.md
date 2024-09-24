@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-09-18T16:06:00.259Z
-updated: 2024-09-24T07:05:30.306Z
+date: 2024-09-21T22:58:54.006Z
+updated: 2024-09-23T18:14:19.921Z
 tags:
   - mobile
 categories:
@@ -28,10 +28,10 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
@@ -39,10 +39,10 @@ Bone
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -54,15 +54,22 @@ Joe Fedewa / How-To Geek
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How It Works and What You Need
 
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -71,13 +78,6 @@ Joe Fedewa / How-To Geek
  Thanks to an Android app called "[Headunit Reloaded](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003756/https://play.google.com/store/apps/details?id=gb.xxy.hr)," it's possible to run Android Auto on a "dummy" phone and wirelessly connect to it with another phone via Wi-Fi Direct. After some minimal setup, all you have to do is open Headunit Reloaded on the dummy phone, tap a button in the "[WiFi Launcher](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003756/https://play.google.com/store/apps/details?id=com.borconi.emil.wifilauncherforhur&hl=en%5FUS)" companion app on your main phone, and you're up and running.
 
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -102,18 +102,24 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-master-your-media-messages-a-guide-to-fb-video-posts-for-2024/"><u>[New] Master Your Media Messages A Guide to FB Video Posts for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-bargain-stopwatches-online/"><u>2024 Approved Best Bargain Stopwatches Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-premier-list-photos-with-perfect-beats-recorders/"><u>2024 Approved Premier List Photos with Perfect Beats Recorders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-guide-to-apple-podcasts-transferring/"><u>2024 Approved The Essential Guide to Apple Podcasts Transferring</u></a></li>
-<li><a href="https://win-answers.techidaily.com/contact-tracing/"><u>Contact Tracing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-amd-radeon-rx-5700-xt-graphics-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download AMD Radeon RX 5700 XT Graphics Card Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-auroras-dynamic-range-feature-a-detailed-perspective/"><u>In 2024, Aurora's Dynamic Range Feature A Detailed Perspective</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-digital-symphony-recording-on-a-mac/"><u>In 2024, Digital Symphony Recording on a Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[New] In 2024, Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share/"><u>[New] In 2024, Ultimate Roundup No-Fee Videocalling + Live Desktop Share</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-bestow-photographic-frames-with-outer-radial-smearing-for-2024/"><u>[Updated] Bestow Photographic Frames with Outer Radial Smearing for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>2024 Approved Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>2024 Approved Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-foundations-of-mixing-adobe-auditions-fade-in-technique/"><u>2024 Approved Foundations of Mixing Adobe Audition’s Fade In Technique</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-detailed-overview-of-the-discontinued-netflix-dvd-by-mail-service/"><u>A Detailed Overview of the Discontinued Netflix DVD-by-Mail Service</u></a></li>
+<li><a href="https://techidaily.com/google-drive-dropbox-voc-wav/"><u>Google Drive, Dropbox 사용자에게 VOC 파일을 WAV로 쉽게 변환: 무료 도구를 사용하는 방법</u></a></li>
+<li><a href="https://techidaily.com/grabacion-y-conversion-de-mp3wav-sin-coste-convertidor-online-facilito-por-movavi/"><u>Grabación Y Conversión De MP3/WAV Sin Coste - Convertidor Online Facilito Por Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratis-ogg-to-m4r-converter-online-vrije-en-eenvoudige-voorbereiding-met-movavi/"><u>Gratis OGG-to-M4R Converter Online - Vrije en Eenvoudige Voorbereiding Met Movavi</u></a></li>
+<li><a href="https://techidaily.com/gratuit-online-konvertereen-avi-naar-nsv-professioneel-movavi/"><u>Gratuit Online Konvertereen AVI Naar NSV - Professioneel Movavi</u></a></li>
+<li><a href="https://techidaily.com/guide-facile-dapres-vente-convertir-des-fichiers-mxf-en-mp3-sans-frais-sur-movavi/"><u>Guide Facile D'après-Vente: Convertir Des Fichiers MXF en MP3 Sans Frais Sur Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-youtube-sound-issue-on-windows-10-a-step-by-step-guide/"><u>How to Resolve the Youtube Sound Issue on Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/les-13-meilleurs-convertisseurs-youtube-vers-mp3-pour-2024-une-selection-complete/"><u>Les 13 Meilleurs Convertisseurs YouTube Vers MP3 Pour 2024 : Une Sélection Complète</u></a></li>
+<li><a href="https://techidaily.com/les-meilleurs-outils-en-ligne-pour-capturer-des-contenu-video-a-partir-de-la-toile/"><u>Les Meilleurs Outils en Ligne Pour Capturer Des Contenu Vidéo À Partir De La Toile</u></a></li>
 <li><a href="https://techidaily.com/los-mejores-programas-libres-de-corte-de-videos-que-debes-usar-en-el-ano-2024/"><u>Los Mejores Programas Libres De Corte De Vídeos Que Debes Usar en El Año 2024</u></a></li>
 <li><a href="https://techidaily.com/m4v-afbeeldingen-in-wms-kletsen-voor-zwdaarom-eenvoudig-gratis-en-betrouwbaar-met-movavi-converter/"><u>M4V-Afbeeldingen in Wms Kletsen Voor ZwDaarom - Eenvoudig, Gratis en Betrouwbaar Met Movavi Converter</u></a></li>
-<li><a href="https://techidaily.com/mastering-facetime-recording-a-step-by-step-tutorial-for-superior-sound/"><u>Mastering FaceTime Recording: A Step-by-Step Tutorial for Superior Sound</u></a></li>
-<li><a href="https://techidaily.com/movavis-ultimate-guide-to-optimizing-your-obs-setup-for-professional-quality-streaming/"><u>Movavi's Ultimate Guide to Optimizing Your OBS Setup for Professional Quality Streaming</u></a></li>
-<li><a href="https://techidaily.com/movavis-unpaid-raw-to-jpg-image-transformation-tool-online/"><u>Movavi's Unpaid RAW to JPG Image Transformation Tool Online</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/secure-guide-how-to-safely-download-from-the-pirate-bay/"><u>Secure Guide: How to Safely Download From The Pirate Bay</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-connection-social-posts-via-ripl/"><u>The Art of Connection: Social Posts via Ripl</u></a></li>
 </ul></div>
 

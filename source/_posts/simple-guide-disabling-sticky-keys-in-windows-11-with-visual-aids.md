@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Disabling Sticky Keys in Windows 11 with Visual Aids"
-date: 2024-08-18T03:43:52.749Z
-updated: 2024-08-19T03:43:52.749Z
+date: 2024-09-21T00:42:54.213Z
+updated: 2024-09-24T08:40:58.389Z
 tags:
   - win11
   - win10
@@ -42,11 +42,23 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 3. You should then have the latest version of DirectX on your Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -56,32 +68,30 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 #### You can check the version of DirectX in this way
 
 1. Type **dxdiag**  in the search box and click **dxdiag**  from the result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b6558124af5.png)
 2. Wait for a second. Then you can see your DirectX version.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b6562e5bfd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Bonus tip for improving visual and audio performance
 
  To improve your visual and audio performance on your Windows 10, you not only should have the latest version of DirectX, but also should keep your video and audio cards driver up-to-date. You can download the latest drivers from your computer manufacturer’s website.
@@ -96,8 +106,12 @@ The powerful video editing program for your Windows PC</a>
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -114,8 +128,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,49 +137,18 @@ The powerful video editing program for your Windows PC</a>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-can-instant-subscription-lead-to-higher-watch-time/"><u>[New] 2024 Approved  Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-in-stream-ads-on-facebook-configuration-and-analysis-guide/"><u>[New] 2024 Approved  Mastering In-Stream Ads on Facebook  Configuration & Analysis Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-comprehensive-overview-of-google-docs-voice-input-functionality/"><u>[New] Comprehensive Overview of Google Docs Voice Input Functionality</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-aggregate-video-pieces-into-lists/"><u>[New] In 2024, Aggregate Video Pieces Into Lists</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-integration-from-gopro-to-popular-social-media-platforms/"><u>[New] In 2024, Seamless Integration  From Gopro to Popular Social Media Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-momentum-in-motion-our-choice-of-top-10-film-titles/"><u>[New] Momentum in Motion  Our Choice of Top 10 Film Titles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-size-your-content-smartly-video-tips-for-instagram-excellence-for-2024/"><u>[New] Size Your Content Smartly  Video Tips for Instagram Excellence for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>[Updated] 2024 Approved  Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-broadcasting-tweeted-videos-to-facebook-friends-for-2024/"><u>[Updated] Broadcasting Tweeted Videos to Facebook Friends for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-complete-razer-kiyo-webcam-review-for-2024/"><u>[Updated] Complete Razer Kiyo Webcam Review for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-efficient-protocols-for-high-quality-iptv-screening/"><u>[Updated] In 2024, Efficient Protocols for High-Quality IPTV Screening</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-for-earning-from-every-youtube-short/"><u>[Updated] Step-by-Step Guide for Earning From Every YouTube Short</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-sony-65-oled-xb930f-4k-television-evaluation-and-insights/"><u>Affordable Sony 65 OLED - XB930F 4K Television Evaluation and Insights</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-v29-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V29 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-sony-xperia-10-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Sony Xperia 10 V Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-20-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-lava-blaze-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Blaze 2 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-poco-c65-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco C65 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-go-2024-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark Go (2024) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-40i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 40i Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-note-50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Note 50 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-film-equipment-for-novice-cinematographers-35mm-to-pands-for-2024/"><u>Ideal Film Equipment for Novice Cinematographers (35Mm to P&S) for 2024</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-magic-vs-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic Vs 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/sign-excel-2023-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2023 Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-a79-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from A79 5G</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2003-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2003 | Stellar</u></a></li>
-<li><a href="https://techidaily.com/sony-xperia-10-v-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Sony Xperia 10 V won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-dotx-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .dotx file documents online</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-find-x6-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Find X6 Pro</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-infinix-smart-8-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Infinix Smart 8</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-s23-fe-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy S23 FE Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 20 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ending-quicktime-capture-immediate-steps/"><u>Ending QuickTime Capture Immediate Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-promote-your-own-gpt-models-within-chatgpt-dialogues-through-smart-use-of-gpt-mentions/"><u>How to Promote Your Own GPT Models Within ChatGPT Dialogues Through Smart Use of GPT Mentions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-narzo-60x-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme Narzo 60x 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/iphone-app-for-scanning-and-converting-documents-how-to-use-pdfjpg-ocr-with-fonepaper-reader-pro/"><u>IPhone App for Scanning & Converting Documents: How to Use PDF/JPG OCR with FonePaper Reader Pro</u></a></li>
+<li><a href="https://techidaily.com/leverage-the-power-of-cookiebot-boost-your-websites-analytics-and-personalization-features/"><u>Leverage the Power of Cookiebot: Boost Your Website's Analytics and Personalization Features</u></a></li>
+<li><a href="https://techidaily.com/mastering-ai-in-business-the-definitive-case-study-handbook/"><u>Mastering AI in Business: The Definitive Case Study Handbook</u></a></li>
+<li><a href="https://techidaily.com/optimize-and-personalize-your-site-with-the-power-of-cookiebot-analytics-solutions/"><u>Optimize and Personalize Your Site with the Power of Cookiebot Analytics Solutions</u></a></li>
+<li><a href="https://techidaily.com/revolutionizing-data-organization-m-files-boosts-efficiency-with-integrated-abbyy-ai-solutions-industry-insights/"><u>Revolutionizing Data Organization: M-Files Boosts Efficiency with Integrated ABBYY AI Solutions - Industry Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-flashing-fix-for-win11-screens/"><u>Say Goodbye to Flashing: Fix for Win11 Screens</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/scrutinizing-apple-tvs-market-pricing/"><u>Scrutinizing Apple TV's Market Pricing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-a-spot-with-apple-experts-the-ultimate-guide-to-making-a-genius-bar-appointment/"><u>Securing a Spot with Apple Experts: The Ultimate Guide to Making a Genius Bar Appointment</u></a></li>
+<li><a href="https://techidaily.com/the-future-of-collaboration-harnessing-artifice-intelligence-to-empower-modern-teams-abbyy-perspectives/"><u>The Future of Collaboration: Harnessing Artifice Intelligence to Empower Modern Teams | ABBYY Perspectives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unpacking-magix-video-editor-features-for-2024/"><u>Unpacking MAGIX Video Editor Features for 2024</u></a></li>
 </ul></div>
+

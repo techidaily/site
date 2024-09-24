@@ -1,6 +1,6 @@
 ---
 title: Unlock android phone if you forget the 90 Lite password or pattern lock
-date: 2024-08-01T18:35:20.148Z
+date: 2024-09-23T00:22:07.630Z
 tags: 
   - android unlock
   - android devices unlock
@@ -183,68 +183,39 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-optimal-flv-to-youtube-transformers-in-a-ranking-list/"><u>[New] 2024 Approved  Optimal FLV to YouTube Transformers in a Ranking List</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality/"><u>[New] From Amateur to Expert  A Compreenhensive Tutorial on Zoom Recording Quality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-differences-between-standard-and-premium-youtube-viewing/"><u>[New] In 2024, The Differences Between Standard and Premium YouTube Viewing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-viewer-experience-with-immersive-360-video-content-for-youtube-for-2024/"><u>[Updated] Enhancing Viewer Experience with Immersive 360 Video Content for YouTube for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-from-watcher-to-participant-facebook-live-on-roku-devices-for-2024/"><u>[Updated] From Watcher to Participant  Facebook LIVE on Roku Devices for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-fundamentals-of-screen-capture-with-a-dell-device/"><u>[Updated] The Fundamentals of Screen Capture with a Dell Device</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/10-must-see-historical-channels-on-youtube/"><u>10 Must-See Historical Channels on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-audiorecorder-examination/"><u>2024 Approved  Audiorecorder Examination</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>2024 Approved  Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>2024 Approved  Legendary Lens Showdown  SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-gt-neo-5-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme GT Neo 5 SE Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-note-50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme Note 50 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chucklecircuit-meme-studio-free-download/"><u>ChuckleCircuit Meme Studio (Free Download!)</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-s17e-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo S17e Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/download-windows-movie-maker-6-step-by-step-guide/"><u>Download Windows Movie Maker 6 Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-se-2020-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-6s-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 6s Plus Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-sony-xperia-1-v-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Sony Xperia 1 V Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-v27e-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V27e Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m54-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M54 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-c12-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia C12 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-play-40c-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Play 40C ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-sony-xperia-1-v-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Sony Xperia 1 V IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovation-in-action-sonys-s6500-player-redefined-for-2024/"><u>Innovation in Action  Sony's S6500 Player Redefined for 2024</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-100-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 100 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-poco-m6-pro-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco M6 Pro 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-how-to-convert-webm-to-mp3-top-conversion-software-compared/"><u>New In 2024, How to Convert WebM to MP3 Top Conversion Software Compared</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-12-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Realme 12 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y100 5G</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-c67-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme C67 5G on Mac</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-agni-2-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Agni 2 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-huawei-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Huawei</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-x-fold-2-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo X Fold 2</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-note-30-vip-racing-edition-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Note 30 VIP Racing Edition without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-itel-a60-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel A60 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s21-fe-5g-2023-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S21 FE 5G (2023) Reset Code | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-picks-for-faith-based-ringtones-online-for-2024/"><u>Top Picks for Faith-Based Ringtones Online for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-x6-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from X6 Pro.</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-vivo-x90s-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Vivo X90S</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-asus-rog-phone-7-ultimate-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Asus ROG Phone 7 Ultimate fingerprint</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-go-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark Go (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-best-ps3-emulator-for-pc-2023-for-2024/"><u>[New] Top 5 Best Ps3 Emulator For PC 2023 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-commanding-attention-on-digital-platforms-via-custom-designs/"><u>[Updated] Commanding Attention on Digital Platforms via Custom Designs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamline-video-capture-macbook-webcam-tips-for-2024/"><u>[Updated] Streamline Video Capture MacBook Webcam Tips for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-intro-to-cinema-top-8-user-friendly-cameras-35mm/"><u>2024 Approved Intro to Cinema Top 8 User-Friendly Cameras (35Mm)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-end-uavs-purchase-without-delay/"><u>High-End UAVs Purchase Without Delay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-play-7t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor Play 7T</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-integration-enhance-your-google-sheets-with-ai-powered-automation/"><u>Mastering ChatGPT Integration: Enhance Your Google Sheets with AI-Powered Automation</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-data-insights-into-steam-stats-and-achievements/"><u>Mastering Your Gaming Data: Insights Into Steam Stats and Achievements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-error-strategies-to-address-missing-msvcrt10dll-files/"><u>Overcoming the Error: Strategies to Address Missing MSVCrt10.dll Files</u></a></li>
+<li><a href="https://techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily!</u></a></li>
+<li><a href="https://techidaily.com/solving-frame-rate-issues-why-do-i-experience-drop-in-frames-per-second-fps-while-playing-diablo-4-on-pc/"><u>Solving Frame Rate Issues: Why Do I Experience Drop in Frames Per Second (FPS) While Playing Diablo 4 on PC?</u></a></li>
+<li><a href="https://techidaily.com/step-inside-the-boot-options-of-windows-10-with-this-comprehensive-guide/"><u>Step Inside the Boot Options of Windows 10 with This Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-boot-your-windows-7vistaxp-into-safe-mode/"><u>Step-by-Step Guide: Boot Your Windows 7/Vista/XP Into Safe Mode</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-enabling-wireless-internet-on-your-computer-or-laptop/"><u>Step-by-Step Guide: Enabling Wireless Internet on Your Computer or Laptop</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-removing-temp-files-on-windows-10-made-easy/"><u>Step-by-Step Guide: Removing Temp Files on Windows 10 Made Easy</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-repairing-drag-and-drop-mechanism-in-windows-environment/"><u>Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment</u></a></li>
+<li><a href="https://techidaily.com/stop-mouse-acceleration-easily-tips-and-tricks-inside/"><u>Stop Mouse Acceleration Easily - Tips & Tricks Inside</u></a></li>
+<li><a href="https://techidaily.com/successful-resolution-overcoming-windows-10-setup-issues/"><u>Successful Resolution: Overcoming Windows 10 Setup Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-makeover-how-to-choose-and-apply-a-new-taskbar-color/"><u>Windows 11 Makeover: How to Choose and Apply a New Taskbar Color</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
