@@ -1,7 +1,7 @@
 ---
 title: "The Power of Desktop Widgets Unleashed: Time to Get On Board!"
-date: 2024-09-23T01:59:49.996Z
-updated: 2024-09-24T10:01:29.476Z
+date: 2024-09-20T00:16:04.700Z
+updated: 2024-09-24T21:13:09.212Z
 tags:
   - deals
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  Widgets on a desktop computer have always seemed like more of a nuisance than a helpful feature to me, but over the years widgets have become both more useful and more usable—which is why I'm finally buying in to them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  macOS Sonoma Finally Sold Me on Widgets
 
  I'm a stickler for a minimalist and clean desktop. When I wrote that it was time to [stop using desktop icons](https://video-screen-grab.techidaily.com/in-2024-professional-tips-for-efficient-screen-casting-in-meet/), it certainly ruffled the feathers of people who seem to enjoy the clutter. I argued that, while I wasn't a fan of widgets, they were still a better use of desktop real estate than shortcut icons or file folders, both of which can be accessed more quickly via other means.
@@ -38,14 +31,20 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ![The MacOS Sonoma Widget Gallery showing several widgets and widget categories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-13-at-11-05-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, it also helps that I recently got back on the [ultrawide monitor](https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-130-music-drfone-by-drfone-virtual-android/) train, which provides even more room to tuck away useful widgets, but even on my MacBook's native 13-inch screen, Sonoma gets them right.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About Widgets in Windows 11?
 
@@ -53,15 +52,22 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ![The Windows 11 Widget Bar showing a weather, photo, and map widget along with several news items.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This bit of friction (and other [ways Microsoft ruined widgets](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/)) means that I hardly bother with Windows 11 widgets. If they aren't visible at a glance, I don't think they're particularly useful. However, you can have always-visible widgets on the Windows 11 desktop by using third-party software such as [Widget Launcher](https://apps.microsoft.com/detail/widget-launcher/9WZDNCRDQFBT).
 
 ![Widget Launcher widgets on a Windows 11 desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I'm hopeful that Microsoft will eventually give us native widgets closer to what macOS Sonoma now offers, but for now you'll need to do a little customization with third-party tools to get something similar to what macOS offers.
@@ -69,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  If you're a Linux user, you have even more latitude, but perhaps a little more effort is required. With the latest [KDE Plasma desktop](https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/), widgets have also received significant improvements and are just as easy to use as on macOS, so that's well worth checking out if you're a Linux fan.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why You Should Consider Desktop Widgets
@@ -101,19 +107,25 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-youtube-live-thumbnail-secrets/"><u>[New] In 2024, Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-seo-breakthrough-dominating-the-podcast-rankings-landscape/"><u>[New] SEO Breakthrough Dominating the Podcast Rankings Landscape</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-key-steps-to-find-your-youtube-content-creation-hub-for-2024/"><u>[Updated] Key Steps to Find Your YouTube Content Creation Hub for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture-for-2024/"><u>[Updated] Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-xs-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone XS Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/las-5-formas-mas-efectivas-de-crear-un-cuadro-con-fotografias-en-2024-tutoriales-y-consejos-movavi/"><u>Las 5 Formas Más Efectivas De Crear Un Cuadro Con Fotografías en 2024 - Tutoriales Y Consejos - Movavi</u></a></li>
-<li><a href="https://techidaily.com/latest-updates-whats-fresh-with-movavi-screen-recorder/"><u>Latest Updates: What's Fresh with Movavi Screen Recorder</u></a></li>
-<li><a href="https://techidaily.com/master-the-art-of-clipping-with-top-tier-video-editing-tools/"><u>Master the Art of Clipping with Top-Tier Video Editing Tools</u></a></li>
-<li><a href="https://techidaily.com/masterclass-em-fotografia-digital-desbravando-o-mundo-dos-efeitos-visuais-e-filtros-para-fotos-perfeitas/"><u>Masterclass Em Fotografia Digital - Desbravando O Mundo Dos Efeitos Visuais E Filtros Para Fotos Perfeitas</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-chroma-key-transforming-greenscreen-into-vibrant-imagery/"><u>Mastering the Art of Chroma Key: Transforming Greenscreen Into Vibrant Imagery</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-navigating-the-modern-landscape-of-live-audio-capturing-for-streaming/"><u>New In 2024, Navigating the Modern Landscape of Live Audio Capturing for Streaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/os-melhores-e-mais-eficientes-softwares-livres-de-ripagem-de-dvd-para-windows-1110-comprimento-total-do-downloaded-package/"><u>Os Melhores E Mais Eficientes Softwares Livres De Ripagem De DVD Para Windows 11/10 – Comprimento Total Do Downloaded Package</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steering-techs-ethical-currents-correctly/"><u>Steering Tech's Ethical Currents Correctly</u></a></li>
-<li><a href="https://techidaily.com/mka-to-flac-movavi/"><u>オンラインで無料MKA to FLACコンバーター – Movavi音楽プレイヤーへの転送ガイド</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-capturing-radiance-advanced-techniques-in-ps-hdr/"><u>[New] Capturing Radiance Advanced Techniques in PS HDR</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-submission-pc-and-android-users-blueprint-for-2024/"><u>[Updated] Facebook Video Submission PC and Android Users' Blueprint for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-navigate-with-ease-a-guide-to-effective-screen-casting-in-meet/"><u>[Updated] Navigate with Ease A Guide to Effective Screen Casting in Meet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-prime-edition-best-video-editing-apps-unveiled/"><u>[Updated] Prime Edition Best Video Editing Apps Unveiled</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a18-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-and-easy-winx-dvd-creator-software-top-choice-for-creating-and-burning-dvds-on-windows-11/"><u>Free and Easy WinX DVD Creator Software - Top Choice for Creating & Burning DVDs on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funnyframe-generator-for-2024/"><u>FunnyFrame Generator for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-g310-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia G310 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-ace-2v-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Ace 2V Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro Max System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-magic-5-lite-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic 5 Lite Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-14-ultra-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from 14 Ultra</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-future-of-filmmaking-bridging-audio-and-visuals-in-the-digital-age-for-2024/"><u>The Future of Filmmaking Bridging Audio and Visuals in the Digital Age for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nubia Z50S Pro</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-15-conversores-de-video-mais-usados-para-mac-livre/"><u>Top 15 Conversores De Vídeo Mais Usados Para Mac Livre</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-09-18T22:27:36.722Z
-updated: 2024-09-24T10:22:28.065Z
+date: 2024-09-21T19:08:28.061Z
+updated: 2024-09-24T19:27:51.246Z
 tags:
   - web
 categories:
@@ -38,37 +38,23 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-direct-playback-connecting-fb-vids-to-tvs/"><u>[New] Direct Playback Connecting FB Vids to TVs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-essential-linux-software-for-efficient-screen-capture/"><u>[Updated] Essential Linux Software for Efficient Screen Capture</u></a></li>
-<li><a href="https://techidaily.com/movaviogmmkv/"><u>「安心して体験: 無料Movaviツールを使用したオンラインOGMファイルからMKVへの効率的な変換」</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-live-band-webcasts/"><u>2024 Approved Ultimate Live Band Webcasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/te-your-content-top-8-no-cost-video-editing-software-for-2024/"><u>Elevate Your Content Top 8 No-Cost Video Editing Software for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/everyday-language-on-ai/"><u>Everyday Language on AI</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-smart-7-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Smart 7 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-access-to-the-newest-nvidia-geforce-game-ready-drivers-for-windows-users/"><u>Instant Access to the Newest Nvidia GeForce Game-Ready Drivers for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/movavi-online-free-converter-convert-m4v-files-to-mp4-format-instantly/"><u>Movavi Online Free Converter: Convert M4V Files to MP4 Format Instantly!</u></a></li>
-<li><a href="https://techidaily.com/movavis-online-service-effortlessly-convert-mxf-audio-to-wav-for-free/"><u>Movavi's Online Service - Effortlessly Convert MXF Audio to WAV for Free</u></a></li>
-<li><a href="https://techidaily.com/movavi-ts-to-mp3/"><u>Movavi提供: 完全無償Ts to MP3ビデオコンバーターサービス</u></a></li>
-<li><a href="https://techidaily.com/mp3aac-audio-transformation-download-our-no-cost-web-service-for-immediate-flac-format-conversion/"><u>MP3/AAC Audio Transformation: Download Our No-Cost Web Service for Immediate FLAC Format Conversion</u></a></li>
-<li><a href="https://techidaily.com/mp4-vs-mkv-a-comparative-guide-to-choosing-the-right-format-insights-from-movavi/"><u>MP4 vs MKV: A Comparative Guide to Choosing the Right Format - Insights From Movavi</u></a></li>
-<li><a href="https://techidaily.com/ntscmovavi/"><u>NTSCへのパルコード変換手順【Movavi専用ガイド】</u></a></li>
-<li><a href="https://techidaily.com/online-vrijetijdige-gratis-konvertor-lgif-naar-mp4mpeg-professioneel-solucieert-movavi/"><u>Online Vrijetijdige Gratis-Konvertor LGif Naar Mp4/Mpeg - Professioneel Solucieert Movavi</u></a></li>
-<li><a href="https://techidaily.com/os-melhores-11-conversores-de-filmes-mov-gratuitos-para-macs-e-pcs-solucoes-online/"><u>Os Melhores 11 Conversores De Filmes MOV Gratuitos Para Macs E PCs - Soluções Online</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-journey-to-crafting-wow-worthy-collage-art-for-2024/"><u>The Journey to Crafting Wow-Worthy Collage Art for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-free-downloadable-car-race-games-play-anywhere-anytime/"><u>Top 5 Free Downloadable Car Race Games - Play Anywhere, Anytime!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-pick-for-budget-friendly-cameras-the-pruveeo-f5-hd-dash-cam-reviewed/"><u>Top Pick for Budget-Friendly Cameras: The Pruveeo F5 HD Dash Cam Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-high-definition-recordings-picking-the-best-frame-rate-wisely/"><u>[Updated] 2024 Approved High-Definition Recordings Picking the Best Frame Rate Wisely</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crafty-counterfeits-how-to-find-fake-engagements-for-2024/"><u>[Updated] Crafty Counterfeits How to Find Fake Engagements for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-leveraging-3d-lut-filters-in-adobe-photoshop/"><u>[Updated] Expert Tips for Leveraging 3D LUT Filters in Adobe Photoshop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-nightmares-unleashed-8-must-play-zombie-games-explored/"><u>[Updated] In 2024, Nightmares Unleashed 8 Must-Play Zombie Games Explored</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/farewell-to-frustration-cyberpunk-2077-glitch-fixed/"><u>Farewell to Frustration - Cyberpunk 2077 Glitch Fixed</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-x-flip-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo X Flip.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

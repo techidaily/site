@@ -1,7 +1,7 @@
 ---
 title: "Top Savings Alert: Snag Discounts on Amazon Fire TV, EcoFlow Charger & Beyond!"
-date: 2024-09-20T11:03:57.873Z
-updated: 2024-09-23T16:06:13.651Z
+date: 2024-09-18T21:28:58.888Z
+updated: 2024-09-24T17:24:30.186Z
 tags:
   - deals
 categories:
@@ -28,15 +28,22 @@ Amazon's 43-inch, 50-inch, and 65-inch Omni TVs deliver an excellent bang for yo
  Amazon's high-end Omni series smart TVs offer many features, such as Dolby Vision, HDR 10, and hands-free voice controls. Right now, you can get a stunning 65-inch model for the lowest price since Black Friday. [Save $200 on Amazon's 65-inch 4K TV](https://www.amazon.com/amazon-fire-tv-65-inch-omni-series-4k-smart-tv/dp/B08T6J1HG8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## [Ring Battery Doorbell Plus and Stick Up Cam for $150 ($70 Off)](https://www.amazon.com/Ring-Battery-Doorbell-Stick-White/dp/B0CCZMMD9D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-07-02 at 9.08.52 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-02-at-9-08-52-am.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Ring Battery Doorbell Plus and Ring Stick Up Cam
 
@@ -46,22 +53,15 @@ Get the award-winning Ring Battery Doorbell Plus along with the popular Ring Sti
 
  If you've yet to get a video doorbell we have a deal for you. For Prime Day, one of Ring's best cameras, the Battery Doorbell Plus, is bundled with the indoor Stick Up camera. Better yet, you can [get both for $70 off](https://www.amazon.com/Ring-Battery-Doorbell-Stick-White/dp/B0CCZMMD9D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Samsung Galaxy S24 for $720 ($80 Off)](https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDMSZB4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Samsung Galaxy S24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/samsung-galaxy-s24.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Samsung Galaxy S24
@@ -88,19 +88,6 @@ The Flexispot is an affordable way to get into a height-adjustable standing desk
 
 ![Screenshot 2024-07-03 at 8.27.56 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-03-at-8-27-56-am.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #####  ECOFLOW Delta 2 Portable Power Battery
 
 If you need on-demand power in an affordable, reliable, and portable package, consider the EcoFlow Delta 2.
@@ -108,6 +95,19 @@ If you need on-demand power in an affordable, reliable, and portable package, co
 [Buy on Amazon](https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0B9XB57XM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
  Right now, you can get the massive EcoFlow Delta 2 portable power station for nearly 50% off. Be ready for an emergency, have backup power ready for summer storms, go camping, and explore off-the-grid without worrying about power. [Get yours for only $499](https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0B9XB57XM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More Tech Deals
 
@@ -135,20 +135,22 @@ If you need on-demand power in an affordable, reliable, and portable package, co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-zoom-webinar-mastery-a-novices-step-by-step-tutorial-for-2024/"><u>[New] Zoom Webinar Mastery A Novice's Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-securing-premium-image-on-zoom-via-strategic-filters/"><u>[Updated] Securing Premium Image on Zoom via Strategic Filters</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Infinix Hot 40.</u></a></li>
-<li><a href="https://techidaily.com/conversione-libera-m4a-in-mp3-con-web-based-servizi-gratis-movavi-solutions/"><u>Conversione Libera .m4a in .mp3 Con Web-Based Servizi Gratis - Movavi Solutions</u></a></li>
-<li><a href="https://techidaily.com/convert-your-flac-files-to-mp3-for-free-with-movavis-web-based-tool/"><u>Convert Your FLAC Files to MP3 for Free with Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dive-into-title-design-adding-insights-to-visual-content-via-windows-photos-app/"><u>Dive Into Title Design Adding Insights to Visual Content via Windows Photos App</u></a></li>
-<li><a href="https://techidaily.com/enregistreur-video-de-screenshots-libre-screencapturepro/"><u>Enregistreur Vidéo De Screenshots Libre – ScreenCapturePro</u></a></li>
-<li><a href="https://techidaily.com/entendendo-o-formato-divx-tudo-sobre-arquivos-e-como-abrange-los/"><u>Entendendo O Formato DivX: Tudo Sobre Arquivos E Como Abrangê-Los</u></a></li>
-<li><a href="https://techidaily.com/explore-the-best-gopro-editing-tools-a-comprehensive-list-of-13-leading-video-editors-for-action-cams/"><u>Explore the Best GoPro Editing Tools: A Comprehensive List of 13 Leading Video Editors for Action Cams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975882151-get-your-logitech-k350-keyboard-up-and-running-drivers-downloaded-here/"><u>Get Your Logitech K350 Keyboard Up and Running: Drivers Downloaded Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smooth-play-improve-your-frames-per-second-fps-on-elden-ring/"><u>Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-live-status-checking-if-the-service-is-down-or-user-connection-issue/"><u>Xbox Live Status: Checking if the Service Is Down or User Connection Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-add-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt-for-2024/"><u>[Updated] Add Visual Appeal with These Methods for YT Video Inclusion in PPT for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-short-film-script-example/"><u>[Updated] Short Film Script Example</u></a></li>
+<li><a href="https://video-capture.techidaily.com/artificial-agents-act-astutely/"><u>Artificial Agents Act Astutely,</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s24plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S24+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x90s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X90S without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v30-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V30 phone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-marker-use-in-digital-filmmaking-for-2024/"><u>Innovative Marker Use in Digital Filmmaking for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a58-4g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A58 4G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-13t-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi 13T Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/straightforward-guide-to-ios-screen-share-simplicity-for-2024/"><u>Straightforward Guide to IOS Screen Share Simplicity for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oneplus-nord-ce-3-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on OnePlus Nord CE 3 5G without backup.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-rdr2-graphics-issue-how-to-fix-errgfxstate-error/"><u>Troubleshooting RDR2 Graphics Issue - How to Fix ERR_GFX_STATE Error</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-12-pro-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 Pro screen lock without data loss</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 
