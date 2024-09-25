@@ -1,7 +1,7 @@
 ---
 title: Understanding the VMware Improved Keyboard Support - A Complete Guide on Setup
-date: 2024-09-22T01:05:19.504Z
-updated: 2024-09-24T10:44:01.802Z
+date: 2024-09-22T20:49:21.204Z
+updated: 2024-09-25T00:02:55.237Z
 tags:
   - win11
   - win10
@@ -22,6 +22,13 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 1. [**Export bookmarks from Chrome**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Import Google bookmarks into Firefox**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Export bookmarks from Chrome
 
 1) Open Chrome.
@@ -30,35 +37,9 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf2aeaf55c.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **three-dot** icon.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-34.png)
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **Export bookmarks** .  
 
@@ -68,14 +49,14 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 
 ![This image has an empty alt attribute; its file name is image-33.png](https://images.drivereasy.com/wp-content/uploads/2019/02/image-33.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Import your Google bookmarks into Firefox
 
@@ -83,16 +64,24 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 2. Click the**Library** icon and click**Bookmarks** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfc8da5140.png)
 3. Click**Show All Bookmarks** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfcee78e14.png)
 4. Click**Import and Backup** \>**Import Bookmarks from HTML** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfda429a3d.jpg)
 5. Locate and open the HTML file you’ve saved earlier and you’ll be good to go!
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -127,5 +116,20 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-zippyzoom-pauseframe-playback/"><u>[New] 2024 Approved ZippyZoom PauseFrame Playback</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-comprehensive-guide-to-superior-recordings-in-audacity/"><u>2024 Approved The Comprehensive Guide to Superior Recordings in Audacity</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-nubia-z50-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nubia Z50 Ultra Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-features-with-ease-essential-steps-for-android-devices/"><u>Harnessing ChatGPT Features with Ease - Essential Steps for Android Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-3-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord 3 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-design-strategies-for-top-tier-valorant-thumbnails-on-social-media/"><u>In 2024, Design Strategies for Top-Tier Valorant Thumbnails on Social Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-ready-to-win-more-with-this-purely-gratis-voice-modifier/"><u>In 2024, Get Ready to Win More with This Purely Gratis Voice Modifier</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>New 2024 Approved Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/schlagartige-umwandlung-lernen-sie-wie-sie-mp4-dateien-einfach-und-kostenlos-in-avi-format-mit-weniger-als-einem-tutorial-umwandeln/"><u>Schlagartige Umwandlung: Lernen Sie, Wie Sie MP4 Dateien Einfach Und Kostenlos in AVI-Format Mit Weniger Als Einem Tutorial Umwandeln</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-tecno-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Tecno</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-sony-xperia-1-v-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Sony Xperia 1 V.</u></a></li>
+</ul></div>
 

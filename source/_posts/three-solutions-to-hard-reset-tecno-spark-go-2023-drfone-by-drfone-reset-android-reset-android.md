@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset Tecno Spark Go (2023)? | Dr.fone
-date: 2024-09-23T13:05:59.635Z
-updated: 2024-09-24T02:06:09.125Z
+date: 2024-09-23T19:36:10.043Z
+updated: 2024-09-24T17:25:34.990Z
 tags: 
   - reset
 categories:
@@ -94,13 +94,6 @@ Follow the given steps to know how to hard reset an Android phone using PC.
 
 ![usb debugging](https://images.wondershare.com/drfone/article/2017/04/14932127102831.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 1:** Enable USB Debugging in the Android settings. Open Settings>Developer options>USB Debugging. If developer options can’t be found on the Tecno Spark Go (2023) device, then please go to Settings > General > About phone > Common > Software info (tap on it 5-8 times).
 
 ![android sdk manager](https://images.wondershare.com/drfone/article/2017/04/14932127493438.jpg)
@@ -174,13 +167,6 @@ Google Find My Device is your best bet if you want to reset your Tecno Spark Go 
 
 ![erase device](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Gmail account
 
 If you opt for a Tecno Spark Go (2023) hard reset because of screen lock or phone locking issues, then your other option is to use the Gmail account to unlock it. If you are wondering how to use a Gmail account for unlocking, here is the step-by-step guide.
@@ -193,6 +179,13 @@ If you opt for a Tecno Spark Go (2023) hard reset because of screen lock or phon
 
 4. Fill in your Google Account credentials to log in.
 5. Now, unlock your device and choose a new password.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Answer security questions
 
@@ -220,18 +213,18 @@ Connect your Android phone to the computer using a USB cable. Make sure you have
 
 ![connection](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. **Start Erasing Your Android Phone**
 
 Then Dr.Fone will automatically recognize and connect your Android device. Click on the "Erase All Data" button to start erasing all your data.
 
 ![erase start](https://images.wondershare.com/drfone/guide/android-erase-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Since all the erased data are not recoverable, make sure you [have backed up all the needed data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before you proceed. Then key in “000000” into the box to confirm your operation.
 
@@ -287,6 +280,13 @@ If you choose to sell your Tecno Spark Go (2023)phone and move on to a new one, 
 
 If a virus or malware attacks your device, it can slow down your phone and put your data at risk. To ensure that no trace of malicious software is left on the Tecno Spark Go (2023) device, you will need to perform a factory reset on your Tecno Spark Go (2023)phone.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Slow Performance
 
 Apps installed from third-party sources can often hog up the storage on your phone and result in slow system performance. If your phone is acting slower than usual, you can factory reset it to resolve the issue.
@@ -309,6 +309,13 @@ Before formatting your device, you have to keep in consideration Google's Factor
 
 If you know the passcode to your device, the procedure to factory reset your device is easy as a breeze. The following methods indicate how to factory reset a Tecno Spark Go (2023)phone when it is not locked.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Factory Reset Tecno Spark Go (2023) via Android Settings (Factory Reset)
 
 The easiest way to perform a complete wipe on your phone is via your phone's settings. Here are the steps for that:
@@ -317,22 +324,21 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 ![choose factory reset option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now click on "Erase all data" at the bottom of your Tecno Spark Go (2023)phone screen.
 
 ![tap on erase all data](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:** You will be prompted to type your phone's passcode to proceed. Afterward, you can create a backup of your phone's data by clicking on the "Back up" option. If not, hit the "Factory Reset" button and click "Next."
@@ -376,10 +382,10 @@ The benefit of using Dr.Fone as your data eraser tool is that it can permanently
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Factory Reset Tecno Spark Go (2023) When Locked
@@ -433,10 +439,16 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
@@ -455,18 +467,18 @@ Dr.Fone will detect and display your device information on the screen. Now boot 
 
 ![enable the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Remove Tecno Spark Go (2023)Screen Completely**
 
 Once the download is complete, click "Remove Now" to access your phone without a passcode. Then, you can factory reset your Tecno Spark Go (2023)phone from the settings.
 
 ![tap on remove now button](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -506,5 +518,24 @@ Tecno Spark Go (2023)is a famous brand that serves a large number of consumers w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-screen-savers-strategy-top-recording-tactics/"><u>[Updated] 2024 Approved The Screen Saver's Strategy Top Recording Tactics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-monetary-scope-of-mr-beasts-ventures/"><u>[Updated] The Monetary Scope of Mr. Beast’s Ventures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brand-synergy-in-the-age-of-digital-partnerships/"><u>2024 Approved Brand Synergy in the Age of Digital Partnerships</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-expert-strategies-for-configuring-and-assessing-fbs-instream-ads/"><u>2024 Approved Expert Strategies for Configuring and Assessing FB's Instream Ads</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/comprehensive-review-navigating-adobe-cloud-plus-comparing-rivals/"><u>Comprehensive Review Navigating Adobe Cloud + Comparing Rivals</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-login-issues-with-windows-11-a-step-by-step-solution/"><u>How to Fix Login Issues with Windows 11: A Step-by-Step Solution</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-z-fold-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy Z Fold 5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-crafting-compelling-stories-unveiling-the-secrets-to-winning-facebook-bios/"><u>In 2024, Crafting Compelling Stories Unveiling the Secrets to Winning Facebook Bios</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/peak-content-performance-the-ultimate-list-of-powerful-tiktok-captions/"><u>Peak Content Performance The Ultimate List of Powerful TikTok Captions</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-mini-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 mini Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-galaxy-s23-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Galaxy S23</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-nokia-c110-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nokia C110.</u></a></li>
+</ul></div>
 

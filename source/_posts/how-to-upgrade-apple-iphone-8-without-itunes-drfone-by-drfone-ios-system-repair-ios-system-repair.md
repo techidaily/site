@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade Apple iPhone 8 without iTunes? | Dr.fone
-date: 2024-09-16T20:33:45.825Z
-updated: 2024-09-24T10:48:56.177Z
+date: 2024-09-23T17:44:26.801Z
+updated: 2024-09-24T18:31:56.932Z
 tags: 
   - ios system repair
   - iphone repair
@@ -136,10 +136,10 @@ The respective iOS firmware will start downloading on the platform. Before it is
 ![view download progress](https://images.wondershare.com/drfone/guide/downgrade-ios-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 6**: Perform the Downgrade Process on the Apple iPhone 8
@@ -148,15 +148,36 @@ Click **Repair Now** to redirect toward installing the iOS firmware on your devi
 
 ![initiate downgrade of ios](https://images.wondershare.com/drfone/guide/downgrade-ios-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7**: Conclude iOS Downgrade
 
 The progress bar displays the completion of the process.
 
 ![preview completion of the downgrade](https://images.wondershare.com/drfone/guide/downgrade-ios-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, continue to click **Done** to execute the entire process.
 
 ![conclude downgrading ios](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Get Out of Recovery or DFU Mode on Apple iPhone 8?
 
@@ -196,6 +217,19 @@ Verify if the screen of your iOS device is showing the respective visuals. If so
 
 ![check device status](https://images.wondershare.com/drfone/guide/exit-recovery-mode-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After verifying the situation of your iOS device, continue to select the **Exit Recovery Mode** option on the window that opens.
 
 ![proceed to exit recovery mode](https://images.wondershare.com/drfone/guide/exit-recovery-mode-2.png)
@@ -206,25 +240,11 @@ The Exit Recovery Mode process is a one-click process that will execute the comp
 
 ![perform one click function](https://images.wondershare.com/drfone/guide/exit-recovery-mode-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6**: Execute the Process Successfully
 
 The next window will display the completion of the process. Check if your iOS device is operational or not. If the Apple iPhone 8 device does not start, you can tap on the **Standard Mode** option below to fix the problematic device.
 
 ![exit recovery mode successfully](https://images.wondershare.com/drfone/guide/exit-recovery-mode-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: How To Exit DFU Mode (Free Service)
 
@@ -237,10 +257,10 @@ As you navigate into the **Toolbox Repair** function provided by System Repair (
 ![proceed to exit dfu mode](https://images.wondershare.com/drfone/guide/exit-dfu-mode-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2**: Follow On-Screen Instructions to Exit
@@ -260,13 +280,6 @@ iOS devices that are causing multiple software and system issues need to be rese
 [Upgrade to the Newest Dr.Fone Manage Your Phone Wherever You Go](https://secure.2checkout.com/order/checkout.php?PRODS=4719746&QTY=1&AFFILIATE=108875&CART=1)
 
 #### Index
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 1: General Reset (Free Service)
 
@@ -293,6 +306,13 @@ For the next window, select **iOS** to perform repairing operations for an iOS d
 On the next screen, look for the **Toolbox Repair** option out of all available options since you are considering resetting your device.
 
 ![navigate to toolbox repair](https://images.wondershare.com/drfone/guide/toolbox-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4**: Continue to Reset iOS Device
 
@@ -336,18 +356,18 @@ On the next window, follow the on-screen instructions to put your iOS device in 
 
 ![put idevice in recovery mode](https://images.wondershare.com/drfone/guide/reset-device-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4**: Download Respective iOS Firmware
 
 Once the Apple iPhone 8 device is in Recovery or DFU Mode, the platform automatically detects the connected device and displays a set of iOS firmware that can be downloaded on the Apple iPhone 8 device. Click **Download** against any iOS firmware to initiate the download.
 
 ![download the required firmware](https://images.wondershare.com/drfone/guide/ios-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5**: Start Installation of iOS Firmware
 
@@ -355,23 +375,9 @@ As the firmware starts downloading on the platform, it is made available for ins
 
 ![wait to download ios firmware](https://images.wondershare.com/drfone/guide/ios-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For installing the iOS firmware on the Apple iPhone 8 device, choose the **Repair Now** option to proceed next.
 
 ![install ios firmware on Apple iPhone 8](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 6**: Conclude Resetting the iOS Device
 
@@ -395,5 +401,19 @@ A prompt message of completion will appear on the screen showing the successful 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-the-influencers-roadmap-instagram-edition/"><u>[New] The Influencer's Roadmap Instagram Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ideo-production-pro-tips-incorporating-audio-into-youtube-content-for-2024/"><u>[New] Video Production Pro Tips Incorporating Audio Into YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-thriving-in-live-streaming-mastery-through-onestream-use/"><u>[Updated] 2024 Approved Thriving in Live Streaming Mastery Through OneStream Use</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-thumbnails-demystified-mac-edition/"><u>2024 Approved YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-12plus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 12+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-captivating-slow-motion-photos-for-instagram-for-2024/"><u>Crafting Captivating Slow-Motion Photos for Instagram for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/join-kratos-for-an-action-packed-journey-the-god-of-war-fps-is-now-available-on-pc/"><u>Join Kratos for an Action-Packed Journey: The God of War FPS Is Now Available on PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/low-cost-lift-offs-the-most-affordable-drone-options-for-2024/"><u>Low-Cost Lift-Offs The Most Affordable Drone Options for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-hot-40-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Hot 40 Pro fingerprint</u></a></li>
+</ul></div>
 

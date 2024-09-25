@@ -1,7 +1,7 @@
 ---
 title: Different Methods for Resetting Motorola Moto G73 5G Phones with Screen Locked and Not | Dr.fone
-date: 2024-09-19T18:08:51.726Z
-updated: 2024-09-24T18:40:21.404Z
+date: 2024-09-21T17:50:35.048Z
+updated: 2024-09-24T22:05:51.867Z
 tags: 
   - reset
 categories:
@@ -29,6 +29,13 @@ Sometimes, erasing all data on your phone is an evident need. If you want to del
 ### 2\. Forgotten Passwords
 
 Forgetting your phone's password is a catastrophe, and everyone is prone to it. If you end up locking yourself out of your phone after too many attempted tries to unlock it, a hard factory reset is sometimes the only option left. You can learn **how to factory reset your Motorola Moto G73 5Gphone when locked** and end up with a clean slate without any password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Selling or Replacing Phone
 
@@ -112,13 +119,6 @@ The benefit of using Dr.Fone as your data eraser tool is that it can permanently
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Factory Reset Motorola Moto G73 5G When Locked
 
 If you got locked out of your Motorola Moto G73 5Gphone, the process to factory reset your phone can differ slightly. The following methods describe **how to factory reset Motorola Moto G73 5Gphone when locked**.
@@ -149,6 +149,13 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 
 ![proceed with find device](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Click on the "Find Device" option and select your phone from the screen's upper-right corner. Next, tap on "Erase Data" and confirm the process to erase all data from your device.
 
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
@@ -170,10 +177,10 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
@@ -185,6 +192,13 @@ If you are searching for a reliable way to reset your Motorola Moto G73 5Gphone 
 Launch Dr.Fone's Repair Toolkit on your computer. From the "Home" tab in the main interface, click on "Screen Unlock." Now attach your phone to the computer using a USB cable and click on "Unlock Android Screen."
 
 ![opt for screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Enable Motorola Moto G73 5GDownload Mode**
 
@@ -221,10 +235,16 @@ Use the Volume Up and Down buttons to navigate your way through the recovery mod
 If this method does not work, you can wait for the battery to drain fully from your phone and reboot it normally.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -256,6 +276,13 @@ _reboot bootloader using adb_
 
 - After some time, you will see that your Motorola Moto G73 5G has been hard reset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Hard reset with hardware key button
 
 - Choose "wipe data/factory reset" on your Motorola Moto G73 5G to do a hard reset. Scroll down with the Volume buttons, and press the Power key to agree.
@@ -283,25 +310,11 @@ Connect your Motorola Moto G73 5G to the PC via a USB wire. Ensure that your pho
 
 ![connect to device](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Begin wiping your Motorola Moto G73 5G phone.
 
 Dr.Fone will then automatically recognize and connect to your Motorola Moto G73 5G smartphone. To begin wiping all of your data, select "Erase All Data.".
 
 ![erase all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Before proceeding, ensure that you have backed up any critical data because deleted data cannot be retrieved. After that, type "000000" to confirm your activity.
 
@@ -342,13 +355,6 @@ If you have previously used this application to back up your device, you may exa
 After connecting the Motorola Moto G73 5G phone, pick the file types you wish to back up. Dr.Fone has already tested all of the file kinds for you. Then, to begin the backup process, click Backup.
 
 ![file types](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The backup will take a few moments. Please do not detach your Motorola Moto G73 5G phone, use it, or erase any data from it during the backup process.
 
@@ -403,6 +409,13 @@ Suppose you want to hard reset your locked Motorola Moto G73 5G phone, use the r
 - Enter the menu and navigate using the volume up and down buttons.
 - Select Wipe data/factory reset using the power button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3: [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) (delete all data and settings)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -417,13 +430,6 @@ If you want to hard reset your phone just to erase all its data and settings, in
 
 ![data eraser interface](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Type the key and click on "erase now".
 
 ![erase all data interface](https://images.wondershare.com/drfone/guide/android-erase-03.png)
@@ -431,6 +437,13 @@ If you want to hard reset your phone just to erase all its data and settings, in
 - Dr.Fone will erase all types of data on your device, and you can see the progress on your computer screen.
 
 ![erasing data progress interface](https://images.wondershare.com/drfone/guide/android-erase-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4: [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) (when you forget password)
 
@@ -442,13 +455,6 @@ Most people do an **Motorola Moto G73 5G hard reset** because they forget their 
 - Select Motorola Moto G73 5G on Dr.Fone and put your phone into the specific mode.
 
 ![select your device interface](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Dr.Fone will automatically lead your phone to enter the specific mode. After downloading, click “remove now” to open the screen lock. Then wait for the unlock process to complete.
 
@@ -491,5 +497,16 @@ This concludes our article on five ways to hard reset Motorola Moto G73 5G phone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-discovering-the-capabilities-in-samsungs-photography-toolkit/"><u>[New] Discovering the Capabilities in Samsung's Photography Toolkit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[Updated] Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-guide-to-resolve-the-issue-of-pc-game-crashes-in-final-fantasy-14-online/"><u>Complete Guide to Resolve the Issue of PC Game Crashes in Final Fantasy 14 Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722140107884-determining-dominance-in-llm-technology-a-closer-look-at-google-bard-microsofts-chatgpt-and-offline-alpaca/"><u>Determining Dominance in LLM Technology: A Closer Look at Google Bard, Microsoft's ChatGPT and Offline Alpaca</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-secret-pathway-to-premium-pristine-pictures/"><u>In 2024, The Secret Pathway to Premium, Pristine Pictures</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-defy-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Defy 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password-c210-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(C210)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-x50-gt-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor X50 GT.</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-5g-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G 5G (2023) fingerprint</u></a></li>
+</ul></div>
 
