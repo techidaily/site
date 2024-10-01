@@ -1,7 +1,7 @@
 ---
 title: The Surprising Expenses Behind Your Linux Operating System
-date: 2024-09-21T18:44:45.942Z
-updated: 2024-09-24T20:36:56.858Z
+date: 2024-09-27T16:47:27.112Z
+updated: 2024-09-30T23:10:21.546Z
 tags:
   - desktop
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Star Labs StarLite MkIV laptop on a shelf.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/1000085879.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  I've used Linux on and off since 2008\. For all of that time, Linux has been easy to install. But on some machines, especially newer machines, you run into hiccups after the installation is done. You log in to your new machine only to find that you're unable to connect to Wi-Fi or your speakers don't work. Maybe you're getting poor framerates from your graphics card, or your computer fails to wake up after you pull it out of your bag. There can be any number of issues that arise from installing an operating system onto a machine that wasn't built for it.
@@ -41,13 +48,6 @@ Bertel King / How-To Geek
  This isn't a flaw exclusive to Linux. If you try to [install Windows onto a Steam Deck](https://instagram-clips.techidaily.com/new-pinpointing-the-10-most-discreet-story-advocates/), you face the same kind of issues. That machine was designed for Linux and comes with a rock-solid Linux desktop. Most laptops are tested with Windows. When you try to swap out a computer's operating system, regardless of which one it is, you roll the dice. The same is true when you [install a custom ROM on your phone](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-huawei-by-drfone-android/).
 
  To save myself the headache of knowing whether everything will work, I like to buy computers that ship with Linux. This way I know they've been tested and verified to run the operating system I intend to use. I don't have to do any research to learn which processor, Wi-Fi card, and graphics card will work best for the kind of machine I have in mind. I can just browse the available PCs and pick one.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Don't Need Technical Knowledge
 
@@ -61,13 +61,6 @@ Bertel King / How-To Geek
 
  Having Linux PCs available for purchase expands who is able to use Linux. Yes, these laptops tend to be priced out of the mainstream due to the laws of scale, but at least the option is there.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  No Need to Configure Your Own System
 
 ![Pop OS background on the System76 Gazelle laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52865452885_471a3e5dc4_o-1.jpg) 
@@ -80,6 +73,13 @@ Hannah Stryker / How-To Geek
 
  Folks like me already know which version of Linux we want, but we can still benefit from getting a pre-made machine. Many of us can't afford to reconfigure a machine during work hours, and we don't have the energy or the desire to do it during the rest of our day. We have families. We have other things we want to be doing. With a ready-made machine, we can sign in, install apps, transfer over our files, and be ready for work in the morning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Have a Company to Contact for Hardware Support
 
  When you install Linux yourself, the internet is often your first and only line of support. When anything goes wrong, it's on you to scour the web for articles, forum postings, wikis, or YouTube videos that can help. This can be a great learning experience, but it can also be a time suck. There's also no guarantee that you'll find a fix.
@@ -87,13 +87,6 @@ Hannah Stryker / How-To Geek
  When you buy your computer from a company that prides itself on assembling and selling Linux hardware, you can usually go back to them for support. Sometimes that's a live chat bubble or an email address. You may even be able to pick up a phone. If they can't fix your issue directly, sometimes they can at least point you in the right direction.
 
  I'm not saying they're miracle workers; customer support is what it is. Though you may find you actually get better support from these small companies than trying to reach out directly to the massive conglomerate that made your Windows PC or the big box store that sold it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Way to Support the Linux Ecosystem
 
@@ -105,6 +98,13 @@ Hannah Stryker / How-To Geek
 
 ![Kubuntu Focus Ir16 Gen 2 laptop on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kfocusir16.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #####  Kubuntu Focus Ir16 (Gen2)
 
 8/ 10 
@@ -114,10 +114,10 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 [$1145 at Kubuntu Focus](https://kfocus.org/spec/spec-ir16.html) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Avoid Giving Big Tech Even More Money
@@ -147,5 +147,22 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>[Updated] 2024 Approved Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-practices-for-streamlining-webinars-on-windowsapple-os/"><u>Best Practices for Streamlining Webinars on Windows/Apple OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-update-tp-links-driver-software-for-wireless-network-adapters-on-pcs-windows-11-8-and-7/"><u>Get the Newest Update: TP-Link's Driver Software for Wireless Network Adapters on PCs (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-resolving-torrent-download-failures-effective-strategies-and-tips/"><u>Guide: Resolving Torrent Download Failures – Effective Strategies and Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rectifying-playback-disruptions-a-guide-to-powerpoint-audio-fixes/"><u>Rectifying Playback Disruptions: A Guide to PowerPoint Audio Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonys-budget-camcorder-high-image-quality-wins/"><u>Sony's Budget Camcorder: High Image Quality Wins</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>The Metaverse & Multi-Meva Split An Exploratory Analysis</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-hot-40-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix Hot 40.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-redmi-a2-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi Redmi A2</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-from-beginner-to-pro-top-vlog-video-editing-software-for-every-level-for-2024/"><u>Updated From Beginner to Pro Top Vlog Video Editing Software for Every Level for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-pop-8-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Pop 8</u></a></li>
+</ul></div>
 

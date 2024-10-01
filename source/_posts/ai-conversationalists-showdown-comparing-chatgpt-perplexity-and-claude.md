@@ -1,7 +1,7 @@
 ---
 title: "AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude"
-date: 2024-09-18T18:59:28.118Z
-updated: 2024-09-24T22:43:07.213Z
+date: 2024-09-25T06:58:40.800Z
+updated: 2024-10-01T01:53:52.199Z
 tags:
   - cutting-edge
 categories:
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  Now, let's dive into the specifics of these three AI chatbot tools.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  1\. LLMs Used
@@ -62,6 +56,13 @@ Hannah Stryker / How-To Geek
 
  The Pro version gives you access to GPT-4 and Claude, too. It's important to note that there is no original Perplexity LLM. The platform uses preexisting LLMs, not its own.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Availability and Price
 
  ChatGPT is available in most countries worldwide, though it has been banned in North Korea, China, Iran, Cuba, Syria and Nepal. You can use ChatGPT for free, which gives you access to GPT-3.5, or you can use [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/). This premium version gives you access to OpenAI's latest LLM version, GPT-4, for $20 monthly.
@@ -75,16 +76,10 @@ Hannah Stryker / How-To Geek
 ![A person texting on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53216035228_58695ed0f7_o.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -98,10 +93,10 @@ Hannah Stryker / How-To Geek
  Unfortunately, Perplexity's official token limits for its chatbots are yet to be published at the time of writing. However, Perplexity's token limit for Copilot searches alone is 2,000 tokens. Perplexity's basic version also only allows five Copilot requests every four hours. If you upgrade to Perplexity Pro, this shoots up to over 300 requests per day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Data Accuracy and Hallucinations
@@ -134,6 +129,13 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Claude's response to an interview advice request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-job-request.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Though Claude gave a shorter response, the language used was just as conversational and natural as that provided by ChatGPT.
 
  We also asked Perplexity the same question while using the GPT-3.5 LLM to see how close the answer would be to the ChatGPT response.
@@ -143,13 +145,6 @@ Hannah Stryker / How-To Geek
  Perplexity's conversational abilities rely on the LLM being used, and GPT-3.5 is what you'll be dealing with if you're using the free version. Again, Perplexity responded with natural and conversational language, and also provided citations for its points, which can be very useful for fact-checking and further research.
 
  Evidently, the GPT-3.5 responses differed on ChatGPT and Perplexity, which is important to note. Some similar points were touched upon, but you certainly won't be getting identical responses on both platforms.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Math and Coding Abilities
 
@@ -187,13 +182,6 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Claude's response to an algebraic problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-math-problem.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Claude also gave the correct answer, along with the solution process.
 
  Finally, we got the below response from Perplexity:
@@ -201,10 +189,10 @@ Hannah Stryker / How-To Geek
 ![Screenshot of Perplexity's response to algebraic equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-math-response.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Perplexity also gave the correct answer, as well as the solution process.
@@ -212,16 +200,10 @@ Hannah Stryker / How-To Geek
  It's important to note that no AI chatbot should be totally trusted with math equations, as they do have room for error. Check out our piece on [why you shouldn't use ChatGPT for mathematics](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/) to learn more.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Choosing an AI Chatbot Can Be Challenging
@@ -241,5 +223,20 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-science-of-visual-appeal-crafting-stunning-youtube-shorts-templates/"><u>[Updated] The Science of Visual Appeal Crafting Stunning YouTube Shorts Templates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-di-immagini-dpx-a-tiff-online-utilizzando-movavi-scopri-come/"><u>Conversione Gratuita Di Immagini DPX a TIFF Online Utilizzando Movavi - Scopri Come!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/demystifying-copyright-policies-for-your-instagram-playlist-for-2024/"><u>Demystifying Copyright Policies for Your Instagram Playlist for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-download-and-update-drivers-for-your-hp-officejet-pro-8720-using-windows-devices/"><u>Easy Steps to Download and Update Drivers for Your HP Officejet Pro 8720 Using Windows Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-initial-video-setbacks-in-zoom-sessions/"><u>Expert Tips to Overcome Initial Video Setbacks in Zoom Sessions</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-vip-racing-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 VIP Racing Edition Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-file-error-data-may-have-been-lost-by-stellar-guide/"><u>Solved - Excel File Error Data may have been Lost</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-14-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 screen lock without password</u></a></li>
+</ul></div>
 

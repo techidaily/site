@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package"
-date: 2024-09-22T16:22:00.155Z
-updated: 2024-09-24T23:20:43.270Z
+date: 2024-09-28T01:22:22.713Z
+updated: 2024-09-30T20:48:50.045Z
 tags:
   - desktop
 categories:
@@ -44,16 +44,16 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 [$1,580 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036ViAz2DznXxyKRV719Q) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -157,16 +157,16 @@ Close
 
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
 
 ![The keyboard on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-keyboard-on-the-lenovo-thinkbook-13x-gen-4_53755343766_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -178,9 +178,23 @@ Jerome Thomas / How-To Geek
 
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Display and Graphics: Beautiful 2.8K Stands Out
 
 ![The Lenovo ThinkBook 13x Gen 4 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-on-a-table-2_53755755605_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -197,6 +211,13 @@ Close
  During gaming, the graphics were equally impressive. Darker games had a nice contrast and still looked crisp. In "A Plague Tale: Requiem," the hazy sunlight on the stone walls was particularly stunning, and although ray tracing wasn't like an NVIDIA experience, I still noticed quite a bit of reflective light, sunlight, and shadowing that made the graphics look more realistic than flat.
 
 Close 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Performance: Excellent Computing Within Limits
 
@@ -226,13 +247,6 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  Laptop speakers are rarely that good, but the ThinkBook 13x Gen 4 has a quad-speaker system with two 2W woofers and two 2W tweeters by Harman Kardon. This, accompanied by Dolby Atmos, made the speakers a joy to listen to. While they aren't the best speakers I've heard on a laptop, they were perfectly satisfactory when streaming shows, listening to music, and even gaming.
@@ -250,19 +264,10 @@ Close
  Singing or speaking at louder volumes also triggered the noise cancellation to come on rather strongly, and it drowned out particular high tones of speech or voice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -270,28 +275,30 @@ Close
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 
 
 ##  Battery and Charging: Decent Battery Gain and Drain
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  On average, the ThinkBook 13x Gen 4's battery drained at a rate of about 0.38% per minute (or about 22.8% per hour). That means I got about four hours of battery life out of a full charge. This was usually at 80 to 100% screen brightness, or about 400 to 500 nits, respectively. It's worth noting that the battery life benchmark for local video playback was 27 hours at 150 nits brightness. Based on my battery drainage, I don't believe the battery would last 27 hours at that brightness level. Nonetheless, the ThinkBook had an average to decent battery life when I used it.
 
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
 
@@ -300,19 +307,6 @@ Jerome Thomas / How-To Geek
  Those looking for a more gaming-centric setup might consider a [gaming laptop](https://youtube-zero.techidaily.com/ed-gamers-galaxy-100plus-spaces-of-play/) or if you want the best of both worlds, something with a little more oomph, an upgraded [Dell XPS 16 (9640)](https://desktop-recording.techidaily.com/updated-in-2024-hone-your-talks-expert-insights-into-google-meet-chats/).
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -337,5 +331,23 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/1726225569843-g-is-the-acceleration-due-to-gravity-approximately-981-ms2/"><u> ( G ) Is the Acceleration Due to Gravity (Approximately 9.81 M/S (^2 ))</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-self-play-feature-in-facebook-videos/"><u>[New] Mastering the Self-Play Feature in Facebook Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-success-optimizing-gaming-videos-via-smart-use-of-hashtags-for-2024/"><u>[New] Unlocking Success Optimizing Gaming Videos via Smart Use of Hashtags for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-design-memes-in-adobe/"><u>[Updated] Design Memes in Adobe</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-stardew-upgrades-ranked-7-14-for-2024/"><u>[Updated] Ultimate Stardew Upgrades Ranked #7-14 for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-lava-blaze-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Lava Blaze 2 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 12 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-neo-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Neo Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze Pro 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/offline-listening-made-easy-with-soundcloud-downloader-save-your-favorite-tracks/"><u>Offline Listening Made Easy with SoundCloud Downloader - Save Your Favorite Tracks!</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-10t-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on 10T 5G</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v27-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V27 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-09-17T23:56:48.440Z
-updated: 2024-09-24T19:51:58.615Z
+date: 2024-09-26T07:18:27.454Z
+updated: 2024-10-01T05:06:04.034Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,16 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -63,22 +62,16 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
 
@@ -101,10 +94,10 @@ Dave McKay/How-To Geek
 Dave McKay/How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
@@ -118,6 +111,13 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -154,5 +154,18 @@ Dave McKay/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-superior-capture-software-for-mac-excluding-bandicam-for-2024/"><u>[New] Superior Capture Software for Mac, Excluding Bandicam for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevate-your-editing-game-incorrances-and-tips-for-using-luts-in-adobe-after-effects/"><u>[Updated] Elevate Your Editing Game Incorrances and Tips for Using LUTs in Adobe After Effects</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny/"><u>App Reception A Comprehensive Scrutiny</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-eero-pro-mesh-setup-the-ultimate-router-choice-for-extensive-home-coverage/"><u>Expert Insights on Eero Pro Mesh Setup: The Ultimate Router Choice for Extensive Home Coverage</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-11-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-prospects-and-pitfalls-of-the-latest-in-photography-by-samsung-2023/"><u>In 2024, Prospects & Pitfalls of the Latest in Photography by Samsung, 2023</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-itel-s23-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Itel S23</u></a></li>
+</ul></div>
 

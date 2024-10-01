@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2024-09-21T18:37:47.800Z
-updated: 2024-09-24T23:46:01.346Z
+date: 2024-09-28T16:31:53.770Z
+updated: 2024-09-30T22:53:28.904Z
 tags:
   - web
 categories:
@@ -18,13 +18,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
  There are plenty of ways of organizing your life, from good old-fashioned pencil and paper notebooks, through notes apps, spreadsheets, and more ([Excel for event planning](https://instagram-clips.techidaily.com/savor-your-day-8-essential-tools-for-instagram-video-management/), anyone?). I've even used the writing app Scrivener as a general planning tool.
 
  Each approach has its pros and cons, and over the years I think there are very few of them I haven't tried. But when it comes to a combination of flexibility, ease of use, and aesthetics, dedicated planning tools tend to have the edge. We'll get more into the specifics in a moment.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Aren’t Project Management Apps for Work?
 
@@ -59,10 +52,10 @@ Ben Lovejoy
 ![A Trello board showing apartment design considerations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/design.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -79,13 +72,6 @@ Ben Lovejoy
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Creating a Board
 
  Visit [trello.com](https://trello.com) and use the "Create an Account" link to register. If asked to choose your plan, opt for the "Free" one. Once you are registered, select "Boards" from the left-hand menu, and then click the big blue "+" sign at the top to add a board.
@@ -93,13 +79,6 @@ Ben Lovejoy
  You'll be asked to choose between "Create Board" and "Start With a Template." Personally, I find it easier to use the first option to create something from scratch.
 
  You can choose one of the standard backgrounds—either a color or an image—or "Custom" to upload your own. My personal preference is to have a minimalist but interesting background, so I search for free stock images on [Unsplash](https://unsplash.com) and use one of those.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Creating Lists
 
@@ -113,6 +92,13 @@ Ben Lovejoy
 
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
 ###  Adding Cards
@@ -121,14 +107,14 @@ Ben Lovejoy
 
 ![Adding cards to each task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cards.jpg) 
 
-Ben Lovejoy
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Ben Lovejoy
 
 ###  Adding Photos
 
@@ -137,10 +123,10 @@ Ben Lovejoy
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -148,6 +134,13 @@ Ben Lovejoy
  The photo will then show on the card in the main view:
 
 ![A VR headset displayed on a Trello card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/photo-added.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -165,24 +158,31 @@ Ben Lovejoy
 
  You'll also see here options to link to existing cards.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Adding Checklists
 
  Everything else from this point is added in the same way: Open the card, then choose the option from that right-hand menu we used to add the cover photo. I'll skip the screengrabs, as these would just be the same image.
 
  To add a checklist, simply click the Checklist button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Adding Deadlines
 
  If a card represents a task, you can set a deadline by clicking the "Date" button. By default, you'll get a reminder the day before it becomes due, but you can change this from the dropdown.
 
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Using Color Coding
 
@@ -201,10 +201,10 @@ Ben Lovejoy
 Ben Lovejoy
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Moving Things Around (Lists and Cards)
@@ -234,5 +234,26 @@ Ben Lovejoy
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-maximize-your-youtube-shorts-earnings-for-2024/"><u>[Updated] How to Maximize Your YouTube Shorts Earnings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-thumbnails-demystified-mac-edition/"><u>[Updated] YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-omnicharge-omni-20-charger-your-ultimate-companion-for-universal-wireless-charging-solutions/"><u>Exploring the Omnicharge Omni 20 Charger – Your Ultimate Companion for Universal, Wireless Charging Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y77t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y77t Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-introduction-of-chatgpt-and-whisper-api-endpoints-impacts-your-business-strategy/"><u>How the Introduction of ChatGPT and Whisper API Endpoints Impacts Your Business Strategy</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-updated-list-of-podcast-interview-questions-to-hook-up-listeners/"><u>In 2024, Updated List Of Podcast Interview Questions To Hook Up Listeners</u></a></li>
+<li><a href="https://techidaily.com/remove-honor-x7b-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Honor X7b unlock screen</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-zero-30-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Zero 30 5G on Mac</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-motorola-moto-g84-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Motorola Moto G84 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor X50i+</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-magic-vs-2-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor Magic Vs 2</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Samsung Galaxy XCover 7.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+</ul></div>
 

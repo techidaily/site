@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons"
-date: 2024-09-23T16:37:05.534Z
-updated: 2024-09-24T17:12:04.121Z
+date: 2024-09-29T05:34:01.091Z
+updated: 2024-10-01T06:35:27.044Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 * [Pin a Website from Firefox](https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6s-by-drfone-ios/)
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * In Google Chrome, click the three vertical dots, go to Save and Share, and select Create Shortcut to pin a website.
@@ -36,24 +29,31 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
  By default, Chrome will open the web page as a tab in a normal Chrome browser window. You can check the "Open as Window" option to have Chrome open the page in its own window with its own taskbar icon when you click the shortcut.
 
 ![Enter the name of your shortcut, then click 'Create.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-click-create.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From your desktop, right-click on the shortcut, and click "Pin to Start." You can now delete the shortcut on your desktop. You can also select "Unpin from Taskbar" if you don't want it on your taskbar. 
 
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pin a Website from Firefox
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
@@ -120,5 +120,24 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-downloading-and-updating-intels-ethernet-drivers-for-windows-os/"><u>Comprehensive Guide to Downloading & Updating Intel's Ethernet Drivers for Windows OS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dive-into-dynamic-editing-windows-xp-edition-guide/"><u>Dive Into Dynamic Editing Windows XP Edition Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-efficiently-update-your-atheros-wi-fi-driver-on-windows-11-systems/"><u>Guide to Efficiently Update Your Atheros Wi-Fi Driver on Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y28-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y28 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-huawei-nova-y91-is-unlocked-by-drfone-android/"><u>How To Check if Your Huawei Nova Y91 Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-k70-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi K70 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 7 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docm file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-of-exploration-your-guide-to-the-complete-star-trek-film-series/"><u>Order of Exploration: Your Guide to the Complete Star Trek Film Series</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-nubia-red-magic-8s-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-normalizdll-missing-error-on-windows/"><u>The Ultimate Solution for 'Normaliz.dll Missing Error' On Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-non-functional-turtle-beach-stealth-600-nc2-mic/"><u>Troubleshooting Guide: How to Repair Non-Functional Turtle Beach Stealth 600 NC2 Mic</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-smart-8-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Smart 8 Pro</u></a></li>
+</ul></div>
 

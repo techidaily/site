@@ -1,7 +1,7 @@
 ---
 title: "How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide"
-date: 2024-09-19T20:30:15.919Z
-updated: 2024-09-24T21:55:49.339Z
+date: 2024-09-25T03:21:20.042Z
+updated: 2024-09-30T19:58:17.304Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The Equinox home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-equinox-home-page.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Equinox works well with photos of the same location that you've shot yourself, stills grabbed from a time-lapse video, or abstract images made in Photoshop. It's also a great use for AI. You can [create images in MidJourney](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/) or [use the ChatGPT-based tool DALL-E](https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/). Lots of AI services can even [polish your existing images](https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-black-boxes-understanding-their-functionality/).
 
 ##  How to Create a Dynamic Wallpaper for macOS
@@ -47,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![The opening screen in the Equinox app showing the types of dynamic wallpaper you can make.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-opening-screen-in-the-equinox-app-showing-the-types-of-dynamic-wallpaper-you-can-make.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Solar
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  Click "Solar" and drag your images into the window. For each image, you will need to fill in the Altitude and Azimuth values.
 
 ![The Solar page in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-solar-page-in-equinox.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To do this, click "Calculator." In the window that opens, click and drag on the map so that the pin is over the location you want (or you can fill in the Location details manually if you have them).
 
@@ -79,10 +79,23 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![The options to Save or Set your wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-options-to-save-or-set-your-wallpaper-in-equinox.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Time
@@ -103,22 +116,15 @@ Your browser does not support the video tag.
 
 ![An appearance wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-appearance-wallpaper-in-equinox.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For it to work, you need to go to System Settings > Appearance > Appearance > Auto so that your system cycles between light and dark modes.
 
 ![The Light mode and Dark mode settings in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-light-mode-and-dark-mode-settings-in-macos.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -138,5 +144,23 @@ Your browser does not support the video tag.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-screenshots-a-guide-to-premium-recorders-for-2024/"><u>[Updated] Mastering Screenshots A Guide to Premium Recorders for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-step-by-step-methods-for-iphone-screen-capture/"><u>2024 Approved Step-by-Step Methods for iPhone Screen Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-evolutionary-trio-distinguishing-gpt-4-from-its-siblings-gpt-4-turbo-and-n/"><u>AI Evolutionary Trio: Distinguishing GPT-4 From Its Siblings - GPT-4 Turbo and N</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-a60-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-gratis-mac-video-editors-select-the-top-10-tools-for-effortless-editing/"><u>Best Gratis Mac Video Editors - Select the Top 10 Tools for Effortless Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos-for-2024/"><u>Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS for 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g04-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G04 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>In 2024, Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-gif-maker-tools-for-seamless-loops/"><u>New In 2024, Free GIF Maker Tools for Seamless Loops</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-xiaomi-redmi-a2plus-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-samsung-galaxy-f34-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-poco-m6-pro-4g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Xiaomi</u></a></li>
+</ul></div>
 

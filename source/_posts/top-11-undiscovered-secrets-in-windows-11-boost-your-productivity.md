@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Undiscovered Secrets in Windows 11: Boost Your Productivity!"
-date: 2024-09-23T16:30:42.491Z
-updated: 2024-09-25T00:20:41.628Z
+date: 2024-09-26T03:56:18.781Z
+updated: 2024-09-30T16:00:34.701Z
 tags:
   - deals
 categories:
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, return to the "Privacy & Security" menu and go to "Activity History" under Windows Permissions.
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
@@ -51,37 +58,30 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![Different privacy and security settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diagnostics-and-feedback-settings-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Toggle the buttons to turn off sending all types of diagnostic data. Then press the "Delete" button to clear any previously collected data.
 
 ![Diagnostics data collection settigns on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-diagnostics-data-collection-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are more [privacy settings on Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) that you can change for a [better Windows user experience](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Live Captions Anywhere
 
  If you find it hard to listen to what's going on in meetings or want to read subtitles when watching videos, Live Captions on Windows 11 makes that happen. It works throughout your whole system, even if you're listening or watching something on your browser. To find Live Captions, go to Settings > Accessibility > Captions.
 
 ![Windows Accessibility settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-accessibility-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Turn on "Live Captions." You should see a prompt about permitting Microsoft to process your voice data locally. Press "Download" to agree.
 
@@ -90,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  Now attend a meeting or play a video on a media player or on a browser to see live captions being generated for that.
 
 ![Windows Live Captions feature generating captions for a YouTube video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions-feature.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can play around the settings of the caption box to suit your preferences.
 
@@ -110,14 +103,14 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
 
- You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
 
 ##  Focus Sessions
 
@@ -141,9 +134,23 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![End task from taskbar option on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/end-task-from-taskbar-option-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, if you want to end a task, simply right-click on the icon of that task in the taskbar and click "End Task."
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Minimize Windows by Shaking
 
@@ -151,29 +158,9 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Different Windows System settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-multitasking-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turn on the "Title Bar Windows Shake" option.
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
 
@@ -197,13 +184,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Start Button Shortcuts
 
  I'm a big fan of using shortcuts on my computer. Keyboard shortcuts, desktop shortcuts, you name it. The Start button on Windows 11 has a lot of useful shortcuts hidden from us. Right-clicking the Start button reveals these shortcuts. You can also hit Windows+X to open it (using a shortcut to open a shortcut menu.)
@@ -212,6 +192,19 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  OCR in the Snipping Tool
 
  If you need to quickly extract some text from an image, the Windows Snipping Tool can help you with that. It's known as the [Text Actions feature](https://fox-hovers.techidaily.com/updated-2024-approved-mastering-time-warp-in-video-editing/). Open the Snipping Tool and [take a screenshot](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/) of the image that you want to extract text from. If the photo is already on your PC, you can right-click it and open it in Snipping Tool.
@@ -219,6 +212,13 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  After that, press the Text Actions button from the top menu. You can then click the "Copy All Text" button to copy all the text in the picture. You can also manually select text using your mouse and copy only specific portions. If there is any sensitive information in the picture such as phone numbers or emails, you can redact it too.
 
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Built-in Image Editing in the Photos App
 
@@ -245,5 +245,22 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-join-the-social-gaming-movement-xbox-and-fb-livestreams-for-2024/"><u>[New] Join the Social Gaming Movement Xbox & FB Livestreams for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-balancing-act-proper-techniques-for-stable-photos-for-2024/"><u>[Updated] Balancing Act Proper Techniques for Stable Photos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-decoding-the-economic-riches-of-mr-beast/"><u>[Updated] In 2024, Decoding the Economic Riches of Mr. Beast</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-1-v-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 1 V Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-c67-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C67 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-in-google-spreadsheets-and-documents/"><u>Mastering ChatGPT in Google Spreadsheets & Documents</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-g54-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola G54 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2013-online-add-signature-to-word-2013-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Online - Add Signature to Word 2013 for Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sleepy-tech-unwakeable-computer-on-windows-1011/"><u>Sleepy Tech: Unwakeable Computer on Windows 10/11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-rise-of-remote-therapeutic-platforms-for-2024/"><u>The Rise of Remote Therapeutic Platforms for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-samsung-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Samsung without backup.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-no-cost-dvd-ripper-applications-for-pc-and-mac-users/"><u>Ultimate List of No-Cost DVD Ripper Applications for PC and Mac Users</u></a></li>
+</ul></div>
 

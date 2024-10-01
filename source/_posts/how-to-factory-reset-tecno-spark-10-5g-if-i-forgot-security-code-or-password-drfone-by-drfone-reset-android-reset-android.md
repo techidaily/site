@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Tecno Spark 10 5G If I Forgot Security Code or Password? | Dr.fone
-date: 2024-09-23T19:05:40.377Z
-updated: 2024-09-24T16:47:56.805Z
+date: 2024-09-24T22:55:12.286Z
+updated: 2024-10-01T00:42:23.478Z
 tags: 
   - reset
 categories:
@@ -48,6 +48,13 @@ Back up and restore data from your device to a computer with a single click. It'
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -72,13 +79,6 @@ Step 2. Wait for the backup process to complete. A progress bar will show you ho
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
 ![complete android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Also, you can watch this video to learn more details.
 
@@ -140,13 +140,6 @@ Please note: this reset will also delete Android Device Manager and you will the
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Restoring Your Phone After a Reset
 
 It can be quick and scary seeing your phone return to its original state. But don't panic. Your data is still safely tucked away on your computer. To restore your contacts and Apps just connect your Tecno Spark 10 5G to the Internet and login into your Google account when prompted.
@@ -154,6 +147,13 @@ It can be quick and scary seeing your phone return to its original state. But do
 Once you have restarted your mobile, connect it to your PC and open Dr.Fone on your computer. Select Phone Backup, and click on the Restore button to start restoring the data to your phone.
 
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dr.Fone will display all the backup files. Select the backup file you would like to restore and click View.
 
@@ -204,13 +204,6 @@ If the Android device is working well, to hard reset Android tablet without usin
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Reset Android without volume buttons using Dr.Fone - Data Eraser (Android)
 
 If you need to reset an Android device that doesn't have functional volume buttons, [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can assist you in securely erasing all data and performing a reset. This software provides a reliable solution that doesn't require volume buttons.
@@ -218,6 +211,19 @@ If you need to reset an Android device that doesn't have functional volume butto
 Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefully consider whether you still want to delete all data from your phone. Resetting will permanently erase all files, settings, and personal information on your device, and it cannot be undone. Therefore, it is important to [back up any important data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before performing the reset. If you are certain that you want to proceed with the reset using Dr.Fone, follow the steps below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 1:** [Download Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) on your computer. Open the “Data Eraser” tool and connect your android device to the computer.
 
@@ -257,22 +263,29 @@ Using the home button to navigate, move down to the “Wipe data/factory reset�
 
 ![Wipe data/factory reset](https://images.wondershare.com/drfone/others/factory-reset-huawei-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You may have to confirm your choice by selecting “Yes”.
 
 ![select yes](https://images.wondershare.com/drfone/article/2017/04/14925874254055.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5: Reboot your device.**
 
 After the reset is complete, navigate to the “reboot system now” option and select it to reboot your device. At the end of this process, your device will be reset.
 
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Reset Android with the reset pinhole
 
@@ -369,13 +382,6 @@ A hard reset, also known as a factory reset and a master reset, returns the Tecn
 
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Signs You Need to Reset Phone
 
 You'll probably already know if your phone needs a reset, but if you're unsure, look for some of the following signs. If you recognize any of the following symptoms then a factory reset is probably a good idea.
@@ -398,13 +404,6 @@ Back up and restore data from your device to a computer with a single click. It'
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone Basic](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Backup & Restore Data Turns Flexible
@@ -422,13 +421,34 @@ Step 1. Open Dr.Fone on your computer and connect your Android device. Go to **M
 
 ![start android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2. Wait for the backup process to complete. A progress bar will show you how far along it is.
 
 ![view the backup progress](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3. Once the backup is done, it'll show up in your window. To see the backup on your PC, click **Open in Folder**. If you want to see all backups, select **View Backups**.
 
 ![complete android backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Also, you can watch this video to learn more details.
 
@@ -486,23 +506,9 @@ Step 2. Select erase all data. This is particularly effective if you have lost o
 
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/android-device-mamager-erase.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Please note: this reset will also delete Android Device Manager and you will therefore be unable to locate or track your device.
 
 Once you have successfully reset your Android device to its factory settings, all you need to do is restore your original data. After you've completed this step your device should be just like new.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Restoring Your Phone After a Reset
 
@@ -565,20 +571,24 @@ Thank you for reading and if we've been of some help please take the time to boo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-fast-loading-instagram-media-content/"><u>[Updated] Mastering Fast-Loading Instagram Media Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-10-best-text-effects-for-your-video/"><u>[Updated] Top 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus 12R Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/cutting-down-curated-content-how-to-delete-fb-story-pc-and-phone-for-2024/"><u>Cutting Down Curated Content How to Delete FB Story (PC & Phone) for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-iciness-to-comfort-five-warm-backdrops-ideas-for-2024/"><u>From Iciness to Comfort Five Warm Backdrops Ideas for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-huawei-nova-y91-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Huawei Nova Y91</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-13-ultra-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-90-gt-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from 90 GT</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-verified-app-issues-in-windows/"><u>Strategies for Overcoming Verified App Issues in Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-definitive-steps-to-record-your-favorite-hulu-episodes-for-2024/"><u>The Definitive Steps to Record Your Favorite Hulu Episodes for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy S23+ FRP</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-poco-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Poco</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-poco-x6-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Poco X6 Pro fingerprint</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-integrate-with-ease-an-in-depth-look-at-instagrams-music-icons/"><u>[New] Integrate with Ease An In-Depth Look at Instagram's Music Icons</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[Updated] Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-sharing-bygone-photos-through-snapchats-memories-feature-for-2024/"><u>[Updated] Sharing Bygone Photos Through Snapchat's Memories Feature for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>2024 Approved Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-of-effective-iptv-broadcasting-capture/"><u>2024 Approved Secrets of Effective IPTV Broadcasting Capture</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-installing-acer-aspire-e15-drivers-on-windows-11/"><u>Complete Guide: Installing Acer Aspire E15 Drivers on Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vering-your-customized-youtube-playlist/"><u>Discovering Your Customized YouTube Playlist</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-geforce-experience-encountered-an-error-issue-complete-guide/"><u>How to Fix the GeForce Experience 'Encountered an Error' Issue - Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v29-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V29 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unveil-top-8-websites-with-free-green-screen-video-treasures/"><u>In 2024, Unveil Top 8 Websites with FREE Green Screen Video Treasures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-teamwork-in-roller-champions-crossplay-edition-2024/"><u>Mastering Teamwork in Roller Champions Crossplay Edition 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2016-read-only-documents-by-stellar-guide/"><u>Solutions to open Excel 2016 Read Only Documents</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel Read Only Documents | Stellar</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-galaxy-s24-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Galaxy S24</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi 13 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

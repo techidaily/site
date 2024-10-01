@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Motorola Moto G 5G (2023) Phone That Is Locked | Dr.fone
-date: 2024-09-19T01:13:33.174Z
-updated: 2024-09-24T21:28:42.908Z
+date: 2024-09-30T05:27:59.877Z
+updated: 2024-10-01T03:37:37.438Z
 tags: 
   - reset
 categories:
@@ -72,13 +72,6 @@ If the above-listed methods do not work for any reason, we recommend using [Dr.F
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The screen locks can be removed without rooting, and the software is completely safe to use.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
@@ -123,13 +116,6 @@ To unlock the screen and reset your Motorola Moto G 5G (2023) phone, the setting
 
 The steps above will reset your phone to the default factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Reset Motorola Moto G 5G (2023) phones with factory reset code
 
 There are Android Reset Codes for different brands of phones that can be used for resetting the Motorola Moto G 5G (2023) device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Motorola Moto G 5G (2023) phones is **\*#\*#2846579#\*#\***.
@@ -158,6 +144,13 @@ If the Android device is working well, to hard reset Android tablet without usin
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Reset Android without volume buttons using Dr.Fone - Data Eraser (Android)
 
 If you need to reset an Android device that doesn't have functional volume buttons, [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can assist you in securely erasing all data and performing a reset. This software provides a reliable solution that doesn't require volume buttons.
@@ -166,13 +159,6 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 1:** [Download Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) on your computer. Open the “Data Eraser” tool and connect your android device to the computer.
 
 ![choose data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -180,6 +166,13 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 - **Step 2:** Click “Erase” to start erasing all data on the Android device. Think again about whether you want to delete all data and type “000000” to confirm.
 
 ![start data earser](https://images.wondershare.com/drfone/guide/android-erase-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Wait for the erase process to end, and you can view the erasure report to check the data type erased after erasing completes.
 
@@ -221,25 +214,11 @@ After the reset is complete, navigate to the “reboot system now” option and 
 
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Reset Android with the reset pinhole
 
 There are many reasons for opting to reset an Android smartphone or tablet. Sometimes, a forgotten password might get your tablet locked. At times, the screen of your smartphone or tablet might get stuck and fail to respond. Or your device might come with a non-removable battery to make matters worse. For all these problems and many others, you might want to reset your device. But if your device does not come with a home button or volume buttons, you might want to use a different method. Generally, such devices come with a reset pinhole on the Motorola Moto G 5G (2023) device which can be used to reset the Motorola Moto G 5G (2023) device. To perform a tablet hard reset without the volume button, follow the simple steps described below.
 
 ![choose yes](https://images.wondershare.com/drfone/article/2017/04/14931910627827.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1: Find the Reset pinhole.**
 
@@ -250,6 +229,13 @@ Look for a very small opening on the back panel or the bezels of a smartphone. U
 After locating it, insert a stretched paperclip or a small pin into the hole and press it for a few seconds.
 
 Now all the data in your Android device will be reset. After this, you can continue to use your device normally without any problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Reset Android from Settings (phone works normally)
 
@@ -271,6 +257,13 @@ Now swipe down to find the “Factory data reset” option and tap on it. A new 
 
 ![backup reset](https://images.wondershare.com/drfone/article/2017/04/14931915614133.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 At the end of the process, your device will be reset and ready to use after it completes the mandatory reboot.
 
 ## Part 5: Reset Android tablet to unlock Android using Dr.Fone - Screen Unlock (Android)
@@ -278,13 +271,6 @@ At the end of the process, your device will be reset and ready to use after it c
 If you are facing the challenge of resetting an Android tablet to unlock the lock screen, the easiest way is to use a dedicated tool. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is recommended in this case. It is a helpful software that provides a solution to bypass screen lock and perform a reset on your Android tablet.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -323,6 +309,13 @@ So these are the methods with which you can do a reset without using volume butt
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## All About Factory Reset, What Is It and What It Does to Your Motorola Moto G 5G (2023)?
 
 _I bought a new phone and want to sell my old Motorola Moto G 5G (2023) 3, so I need to clear my data off it. Can someone guide me on how to factory reset the Motorola Moto G 5G (2023) 3 so I can sell it?_
@@ -332,6 +325,13 @@ As we all know, force restart and even factory reset can resolve many problems o
 Therefore, we have gathered all that you need to know about a factory reset. After going through this article, you can **factory reset Motorola Moto G 5G (2023)** phones. So, keep following to resolve your Motorola Moto G 5G (2023) issues.
 
 ## Part 1: What is Motorola Moto G 5G (2023) Factory Reset?
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Principles of Motorola Moto G 5G (2023) Factory Reset
 
@@ -363,13 +363,6 @@ Now is the right time to **factory reset Motorola Moto G 5G (2023)** when you ha
 - Pick whether you need to delete any downloaded SIMs and tap Erase all data.
 
 ![factory reset](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - You might need to enter your password to complete the reset.
 
@@ -407,9 +400,23 @@ You can use Dr.Fone Data Eraser to reset your Motorola Moto G 5G (2023) phone wi
 
 ![type to confirm](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Then, at that point, Dr.Fone will ask you to click the Factory Reset option on your Motorola Moto G 5G (2023). You can also select "Erase All Data" to reset your Motorola Moto G 5G (2023).
 
 ![erased successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
@@ -429,13 +436,6 @@ As we mentioned before, we recommend you back up your files before a factory res
 - After the connection, select the File types you need to upload. Of course, Dr.Fone has checked all the document types for you. Then click on backup to begin the process. It will require a short time. Kindly don't detach your Motorola Moto G 5G (2023) nor use it during the backup.
 
 ![choose file types](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - After the backup is finished, you can tap on the "View the Backup" button to see what's in the document.
 
@@ -461,21 +461,22 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-samsungs-s8-and-4k-technology/"><u>[Updated] Behind the Scenes Samsung's S8 and 4K Technology</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722961383079-get-your-startech-vga-driver-now-safe-and-easy-installation-tutorials-available-here/"><u>Get Your StarTech VGA Driver Now – Safe & Easy Installation Tutorials Available Here!</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-k70e-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi K70E Without Password | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-zte-phone-that-is-locked-by-drfone-android/"><u>How to Reset a ZTE Phone that is Locked?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-camon-20-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Camon 20 Pro 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-truthgpt-revelations-and-insights-police-investigation-at-mullvad-vpn-topno-logo-free-gaming-on-pcs-demystifying-mechanical-keyboard-tech/"><u>Inside TruthGPT: Revelations & Insights | Police Investigation at Mullvad VPN | Topno Logo-Free Gaming on PCs | Demystifying Mechanical Keyboard Tech</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-edits-best-face-changing-apps-iphonesipads-for-2024/"><u>Premier Edits Best Face-Changing Apps, iPhones/iPads for 2024</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Plus Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-spark-20-proplus-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Spark 20 Pro+ without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-s23-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on S23</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transform-your-ppm-photos-into-jpeg-files-instantly-use-our-free-web-service/"><u>Transform Your PPM Photos Into JPEG Files Instantly - Use Our Free Web Service!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-elite-best-15-supports-for-gopro-cameras/"><u>Unveiling The Elite Best 15 Supports for GoPro Cameras</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-12-5g-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi 12 5G can't play MP4 video files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>[New] 2024 Approved The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-text-tactics-top-10-best-practices/"><u>[Updated] Text Tactics Top 10 Best Practices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-unique-snapchat-experiences-with-120plus-innovative-ideas-for-personal-stories/"><u>2024 Approved Crafting Unique Snapchat Experiences with 120+ Innovative Ideas for Personal Stories</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-master-your-youtube-empire-with-creator-studio-tools/"><u>2024 Approved Master Your YouTube Empire with Creator Studio Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028801534-usbdvd/"><u>記憶の永遠の保存 – USBメモリへのライブDVD複製方法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-hot-40-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix Hot 40 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X9a Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a15-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A15 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-online-presence-through-advanced-cookiebot-features/"><u>Empower Your Online Presence Through Advanced Cookiebot Features</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-6-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-halt-recommendations-no-more-suggests/"><u>How to Halt Recommendations No More Suggests</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y78plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78+ Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y36i-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y36i</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v10-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF v1.0 File using PDF Repair Tool | Stellar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-list-of-20-magic-words-for-marketing/"><u>The Ultimate List of 20 Magic Words for Marketing</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Xiaomi Redmi K70 Pro</u></a></li>
 </ul></div>
 

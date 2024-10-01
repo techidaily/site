@@ -1,7 +1,7 @@
 ---
 title: "Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features"
-date: 2024-09-21T18:48:52.804Z
-updated: 2024-09-24T19:37:41.691Z
+date: 2024-09-26T03:15:59.103Z
+updated: 2024-09-30T22:58:12.725Z
 tags:
   - cutting-edge
 categories:
@@ -31,22 +31,16 @@ Related: [What Is "Presence" in VR, and Why Is it So Important?](https://change-
 
  It's not as if the idea of adding these sensory channels to media is new. Movie theaters have experimented with releasing smells during certain scenes. There have been video games known as "[feelies](https://www.pcgamer.com/boxes-feelies-and-the-good-old-days-of-pc-gaming/)" where you'd get items in the box that you're supposed to touch when instructed. It may have been largely a gimmick in the past, but many people hold that opinion of VR itself as well, so there's certainly a market for more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Simulated Taste: All Flavor, No Calories
 
 ![Woman in a kitchen wearing a virtual reality headset and eating a bowl of food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-eating-food.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautiful-attractive-young-woman-eating-healthy-696003394)_
 
@@ -56,15 +50,22 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
 
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Next-Generation Haptics
 
 ![Man wearing a virtual reality headset and exoskeleton gloves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/man-virtual-reality-headset-gloves-touch.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo/medium-shot-man-lying-bed-using-1367032724)_
@@ -79,22 +80,16 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
 
  In other words, we're on track to create technology that can reliably recreate many types of touch sensations that current consumer VR can't. Getting the cost and complexity down so that it can reach the masses, however, will take time.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Smelling the Virtual Roses
 
 ![Woman wearing virtual reality headset and enjoying the smell of a bouquet of flowers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-flower-bouquet.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-vr-glasses-headset-enjoying-1780967699)_
 
@@ -107,13 +102,6 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  For smell specifically, the mask uses nine cartridges with different aromas that can be mixed together. These can be depleted and need to be replaced, but by combining them in various proportions this "scent generator" can offer a bouquet of smells.
 
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Holy Grail: Direct Brain Stimulation
 
@@ -134,5 +122,19 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-world-of-instagram-story-highlights/"><u>[New] Navigating the World of Instagram Story Highlights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>[Updated] 2024 Approved Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battling-with-palworld-strategies-to-stop-your-gaming-platform-from-crashing/"><u>Battling with Palworld: Strategies to Stop Your Gaming Platform From Crashing</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g24-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G24 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-infinix-zero-30-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Zero 30 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-poco-x6-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco X6 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-tips-accelerate-your-keyboards-reaction-speed-easily/"><u>Master Tips: Accelerate Your Keyboard’s Reaction Speed Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-lut-manipulation-a-comprehensive-photoshop-guide-for-2024/"><u>Mastering LUT Manipulation A Comprehensive PhotoShop Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-no-more-frozen-frames-in-warframe/"><u>Overcoming Gameplay Disruptions: No More Frozen Frames in Warframe</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pairing-podcast-with-picture-for-2024/"><u>Pairing Podcast with Picture for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-redmi-note-13-proplus-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Redmi Note 13 Pro+ 5G on Windows</u></a></li>
+</ul></div>
 

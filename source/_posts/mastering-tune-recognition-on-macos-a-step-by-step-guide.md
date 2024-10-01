@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-09-23T21:25:22.585Z
-updated: 2024-09-24T17:50:51.871Z
+date: 2024-09-27T18:24:48.963Z
+updated: 2024-09-30T21:54:53.038Z
 tags:
   - desktop
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Identify Music From the Menu Bar or Control Center
 
  In macOS, you can identify songs playing around you, online, or in apps—including while wearing AirPods—using the menu bar or Control Center. You just need to enable the features to do so.
@@ -44,35 +37,22 @@ Close
 
  Download the free [Shazam Mac app](https://apps.apple.com/app/id897118787) to access additional features. With it, you can view time-synced lyrics, change the sound input, enable the always-listening Auto Shazam mode, share identified songs via Messages, open them on Spotify, Deezer, YouTube Music, and more.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to View Your Shazam History
 
  Your Shazam history is under the Music Recognition menu. Click the Shazam icon in the Control Center or menu bar and select any song to learn more about it on the Shazam website.
 
 ![Safari for Mac displaying information about Blinding Lights by The Weeknd.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-safari-browser-shazam-website-song-information-blinding-lights-by-the-weeknd.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To open the song in the Apple Music app instead, hover over it and click the tiny Apple Music button. Hitting the trashcan icon will remove the selected song from your Shazam history.
 
 ![Music Recognition in macOS menu bar displaying Shazam history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-menu-bar-music-recognition-history-apple-music-trashcan-icons-highlighted.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To automatically back up your Shazam history to iCloud to access it on other devices using the same Apple ID, turn on "Music Recognition" in System Settings > \[your Apple ID\] > iCloud > Show More Apps.
 
@@ -83,25 +63,33 @@ Close
 ![Siri on Mac using Music Recognition to Shazam a song.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sinoma-14-4-siri-assistant-music-recognition-shazam-song-results.png) 
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A successful match will produce a notification revealing the identified tune. Of course, you'll need to ensure [Siri is enabled on your Mac](https://ai-topics.techidaily.com/new-what-are-ai-tools-for-2024/) to do this.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Launch Music Recognition via a Keyboard Shortcut
 
  Shazam lets you set a custom keyboard shortcut, but if you don't have the app installed, you can configure the ready-made Shazam shortcut to run via a keyboard combination.
 
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
@@ -134,5 +122,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>[New] 2024 Approved Constructing Emotional Resonance Trailer Sound Selection Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-gameplay-androids-leading-gba-emulators/"><u>[New] 2024 Approved Superior Gameplay Android's Leading GBA Emulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-your-path-to-perfect-recording-5-must-know-techniques-for-minecraft-screenshots-macos/"><u>[New] In 2024, Your Path to Perfect Recording 5 Must-Know Techniques for Minecraft Screenshots (MacOS)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-caller-id-changers-with-enchanting-options/"><u>[New] Leading Caller ID Changers with Enchanting Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-image-presentations-how-to-add-text-and-captions-to-videos-within-windows-10-photos/"><u>2024 Approved Innovating Image Presentations How to Add Text and Captions to Videos Within Windows 10 Photos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/access-all-shows-seamless-apods-installation-tips-for-2024/"><u>Access All Shows Seamless APods Installation Tips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-turing-emerging-evaluation-methods/"><u>Beyond The Turing: Emerging Evaluation Methods</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-x6-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco X6 Phone Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-14-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi 14 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m54-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M54 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/tecno-messages-recovery-recover-deleted-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Tecno Messages Recovery - Recover Deleted Messages from Tecno</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-y100i-power-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo Y100i Power 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-8-plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 8 Plus Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-xiaomi-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi play AVCHD mts files?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

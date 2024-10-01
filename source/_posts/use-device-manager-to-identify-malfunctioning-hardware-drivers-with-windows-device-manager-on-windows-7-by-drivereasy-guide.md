@@ -1,6 +1,6 @@
 ---
 title: Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 7
-date: 2024-09-19T01:08:49.220Z
+date: 2024-09-28T19:58:39.706Z
 tags: 
   - driver
   - device driver
@@ -50,15 +50,22 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Microsoft WHQL Testing
@@ -68,6 +75,13 @@ Most hardware manufacturers put their drivers through Microsoft’s rigorous Win
 If your manufacturer has a ‘Certified for Windows’ driver, that’s the one we’ll use. For Windows 10 and 11, Driver Easy installs only drivers that are ‘Certified for Windows’ through the Windows Hardware Quality Labs (WHQL) program. For Windows 7, 8 and Vista, Driver Easy installs WHQL drivers by default, if they’re available (which they are for 95.69% of drivers for those versions of Windows), but also gives users the option to install non-WHQL drivers.
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Certified by Driver Easy
 
@@ -84,29 +98,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1. Filter out faulty drivers
 
@@ -119,10 +113,10 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2. Test on all modern versions of Windows
@@ -214,10 +208,16 @@ To automatically update to the correct version of all the drivers that are missi
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -265,16 +265,16 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unleash-your-ads-potential-mastering-fb-ad-roi-with-motion-graphics/"><u>[New] In 2024, Unleash Your Ad's Potential Mastering FB Ad ROI with Motion Graphics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elite-web-based-recording-tools/"><u>[Updated] 2024 Approved Elite Web-Based Recording Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-unseen-facts-instagram-reels-demystified-ten-points/"><u>2024 Approved The Unseen Facts Instagram Reels Demystified (Ten Points)</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel P55 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-c33-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme C33 2023 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s24-ultra-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy S24 Ultra won’t play MP4 files</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-motorola-moto-g34-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola Moto G34 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unplanned-restarts-post-gaming/"><u>Unplanned Restarts Post-Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-download-setup-and-utilize-ez-grabber-in-no-time/"><u>[New] 2024 Approved Download, Setup & Utilize EZ Grabber in No Time</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-demystifying-premiere-pros-corrections-for-overexposed-iphone-videos/"><u>[Updated] 2024 Approved Demystifying Premiere Pro's Corrections for Overexposed iPhone Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-detailed-guide-to-zoom-youtube-live/"><u>[Updated] 2024 Approved Detailed Guide to Zoom YouTube Live</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boxed-bliss-reinventing-the-art-of-first-contacts/"><u>[Updated] Boxed Bliss Reinventing the Art of First Contacts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-majestic-celestial-images-at-your-command/"><u>[Updated] In 2024, Majestic Celestial Images at Your Command</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-content-creation-video-and-photo-synergy-for-2024/"><u>[Updated] Master Content Creation Video & Photo Synergy for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30i-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30i Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-huawei-nova-y91-by-fonelab-android-recover-music/"><u>The way to get back lost music from Huawei Nova Y91</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-tecno-spark-20-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Tecno Spark 20 Pro.</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-f15-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy F15 5G ?</u></a></li>
 </ul></div>
 

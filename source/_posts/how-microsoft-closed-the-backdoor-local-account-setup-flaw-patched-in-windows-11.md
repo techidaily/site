@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-09-17T20:28:38.562Z
-updated: 2024-09-24T17:53:54.656Z
+date: 2024-09-28T17:58:33.730Z
+updated: 2024-10-01T01:23:45.686Z
 tags:
   - deals
 categories:
@@ -38,18 +38,25 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-eco-friendly-recorder-ads-absolved-in-2024/"><u>[New] Eco-Friendly Recorder - Ads Absolved, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-epic-expeditions-terrarias-richest-map-finds/"><u>[New] Epic Expeditions Terraria's Richest Map Finds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-advanced-techniques-to-record-and-save-stories/"><u>[New] In 2024, Advanced Techniques to Record and Save Stories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-guide-to-instagrams-video-duration-regulations/"><u>[Updated] A Guide to Instagram's Video Duration Regulations</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-nord-n30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Nord N30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-instructions-on-how-to-update-and-download-realtek-driver-software/"><u>Easy Instructions on How to Update and Download Realtek Driver Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/online-video-combination-made-easy-top-5-free-tools/"><u>Online Video Combination Made Easy Top 5 Free Tools</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy M34 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-spark-20c-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Spark 20C.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c32-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C32.</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-working-on-editing-a-video-and-youd-like-to-add-text-to-it-learn-the-various-ways-that-you-can-add-text-to-a-video/"><u>Updated In 2024, Are You Working on Editing a Video and Youd Like to Add Text to It? Learn the Various Ways that You Can Add Text to a Video</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

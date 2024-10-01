@@ -1,7 +1,7 @@
 ---
 title: Mastering Side-by-Side File Comparisons with Notepad++ Tutorial
-date: 2024-09-22T22:36:14.486Z
-updated: 2024-09-24T23:51:24.190Z
+date: 2024-09-27T04:00:19.021Z
+updated: 2024-10-01T06:56:10.194Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you’re a Notepad++ user and want to highlight differences in your files, use a free plugin with your favorite text editor to do that. In this guide, we’ll show you how to install that plugin and then how to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 1\. Ensure Notepad++ Has Plugins Admin
 
  To compare files in Notepad++, you’ll use a plugin called Compare. Your Notepad++ installation must have [Plugins Admin](https://npp-user-manual.org/docs/plugins/#plugins-admin) installed to add this plugin. To check if it does, open the app and see if the menu bar displays a Plugins > Plugins Admin entry. If it doesn’t, follow the following steps to make the app plugin-friendly.
@@ -29,23 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The installation path and 'Next' highlighted in Notepad++'s installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-notepad-plus-plus-installation-path.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Enable the "Plugins Admin" option in the component list on the "Choose Components" screen. Then, at the bottom, select "Next."
 
 !['Plugins Admin' and 'Next' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-install-plugins-admin-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the screen that follows, optionally, enable "[Create Shortcut on Desktop](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/)" to add the app’s shortcut to your desktop. Then, click "Install."
 
@@ -54,10 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  When you’ve installed the app, click "Finish."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2\. Install the Compare Plugin Using Plugins Admin
@@ -78,22 +71,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Yes' highlighted in the 'Notepad++ is about to exit' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-restart-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "User Account Control" prompt, select "Yes."
 
  Notepad++ will relaunch with the Compare plugin installed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 3\. Compare Two Files in Notepad++
 
@@ -104,15 +91,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Open' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-open-files-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After opening both files, from the app’s menu bar, select Plugins > Compare > Compare.
 
 !['Compare' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-compare-files-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Compare plugin will do its job, which is to start highlighting the differences in your files. You’ll instantly see your files’ differences highlighted.
 
@@ -126,16 +120,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Settings' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-compare-plugin-settings-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the "Compare Plugins" window, in the "Color Settings" section, choose the various colors you’d like to use. Then, click "OK." To revert your changes, choose "Reset."
 
 !['Color Settings' and 'OK' highlighted on the 'Compare Plugin Settings' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-change-color-settings-compare-plugin-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
@@ -156,5 +150,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screenshots-and-beyond-advanced-screen-recording-for-apple-products/"><u>[Updated] 2024 Approved Screenshots & Beyond Advanced Screen Recording for Apple Products</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] In 2024, Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/continuous-stability-issues-in-immortals-of-fenyx-rising-solutions-explored/"><u>Continuous Stability Issues in Immortals of Fenyx Rising – Solutions Explored</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/endless-joy-for-mondly-premium-users/"><u>Endless Joy for Mondly Premium Users</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-vs-2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic Vs 2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g34-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G34 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-download-and-convert-video-streams-into-mp4movavi-on-macoswindows-computers/"><u>How to Download and Convert Video Streams Into MP4/MOV/AVI on MacOS/Windows Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c110-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C110 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-note-30-vip-racing-edition-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Note 30 VIP Racing Edition Device</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-local-devices-avoid-in-use-names-errors/"><u>Overcoming Windows' Local Devices: Avoid In-Use Names Errors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-huawei-p60-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Huawei P60? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-7-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/say-no-to-gpt-dumbness-openais-rebuttal/"><u>Say No to GPT Dumbness: OpenAI's Rebuttal</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Tecno</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-huawei-nova-y91-by-fonelab-android-recover-data/"><u>Undelete lost data from Huawei Nova Y91</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y100i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y100i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-a70-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel A70 | Dr.fone</u></a></li>
+</ul></div>
 

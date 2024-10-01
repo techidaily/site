@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2024-09-21T16:57:59.247Z
-updated: 2024-09-24T21:42:16.554Z
+date: 2024-09-24T19:34:20.249Z
+updated: 2024-10-01T00:39:34.096Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Does sudo Bring to Windows
 
  Functionality wise, sudo doesn't bring a whole lot to Windows that wasn't possible already. Most of the excitement is about the _cachet_ it brings Windows users. Geeks love sudo, [a](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/ "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/")[nd now Windows users are part of the club](http://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/).
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable sudo in Windows 11
@@ -54,36 +61,23 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
@@ -111,5 +105,18 @@ sudo netstat -ab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-crafting-perfect-slack-filmo-meeting-experiences/"><u>[New] 2024 Approved Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-broadcasted-theatrical-skits-for-2024/"><u>Excellence in Broadcasted Theatrical Skits for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a34-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A34 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-steadicam-devices-for-professional-drone-cinematography/"><u>Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>The way to get back lost music from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-redmi-12-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi Redmi 12 without backup.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-hot-40-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Hot 40</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-code-0x800f0831-the-troubleshoot-tome/"><u>Unraveling Code 0X800f0831: The Troubleshoot Tome</u></a></li>
+</ul></div>
 

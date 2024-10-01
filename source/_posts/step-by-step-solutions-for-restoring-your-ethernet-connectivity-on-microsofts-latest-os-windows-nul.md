@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Restoring Your Ethernet Connectivity on Microsoft's Latest OS, Windows Nul
-date: 2024-09-23T21:55:21.438Z
-updated: 2024-09-24T22:49:11.820Z
+date: 2024-09-28T06:41:31.891Z
+updated: 2024-09-30T21:00:58.497Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Is the Ethernet connection not working on your Windows PC? If so, your problem could be anything from your Internet Service to your PC's ethernet card. Below are some potential solutions you can try to resolve this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Run the Network and Internet Troubleshooter
 
  Begin troubleshooting by running the built-in Network and Internet troubleshooter, which can help pinpoint and resolve potential issues with your Ethernet connection.
@@ -43,40 +50,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Preliminary Checks
 
  If the troubleshooter doesn't identify any problems, you should perform some basic checks manually. First, verify that airplane mode is disabled—click on the Wi-Fi icon in the taskbar and check that [Flight (otherwise called Airplane) Mode isn't enabled](https://hardware-help.techidaily.com/jersey-boys/). If it's already off, restart your computer to fix any temporary operating system issues affecting the Ethernet connection.
 
 ![Turning off the flight mode on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-turning-off-the-flight-mode-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, ensure your Ethernet cable is correctly plugged in. Also, confirm that the cable is connected to the correct port on your router. You can also try unplugging and re-plugging the Ethernet cable at both ends (router and PC) to see if it makes a difference. Also, if you have a VPN connection enabled on your device, turn it off.
 
  If these basic troubleshooting steps do not resolve the issue, you can apply the remaining solutions listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check if the Internet Is Working
 
 ![Ethernet cable plugged into an ethernet port on a router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/52577999789_6417edb804_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -91,10 +84,10 @@ Hannah Stryker / How-To Geek
  If the connection works on the other device, it suggests that the problem may be with your device settings. In this case, you can proceed directly to the device-specific fixes outlined in the last three headings. However, if the connection does not work on the other device, ensure the problem isn't with the Ethernet cable, port, or router.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Ethernet Cable or Port Isn't Faulty
@@ -106,13 +99,6 @@ Hannah Stryker / How-To Geek
 ##  Rule Out Issues With Your Router
 
 ![The back of a TP-Link Archer C6 router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img20240122150429.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -141,10 +127,10 @@ Ismar Hrnjicevic / How-To Geek
 ![Clicking "Browse my computer for drivers" to manually install the drivers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-06-30_16-32-04.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If updating the driver doesn't resolve the issue, uninstall the driver from Device Manager. Right-click on the driver and select "Uninstall Device."
@@ -153,21 +139,35 @@ Ismar Hrnjicevic / How-To Geek
 
  Then, follow the previous instructions to reinstall it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Disable Proxy Server Over LAN
 
  Using a proxy server over a LAN might be the cause of the issue at hand. If you're using a proxy server, you should turn it off. Type "Internet Options" in the Windows Search bar and open it.
 
 ![Opening the 'Internet Options' Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/1-opening-the-internet-options-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
 
 ![Turning off the proxy server from LAN settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2-turning-off-the-proxy-server-from-lan-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -187,5 +187,26 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-clearing-up-confusion-addressing-youtube-short-concerns/"><u>[New] In 2024, Clearing Up Confusion Addressing YouTube Short Concerns</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-notch-meme-editing-suite/"><u>[New] Top-Notch Meme Editing Suite</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 11 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-mastering-screen-recording-on-a-pc-with-windows-os/"><u>Easy Steps to Mastering Screen Recording on a PC with Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-brightness-settings-unresponsive-on-windows-11/"><u>Fixing the Issue: Brightness Settings Unresponsive on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-file-integration-from-pc-to-iphone/"><u>In 2024, Quick File Integration From PC to iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>In 2024, Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-red-magic-9-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Red Magic 9 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-breaking-news-filmora-x-expands-to-arm-devices-for-2024/"><u>New Breaking News Filmora X Expands to ARM Devices for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pinpointing-your-computers-gpu-made-simple-a-guide-with-five-proven-steps/"><u>Pinpointing Your Computer's GPU Made Simple: A Guide with Five Proven Steps</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2022-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2022) Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-t5s-action-footage/"><u>The Ultimate Guide to T5's Action Footage</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-6s-plus-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 6s Plus SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-zte-nubia-z60-ultra-by-fonelab-android-recover-music/"><u>Undelete lost music from ZTE Nubia Z60 Ultra</u></a></li>
+</ul></div>
 

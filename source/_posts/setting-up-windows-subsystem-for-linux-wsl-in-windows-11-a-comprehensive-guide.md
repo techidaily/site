@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2024-09-20T21:17:52.228Z
-updated: 2024-09-24T19:27:02.275Z
+date: 2024-09-25T20:56:06.805Z
+updated: 2024-10-01T02:12:10.009Z
 tags:
   - deals
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  To install the Windows Subsystem for Linux (WSL) on Windows 11, run Terminal as administrator, then enter "wsl --install" into the window. Run "wsl --install -d Distro", replacing "Distro" with the name of a Linux distro, to install a specific distribution instead of Ubuntu. You can install additional Linux distros from the Terminal or the Microsoft Store.
 
  The Windows Subsystem for Linux (WSL) lets you run Linux software on your Windows 11 PC. When you enable WSL, Windows will install a custom-built Linux kernel. You can then install Ubuntu or another Linux distribution of your choice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How WSL Works on Windows 11
 
@@ -56,10 +63,10 @@ wsl --install
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
@@ -82,20 +89,33 @@ wsl --install -d Debian
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
 
  If you don't see the Linux distribution that you installed in the Windows Terminal, launch it from your Start menu first. After it completes its first-run setup process, it will appear here.
 
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Slow Way: Enable WSL and Install a Distro
 
@@ -109,31 +129,11 @@ wsl --install -d Debian
 
 ![Enable the &quot;Windows Subsystem for Linux&quot; option and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/b1-install-wsl.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you do, open the Microsoft Store app and search for the Linux distribution that you want to use. For example, you might search for "Ubuntu."
 
  Install the Linux distribution that you want to use (like Ubuntu) as you would any other application. Just click the "Get" button on its Store page.
 
 ![Search for "Ubuntu," then click "Get."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can now launch it from your Start menu just as if it were installed from the command above. 
 
@@ -152,5 +152,26 @@ wsl --install -d Debian
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-moba-games-on-android-top-10-edition-for-2024/"><u>[New] Premier MOBA Games on Android - TOP 10 Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-leading-free-subtitle-tools-online/"><u>[Updated] Explore the Leading Free Subtitle Tools Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-new-realms-a-detailed-jaunt-vr-review/"><u>[Updated] Exploring New Realms A Detailed Jaunt VR Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-growth-secrets-masterful-narration-techniques/"><u>[Updated] In 2024, YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-simplified-approach-to-removing-youtube-comments-with-ease-for-2024/"><u>[Updated] Simplified Approach to Removing YouTube Comments with Ease for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smart-selections-17-apps-for-flawless-image-correction/"><u>[Updated] Smart Selections 17 Apps for Flawless Image Correction</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elite-display-decoded-examining-samsungs-ue590-monitor-for-2024/"><u>Elite Display Decoded Examining Samsung's UE590 Monitor for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-mini-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 mini Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-10-proplus-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 10 Pro+ 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/make-every-snap-spectacular-20-top-filter-recommendations-for-2024/"><u>Make Every Snap Spectacular 20 Top Filter Recommendations for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-s17e-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo S17e without backup.</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2022-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2022) is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wire-free-wonderment-the-allure-of-m06-headphones/"><u>Wire-Free Wonderment: The Allure of M06 Headphones</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A78 5G | Dr.fone</u></a></li>
+</ul></div>
 

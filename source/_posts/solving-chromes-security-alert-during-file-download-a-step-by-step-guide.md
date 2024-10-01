@@ -1,7 +1,7 @@
 ---
 title: "Solving Chrome's Security Alert During File Download: A Step-by-Step Guide"
-date: 2024-09-17T19:12:52.240Z
-updated: 2024-09-24T23:47:59.228Z
+date: 2024-09-24T19:40:18.586Z
+updated: 2024-10-01T04:01:04.301Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 * [Change Chrome's Security Settings](https://youtube-data.techidaily.com/-enhancement-for-online-video-creators/)
 * [Temporarily Disable the Security Program](https://fox-boxes.techidaily.com/2024-approved-photography-tips-for-iphone/)
 * [Disable Virus Scanning for Downloads](https://extra-approaches.techidaily.com/updated-mobile-mastery-high-shots-with-your-smartphone/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,28 +48,29 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Download link on the VirusTotal website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-link-on-the-virustotal-website.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The website will scan the file for you. If the results show that the file contains malicious code, then Chrome was correct with its message, and you should not download the file. However, if the results show the file is safe, then it means that Chrome probably raised a false alarm.
 
 ![VirusTotal result page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virustotal-result-page.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In such a case, you can proceed with downloading the file. Unfortunately, there isn't any one-click button to ignore this message and download the file. You'll need to make a few important changes to bypass this message.
 
 ##  How to Bypass Chrome's "Failed - Virus Detection" Message
 
  Once you're reasonably sure that Chrome is raising a false alarm and the file you are trying to download is safe, then you can bypass the "Failed - Virus Detection" message to download the file to your computer. You can perform a few different workarounds to bypass this message, depending on what's causing it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  1\. Change Chrome's Security Settings
 
@@ -72,23 +80,9 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Settings option in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/settings-option-in-chrome.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the left side of the Settings page, click "Privacy and Security," then choose "Security" on the right.
 
 ![Security option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/security-option-in-chrome-settings-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Under the Safe Browsing section, select "No Protection (Not Recommended)."
 
@@ -101,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  If Chrome's security settings were responsible for the message, you should be able to download the file now. Make sure to turn Safe Browsing back on after downloading. To do that, go to the Safe Browsing section and choose "Standard Protection" or "[Enhanced Protection](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/)," depending on your security needs.
 
 ![Standard Protection option Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/standard-protection-option-chrome-settings-menu.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. Temporarily Disable the Security Program
 
@@ -118,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
  After disabling your security software, try downloading the file again. If the download succeeds, it means your security program was indeed blocking it. Make sure to re-enable your security software immediately after downloading, as leaving it disabled leaves your device vulnerable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Disable Virus Scanning for Downloads
 
  Are you still seeing the "Failed - Virus Detected" message when you try to download files through Google Chrome? If so, you might need to disable virus scanning for downloads.
@@ -131,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Typing Registry Editor in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-registry-editor-in-the-start-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Registry Editor, navigate to the following location:
@@ -146,33 +154,19 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Key Option in the Registry Option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/key-option-in-the-registry-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type **attachments** into the field to name the new key. Then, right-click the "Attachments" key, hover over "New" and choose "DWORD (32-bit) Value."
 
 ![DWORD (32-bit) Value in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dword-32-bit-value-in-the-registry-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Name the DWORD **ScanWithAntiVirus**, then double-click the "ScanWithAntiVirus" key. Type **1** in the Value data field and click "OK."
 
 ![Typing 1 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-1-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) for the changes to take effect. Upon restart, you'll be able to download the file without any problems.
 
@@ -201,5 +195,20 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-leveraging-the-power-of-visual-storytelling-in-fb-covers/"><u>[New] 2024 Approved Leveraging the Power of Visual Storytelling in FB Covers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-innovative-techniques-for-final-frame-enhancements-on-vimeo/"><u>[Updated] 2024 Approved Innovative Techniques for Final Frame Enhancements on Vimeo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>[Updated] In 2024, Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-the-dilemma-of-soundless-speakers-connected-correctly-to-your-computer-system/"><u>Addressing the Dilemma of Soundless Speakers Connected Correctly to Your Computer System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/googles-palm-2-meets-openais-gpt-4-what-sets-them-aside/"><u>Google's PaLM 2 Meets OpenAI's GPT-4: What Sets Them Aside?</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-huawei-nova-y71-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Huawei Nova Y71 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c12-plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C12 Plus Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y100 Phone with Broken Screen</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavis-no-cost-converter-transform-your-m4v-videos-into-animated-gifs-on-the-web/"><u>Movavi's No-Cost Converter: Transform Your .m4v Videos Into Animated GIFs on the Web!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailor-made-downloads-selecting-your-perfect-4k-app-for-2024/"><u>Tailor-Made Downloads Selecting Your Perfect 4K App for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221884033-aiffogg-movavi/"><u>이제는 AIFF/OGG로 바꾸기: 무료 인터넷 변환 해커를 위해 Movavi가 제공하는 가장 강력한 도구</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features"
-date: 2024-09-20T16:34:07.082Z
-updated: 2024-09-24T18:40:02.738Z
+date: 2024-09-27T06:33:41.879Z
+updated: 2024-09-30T17:08:37.836Z
 tags:
   - deals
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
  Full disk encryption isn't something everyone needs to do, but if your computer has sensitive information on it that could harm you if the drive were stolen, BitLocker is a good way to protect yourself. It's particularly useful for portable computers, since these have a much higher chance of being lost or stolen than a desktop system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Encrypt a USB Flash Drive in Windows 10 or 11
 
  If you've decided that BitLocker is the right solution for your removable drive, here's how to set it up:
@@ -54,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![A red arrow points to the 'Turn on bitlocker' option in the right-click context menu for a drive in Windows Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Wait for BitLocker to initialize the drive.
@@ -69,33 +68,19 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
 ![Bitlocker asking the user whether they want to encrypt the entire disk or only part of it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8\. Choose the encryption type, which in almost all cases should be "Compatibility Mode." This ensures that older versions of Windows can read the drive. Since we're encrypting a portable drive, this is presumably something you want. However, if you're only going to use this drive with one computer, feel free to select the newer encryption option instead.
 
@@ -117,11 +102,38 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![A right-click context menu showing the option to manage BitLocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the BitLocker management Windows, choose "Turn off BitLocker" for the drive in question.
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then simply confirm as you did when first encrypting the drive.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Third-Party Encryption Options
 
@@ -148,5 +160,23 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-full-featured-sierra-drives-files-and-more/"><u>2024 Approved Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-prime-and-twitter-most-shared-and-liked-shows-23-for-2024/"><u>Amazon Prime and Twitter Most Shared & Liked Shows, '23 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-and-share-live-to-the-max-with-4-pro-tips-on-fb/"><u>Capture and Share Live to The Max with 4 Pro Tips on FB</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-edit-suite-apps-and-devices-tools-listed/"><u>In 2024, Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-7-best-video-mergers-without-watermark/"><u>New 2024 Approved 7 Best Video Mergers Without Watermark</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-13-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-guide-to-adding-your-own-video-images/"><u>Step-by-Step Guide to Adding Your Own Video Images</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-100-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 100 without backup.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-methods-for-fixing-lost-or-unavailable-dnssddll-files/"><u>Troubleshooting Methods for Fixing Lost or Unavailable dnssd.dll Files</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor Magic 6 Lite</u></a></li>
+</ul></div>
 

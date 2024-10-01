@@ -1,7 +1,7 @@
 ---
 title: "Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11"
-date: 2024-09-21T17:10:54.837Z
-updated: 2024-09-24T20:23:27.380Z
+date: 2024-09-29T20:54:01.424Z
+updated: 2024-09-30T20:58:21.086Z
 tags:
   - desktop
 categories:
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 * [Update the Network Adapter Driver](https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/)
 * [Perform a Network Reset](https://hardware-updates.techidaily.com/effortless-install-the-ultimate-step-by-step-for-updating-your-samsung-m2070-printing-drivers/)
 * [Run a Few Commands in the Command Prompt](https://extra-hints.techidaily.com/2024-approved-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  If the internet works properly on other devices connected to the same Wi-Fi network but not your device alone, the issue may be specific to your device. In that situation, you should try the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Turn Off the VPN and Proxy Server
 
  If your VPN connection times out or the server you're trying to connect to gets overloaded, it can cause internet access issues. To check if this is the case, try toggling the VPN connection off and on again. Also, switch to a different server to see if server overload is the problem. You can also temporarily disable the VPN to determine if it's causing the connection problem.
@@ -68,20 +68,6 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
  In the Manual Proxy Setup section, click "Set Up" next to Use a Proxy Server, turn off the "Use a Proxy Server" toggle and click "Save."
 
 ![The button to set up a manual proxy on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/manual-proxy-setup-windows-11.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Disconnect Other Wi-Fi Networks
 
@@ -96,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ![Forgetting an old network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-forgetting-an-old-network-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Remove the Data Limit
@@ -108,9 +94,23 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the data usage settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/opening-the-data-usage-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To remove the set data limit, click the "Remove Limit" button and click "Remove" in the pop-up.
 
 ![Removing the data usage limit from the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-removing-the-data-usage-limit-from-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Users can also set data limits on their phones (for hotspot connections) or within their router settings. Ensure that data usage is not limited there either.
 
@@ -120,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the "Run" button next to Network and Internet. Windows will open the Get Help app, which will guide you through instructions to identify and fix the problem.
 
 ##  Ensure the IP Address Isn't Invalid
@@ -128,27 +135,20 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the additional properties of a Wi-Fi network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-opening-the-additional-properties-of-a-wi-fi-network-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Confirm that IP Assignment and DNS Server Assignment are set to "Automatic ([DHCP](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/))." If they are, you're good to go.
 
 ![Checking the IP assignment and DNS server assignment settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-checking-the-ip-assignment-and-dns-server-assignment-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you see a manual entry, click the "Edit" button, select "Automatic (DHCP)" from the dropdown menu, and then click "Save."
 
 ![Settings the DNS server assignment to automatic in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-settings-the-dns-server-assignment-to-automatic-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Update the Network Adapter Driver
 
@@ -168,22 +168,15 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the network reset settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-opening-the-network-reset-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click "Reset Now" and confirm by clicking "Yes" in the confirmation box. Then, restart your device and set up your Wi-Fi network from scratch.
 
 ![Resetting the network settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-resetting-the-network-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Run a Few Commands in the Command Prompt
@@ -191,6 +184,13 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
  If none of the previously mentioned solutions resolve the issue, run a few commands in Command Prompt to [flush the DNS cache](https://article-helps.techidaily.com/updated-in-2024-sightline-synopsis-study/), release and renew the IP address, and reset rules and network records. Type **cmd** in the Windows Search bar, and click on "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-open-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, input each of the following commands one by one and press the Enter key after adding each one:
 
@@ -217,5 +217,20 @@ ipconfig /flushdns`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-facetune-photo-enhancement/"><u>[New] The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-overview-the-world-of-independent-film-hosting-for-2024/"><u>[New] Vimeo Overview The World of Independent Film Hosting for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-wechat-photo-frame-specifications/"><u>2024 Approved WeChat Photo Frame Specifications</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bluetooth-device-not-recognized-on-windows-10-comprehensive-guide-to-solving-this-issue/"><u>Bluetooth Device Not Recognized on Windows 10 - Comprehensive Guide to Solving This Issue</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-v30-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme V30 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-airpod-connection-issue-on-microsofts-latest-operating-systems-top-strategies/"><u>Solving the AirPod Connection Issue on Microsoft's Latest Operating Systems - Top Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/supreme-session-naming-service/"><u>Supreme Session Naming Service</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-y78-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo Y78 5G.</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-data-recovery-recover-lost-data-from-xiaomi-redmi-a2-by-fonelab-android-recover-data/"><u>Xiaomi Data Recovery – recover lost data from Xiaomi Redmi A2</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Blocking Crypto Sites in Your Brave Browser Experience"
-date: 2024-09-21T21:31:37.227Z
-updated: 2024-09-24T11:17:50.795Z
+date: 2024-09-25T07:20:44.436Z
+updated: 2024-10-01T05:14:02.608Z
 tags:
   - cutting-edge
 categories:
@@ -20,18 +20,18 @@ thumbnail: https://thmb.techidaily.com/72ca63d6325a67d4b7a844299776fc3c0b1aca644
 
 Related: [What Is Cryptocurrency?](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Remove Cryptocurrency From Brave on Desktop
 
  First, open your [Brave browser](https://instagram-videos.techidaily.com/updated-2024-approved-enhancing-visual-storytelling-on-instagram-with-loops/) so we can get it cleaned up and ready to go. The options for crypto-related content are scattered throughout the browser's settings, so we'll be doing some clicking around.
 
  If you have multiple profiles set up on Brave, be aware that changes to these settings will apply only to the current profile. You'll need to repeat them for each profile.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Opt-Out of Brave Rewards and Disable Tip Buttons
 
@@ -48,6 +48,13 @@ brave://settings
  In the left-hand menu of the Settings page, click "Brave Rewards."
 
 ![Click the hamburger menu followed by "Settings"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-menu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see a list of various Rewards-related settings with toggle buttons. Toggle them all off. However, if you have remaining BAT, you may want to leave the "Auto-Contribute" settings turned on to make sure it gets distributed.
 
@@ -95,18 +102,18 @@ Related: [What Is a Crypto Wallet?](https://fox-that.techidaily.com/iphone-users
 
  Click the "X" button in the top-right corner of the Customization dialog to save your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Disable the Crypto Widgets on the New Tab Page
 
  By default, the New Tab page shows you widgets (or "cards") with your Brave Rewards stats, [token](https://instagram-video-recordings.techidaily.com/updated-the-step-by-step-for-turning-your-vids-into-beats-on-insta/) prices, and other crypto-related information. Disable them by first clicking the "Edit Cards" button below the card stack.
 
 ![Click the "Edit Cards" button on the New Tab page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-new-tab-edit-cards-button.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Several optional cards will appear. Find the ones you don't want and click the "Hide" button beneath them.
 
@@ -119,6 +126,13 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 ##  How to Hide Brave's Cryptocurrency Features on Mobile
 
  Let's walk through disabling each crypto-related feature on the Brave mobile browser one-by-one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Turn Off Brave Rewards
 
@@ -135,17 +149,16 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 ![Toggle off the ads for Brave Mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-disable-mobile.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Remove the Brave Rewards Icon From the Address Bar
@@ -154,22 +167,16 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Tap "Settings" to access the main settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-option-mobile.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll until you find the "Appearance" button under the "Display" category and tap it.
 
 ![Tap "Appearance."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-appearance-mobile.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Look for the "Hide Brave Rewards Icon" toggle and switch it on.
 
@@ -183,18 +190,18 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Go to the New Tab Page settings in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-new-tab-page-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here you'll find the toggle for "Show Sponsored Images." Switch it off to disable the ads.
 
 ![Disable sponsored images in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-disable-sponsored-images2.png) 
 
  Note that Brave will continue to show you photography and artwork on the New Tab page. If you prefer a more vanilla interface, then toggle off "Show Background Images" as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Hide the Binance Widget
 
@@ -204,27 +211,20 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Tap the three-dot icon on the new page widget on Brave.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-widget-three-dots.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to don't want the widget at all, simply select "Remove Widget." But if you want to keep your Privacy Stats or Top Sites on the New Tab page, tap "Edit Stack" instead.
 
 ![Edit the stack or remove the entire widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-widget-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you chose to edit the stack, a "Widget Stack" menu will appear. Tap and hold the three horizontal lines next to "Binance" (or any other card you want to remove). In the lower half of the menu, an "Available" area will appear where you can drag and drop the card.
 
 ![Tap and hold on the widget card you want to get rid of.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-grab-widget-card.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Drop the Binance card in the Available area.
 
@@ -249,5 +249,24 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-building-blocks-to-successful-video-editing-on-windows-8-for-2024/"><u>[New] Building Blocks to Successful Video Editing on Windows 8 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vegaspro-2019-update-changes-and-impacts/"><u>[New] VegasPro 2019 Update Changes & Impacts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lighten-your-livestreams-selecting-5-brightening-tech/"><u>2024 Approved Lighten Your Livestreams Selecting 5 Brightening Tech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-the-art-of-transforming-social-media-videos-to-gifs/"><u>2024 Approved Mastering the Art of Transforming Social Media Videos to GIFs</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-x6-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco X6 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-12plus-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 12+ 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-asus-rog-phone-7-ultimate-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Asus ROG Phone 7 Ultimate Data? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-approaches-transforming-pinner-video-links-into-audios/"><u>In 2024, Ideal Approaches Transforming Pinner Video Links Into Audios</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-using-your-arlo-home-safety-monitoring-devices/"><u>In-Depth Review of Using Your Arlo Home Safety Monitoring Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/optimal-video-sizes-on-instagram-explained-for-2024/"><u>Optimal Video Sizes on Instagram Explained for 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-hot-40-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oneplus-ace-2-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-beginners-handbook-to-mastering-winx-dvd-software/"><u>Ultimate Beginner's Handbook to Mastering WinX DVD Software</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-oneplus-open-by-fonelab-android-recover-photos/"><u>Undelete lost photos from OnePlus Open.</u></a></li>
+</ul></div>
 

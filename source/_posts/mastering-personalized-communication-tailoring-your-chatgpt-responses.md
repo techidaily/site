@@ -1,7 +1,7 @@
 ---
 title: "Mastering Personalized Communication: Tailoring Your ChatGPT Responses"
-date: 2024-09-18T16:56:55.944Z
-updated: 2024-09-24T01:08:40.642Z
+date: 2024-09-29T07:29:28.116Z
+updated: 2024-09-30T18:14:31.856Z
 tags:
   - cutting-edge
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
  We're using a popular AI text detector here as a way to demonstrate that these methods make a real difference to the text, but it's important to note that AI text-detection tools are not a reliable way to [tell if the text is AI-generated or not](https://facebook-clips.techidaily.com/in-2024-a-compreehers-path-to-aspect-ratio-mastery-in-facebook-videos/). These tools have [fundamental problems](https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/) that make them unsuitable for determining whether text is human-written. On top of this, while text may pass a detector, it might still obviously read as nonsense to a human reader. So use your own judgment on whether the humanized output is good enough for your needs or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 1: Use ChatGPT-4
 
  If you're a ChatGPT Plus subscriber, you'll have access to [GPT-4](https://extra-support.techidaily.com/new-pictorial-perfection-proven-techniques-for-stunning-photos/), which is [much more capable and sophisticated than the standard GPT 3.5 Turbo model](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/) that's on by default. Just left to its own devices, GPT-4 produces much more natural text, and in my testing using the popular GPT Zero service is much less likely to trigger a result that's confident of AI text. Here I've asked GPT-4 to write an opinion piece on why manual transmissions are better than automatic (because they are).
@@ -44,10 +37,17 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 ![Burstines and Perplexity scores for the article you're reading right now with perplexity. at 1904.558 and Burstiness at 11030.752](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-10-at-09-52-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 2: Use The "Humanize" Plugin
@@ -58,35 +58,35 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
  However, plugins are still a beta feature, and at the time of writing, the Humanize plugin seemed to have issues, although I've had good results with it in the past. There are also many other plugins in the store (with more added frequently) that promise to rephrase or otherwise humanize text for you, so have a browse of what's on offer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 3: Just Ask for Humanized Text
 
  However, you might not need that plugin at all, since you can use the magic word "Humanize" in your ChatGPT prompt, whether you're using 3.5 or version 4\. Of course, GPT-4 is much more successful on average, but you can take text generated by GPT 3.5 and ask GPT-4 to humanize it as well, or you can write your prompt to ask for humanized text, e.g. "Please write a humanized article."
 
 ![ChatGPT 4 offers to natively humanize text without a plugin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-13-00-35.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After asking GPT-4 to humanize its text, we get a full endorsement from GPT Zero, but also the actual text reads _much_ better than before.
 
 ![GPT Zero result showing confidence in full human text origin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-11-06-10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 4: Prompt Specific Author Styles
 
  Finally, another way to get more human-like output is to ask ChatGPT to emulate an author it knows or by providing it with a sample writing style. We've covered [how to make ChatGPT copy your writing style](https://solve-manuals.techidaily.com/boost-your-sites-analytics-using-our-advanced-cookiebot-technology/) in detail, so I won't repeat it all here. I'm simply going to ask ChatGPT to rewrite that first piece of text in my own writing style.
 
 ![Prompt reading "Rewrite this in the style of Sydney Butler, writer for how-to geek"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-14-07-59.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're a ChatGPT Plus subscriber, you can use the [Custom Instructions](https://facebook-video-content.techidaily.com/new-mastering-monetization-a-beginners-guide-to-facebook-revenue-for-2024/) to make permanent changes to how ChatGPT responds in every chat, as long as those instruction are active.
 
@@ -115,5 +115,18 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boost-visibility-with-customized-channel-names/"><u>[New] Boost Visibility with Customized Channel Names</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-keyword-mastery-unlocking-the-potential-of-youtube-tags/"><u>[New] Keyword Mastery Unlocking the Potential of YouTube Tags</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-slow-motions-camera-edition/"><u>[Updated] Leading Slow-Motions Camera Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-poco-m6-pro-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco M6 Pro 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-window-11s-desktop-menu-add-ons/"><u>Customizing Window 11'S Desktop Menu Add-Ons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-writing-skills-through-chatgpt-practice/"><u>Enhancing Writing Skills Through ChatGPT Practice</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/laughburst-app-for-all-humor-needs/"><u>LaughBurst App for All Humor Needs</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-yuva-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Yuva 2</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y02t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y02T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+</ul></div>
 

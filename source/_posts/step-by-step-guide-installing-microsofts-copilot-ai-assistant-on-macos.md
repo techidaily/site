@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-09-22T18:22:38.530Z
-updated: 2024-09-24T18:41:31.384Z
+date: 2024-09-25T21:36:09.000Z
+updated: 2024-10-01T07:01:13.580Z
 tags:
   - desktop
 categories:
@@ -27,31 +27,38 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
  You can save web apps in other browsers, too. In Chrome, tap the three-dot menu button, go to More Tools > Create Shortcut, check "Open as Window", and click "Create". In Edge, click the three-dot menu button and go to Apps > Install This Site as an App.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Run the Copilot iPad App on Your Mac
 
@@ -67,19 +74,6 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
 
  Click the three-dot menu button in the top right and select "Show All Tones" to change the conversation style. You can choose from Creative, Balanced, and Precise. You can access your chat history here, too.
@@ -87,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -110,5 +104,22 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt/"><u>[Updated] 2024 Approved Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-steps-to-record-your-minecraft-adventures/"><u>2024 Approved Easy Steps to Record Your Minecraft Adventures</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic5-ultimate-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic5 Ultimate Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g34-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G34 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-security-bypassing-faulty-pins-easily/"><u>Enhance Windows Security: Bypassing Faulty PINs Easily</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Data Completely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-civi-3-disney-100th-anniversary-edition-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Civi 3 Disney 100th Anniversary Edition If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-harnessing-your-cameras-power-for-live-online-content-on-personal-computers/"><u>In 2024, Harnessing Your Camera's Power for Live Online Content on Personal Computers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-soft-shots-with-top-blur-mobile-tools/"><u>In 2024, Master Soft Shots with Top Blur Mobile Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-5-best-online-tone-generators-for-you/"><u>New 2024 Approved 5 Best Online Tone Generators for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritize-wisdom-over-waste-forget-these-gpt-tools/"><u>Prioritize Wisdom over Waste: Forget These GPT Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ranking-premium-photo-and-video-shows-x-ios14/"><u>Ranking Premium Photo & Video Shows (X-IOS14)</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-se-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone SE using find my iphone</u></a></li>
+</ul></div>
 

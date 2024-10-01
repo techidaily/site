@@ -1,7 +1,7 @@
 ---
 title: Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
-date: 2024-09-17T21:47:31.439Z
-updated: 2024-09-24T23:24:29.217Z
+date: 2024-09-30T06:35:39.412Z
+updated: 2024-09-30T18:41:42.004Z
 tags:
   - cutting-edge
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [ChatGPT Can Troubleshoot and Tweak Your Formulas](https://screen-mirroring-recording.techidaily.com/2024-approved-clear-vision-in-gaming-captures-overcoming-obs-black-screens/)
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can use ChatGPT to create Excel formulas even without prior knowledge of the tool.
@@ -26,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In a fast-paced work environment, you need to maximize efficiency, and AI tools like ChatGPT can make short work of tedious tasks, such as creating Excel formulas. If you haven't yet tried ChatGPT for custom Excel formulas, you're missing out on a serious game changer.
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Get a Quick Excel Formula From ChatGPT
 
@@ -51,10 +51,10 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
@@ -65,13 +65,6 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
 Close 
@@ -80,18 +73,18 @@ Close
 
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  You Can Create Formatting Rules With ChatGPT
 
  Excel has a complex interface that makes it hard to navigate, especially for novices, and conditional formatting rules require you to poke around to figure them out. In the following example, I have a list of articles with columns that track whether they have been written and have photos.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
 
@@ -112,6 +105,13 @@ Close
  You can also use ChatGPT to identify what's causing an error. Let's say an event organizer was trying to calculate the total number of passengers from each city using a simple addition formula and encountered the #VALUE! error because they mixed text and numbers. After explaining the issue to ChatGPT, it immediately recognized the error and gave a fix accompanied by a simple explanation.
 
 Close 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
 
@@ -136,5 +136,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-dji-quadcopter-a-deep-dive-into-phantom-3/"><u>[New] DJI Quadcopter A Deep Dive Into Phantom 3</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-editing-to-sharing-youtube-mastery-with-adobe-premiere-for-2024/"><u>[New] From Editing to Sharing YouTube Mastery with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-4k-blade-camera-imaging/"><u>[New] The Ultimate Guide to 4K Blade Camera Imaging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-gradual-glide-out-technique-for-audio-in-adobe-premiere-pro/"><u>2024 Approved The Gradual Glide Out Technique for Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y200-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y200 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m54-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M54 5G Phone without Google Account?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/nintendo-switchs-ultimate-hd-gameplay/"><u>Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v14-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.4 File | Stellar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-computer-dismisses-affected-video-card/"><u>Solving: Computer Dismisses Affected Video Card</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+</ul></div>
 

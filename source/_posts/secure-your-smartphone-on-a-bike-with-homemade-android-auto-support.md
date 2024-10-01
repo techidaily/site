@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-09-18T23:56:17.349Z
-updated: 2024-09-24T18:01:31.135Z
+date: 2024-09-26T17:01:19.429Z
+updated: 2024-10-01T03:47:51.169Z
 tags:
   - mobile
 categories:
@@ -28,16 +28,10 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
@@ -45,10 +39,10 @@ Bone
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -60,10 +54,10 @@ Joe Fedewa / How-To Geek
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How It Works and What You Need
@@ -79,10 +73,10 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -106,5 +100,16 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-become-a-pro-at-mac-audio-recording-using-audacity-today/"><u>2024 Approved Become a Pro at Mac Audio Recording Using Audacity Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-extract-error-1152-in-windows-oses/"><u>Bypassing 'Extract Error 1152 in Windows OSes'</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2v-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2V without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-mixer-streams-on-macos-a-step-by-step-guide/"><u>Mastering Mixer Streams on macOS A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v16-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.6 File | Stellar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-repetitive-amd-software-malfunctions/"><u>Stop Repetitive AMD Software Malfunctions</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-itel-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Itel without backup.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide"
-date: 2024-09-21T00:04:02.428Z
-updated: 2024-09-24T21:02:44.040Z
+date: 2024-09-29T21:27:21.426Z
+updated: 2024-09-30T19:23:53.501Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 * [What is the WinRE Recovery Partition?](https://vp-tips.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today/)
 * [How to Fix the Windows Update Error 0x80070643](https://win11.techidaily.com/unlocking-dangers-hacked-fingerprints-on-windows-pcs/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The Windows Recovery Environment (WinRE) is a tool that helps you restore your system to its factory settings in case of severe system corruption.
@@ -31,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 * To fix this issue, you'll need to resize the Recovery partition using the Command Prompt.
 
  Microsoft releases updates for Windows to add new features and fix bugs in the current version. Most updates download without problems, but some can cause errors during the download. One such error is Windows update error 0x80070643, which occurs while downloading the Windows 10 KB5034441 update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Is Downloading the Windows 10 KB5034441 Update Important?
 
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
  Earlier, when the report broke about users facing this issue, Microsoft acknowledged it and said they were working on a fix. However, that hasn't panned out (yet). 
 
  They have [updated their blog](https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows-10-22h2#3231msgdesc) that discusses the error to mention that "Automatic resolution of this issue won't be available in a future Windows update. Manual steps are necessary to complete the installation of this update on devices which are experiencing this error." This means the only way for you to get rid of the problem is to perform the manual fix released by Microsoft, which is resizing the partition.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What is the WinRE Recovery Partition?
 
@@ -79,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 ![List disk command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-disk-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the disk where your operating system is installed. For example, if it is Disk 1, type **select disk 1** and hit Enter.
@@ -97,48 +104,40 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Select partition 3 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-3-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll now have to shrink the partition. For that, type **shrink desired=250 minimum=250** and hit Enter.
 
 ![Shrink command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shrink-command-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, select the Recovery partition. It will be labeled as "Recovery." For example, if it is Partition 4, type **select partition 4** and hit Enter.
 
 ![select partition 4 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-4-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **delete partition override** and hit Enter to delete the recovery partition.
 
 ![delete partition override command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-partition-override-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here's the most important step. Scroll up in your Command Prompt window and check the [disk partition style](https://facebook-video-footage.techidaily.com/updated-pro-level-gif-generation-a-critical-review/). If there's an asterisk (\*) in the GPT column of your operating system disk, it means you have GUID Partition Table (GPT) partition style. If there's no asterisk in the GPT column, then it's [MBR partition style](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/).
 
 ![Asterick mark in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asterick-mark-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your disk is GPT, type **create partition primary id=de94bba4-06d1-4d40-a16a-bfd50179d6ac** and hit Enter. Then, type **gpt attributes =0x8000000000000001** and hit Enter. If your disk is MBR, type **create partition primary id=27** and hit Enter.
@@ -154,15 +153,28 @@ Close
 ![List vol command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-vol-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type **exit** and hit Enter to exit Diskpart.
 
 ![Exit command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-command-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Re-enable the Recovery partition by typing **reagentc /enable** and hitting Enter.
 
@@ -187,5 +199,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-content-with-the-ultimate-guide-to-instagram-cover-photos-for-2024/"><u>[New] Elevate Your Content with the Ultimate Guide to Instagram Cover Photos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ace-editing-essential-10-final-cut-pro-extensions-for-2024/"><u>Ace Editing Essential 10 Final Cut Pro Extensions for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-z-flip-5-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy Z Flip 5 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leap-into-a-bigger-view-the-new-full-screen-fb-video-trend/"><u>Leap Into a Bigger View The New Full-Screen FB Video Trend</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-hd-master-converter-tool-for-windows-10-seamless-mkvavchdmp4-transformation-upload-ready-videos-for-all-devices/"><u>MacX HD Master Converter Tool for Windows 10 - Seamless MKV/AVCHD/MP4 Transformation, Upload-Ready Videos for All Devices!</u></a></li>
+<li><a href="https://solve-info.techidaily.com/troubleshooting-downloads-how-to-successfully-retrieve-abema-previously-abematv-streaming-content/"><u>Troubleshooting Downloads: How to Successfully Retrieve ABEMA (Previously AbemaTV) Streaming Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726026352378-windows/"><u>Windows フォトアプリにおけるビデオ編集不能時の解決策</u></a></li>
+</ul></div>
 

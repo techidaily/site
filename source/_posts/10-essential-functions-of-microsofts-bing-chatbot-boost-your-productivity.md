@@ -1,7 +1,7 @@
 ---
 title: "10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity"
-date: 2024-09-20T20:42:50.150Z
-updated: 2024-09-24T16:09:45.113Z
+date: 2024-09-30T06:58:21.507Z
+updated: 2024-09-30T22:28:07.632Z
 tags:
   - cutting-edge
 categories:
@@ -31,19 +31,33 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![Chrome running Bing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chrome-with-bing.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As of April 2023, Bing Chat is limited to the Microsoft Edge browser on desktop. If you're one of the millions of people that uses Google Chrome and you want to try the new Bing, you'll need to get clever. There are a couple of [workarounds you can use to get access to Bing Chat in Chrome](https://fox-info.techidaily.com/2024-approved-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/).
 
 Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.com/2024-approved-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Choose a "Personality"
 
 ![Select a conversation style.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_13-44-08.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bing Chat has three different conversation styles to choose from, and the responses you'll get will vary greatly depending on which one you use. Make sure to [choose a conversation style](https://screen-capture.techidaily.com/updated-sectionalviewpoint-investigation-for-2024/) before you submit a prompt.
 
@@ -51,32 +65,11 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 * **More Precise**: Shorter, straightforward search-focused answers.
 * **More Balanced**: Informative and friendly, somewhere between the other styles.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Generate Images With DALL-E
 
 ![Bing Chat image creation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-18_13-25-56.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There's a lot that [separates Bing Chat and ChatGPT](https://extra-skills.techidaily.com/2024-approved-step-into-virtuality-comparing-best-vr-treadmills/), but one of the big ones is the ability to [generate images with another AI tool](https://review-topics.techidaily.com/recover-excel-2013-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/) inside the text conversation. Bing uses OpenAI's DALL-E AI image generator, and it actually [has fewer limits than the official DALL-E website](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/). Using the "More Creative" conversation style, simply ask it to create an image.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Share Responses
 
@@ -97,10 +90,10 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
  You never have to settle for Bing's first response to a prompt. It can be tweaked and changed until you reach the 20-message limit, and you don't have to repeat the prompt every time. Let's say you asked for a recipe for vegetable soup, but the first response didn't include turnips. Simply follow-up by asking "add turnips to the recipe."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Wipe Bing's Memory
@@ -111,24 +104,24 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
 Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly.techidaily.com/updated-the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Bing Chat on Android and iPhone
 
 ![Tap the Bing Chat button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-19-23.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing Chat isn't limited to only the Microsoft Edge browser. The chatbot can be easily accessed on iPhone and Android with the Bing app as well. First, download the app from the [App Store](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231?at=1010l392g&ct=htg882581) or [Google Play Store](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.microsoft.bing%26hl%3Den%5FUS%26gl%3DUS&cuid=xid:fr1681838202aaa). Sign in and tap the big Bing Chat button in the toolbar to start chatting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bing Chat from the Windows Start Menu
@@ -136,6 +129,13 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 ![Click &quot;Chat&quot; in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-49-58.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
  You can initiate Bing Chat conversations from the Start Menu in Windows 11\. Simply open the Start Menu, start typing your prompt, and click the "Chat" button to send it to Bing Chat. Microsoft Edge will open directly to Bing Chat with your prompt already submitted.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Bing Chat from Microsoft Edge
 
@@ -162,5 +162,26 @@ Related: [How to Remove Bing Chat "Discover" Button in Microsoft Edge](https://s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-a-course-essential-equipment-for-youtube-enthusiasts-for-2024/"><u>[New] Charting a Course Essential Equipment for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools/"><u>[New] Exclusive Review Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[New] In 2024, Earn on TikTok Explore 8 Effective Money-Making Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhance-click-through-rates-with-good-thumbnails/"><u>[New] In 2024, Enhance Click-Through Rates with Good Thumbnails</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unmask-invisible-fb-posts-with-these-proven-effective-12-fixes-for-23/"><u>[New] Unmask Invisible FB Posts with These Proven, Effective 12 Fixes for '23</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transform-shots-to-boost-circular-vignette-features/"><u>[Updated] In 2024, Transform Shots to Boost Circular Vignette Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-favorite-collage-crafting-software/"><u>2024 Approved Android's Favorite Collage Crafting Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-professional-broadcasts-at-home-integrating-dslr-and-facebook-live/"><u>2024 Approved Professional Broadcasts at Home Integrating DSLR & Facebook LIVE</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-c22-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C22 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-13-ultra-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi 13 Ultra in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-zero-5g-2023-turbo-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Zero 5G 2023 Turbo Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-c300-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia C300 Phone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-realme-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Realme</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-trivia-challenge-for-kids-do-they-recognize-the-first-10-innovative-gizmos-of-their-time/"><u>Tech Trivia Challenge for Kids: Do They Recognize the First 10 Innovative Gizmos of Their Time?</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-motorola-moto-g04-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Motorola Moto G04.</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-nokia-130-music-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Nokia 130 Music fingerprint</u></a></li>
+</ul></div>
 

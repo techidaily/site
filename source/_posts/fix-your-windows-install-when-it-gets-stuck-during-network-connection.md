@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2024-09-19T20:30:31.063Z
-updated: 2024-09-24T21:14:07.618Z
+date: 2024-09-29T01:35:57.589Z
+updated: 2024-09-30T18:38:23.254Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 * [Use the Command Prompt to Bypass the Internet Requirement](https://vp-tips.techidaily.com/updated-2024-approved-ranking-relaxing-front-row-activities-that-arent-sports/)
 * [End the Network Connection Flow Process](https://win11.techidaily.com/tackling-blank-screen-issues-after-attempting-to-connect/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * If Windows 11 installation gets stuck at the "Let's connect to a network" screen, double-check that your internet is working. Restarting your router might fix the issue, or you can use your mobile hotspot as a temporary solution.
@@ -33,10 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  1\. Check Your Connection
@@ -55,6 +48,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
 
  When you encounter the "Let's connect you to a network" screen, you can execute the "OOBE\\BYPASSNRO" command in Command Prompt to bypass the connectivity requirement during the Windows 11 installation process. To achieve this, press Shift+F10 to launch Command Prompt while on the "Let's connect you to a network" screen.
@@ -63,16 +63,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Internet Bypass command in Command Prompt window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/internet-bypass-command.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your computer will then restart, prompting you to select your region and keyboard layout once more. Afterward, you will arrive at the network setup screen. However, this time, you will have the "I don't have internet" option available, which you can click to proceed with the Windows 11 installation process without an internet connection.
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
 
@@ -90,16 +90,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **exit** in the Command Prompt window and press Enter.
 
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
 
@@ -120,5 +126,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-color-depth-explored-windows-hdri-for-editors/"><u>[New] Color Depth Explored Windows HDRI for Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reflection-photography-tips-for-iphone/"><u>[New] Reflection Photography Tips for iPhone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-filter-frenzy-unleash-the-power-of-10-innovative-tools-for-2024/"><u>[Updated] Filter Frenzy Unleash the Power of 10 Innovative Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-boost-your-instagram-vids-visibility/"><u>[Updated] How to Boost Your Instagram Vids' Visibility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-editcanvas-solutions/"><u>[Updated] In 2024, EditCanvas Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertilo-gratuito-online-de-flac-a-aac-con-movavi/"><u>Convertilo Gratuito Online: De FLAC a AAC Con Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-mod-converter-convert-your-mod-tracks-effortlessly/"><u>Free Mod Converter: Convert Your MOD Tracks Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-tactical-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 Tactical Edition without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g24-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G24 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-u23-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock HTC U23 Phone without Any Data Loss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterclass-view-and-modify-mac-pages-documents-using-microsoft-office-suite/"><u>Masterclass: View and Modify Mac Pages Documents Using Microsoft Office Suite</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M34 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-c110-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia C110 without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-play-7t-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Play 7T.</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-infinix-hot-40i-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Infinix Hot 40i</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Downside of Touch Button Overuse: Why Companies Must Rethink Their Digital Interfaces"
-date: 2024-09-17T03:12:20.525Z
-updated: 2024-09-24T08:02:39.309Z
+date: 2024-09-26T05:09:37.436Z
+updated: 2024-10-01T06:54:12.118Z
 tags:
   - cutting-edge
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/01214d410faf08a8a9dafcfa23316cefdeb8c6caf
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
@@ -52,13 +52,6 @@ Tim Brookes / How-To Geek
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Are Touch Buttons Used So Much?
 
  When Apple ditched the physical home button in the iPhone 7, the company made the argument that capacitive designs require no moving parts. Unlike the previous Home button, the new design would in theory last much longer. There’s no mechanism, and no gaps for pocket fluff and other gunk to gum up the works.
@@ -68,10 +61,10 @@ Tim Brookes / How-To Geek
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -90,6 +83,13 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -99,10 +99,10 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -122,5 +122,23 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-double-trouble-replaying-youtube-videos-on-your-set/"><u>[Updated] Double Trouble Replaying YouTube Videos on Your Set</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-penniless-to-partnered-a-small-channels-journey/"><u>[Updated] In 2024, From Penniless to Partnered A Small Channel's Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterpieces-come-to-life-with-top-photo-frame-tools/"><u>[Updated] Masterpieces Come to Life with Top Photo Frame Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-guide-to-captivating-your-audience-on-snapchat-for-2024/"><u>[Updated] The Complete Guide to Captivating Your Audience on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rethinking-wirecast-choices/"><u>2024 Approved Rethinking WireCast Choices</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x6-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improve-wellness-with-ai-the-7-advantages-of-using-chatgpt-for-health-advice/"><u>Improve Wellness with AI: The 7 Advantages of Using ChatGPT for Health Advice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconciled-disk-controller-behavior/"><u>Reconciled Disk Controller Behavior</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-moto-g84-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Moto G84 5G</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/speedy-vimeo-videos-at-a-glance-for-2024/"><u>Speedy Vimeo Videos at a Glance for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-gionee-f3-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Gionee F3 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-images-into-webp-format-instantly-and-free-with-movavis-online-tool/"><u>Transform Images Into WebP Format Instantly and Free with Movavi's Online Tool</u></a></li>
+</ul></div>
 

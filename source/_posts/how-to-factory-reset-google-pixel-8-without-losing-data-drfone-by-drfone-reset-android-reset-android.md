@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Google Pixel 8 without Losing Data | Dr.fone
-date: 2024-09-18T20:48:10.528Z
-updated: 2024-09-24T23:15:38.891Z
+date: 2024-09-27T20:55:52.581Z
+updated: 2024-09-30T21:33:00.681Z
 tags: 
   - reset
 categories:
@@ -37,6 +37,13 @@ You'll probably already know if your phone needs a reset, but if you're unsure, 
 5. If you are selling, exchanging, or just giving your phone away. If you don’t reset it, the new user can gain access to cached passwords, personal details, and even your pictures and videos.
 
 Remember factory resetting will erase everything on your device, so it's essential that you back up anything you can't afford to lose.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Back Up Your Data Before Factory Reset
 
@@ -84,10 +91,10 @@ Also, you can watch this video to learn more details.
 After your data is safely tucked away, it's time to tackle the reset itself. There are a few different ways to reset your device and we'll look at them all in turn.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1. Using the Settings Menu To Factory Reset Your Device
@@ -104,6 +111,13 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Google Pixel 8 device resets itself.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2. Resetting Your Phone in Recovery Mode
 
 If your phone is misbehaving it might be easier to reset it via Recovery Mode. To do this you must turn your device off first.
@@ -111,13 +125,6 @@ If your phone is misbehaving it might be easier to reset it via Recovery Mode. T
 Step 1. Press and hold the Volume up button and the Power button at the same time. The phone will now boot in Recovery Mode.
 
 ![factory reset from recovery mode](https://images.wondershare.com/drfone/others/enter-recovery-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2. Use the Volume down button to choose Recovery Mode. To navigate use the Volume up button to move the arrow and the Volume down button to select.
 
@@ -246,42 +253,36 @@ If you want to hard reset your phone just to erase all its data and settings, in
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Click on the Start button to erase the data on your mobile.
 
 ![data eraser interface](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Type the key and click on "erase now".
 
 ![erase all data interface](https://images.wondershare.com/drfone/guide/android-erase-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Dr.Fone will erase all types of data on your device, and you can see the progress on your computer screen.
 
 ![erasing data progress interface](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4: [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) (when you forget password)
@@ -299,6 +300,13 @@ Most people do an **Google Pixel 8 hard reset** because they forget their screen
 
 ![device recover interface](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5: [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) (fix some software problems)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -309,6 +317,13 @@ If your phone is lagging, or you want to fix software problems, doing a factory 
 - Click on “System Repair” and select "Android Repair."
 
 ![system repair interface](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Enter the Google Pixel 8 device information with its name, model, and country.
 
@@ -391,13 +406,6 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 ![key in the code](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Then, at that point, Dr.Fone will begin deleting all data on your Google Pixel 8 phone.
 
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
@@ -406,27 +414,7 @@ Whether you intend to Change your phone/tablet or give them to somebody, you sho
 
 ![erase successful](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone-Phone Backup
 
@@ -471,24 +459,19 @@ Above are some strategies with which you can do an **Google Pixel 8 hard reset**
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-endless-creativity-free-youtube-art-resources/"><u>[New] 2024 Approved Endless Creativity FREE YouTube Art Resources</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-exclusive-content-on-twitter-no-twitting/"><u>[New] 2024 Approved Exclusive Content on Twitter - No Twitting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-frame-tools-and-websites-image-editors/"><u>[New] Innovative Frame Tools and Websites Image Editors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-microphone-data-review-tips-for-2024/"><u>[New] Microphone Data Review Tips for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-google-cardboard-vs-samsung-gear-vr/"><u>[Updated] In 2024, Google Cardboard Vs. Samsung Gear VR</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtubes-cc-for-high-quality-video-creation/"><u>[Updated] Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-latest-hit-a-guide-to-todays-top-8-online-videos-for-2024/"><u>[Updated] The Latest Hit A Guide to Today's Top 8 Online Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g-stylus-2023-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G Stylus (2023) Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-zte-blade-a73-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Blade A73 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-add-font-effects-to-videos/"><u>New 2024 Approved How to Add Font Effects to Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-digital-trailer-creation-tools-for-2024/"><u>Updated Top Digital Trailer Creation Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11/10</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-copyrights-and-creatives-uploading-tiktoks-safely-for-2024/"><u>[New] Copyrights and Creatives Uploading TikToks Safely for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-distinguished-top-5-tiny-yet-powerful-cameras/"><u>[New] In 2024, Distinguished Top 5 Tiny Yet Powerful Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-introduction-to-swift-video-streaming-on-snapchat/"><u>2024 Approved Introduction to Swift Video Streaming on Snapchat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473251034-cant-sync-your-iphone-to-icloud-here-are-9-remedies-that-could-help/"><u>Can't Sync Your iPhone to iCloud? Here Are 9 Remedies That Could Help</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-call-of-duty-wwii-error-4103-a-comprehensive-guide/"><u>Fixing Call of Duty: WWII Error 4103 – A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g73-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G73 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-13-mini-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 13 mini? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-realme-c33-2023-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Realme C33 2023 Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-x-fold-2-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo X Fold 2 without backup.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-tecno-pop-7-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Tecno Pop 7 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-a05s-by-fonelab-android-recover-photos/"><u>Undelete lost photos from A05s.</u></a></li>
 </ul></div>
 

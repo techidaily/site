@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions
-date: 2024-09-18T22:42:41.303Z
-updated: 2024-09-24T21:27:17.681Z
+date: 2024-09-26T00:28:31.231Z
+updated: 2024-10-01T01:30:56.482Z
 tags:
   - cutting-edge
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  We used the free version of ChatGPT (GPT 3.5) for illustrations throughout this piece. While it's decent, we expect you’ll get better results using the premium version of ChatGPT (GPT 4).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use ChatGPT to Analyze the Job Description
 
  First, copy and paste the entire job description for the role you’re applying for directly into ChatGPT. This will give it the inside scoop on exactly what the employer seeks. Ask ChatGPT to scan through the wording and pull out the key skills, requirements, and responsibilities that it notices.
@@ -37,10 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Job description for digital marketing manager entered in ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/job-description-for-digital-marketing-manager-entered-in-chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, I gave ChatGPT a hypothetical professional background for the next exercise. I laid out a few years of experience as a digital marketing manager at previous companies, key projects I led, big wins for clients, and all the usual résumé checklist items—just to set the table with a sample candidate profile. Armed with that, I told ChatGPT: "Based on my work history as a digital marketing manager below, do I meet the requirements for this position?" Putting it to the test to see how I'd stack up.
@@ -56,10 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![ChatGPT's response to providing additional details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-response-to-providing-additional-details.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a Resume from Scratch with ChatGPT
@@ -72,11 +65,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Screenshot of snippet of a ChatGPT-crafted resume](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/snippet-of-a-chatgpt-crafted-resume.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You Can Use ChatGPT to Strengthen Your Existing Resume
 
  If you already have a resume you want to improve, you can use ChatGPT to help you polish and optimize it. Copy and paste your resume and the job description into ChatGPT. This will give it the information that it needs to work with. Then, tell ChatGPT to scan your resume and the job description and identify the key skills and requirements the employer seeks. You can prompt it with something like: “ChatGPT, here’s my resume: \[Insert Resume\] and here’s the job description \[Insert Description\]. Now, identify the most important qualifications, skills, and requirements the employer is seeking. Then give me some tips to tweak my resume to really highlight and optimize it for those key things they want.”
 
 ![Prompting ChatGPT to refine an existing resume](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/prompting-chatgpt-to-refine-an-existing-resume.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT will dig into all that info and give you back some great pointers on little tweaks you can make, key stuff you should emphasize, or areas where you should elaborate on your experience. It can help you reshape things so your resume looks like the perfect, personalized fit for what they’ve asked for in a job listing.
 
@@ -92,28 +105,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Asking ChatGPT to determine if a resume is ATS compatible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/asking-chatgpt-to-determine-if-a-resume-is-ats-compatible.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make the changes ChatGPT suggests so everything the hiring manager cares about is clear and optimized for ATS friendliness. Do a once over yourself to polish the language and convey your awesome personality.
 
 ![ChatGPT providing recommendations on optimizing a resume for applicant tracking systems (ATS)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-suggested-tips-to-make-a-resume-ats-friendly.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -133,5 +133,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-pathway-to-running-a-product-evaluation-podcast/"><u>[New] A Beginner's Pathway to Running a Product Evaluation Podcast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhanced-engagement-with-effective-youtube-video-outros-strategies-for-2024/"><u>[New] Enhanced Engagement with Effective YouTube Video Outros Strategies for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/astering-zero-cost-online-seminars-youtube-edition/"><u>[New] Mastering Zero-Cost Online Seminars YouTube Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-essential-blueprint-for-converting-slides-into-videos/"><u>[Updated] In 2024, The Essential Blueprint for Converting Slides Into Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-lava-blaze-curve-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Blaze Curve 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-tutorial-for-converting-dvd-media-to-an-ssd-format-on-various-devices/"><u>Comprehensive Tutorial for Converting DVD Media to an SSD Format on Various Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/economical-cloud-lofting-efficient-storage-at-minimal-price/"><u>Economical Cloud Lofting Efficient Storage at Minimal Price</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-v2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic V2 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-k70-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi K70 Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rhythm-wizards-choice-online-tempo-tester-apps/"><u>Rhythm Wizards' Choice Online Tempo Tester Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-android-viruses-without-the-need-for-factory-resetting/"><u>Step-by-Step Guide: Erasing Android Viruses without the Need for Factory Resetting</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-sony-xperia-10-v-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Sony Xperia 10 V Android SIM Unlock APK</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 10</u></a></li>
+</ul></div>
 

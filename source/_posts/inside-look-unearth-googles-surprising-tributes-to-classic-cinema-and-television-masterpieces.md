@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-09-23T20:00:56.883Z
-updated: 2024-09-24T23:32:52.822Z
+date: 2024-09-29T00:01:41.044Z
+updated: 2024-09-30T18:12:58.242Z
 tags:
   - web
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  Google has several fun Easter eggs squirreled away in obscure corners of Search. But did you know that some of them reference your favorite TV shows and movies? From classics to new releases, Google’s got a bit of everything. Here are some of the best ones we’ve managed to unearth.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Hang Out With Your Favorite “Friends” Character
 
  Name a TV show with a bigger global pop culture impact than "Friends." Go on, I'll wait.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make Your Search Results Fabulous With “Legally Blonde”
@@ -69,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Recreate the Burn Book From “Mean Girls”
 
  “Mean Girls” is another classic that has been blessed with its own Google Easter egg. In the movie, the girls have a pink journal called the "Burn Book" where they write mean things about their classmates. Google plays off this by letting you create your very own Burn Book right there in search.
@@ -79,19 +79,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Kick-Start the Cordyceps Infection From “The Last of Us”
 
  If you’re in the mood for something a little more chilling and slightly disgusting, Google has something in store for you too. “[The Last of Us” was already immensely popular as a game](https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/), and it only got bigger with the TV series release.
@@ -99,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  In honor of the TV series launch, Google created an Easter egg that lets you kick-start the Cordyceps brain infection that nearly wipes out humanity. To activate it, search for **The Last of Us** or **Cordyceps**, and click the mushroom icon that appears on the bottom of your screen. This will cause stalks to sprout on your screen, and clicking multiple times will cause the infection to spread until nearly all of your screen is overrun.
 
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
 
@@ -108,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fill up Your Coin Purse With “Super Mario Bros”
 
  Another game-turned-movie whose Easter egg you should check out is Super Mario Bros. Searching for **Super Mario** or **Super Mario Bros** brings up a mystery block, and clicking it earns you coins, just like in the [iconic retro game](https://vp-tips.techidaily.com/updated-2024-approved-pixels-of-laughter-mobile-apps-transform-images/). It pays to keep clicking too, as every hundred clicks, you get rewarded with the sweet sound of an extra mushroom. 
@@ -122,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Solve Time Travel Puzzles With “Doctor Who”
@@ -138,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Unleash the Force With Baby Yoda From “The Mandalorian”
 
  These days, there's a lot of debate about the quality of the new Star Wars series, but I think "The Mandalorian" gets a pass simply for introducing us to the adorableness that is Baby Yoda.
@@ -147,13 +141,20 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Turn Half Your Search Results to Dust With Thanos’ Snap
 
@@ -174,16 +175,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
@@ -195,13 +190,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Click on the ruby slippers in the top left corner of the page to activate the Easter egg and watch as the screen spins and transports you into a different world where everything takes on a sepia tone, reminiscent of the original movie.
 
 ![A search results page in sepia tones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-in-sepia-tones.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’re ready to return to color, you can do so by clicking the tornado. A house will emerge from it, and the page will spin back to color with Dorothy's voice playing in the background.
 
@@ -224,5 +212,21 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-iphone-saving-insta-pics-and-videos/"><u>[New] In 2024, IPhone Saving Insta Pics and Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-blending-images-and-audio-for-dynamic-videos-for-2024/"><u>[Updated] Blending Images and Audio for Dynamic Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-engagement-through-effective-video-strategies-on-fb-for-2024/"><u>[Updated] Enhancing Engagement Through Effective Video Strategies on FB for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-immersive-fb-video-experienenas/"><u>[Updated] In 2024, A Step-by-Step Guide to Crafting Immersive FB Video Experienenas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-channel-upgrade-marking-chapters-in-youtube-video-files/"><u>2024 Approved Channel Upgrade Marking Chapters in YouTube Video Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-thrifty-choices-for-virtual-reality-heads/"><u>2024 Approved Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-gt-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme GT 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-12-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 12 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-sony-xperia-10-v-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Sony Xperia 10 V Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-13-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 13 Suddenly | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-infinix-smart-8-hd-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Infinix Smart 8 HD</u></a></li>
+</ul></div>
 

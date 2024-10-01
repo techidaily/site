@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dark Display Issue: Repairing a Black Screen Problem in Windows 11 Pre and Post Login"
-date: 2024-09-17T20:22:59.070Z
-updated: 2024-09-24T23:22:33.211Z
+date: 2024-09-24T07:05:41.609Z
+updated: 2024-10-01T07:24:42.192Z
 tags:
   - deals
 categories:
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
  Now that you can sign in, [troubleshoot your second monitor for connection issues](https://hardware-tips.techidaily.com/level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. Run Startup Repair
 
  Startup Repair is a Windows Recovery Environment tool that can repair common issues preventing your computer from booting. Here's how to access it:
@@ -62,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 ![Windows 11 Sign In Screen Shutdown Options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sign-in-screen-shutdown-options-1.jpg)
 * **If your computer doesn't get to the sign in screen:** Turn your computer on and immediately start pressing the F11 key until you see the recovery screen. If this doesn't work, try a different function key, as it can vary depending on the computer manufacturer. For example, other manufacturers may use F2, F8, F12, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the Choose an Option screen, click "Troubleshoot."
 
 ![Choose an Option Windows Recovery Environment Troubleshoot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/choose-an-option-windows-recovery-environment-troubleshoot.png) 
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
  Next, click "Advanced Options."
 
 ![Windows 11 Recovery Menu Troubleshoot Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-troubleshoot-screen-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finally, click "Startup Repair."
 
@@ -95,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Recovery Menu Uninstall Quality Updates Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-uninstall-quality-updates-screen-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  5\. Perform a System Restore
 
  If you determine a newly installed software or driver to have triggered the blank screen, try to [perform a system restore using an existing restore point](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/). This relies on you having created a system restore point previously. Since you are unable to log in, use the System Restore option available in the System Recovery Environment.
@@ -113,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
  In the System Restore dialog, click "Next."
 
 ![Windows 11 Recovery Menu System Restore Initial Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-system-restore-intial-screen-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next page shows all the restore points available. Select the most recent restore point and click "Scan for affected programs."
 
@@ -126,23 +133,9 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows Select System Restore Point Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-select-system-restore-point-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the restore point confirmation screen, click "Finish." System Restore informs that once started, it cannot be interrupted, and also, you won't be able to undo the restoration. Click "Yes" to continue.
 
 ![Windows 11 Recovery Menu System Restore Finish Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-system-restore-finish-option-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  System Restore will restart your computer and initialize the process. This process may take a few minutes to complete, so wait until your computer boots normally. If it fails, try again with a different restore point.
 
@@ -159,33 +152,32 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 ![Windows 11 Recovery Menu Startup Settings Restart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-startup-settings-restart-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press 5 on your keyboard to "Enable Safe Mode with Networking." Your computer will now restart with Safe Mode enabled, then sign in with your account password if prompted.
 
 ![Windows Recovery Menu Startup App Settings Enable Safe Mode With Networking Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-recovery-menu-startup-app-settings-enable-safe-mode-with-networking-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once in Safe Mode, you are ready to perform additional troubleshooting steps. First, try to [disable startup programs](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/) to see if that helps. Another common reason for a black screen is a bad GPU driver. Fortunately, it's easy to [recover from a bad graphics driver update](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/) using the rollback driver option in Device Manager.
 
 ![Windows 11 in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-in-safe-mode.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Fix a Black Screen That Appears After You Log In
 
@@ -207,19 +199,45 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 WinX Menu With Device Manager Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-winx-menu-with-device-manager-option-1.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Device Manager, expand the "Display adapters" section. If you are using a laptop with a dedicated GPU, you'll see multiple GPU devices listed here. Right-click on your display adapter and choose "Uninstall device."
 
 ![Windows 11 Device Manager Display Adapters Options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-device-manager-display-adapters-options-1.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the prompt, select "Attempt to delete driver for this device", then click "Uninstall." As Device Manager uninstalls your display driver, your screen may go blank momentarily and restore to normal afterward.
 
 ![WIndows 11 Device Manager Uninstall Display Adapter With Driver](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-device-manager-uninstall-display-adapter-with-driver-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the driver is uninstalled, in Device Manager, right-click on "Display adapters" and select "Scan for hardware changes." Windows will scan your computer for connected hardware and reinstall the necessary display driver.
@@ -243,5 +261,20 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/nderstanding-and-mastering-video-content-on-yt-shorts-for-2024/"><u>[New] Understanding and Mastering Video Content on YT Shorts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insightful-advice-for-an-unhindered-instagram-experience/"><u>[Updated] Insightful Advice for an Unhindered Instagram Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-investigating-changes-over-time-in-windows-movie-maker/"><u>[Updated] Investigating Changes Over Time in Windows Movie Maker</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-a-novices-guide-to-making-unforgettable-snaps-on-snapchat/"><u>2024 Approved A Novice's Guide to Making Unforgettable Snaps on Snapchat</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>2024 Approved Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-15-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-play-7t-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Play 7T</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-flip-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Flip Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20-proplus-video-recovery-recover-deleted-videos-from-tecno-spark-20-proplus-by-fonelab-android-recover-video/"><u>Tecno Spark 20 Pro+ Video Recovery - Recover Deleted Videos from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-a05s-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy A05s.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2024-09-21T00:39:58.485Z
-updated: 2024-09-24T16:50:29.140Z
+date: 2024-09-25T22:44:16.971Z
+updated: 2024-09-30T17:24:56.579Z
 tags:
   - cutting-edge
 categories:
@@ -62,29 +62,29 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  This effectively turns the social graph each Web2 social media company controls into a moat that they use to keep you there. If you want to go to a different platform, you have to start all over again, building a following and creating and sharing content.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Benefits of DeSo Built with an Open Social Graph** 
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Control** 
 
  Control is a major factor and point of difference between Web2 legacy social media and the Web3 version. All this newfound power can be overwhelming given the plethora of new opportunities and possibilities when working in this paradigm. The question in DeSo becomes how we balance the control and power we gain with DeSo with the ease of use and convenience of the applications we have grown accustomed to using.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Insight** 
 
@@ -97,10 +97,10 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  An open social graph allows for a social media experience that more closely resembles the native Web3 multiverse where things can connect with each other. The ability to move your friends list is quite a big change in how we understand social graphs. DeSo allows a future of social media that is not a unique universe or walled garden, but is a multiverse where things can talk to each other and interact in multi-faceted ways.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Choose Your Front-End** 
@@ -113,16 +113,16 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Case Study: Lens Protocol, An Open Social Graph** 
 
 ![Lens Protocol](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-05-at-1.51.56-PM.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Lens Protocol](https://lens.xyz/)_
 
@@ -139,16 +139,10 @@ _[Lens Protocol](https://lens.xyz/)_
  Lens leverages the modular method for allowing an ecosystem of apps to build without having to worry about the backend and underlying technology. This frees up developers and designers to focus on the user experience and front end. Builders can bypass the heavy lift of creating network effects and bootstrapping a network, offering them a chance to streamline their efforts for creating real value for the end users. Furthermore, modular design allows for an infinitely expanding amount of use cases and features that interact and layer on top of one another that goes beyond platforms like Facebook and Twitter.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Where Do We Go From Here?** 
@@ -176,5 +170,22 @@ _[Lens Protocol](https://lens.xyz/)_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-blurry-to-sharp-mastering-vce-version-22/"><u>[New] From Blurry to Sharp Mastering VCE Version 2.2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-edge-6-solutions-for-audiovisual-translation/"><u>2024 Approved Cutting-Edge 6 Solutions for Audio/Visual Translation</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-s23-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy S23 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-realme-gt-5-240w-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Realme GT 5 (240W).</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-v2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic V2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50-gt-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50 GT Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-s23plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel S23+ Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Vivo Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/illuminate-focus-through-the-use-of-leading-lines-in-iphone-photography/"><u>Illuminate Focus Through the Use of Leading Lines in iPhone Photography</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-c51-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C51 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplify-images-remove-the-environmental-elements/"><u>Simplify Images Remove the Environmental Elements</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-steps-fixing-a-non-functional-samsung-blu-ray-player/"><u>Troubleshooting Steps: Fixing a Non-Functional Samsung Blu-Ray Player</u></a></li>
+</ul></div>
 

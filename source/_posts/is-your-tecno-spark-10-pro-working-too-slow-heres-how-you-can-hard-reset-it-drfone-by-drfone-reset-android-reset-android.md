@@ -1,7 +1,7 @@
 ---
 title: Is your Tecno Spark 10 Pro working too slow? Heres how you can hard reset it | Dr.fone
-date: 2024-09-20T22:08:01.016Z
-updated: 2024-09-24T19:38:38.336Z
+date: 2024-09-24T01:01:14.293Z
+updated: 2024-09-30T18:44:19.618Z
 tags: 
   - reset
 categories:
@@ -47,6 +47,13 @@ _reboot bootloader using adb_
 - Now Press the Volume Up + Power key for a few seconds to enter recovery mode.
 - Press and hold the Power and Volume Up buttons at the same time until the Tecno Spark 10 Pro device vibrates. Release all the presses if the Tecno Spark 10 Pro logo or Recovery screen shows.
 - You can give your phone up to 30 seconds to display the recovery screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips
 
@@ -99,13 +106,6 @@ Launch Dr.Fone on your PC and choose "Phone Backup" from the list of options.
 Then, connect your Tecno Spark 10 Pro phone to the computer using a USB cord. Please ensure that the phone is in USB debugging mode. If your Tecno Spark 10 Pro version is 4.2.2 or higher, a pop-up window on the Tecno Spark 10 Pro phone will prompt you to accept USB Debugging. Please press the OK button.
 
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To begin backing up the data on your Tecno Spark 10 Pro phone, click Backup.
 
@@ -172,13 +172,6 @@ The [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/and
 Before formatting your device, you have to keep in consideration Google's Factory Reset Protection (FRP) feature. This is a security feature in Android phones that prevents unauthorized use of devices. FRP makes sure that only the owner of the Google account signed into the Tecno Spark 10 Pro device can perform a factory reset on it. If you have forgotten your Google account password, reset it in advance so you can format your phone. Note that you have to wait for 72 hours after changing your Google account's password before formatting a linked phone.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Factory Reset Tecno Spark 10 Pro
 
@@ -258,6 +251,13 @@ One of the go-to methods for factory resetting a locked Tecno Spark 10 Prophone 
 
 ![confirm the wipe data process](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Via Find Device
 
 Xiaomi offers a "Find Device" option, using which you can learn to **factory reset your Tecno Spark 10 Prophone without a password** using your Tecno Spark 10 Proaccount. Note that for this process to work, you will require an active internet connection and a signed-in Tecno Spark 10 Proaccount on your phone. Then, you can perform the following steps to wipe data from your Tecno Spark 10 Prophone:
@@ -270,6 +270,13 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Using ADB Fastboot Tools
 
 The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB commands quickly and easily. The app comes with a range of beneficial tools that can help you wipe all data from your phone. Following is a step-by-step guide on **how to reset Tecno Spark 10 Prophone when locked** using the ADB Fastboot Tools:
@@ -278,6 +285,13 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 
 ![enable fastboot on mi phone](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Use a USB cable to attach your Tecno Spark 10 Prophone to your computer and launch the Xiaomi ADB Fastboot Tools application.
 
 **Step 3:** The app will automatically detect and display the information regarding your Tecno Spark 10 Prophone at the top-left corner of the screen.
@@ -285,13 +299,6 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 **Step 4:** Under the "Wiper" section in the app, click on "Wipe cache and user data" to reset your locked Tecno Spark 10 Prophone.
 
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
 
@@ -302,13 +309,6 @@ If you are searching for a reliable way to reset your Tecno Spark 10 Prophone wi
 Launch Dr.Fone's Repair Toolkit on your computer. From the "Home" tab in the main interface, click on "Screen Unlock." Now attach your phone to the computer using a USB cable and click on "Unlock Android Screen."
 
 ![opt for screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2: Enable Tecno Spark 10 ProDownload Mode**
 
@@ -348,13 +348,6 @@ If this method does not work, you can wait for the battery to drain fully from y
 
 Tecno Spark 10 Prois a famous brand that serves a large number of consumers worldwide. If you are also a Tecno Spark 10 Prouser, you now know **how to factory reset your Tecno Spark 10 Prophone without a password** owing to the in-depth guide mentioned above. Using these easy methods, such as Dr.Fone for resetting your device, can help save you a great deal of trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## All About Factory Reset, What Is It and What It Does to Your Tecno Spark 10 Pro?
 
 _I bought a new phone and want to sell my old Tecno Spark 10 Pro 3, so I need to clear my data off it. Can someone guide me on how to factory reset the Tecno Spark 10 Pro 3 so I can sell it?_
@@ -364,6 +357,13 @@ As we all know, force restart and even factory reset can resolve many problems o
 Therefore, we have gathered all that you need to know about a factory reset. After going through this article, you can **factory reset Tecno Spark 10 Pro** phones. So, keep following to resolve your Tecno Spark 10 Pro issues.
 
 ## Part 1: What is Tecno Spark 10 Pro Factory Reset?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Principles of Tecno Spark 10 Pro Factory Reset
 
@@ -385,30 +385,23 @@ Now is the right time to **factory reset Tecno Spark 10 Pro** when you have ever
 
 ![reset options](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Go to System and tap the "Erase all data" option.
 
 ![system](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-2.jpg)
 
 ![erase all data](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Note: After tapping this, the following page will allow you to see what will be cleaned from the Tecno Spark 10 Pro device. Make sure everything is covered in your backup.
 - Pick whether you need to delete any downloaded SIMs and tap Erase all data.
 
 ![factory reset](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - You might need to enter your password to complete the reset.
 
@@ -434,6 +427,13 @@ You can use Dr.Fone Data Eraser to reset your Tecno Spark 10 Pro phone within mi
 
 ![data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Connect your Tecno Spark 10 Pro and PC using a connector. Please make sure that USB Debugging is on in your Tecno Spark 10 Pro.
 
 ![connect your Tecno Spark 10 Pro](https://images.wondershare.com/drfone/guide/android-erase-01.png)
@@ -449,6 +449,13 @@ You can use Dr.Fone Data Eraser to reset your Tecno Spark 10 Pro phone within mi
 - Then, at that point, Dr.Fone will ask you to click the Factory Reset option on your Tecno Spark 10 Pro. You can also select "Erase All Data" to reset your Tecno Spark 10 Pro.
 
 ![erased successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
@@ -468,19 +475,6 @@ As we mentioned before, we recommend you back up your files before a factory res
 - After the connection, select the File types you need to upload. Of course, Dr.Fone has checked all the document types for you. Then click on backup to begin the process. It will require a short time. Kindly don't detach your Tecno Spark 10 Pro nor use it during the backup.
 
 ![choose file types](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - After the backup is finished, you can tap on the "View the Backup" button to see what's in the document.
 
@@ -506,18 +500,24 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-essential-finds-critical-6-fb-lite-downloads/"><u>[New] Essential Finds Critical 6 FB Lite Downloads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cracking-the-code-methods-for-seeing-whom-liked-and-saved-your-instagram-photosvideos/"><u>Cracking the Code: Methods for Seeing Whom Liked and Saved Your Instagram Photos/Videos</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-a1-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A1 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-12-proplus-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 12 Pro+ 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-huawei-p60-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Huawei P60</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-gt-neo-5-se-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme GT Neo 5 SE FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterpiece-makers-exceptional-android-collage-apps/"><u>Masterpiece Makers – Exceptional Android Collage Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/one-click-bavarder-for-chatgpt-on-linux/"><u>One Click Bavarder for ChatGPT on Linux</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-moto-g14-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Moto G14</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>[New] Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-youtube-membership-options-wisely/"><u>2024 Approved Navigating YouTube Membership Options Wisely</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-address-random-internet-visits-appearing-under-iphone-usage-screen-time/"><u>Guide to Address Random Internet Visits Appearing Under iPhone Usage Screen Time</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-top-iphone-apps-from-productivity-to-entertainment/"><u>In 2024, Discover the Top iPhone Apps From Productivity to Entertainment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>In 2024, How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/meet-el-capitan-hpes-latest-blades-boosted-by-amd-instinct-mi300a-set-to-dominate-global-speed-rankings-this-year/"><u>Meet El Capitan: HPE's Latest Blades Boosted by AMD Instinct MI300A, Set to Dominate Global Speed Rankings This Year</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/optimizing-vr-video-quality-during-live-gaming-for-2024/"><u>Optimizing VR Video Quality During Live Gaming for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/professional-design-ultimate-free-bootstrap-vue-admin-theme-and-elegant-paper-style/"><u>Professional Design, Ultimate Free Bootstrap Vue Admin Theme, and Elegant Paper Style.</u></a></li>
+<li><a href="https://techidaily.com/remove-xiaomi-lock-screen-without-passwordxiaomi-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi Lock Screen without Password(Xiaomi )</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wbk-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wbk file documents online</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-process-of-selecting-the-right-smart-tv/"><u>The Process of Selecting the Right Smart TV</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oneplus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from OnePlus</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-galaxy-a05s-by-fonelab-android-recover-music/"><u>The way to get back lost music from Galaxy A05s</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-note-30-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Note 30 without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a15-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A15 4G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-5g-music-recovery-recover-deleted-music-from-vivo-t2-5g-by-fonelab-android-recover-music/"><u>Vivo T2 5G Music Recovery - Recover Deleted Music from Vivo T2 5G</u></a></li>
+<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-12-pro-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 12 Pro?</u></a></li>
 </ul></div>
 

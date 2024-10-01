@@ -1,7 +1,7 @@
 ---
 title: How to Soft Reset Xiaomi Redmi Note 12 4G phone? | Dr.fone
-date: 2024-09-21T01:33:39.240Z
-updated: 2024-09-25T01:05:23.875Z
+date: 2024-09-28T18:29:59.066Z
+updated: 2024-09-30T20:32:58.926Z
 tags: 
   - reset
 categories:
@@ -102,23 +102,9 @@ The Best Tool for factory reset Xiaomi Redmi Note 12 4G Phone When Locked
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. How to Reset Xiaomi Redmi Note 12 4G Phone at Normal Cases?
 
 In normal situations, the Xiaomi Redmi Note 12 4G phones can be reset using the settings menu or the Android Factory Reset code. Both these methods and their guide to getting the process done are listed below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Reset Xiaomi Redmi Note 12 4G phones through the Phone Settings menu
 
@@ -164,13 +150,6 @@ Most people **hard reset Xiaomi Redmi Note 12 4G** because they forgot the lock 
 
 If your Xiaomi Redmi Note 12 4G works slowly, such as taking time when you open any app, you can use a hard reset to fix this problem. When you are using a smartphone, you can easily find out if it's working slower or not. If your device takes time to load games or shows lag when you watch videos, you can do a hard reset to clear its storage. When you **reset Xiaomi Redmi Note 12 4G**, you clear its storage and cache, which helps your device work faster. It also removes junk files from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3: Constant Crashes
 
 Suppose your phone constantly crashes for no reason at all. Chances are that there is some problem with its software or new updates. When your device crashes, the screen gets stuck for some seconds before it automatically recovers. If it happens once in a while, then it is not a big problem. But, if it happens constantly, then you will need to fix your device before it gets even worse. An **Xiaomi Redmi Note 12 4G hard reset** reverts it to its factory settings by deleting all data, personalization, settings, and updates. Doing so removes any type of threat and bug from your device.
@@ -190,25 +169,11 @@ The fastest way to hard reset Xiaomi Redmi Note 12 4G is to use the factory rese
 - Next, select the "Erase Everything" option and enter your phone's password.
 - Your device will automatically reboot after the factory reset is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2: Enter Recovery Mode
 
 You can **hard reset Xiaomi Redmi Note 12 4G** by entering the recovery mode if you forgot your phone's password. You can use this method in case your device is locked, and you can't reach the settings menu to do a simple factory reset. It also helps if your phone is stuck at the boot logo and keeps rebooting. You will lose all your data with a hard reset from recovery mode. Only do a hard reset if you know your Google account and password. Because after the reset is complete, the system will ask you to unlock FRP. Here are the steps to hard reset your Xiaomi Redmi Note 12 4G with recovery mode.
 
 ![power and volume down keys](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-hard-reset-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Power off your Xiaomi Redmi Note 12 4G with the power key, and make sure that you have at least 50% battery backup.
 - Next, hold the volume down + power keys at the same time till the Xiaomi Redmi Note 12 4G logo appears on the screen.
@@ -224,10 +189,23 @@ If you want to permanently wipe all data and settings from your Xiaomi Redmi Not
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Data Eraser (Android)](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
@@ -257,6 +235,13 @@ Hard Reset Oppo A37 Without Any Hassle!
 
 ![erase data confirmation](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Once the process ends, Dr.Fone will ask you to tap on the "Factory Reset" option on your smartphone. It will erase all settings and complete the factory reset.
 
 ![data erased](https://images.wondershare.com/drfone/guide/android-erase-05.png)
@@ -280,6 +265,13 @@ Performing a factory reset on your phone is a significant step as it wipes all e
 ### 1\. Performing a Full Wipe
 
 Sometimes, erasing all data on your phone is an evident need. If you want to delete all apps on your phone or restore them to factory settings, a direct factory reset provides a simple solution for this.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Forgotten Passwords
 
@@ -310,19 +302,6 @@ The [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/and
 Before formatting your device, you have to keep in consideration Google's Factory Reset Protection (FRP) feature. This is a security feature in Android phones that prevents unauthorized use of devices. FRP makes sure that only the owner of the Google account signed into the Xiaomi Redmi Note 12 4G device can perform a factory reset on it. If you have forgotten your Google account password, reset it in advance so you can format your phone. Note that you have to wait for 72 hours after changing your Google account's password before formatting a linked phone.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Factory Reset Xiaomi Redmi Note 12 4G
 
@@ -398,6 +377,13 @@ One of the go-to methods for factory resetting a locked Xiaomi Redmi Note 12 4Gp
 
 ![choose wipe data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Press the Power button again on the "Wipe All Data" option and do the same on the "Confirm" option. After the resetting process is complete, select the "Back to Main Menu" option and reboot your device.
 
 ![confirm the wipe data process](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-11.jpg)
@@ -410,15 +396,22 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 
 ![proceed with find device](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Click on the "Find Device" option and select your phone from the screen's upper-right corner. Next, tap on "Erase Data" and confirm the process to erase all data from your device.
 
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Using ADB Fastboot Tools
@@ -436,6 +429,19 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 **Step 4:** Under the "Wiper" section in the app, click on "Wipe cache and user data" to reset your locked Xiaomi Redmi Note 12 4Gphone.
 
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
 
@@ -499,18 +505,24 @@ Xiaomi Redmi Note 12 4Gis a famous brand that serves a large number of consumers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-chasing-profit-on-platforms-youtube-partner-application-steps/"><u>[Updated] 2024 Approved Chasing Profit on Platforms YouTube Partner Application Steps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-insights-bridging-obs-and-facebook-live-streaming/"><u>2024 Approved Expert Insights Bridging OBS and Facebook Live Streaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-crimson-display-issue-overcoming-the-notorious-red-screen-glitch/"><u>Fixing The Crimson Display Issue - Overcoming the Notorious Red Screen Glitch!</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-g2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo G2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-m6-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-70-lite-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor 70 Lite 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-quest-for-enchanted-speech-is-the-magic-app-real-uncover-other-pathways-for-2024/"><u>The Quest for Enchanted Speech Is the Magic App Real? Uncover Other Pathways for 2024</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-art-of-iphones-upside-down-photos/"><u>Unlocking the Art of iPhone's Upside-Down Photos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-laughter-loops-in-musical-landscape/"><u>[Updated] Laughter Loops in Musical Landscape</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-why-av1-matters-enabling-it-for-youtube-videos/"><u>[Updated] Why AV1 Matters Enabling It for YouTube Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-low-lag-techniques-for-efficient-screen-snaps/"><u>2024 Approved Best Low-Lag Techniques for Efficient Screen Snaps</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/enable-dark-viewing-modes-on-facebook/"><u>Enable Dark Viewing Modes on Facebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fix-guide-addressing-compatibility-and-functionality-flaws-of-the-realtek-rtl8723be-driver/"><u>Fix Guide: Addressing Compatibility and Functionality Flaws of the Realtek RTL8723BE Driver</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-c67-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme C67 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-aeious-ny-portable-solar-generator-evaluation-ideal-for-delicate-medequip-with-pure-sine-wave-technology/"><u>In-Depth Aeious Ny Portable Solar Generator Evaluation: Ideal for Delicate MedEquip with Pure Sine Wave Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-dvd-regionskonvertierung-unter-windows-10-8-7-herstellen-sie-ihre-filme-ohne-beschrankungen/"><u>Kostenlose DVD-Regionskonvertierung Unter Windows 10, 8, 7 - Herstellen Sie Ihre Filme Ohne Beschränkungen</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Max Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-moto-g34-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Moto G34 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-edge-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Edge 2023 without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x-flip-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X Flip Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-affordable-4k-displays-of-2024-best-picks/"><u>Top Affordable 4K Displays of 2024: Best Picks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-selection-of-excellent-5k-displays-ranked-8-for-2024/"><u>Ultimate Selection of Excellent 5K Displays - Ranked #8 for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-printer-software-hp-laserjet-pro-m428fdw-driver-supported-by-win7-10-and-11/"><u>Update Your Printer Software: HP LaserJet Pro M428fdw Driver Supported by Win7, 10, & 11</u></a></li>
 </ul></div>
 

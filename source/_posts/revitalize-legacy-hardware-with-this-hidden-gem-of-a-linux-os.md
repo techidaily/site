@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-09-23T19:56:52.499Z
-updated: 2024-09-24T16:50:55.281Z
+date: 2024-09-23T21:32:52.655Z
+updated: 2024-09-30T21:03:44.763Z
 tags:
   - desktop
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
 
 ##  How to Install Xubuntu
@@ -60,10 +53,10 @@ Close
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Put to the Test: Xubuntu on an Old Laptop
@@ -71,10 +64,10 @@ Close
  I tested Xubuntu and Ubuntu one by one on this machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Running Xubuntu
@@ -87,6 +80,13 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Running Ubuntu
 
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
@@ -94,10 +94,10 @@ Close
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
@@ -135,5 +135,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-creating-impactful-content-20-vlog-ideas/"><u>[Updated] 2024 Approved Creating Impactful Content 20 Vlog Ideas</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unseen-sonic-scribes-best-kept-mobile-voice-loggers-list/"><u>[Updated] 2024 Approved Unseen Sonic Scribes Best-Kept Mobile Voice Loggers List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-missing-or-corrupt-ac1st16dll-error-on-your-computer/"><u>Fixing 'Missing or Corrupt' ac1st16.dll Error on Your Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-12-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus 12 Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f15-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F15 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>In 2024, How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 13 and iPad</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone X | Stellar</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-software-without-watermark/"><u>Updated In 2024, Free Video Editing Software Without Watermark</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone SE? | Stellar</u></a></li>
+</ul></div>
 

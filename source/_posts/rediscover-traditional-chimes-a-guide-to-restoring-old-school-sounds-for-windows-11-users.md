@@ -1,7 +1,7 @@
 ---
 title: "Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users"
-date: 2024-09-18T17:44:15.982Z
-updated: 2024-09-24T23:33:30.688Z
+date: 2024-09-26T01:14:17.358Z
+updated: 2024-10-01T03:14:25.731Z
 tags:
   - deals
 categories:
@@ -18,16 +18,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -37,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * To change the system sounds, open the sound settings, pick the Windows event, and switch it with the appropriate one in the sound pack.
 
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Get Sound Packs of Old Windows Sounds
 
@@ -61,10 +62,10 @@ Close
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Change System Sounds in Settings
@@ -72,13 +73,6 @@ Close
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
 
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
 
@@ -107,10 +101,10 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
@@ -140,5 +134,24 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-quick-youtube-comment-removal-techniques/"><u>[New] Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-exploring-and-locating-videos-on-facebook-platform-for-2024/"><u>[Updated] Exploring and Locating Videos on Facebook Platform for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-sierras-complete-access-to-cloud-documentationdrive/"><u>[Updated] In 2024, Sierra's Complete Access to Cloud Documentation/Drive</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[Updated] The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726225613568-m4aavi-movavi/"><u>无限制在线将音频文件从M4A改为AVI格式的转换器 - 利用Movavi功能</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-14-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-action-astral-image-repair-set/"><u>Quick Action: Astral Image Repair Set</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-v29-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo V29 on Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sound-syncing-simplified-for-inshot-edits-for-2024/"><u>Sound Syncing Simplified for InShot Edits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/tailoring-your-video-sessions-with-zoom-on-youtube-platform-for-2024/"><u>Tailoring Your Video Sessions with Zoom on YouTube Platform for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-powershot-companion-elph-190/"><u>The Ultimate PowerShot Companion: ELPH 190</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-moto-g14-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Moto G14</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-motorola-moto-g34-5g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Motorola Moto G34 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Infinix</u></a></li>
+</ul></div>
 

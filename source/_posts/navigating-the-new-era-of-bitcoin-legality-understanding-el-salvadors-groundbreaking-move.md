@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2024-09-21T00:09:57.131Z
-updated: 2024-09-24T07:00:31.909Z
+date: 2024-09-30T02:27:23.530Z
+updated: 2024-10-01T01:21:41.826Z
 tags:
   - cutting-edge
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  The government created a $30 incentive available to anyone who downloads the app and enrolls. Keep in mind that $30 is a decent amount of money for many citizens, and is equal to approximately [0.7% of per capita annual income in El Salvador](https://www.statista.com/statistics/1070121/gross-national-income-per-capita-el-salvador/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Data Shows Adoption Is Low and Stalled** 
 
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
@@ -57,10 +50,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ![What Share of businesses accept bitcoin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/What-Share-of-businesses-accept-bitcoin.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
@@ -70,6 +63,13 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ## **Chivo App** 
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -86,21 +86,22 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  Anecdotal evidence suggests that the app is used by a subset of the population like street vendors as a cash replacement because it's convenient for small peer-to-peer payments. This functionality is actually what is most used within the Chivo Wallet because you can use the app like Venmo and quickly send US dollars from person to person without any exposure to Bitcoin.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Lack of Trust & Privacy Are Deterrents** 
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -127,22 +128,21 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  For many El Salvadorans, this is the first time they have encountered the ability to have banking services like a savings account. Many report using the Bitcoin account as their savings account and their US dollar account as their checking account. Increasing access to banking services and financial inclusion is one major positive outcome of this policy shift.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Lessons Learned** 
 
 ![Changes in Use of Cash and Cards Charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Changes-in-Use-of-Cash-and-Cards.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -165,5 +165,24 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-comparing-splitcams-features-with-industry-leaders/"><u>[Updated] 2024 Approved Comparing SplitCam's Features with Industry Leaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques-for-2024/"><u>[Updated] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>2024 Approved Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-quick-access-to-hidden-past-reddit-posts-and-articles/"><u>2024 Approved Quick Access to Hidden, Past Reddit Posts and Articles</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-zero-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Zero 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-s17-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo S17 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-razr-40-ultra-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Razr 40 Ultra Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elite-selection-of-portable-gaming-computers-reviewed-and-ranked/"><u>Elite Selection of Portable Gaming Computers Reviewed and Ranked</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-8t-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 8T 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-11-pro-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 11 Pro without Apple Account</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llm-specialists-near-you-weighing-pros-and-cons-for-your-legal-needs/"><u>LL.M. Specialists Near You: Weighing Pros and Cons for Your Legal Needs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-battery-usage-on-windows-10-tips-and-tricks-from-the-power-and-sleep-journal/"><u>Mastering Battery Usage on Windows 10: Tips and Tricks From the Power & Sleep Journal</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-mwav-driver-windows-installation-tips/"><u>Steinberg MWAV Driver - Windows Installation Tips</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-note-12-pro-4g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi Note 12 Pro 4G on Windows?</u></a></li>
+</ul></div>
 

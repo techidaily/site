@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently"
-date: 2024-09-21T22:39:57.997Z
-updated: 2024-09-24T16:37:55.710Z
+date: 2024-09-28T20:35:34.860Z
+updated: 2024-10-01T04:18:00.535Z
 tags:
   - desktop
 categories:
@@ -37,11 +37,25 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Windows Update Error 0x80070643](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-update-error-0x80070643.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft clearly states that if your system doesn't have a Recovery partition, you don't need to download the KB5034441 update and you can ignore this error. However, if your system does feature a Recovery partition, it's important for you to download the update and, unfortunately, Microsoft isn't going to release an automatic fix that will solve the 0x80070643 error.
 
  Earlier, when the report broke about users facing this issue, Microsoft acknowledged it and said they were working on a fix. However, that hasn't panned out (yet). 
 
  They have [updated their blog](https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows-10-22h2#3231msgdesc) that discusses the error to mention that "Automatic resolution of this issue won't be available in a future Windows update. Manual steps are necessary to complete the installation of this update on devices which are experiencing this error." This means the only way for you to get rid of the problem is to perform the manual fix released by Microsoft, which is resizing the partition.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What is the WinRE Recovery Partition?
 
@@ -55,14 +69,14 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Windows RE status in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-re-status-in-command-prompt.jpg) 
 
- For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
 
 ##  How to Fix the Windows Update Error 0x80070643
 
@@ -74,33 +88,20 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Diskpart command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diskpart-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Execute the **list disk** command to list all the disks.
 
 ![List disk command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-disk-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the disk where your operating system is installed. For example, if it is Disk 1, type **select disk 1** and hit Enter.
 
 ![Select disk command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-disk-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type **list partition** to list the partitions on the disk.
 
@@ -114,31 +115,38 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Shrink command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shrink-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, select the Recovery partition. It will be labeled as "Recovery." For example, if it is Partition 4, type **select partition 4** and hit Enter.
 
 ![select partition 4 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-4-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type **delete partition override** and hit Enter to delete the recovery partition.
 
 ![delete partition override command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-partition-override-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here's the most important step. Scroll up in your Command Prompt window and check the [disk partition style](https://facebook-video-footage.techidaily.com/updated-pro-level-gif-generation-a-critical-review/). If there's an asterisk (\*) in the GPT column of your operating system disk, it means you have GUID Partition Table (GPT) partition style. If there's no asterisk in the GPT column, then it's [MBR partition style](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/).
 
 ![Asterick mark in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asterick-mark-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your disk is GPT, type **create partition primary id=de94bba4-06d1-4d40-a16a-bfd50179d6ac** and hit Enter. Then, type **gpt attributes =0x8000000000000001** and hit Enter. If your disk is MBR, type **create partition primary id=27** and hit Enter.
 
@@ -156,23 +164,9 @@ Close
 
 ![Exit command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Re-enable the Recovery partition by typing **reagentc /enable** and hitting Enter.
 
 ![Recovery parition enable command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-parition-enable-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, to confirm the Recovery partition is configured properly on your computer, type **reagentc /info** and hit Enter. If you see "Enabled" next to Windows RE status, it means the Recovery partition is working properly. After that, [restart your computer](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) and try downloading the Windows update again. This time, the error code 0x80070643 shouldn't interrupt the download process.
 
@@ -193,5 +187,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audiences-favorite-top-action-recording-tools-for-2024/"><u>[Updated] Audience's Favorite Top Action Recording Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[Updated] In 2024, Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-images-with-easy-color-changes/"><u>2024 Approved Transform Your Images with Easy Color Changes</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-g310-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia G310 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a60s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A60s without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Pro Bootloader Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-past-perspectives-unencumbered-visual-splendors/"><u>In 2024, Past Perspectives Unencumbered Visual Splendors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-multi-gpu-configurations-a-step-by-step-tutorial-on-nvidia-sli-setup/"><u>Mastering Multi-GPU Configurations: A Step-by-Step Tutorial on Nvidia SLI Setup</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Oppo A1x 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-12-mini-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 mini using itunes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubers-essential-camera-guidebook-for-2024/"><u>YouTubers' Essential Camera Guidebook for 2024</u></a></li>
+</ul></div>
 

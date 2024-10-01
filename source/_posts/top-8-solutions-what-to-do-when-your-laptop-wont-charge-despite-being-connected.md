@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-09-19T00:31:29.750Z
-updated: 2024-09-25T00:12:33.390Z
+date: 2024-09-24T20:36:42.102Z
+updated: 2024-10-01T02:09:21.772Z
 tags:
   - desktop
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * [Download Any Available BIOS Update](https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/)
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,10 +45,10 @@ Aman Kumar / How-To Geek
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
@@ -63,10 +56,10 @@ Jason Fitzpatrick / How-To Geek
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Use the Original Charger
@@ -95,19 +88,6 @@ Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -122,13 +102,6 @@ Aman Kumar / How-To Geek
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  7\. Reinstall the Battery Drivers
 
  Windows relies on the battery driver to maintain proper communication with your laptop's battery. If the battery driver becomes corrupted due to software conflicts, hardware issues, or other factors, Windows will lose communication with the battery, leading to the problem you're experiencing.
@@ -137,15 +110,43 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Test for a Defective Battery
 
@@ -162,13 +163,6 @@ Aman Kumar / How-To Geek
  Confirming this possibility on a laptop with a non-removable battery is more complicated. This is because you'll need to open the machine to access the battery. Doing so could not only damage important components if done incorrectly but may also void your laptop's warranty.
 
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -191,5 +185,22 @@ Aman Kumar / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-engagement-with-best-practices-for-fb-cover-vids/"><u>[Updated] 2024 Approved Enhancing Engagement with Best Practices for FB Cover Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/broadcasting-solo-youtube-live-from-your-smartphone/"><u>Broadcasting Solo YouTube Live From Your Smartphone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g23-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/continual-shifts-in-microsofts-consumer-strategy-tactics-highlighted-on-zdnet/"><u>Continual Shifts in Microsoft's Consumer Strategy Tactics Highlighted on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic5-ultimate-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic5 Ultimate If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y02t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y02T Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-amped-arcs-and-zigzags-in-olympic-speed/"><u>In 2024, Amped Arcs & Zigzags in Olympic Speed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-elevate-your-video-production-top-free-adobe-premiere-plugins/"><u>New 2024 Approved Elevate Your Video Production Top Free Adobe Premiere Plugins</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v17-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.7 File</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-personal-cd-replication-for-secure-music-preservation/"><u>Step-by-Step Guide to Personal CD Replication for Secure Music Preservation</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-edge-2023-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Edge 2023 without backup.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-videos-wmv-en-audios-aac-sin-costo-alguno-utilizando-el-servicio-en-linea-freewmvcoder/"><u>Transforma Videos WMV en Audios AAC Sin Costo Alguno Utilizando El Servicio en Línea FreeWMVCoder</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+</ul></div>
 

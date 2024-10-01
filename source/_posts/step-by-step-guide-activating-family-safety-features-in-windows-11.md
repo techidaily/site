@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Family Safety Features in Windows 11"
-date: 2024-09-22T18:13:14.486Z
-updated: 2024-09-24T23:02:54.881Z
+date: 2024-09-24T00:10:08.604Z
+updated: 2024-09-30T19:37:45.076Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 * [Using the Microsoft Family App on Windows](https://screen-mirroring-recording.techidaily.com/updated-master-your-pcs-sounds-with-easy-recording-tool-x-recorder/)
 * [Managing Account Settings](https://fox-boxes.techidaily.com/new-2024-approved-acoustic-additions-for-your-chat-status/)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Create a Microsoft account for the child in the Settings app.
@@ -32,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 * Control the child's screen time, apps, games, and websites visited via the Family app on your Windows 11 computer.
 
  Parental controls help you monitor or limit your child's activity on their Windows PC. That way, you can stop them from gaming too much or visiting harmful websites. You can set these limits in the Family app on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Set Up a Child Account
 
@@ -55,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![Add someone to Microsoft Families.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/add-someone-to-family.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, follow the instructions to set up a new Microsoft account for your child. You will create an Outlook email and password for them during these steps.
@@ -71,19 +57,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![The link to sign in with Microsoft account in Windows 11's settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, enter the child's Microsoft account details to sign in and link it with their Windows device.
 
  If the child uses another PC with a local account, you'll need to sign in with their Microsoft account there, too. If they don't have an account on that PC, you can easily create one and then link the Microsoft account to it.
@@ -92,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![Adding a new user account on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-user-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, follow the instructions to sign in to the child's Microsoft account.
 
  To complete the link, open the Family app while you're logged into your child's Windows account. To do that, press Win + S to open Windows Search. Enter **Family** in the Search box, and then click the Family app in the search results to launch it.
@@ -99,19 +79,19 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![Opening the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-family-app-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you're ready to start setting limits on the child's account.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using the Microsoft Family App on Windows
@@ -137,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![Setting screen time limits on a device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/setting-limit-windows-devices-family-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use the dropdown in this window to control days individually. Alternatively, you can set it to "Every Day" and adjust the screen times for all the days simultaneously. When finished, click "Done" to apply the limits to the child's Windows device.
@@ -155,18 +135,18 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![Setting limits on an app on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-app-windows-family-app-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Blocking the app will prevent the child from using it. But if you choose "Set Limits," you can adjust the active times and available times.
 
 ![Setting app and game limits on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_110.png) 
 
  And when you're finished, click "Done" to apply the changes and limit the app.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Blocking Websites
 
@@ -175,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  To block the websites, click the "Edge" tab at the top. Then, click the "Turn On Activity Reporting Button" to see what search terms the child is using and the websites they're visiting. This data will inform your decision on which websites to block in the future.
 
 ![Turning on activity reporting for Microsoft Edge in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-activity-reporting.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, scroll down and turn on the "Filter Inappropriate Websites and Searches" toggle.
 
@@ -185,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  To add a blocked site, scroll down to the "Block Sites" section, enter the site's URL in the text box, and click the plus sign.
 
 ![Adding websites to block in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-websites-family-app-windows-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The child won't be able to access that website now. You can repeat these steps to add as many sites as you want.
 
@@ -217,5 +211,21 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[New] 2024 Approved Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-amusing-registration-journey-for-2024/"><u>[Updated] Amusing Registration Journey for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>[Updated] An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-find-the-forgotten-top-10-innovative-facebook-memes/"><u>[Updated] Find the Forgotten Top 10 Innovative Facebook Memes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-real-time-broadcast-at-your-fingertips-12-channels/"><u>[Updated] Real-Time Broadcast at Your Fingertips - 12 Channels</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-live-action-to-toon-town-how-to-turn-videos-into-cartoons/"><u>2024 Approved From Live-Action to Toon Town How to Turn Videos Into Cartoons</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-note-30-vip-racing-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Note 30 VIP Racing Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-customization-windows-11-and-11-portable-menu-addition/"><u>Convenient Customization: Windows 11 & 11 Portable Menu Addition</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-ace-2-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Ace 2 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-share-screen-on-google-meet-desktop-and-mobile/"><u>In 2024, How to Share Screen on Google Meet [Desktop and Mobile]</u></a></li>
+<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-s17-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo S17 Pro)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-guide-repairing-your-non-functional-samsung-soundbar/"><u>Ultimate Troubleshooting Guide: Repairing Your Non-Functional Samsung Soundbar</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 without a computer</u></a></li>
+</ul></div>
 

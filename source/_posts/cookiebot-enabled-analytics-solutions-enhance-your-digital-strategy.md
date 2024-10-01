@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Enabled Analytics Solutions - Enhance Your Digital Strategy
-date: 2024-09-20T23:31:53.964Z
-updated: 2024-09-25T00:08:36.351Z
+date: 2024-09-30T00:37:48.234Z
+updated: 2024-09-30T20:28:30.720Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11fd5d20364906665ccf8e2b9a.jpg
@@ -19,6 +19,13 @@ Education/Research
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## L’université de Southampton améliore l’accès à sa collection en numérisant de volumineuses quantités de documents imprimés
 
 [Afficher ou télécharger une version imprimable de cet article (PDF 329 kb)](https://static4.abbyy.com/abbyycommedia/10189/cs-unisouthampton-rs-f.pdf) 
@@ -28,10 +35,16 @@ Education/Research
 ![](https://tools.techidaily.com/abbyy/products/)La bibliothèque de l’université de Southampton accueille environ 35 000 étudiants et membres de son personnel. Elle offre un accès à une très vaste collection de qualité supérieure : 1,5 millions de livres et plusieurs millions de pages de documents d’archive. La bibliothèque s’est récemment lancée dans un programme de numérisation d’un nombre important de textes clés via l’Unité de numérisation de bibliothèques (LDU, Library Digitisation Unit). La LDU est une opération phare dans le secteur de l’éducation et se spécialise dans la capture numérique d’un large éventail de documents pour les référentiels ou la distribution sur Internet via des liens du catalogue de la bibliothèque. La démarche de la bibliothèque universitaire consiste à offrir un accès complet aux documents numériques qu’elle crée, chaque fois que cela est possible et autorisé.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ABBYY FineReader, un produit logiciel conçu pour la numérisation et la numérisation ad-hoc, a été utilisé par la bibliothèque pendant un certain nombre d’années pour numériser une petite quantité de pages, et occasionnellement l’intégralité de livres. Ce programme est aussi utilisé pour la reconnaissance de texte et la reconnaissance optique de caractères (OCR, optical character recognition). La bibliothèque s’est rapidement rendue compte que pour automatiser le processus OCR, avec un rendement élevé, et atteindre son objectif, qui est de numériser un demi-million de pages par an, elle aurait besoin d’un produit plus robuste et capable de traiter automatiquement d’importants volumes de documents.
@@ -68,10 +81,10 @@ La réussite de la numérisation peut également être attribuée à la soupless
 « L’installation d’ABBYY Recognition Server a été rapide. Les premières réponses d’ABBYY et de leurs équipes de support vis-à-vis de toutes les questions posées ont été rapides, avec un suivi de bonne qualité. Nous avons été très satisfaits des résultats et nous avons hâte d’utiliser le produit pour continuer à remplir nos objectifs en termes de numérisation. »
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## À propos de l’université de Southampton
@@ -84,10 +97,10 @@ Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu)
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## À propos d’ABBYY et contact
@@ -97,13 +110,6 @@ Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu)
 [Contacts ›](https://tools.techidaily.com/abbyy/products/)
 
 Partager 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Prêt à parler à un expert ?
 
@@ -126,17 +132,22 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ng-in-on-content-the-carminati-effect-ajay-for-2024/"><u>Cashing In on Content The Carminati Effect (AJay) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/come-trasformare-i-file-wma-in-mp3-con-le-tecniche-preferite-dagli-utilizzatori/"><u>Come Trasformare I File WMA in MP3 Con Le Tecniche Preferite Dagli Utilizzatori</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-canon-mf8200c-driver-download-for-windows-7-81-and-10/"><u>Easy Install Guide: Canon MF8200C Driver Download for Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-x50i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50i Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-a14-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A14 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-rusts-screen-artifact-dilemma-a-comprehensive-guide/"><u>Overcoming Rust's Screen Artifact Dilemma: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-techniques-for-drone-assisted-films/"><u>Professional Techniques for Drone-Assisted Films</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-t2-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-synergy-controlling-galaxy-via-windows-11-dex/"><u>Seamless Synergy: Controlling Galaxy via Windows 11 DeX</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-a60-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel A60 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-y17s-by-fonelab-android-recover-music/"><u>Undelete lost music from Y17s</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-brief-but-bold-short-videos-on-fb/"><u>[New] Brief but Bold Short Videos on FB</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies/"><u>Budget Enthusiasts Choices The Right GoPro Add-Ons for Newbies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-overcome-problems-when-printing-pdf-files/"><u>Easy Fixes to Overcome Problems when Printing PDF Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expert-tips-implement-borders-on-instagram-media-for-2024/"><u>Expert Tips Implement Borders on Instagram Media for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-camon-20-premier-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Camon 20 Premier 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-m6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 12 mini?</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/romer-rechargeable-searchlight-review-powerful-and-rechargeable-outdoor-flashlight/"><u>Romer Rechargeable Searchlight Review: Powerful and Rechargeable Outdoor Flashlight</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/stepwise-approach-to-srt-file-creation-brilliance/"><u>Stepwise Approach to SRT File Creation Brilliance</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-m6-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from M6 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unpack-the-power-of-portable-driver-easy-installation-made-simple-and-mobile/"><u>Unpack the Power of Portable Driver Easy: Installation Made Simple and Mobile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/voiceover-guide-for-engaging-videography/"><u>Voiceover Guide for Engaging Videography</u></a></li>
 </ul></div>
 

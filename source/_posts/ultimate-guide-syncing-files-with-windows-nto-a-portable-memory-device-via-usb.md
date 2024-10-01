@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB"
-date: 2024-09-20T18:25:28.716Z
-updated: 2024-09-24T19:26:49.803Z
+date: 2024-09-26T17:49:57.892Z
+updated: 2024-10-01T00:35:28.113Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * [How to Copy Files Using Copy and Paste](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [What to Do If You Run out of Space on the Flash Drive](https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-bootloader-easily-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Connect the USB flash drive to your Windows 10 PC by plugging it into a USB port. Open File Explorer and locate the drive under "Devices And Drives" in the "This PC" window.
@@ -27,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  If you'd like to copy files to a [USB flash drive](https://screen-recording.techidaily.com/updated-innovative-methods-to-log-gaming-sessions/) on Windows 10 — perhaps to back them up or transfer them to another computer — it's easy to do using File Explorer. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  First, Locate the USB Drive on Your PC
@@ -45,33 +52,19 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![The devices and drives on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/devices-and-drives.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your USB drive has been recognized correctly and is ready to receive files, it will appear in this location with a name and a drive letter assigned to it, such as "D:", "E:", or "F:", or another letter. Note that the "C:" drive is almost always the main drive on your PC, unless you go very out of your way to change it.
 
  Depending on how File Explorer is configured (see the "Layout" options under the "View" menu), the style of the icons within this window may appear different on your machine. But the drive should still be there.
 
 ![Our example USB drive is has been assigned the letter K.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/usb-drive.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the USB drive doesn't show up in your "Devices And Drives" list, you'll have to perform some in-depth sleuthing with [our guide to finding missing USB drives](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/) to figure out what's going on.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find the Files You Want to Copy
@@ -106,31 +99,38 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Right-click empty space in the destination drive and select "Paste."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/select-paste.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The files you "copied" to the Clipboard earlier will be copied onto the USB flash drive.
 
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What to Do If You Run out of Space on the Flash Drive
 
  If you're copying files to your USB flash drive and you receive a message such as "There is not enough space" or "There is insufficient disk space to complete the operation," then you've run out of free space on your flash drive.
 
 ![An insufficient space message in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_not_enough_space.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are three basic solutions. The first is to explore the contents of your USB flash drive and see if it already contains data that you can delete to free up space. Be careful that you don't delete anything that you haven't already backed up somewhere else.
 
@@ -151,5 +151,22 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-unravel-the-mystery-of-accessing-your-watchlist-on-facebook/"><u>[Updated] Unravel the Mystery of Accessing Your Watchlist on Facebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-share-it-all-video-watchlist/"><u>2024 Approved Share-It-All Video Watchlist</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-x100-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo X100 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-a60s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel A60s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>In 2024, Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-iphone-tactics-for-capturing-glass-surfaces-for-2024/"><u>Innovative iPhone Tactics for Capturing Glass Surfaces for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mailcom-account-lifespan-finding-out-its-end-date/"><u>Mail.com Account Lifespan - Finding Out Its End Date</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-6-techniques-to-resolve-dreamlight-valleys-pc-compatibility-woes/"><u>Mastering Stability: 6 Techniques to Resolve Dreamlight Valley's PC Compatibility Woes</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-v29e-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of V29e on Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-selection-of-cost-free-high-quality-video-editors-for-2024/"><u>The Ultimate Selection of Cost-Free, High-Quality Video Editors for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-flipping-out-a-step-by-step-guide-to-rotating-clips-in-final-cut-pro/"><u>Updated Flipping Out A Step-by-Step Guide to Rotating Clips in Final Cut Pro</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-p55-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel P55 5G | Dr.fone</u></a></li>
+</ul></div>
 

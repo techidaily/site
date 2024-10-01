@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2024-09-23T16:36:42.676Z
-updated: 2024-09-24T16:29:26.397Z
+date: 2024-09-24T18:51:05.485Z
+updated: 2024-09-30T16:16:20.174Z
 tags:
   - deals
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Make the Login Process Easier 
 
  When setting up a Windows device for a non-tech-savvy user, the first step is to simplify the login process. Choose a password that is easy for them to remember, or set up a login PIN, which is often easier to recall and enter. If the device supports it, you can also [enable Windows Hello for facial recognition or fingerprint login](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to streamline the process further.
@@ -45,14 +38,14 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Set Up Automatic Data Backups 
 
@@ -85,18 +85,18 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
  When someone gets a new computer, it’s likely to come with a lot of bloatware that uses up system storage and slows down performance. These unnecessary programs often start up with the computer, slow down the boot process, and consume resources in the background. Therefore, it’s essential to remove these apps and [debloat the operating system](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/).
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
@@ -104,26 +104,26 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Changing scale and resolution in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-scale-and-resolution-in-the-settings-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
@@ -149,5 +149,26 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-iphoneandroid-5-tactics-for-downloading-igtv/"><u>[New] In 2024, IPhone/Android 5 Tactics for Downloading IGTV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-quick-test-of-the-apple-vision-pro-top-3-insights-after-two-days/"><u>A Quick Test of the Apple Vision Pro: Top 3 Insights After Two Days</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x100-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X100</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nubia-z50-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nubia Z50 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-twitters-verification-process-the-significance-of-blue-checkmarks/"><u>Dissecting Twitter's Verification Process: The Significance of Blue Checkmarks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-for-smooth-video-trimming-in-photos/"><u>Expert Tips for Smooth Video Trimming in Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/extracting-tabbed-files-windows-11-quick-guide/"><u>Extracting Tabbed Files: Windows 11 Quick Guide</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-pop-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-battery-usage-on-windows-10-tips-and-tricks-from-the-power-and-sleep-journal/"><u>Mastering Battery Usage on Windows 10: Tips and Tricks From the Power & Sleep Journal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-when-you-cant-connect-to-wi-fi-a-step-by-step-guide/"><u>Simple Solutions for When You Can't Connect to Wi-Fi - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-hot-30-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snicker-studio-cybernetic-cackles/"><u>Snicker Studio Cybernetic Cackles</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s17e-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S17e Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y28-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y28 5G.</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+</ul></div>
 

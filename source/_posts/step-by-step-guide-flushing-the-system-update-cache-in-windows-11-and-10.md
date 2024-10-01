@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10"
-date: 2024-09-23T23:13:40.417Z
-updated: 2024-09-24T18:00:06.282Z
+date: 2024-09-27T07:08:07.160Z
+updated: 2024-10-01T02:59:19.231Z
 tags:
   - deals
 categories:
@@ -47,10 +47,10 @@ services.msc
 !['Stop' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-stop-windows-update-service.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Run again using Windows+R, type the path below in the box, and press Enter. The following is the path to the Windows Update cache folder. It assumes that Windows is installed on your C:\\ drive. However, if that’s not the case, just change the drive letter in the path.
@@ -61,18 +61,18 @@ C:\Windows\SoftwareDistribution\
 
 ![The trash can icon highlighted for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-delete-windows-update-cache-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Close File Explorer and [empty the Recycle Bin](https://some-guidance.techidaily.com/new-the-complete-powerdirector-2024-users-handbook/).
 
  Then, return to the "Services" window, right-click "Windows Update," and choose "Start."
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This ensures your PC can continue to look for the latest updates.
 
@@ -84,15 +84,22 @@ C:\Windows\SoftwareDistribution\
 
 ![Disk Cleanup highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-run-disk-cleanup.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select your Windows installation drive and choose "OK."
 
 ![The Windows installation drive and 'OK' highlighted in Disk Cleanup prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-choose-windows-drive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select "Clean Up System Files."
@@ -100,10 +107,16 @@ C:\Windows\SoftwareDistribution\
 !['Clean Up System Files' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-clean-up-system-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose your Windows installation drive again and select "OK."
@@ -141,26 +154,12 @@ del /f /s /q *.*
 
 ![Commands to clear the Windows Update cache typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-clear-update-cache-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After clearing the cache, restart the services you stopped above. Do that by typing the following commands and pressing Enter after each line.
 
         `net start wuauserv  
 net start bits`
     
  You’re done.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Use a Script to Clear Update Cache in a Single-Click
 
@@ -183,6 +182,13 @@ net start bits`
 
 ![Windows' 'Save As' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-create-update-cache-removal-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the future, to clear your Windows Update cache using the script, right-click the script file and select "Run as Administrator." In the User Account Control prompt, choose "Yes." The script will stop certain services, deletes the update cache files, and restarts the stopped services.
 
 ---
@@ -202,5 +208,17 @@ net start bits`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-perfecting-your-youtube-video-archive-setup/"><u>[New] 2024 Approved Perfecting Your YouTube Video Archive Setup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-schedule-meetings-on-zoom/"><u>[New] In 2024, How to Schedule Meetings on Zoom?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-compilation-budget-friendly-editing-tools/"><u>[New] The Ultimate Compilation Budget-Friendly Editing Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-hope-the-top-10-inspirational-films/"><u>2024 Approved Cinematic Hope The Top 10 Inspirational Films</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-s17t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S17t in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-successfully-sending-videos-in-facebook-chat-a-quick-fix-guide-for-iphoneandroid/"><u>In 2024, Successfully Sending Videos in Facebook Chat A Quick Fix Guide for iPhone/Android</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-find-x6-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo Find X6</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-origin-not-loading-or-going-online/"><u>Troubleshooting Origin Not Loading or Going Online</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-xiaomi-14-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Xiaomi 14 Pro</u></a></li>
+</ul></div>
 

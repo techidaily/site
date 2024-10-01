@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2024-09-21T21:54:38.652Z
-updated: 2024-09-24T18:02:36.012Z
+date: 2024-09-23T19:03:37.366Z
+updated: 2024-09-30T18:16:57.510Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Delayed and canceled flights, delayed packages, and missed work hours. You'd think I'm describing a Gen Z horror movie, but it's actually happening in real time. [CrowdStrike](https://edition.cnn.com/business/live-news/global-outage-intl-hnk/index.html)'s failed cybersecurity update has caused a global outage of Windows systems, exposing the fragility of our modern infrastructure.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Forced Updates Are Disruptive
@@ -56,14 +56,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Clouds Can Vanish
 
@@ -74,19 +74,19 @@ Jerome Thomas / How-To Geek
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reduce Your Reliance on the Internet
@@ -110,20 +110,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-easy-paths-to-profitable-youtube-business-channels-top-10-list/"><u>[New] In 2024, Easy Paths to Profitable YouTube Business Channels, Top 10 List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-auditory-experience-on-windows-10/"><u>[New] Maximizing Auditory Experience on Windows 10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-stay-ahead-the-guide-to-facebooks-new-algorithm-for-2024/"><u>[Updated] Stay Ahead The Guide to Facebook's New Algorithm for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-snapchats-secret-symbolic-messages-for-2024/"><u>[Updated] Unlocking Snapchat's Secret Symbolic Messages for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s24-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S24 Ultra Activity | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-g24-power-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola G24 Power Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-ce-3-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord CE 3 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfect-your-virtual-meeting-vibes-google-meet-background-tips-for-2024/"><u>Perfect Your Virtual Meeting Vibes Google Meet Background Tips for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-g310-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia G310</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlined-process-to-download-and-install-asus-laptop-touchpad-driver-for-windows-10/"><u>Streamlined Process to Download & Install ASUS Laptop Touchpad Driver for Windows 10</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/webp-png-movavi/"><u>無條件免費 WEBP 到 PNG 格式轉換 - 使用 Movavi 软件</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-incorinasmatic-mix-sharing-songs-in-social-spaces-for-2024/"><u>[New] Incorinasmatic Mix Sharing Songs in Social Spaces for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-4k-camera-guide-top-6-dslrs-reviewed/"><u>[New] Ultimate 4K Camera Guide Top 6 DSLRs Reviewed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-x-flip-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo X Flip</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-14-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi 14 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-down-on-computing-power-spent-by-malware-scanners/"><u>Cut Down on Computing Power Spent by Malware Scanners</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-gt-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-14th-new-york-times-quiz-insightful-tips-and-solutions-399-edition/"><u>July 14Th New York Times Quiz: Insightful Tips & Solutions - #399 Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-inverted-video-flows-on-instagram-guide-for-2024/"><u>Navigating Inverted Video Flows on Instagram [Guide] for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-electronics-at-toms-hardware/"><u>Navigating the World of Electronics at Tom's Hardware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-pova-5-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Pova 5 and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-soundscape-auditions-for-videos/"><u>Prime Soundscape Auditions for Videos</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Edge 2023</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-poco-by-fonelab-android-recover-music/"><u>The way to get back lost music from Poco</u></a></li>
 </ul></div>
 

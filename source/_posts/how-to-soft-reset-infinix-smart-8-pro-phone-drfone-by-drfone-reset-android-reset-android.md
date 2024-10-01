@@ -1,7 +1,7 @@
 ---
 title: How to Soft Reset Infinix Smart 8 Pro phone? | Dr.fone
-date: 2024-09-19T17:07:25.130Z
-updated: 2024-09-24T22:33:34.609Z
+date: 2024-09-28T16:27:37.313Z
+updated: 2024-10-01T04:38:37.798Z
 tags: 
   - reset
 categories:
@@ -28,6 +28,13 @@ Before you start resetting your Infinix Smart 8 Pro device through any of the me
 - Ensure to clear the cache on your Infinix Smart 8 Pro phone.
 - If your Infinix Smart 8 Pro phone is not locked, make sure to take the backup of the Infinix Smart 8 Pro device to prevent accidental loss of data. If the Infinix Smart 8 Pro device is locked, ensure that from next time you keep taking the backup on regular basis.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Reset Infinix Smart 8 Pro Phone When Locked?
 
 Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Infinix Smart 8 Pro phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
@@ -46,6 +53,13 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 - **Step 4.** Again, tap on **ERASE DEVICE**, and to continue you need to log in to your Google account.
 
 With the completion of the above steps, your Infinix Smart 8 Pro phone will reset.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Perform a Hard Reset on Infinix Smart 8 Pro with Hardware Keys
 
@@ -94,13 +108,6 @@ The Best Tool for factory reset Infinix Smart 8 Pro Phone When Locked
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** In the next step, select your Infinix Smart 8 Pro phone's brand from the supported list in Dr.Fone to ensure it enters the correct specific mode.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -141,13 +148,6 @@ The above given are multiple options that can be used for resetting your Infinix
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Ways to Reset Infinix Smart 8 Pro Without Volume Buttons
 
 Sometimes, there may be a necessity to reset an Android device to its factory settings. Whether you wish to sell your device to someone else or unlock your device, you will most likely have to do a hard reset. Most Android devices can be reset easily by pressing a combination of volume and power buttons. But to hard reset Android tablet without volume buttons is a different ball game altogether and perhaps a lot more cumbersome. We are here to break that myth for you!
@@ -165,13 +165,6 @@ If you need to reset an Android device that doesn't have functional volume butto
 Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefully consider whether you still want to delete all data from your phone. Resetting will permanently erase all files, settings, and personal information on your device, and it cannot be undone. Therefore, it is important to [back up any important data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before performing the reset. If you are certain that you want to proceed with the reset using Dr.Fone, follow the steps below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1:** [Download Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) on your computer. Open the “Data Eraser” tool and connect your android device to the computer.
 
@@ -215,18 +208,18 @@ You may have to confirm your choice by selecting “Yes”.
 
 ![select yes](https://images.wondershare.com/drfone/article/2017/04/14925874254055.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5: Reboot your device.**
 
 After the reset is complete, navigate to the “reboot system now” option and select it to reboot your device. At the end of this process, your device will be reset.
 
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Reset Android with the reset pinhole
 
@@ -258,13 +251,6 @@ After that, navigate or scroll down until you can find the “Backup and Reset�
 
 ![select the data reset folder](https://images.wondershare.com/drfone/article/2017/04/14931914941646.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3: Tap on Factory data reset.**
 
 Now swipe down to find the “Factory data reset” option and tap on it. A new screen will appear, requesting you for confirmation to proceed with the process. Tap on “Reset device” to start the process.
@@ -273,11 +259,25 @@ Now swipe down to find the “Factory data reset” option and tap on it. A new 
 
 At the end of the process, your device will be reset and ready to use after it completes the mandatory reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Reset Android tablet to unlock Android using Dr.Fone - Screen Unlock (Android)
 
 If you are facing the challenge of resetting an Android tablet to unlock the lock screen, the easiest way is to use a dedicated tool. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is recommended in this case. It is a helpful software that provides a solution to bypass screen lock and perform a reset on your Android tablet.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -316,19 +316,6 @@ So these are the methods with which you can do a reset without using volume butt
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 Best Tools to Hard Reset Infinix Smart 8 Pro
 
 Smartphones have become a must-have gadget in our lives. We need them to support us in work, schedules, keeping contacts, sharing data, and our banking information. Since they are so important, the questions related to them are also critical and must be solved as soon as possible. So, today we are going to discuss and solve the problem of how to Infinix Smart 8 Pro Y20 hard reset without a password.
@@ -351,16 +338,22 @@ Frequent restarts, hanging up of phone, and crashed phone systems are the most c
 
 When you suspect your phone is affected by a virus attack, your best bet is to reset your Infinix Smart 8 Pro hard because pinpointing the actual malware or virus file is tricky.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: What can we do to hard reset Infinix Smart 8 Pro without a password?
 
 You can try to hard reset your Infinix Smart 8 Pro using different methods depending on the primary cause of the issue. Google has introduced different methods to bypass screen locks in case of a forgotten password. However, it would help if you had the proper configuration of your account in the phone before locking it. Let us review these methods and how to use them for vivo y20 hard reset without a password.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google Find My Device (data loss)
 
@@ -382,6 +375,13 @@ If you have configured your phone with a Gmail account, then your Gmail account 
 
 2. Choose Forgot Pattern/Password option and enter your Google account credentials to start the process.
 3. When you are done signing in, bypass your screen lock is complete, and you can configure a new password, pattern, or PIN.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Answer security questions
 
@@ -424,13 +424,6 @@ Let us review how Wondershare Dr.Fone works.
 
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Click the Backup up Now button to start the backup process of Infinix Smart 8 Pro phone data. Keep your Infinix Smart 8 Pro connected to the computer till your Infinix Smart 8 Pro backup is complete.
 
 ![backing up device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
@@ -440,6 +433,13 @@ Let us review how Wondershare Dr.Fone works.
 ![completed backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Restore the backup to your Android phone
 
@@ -477,16 +477,18 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-your-channel-ranking-with-these-11-seo-secrets/"><u>[New] 2024 Approved Elevate Your Channel Ranking with These 11 SEO Secrets</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-monetizing-your-youtube-channels-strategies-for-success/"><u>[Updated] 2024 Approved Monetizing Your YouTube Channels Strategies for Success</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-kitchen-chronicles-filming-every-bite/"><u>[Updated] Kitchen Chronicles Filming Every Bite</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-se-2022-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone SE (2022) to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blueprint-for-successful-metaverse-campaigns/"><u>In 2024, Blueprint for Successful Metaverse Campaigns</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-poco-x6-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Poco X6 Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-social-media-sensation-kit-building-memes-on-9gag-for-2024/"><u>The Social Media Sensation Kit Building Memes on 9GAG for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-a70-by-fonelab-android-recover-data/"><u>Undelete lost data from A70</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-6s-plus-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6s Plus by restoring it to factory settings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy-for-2024/"><u>[New] Elevate with IG Stories Constructing an Impactful Marketing Strategy for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-tips-for-enhancing-posts-on-snapchat/"><u>[New] Essential Tips for Enhancing Posts on Snapchat</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[New] In 2024, Perfecting Your Content Understanding Facebook Video Sizes and Ratios</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-gaming-income-optimization-tips-for-2024/"><u>[Updated] Gaming Income Optimization Tips for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lifetimeline/"><u>完全無料！LIFETIME記録機能付きLINE通話録音ガイド</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-the-social-networks-mechanisms-with-facebooks-openness-portal/"><u>Discovering the Social Network's Mechanisms with Facebook’s Openness Portal</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 Pro Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 13 Pro to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Sony Xperia 5 V</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/success-story-eliminating-the-perilous-pnpdetected-error-from-my-windows-1-10-pc/"><u>Success Story: Eliminating the Perilous ‘PNP_Detected’ Error From My Windows 1지표 10 PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-virtual-escapades-for-android-select-15-exciting-simulations-for-2024/"><u>Top Virtual Escapades for Android Select 15 Exciting Simulations for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-s23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy S23 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

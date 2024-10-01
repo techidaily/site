@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2024-09-23T00:30:01.713Z
-updated: 2024-09-25T00:40:04.659Z
+date: 2024-09-23T16:06:30.200Z
+updated: 2024-10-01T05:49:04.164Z
 tags:
   - deals
 categories:
@@ -44,10 +44,16 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 ![Cortana on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/07/img_55bc11439921b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It also didn't help that Cortana just wasn't a very good assistant. Simple requests like “Play some music” or “What’s the time” triggered a web search half the time, and you could probably do whatever Cortana could in less time with your keyboard and mouse.
@@ -57,10 +63,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
@@ -75,13 +81,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Just Tell Me How—Do It for Me
 
  One thing that irked me about Cortana was that it couldn’t do much. Oh, it could search Bing and tell you all the different ways to do a thing, but actually taking action on your behalf was beyond its capabilities.
@@ -95,10 +94,17 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Copilot, Respect My Boundaries
@@ -132,5 +138,24 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-highlights-comprehensive-photography-tips/"><u>[Updated] 2024 Approved Mastering Instagram Highlights Comprehensive Photography Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-your-profile-alter-name-in-google-meet/"><u>[Updated] Streamlining Your Profile Alter Name in Google Meet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-turn-on-windows-11s-dynamic-hdr-mode/"><u>2024 Approved Guide Turn on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/beyond-the-ordinary-superior-share-like-software/"><u>Beyond the Ordinary Superior Share-Like Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-high-speed-storage-solution-from-kingston-experience-the-nv3-m2-ssd-featuring-pcie-40-for-6gbsplus-performance/"><u>Budget-Friendly High Speed Storage Solution From Kingston: Experience the NV3 M.2 SSD, Featuring PCIe 4.0 for 6GB/S+ Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chromatic-creativity-techniques-for-film-colorists-for-2024/"><u>Chromatic Creativity Techniques for Film Colorists for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s23-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S23 Ultra Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-14-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 14 Ultra Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c12-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C12 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-zte-axon-40-lite-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On ZTE Axon 40 Lite for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-video-migration-youtube-to-dailymotion-process/"><u>Navigating Video Migration YouTube to Dailymotion Process</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reconnect-with-missing-names-a-step-by-step-solution-for-iphone-contact-issues/"><u>Reconnect with Missing Names: A Step-by-Step Solution for iPhone Contact Issues</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+</ul></div>
 

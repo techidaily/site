@@ -1,7 +1,7 @@
 ---
 title: "Discover the Unseen: Top 11 Underexplored Windows 11 Functions Enhancing Your PC Experience"
-date: 2024-09-17T17:47:11.128Z
-updated: 2024-09-25T00:10:40.539Z
+date: 2024-09-27T02:16:17.225Z
+updated: 2024-09-30T17:45:20.598Z
 tags:
   - desktop
 categories:
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
  Windows loves to hide many hidden gems under its familiar interface that can add magic to your regular Windows experience. From time-saving shortcuts to built-in tools that can rival third-party apps, today we unveil 11 functionalities on Windows 11 that you want to take advantage of.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Changing the Privacy Settings
 
  Among all the hype about [Microsoft's Recall feature on Windows](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/) and new privacy concerns, it's time to limit the data Microsoft collects from you. Luckily, you can tweak some of the privacy options from Windows Settings. Go to Settings > Privacy & Security. Under "Windows Permissions", go to "General."
@@ -55,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This setting tracks the websites you browse and the apps you use on your system. Use the toggle button to turn it off. Then click the "Clear History" button to delete previously collected activity history.
 
 ![The option to turn off activity history on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-activity-history-on-windows-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One last setting you should consider is the one that sends diagnostic data to Microsoft. Again, go back to "Privacy & Settings." This time, go to "Diagnostics & Feedback" under Windows Permissions.
 
@@ -93,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
  You can play around the settings of the caption box to suit your preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Voice Typing Anywhere
@@ -105,9 +92,29 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![Accessbility settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/accessbility-settings-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turn on "Voice Access." Then press "I Agree" when the popup appears.
 
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
 
@@ -121,6 +128,19 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![Windows Focus Sessions settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-focus-sessions-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
 
 ##  End Tasks From the Task Bar
@@ -129,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![Various Windows system settigns being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-for-developers-settigns.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turn on "End Task."
 
 ![End task from taskbar option on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/end-task-from-taskbar-option-on-windows.png) 
@@ -136,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
  After that, if you want to end a task, simply right-click on the icon of that task in the taskbar and click "End Task."
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Minimize Windows by Shaking
 
@@ -163,10 +183,10 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Instant Photo Transfer From Android
@@ -189,13 +209,6 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
 ##  OCR in the Snipping Tool
@@ -207,16 +220,10 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Built-in Image Editing in the Photos App
@@ -224,13 +231,6 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
  This is a big one for me personally. For small edits, I either had to rely on a large program like [Photoshop,](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) which would be overkill, or apps on the web, which would sometimes force watermarks and limit the resolution. Now, with some useful editing features integrated into the Windows Photos app, it's easier than ever to make small tweaks to give a perfect shape to your photos.
 
 ![Editing an image on the Windows Photos app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-photos-app.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
 
@@ -251,5 +251,21 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-easy-alteration-rotate-film-frames-with-vlc/"><u>[New] In 2024, Easy Alteration Rotate Film Frames with VLC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos-for-2024/"><u>[Updated] Essential Tips for Incorporating Dynamic Cards in YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-terrariums-topography-selecting-prime-maps/"><u>[Updated] Terrarium's Topography Selecting Prime Maps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722887688404-ace-your-savings-with-microsofts-student-pricing-strategies/"><u>Ace Your Savings with Microsoft's Student Pricing Strategies</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-12r-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 12R Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y200e-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 15 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques/"><u>In 2024, Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/skyrocket-visibility-mastering-google-analytics-for-youtubers-for-2024/"><u>Skyrocket Visibility Mastering Google Analytics for YouTubers for 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v20-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v2.0 File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-generation-of-smartwatches-anticipating-the-samsung-galaxy-watch-7s-launch-date-costs-and-specifications/"><u>The Next Generation of Smartwatches: Anticipating the Samsung Galaxy Watch 7'S Launch Date, Costs and Specifications</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-evasion-of-social-engineering-tricks/"><u>The Ultimate Guide to Evasion of Social Engineering Tricks</u></a></li>
+</ul></div>
 

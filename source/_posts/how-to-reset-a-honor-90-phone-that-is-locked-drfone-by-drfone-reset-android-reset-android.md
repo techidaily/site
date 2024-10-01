@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Honor 90 Phone That Is Locked | Dr.fone
-date: 2024-09-20T19:10:19.389Z
-updated: 2024-09-24T19:42:49.172Z
+date: 2024-09-28T20:13:22.508Z
+updated: 2024-10-01T01:30:10.744Z
 tags: 
   - reset
 categories:
@@ -48,10 +48,10 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 With the completion of the above steps, your Honor 90 phone will reset.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Perform a Hard Reset on Honor 90 with Hardware Keys
@@ -70,10 +70,10 @@ Hard reset which is also termed factory reset is a feature that will reset all t
 ![hard reset with hardware keys](https://images.wondershare.com/drfone/article/2022/06/hard-reset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Honor 90 device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Honor 90 FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Honor 90 codes that can be used to bypass the FRP lock._
@@ -113,10 +113,10 @@ The Best Tool for factory reset Honor 90 Phone When Locked
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
@@ -137,6 +137,13 @@ To unlock the screen and reset your Honor 90 phone, the settings menu of the Hon
 
 The steps above will reset your phone to the default factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Reset Honor 90 phones with factory reset code
 
 There are Android Reset Codes for different brands of phones that can be used for resetting the Honor 90 device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Honor 90 phones is **\*#\*#2846579#\*#\***.
@@ -155,13 +162,6 @@ The above given are multiple options that can be used for resetting your Honor 9
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reset a Honor 90 Phone That Is Locked
 
 _“Looking for the best solutions on how to factory reset Honor 90 phone when locked?”_
@@ -169,13 +169,6 @@ _“Looking for the best solutions on how to factory reset Honor 90 phone when l
 The need to reset a Honor 90 phone arises in several situations like forgetting the password, PIN, or pattern, purchasing a second-hand device that is locked, accidentally changing the password or setting a wrong one, and others. In all these and other similar situations, you would need to reset your Honor 90 phone and this can be done using different methods and tools.
 
 In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Things You Should Be Aware of Before Resetting Honor 90 Phones
 
@@ -221,6 +214,13 @@ Hard reset which is also termed factory reset is a feature that will reset all t
 
 _**Note**: After the hard reset, Google Account Verification, FRP screen will appear where you need to enter the correct Google account or PIN that was previously synced with the Honor 90 device. If you know the Google credentials, it's great, but in case you have forgotten then no need to worry as there are [Honor 90 FRP bypass tools](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) available as well as Honor 90 codes that can be used to bypass the FRP lock._
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: An Efficient Alternative to Reset Locked Honor 90 Phone
 
 If the above-listed methods do not work for any reason, we recommend using [Dr.Fone-Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) as the best alternative. This is a Windows and Mac-based tool that can help bypass and remove all types of screen locks including PIN, passcode, pattern, Face ID as well as a fingerprint. The software not only works with Honor 90 but all other popular Android devices including Honor 90, LG, Oppo, and more.
@@ -255,6 +255,19 @@ The Best Tool for factory reset Honor 90 Phone When Locked
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -273,13 +286,6 @@ To unlock the screen and reset your Honor 90 phone, the settings menu of the Hon
 
 The steps above will reset your phone to the default factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Reset Honor 90 phones with factory reset code
 
 There are Android Reset Codes for different brands of phones that can be used for resetting the Honor 90 device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Honor 90 phones is **\*#\*#2846579#\*#\***.
@@ -291,13 +297,6 @@ Steps to reset Honor 90 phone using secret reset code
 - **Step 3.** Finally, to confirm the resetting of the Honor 90 device, click on the **OK** button.
 
 The above methods can also be tried if you get stuck in a situation on how to factory reset Honor 90 tablets without password. Also, we recently covered a method of how to bypass the Google account on Honor 90 after a factory reset, we have now had the opportunity to test this with many people with different models of Android and have found mixed results.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -340,16 +339,16 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 ![click on backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Click on "Backup pow"  to proceed with the process. The backup process will start, keeping connected the Honor 90 device during the phone backup process.
 
 ![Click on “backup” again](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Within a few minutes, your whole device will be backed up. You can click "View Backups" to view all data that is backed up.
 
@@ -358,6 +357,13 @@ Let’s have a look at the easy process to back up Android before the factory re
 Phone Backup is one of the handiest and easy-to-use features within Wondershare Dr.Fone. Users can select their opted files manually to restore. This tool supports 8000+ Android devices worldwide. Users will feel safe and secure using this revolutionary software.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Hard Reset Android using Dr.Fone - Screen Unlock (Android)
 
@@ -459,18 +465,17 @@ So these were the third different methods through which you can hard reset your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[New] Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-crafting-visual-stories-a-detailed-magix-video-pro-x-review-for-2024/"><u>[New] Crafting Visual Stories A Detailed Magix Video Pro X Review for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fine-tuning-dimensions-aspect-ratio-essentials/"><u>[New] Fine-Tuning Dimensions Aspect Ratio Essentials</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-quicktime-stall-capture-help/"><u>[New] QuickTime Stall Capture Help</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-media-mashup-a-how-to-guide-for-2024/"><u>[New] Twitter's Media Mashup A How-To Guide for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/efficient-and-essential-top-23-tools-to-downgrade-youtube-audios-for-2024/"><u>Easy, Efficient, and Essential Top 23 Tools to Downgrade YouTube Audios for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-secure-is-chatgpt-against-cyber-threats-and-attacks/"><u>How Secure Is ChatGPT Against Cyber Threats and Attacks?</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-t2-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo T2 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-t2x-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo T2x 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/share-your-winning-forex-trades-with-friends-and-family-on-local-trade-copier-tm-together-by-mt4copier-guide/"><u>Share Your Winning Forex Trades With Friends and Family on Local Trade Copier™ Together</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-pathway-to-personalizing-windows-11-fax-cover-pages/"><u>The Pathway to Personalizing Windows 11 Fax Cover Pages</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g04-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G04 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-add-a-personal-touch-using-branded-graphic-elements-in-your-instagram-content-for-2024/"><u>[New] Add a Personal Touch Using Branded Graphic Elements in Your Instagram Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-audio-quality-get-high-quality-fx/"><u>[Updated] Enhance Audio Quality, Get High-Quality FX!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-video-size-adjustments-on-igtv/"><u>[Updated] Mastering Video Size Adjustments on IGTV</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-htc-u23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For HTC U23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-how-to-use-korean-to-english-video-translators-for-creators/"><u>In 2024, How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-11x-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme 11X 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/rebinding-your-macs-command-key-ultimate-tutorial-by-zdnet/"><u>Rebinding Your Mac's Command Key - Ultimate Tutorial by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y17s-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y17s Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-100-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from 100 Pro.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-find-x6-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo Find X6 Pro.</u></a></li>
 </ul></div>
 

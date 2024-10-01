@@ -1,7 +1,7 @@
 ---
 title: "Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide"
-date: 2024-09-21T16:55:42.142Z
-updated: 2024-09-24T22:23:16.751Z
+date: 2024-09-29T19:04:17.697Z
+updated: 2024-10-01T01:13:59.509Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 * However, ChatGPT may struggle to make small changes to a previous image, creating an entirely new one instead.
 
  Using DALL-E to generate images with AI has become an invaluable service for many, whether for work or fun. However, now you can generate images with DALL-E directly through ChatGPT, allowing you the best of both worlds. So, how does this work?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is ChatGPT's DALL-E Feature?
 
@@ -39,26 +46,13 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT's list of DALL-E restrictions on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-restricted-images.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you may expect, sexually explicit and hateful images are prohibited, as well as images depicting real people or deepfakes. Images depicting violence and illegal activity and the use of copyright content is also off-limits. [DALL-E is also available in Bing](https://fox-direct.techidaily.com/advanced-speed-adjustment-techniques-in-media-editing-for-2024/) at no charge.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Desktop
@@ -67,27 +61,20 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT processing DALL-E image request on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After sending your DALL-E prompt, ChatGPT will spend a few seconds generating the image. This may take longer if your internet connection is poor, or if ChatGPT is experiencing high user demand.
 
 ![ChatGPT DALL-E image generation response on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Simply hover your mouse over the image, and you'll see a download option at the top-left. If you're not satisfied with the first result, you can make additional requests.
 
 ![ChatGPT's response to DALL-E prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While ChatGPT can generate some visually stunning images with the DALL-E plugin, it's very difficult to make small changes to a previous image without other things being changed, too.
 
@@ -96,6 +83,13 @@ DALL-E / Sydney Butler / How-To Geek
 ![ChatGPT DALL-E updated image result on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-dalle-cat3.jpg) 
 
  This is because ChatGPT can't keep the previous image exactly the same upon each new request. This is a very limiting aspect, as you can't make small changes to an image that you already like for the most part.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Mobile
 
@@ -126,5 +120,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-streaming-software-that-will-amaze-your-mac-users/"><u>[New] Top 5 Streaming Software That Will Amaze Your Mac Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-5-innovative-techniques-to-create-larger-head-impact-on-tiktok-videos/"><u>[Updated] 5 Innovative Techniques to Create Larger-Head Impact on TikTok Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-edge-40-neo-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Edge 40 Neo? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-razr-40-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-x-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone X iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y78t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78t Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-look-at-elgoog-a-complete-review-of-its-mirror-counterparts/"><u>Inside Look at elgooG - A Complete Review of Its Mirror Counterparts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-and-straightforward-download-of-amds-rx-580-drivers-enhance-your-visual-experience/"><u>Speedy and Straightforward Download of AMD's RX 580 Drivers - Enhance Your Visual Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-seamlessly-transferring-dvd-movie-files-from-pcmac-to-roku-for-instant-playback/"><u>Step-by-Step Guide: Seamlessly Transferring DVD Movie Files From PC/Mac to Roku for Instant Playback</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformation-gratuite-de-videos-mp4-en-m4a-en-ligne-avec-movavi-tutorials-et-conseils/"><u>Transformation Gratuite De Vidéos MP4 en M4A en Ligne Avec Movavi - Tutorials Et Conseils</u></a></li>
+</ul></div>
 

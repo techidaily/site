@@ -1,7 +1,7 @@
 ---
 title: "Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems"
-date: 2024-09-18T19:55:42.752Z
-updated: 2024-09-24T19:32:45.029Z
+date: 2024-09-24T16:12:26.259Z
+updated: 2024-09-30T20:19:02.737Z
 tags:
   - deals
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 * [Use the Ubuntu Monospace Font in the Console](https://facebook-record-videos.techidaily.com/new-in-2024-diy-youtube-openers-technique-one-and-technique-two/)
 * [Use the Ubuntu Monospace Font in the Terminal](https://screen-video-capture.techidaily.com/in-2024-picking-the-right-software-bandicam-versus-camtasia/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  First, enable the Windows Subsystem for Linux (WSL) from the Features window or via the "wsl --install" command. After rebooting your PC, install Ubuntu or any other Linux distribution of your choice from the Microsoft Store.
@@ -27,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  The Windows Subsystem for Linux, introduced in the [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/), became a stable feature in the [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/). You can now run Ubuntu, openSUSE, a remix of Fedora, and plenty of others on Windows, with more Linux distributions coming soon.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What You Need to Know About Windows 10's Bash Shell
@@ -52,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  While this feature was originally called "Bash on Ubuntu on Windows," it also allows you to [run Zsh and other command-line shells](https://extra-support.techidaily.com/2024-approved-master-iphone-cams-with-these-hacks/). It now supports other Linux distributions, too. You can choose openSUSE Leap or SUSE Enterprise Server instead of Ubuntu, and there is a remix of Fedora available.
 
  There are some limitations here. It won't officially work with [graphical Linux desktop applications](https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-profit-the-ultimate-strategy-blueprint/). Not every command-line application works, either, as the feature isn't perfect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 2 (WSL2) Works
 
@@ -79,9 +87,29 @@ wsl --install
 
 ![PowerShell running WSL install command successfully.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WSL-install.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After your computer restarts, open the Microsoft Store from the Start menu, and search for "Linux" in the store.
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see a list of every Linux distribution currently available in the Windows Store.This includes [Ubuntu, openSUSE Leap, and openSUSE Enterprise](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/), Debian, Kali, and others. You can even find a few remixes of Fedora, though there isn't an official version available as of November 2023.
 
@@ -107,18 +135,18 @@ wsl --install
 
 ![Searching for "Ubuntu" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ubuntu-search.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first time you launch the Linux environment, you're be prompted to enter a UNIX username and password. These don't have to match your Windows username and password, but will be used within the Linux environment.
 
  For example, if you enter "bob" and "letmein" as your credentials, your username in the Linux environment will be "bob" and the password you use inside the Linux environment will be "letmein" --- no matter what your Windows username and password are.
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
@@ -127,13 +155,6 @@ wsl --install
  You can still launch your default Linux environment by running the `bash` command, but Microsoft says this is deprecated. This means the `bash` command may stop functioning in the future.
 
 ![Running &quot;bash&quot; in the Command Prompt will launch your default Linux environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985b14e9795.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're experienced using a Bash shell on Linux, Mac OS X, or other platforms, you'll be right at home.
 
@@ -156,10 +177,10 @@ wsl --install
 ![The command &quot;ls&quot; run in the C:\ directory to list files and folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985d46b3c57.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll need to [use the apt command](https://screen-sharing-recording.techidaily.com/updated-best-practices-in-winning-tv-recording-with-software/) to install and update the Ubuntu environment's software. Be sure to prefix these commands with `sudo` , which makes them run as root--the Linux equivalent of Administrator. Here are the apt-get commands you'll need to know:
@@ -188,13 +209,6 @@ wsl --install
 
 ![Open the font ZIP file, then double-click the font you want to preview or install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985eba01a04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Double-click the "UbuntuMono-R.ttf" file and you'll see a preview of the font. Click "Install" to install it to your system.
 
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
@@ -215,23 +229,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Terminal
 
@@ -246,10 +246,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
@@ -267,5 +267,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-xcover-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy XCover 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-the-world-of-free-tunes-explore-our-selection-of-7-best-streaming-melody-makers-on-android-and-apple-phones/"><u>Dive Into the World of Free Tunes - Explore Our Selection of 7 Best Streaming Melody Makers on Android & Apple Phones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 8 Passcode without Computer?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>In 2024, The Ultimate Guide to iOS Cropping Enhancing Your Images</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mxf-en-mp3-gratuitement-en-ligne-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MXF en MP3 Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-poco-f5-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Poco F5 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-a18-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo A18</u></a></li>
+</ul></div>
 

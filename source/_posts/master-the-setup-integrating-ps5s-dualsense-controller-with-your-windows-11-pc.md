@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC"
-date: 2024-09-21T18:06:02.541Z
-updated: 2024-09-25T00:21:40.311Z
+date: 2024-09-27T21:09:22.619Z
+updated: 2024-09-30T18:37:57.321Z
 tags:
   - deals
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
  You can pair your DualSense controller with either a USB cable or via Bluetooth. However, while connecting via Bluetooth is relatively easy, the controller's Bluetooth connection is not the best, so we highly recommend you connect the controller to your computer via USB.
@@ -35,23 +42,9 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
@@ -63,27 +56,20 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
@@ -95,26 +81,26 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
@@ -125,9 +111,23 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -154,5 +154,22 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[New] From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-role-of-green-infrastructure-in-revitalizing-cities/"><u>[Updated] 2024 Approved The Role of Green Infrastructure in Revitalizing Cities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-igtv-masterpieces-top-editing-software-showcased/"><u>[Updated] In 2024, IGTV Masterpieces Top Editing Software Showcased</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beaming-login-logout-directions/"><u>2024 Approved Beaming Login / Logout Directions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-premiere-pros-art-free-template-pack-2023/"><u>2024 Approved Master Premiere Pro's Art Free Template Pack 2023</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-a2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi A2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-cost-nature-inspired-screen-images/"><u>In 2024, No-Cost, Nature Inspired Screen Images</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-90-gt-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 GT working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 Pro | Stellar</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/plicated-method-fast-clearance-of-online-discussions/"><u>Uncomplicated Method Fast Clearance of Online Discussions</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-a54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy A54 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

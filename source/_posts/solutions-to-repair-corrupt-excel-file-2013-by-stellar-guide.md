@@ -1,6 +1,6 @@
 ---
 title: Solutions to Repair Corrupt Excel File 2013
-date: 2024-09-22T17:22:48.283Z
+date: 2024-09-27T18:12:59.871Z
 tags: 
   - repair
   - repair excel
@@ -41,9 +41,23 @@ Is your Excel file corrupted? And you don’t have backup of your data? There is
 - Large Excel files
 - Bad sectors on storage media
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **How to Avoid Data Loss Due to Excel File Corruption?**
 
 **Excel users should follow the below precautionary measures to prevent data loss due to Excel file corruption:**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **1\. Create an Automatic Backup Copy**
 
@@ -67,23 +81,9 @@ This will always create a backup of your Excel. If it’s deleted or corrupted a
 
 ![Access Excel Options from the File menu, navigate to Save, enable Save AutoRecover with specified minutes and location, and ensure the Disable AutoRecover for this workbook only box is unchecked.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Disable-auto-recover-1024x576.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Methods to Repair Corrupted Excel 2019 File**
 
 **Try using these 5 methods to restore your Excel file and recover data:**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 1: ‘Open and Repair’ Excel Files**
 
@@ -92,6 +92,13 @@ Excel automatically opens the corrupted file in Recovery Mode. If not, you can r
 - Click on the **File** and select **Open**.
 
 ![File and select Open](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/1-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Go to the location where the corrupt workbook is stored. In the **Open** window, select the corrupt file.
 - Click **Open** and then select **Open and Repair**.
@@ -109,23 +116,9 @@ If you face issues while working in an Excel file, you can choose to return to t
 
 ![Navigate to the File menu, select Open, double-click on the open workbook's name in Excel, and confirm by clicking Yes to reopen the workbook.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Excel-reopen-error.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - The workbook will now appear.
 
 _**Please note that it will show the last saved version and changes made after that won’t be recovered.**_
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Set Calculation Option as Manual
 
@@ -136,18 +129,31 @@ You can also recover data from Excel workbooks that you’re unable to open. For
 
 ![Microsoft Excel - Home Options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Options-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - From the **Formulas** category, under the section **Calculation options**, select **Manual. Now** click **OK**.
 
 ![Access the Formulas category, go to Calculation options, choose Manual, and confirm the changes by clicking OK.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/formula-manual.png)
 
-- Then click **File**, and select **Open** to open the corrupted or damaged Excel file.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+- Then click **File**, and select **Open** to open the corrupted or damaged Excel file.
 
 ### Method 4: Recover Content by Using External Links
 
@@ -163,13 +169,6 @@ You can also recover specifically the content (leaving formulas/calculated value
 
 ![Microsoft Excel - Dialog box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/formula.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Again, select the cell A1, go to **Home** and select **Copy**.
 - Now select (start from the cell A1) an area equal to that of the data in the original workbook.
 - Go to Home now and select **Paste**.
@@ -177,6 +176,13 @@ You can also recover specifically the content (leaving formulas/calculated value
 - Go to Home, and then click on the arrow below **Paste**. Then click on **Values**.
 
 By pasting values, you removed the links to the corrupted workbook and only the data is left behind.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Excel Repair Software
 
@@ -209,24 +215,18 @@ This post shared the reasons behind Excel file corruption and precautionary meas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films/"><u>[New] High-Quality Methodology Stitching GoPro Sequences in Virtual Reality Films</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-shorts-a-beginners-guide/"><u>[New] YouTube Shorts A Beginner's Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-crystal-clear-captures-selecting-webcams-for-impeccable-podcasts/"><u>[Updated] Crystal Clear Captures Selecting Webcams for Impeccable Podcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-pc-mac-screen-recording-software-for-2024/"><u>[Updated] Optimal PC-Mac Screen Recording Software for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>[Updated] Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-docu-script-writers-guide/"><u>2024 Approved The Docu-Script Writer's Guide</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-f34-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy F34 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-insight-into-selecting-the-top-5-digital-title-makers-for-2024/"><u>Exclusive Insight Into Selecting the Top 5 Digital Title Makers for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-pova-6-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Pova 6 Pro 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-the-world-of-gopro-streaming-and-social-media-networks/"><u>In 2024, Navigating the World of Gopro Streaming and Social Media Networks</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-retrieval-tool-restore-lost-data-from-samsung-galaxy-a05s-by-fonelab-android-recover-data/"><u>Samsung Data Retrieval tool – restore lost data from Samsung Galaxy A05s</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo A58 4G</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-15-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 15 Pro Max Suddenly | Stellar</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c51-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C51 Device</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-y02t-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo Y02T without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-12-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme 12 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-key-approaches-to-mute-motion-capture-for-2024/"><u>[New] Key Approaches to Mute Motion Capture for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-best-5-book-promo-videos-for-authors-for-2024/"><u>Exploring the Best 5 Book Promo Videos for Authors for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-of-claude-understanding-the-new-ai-revolution/"><u>Exploring the Potential of Claude: Understanding the New AI Revolution</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-depth-analysis-and-testing-of-the-lightning-fast-logiteche-g-pro-x-2-keyboard-perfect-for-hardcore-players/"><u>Game Changer: In-Depth Analysis and Testing of the Lightning-Fast Logiteche G Pro X 2 Keyboard - Perfect for Hardcore Players</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x9a-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-outstanding-20-anime-opening-melodies/"><u>In 2024, Outstanding 20 Anime Opening Melodies</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-k11-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo K11 5G</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-12-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 12 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/trasforma-i-file-wmv-online-gratuito-con-convertitore-wmv-di-movavi-fatto-per-te/"><u>Trasforma I File WMV Online Gratuito Con Convertitore WMV Di Movavi - Fatto per Te!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unravel-the-potential-of-multiple-screen-usage-in-netflix-for-2024/"><u>Unravel The Potential of Multiple Screen Usage in Netflix for 2024</u></a></li>
 </ul></div>
 
