@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2024-09-26T20:28:23.979Z
-updated: 2024-09-30T18:48:47.440Z
+date: 2024-10-03T19:07:44.080Z
+updated: 2024-10-05T19:03:51.180Z
 tags:
   - desktop
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 * [How to Uninstall Software Using the Command Line on Ubuntu](https://tech-hub.techidaily.com/champion-your-fitness-qanda-mastering-the-art-of-effective-chatgpt-communication/)
 * [How to Uninstall Software Using the Command Line in Fedora](https://fox-that.techidaily.com/10-effective-solutions-for-resolving-ghost-touch-issues-on-your-iphone/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Identify the installed package's name by running commands like "apt list --installed" (on Ubuntu) or "dnf list --installed" (on Fedora).
@@ -30,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 * On Fedora Linux, the "sudo dnf remove \[package\_name\]" command will uninstall the package.
 
  Linux distributions provide different methods for installing software. You can install software from the standard Ubuntu or Fedora software repositories using the Software Center, from outside of the standard Ubuntu or Fedora software repositories, or by compiling source code. However, what if you need to uninstall a program?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Uninstall Software Using the Command Line on Ubuntu
 
@@ -48,13 +48,6 @@ apt list --installed
  The commands will display the same content, but it'll be displayed a little differently.
 
 ![Running &quot;dpkg --list&quot; in the Termminal on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/dpkg-list-being-run-in-terminal.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll through the list of installed packages in the Terminal window to find the one you want to uninstall. Note the full name of the package.
 
@@ -94,13 +87,6 @@ sudo apt purge --auto-remove gimp
 
 ![Run &quot;sudo apt purge --autoremove gimp&quot; to remove all of GIMP's dependencies and the configuration files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/sudo-apt-purge-autoremove-to-uninstall-packages-and-unused-dependencies.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're short on space, you can use the "clean" command to remove downloaded archive files, as shown below.
 
 sudo apt clean
@@ -120,10 +106,10 @@ sudo apt clean
 | Networking        | [netstat](https://screen-capture.techidaily.com/updated-memorize-mastery-galaxy-phone-gameplay-archive/) **·** [ping](https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-poco-x6-pro-drfone-by-drfone-virtual-android/) **·** [traceroute](https://fox-hovers.techidaily.com/beginners-pathway-to-grasping-hd-content-standards-for-2024/) **·** [ip](https://techtrends.techidaily.com/step-by-step-instructions-on-configuring-any-universal-remote-easily/) **·** [ss](https://techidaily.com/is-your-honor-play-7t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/) **·** [whois](https://article-tips.techidaily.com/why-cant-i-watch-video-on-sony-a6400-camera/) **·** [fail2ban](https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/) **·** [bmon](https://youtube-clips.techidaily.com/unlocking-your-creative-potential-style-and-niche/) **·** [dig](https://screen-sharing-recording.techidaily.com/updated-is-splitcam-the-pinnacle-of-recording-capabilities-for-2024/) **·** [finger](https://facebook-video-content.techidaily.com/new-2024-approved-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/) **·** [nmap](https://youtube-video-recordings.techidaily.com/updated-building-a-professional-online-brand-as-a-game-vlogger/) **·** [ftp](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) **·** [curl](https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-mix-fold-3-frp-locks-by-drfone-android/) **·** [wget](https://common-error.techidaily.com/expert-guide-to-overcoming-bluetooth-paired-yet-unconnected-woes-in-your-windows-10-pc/) **·** [who](https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/) **·** [whoami](https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/) **·** [w](https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/) **·** [iptables](https://hardware-tips.techidaily.com/advanced-hardware-uncovered-by-tom-top-picks-and-performance-tips/) **·** [ssh-keygen](https://youtube-tips.techidaily.com/n-2024-laughter-labyr-writes-making-memorable-parodies/) **·** [ufw](https://remote-screen-capture.techidaily.com/in-2024-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders/) **·** [arping](https://extra-skills.techidaily.com/pivoting-from-xsplit-top-video-splitters-ranked-for-2024/) **·** [firewalld](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Uninstall Software Using the Command Line in Fedora
@@ -136,9 +122,23 @@ dnf list --installed
 
 ![Terminal output of the DNF command to list installed packages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072542.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll through the list until you find the program that you're looking for.
 
 ![The GIMP package found in the list of installed packages on a Fedora installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072638.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are two quick ways to remove a program using DNF.
 
@@ -159,18 +159,18 @@ sudo dnf remove gimp
 
 ![The DNF command to remove the GIMP package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_073703.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just enter "y" and GIMP will be removed.
 
  Typically, the remove command removes any dependencies that were installed with the program. However, depending on your configuration, it might not. If you want to make sure all unnecessary dependencies are removed, use the **sudo dnf autoremove <package>** command.
 
 ![The DNF auto-remove command being used to remove GIMP and all its dependencies.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_075114.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fedora is usually pretty good at grabbing only the correct dependencies, but if you notice something on the "Removing Unused Dependencies" list that you'd like to keep, you can manually flag it to be kept. Enter the following command in a command line to keep a dependency:
 
@@ -195,18 +195,17 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-graphic-geniuses-discover-the-best-10-free-sketch-for-mac-for-2024/"><u>[New] Graphic Geniuses Discover the Best 10 Free Sketch for Mac for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitching-your-video-trailers-to-youtube-success/"><u>[New] In 2024, Hitching Your Video Trailers to YouTube Success</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-securing-sound-output-fixes-for-silent-obs-streams/"><u>[Updated] In 2024, Securing Sound Output Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1-comprehensive-tutorial-converting-ogg-files-to-mp3-format-with-vlc-media-player/"><u>1. Comprehensive Tutorial: Converting OGG Files to MP3 Format with VLC Media Player</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-instructions-on-how-to-install-new-audio-technica-driver-software/"><u>Easy Instructions on How To Install New Audio Technica Driver Software</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-t2-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo T2 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo T2 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-10-audio-amplifiers-for-home-office-setups-for-2024/"><u>Top 10 Audio Amplifiers for Home-Office Setups for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-honor-x50iplus-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor X50i+</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-p40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel P40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-affordable-mic-picks-for-aspiring-yt-bands/"><u>[Updated] In 2024, Affordable Mic Picks for Aspiring YT Bands</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pcs-top-choice-essential-ps1-emulators/"><u>2024 Approved PC's Top Choice Essential PS1 Emulators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-overcoming-ntdlldll-malfunctions-in-older-and-latest-windows-os/"><u>Comprehensive Strategies: Overcoming ntdll.dll Malfunctions in Older and Latest Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a23-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A23 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with IMEI Code?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mirrorless-vs-dslr-cameras-which-is-better-for-videos/"><u>Mirrorless Vs. DSLR Cameras Which Is Better for Videos?</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-yuva-2-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-apowersoft-mobile-app-issues-unable-to-access-sms-calls-and-contact-details-on-android-devices/"><u>Troubleshooting Apowersoft Mobile App Issues: Unable to Access SMS, Calls & Contact Details on Android Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-moto-g-stylus-5g-2023-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Moto G Stylus 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g73-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G73 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Advancements in AI and Reducing Value Delivery Gaps Within Smart Businesses
-date: 2024-09-18T03:38:36.949Z
-updated: 2024-09-23T23:11:34.129Z
+date: 2024-10-05T01:49:13.461Z
+updated: 2024-10-05T21:09:43.917Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377bb37001448c4704afb2e518.jpg
@@ -37,10 +37,10 @@ However, the hype of new AI technologies can often bring unknown risks to an org
 We are working closely with our partners and customers to guide them between the hype and reality, and how the latest AI innovations can work within their current technical stack. The last thing any company can afford is buying new technologies that don’t work as expected or won’t be adopted enterprise-wide, resulting in further technical debt.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ABBYY Reaffirms Its Position as an Intelligent Automation Market Leader
@@ -60,10 +60,10 @@ We’ll continue the discussion later this fall when ABBYY hosts Intelligent Aut
 ![Gabrielle Lukianchuk 110X110 (1)](https://static1.abbyy.com/abbyycommedia/37002/gabrielle-lukianchuk_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Gabrielle Lukianchuk
@@ -75,16 +75,16 @@ Gabrielle Lukianchuk is the Chief Marketing Officer at ABBYY where she oversees 
 Connect with Gabrielle on [LinkedIn](https://www.linkedin.com/in/gabriellelukianchuk/).
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Additional Insights:
@@ -94,10 +94,10 @@ Connect with Gabrielle on [LinkedIn](https://www.linkedin.com/in/gabriellelukian
 [![Are Large Language Models (LLMs) the Future?](https://static2.abbyy.com/abbyycommedia/37511/are-llms-the-future_848x444.jpg) **Are Large Language Models (LLMs) the Future?** Read more](https://tools.techidaily.com/abbyy/products/) [![How Banks Are Meeting Compliance Regulations and Fighting Fraud with AI and Machine Learning](https://static3.abbyy.com/abbyycommedia/37506/how-banks-fight-fraud-with-ai-and-ml_848x444.jpg) **How Banks Are Meeting Compliance Regulations and Fighting Fraud with AI and Machine Learning** Read more](https://tools.techidaily.com/abbyy/products/) [![How Process Mining Improves Business Processes and Prevents Cyber Threats](https://static3.abbyy.com/abbyycommedia/37507/howprocessminingpreventscyberthreats_848x444.jpg) **How Process Mining Improves Business Processes and Prevents Cyber Threats** Read more](https://tools.techidaily.com/abbyy/products/) [![Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific](https://static4.abbyy.com/abbyycommedia/37508/idp-trends-and-outcomes-report_848x444.jpg) **Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Process Mining Reveals $6 Million in Savings](https://static2.abbyy.com/abbyycommedia/37509/leading-financial-institution-saves-millions_848x444.jpg) **Customer Point of View: Process Mining Reveals $6 Million in Savings** Read more](https://tools.techidaily.com/abbyy/products/) [![The Second Tax Revolution—How Trustworthy AI Transforms Online Tax Filing](https://static1.abbyy.com/abbyycommedia/37510/the-second-tax-revolution_848x444.jpg) **The Second Tax Revolution—How Trustworthy AI Transforms Online Tax Filing** Read more](https://tools.techidaily.com/abbyy/products/) [![Is Generative AI Trustworthy?](https://static2.abbyy.com/abbyycommedia/37531/ai-and-the-big-question_848x444.jpg) **Is Generative AI Trustworthy?** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg) **Creating an Intelligent Automation Symphony** Read more](https://tools.techidaily.com/abbyy/products/) [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg) **Document AI Creating a Safer World** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Subscribe for updates
@@ -155,5 +155,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a05s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A05s Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/hevc-enhanced-video-encoder-toolkit-installation-package-free-complete-and-easy-to-use/"><u>Hevc Enhanced Video Encoder Toolkit Installation Package: Free, Complete, and Easy-to-Use</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconsidering-the-price-of-next-gen-graphics-cards/"><u>Reconsidering the Price of Next-Gen Graphics Cards</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-rpg-sessions-with-ai-creating-dandd-characters-using-chatgpt-and-dall-e/"><u>Revolutionize Your RPG Sessions with AI: Creating D&D Characters Using ChatGPT and DALL-E</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-a70-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-disabled-microsoft-outlook-push-notifications/"><u>Troubleshooting Disabled Microsoft Outlook Push Notifications</u></a></li>
+</ul></div>
 

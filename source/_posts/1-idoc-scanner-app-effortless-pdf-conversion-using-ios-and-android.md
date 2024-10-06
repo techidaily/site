@@ -1,7 +1,7 @@
 ---
 title: 1. IDoc Scanner App - Effortless PDF Conversion Using iOS & Android
-date: 2024-09-18T21:11:10.633Z
-updated: 2024-09-23T19:34:38.025Z
+date: 2024-10-03T16:01:59.840Z
+updated: 2024-10-06T13:08:47.589Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c6610495144fe17eca852c8fbd.jpg
@@ -182,16 +182,10 @@ Instructions for iOS Users
 * Sign in to your Google account.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Tap **Automatically upload to** and select **Google Drive (FineReader)**.
@@ -213,23 +207,16 @@ Instructions for Android Users
 ![Mobile 3](https://static1.abbyy.com/abbyycommedia/32744/mobile3.png)
 * Tap **ADD** next to **Google Drive (FineReader)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Sign in to your Google Drive account.
 * Tap Automatically upload to and select Google Drive (FineReader).
 * Be sure to select the desired format and size for the output file.  
 ![Mobile 4](https://static1.abbyy.com/abbyycommedia/32743/mobile4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now when you create a new scan, it will be automatically uploaded to Google Drive and become available in ABBYY [FineReader PDF for Windows](https://tools.techidaily.com/abbyy/products/).
@@ -251,10 +238,10 @@ Launch ABBYY FineReader PDF 15\. Under **New Task**, click the **Mobile applicat
 ![PC 1](https://static1.abbyy.com/abbyycommedia/32742/pc1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Select the **FineReader** folder in Google Drive (you will only need to do this once).
@@ -266,6 +253,13 @@ If you do not see “**FineReader**” in Google Drive, this means that you have
 FineReader PDF 15 will remember the path to the **FineReader** folder and open it next time when you click the **Mobile application** tab.
 
 ![PC 3](https://static1.abbyy.com/abbyycommedia/32740/pc3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To continue working with a scan you created with the FineReader PDF for Mobile app, click on its file.
 
@@ -300,5 +294,24 @@ Share
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitch-your-way-mastering-twitter-video-livestreaming/"><u>[New] Twitch Your Way Mastering Twitter Video Livestreaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-securing-high-quality-sound-from-anywhere/"><u>[Updated] Securing High-Quality Sound From Anywhere</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-nanovid-recorder-analysis-with-replacements/"><u>2024 Approved NanoVid Recorder Analysis with Replacements</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-common-iphone-issues-by-restoring-network-configuration-from-scratch/"><u>Fix Common iPhone Issues by Restoring Network Configuration From Scratch</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-12-mini-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 12 mini and iPad</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-11-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 11 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-note-30i-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Note 30i Phone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y200e-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y200e 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211295370-quick-fixes-for-when-your-overwatch-microphone-fails-solutions-inside/"><u>Quick Fixes for When Your Overwatch Microphone Fails - Solutions Inside</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x90s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X90S</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-swift-download-for-amd-ryzen-5-2600-graphics-card-drivers/"><u>Secure and Swift Download for AMD Ryzen 5 2600 Graphics Card Drivers</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-y200e-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Y200e 5G</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-edge-40-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Edge 40 fingerprint</u></a></li>
+<li><a href="https://techidaily.com/you-must-know-how-to-configure-mt4-and-mt5-accounts-for-running-a-local-trade-copier-tm-together-with-any-other-forex-ea-by-mt4copier-guide/"><u>You must know how to Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+</ul></div>
 

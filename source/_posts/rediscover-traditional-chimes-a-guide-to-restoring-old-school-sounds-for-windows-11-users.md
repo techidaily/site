@@ -1,7 +1,7 @@
 ---
 title: "Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users"
-date: 2024-09-26T01:14:17.358Z
-updated: 2024-10-01T03:14:25.731Z
+date: 2024-09-29T17:59:51.734Z
+updated: 2024-10-06T04:16:13.102Z
 tags:
   - deals
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * [Change System Sounds in Settings](https://screen-activity-recording.techidaily.com/2024-approved-effective-group-meetings-googles-top-solutions-4/)
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Make sure you have downloaded the necessary sound pack for the Windows version you want to emulate sonically; ensure its files are in WAV format.
@@ -33,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Get Sound Packs of Old Windows Sounds
@@ -46,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  An example of where to find sound packs is the Sound Schemes Gallery page on the [WinCustomize website](https://www.wincustomize.com/explore/sound%5Fschemes/). You can find sounds for Windows XP, Vista, 7, 8, 8.1, 10, and more. Select the one you want and click “Download” to save it to your computer.
 
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
 
@@ -61,13 +61,6 @@ Close
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change System Sounds in Settings
 
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
@@ -81,6 +74,13 @@ Close
  Next, you must change the sounds for various system events in the Program Events section. For example, to change the Windows startup sound, select the "Windows Logon" event. Then, click "Browse" in the Sounds section.
 
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
 
@@ -101,10 +101,10 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
@@ -136,22 +136,16 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-quick-youtube-comment-removal-techniques/"><u>[New] Mastering Quick YouTube Comment Removal Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-exploring-and-locating-videos-on-facebook-platform-for-2024/"><u>[Updated] Exploring and Locating Videos on Facebook Platform for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-sierras-complete-access-to-cloud-documentationdrive/"><u>[Updated] In 2024, Sierra's Complete Access to Cloud Documentation/Drive</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[Updated] The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726225613568-m4aavi-movavi/"><u>无限制在线将音频文件从M4A改为AVI格式的转换器 - 利用Movavi功能</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-14-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-action-astral-image-repair-set/"><u>Quick Action: Astral Image Repair Set</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-v29-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo V29 on Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sound-syncing-simplified-for-inshot-edits-for-2024/"><u>Sound Syncing Simplified for InShot Edits for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/tailoring-your-video-sessions-with-zoom-on-youtube-platform-for-2024/"><u>Tailoring Your Video Sessions with Zoom on YouTube Platform for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-powershot-companion-elph-190/"><u>The Ultimate PowerShot Companion: ELPH 190</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-moto-g14-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Moto G14</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-motorola-moto-g34-5g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Motorola Moto G34 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Infinix</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-enhancing-your-videos-step-by-step-for-ken-burns-effect-in-camtasa-for-2024/"><u>[New] Enhancing Your Videos Step-by-Step for Ken Burns Effect in Camtasa for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-10-top-ios-players-elevating-video-watching-on-devices/"><u>[New] In 2024, 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-music-integration-into-vimeo-videos/"><u>[New] In 2024, Mastering Music Integration Into Vimeo Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/comprehensive-guide-to-srgb-and-rgb/"><u>Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversione-gratuita-da-jpg-a-bmp-con-movavi-guida-per-professionisti-e-utenti-esperti/"><u>Conversione Gratuita Da JPG a BMP Con Movavi: Guida per Professionisti E Utenti Esperti</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mastering-video-editing-on-mac-a-step-by-step-guide-for-yosemite-users/"><u>New 2024 Approved Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fix-your-fnaf-game-crashes-on-windows-now-running-smoothly/"><u>Resolved: Fix Your FNaF Game Crashes on Windows - Now Running Smoothly</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y100a-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y100A</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-realme-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Realme</u></a></li>
 </ul></div>
 

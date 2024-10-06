@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Recognized as a Key Player: Top 100 Influential Entities Shaping the Future of Knowledge Management"
-date: 2024-09-19T21:43:27.089Z
-updated: 2024-09-24T08:41:46.940Z
+date: 2024-10-03T05:01:53.413Z
+updated: 2024-10-05T22:52:38.960Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16a9fa8da6c72d7e20d694e32.jpg
@@ -48,12 +48,30 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-preview-app-on-mac-complete-guide/"><u>[New] How to Use Preview App on Mac [Complete Guide]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-probing-into-the-integration-of-real-and-digital-in-mixed-reality/"><u>[New] Probing Into the Integration of Real and Digital in Mixed Reality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716070048390-updated-2024-approved-discover-the-best-mac-gif-recorders-now/"><u>[Updated] 2024 Approved Discover the Best Mac GIF Recorders Now!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-achieve-maximum-impact-in-fb-video-ads-use-free-tools/"><u>[Updated] Achieve Maximum Impact in FB Video Ads - Use Free Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/concerned-about-chatgpt-privacy-heres-how-to-opt-out/"><u>Concerned About ChatGPT Privacy? Here's How to Opt Out</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-conversion-of-3gpp-files-to-cu3gp-format-online-with-movavi/"><u>Free Conversion of 3GPP Files to Cu3gp Format - Online with Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>In 2024, Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-nonresponsive-diagnostic-utilities-in-win10win11/"><u>Reviving Nonresponsive Diagnostic Utilities in Win10/Win11</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-10-v-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Sony Xperia 10 V can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-14-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 14 SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-sony-xperia-10-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Sony Xperia 10 V?</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

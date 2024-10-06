@@ -1,7 +1,7 @@
 ---
 title: Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
-date: 2024-09-30T06:35:39.412Z
-updated: 2024-09-30T18:41:42.004Z
+date: 2024-10-01T08:12:47.001Z
+updated: 2024-10-06T09:44:06.208Z
 tags:
   - cutting-edge
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Get a Quick Excel Formula From ChatGPT](https://screen-sharing-recording.techidaily.com/new-gaming-filmmaking-techniques-to-record-games-flawlessly-for-2024/)
 * [ChatGPT Can Troubleshoot and Tweak Your Formulas](https://screen-mirroring-recording.techidaily.com/2024-approved-clear-vision-in-gaming-captures-overcoming-obs-black-screens/)
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,15 +44,22 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
@@ -74,10 +74,10 @@ Close
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  You Can Create Formatting Rules With ChatGPT
@@ -85,6 +85,13 @@ Close
  Excel has a complex interface that makes it hard to navigate, especially for novices, and conditional formatting rules require you to poke around to figure them out. In the following example, I have a list of articles with columns that track whether they have been written and have photos.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
 
@@ -105,13 +112,6 @@ Close
  You can also use ChatGPT to identify what's causing an error. Let's say an event organizer was trying to calculate the total number of passengers from each city using a simple addition formula and encountered the #VALUE! error because they mixed text and numbers. After explaining the issue to ChatGPT, it immediately recognized the error and gave a fix accompanied by a simple explanation.
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
 
@@ -138,20 +138,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-dji-quadcopter-a-deep-dive-into-phantom-3/"><u>[New] DJI Quadcopter A Deep Dive Into Phantom 3</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-editing-to-sharing-youtube-mastery-with-adobe-premiere-for-2024/"><u>[New] From Editing to Sharing YouTube Mastery with Adobe Premiere for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-4k-blade-camera-imaging/"><u>[New] The Ultimate Guide to 4K Blade Camera Imaging</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-gradual-glide-out-technique-for-audio-in-adobe-premiere-pro/"><u>2024 Approved The Gradual Glide Out Technique for Audio in Adobe Premiere Pro</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-y200-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y200 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m54-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M54 5G Phone without Google Account?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/nintendo-switchs-ultimate-hd-gameplay/"><u>Nintendo Switch's Ultimate HD Gameplay</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v14-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.4 File | Stellar</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-computer-dismisses-affected-video-card/"><u>Solving: Computer Dismisses Affected Video Card</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-best-free-youtube-comment-finder-you-should-try-for-2024/"><u>[Updated] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonic-havens-expert-picks-of-ringtone-download-sites-for-2024/"><u>Harmonic Havens Expert Picks of Ringtone Download Sites for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Nubia Red Magic 9 Pro Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v12-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.2 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-c53-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme C53)</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a15-4g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy A15 4G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme 11 Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/spectacle-of-speed-simulators-top-5-for-2024/"><u>Spectacle of Speed Simulators (Top 5) for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transferer-un-fichier-amv-vers-wmv-sur-internet-gratuite-methode-de-convertisseur/"><u>Transférer Un Fichier AMV Vers WMV Sur Internet Gratuite - Méthode De Convertisseur</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 13 Pro Max? | Stellar</u></a></li>
 </ul></div>
 

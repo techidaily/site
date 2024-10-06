@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence: The Powerhouse Behind Banking Regulation and Anti-Fraud Efforts"
-date: 2024-09-19T10:24:34.255Z
-updated: 2024-09-23T21:53:43.745Z
+date: 2024-09-28T17:08:01.556Z
+updated: 2024-10-05T22:08:21.867Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc531569d56d79c1b10e2acedb4321.png
@@ -26,13 +26,6 @@ Financial crime has gone digital, and cybercriminals are inventing new methods o
 The origins of know-your-customer (KYC) and anti–money laundering (AML) regulations go back to the Bank Secrecy Act of 1970 and were strengthened after the attacks in New York City, USA on September 11, 2001\. For the first time, cybercrime was officially codified as terrorism and received special attention in formulating counter-terrorism measures, including Combating the Financing of Terrorism (CFT).
 
 Complying with these regulations can be effective in preventing fraud and theft, yet banks must remain vigilant and take additional steps to keep pace with rapidly evolving cybercriminal methods.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Financial crimes have evolved, and so have financial institutions
 
@@ -60,6 +53,13 @@ Fortunately, today’s artificial-intelligence-driven technologies are providing
 
 To address the dual challenge of complying with KYC/AML/CFT regulations and forestalling criminal activities that may fall outside compliance requirements, financial institutions need a multi-front battle plan that addresses people, processes, and documents.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How AI and machine learning facilitate document chain of custody
 
 Using the latest artificial intelligence (AI) and machine learning (ML) technologies, banks are provided with key capabilities in document chain of custody:
@@ -77,19 +77,6 @@ If a customer submits a driver’s license as part of the onboarding process, a 
 Any gaps in this chain could result not only in KYC compliance violations, but also in vulnerabilities that could be exploited by cybercriminals.
 
 While most banks may have a good idea of how these processes should execute, the gaps between theory and practice may be broader than they think—and those gaps could present opportunities for fraud or data theft. By automatically mapping process execution, banks can track the lifecycle of customer and transaction data as it moves through and between processes with their essential documents and, if required, provide accurate documentation of the chain of custody.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Forecasting human-in-the-loop to remain vital to AI-solution success
 
@@ -116,10 +103,10 @@ As Chief Marketing Officer at ABBYY, Orcutt leads the global product strategy, g
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Additional Insights:
@@ -129,6 +116,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![Are Large Language Models (LLMs) the Future?](https://static2.abbyy.com/abbyycommedia/37511/are-llms-the-future_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -140,13 +134,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![The Gap Is Closing Between AI Innovation and Time-to-Value](https://static4.abbyy.com/abbyycommedia/37512/executive-insight_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**The Gap Is Closing Between AI Innovation and Time-to-Value**](https://tools.techidaily.com/abbyy/products/)
@@ -156,6 +143,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![How Process Mining Improves Business Processes and Prevents Cyber Threats](https://static3.abbyy.com/abbyycommedia/37507/howprocessminingpreventscyberthreats_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -167,6 +161,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific](https://static4.abbyy.com/abbyycommedia/37508/idp-trends-and-outcomes-report_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific**](https://tools.techidaily.com/abbyy/products/)
@@ -176,13 +177,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![Customer Point of View: Process Mining Reveals $6 Million in Savings](https://static2.abbyy.com/abbyycommedia/37509/leading-financial-institution-saves-millions_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -203,13 +197,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![Is Generative AI Trustworthy?](https://static2.abbyy.com/abbyycommedia/37531/ai-and-the-big-question_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -241,6 +228,19 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**Document AI Creating a Safer World**](https://tools.techidaily.com/abbyy/products/)
@@ -251,13 +251,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**Customer Point of View: Approach Automation Step by Step**](https://tools.techidaily.com/abbyy/products/)
@@ -267,6 +260,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -329,5 +329,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-much-money-do-youtubers-make-per-view/"><u>[New] How Much Money Do YouTubers Make Per View</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-cutting-suites-on-linux-systems/"><u>[Updated] Premier Cutting Suites on Linux Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>2024 Approved From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-x-flip-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo X Flip Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-12-pro-max-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone 12 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rekindling-the-classics-top-80s-video-effects-for-cutting-edge-films-for-2024/"><u>Rekindling the Classics Top 80S Video Effects for Cutting-Edge Films for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revamping-your-aging-usb-composite-device-effective-solutions-unveiled/"><u>Revamping Your Aging USB Composite Device – Effective Solutions Unveiled</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-90-lite-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor 90 Lite without backup.</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-gt-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix GT 10 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

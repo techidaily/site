@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-09-26T07:18:27.454Z
-updated: 2024-10-01T05:06:04.034Z
+date: 2024-10-04T08:11:40.230Z
+updated: 2024-10-06T07:16:25.456Z
 tags:
   - desktop
 categories:
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -66,13 +73,6 @@ Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  MINIX, the Unix Mini-Me
 
  Before Unix eventually found commercial success, it was a major hit in academia. Because Unix was a new breed of operating system, university courses were devoted to its design and implementation, and Unix was used on university mainframes by the universities themselves.
@@ -91,14 +91,14 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-Dave McKay/How-To Geek
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Dave McKay/How-To Geek
 
 ##  Linus Torvalds and Freax
 
@@ -113,10 +113,10 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -156,16 +156,18 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-superior-capture-software-for-mac-excluding-bandicam-for-2024/"><u>[New] Superior Capture Software for Mac, Excluding Bandicam for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elevate-your-editing-game-incorrances-and-tips-for-using-luts-in-adobe-after-effects/"><u>[Updated] Elevate Your Editing Game Incorrances and Tips for Using LUTs in Adobe After Effects</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny/"><u>App Reception A Comprehensive Scrutiny</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-eero-pro-mesh-setup-the-ultimate-router-choice-for-extensive-home-coverage/"><u>Expert Insights on Eero Pro Mesh Setup: The Ultimate Router Choice for Extensive Home Coverage</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-11-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-prospects-and-pitfalls-of-the-latest-in-photography-by-samsung-2023/"><u>In 2024, Prospects & Pitfalls of the Latest in Photography by Samsung, 2023</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-itel-s23-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Itel S23</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adobes-power-for-creating-lifelike-3d-text-in-photos/"><u>[New] Adobe's Power for Creating Lifelike 3D Text in PHOTOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>[Updated] In 2024, Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-improve-conference-efficiency-webcam-assisted-powerpoint/"><u>[Updated] In 2024, Improve Conference Efficiency Webcam-Assisted PowerPoint</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-m6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-zero-30-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Zero 30 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-step-by-step-approach-to-crafting-shareable-facebook-slideshows/"><u>In 2024, Step-by-Step Approach to Crafting Shareable Facebook Slideshows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-v30-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo V30 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techidaily.com/samsung-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung won’t play MP4 files</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-14-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi 14 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-solutions-for-resolving-the-csgo-login-issue/"><u>Top 5 Solutions for Resolving the CS:GO Login Issue</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 </ul></div>
 

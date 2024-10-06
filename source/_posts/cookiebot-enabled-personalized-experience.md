@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Enabled Personalized Experience
-date: 2024-09-23T00:52:27.494Z
-updated: 2024-09-23T21:39:49.659Z
+date: 2024-10-04T01:52:49.067Z
+updated: 2024-10-06T05:11:59.278Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d6512c63e9ff94e5d9f50942.jpg
@@ -33,13 +33,6 @@ I’ll start with the journey. It’s been a great six years with personal progr
 
 Thanks to the trust and autonomy ABBYY showed, I was able to pursue strategic business development on a global basis when I was made VP Global Business Development in 2018 with a focus on helping drive ABBYY’s success into the [RPA and Intelligent Automation markets](https://tools.techidaily.com/abbyy/products/). This allowed me to build a team across the US, EMEA and India with some of the smartest people I have ever worked with. That role eventually evolved into heading up all channel business as Global Channel Chief in 2021, and now I have the additional position as SVP Sales EMEA.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What does a typical day look like for you at ABBYY?
 
 Gym first thing in the morning while dodging being ambushed by my kids looking for all sorts of things that they shouldn’t be eating at 6am! In the UK, many of us work from home but have the benefit of a great office in Bank, Central London, so I operate in a hybrid model between the two. Typically, I take some time to answer emails from overnight and then get on calls with various members of the team to discuss current opportunities, but I am at my happiest engaged alongside them with our partners and customers. Ultimately, I want the team to have the autonomy and space to operate that I was given, so I try to ensure this happens while getting involved where required.
@@ -48,9 +41,20 @@ Gym first thing in the morning while dodging being ambushed by my kids looking f
 
 The team I get to work with is what keeps me going. COVID really impacted the amount of time we have spent together in the last couple of years, but I’m looking forward to getting more face time over the coming months. I love a deal, and the sense of excitement when I or the team is working on a significant opportunity is always palpable and the part that I enjoy the most.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What was your previous experience before ABBYY?
 
 I have spent all my career working within the automation market, particularly document and [process automation](https://tools.techidaily.com/abbyy/products/), and previous to ABBYY worked as EMEA Solutions Director for Kodak Alaris, who are a leader in the document digitisation market. My most formative role, however, was for one of their competitors, Bell & Howell, where I was the only employee covering the UK, Ireland, Benelux, and Eastern Europe (all other resources were based out of the US, so no local support, marketing etc). All the business was dependent on me, so it quickly taught me the importance of resilience and self-reliance for my success. I also had a fantastic boss who believed in me and gave me all the autonomy I needed.
+
+### Your top advice to someone joining ABBYY in your function?
+
+Be responsible for your own success. ABBYY will look to help and support you, but you are the one that really makes it happen. And most of all, have fun doing it! If this sounds interesting, then check out our [open positions.](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
 <a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
@@ -58,10 +62,6 @@ I have spent all my career working within the automation market, particularly do
 </a>
 <img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### Your top advice to someone joining ABBYY in your function?
-
-Be responsible for your own success. ABBYY will look to help and support you, but you are the one that really makes it happen. And most of all, have fun doing it! If this sounds interesting, then check out our [open positions.](https://tools.techidaily.com/abbyy/products/)
 
 ### How do you spend your free time?
 
@@ -74,25 +74,32 @@ I also have a very lovely wife who I don’t deserve, so we love to spend some t
 ![Neil Murphy ABBYY](https://static1.abbyy.com/abbyycommedia/36482/neil_collage_2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### If you could have one wish come true, what would it be?
 
 Since I am from Ireland, I wish my team was in the World Cup that's going on right now. It's been 20 years since we were last there, I can't believe it! My kids have been supporting England, so there were some gloomy faces at home on Saturday when they were knocked out against France.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What’s your pet peeve?
 
 Zoom calls. Clearly, they were a necessity over lock-down, but I think we miss too much of the human aspect when we don't connect in person.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name any inspirational book/movie/music you have recently discovered or are enjoying at the moment
@@ -104,13 +111,6 @@ Hard to pick one in particular recently, but my favourite book is Birdsong by Se
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -173,5 +173,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-cutting-edge-tech-mastering-dslr-macpc-for-social-media-broadcasts/"><u>[New] 2024 Approved Cutting Edge Tech Mastering DSLR, Mac/PC for Social Media Broadcasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-rise-in-the-rankings-essential-seo-for-video-creators/"><u>[Updated] 2024 Approved Rise in the Rankings Essential SEO for Video Creators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-adobe-lightroom-essentials-review/"><u>[Updated] Adobe Lightroom Essentials Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-guide-to-seamlessly-replace-backgrounds-on-instagram/"><u>2024 Approved Step-by-Step Guide to Seamlessly Replace Backgrounds on Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-12-pro-4g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 12 Pro 4G PC | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/boosting-productivity-key-strategies-for-your-center-of-excellence-with-abbyy-plus-blue-prism-live-session/"><u>Boosting Productivity - Key Strategies for Your Center of Excellence with ABBYY + Blue Prism Live Session</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-update-season-eb-understanding-the-enhanced-gameplay-performance/"><u>Fortnite Update - Season Eb: Understanding the Enhanced Gameplay Performance</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-m34-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy M34 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a54-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A54 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-x50i-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from X50i</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/synergy-of-style-and-functionality-in-ae-plugins/"><u>Synergy of Style and Functionality in AE Plugins</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-130-music-by-fonelab-android-recover-data/"><u>The way to get back lost data from 130 Music</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-huawei-nova-y91-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Huawei Nova Y91 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-play-40c-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor Play 40C fingerprint</u></a></li>
+</ul></div>
 

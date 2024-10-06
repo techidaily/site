@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Installing and Setting Up Bluetooth on a Laptop or Desktop"
-date: 2024-09-28T19:42:32.490Z
-updated: 2024-09-30T16:06:39.792Z
+date: 2024-09-30T05:43:33.597Z
+updated: 2024-10-06T09:41:49.670Z
 tags:
   - deals
 categories:
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
  Although the majority of [laptops—](https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/)and even desktops—now come with Bluetooth support, some of us still need Bluetooth upgrades. If you're rocking a PC without Bluetooth support, don't fret. We'll show you how to add Bluetooth support to any Windows computer—easily and cheaply.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Would I Want to Add Bluetooth?
 
  While you can get by just fine without Bluetooth support on your computer (especially if you're using a desktop) there are tens of thousands of peripherals and [accessories](https://digital-screen-recording.techidaily.com/2024-approved-unveiling-the-top-5-windows-screen-capturing-utilities/) that require—or would be made more convenient by—Bluetooth.
@@ -39,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
  Even if you already have Bluetooth on your laptop or desktop PC, you may still want to follow along with this article. Why? Because depending on the age of your machine, it might only have Bluetooth 4.0 or older. Not only will the methods outlined in this article help you add Bluetooth to a computer that doesn't have it, but they will also help you add an updated Bluetooth connection to a computer with older Bluetooth hardware. Who knew upgrading a Bluetooth 4.2 connection to a [Bluetooth 5.0](https://instagram-clips.techidaily.com/new-2024-approved-copyright-aware-techniques-for-reposting-imagery/) connection would be so easy and inexpensive? If only every computer upgrade were so cheap and plug-and-play.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  See If Your Computer Already Has Bluetooth
@@ -53,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
  And remember, even if you have Bluetooth, but it's an older version you want to upgrade, that's no problem. We can upgrade it very easily in the next section of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Open the Bluetooth Devices Menu
 
  On Windows 10 and Windows 11, the fastest way to see if Bluetooth is installed and configured is simply opening up the Bluetooth devices menu. From the Start Menu search box, just type "Bluetooth" and select "Bluetooth and other devices settings" to jump there.
 
 ![The Bluetooth &amp; devices window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For more information, check out our guides to [using Bluetooth on Windows 10](https://instagram-video-files.techidaily.com/updated-in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/) and [activating Bluetooth on Windows 11](https://video-screen-grab.techidaily.com/updated-creative-filmmaking-on-a-budget-using-smartphones-as-webcams-for-2024/).
 
@@ -80,14 +73,20 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
 ![The Network Connections window in the Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don't worry if it says "Not connected" under the Bluetooth entry. That simply indicates that there are presently no Bluetooth devices connected to your computer, not that there is a problem with the Bluetooth connection.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Check the Windows Device Manager
 
@@ -99,25 +98,11 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
  We also suggest double-checking the stats on your PC just to be sure. Although unlikely, the hardware vendor behind your PC's hardware may use a specialty driver or some other tool that you need to download to enable the Bluetooth connection. A little poking around with Google will reveal if you have the proper hardware in the first place and if you need any special driver, [BIOS](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/), or other updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Add Bluetooth to Your PC
 
  If you've found that your PC does not have Bluetooth built-in, then you'll need to add it. And if you found that your PC does have Bluetooth, but it's old enough that you want to upgrade it for a better experience with Bluetooth headphones and accessories, you'll need an upgrade.
 
  The good news is that it's easy to do, and you won't need to spend much on the project. Better yet, the difference between adding Bluetooth to a computer that doesn't have it and upgrading the existing Bluetooth is just a single additional step.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Step One: Buy a USB Bluetooth Dongle
 
@@ -151,6 +136,19 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
 
 ![Bluetooth radio properties in the Windows Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows5.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the version of Windows you're running, the "missing" Bluetooth dongle or card will either appear as a generic entry in the "Other Devices" section of the Device Manager or it will be identified as a Bluetooth radio but labeled "Generic Bluetooth Radio" because Windows can identify what kind of hardware it is but can't initialize it.
 
  In either case, you must visit the manufacturer's site and download the appropriate drivers. You can download the drivers from the two USB dongles we mentioned above by visiting either the [Kinivo driver page](http://support.kinivo.com/customer/portal/articles/664950-downloads#computer) or the [TP-Link driver page](https://www.tp-link.com/us/support/download/). Download the version for your operating system ([here's how to see if you're running 32-bit or 64-bit Windows](https://extra-tips.techidaily.com/acclaimed-websites-for-google-pixel-tonal-sounds-for-2024/)), run the installer, and you're good to go.
@@ -165,6 +163,13 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
 
 ![Disabling a Bluetooth device by right-clicking it and using &quot;Disable Device&quot; in the Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It's important to select "Disable device" and not "Uninstall Device," as you don't want Windows to fuss over detecting the device and attempting to reinstall it. You want Windows to acknowledge the device and ignore it.
 
  It's also useful to leave it installed, so it's ready to go on the off chance you need it. Let's say, for example, you realize a half hour into a flight that your laptop is missing the updated Bluetooth dongle. If you left everything installed, you can pop into the Device Manager and turn on the old Bluetooth radio. Because, hey, Bluetooth 4.0 might not be cutting edge these days, but old Bluetooth is better than no Bluetooth.
@@ -176,6 +181,13 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
  After inserting the dongle (and with the appropriate [drivers](https://hardware-tips.techidaily.com/increase-your-savings-with-a-huge-80-off-the-elegoo-neptune-plus-ideal-for-big-prints/) installed), a Bluetooth icon should appear in the system tray, as seen in the screenshot below. Right-click the icon and choose "Add a Bluetooth Device" from the context menu. (You can also type "Bluetooth" in the Windows Start Menu search to jump to the Bluetooth menu, too.)
 
 ![Using the Bluetooth system tray menu icon on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/AddBluetoothWindows7.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The specific steps you see next will vary based on which version of Windows you're using, but it's all pretty straightforward, and the general verbiage hasn't changed much over the years.
 
@@ -204,18 +216,21 @@ This tiny USB dongle is perfect for adding Bluetooth 5.0 support to your Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-fine-tune-youtube-video-pacing-desktopmobile/"><u>[New] In 2024, Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[Updated] Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-substituting-periscope-6-premium-video-apps-for-iphones-and-ipads/"><u>2024 Approved Substituting Periscope 6 Premium Video Apps for iPhones & iPads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-correcting-the-missing-msvbvm50dll-issue/"><u>Effective Solutions for Correcting the 'Missing msvbvm50.dll' Issue</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-10-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 10 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-m14-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy M14 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tart-your-youtube-venture-top-equipment-choices/"><u>Jumpstart Your YouTube Venture Top Equipment Choices</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-find-n3-flip-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo Find N3 Flip</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-xiaomi-by-fonelab-android-recover-music/"><u>The way to get back lost music from Xiaomi</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-infinix-gt-10-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Infinix GT 10 Pro without backup.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unplugged-and-connected-your-guide-to-accessing-iptv-channels-directly-through-plex/"><u>Unplugged and Connected: Your Guide to Accessing IPTV Channels Directly Through Plex!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-a-beginners-guide-to-installing-kinemaster-on-mac-computers-for-2024/"><u>Updated A Beginners Guide to Installing KineMaster on Mac Computers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>[New] 2024 Approved How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ideo-content-battle-who-wins-with-vimeo-youtube-or-dailymotion-in-2024/"><u>[New] Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-frozen-windows-desktop-context-options/"><u>Curing Frozen Windows Desktop Context Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-11-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 11 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unveiling-obs-screen-recorder-functionality-deeply/"><u>In 2024, Unveiling OBS Screen Recorder Functionality Deeply</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2010-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2010</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/survival-sagas-ultimate-10-roguely-games/"><u>Survival Sagas Ultimate 10 Roguely Games</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-100-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor 100 Pro</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-zte-nubia-flip-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Nubia Flip 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo Reno 10 Pro 5G.</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-13-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 13 Pro Max without Passcode</u></a></li>
 </ul></div>
 

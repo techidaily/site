@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars"
-date: 2024-09-25T01:16:58.743Z
-updated: 2024-10-01T05:46:50.803Z
+date: 2024-10-03T22:47:28.623Z
+updated: 2024-10-06T08:57:04.191Z
 tags:
   - cutting-edge
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 ![Neutron star emitting gravitational waves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/neutron_star_merger_still_2_new.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 NASA
@@ -37,13 +37,6 @@ NASA
  The project mostly crunches data from LIGO gravitational-wave detectors. But the MeerKAT radio telescope, Arecibo radio telescope, and Fermi gamma-ray satellite also contribute.
 
  Like many[other volunteer science projects](https://easy-unlock-android.techidaily.com/unveiling-critical-privacy-risks-in-modern-day-chatbots-3-key-concerns-revealed/), Einstein@Home runs on the BOINC platform. [BOINC](https://fox-hovers.techidaily.com/updated-in-2024-highest-quality-ai-voice-to-text-software/) is an app developed by UC Berkeley to share and use volunteer computing resources. You can share your CPU, GPU, storage, and network resources through BOINC. All you have to do is download the BOINC app and run the Einstein@Home project on it.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Creating the Perfect Einstein@Home Setup
 
@@ -66,23 +59,9 @@ NASA
 
 ![Launching the BOINC installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setup-launch.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  BOINC will automatically launch when you click "Finish."
 
 ![Finishing the BOINC installation and launching the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-boinc.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  BOINC manager should launch with a blank project slate. Now we’re ready to add the Einstein@Home project to our BOINC installation.
 
@@ -95,13 +74,20 @@ NASA
 ![Accepting Einstein@Home terms of use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/enabling-einsteinhome.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Logging into the Einstein@Home project on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/logging-in.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -109,18 +95,18 @@ Close
 
 ![BOINC manager running Einstein@Home.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/running.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  hile I was first setting up Einstein@Home, my BOINC manager wouldn’t get any tasks. I had to fix it by manually adjusting my resource allocation. To do that:
 
  On the top menu, click "View" and select "Advanced view." Then click Options > Computing Preferences and increase the percentage of the CPU usage and CPU time. Then click "Save" and restart the BOINC manager.
 
  It might look stuck at first, but give it a couple of minutes to get up and running. If you see a green arrow next to a task, it means BOINC is actively working on it. If you see a red stop sign, it means BOINC has paused processing that task.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Some Pro Tips
 
@@ -130,9 +116,23 @@ Close
 
 ![The basic computing preferences panel on the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/idle-processing-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For finer details and further customization, BOINC offers an advanced view that gives you total control over everything this app can do. To activate Advanced View, select "View" from the menu and click "Advanced View."
 
 ![Advanced view being activated on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Computing preferences in Advanced view on BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view-preferences-1.PNG) 
 
@@ -165,15 +165,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-android-and-ios-the-best-sound-distortion-tools/"><u>[New] In 2024, Android & iOS The Best Sound Distortion Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-lite-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 Lite in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-comprehensible-guide-to-efficient-zoom-capturing/"><u>In 2024, Comprehensible Guide to Efficient Zoom Capturing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-emotional-journey-awaits-best-memes-for-chuckles-and-sighs-on-ig/"><u>In 2024, Emotional Journey Awaits Best Memes for Chuckles and Sighs on IG</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Sony Xperia 1 V</u></a></li>
-<li><a href="https://extra-support.techidaily.com/picture-perfection-on-the-move-easy-lut-adjustment-for-2024/"><u>Picture Perfection on the Move Easy LUT Adjustment for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-video-popularity-on-youtube-for-2024/"><u>[New] Elevating Video Popularity on YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ice-racers-unite-celebrating-snowboard-cross-victories-winter-olympics-edition/"><u>[Updated] Ice Racers Unite Celebrating Snowboard Cross Victories, Winter Olympics Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-minds-on-trial-best-general-knowledge-channels/"><u>[Updated] In 2024, Minds on Trial Best General Knowledge Channels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screenscape-innovations-an-unbiased-look-at-apeaksoft-2023-edition-for-2024/"><u>[Updated] Screenscape Innovations An Unbiased Look at Apeaksoft, 2023 Edition for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-13-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 13 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c33-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C33 2023 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-the-world-of-online-discussion-mastering-zoom-chat-techniques/"><u>In 2024, Navigating the World of Online Discussion Mastering Zoom Chat Techniques</u></a></li>
+<li><a href="https://techidaily.com/remove-pop-8-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Pop 8 unlock screen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-open-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Open</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 10 & 7</u></a></li>
 </ul></div>
 

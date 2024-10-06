@@ -1,7 +1,7 @@
 ---
 title: The Future Resurgence of Optical Media Driven by Revolutionary Technology
-date: 2024-09-23T08:40:34.838Z
-updated: 2024-09-24T10:19:27.898Z
+date: 2024-09-30T17:38:06.152Z
+updated: 2024-10-06T04:42:44.407Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In the 90s, every sci-fi movie that featured data storage invariably had some far-future version of a CD in it. It may have been in a caddy, or have a weird holographic sheen, but everyone thought optical discs were the future. Today, that doesn't seem likely, but continuing research into optical storage might prove those movies right after all.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is "Optical" Storage?
@@ -41,10 +41,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Say Hello to the Petabit Disc!
@@ -52,10 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Petabit disc diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-15-35-51.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu 
@@ -67,10 +67,10 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does This Mean for Us?
@@ -94,5 +94,21 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-efficient-passport-photography-our-top-10-low-cost-digital-options/"><u>[Updated] In 2024, Efficient Passport Photography Our Top 10 Low-Cost Digital Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-content-for-specific-youtube-subsets/"><u>2024 Approved Crafting Content for Specific Youtube Subsets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-promotion-reels/"><u>2024 Approved Pinnacle Promotion Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-prominence-with-apples-listings-for-2024/"><u>Achieving Prominence with Apple's Listings for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amplifying-your-content-free-techniques-to-boost-youtube-views-for-2024/"><u>Amplifying Your Content Free Techniques to Boost YouTube Views for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-play-8t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Play 8T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-reddit-discussions-a-methodical-approach-to-posting/"><u>Enhancing Reddit Discussions A Methodical Approach to Posting</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27s without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-bring-your-photos-to-life-a-detailed-ken-burns-effect-guide-for-2024/"><u>New Bring Your Photos to Life A Detailed Ken Burns Effect Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamping-your-gmail-experience-adding-and-choosing-sound-notifications/"><u>Revamping Your Gmail Experience: Adding and Choosing Sound Notifications</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/t7-kit-review-highlights-improved-dslr-features/"><u>T7 Kit Review Highlights Improved DSLR Features</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-google-pixel-fold-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Google Pixel Fold without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-narzo-60-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme Narzo 60 Pro 5G Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "L'Écart Essentiel Entre Reconnaissance Optique De Caractères (OCR) Et Identification Par Projection (IDP): Quelles Sont Les Différences ?"
-date: 2024-09-17T04:56:58.903Z
-updated: 2024-09-23T20:30:26.936Z
+date: 2024-10-03T10:37:31.568Z
+updated: 2024-10-05T22:08:18.236Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0dba8c64f2b9f80cb0b9c338e.jpg
@@ -31,6 +31,13 @@ L’OCR (reconnaissance optique de caractères) se concentre avant tout sur la r
 
 Avant l’OCR, il fallait taper manuellement le texte pour saisir les données dans un système informatique. Un logiciel OCR analyse les caractères d’une image, les extrait et les retranscrit en texte lisible par une machine et modifiable. L’IDP utilise l’OCR pour reconnaître les caractères, mais aussi l’intelligence artificielle (IA) et le machine learning pour lire et interpréter le texte, en extraire les informations importantes et traiter ces informations comme le ferait un humain pour effectuer un processus métier, par exemple vérifier une facture et l’envoyer pour paiement. L’IDP peut gérer une variété plus grande de contenus, y compris les informations structurées et non structurées, pour automatiser un large éventail de flux de travail (workflows) basés sur les documents ; il accompagne les entreprises dans leur transformation numérique.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Qu’est-ce que l’OCR ? 
 
 **OCR signifie [optical character recognition](https://tools.techidaily.com/abbyy/products/). (reconnaissance optique de caractères). La technologie OCR est utilisée pour analyser, lire et extraire le texte tiré de scans ou d’images et le rendre lisible par des machines.**  L’OCR est souvent utilisé pour numériser des livres et articles imprimés ou avec des processus métier dans lesquels interviennent des documents physiques comme des factures ou des reçus. Ainsi, le contenu de ce texte peut être modifié, interrogé et stocké de façon électronique. La technologie OCR est habituellement intégrée à d’autres applications, comme l’IDP, en tant qu’élément d’un plus grand ensemble pour l’automatisation intelligente.
@@ -38,10 +45,10 @@ Avant l’OCR, il fallait taper manuellement le texte pour saisir les données d
 ![](https://static1.abbyy.com/abbyycommedia/37740/ds-66-ocr-idp-image-1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment cela fonctionne-t-il
@@ -49,13 +56,6 @@ Avant l’OCR, il fallait taper manuellement le texte pour saisir les données d
 L’OCR commence par un dossier dont vous voulez extraire des informations. Il peut s’agir du scan d’un document, d’un PDF, ou encore de documents pris en photo. Les plateformes modernes d’OCR peuvent automatiquement améliorer la qualité, ajouter du contraste, et renforcer la résolution pour améliorer la justesse de la reconnaissance. Puis, des algorithmes d’OCR utilisent des modèles d’extraction déjà formés pour identifier les mots et les lignes sur une image et extraire chaque caractère reconnu.
 
 Les données extraites sont ensuite comparées à un ensemble de modèles et de schémas prédéfinis, représentant des caractères et symboles connus. Pour ce faire, on peut avoir recours à des technologies comme le machine learning et les réseaux neuronaux, pour améliorer la précision de la reconnaissance et gérer différentes polices et différentes langues ou des mises en page compliquées comme des tableaux, des listes ou des codes-barres. Si un problème est détecté, il peut être signalé pour qu’un humain intervienne. Une fois que le processus de reconnaissance des caractères est terminé, il peut être nécessaire de vérifier d’éventuelles erreurs ou d’améliorer la précision à l’aide de la vérification orthographique, de l’analyse du contexte ou de la modélisation linguistique. Puis, le logiciel OCR produira le texte final, lisible par les machines et pouvant être intégré au système informatique de votre entreprise.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Les avantages de l’OCR
 
@@ -70,19 +70,6 @@ Les données extraites sont ensuite comparées à un ensemble de modèles et de 
 
 Parmi les exemples habituels d’utilisation de l’OCR, il y a l’usage qu’en font des entreprises pour faciliter leur conformité au droit civil et au droit du travail, en convertissant de grandes quantités de documents papier et numériques en formats accessibles et interrogeables ; les cabinets juridiques qui convertissent des contrats papier en formats numériques, modifiables et interrogeables pour l’eDiscovery (investigations en ligne) ainsi que pour l’analyse de données ; les entreprises de santé qui transfèrent les dossiers des patients dans leurs systèmes informatiques pour être en conformité avec la norme HIPAA ; les bibliothèques et les archives qui conservent des documents historiques en format numérique. Tout cela permet aux employés d’une structure donnée d’effectuer leurs différentes tâches quotidiennes liées à des documents de façon efficace, aux développeurs de logiciels de créer des services de contenu, des archives numériques, des systèmes de gestion des documents (DMS), des solutions ECM (pour la gestion des contenus dans l’entreprise), et bien d’autres.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Qu’est-ce que l’IDP ?
 
 [Le traitement intelligent des documents](https://tools.techidaily.com/abbyy/products/) **(IDP) permet de traiter directement les documents en capturant, extrayant et traitant automatiquement les données contenues dans les documents de l’entreprise,**  et ce pour quasiment n’importe quel processus, dans n’importe quel secteur d’activité.
@@ -90,10 +77,10 @@ Parmi les exemples habituels d’utilisation de l’OCR, il y a l’usage qu’e
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment cela fonctionne-t-il 
@@ -157,13 +144,6 @@ Des recherches indiquent que 90% des organisations observent que de potentiels c
 
 Grâce au traitement intelligent des documents, vous pouvez éliminer les goulots d’étranglement qui entraînent ces abandons. Les [entreprises peuvent profiter de la technologie IDP pour la preuve de l’identité](https://tools.techidaily.com/abbyy/products/) et la confirmation de l’identité, ce qui facilite la tâche aux clients et sécurise les choses pour les entreprises. L’IDP peut capturer et catégoriser les pièces d’identité, telles que les permis de conduire ou les passeports, ou des pièces justificatives, comme des relevés bancaires ou des factures, demandées pour prouver son adresse. Par exemple, il peut être utilisé par le service des cartes grises pour le renouvellement d’un permis de conduire ou par une banque pour des demandes de prêts.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OCR vs. IDP : lequel est le mieux pour votre activité ?
 
 **L’OCR peut parfois être pris, à tort, pour une plateforme d’IDP, alors que, de fait, l’IDP a bien plus de fonctionnalités.** . L’OCR se concentre avant tout sur l’extraction du texte issu d’images et de documents afin que ce texte puisse être transféré et modifié sur un écran d’ordinateur. Il reconnaît différentes polices, images, notes manuscrites et les retranscrit en texte numérique, modifiable et interrogeable. Pour les entreprises en quête de solutions d’archivage numérique ou de technologies d’assistance, lesquelles nécessitent d’excellentes fonctionnalités de reconnaissance de texte, de conversion en PDF, et de capture des données, une solution OCR est la mieux adaptée. Vous pourrez profiter d’excellentes fonctionnalités de capture de documents avec [le Kit de développement logiciel OCR ABBYY](https://tools.techidaily.com/abbyy/products/) (SDK).
@@ -171,6 +151,13 @@ Grâce au traitement intelligent des documents, vous pouvez éliminer les goulot
 **L’IDP englobe la technologie OCR, mais franchit une étape supplémentaire en analysant et interprétant le texte comme le ferait un humain.**  Il utilise des technologies de pointe comme le traitement du langage naturel, le machine learning et l’intelligence artificielle pour comprendre le contenu des documents de façon plus exhaustive. L’IDP ne consiste donc pas uniquement à extraire le texte, mais à fournir une compréhension du contexte, à valider les données, et à prendre des décisions basées sur les informations trouvées. L’IDP convient mieux aux entreprises ayant besoin d’un traitement élaboré des documents, d’automatiser les workflows et de prendre des décisions basées sur le contenu. Désormais, grâce aux solutions low-code / no-code, comme [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/), les entreprises peuvent utiliser l’IDP, soit prêt à l’emploi avec des modèles de traitement des documents pré-entraînés et immédiatement utilisables, soit en créant rapidement et facilement leurs propres modèles d’extraction basés sur des types de document ou des besoins propres à leur activité.
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -212,6 +199,13 @@ Les technologies OCR (reconnaissance optique de caractères) et IDP (traitement 
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Slavena Hristova
 
 Directrice du Marketing Produit, groupe Vantage chez ABBYY
@@ -243,5 +237,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-the-meme-artisans-guide-to-shaping-social-interaction-gifs-for-2024/"><u>[New] The Meme Artisan's Guide to Shaping Social Interaction (GIFs) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-a-deep-dive-into-freenocam-software-features/"><u>[Updated] In 2024, A Deep Dive Into FreenoCam Software Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-bandicam-key-takeaways-and-tips/"><u>[Updated] In 2024, Mastering Bandicam - Key Takeaways and Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-perfecta-de-fotos-nef-a-jpg-en-windows-e-imac-tecnicas-eficientes-para-todos-los-usuarios/"><u>Conversión Perfecta De Fotos NEF a JPG en Windows E iMac: Técnicas Eficientes Para Todos Los Usuarios</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-13-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-c12-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C12 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-workflow-the-top-8-uses-of-auto-gpt-for-enhanced-performance/"><u>Revolutionize Your Workflow: The Top 8 Uses of Auto-GPT for Enhanced Performance</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-sony-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Sony</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2010-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2010 Spreadsheet Disappears after Opening | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-phantom-v-fold-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-itel-p55-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P55 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-rtx-2060-driver-for-windows-111087-systems/"><u>Update Your PC with the Latest RTX 2060 Driver for Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/path-to-perfect-videos-with-any-of-these-7-free-tools/"><u>Your Path to Perfect Videos with Any of These 7 Free Tools</u></a></li>
+</ul></div>
 

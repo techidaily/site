@@ -1,7 +1,7 @@
 ---
 title: Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
-date: 2024-09-26T18:23:16.137Z
-updated: 2024-10-01T05:21:02.088Z
+date: 2024-10-01T15:04:21.639Z
+updated: 2024-10-05T23:46:40.086Z
 tags:
   - desktop
 categories:
@@ -46,16 +46,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Mods folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mods-folder-in-the-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the mods folder, go through the names of all the mods and check the version number. If you find a mod with a different version number than the _Minecraft_ version installed on your computer, it's probably the culprit behind the error.
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll need to replace that mod with its latest version to fix the problem. For this, take note of the name of that mod, and then visit the [CurseForge website](https://www.curseforge.com/minecraft). Type the name of that mod and hit the search icon.
 
@@ -65,18 +65,25 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Different mod versions on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/different-mod-versions-on-the-curseforge-website.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "Download" button.
 
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
- After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
 
 ##  Detect and Delete the Problematic Mod
 
@@ -110,6 +117,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  Once you've updated the graphics driver on your computer, restart it and launch _Minecraft_ to check for the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Edit the _Minecraft_ Launcher Path
 
  The Exit Code 1 error can also occur due to your Windows username if it contains any special characters. These special characters can sometimes prevent the Minecraft launcher from finding the game directory, which ultimately results in the error.
@@ -126,13 +140,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change the Java Executable File
 
  Whenever you install _Minecraft_, it automatically installs the required Java Runtime Executable (JRE) on your computer and uses it to run the game. However, there may be instances where the launcher fails to detect the JRE, or perhaps it's searching in an incorrect location.
@@ -140,13 +147,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  You can prevent this from occurring by manually selecting the JRE in the launcher. To do this, open the _Minecraft_ launcher, choose "Minecraft Java Edition" from the left sidebar, and click "Installations" on the right.
 
 ![Installations tab in the Minecraft Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installations-tab-in-the-minecraft-launcher.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the three dots next to the "Latest release" entry and choose "Edit."
 
@@ -156,36 +156,37 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
         `C:\Program Files\Java\jre-1.8\bin`
     
 ![Open option in the Open File window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-option-in-the-open-file-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "Save" button.
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, restart the game and check for the issue again.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Reinstall _Minecraft_ 
@@ -196,33 +197,20 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
 ![Delete option to delete the Mincraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-option-to-delete-the-mincraft-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
 ![Minecraft log in page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/minecraft-log-in-page.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have installed _Minecraft_, you can move the "Saves" folder to the following location:
 
@@ -249,22 +237,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-gamers-capturing-solutions/"><u>[Updated] 2024 Approved Elite Gamers' Capturing Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-strategic-insights-into-aesthetic-success-for-audio-brands/"><u>[Updated] Strategic Insights Into Aesthetic Success for Audio Brands</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-itel-p40plus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel P40+ Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v30-lite-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V30 Lite 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-8-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 8 Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-genuine-appraisal-of-recordcast-features/"><u>In 2024, The Genuine Appraisal of RecordCast Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-vsdc-screen-recorder-review-and-best-alternative/"><u>In 2024, VSDC Screen Recorder Review and Best Alternative</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-infinix-hot-30i-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Infinix Hot 30i</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-realme-11-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Realme 11 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-moto-g14-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Moto G14</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/warriors-way-selecting-superior-hand-to-hand-titles/"><u>Warrior's Way Selecting Superior Hand-to-Hand Titles</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>[New] 2024 Approved Your Cheat Sheet for Auditing Friends’ Vibrant Livestrances</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-best-5-programs-for-snagging-facebook-feeds/"><u>[Updated] In 2024, The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shades-and-tones-elevating-your-visuals/"><u>[Updated] Shades and Tones Elevating Your Visuals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhance-your-game-experience-with-these-5-screen-capture-techniques-for-minecraft-mac/"><u>Enhance Your Game Experience with These 5 Screen Capture Techniques for Minecraft (Mac)</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a15-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A15 4G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-yuva-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Yuva 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-startup-problems-with-back-4-blood-a-step-by-nstep-guide-for-windows-devices/"><u>Resolving Startup Problems with 'Back 4 Blood': A Step-by-nStep Guide for Windows Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
 

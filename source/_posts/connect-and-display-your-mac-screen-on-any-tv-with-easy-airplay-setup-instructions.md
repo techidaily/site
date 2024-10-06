@@ -1,7 +1,7 @@
 ---
 title: Connect and Display Your Mac Screen on Any TV with Easy AirPlay Setup Instructions
-date: 2024-09-21T09:00:07.518Z
-updated: 2024-09-23T17:54:44.639Z
+date: 2024-10-02T00:26:44.580Z
+updated: 2024-10-06T15:25:24.889Z
 categories:
   - BestProducts
 description: This Article Describes Connect and Display Your Mac Screen on Any TV with Easy AirPlay Setup Instructions
@@ -28,13 +28,6 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 ![Amazon Fire TV Stick Home screen.](https://www.lifewire.com/thmb/5jHRQ5T_KkfuawTO2i9KJ1TC97s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_cast-to-firestick-from-android-5203940-471dbdb7861344b69af918a7d2b1361b.jpg)
 2. Highlight**Mirroring** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
 3. Press**Enter** on the Fire Stick remote to activate the**Mirroring** option.  
 Enter is the large circle button on the remote.  
@@ -43,10 +36,10 @@ Enter is the large circle button on the remote.
 ![Fire Stick Display Mirroring screen.](https://www.lifewire.com/thmb/UkfPkJTnj7o6Ibuc-AHVIGhFHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_cast-to-firestick-from-android-5203940-2717553df30541fb871ee1fef9b28d68.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Cast to Amazon Fire TV Stick From Android  
@@ -56,6 +49,14 @@ Enter is the large circle button on the remote.
 6. Open**Settings** and select**Connected devices** .  
 ![Android home screen and Settings app with Connected devices highlighted.](https://www.lifewire.com/thmb/ES2KOfu0oXU9_Ki2t4Wm5jNy-aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_cast-to-firestick-from-android-5203940-5b429840ed1a4f74baeeecc9087bf277.jpg)
 7. Select**Cast** . If your Fire TV Stick is visible on the list of devices, tap it to begin casting. If it's not, select the ellipsis icon in the top-right corner.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Android cast settings.](https://www.lifewire.com/thmb/_Hx3qqBZLyPwefeoz5hE17tXPpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_cast-to-firestick-from-android-5203940-952a7999d83442378f321bf6c95bdf14.jpg)
 8. Check the box next to**Enable wireless display** . This will make additional devices such as the Amazon Fire TV Stick visible in the Cast list.  
  If you ever have trouble finding your Fire Stick when casting, repeat this step to make it visible again.
@@ -63,20 +64,13 @@ Enter is the large circle button on the remote.
 ![Android wireless display cast settings.](https://www.lifewire.com/thmb/YABRvBSzh5daotOFpjkzKZqaZ1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_cast-to-firestick-from-android-5203940-467c4af4f85948bbbcacf596028705d2.jpg)
 10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Cast to a Fire Stick From Samsung Phones?
@@ -89,6 +83,14 @@ Enter is the large circle button on the remote.
 4. Select your Fire TV Stick from the list of devices.  
 ![Samsung Android cast options from Smart View.](https://www.lifewire.com/thmb/EHQGxcmXXyZ3MqSl-Sxz9IQi_4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_cast-to-firestick-from-android-5203940-96ac9e50f9964506aba90c5212958d70.jpg)  
  If you don't see your Fire TV Stick from the list of available displays, try using the above steps for regular Android devices. The Fire TV may be hidden.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Your Samsung device's screen should now be mirrored on your TV via your Amazon Fire TV Stick. To stop the mirroring, tap your Fire TV's name from the Smart View list again.
 
 [Do I Need a Streaming Device With a Smart TV?](https://www.lifewire.com/streaming-device-with-smart-tv-5209499)
@@ -129,5 +131,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style-for-2024/"><u>[Updated] Precision in Practice Tailoring PS4 Recordings to Suit Your Style for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-breaking-down-the-secrets-of-impactful-asmr-video-creation/"><u>In 2024, Breaking Down the Secrets of Impactful ASMR Video Creation</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-vita-video-editing-analysis-and-step-by-step-guide/"><u>In-Depth Vita Video Editing Analysis & Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-video-accessibility-step-by-step-guide-to-creating-and-uploading-subtitles-to-youtube/"><u>Mastering Video Accessibility: Step-by-Step Guide to Creating and Uploading Subtitles to YouTube</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-n30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+</ul></div>
 

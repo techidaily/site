@@ -1,7 +1,7 @@
 ---
 title: Innovative Strides at ABBYY with Patrick Jean's Recent Promotion to CPO and CTO Roles
-date: 2024-09-23T00:19:51.437Z
-updated: 2024-09-23T23:01:17.227Z
+date: 2024-10-02T02:39:31.511Z
+updated: 2024-10-06T04:50:55.920Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b1393331c870e52c284f342d82b8ac.jpeg
@@ -33,16 +33,10 @@ Patrick Jean to Chief Product & Technology Officer at ABBYY
 For more information about ABBYY intelligent automation solutions, visit [www.abbyy.com](https://tools.techidaily.com/abbyy/products/).  
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -52,10 +46,10 @@ ABBYY puts your information to work. We combine innovation and experience to tra
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ABBYY Editorial Contact
@@ -63,10 +57,10 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Gina Ray
@@ -91,5 +85,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2023s-top-no-cost-fb-photo-and-video-crafting-for-2024/"><u>[New] 2023'S Top No-Cost FB Photo & Video Crafting for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-power-players-handbook-secrets-of-successful-instagram-advertising/"><u>[New] In 2024, The Power Players' Handbook Secrets of Successful Instagram Advertising</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-pace-setter-pc-titles/"><u>[Updated] In 2024, Elite Pace-Setter PC Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-playlist-best-sandbox-game-choices/"><u>[Updated] In 2024, The Ultimate Playlist Best Sandbox Game Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>2024 Approved Mastering Visual Clarity Blur Your Meeting Backgrounds</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-meizu-21-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Meizu 21 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-curve-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze Curve 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 to iPad? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-navigating-education-without-the-video-element/"><u>In 2024, Navigating Education without the Video Element</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus 12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V29 | Dr.fone</u></a></li>
+</ul></div>
 

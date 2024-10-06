@@ -1,7 +1,7 @@
 ---
 title: Harnessing Cookiebot's Power for Advanced Digital Engagement Strategies
-date: 2024-09-20T11:12:38.774Z
-updated: 2024-09-23T16:56:33.194Z
+date: 2024-09-30T08:35:23.846Z
+updated: 2024-10-06T05:06:56.329Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e440f8880873d74d5b6083f2.jpg
@@ -20,6 +20,13 @@ June 07, 2023
 ![](https://static3.abbyy.com/abbyycommedia/37275/abbyy-fic-podcast-maxime-848x444.png) 
 
 Modern finance is broken, forcing finance and accounting teams to work like it was in 1985 (the year Excel was invented). In this podcast episode, ABBYY thought leader Maxime Vermeir joins Jake Jones, Multimedia Producer and Brand Influencer at [Zone & Co](https://www.zoneandco.com/company). on the Finance in the Clouds podcast. This discussion covers how artificial intelligence (AI), machine learning, intelligent document processing (IDP), and optical character recognition (OCR) work together to automate your invoice processing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Episode transcript
 
@@ -67,13 +74,6 @@ From your perspective and from ABBYY's perspective, how can OCR, invoice scannin
 
 And for that, you need to have good insights into what your businesses are doing. And especially finance leaders need elevate the conversation in thinking about what's driving your team; what value is my team delivering? Is that entering data—or is that thinking about our processes delivering the accounting, giving insights to the business? I think it's the latter. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Changing Role of the Finance Leader
 
 ABBYY Chief Financial Officer James Ritter shares insights on how finance leaders can adapt to the changing business landscape with the help of intelligent automation.
@@ -115,16 +115,10 @@ A lot of great conversation today, Max. But before we go, is there anything else
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Maxime Vermeir
@@ -135,33 +129,33 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Related posts
 
 ![](https://static1.abbyy.com/abbyycommedia/37736/idp-scheme-848x444-b.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [What Is Intelligent Document Processing, and How Does It Work?](https://tools.techidaily.com/abbyy/products/) 
 
@@ -222,5 +216,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-lead-the-pack-with-these-top-7-android-tools-against-ads/"><u>[New] 2024 Approved Lead the Pack with These Top 7 Android Tools Against Ads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-critically-acclaimed-phone-and-desktop-video-calls-list/"><u>[New] Critically Acclaimed Phone and Desktop Video Calls List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-review-how-toolwiz-stacks-up-in-photo-app-landscape/"><u>[Updated] 2024 Approved Review How Toolwiz Stacks Up in Photo App Landscape</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-p60-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei P60 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-optane-driver-download-and-update-for-windows-solved/"><u>Intel Optane Driver Download & Update for Windows [SOLVED]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-iphone-photo-watermarking-sites-list/"><u>Ultimate iPhone Photo Watermarking Sites List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-exclusive-enhancements-for-select-apple-airpod-models-in-the-fall-a-detailed-look/"><u>Upcoming Exclusive Enhancements for Select Apple AirPod Models in the Fall - A Detailed Look</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a18-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A18 | Dr.fone</u></a></li>
+</ul></div>
 

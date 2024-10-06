@@ -1,7 +1,7 @@
 ---
 title: Optimized with Advanced Web Tracking - The Power of Cookiebot Technology
-date: 2024-09-19T03:17:51.315Z
-updated: 2024-09-24T00:57:44.980Z
+date: 2024-10-03T15:09:30.736Z
+updated: 2024-10-06T10:19:44.730Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce5256805ecd4c390c919b578ebe.jpg
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 どのような業界でも、[デジタルトランスフォーメーション戦略にプロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/)を組み込むことで、組織は提案された変更の将来的な影響を評価し、より効果的に移行を管理し、実装された自動化ステップのパフォーマンスを確保し、継続的な改善のためのフィードバックループを確保することができます。業界を問わず、企業はプロセスインテリジェンスを活用し、さまざまなユースケースで成果を上げています。
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 医療機関 
 
 病院やその他の医療機関は、プロセスインテリジェンスを活用することで、患者体験と臨床効果を改善し、品質基準を維持し、コンプライアンスリスクを回避することができます。臨床業務をリアルタイムで監視し、プロトコルが守られていない場合やプロセスの逸脱が検出された場合には積極的にスタッフにアラートを発しながら、コンプライアンスの遵守をサポートしてくれます。 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 銀行 
 
@@ -95,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ### 保険 
 
 保険会社は、プロセスインテリジェンスを活用することで、リスク評価、リスク選別、引受決定をより効率的に行うことができます。また、自動化されたモニタリングと修復によりコンプライアンスを強化し、データのストレートスルー処理を可能にすることで生産性を向上させることもできます。プロセス分析は、社内スタッフだけでなく、契約アジャスター、外部サポート組織、その他のパートナーにもビジネス上の価値を提供します。 
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## プロセスインテリジェンスとインテリジェントプロセスオートメーションの組み合わせ 
 
@@ -126,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 世界中の組織が、時間のかかる定型的なビジネスプロセスを自動化すれば、スタッフは収益の拡大に繋がる、より重要な仕事に集中できるようになります。ABBYYの[プロセスインテリジェンスプラットフォーム](https://tools.techidaily.com/abbyy/products/)であるABBYY Timelineを使えば、未来の仕事を改善することができます。プロセスマイニングの基礎を築き、高度な分析でプロセスを理解し、機械学習を活用してプロセスを改善・最適化します。他のどのソリューションも、ABBYY が提供するような包括的なプロセスインサイトと分析機能を単一のプラットフォームで提供することはできません。
 
 [体験版を申し込む](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## よくある質問 
 
@@ -165,13 +151,6 @@ Chief Technology Officer at ABBYY
 スコット・オーピッツは、最高技術責任者として、グローバルな製品戦略開発とその遂行を担当しています。それ以前は、マーケティング部門の最高責任者として、グローバルなマーケティング戦略を担当していました。ABBYYには、TimelinePIの買収に伴い入社しました。共同設立者として立ち上げたTimelinePIでは設立時から、社長兼CEOを務めていました。この役職において、TimelinePIのプロセスインテリジェンス製品(現在の
 
 スコット・オーピッツは、最高技術責任者として、グローバルな製品戦略開発とその遂行を担当しています。それ以前は、マーケティング部門の最高責任者として、グローバルなマーケティング戦略を担当していました。ABBYYには、TimelinePIの買収に伴い入社しました。共同設立者として立ち上げたTimelinePIでは設立時から、社長兼CEOを務めていました。この役職において、TimelinePIのプロセスインテリジェンス製品(現在の
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -223,6 +202,13 @@ Connect with us
 
 ![](https://static1.abbyy.com/abbyycommedia/37862/5-pillars-cover-photo_d_848x444-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 現在の競争が激しいビジネス環境において、ビジネスプロセスの効率化と最適化は、組織の成功と長期的な優位性のために不可欠です。しかし、デジタルトランスフォーメーションの謳い文句があふれる中、プロセスマイニングやタスクマイニングツール単体では、プロセス関連のすべての課題を解決するという約束を果たせないことが多くあります。このような第1世代のソリューションの限界から、包括的なプロセスインテリジェンスプラットフォームが登場しました。このプラットフォームは、これらの要求を完全に満たし、表面的な問題を超えていくように設計されています。真のプロセスインテリジェンスソリューションは、プロセス変革への包括的アプローチに不可欠な 5 つの主要な柱を完全にサポートする必要があります。 
 
 以下に移動します： 
@@ -234,10 +220,10 @@ Connect with us
 [よくある質問](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## プロセスインテリジェンスとは？ 
@@ -269,10 +255,10 @@ Connect with us
 プロセスシミュレーションは、過去のプロセス履歴を活用して自動的にシミュレーションを構築する手法です。このモデルは、プロセス自体やリソースの割り当てを変更した場合の影響を実際に導入する前に把握できるようにするため、提案された変更に合わせて調整することができます。例えば、銀行はこのアプローチを使って、融資承認部門の人員配置レベルを変更した場合の影響を理解することができます。これにより、リーダーはリソース配分やプロセス変更に関する情報に基づいた意思決定を行うことができ、最終的には業務効率の最適化と顧客満足度の向上につながります。
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## プロセスインテリジェンスのメリットとは？ 
@@ -304,15 +290,22 @@ Connect with us
 プロセスインテリジェンスは、銀行をはじめとする金融機関がデジタルトランスフォーメーションを推進し、リスク管理および規制遵守の優先事項をサポートします。金融機関は、ほぼリアルタイムで取引データを分析することにより、顧客サービスの向上、報告精度の向上、コストのかかるエラーのリスク低減を実現できます。プロセスモニタリングは、サービスレベル合意 (SLA)、コンプライアンス要件、法令順守を確実に維持するのに役立ち、見落とされがちなコストのかかるミス防止に貢献します。 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 保険 
 
 保険会社は、プロセスインテリジェンスを活用することで、リスク評価、リスク選別、引受決定をより効率的に行うことができます。また、自動化されたモニタリングと修復によりコンプライアンスを強化し、データのストレートスルー処理を可能にすることで生産性を向上させることもできます。プロセス分析は、社内スタッフだけでなく、契約アジャスター、外部サポート組織、その他のパートナーにもビジネス上の価値を提供します。 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## プロセスインテリジェンスとインテリジェントプロセスオートメーションの組み合わせ 
 
@@ -329,6 +322,13 @@ Connect with us
 * 重複したやり取りの削減
 
 これらの最適化を実施した後、同社はインテリジェント・プロセス・オートメーション・ソリューションを導入しました。このソリューションには、データ入力と抽出のためのロボティック・プロセス・オートメーション（RPA）ボット、意思決定のためのAIアルゴリズム、エンドツーエンドのプロセスを編成するためのワークフロー自動化のほか、自動化されたプロセスのパフォーマンスを監視し、さらなる改善点を特定するためのプロセスインテリジェンスツールが含まれていました。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## プロセスインテリジェンスへの総合的アプローチ 
 
@@ -360,6 +360,13 @@ Connect with us
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -369,13 +376,6 @@ Chief Technology Officer at ABBYY
 スコット・オーピッツは、最高技術責任者として、グローバルな製品戦略開発とその遂行を担当しています。それ以前は、マーケティング部門の最高責任者として、グローバルなマーケティング戦略を担当していました。ABBYYには、TimelinePIの買収に伴い入社しました。共同設立者として立ち上げたTimelinePIでは設立時から、社長兼CEOを務めていました。この役職において、TimelinePIのプロセスインテリジェンス製品(現在の
 
 スコット・オーピッツは、最高技術責任者として、グローバルな製品戦略開発とその遂行を担当しています。それ以前は、マーケティング部門の最高責任者として、グローバルなマーケティング戦略を担当していました。ABBYYには、TimelinePIの買収に伴い入社しました。共同設立者として立ち上げたTimelinePIでは設立時から、社長兼CEOを務めていました。この役職において、TimelinePIのプロセスインテリジェンス製品(現在の
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -394,5 +394,21 @@ Share
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-joy-of-animated-journeys-youtubes-best-for-everyday/"><u>[New] In 2024, Discover the Joy of Animated Journeys YouTube's Best for Everyday</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-power-of-precision-crafting-effective-video-titles/"><u>[Updated] In 2024, The Power of Precision Crafting Effective Video Titles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-gpus-elevating-4k-creative-workflows/"><u>[Updated] Ultimate GPUs Elevating 4K Creative Workflows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-join-the-party-your-guide-to-active-tiktok-streaming/"><u>2024 Approved Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-convertir-les-sous-titres-de-votre-dvd-en-format-srt-pour-pc-et-mac/"><u>Comment Convertir Les Sous-Titres De Votre DVD en Format SRT Pour PC Et Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-moto-g84-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Moto G84 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-90-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 90 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-flight-to-frame-editing-drones-into-art/"><u>In 2024, From Flight to Frame Editing Drones Into Art</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/iphone-slow-motion-camera-video/"><u>IPhone Slow-Motion Camera Video</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/trasforma-i-tuoi-file-bmp-in-jpeg-senza-costi-con-questo-servizio-di-conversione-online-facile/"><u>Trasforma I Tuoi File BMP in JPEG Senza Costi Con Questo Servizio Di Conversione Online Facile</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-lava-blaze-pro-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Lava Blaze Pro 5G fingerprint</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-samsung-galaxy-s23-fe-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Samsung Galaxy S23 FE</u></a></li>
+</ul></div>
 

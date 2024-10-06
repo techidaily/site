@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Art: Not Everything Is Created By An Algorithm"
-date: 2024-09-30T03:04:12.586Z
-updated: 2024-09-30T22:20:27.825Z
+date: 2024-09-30T02:05:13.029Z
+updated: 2024-10-06T05:00:23.530Z
 tags:
   - web
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
@@ -28,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
@@ -50,35 +57,15 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
 
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -94,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  They go on to point out that AI tools are now baked into everything from the [“Space Zoom" on the Galaxy S20 Ultra](https://youtube-tips.techidaily.com/24-enriching-youtube-content-with-improved-sound-quality/) to industry-standard photo editing apps like [generative fill in Adobe Photoshop](https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-a25-5g-phones-drfone-by-drfone-android/). By labeling images with minor AI adjustments as “Made With AI,” Meta creates a “boy who cried wolf scenario” where innocent images get labeled as “Made With AI,” causing people to lose trust in the label and making them more susceptible to the actual misinforming AI content.
 
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Meta’s AI Labeling Is Not Foolproof
 
@@ -130,18 +124,18 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-premium-4k-tvs-the-ultimate-list/"><u>[New] 2024 Approved Premium 4K TVs – The Ultimate List</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-selective-sights-best-macos-sierra-video-editors/"><u>[Updated] 2024 Approved Selective Sights Best macOS Sierra Video Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>[Updated] Unlocking Creativity Incorinasive Use of LUTs in Video Editing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-final-cut-pros-premier-top-10-plugins/"><u>2024 Approved Final Cut Pro's Premier Top 10 Plugins</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursory-fix-for-cursor-in-darkened-win11-screens/"><u>Cursory Fix for Cursor in Darkened Win11 Screens</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-t2-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo T2 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-8-hd-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 8 HD phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/innovative-zooctorial-conceptual-kits/"><u>Innovative Zooctorial Conceptual Kits</u></a></li>
-<li><a href="https://techidaily.com/sign-a-pdf-v16-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.6 document with electronic signature tool</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-u23-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on U23 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-itel-a60-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Itel A60</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c51s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco C51s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G04 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-screen-capture-a-compreenas-android-guide/"><u>2024 Approved Mastering Screen Capture A Compreenas Android Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-radio-drama-scripts/"><u>Best Radio Drama Scripts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discover-freely-accessible-video-tricks-for-2024/"><u>Discover Freely Accessible Video Tricks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-3-no-longer-crashes-a-comprehensive-fix-guide/"><u>Halo 3 No Longer Crashes: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12r-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12R Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-historical-insights-at-your-fingertips-top-10-for-students/"><u>In 2024, Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-hp-scan-device-drivers-seamlessly-on-windows-computers/"><u>Install Updated HP Scan Device Drivers Seamlessly on Windows Computers</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-spark-20c-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 20C working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/pc-gaming-guide-master-the-art-of-creating-virtual-sushi-with-3d-sushi-roll-asmr/"><u>PC Gaming Guide: Master the Art of Creating Virtual Sushi with 3D Sushi Roll ASMR</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-c55-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme C55 | Dr.fone</u></a></li>
 </ul></div>
 

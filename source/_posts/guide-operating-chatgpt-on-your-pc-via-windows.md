@@ -1,7 +1,7 @@
 ---
 title: "Guide: Operating ChatGPT on Your PC via Windows"
-date: 2024-09-30T05:08:47.660Z
-updated: 2024-09-30T22:01:06.016Z
+date: 2024-09-30T09:10:37.176Z
+updated: 2024-10-06T02:16:55.193Z
 tags:
   - cutting-edge
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  To turn ChatGPT’s site into an app, you’ll use a built-in option in Chrome or Edge. This option turns any site you access in these web browsers into a Windows app. You can use either web browser, but Edge offers the option to change the app’s icon when you create the app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Download ChatGPT Using Chrome
 
 [Launch Chrome on your PC](https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/) and access the [ChatGPT site](https://chatgpt.com/). Log in to your account on the site and get to the chat screen (where you send and receive messages).
@@ -36,26 +43,26 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 !['Install Page as App' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-chrome-install-chatgpt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll see an "Install This Page as an App" dialog box. To change the app’s name, click the text field and type a name. This name will appear wherever the app is listed. Then, click "Install."
 
 ![The text box and 'Install' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-chrome-create-chatgpt-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Chrome will create and launch the app in a new window. You may now start using the app.
 
  Windows will display a notification asking if you want to [pin the app to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/). To do that, click "Yes." Otherwise, select "No, Thanks." And that’s it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download ChatGPT Using Edge
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  And that’s all.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Launch the Downloaded ChatGPT App
 
  Since the ChatGPT app you’ve created works like any other installed app on your PC, you can [launch it like you would any other app](https://on-screen-recording.techidaily.com/ipad-timelapse-a-beginners-handbook-to-filming/). One way to do that is by using the Start Menu.
@@ -95,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  And you now have access to your favorite AI tool as a native Windows app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Uninstall the ChatGPT App
 
  If you ever want to remove the ChatGPT app, you delete it like any other app.
@@ -110,20 +103,33 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 !['Uninstall' highlighted for ChatGPT in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-remove-chatgpt-windows-11-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To [delete the app using Settings on Windows 10](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), go to Settings > Apps. Select the ChatGPT app, click "Uninstall," and choose "Uninstall" in the prompt.
 
 !['Uninstall' highlighted for ChatGPT in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-delete-chatgpt-windows-10-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you made the app with Chrome, you can [use Control Panel to uninstall the app](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/) [as well](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/). To do that, navigate to Control Panel > Uninstall a Program. Find and select the ChatGPT app and choose "Uninstall" at the top. Click "Remove" in the prompt.
 
 ![ChatGPT and 'Uninstall' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-uninstall-chatgpt-control-panel.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that’s how you create, launch, and remove ChatGPT’s Windows version from your computer. Have a good time using your favorite AI tool!
 
@@ -142,22 +148,18 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-compact-cities-for-a-sustainable-future/"><u>[New] Crafting Compact Cities for a Sustainable Future</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-inshot-film-splits/"><u>[New] Expert Tips on Inshot Film Splits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-lava-storm-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Lava Storm 5G</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-p40plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P40+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-11-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme 11 5G Face Lock?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 12 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-review-of-lenovos-yoga-slim-abies-with-x-elite-chip-the-ultimate-rival-to-apples-macbook-air/"><u>In-Depth Review of Lenovo's Yoga Slim Abies with X Elite Chip: The Ultimate Rival to Apple's MacBook Air?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/revolutionary-tips-to-upgrade-your-webinar-recordings-for-2024/"><u>Revolutionary Tips to Upgrade Your Webinar Recordings for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-hot-40-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Hot 40.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44kk44oz44k44o844on44od44oi57wm55sx44gn44km44kj44oz44kv44k55a625pep44or44od44kx44o844k444ks5yplusw44kk5omx44ge5lit/"><u>インターネット経由でウィンクス家族パッケージを取り扱い中</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-seamless-editing-removing-out-of-place-backgrounds/"><u>[New] 2024 Approved Seamless Editing Removing Out-of-Place Backgrounds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-leading-chromeos-screen-recorders/"><u>[New] Affordable Leading ChromeOS Screen Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boost-ig-content-three-steps-for-compelling-video-descriptions/"><u>[Updated] 2024 Approved Boost IG Content - Three Steps for Compelling Video Descriptions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-most-followed-fashionistas-and-cosmetic-experts/"><u>[Updated] YouTube's Most-Followed Fashionistas & Cosmetic Experts</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-13c-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 13C 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus iOS System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-fastest-iphoneandroid-apps-for-enhanced-music/"><u>In 2024, Fastest iPhone/Android Apps for Enhanced Music</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-overcoming-youtube-buffering-a-step-by-step-guide/"><u>In 2024, Overcoming YouTube Buffering A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>In 2024, Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-v29e-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo V29e Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno .</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oneplus-by-fonelab-android-recover-messages/"><u>Undelete lost messages from OnePlus</u></a></li>
 </ul></div>
 

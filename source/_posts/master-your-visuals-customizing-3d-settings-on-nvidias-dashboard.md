@@ -1,7 +1,7 @@
 ---
 title: "Master Your Visuals: Customizing 3D Settings on NVIDIA's Dashboard"
-date: 2024-09-17T11:12:18.715Z
-updated: 2024-09-24T11:34:46.753Z
+date: 2024-09-30T21:07:18.278Z
+updated: 2024-10-06T04:59:32.675Z
 tags:
   - win11
   - win10
@@ -23,13 +23,6 @@ If your graphics card is not working well, you may encounter a black or flickeri
 
  If this method didn’t work, try the following steps to reset your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Reset/Restart your graphics driver
 
  To reset your graphics driver, simply uninstall the driver from Device Manager and then reinstall it again. Here’s how:
@@ -37,30 +30,32 @@ If your graphics card is not working well, you may encounter a black or flickeri
 1. On your taskbar, right-click the**Start** button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/start-device-manager-1.jpg)
 2. Locate**Display adapters** , select the arrow to expand it, then right-click your graphics card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/display-adapters-uninstall-device.jpg)
 3. In the pop-up window, check the box next to**Delete the driver software for this device** and click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/uninstall-graphics-diver.jpg)
 4. After the uninstallation is complete, restart your computer. Windows will reinstall the graphics driver automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your problem still persists after restarting your graphics driver, you may consider updating the graphics driver.
@@ -79,14 +74,15 @@ Here’s how it works:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -111,5 +107,20 @@ Here’s how it works:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-elevating-your-video-posts-with-properly-uploaded-srt-files-for-2024/"><u>[New] Elevating Your Video Posts with Properly Uploaded SRT Files for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-streamlined-shots-in-the-sea-7-easy-to-follow-steps-for-2024/"><u>[New] Streamlined Shots in the Sea 7 Easy-to-Follow Steps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-5-best-igtv-editor-apps-for-improved-layouts/"><u>[Updated] In 2024, 5 Best IGTV Editor Apps for Improved Layouts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-revolutionary-entry-tool-for-all-devices-this-year-for-2024/"><u>[Updated] Revolutionary Entry Tool for All Devices This Year for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-seamless-techniques-for-effective-iphone-screen-captures/"><u>2024 Approved Seamless Techniques for Effective Iphone Screen Captures</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-g42-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia G42 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-realtek-audio-device-drivers-for-the-latest-windows-version/"><u>Effortless Installation of Realtek Audio Device Drivers for the Latest Windows Version</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-6-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-blaze-2-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Blaze 2 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m54-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M54 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharing-joy-iphone-memes/"><u>Sharing Joy IPhone Memes</u></a></li>
+</ul></div>
 

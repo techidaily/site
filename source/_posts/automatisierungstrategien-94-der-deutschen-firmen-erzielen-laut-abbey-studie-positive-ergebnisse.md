@@ -1,7 +1,7 @@
 ---
 title: "Automatisierungstrategien: 94%% Der Deutschen Firmen Erzielen Laut ABBEY-Studie Positive Ergebnisse"
-date: 2024-09-19T09:00:09.783Z
-updated: 2024-09-24T02:48:05.266Z
+date: 2024-09-28T23:23:47.158Z
+updated: 2024-10-06T10:18:52.921Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac6bf71f33265c2968e32a513.jpg
@@ -57,10 +57,10 @@ _„Die Pandemie, eine größere Kündigungswelle aufgrund von Unzufriedenheit u
 Diese Studie wurde von Sapio Research im März 2022 im Auftrag von ABBYY durchgeführt. Die Umfrage wurde unter 1,208 IT-Entscheidern in Deutschland, Großbritannien, Frankreich, den USA und Japan durchgeführt, um zu erfassen, wo Unternehmen in Automatisierungsprojekte investieren, warum sie neue Technologien einsetzen und wie sich das Verhalten auf den Erfolg der Projekte auswirkt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Über ABBYY
@@ -74,16 +74,10 @@ ABBYY ist ein globales Unternehmen mit Sitz in den USA und Niederlassungen in 15
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber. 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pressekontakt:
@@ -91,10 +85,10 @@ ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeich
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Bianca Stupp
@@ -118,5 +112,19 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-peak-craft-studio-25-overview/"><u>[New] 2024 Approved Peak Craft Studio 25 Overview</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-secure-song-transfers-to-youtube-channel/"><u>[Updated] 2024 Approved Secure Song Transfers to Youtube Channel</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-master-class-extracting-and-saving-vimeo-videos/"><u>[Updated] Master Class Extracting and Saving Vimeo Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-the-art-of-mobile-video-recording-with-snapchat/"><u>[Updated] Mastering the Art of Mobile Video Recording with Snapchat</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-a70-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-memes-mastermind/"><u>In 2024, Memes Mastermind</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-14-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from 14 Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-corsair-icue-connectivity-issues-in-windows-11/"><u>Solving Corsair iCUE Connectivity Issues in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/tecno-pop-7-pro-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Pop 7 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-vivo-y28-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Vivo Y28 5G.</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C300 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Tech Savviness: Learn to Transact with Phones, Edit Stunning Images, and Compose Original Poems - Tips Straight From the ABBYY Experts"
-date: 2024-09-23T10:12:07.363Z
-updated: 2024-09-23T22:24:45.607Z
+date: 2024-10-02T22:35:42.327Z
+updated: 2024-10-06T11:48:58.707Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652a5ccde76155c26629dae8fb.png
@@ -19,6 +19,13 @@ December 19, 2022
 
 Dreaming of finally being able to leave cash at home? Then Apple Pay and Android Pay is the right choice for you! Also in the news: OCR languages in BCR and editing photos on your phone like a professional.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **iOS Tip: How to Use Apple Pay**
 
 Let’s start with compatibility. Apple Pay is supported by iPhone 6, iPhone SE, and newer models, as well as by Apple Watch. Apple’s high-tech wearable also allows you to pay with iPhone 5 and 5S.
@@ -26,6 +33,13 @@ Let’s start with compatibility. Apple Pay is supported by iPhone 6, iPhone SE,
 So how do you go about paying with a smartphone? All you need is just to take these three simple steps: choose a bank card in the app, rest your finger on Touch ID, and hold the top of your iPhone near a reader screen. With Apple Watch, double-press the power button to pay without any additional authorization. Neither Apple Pay nor third-party services charge commission, which is nice.
 
 ![how to use apple pay](https://static1.abbyy.com/abbyycommedia/30722/2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 All your bank cards are stored in Wallet. The system automatically adds cards that are associated with your iTunes account and allows you to add a few extra debit or credit cards. You can enter data both manually and automatically — simply take a picture of your card and all the relevant info will be recognized in no time. To pay with Apple Watch, enter the card info in the Watch app that is located in the Wallet and Apple Pay section. It is worth mentioning that the wearable also allows you to pay with different bank cards.
 
@@ -50,16 +64,22 @@ To use Google Pay, [download it](https://play.google.com/store/apps/details?id=c
 
 ![Add card to Google Pay](https://static1.abbyy.com/abbyycommedia/30725/5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To pay with Google Pay, unlock the device and hold it near a reader screen for several seconds. If the operation is successful, the device will show the message and the card that was used. How do you know whether a payment terminal supports contactless payments? Simply look for the following signs:
 
 ![Google Pay logo](https://static1.abbyy.com/abbyycommedia/30730/google-pay.png)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Apple Pay logo](https://static1.abbyy.com/abbyycommedia/30729/applepay.jpg)
 
@@ -71,6 +91,13 @@ We believe that [Samsung Pay](https://shop-links.co/link/?exclusive=1&publisher_
 
 Here’s a[list of banks](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsamsung-pay%2Fcompatible-cards%2F) that support [Samsung Pay](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsamsung-pay%2F%3Fredir%3Dsamsung%2520pay).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **ABBYY Tip: How to Support Languages in Business Card Reader**
 
 People are constantly asking us about the number of languages supported in [Business Card Reader](https://bcrfree.app.link/mobilemonday). At the moment, [BCR](https://bcrfree.app.link/mobilemonday) recognizes [25 most spoken languages](https://bcrfree.app.link/mobilemonday). We’ll try to explain why the app supports less languages that other ABBYY solutions and why it is still quite impressive.
@@ -81,31 +108,24 @@ European languages are a bit easier to work with as most of them use Latin alpha
 
 By the way, if you want to help us compiling libraries for [BCR](https://bcrfree.app.link/mobilemonday), drop us an email at [mobile@abbyy.com](https://tools.techidaily.com/abbyy/products/) and we will definitely get back to you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **App of the Week: VSCOCam**
 
 In the age of Instagram, Tumblr, and Facebook, mobile photography becomes essential. The market of photo apps is oversaturated, but still it lacks truly user-friendly and intuitive solutions designed specifically for the creative industry. [VSCOCam](https://vsco.co/store/app), we believe, is one of the best in photo processing.
 
 ![VSCOCam app](https://static1.abbyy.com/abbyycommedia/30726/7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There is more to [VSCOCam](https://vsco.co/store/app) than just taking and editing photos—it is like a private Instagram. It allows you to take brilliant photos and fine-tune them, it also features a weekly selection of the best photos and other exciting perks. The app is divided into several tabs: Camera (to take photos), Library (to view all photos), Store (to buy filters), Discover (to discover the latest VSCO news and photos), Profile (your profile), and Settings (well, it speaks for itself).
 
 [VSCOCam](https://vsco.co/store/app) has features abound. It enables you to take photos using Camera Grid, allows you to fine-tune the white-balance, contrast, and filters, and many more. By the way, the app has both paid-for and free filters. For those who wish to be Instagram wizards, a collection of free filters is more than enough. To stand out even more, opt for paid-for ones, it will cost you $1 to $15.
 
 ![VSCOCam editing](https://static1.abbyy.com/abbyycommedia/30727/8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The app is available on [iOS](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)and [Android](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en).
 
@@ -114,13 +134,6 @@ The app is available on [iOS](https://apps.apple.com/us/app/vsco-photo-video-edi
 _Shared by Catherine Kharchenko, presale specialist_
 
 ![Catherine Kharchenko ABBYY](https://static1.abbyy.com/abbyycommedia/30728/11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Have you ever thought of writing a poem? Do you consider yourself a creative personality? In any case, even if it never crossed your mind it is never late to give it a try and discover something new. I’ve noticed that a person might not take interest in poetry or prose because they haven’t found something that agrees with them. School is filled with classical literature but it doesn’t mean teenagers love it.
 
@@ -140,13 +153,6 @@ And it doesn’t matter what you will come up with—clumsy phrases, a story, a 
 That’s all for today, guys. See you in the same place, at the same time. 
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -209,5 +215,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamlined-screencasting-experts-top-recommendations/"><u>[Updated] In 2024, Streamlined Screencasting Experts' Top Recommendations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023s-leading-social-media-film-downloads-no-8-for-2024/"><u>2023'S Leading Social Media Film Downloads - No. 8 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-in-depth-review-of-dji-drone-model-3s-performance/"><u>An In-Depth Review of DJI Drone Model 3'S Performance</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-14-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 14 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-p40plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P40+ phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to others devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-x6-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco X6 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-yuva-2-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Yuva 2 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/marvels-cosmic-heroes-triumph-fixing-guardians-of-the-galaxy-crash-issues-on-your-computer/"><u>Marvel's Cosmic Heroes Triumph - Fixing Guardians of the Galaxy Crash Issues on Your Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-operation-windows-plus-nvidia-card/"><u>Seamless Operation: Windows + Nvidia Card</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor X7b</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-a05s-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy A05s password or pattern lock</u></a></li>
+</ul></div>
 

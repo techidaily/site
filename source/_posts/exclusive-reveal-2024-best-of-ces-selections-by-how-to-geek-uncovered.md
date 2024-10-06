@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Reveal: 2024 Best of CES Selections by How-To Geek Uncovered"
-date: 2024-09-30T01:07:26.849Z
-updated: 2024-10-01T02:55:49.859Z
+date: 2024-10-01T02:52:26.309Z
+updated: 2024-10-06T08:53:53.345Z
 tags:
   - desktop
 categories:
@@ -32,23 +32,9 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  A brand new year means brand new tech being showcased at CES 2024\. We were on the ground in Las Vegas, scouring the show floors for cool gadgets and impressive innovations. We've highlighted some of our favorite products from the event, giving you a taste of what to look forward to this year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Laptop: Lenovo Thinkpad X1 Carbon Gen 12
 
 ![Lenovo ThinkPad X1 Carbon Gen 12 sitting on a table open showing its screen and keyboard with Best of CES 2024 badge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-thinkpad-x1-carbon-gen-12-sitting-on-a-table-open-showing-its-screen-and-keyboard-with-best-of-ces-2024-badge-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -92,6 +78,13 @@ Justin Duino / How-To Geek
 
  JBL says the Go 4 is rated for 7 hours of battery life. It's IP67 rated, has Bluetooth 5.3, and [Bluetooth LE audio](https://screen-video-capture.techidaily.com/updated-the-experts-guide-to-live-classroom-capturing-via-macos-for-2024/). It will be available in June for only $50, which is $30 cheaper than the JBL Clip 5, the company's slightly larger portable speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Mouse: Cherry M64 Pro Wireless Mouse
 
 ![Cherry M64 Pro Wireless Mouse at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/cherry-m64-pro-wireless-mouse-at-ces-2024.jpg) 
@@ -108,22 +101,15 @@ Hannah Stryker / How-To Geek
 
  Launching alongside keyboards, microphones, and other [CHERRY XTRFY gaming gear](https://www.cherry-world.com/company/press/article/cherry-xtrfy-reveals-entire-range-of-new-gaming-products-at-ces), the M64 Pro will be available for $139 in Q2 of 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best TV: LG G4 OLED
 
 ![A LG G4 OLED evo at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/a-lg-g4-oled-evo-at-ces-2024.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -138,16 +124,22 @@ Hannah Stryker / How-To Geek
 
  LG hasn’t revealed the price or release date for the G4 OLED yet, but last year’s model was released in March and started at $2,300\. The G4 will range in sizes from 55 inches all the way up to 97 inches, though the very top size lacks the MLA technology.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Projector: XGIMI Horizon Max
 
 ![XGIMI Horizon Max projector sitting on a table at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/xgimi-horizon-max-projector-sitting-on-a-table-at-ces-2024.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -156,13 +148,6 @@ Justin Duino / How-To Geek
  The XGIMI Horizon Max is also a smart projector that will run on Android TV/Google TV, which will make it easy to access thousands of apps and streaming services. Our own Andrew Heinzman was at CES and had this to say about the projector: "An excellent looking projector. The extreme brightness, long throw ratio, motorized gimbal, and automatic keystone features are perfect for large home theaters or small venues. It’s a substantial upgrade from the Horizon Ultra, which was already great in its own right."
 
  XGIMI says the Horizon Max is scheduled for a late 2024 release, and while it didn't share specific pricing details, it will cost less than $3,000.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best Keyboard: Satechi SM1 Slim
 
@@ -202,6 +187,13 @@ Justin Duino / How-To Geek
 
  As expected, all this tech comes at a price. The Roborock S8 MaxV Ultra costs $1,800 and will be launching in April.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Smart Lighting: Govee AI Sync Box Kit 2
 
 ![Govee AI Sync Box Kit 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/govee-ai-sync-box-kit-2.jpg) 
@@ -219,6 +211,13 @@ Govee
 ##  Best Gaming: NVIDIA VRR Pulsar
 
 ![NVIDIA G-Sync Pulsar comparison stacked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nvidia-g-sync-pulsar-comparison-stacked.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 NVIDIA
 
@@ -248,13 +247,6 @@ Justin Duino / How-To Geek
 
 ![Sennheiser Momentum Sport earbuds sitting outside of their charging case at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sennheiser-momentum-sport-earbuds-sitting-outside-of-their-charging-case-at-ces-2024.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  Sennheiser MOMENTUM Sport come equipped with a heart rate monitor and body temperature sensor, which can interface with a range of fitness apps, allowing you to optimize your workout and analyze long-term fitness trends. They also have other features we’ve come to expect from high-end earbuds, including adaptive noise cancellation, a transparency mode, and IP55 certification. Above and beyond the fitness tracking features, the earbuds deliver the kind of excellent sound quality Sennheiser is known for.
@@ -263,9 +255,23 @@ Justin Duino / How-To Geek
 
  Sennheiser’s MOMENTUM Sport earbuds will be available on April 9th, 2024, for $329.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Health: Withings BeamO
 
 ![Person checking their heart rate using the Withings BeamO at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/person-checking-their-heart-rate-using-the-withings-beamo-at-ces-2024.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -278,10 +284,10 @@ Justin Duino / How-To Geek
  The EKG still needs to clear all those FDA processes, but Withings is aiming for a June release date for its “thermometer of the future.”
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Office: Razer Iskur V2
@@ -311,22 +317,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-streamline-split-and-save-going-beyond-xsplit/"><u>[Updated] 2024 Approved Streamline, Split & Save Going Beyond XSplit</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-convenient-ways-to-document-game-sessions/"><u>2024 Approved Convenient Ways to Document Game Sessions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/archive-powerpoint-into-video-repository-for-2024/"><u>Archive PowerPoint Into Video Repository for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-fix-route-no-current-nvidia-output/"><u>Direct Fix Route: No Current NVIDIA Output</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-14-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 4G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-v27-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo V27 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-elevating-your-entertainment-game-on-roku-and-facebook-live/"><u>In 2024, Elevating Your Entertainment Game on Roku and Facebook LIVE</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-flashfreeze-video-interruption-tip/"><u>In 2024, FlashFreeze Video Interruption Tip</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sonic-update-for-whatsapp-statues-for-2024/"><u>Sonic Update for WhatsApp Statues for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor X8b</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-google-pixel-8-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Google Pixel 8 Pro without backup.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/travel-smart-with-the-timeless-powershot-g9x2/"><u>Travel Smart with the Timeless PowerShot G9X2</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-f5-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from F5 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-vivo-t2-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo T2 5G fingerprint</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-s-best-time-lapse-video-editing-tools-free-paid-and-everything-in-between/"><u>Updated In 2024, S Best Time-Lapse Video Editing Tools Free, Paid, and Everything in Between</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-civi-3-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Civi 3 ?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-components-that-lift-you-in-youtube-viewership/"><u>[New] 2024 Approved The Components That Lift You in YouTube Viewership</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-digital-dividends-the-creators-guide-to-monetization-for-2024/"><u>[Updated] Digital Dividends The Creator's Guide to Monetization for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-detailed-guide-to-minecraft-live-broadcasting/"><u>[Updated] In 2024, Detailed Guide to Minecraft Live Broadcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tactics-to-expose-youtubes-well-guarded-videotapes/"><u>[Updated] Tactics to Expose YouTube's Well-Guarded Videotapes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-direct-playback-of-fb-videos-on-home-entertainment-systems/"><u>2024 Approved Direct Playback of FB Videos on Home Entertainment Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-audio-exploration-top-gpodc-picks/"><u>2024 Approved Premium Audio Exploration Top GPodC Picks</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-lava-blaze-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Blaze 2 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-n3-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find N3 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-oppo-reno-10-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo Reno 10 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-fortnite-graphics-support-problems-with-windows-pc/"><u>Resolving Fortnite Graphics Support Problems with Windows PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/revisit-memories-easy-old-stories-on-fb/"><u>Revisit Memories Easy Old Stories on FB</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-magic-vs-2-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Magic Vs 2</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-a60s-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel A60s.</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through the Obstacles of Digital Transformation - Insights From ABBYY Tech Summit, July 2017
-date: 2024-09-21T02:22:44.962Z
-updated: 2024-09-23T22:55:03.145Z
+date: 2024-09-30T05:37:13.647Z
+updated: 2024-10-06T00:03:20.520Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a378ece9f04f489b258c09834.jpg
@@ -21,13 +21,6 @@ The 5th Annual [ABBYY Technology Summit](https://abbyytechnologysummit.com/) kic
 
 This year’s content-rich [#ABBYYSummit17](https://twitter.com/hashtag/abbyysummit17) event proves once again that the ABBYY Technology Summit is the go-to event for data capture, digital transformation, and natural language processing. Last year’s [#ABBYYSummit16](https://twitter.com/search?q=%23ABBYYSummit16) was a remarkable success, drawing our largest crowd yet of 220 business leaders and developers from 15 different countries. In fact, response was so enthusiastic that we were forced to close registration early so [register now](https://abbyytechnologysummit.com/)!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Recap of #ABBYYSummit16
 
 Sandy Kemsley’s innovative keynote from 2016’s event, “[Intelligent Capture & Digital Transformation](https://www.slideshare.net/skemsley/abbyy-technology-summit-keynote?qid=f5bede46-32a0-4185-8035-287aa4198fe5&v=&b=&from%5Fsearch=1),” opened-up discussions on important case studies presented by athenahealth, Fidelity Financial, Star Cloud Services, and TestPlant.
@@ -36,13 +29,20 @@ New and emerging technologies for Receipt Capture (RC SDK) and Mobile Real-Time 
 
 [![ABBYY Tech Summit 16](https://static1.abbyy.com/abbyycommedia/25241/abbyy-tech-summit-16.png)](http://www.slideshare.net/search/slideshow?searchfrom=header&q=%23ABBYYSummit16)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Download the #ABBYYSummit16 presentations on SlideShare](http://www.slideshare.net/search/slideshow?searchfrom=header&q=%23ABBYYSummit16).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Coming Up at #ABBYYSummit17
@@ -75,10 +75,10 @@ Here is what [Bruce Orcutt, SVP of Product Marketing at ABBYY](https://twitter.c
 I’m still inspired after #ABBYYSummit16 in San Diego last year. Unlike some tech industry events that can leave you wanting more substance, our compact format was filled with a variety of presentations, great ideas, exciting solutions, and rare opportunities to learn and interact with some of the leading practitioners in digital transformation today. Response to the event was overwhelming and you could literally feel the growth in both attendance, and event value as 96% of attendees plan on returning this year. We are very excited and look forward to our attendee’s success at #ABBYYSummit17, this October 25th\-27th.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leading the Way to Digital Transformation
@@ -94,10 +94,10 @@ Register before it’s too late at [www.ABBYYTechnologySummit.com](https://abbyy
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Events](https://tools.techidaily.com/abbyy/products/) [Mobile](https://tools.techidaily.com/abbyy/products/) [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -161,5 +161,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-breakdown-of-essential-video-effects-in-tiktok-editing/"><u>[Updated] Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pros-and-cons-reviewing-nikon-d7500/"><u>[Updated] Pros & Cons Reviewing Nikon D7500</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-correcting-obs-darkness-during-live-streams/"><u>2024 Approved Correcting OBS Darkness During Live Streams</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-recovering-youtube-gems-2-easy-watch-methods-revealed/"><u>2024 Approved Recovering Youtube Gems 2 Easy Watch Methods Revealed</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-11-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 11 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-common-problems-in-hearts-of-iron-iv-a-comprehensive-guide/"><u>Resolving Common Problems in Hearts of Iron IV: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-14-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi 14</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-best-torrent-sites-for-games/"><u>Top 10 Best Torrent Sites for Games</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Itel P55 5G</u></a></li>
+</ul></div>
 

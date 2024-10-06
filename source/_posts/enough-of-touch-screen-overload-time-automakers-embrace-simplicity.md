@@ -1,7 +1,7 @@
 ---
 title: "Enough of Touch Screen Overload: Time Automakers Embrace Simplicity"
-date: 2024-09-24T00:04:41.291Z
-updated: 2024-10-01T06:58:23.862Z
+date: 2024-10-02T18:56:21.483Z
+updated: 2024-10-06T01:25:07.654Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 
  Big touch screens give modern vehicles a real sci-fi vibe, but there's a reason old-fashioned knobs and controls have been the go-to choice for controlling your car's features for a century. Touch screens have their place, but automakers are going a little overboard, if you ask me.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Touch Screens Have Many Downsides
 
  While a touch screen is fine on a phone or laptop, operating one while driving isn't the best idea. Because there's no tactile feedback, you have to look over at the screen in order to make your selection. Any control system that requires a driver to take their eyes off the road is logically a safety issue.
@@ -33,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 ![A Tesla passenger enabling Vehicle Motion Cues in their iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tesla-passenger-seat-iphone-control-center-vehicle-motion-cues-enabled-wide-shot-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek
@@ -46,15 +39,28 @@ Christian Zibreg / How-To Geek
  It's also an open question whether these screens need to be so large. I own the KIA Sportage model just before the series got a massive touch screen in the 2023 model update and, honestly, I'm not sure if I could live with such a huge screen long-term. Whereas the small central touch screen my car currently has (so I can use Android Auto or Apple CarPlay) feels like a much more sensible balance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Physical Controls Are Safer for Drivers
 
  While the primary safety benefit of physical controls in a car is that you can operate them without looking, that's not the only reason they are safer. For one thing, touch screens are more complex, more fragile, and more prone to failure than a physical switch or toggle. You can also develop muscle memory to operate your car controls while putting pretty much zero cognitive load on yourself. The controls will always be in the same place and operate the same way.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Putting Everything on One Screen Is a Mistake
 
@@ -63,10 +69,10 @@ Christian Zibreg / How-To Geek
  At the very least, I think that a touchscreen should offer redundancy for critical controls. So, while it's fine to have access to things like the AC, or your car's warning messages on the touch screen, these should be duplicated with traditional controls or gauges where possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some Lawmakers Are Taking Notice
@@ -92,20 +98,14 @@ Christian Zibreg / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-new-buzzwords-for-vlogger-dialogues/"><u>[New] In 2024, New Buzzwords for Vlogger Dialogues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-reels-virality-unlocked-leveraging-tiktok-hacks-for-2024/"><u>[Updated] Instagram Reels Virality Unlocked Leveraging TikTok Hacks for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-snapchat-zooming-in-photos-and-videos/"><u>[Updated] Mastering Snapchat Zooming in Photos & Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-gamers-guide-to-superior-webcam-gameplay-capturing/"><u>[Updated] Pro Gamer's Guide to Superior WebCam Gameplay Capturing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-creating-engaging-youtube-openings-and-closers-for-free/"><u>2024 Approved Creating Engaging YouTube Openings & Closers for Free</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-choosing-the-best-stabilizing-accessories/"><u>2024 Approved Ultimate Guide Choosing the Best Stabilizing Accessories</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-proven-fixes-to-address-the-resume-downloading-error-during-an-ipod-update-process/"><u>6 Proven Fixes to Address the 'Resume Downloading' Error During an iPod Update Process</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-n53-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100i-power-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100i Power 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-get-the-right-fit-how-to-change-video-shape-and-size/"><u>In 2024, Get the Right Fit How to Change Video Shape and Size</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners-for-2024/"><u>The Best Aviation Start Syma X5C Reviewed for Droning Beginners for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tailoring-content-to-thrive-on-youtube-select-the-best-formats/"><u>[Updated] In 2024, Tailoring Content to Thrive on YouTube – Select the Best Formats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exciting-news-microsoft-offers-office-2er-2024-at-an-unprecedented-one-off-price/"><u>Exciting News: Microsoft Offers Office 2Er 2024 at an Unprecedented One-Off Price!</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/tecno-data-retrieval-tool-restore-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Tecno Data Retrieval tool – restore lost data from Tecno</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-open-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus Open Location | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
+<li><a href="https://techidaily.com/will-galaxy-s21-fe-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy S21 FE 5G (2023) play AVCHD mts files?</u></a></li>
 </ul></div>
 

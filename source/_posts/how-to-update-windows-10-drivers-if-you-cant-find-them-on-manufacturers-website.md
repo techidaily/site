@@ -1,7 +1,7 @@
 ---
 title: How to Update Windows 10 Drivers if You Can’t Find Them on Manufacturer’s Website
-date: 2024-09-20T08:47:53.191Z
-updated: 2024-09-24T08:41:20.696Z
+date: 2024-09-30T16:09:28.885Z
+updated: 2024-10-06T13:54:32.343Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  Windows update requires time to complete, so let it finish if you can. But if you’ve been waiting for an hour or so, then it’s probably stuck and there’s nothing else you can do.
 
  While in most cases, a hard shutdown during the update process didn’t cause issues. There are no guarantees that it also works for you. Unfortunately, it’s the only method to try if your computer gets stuck there.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### After restarting your PC, try these fixes
 
@@ -59,22 +52,16 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Follow the on-screen instructions to fix your problem.
 
@@ -105,13 +92,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
@@ -140,6 +120,13 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
@@ -149,6 +136,13 @@ If your problem persists, then move on to the next fix.
  Only uninstall those programs that you don’t use anymore, don’t remove any program that you are not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This could help free up lots of space if you have many unused programs on your computer.
 
@@ -162,6 +156,13 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -169,6 +170,13 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and type**defragment** . Then, click**Defragment and Optimize Drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-155.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Optimize** and wait for the process to be complete.
 
@@ -201,10 +209,10 @@ If your problem persists, then move on to the next fix.
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
@@ -229,28 +237,28 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
@@ -271,23 +279,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
@@ -315,5 +309,26 @@ If your problem persists, then move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-wirecast-facebook-livestreams/"><u>[New] 2024 Approved Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-11-best-free-youtube-name-generators-you-should-know/"><u>[Updated] In 2024, 11 Best Free YouTube Name Generators You Should Know</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>[Updated] Swiftly Move Data Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-auto-hdr-and-smart-exposure-techniques-in-photos/"><u>[Updated] Understanding Auto HDR and Smart Exposure Techniques in Photos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-accelerating-or-slowing-down-youtube-videos-playback/"><u>2024 Approved Accelerating or Slowing Down YouTube Videos Playback</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A05s Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experts-rate-ecoflow-river-cu3-as-a-top-choice-for-beginner-friendly-portable-power-solutions-a-detailed-review-by-zdnet/"><u>Experts Rate EcoFlow River Cu3 as a Top Choice for Beginner-Friendly Portable Power Solutions: A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-v29e-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo V29e in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-neo-5-se-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT Neo 5 SE without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-clearing-clutter-and-expanding-memory-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Clearing Clutter and Expanding Memory on Your Windows 10 PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-free-content-with-these-top-7-tools-for-instagram-video-editing-for-2024/"><u>Unlock Free Content with These Top 7 Tools for Instagram Video Editing for 2024</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-13-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 13 takes time in scanning my iPhone? | Stellar</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easily Create a Password Reset Disk in Windows 10 [Step by Step]
-date: 2024-09-21T10:43:44.217Z
-updated: 2024-09-24T08:01:31.134Z
+date: 2024-10-02T19:50:44.614Z
+updated: 2024-10-06T03:43:32.845Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Here’s how to check your DirectX version:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Update DirectX
 
  Once you know that you are not running the latest DirectX, you can follow the steps below to update DirectX.
@@ -50,10 +43,16 @@ Here’s how to check your DirectX version:
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 10
@@ -65,16 +64,10 @@ Here’s how to check your DirectX version:
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -83,24 +76,32 @@ Here’s how to check your DirectX version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers to improve your gaming experience
@@ -117,10 +118,10 @@ Here’s how to check your DirectX version:
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -150,5 +151,22 @@ Here’s how to check your DirectX version:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-blend-soundscape-into-ppt-narratives/"><u>[New] 2024 Approved Blend Soundscape Into PPT Narratives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-efficiently-extracting-twitters-visual-jokes-gifs/"><u>[New] Efficiently Extracting Twitter's Visual Jokes (GIFs)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-endurance-elevated-discover-top-long-flight-drones/"><u>[New] In 2024, Endurance Elevated Discover Top Long-Flight Drones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-convert-srt-with-ease-the-finest-free-converters-ranked/"><u>[Updated] Convert SRT with Ease - The Finest FREE Converters Ranked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-find-n3-flip-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo Find N3 Flip without App | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y55s-5g-2023-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y55s 5G (2023) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-now-the-ultimate-focusrite-scarlett-solo-sound-card-for-windows-users/"><u>Download Now: The Ultimate Focusrite Scarlett Solo Sound Card for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-rx-480-gpu-drivers-free-download-installation-and-update-instructions-for-gamers/"><u>Latest AMD RX 480 GPU Drivers - Free Download, Installation & Update Instructions for Gamers</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-11-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme 11 5G)</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2007-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2007 Online for Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-widevine-content-decryption-module-missing-not-updated-issue-on-windows/"><u>Solved Widevine Content Decryption Module Missing, Not Updated Issue on Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-tecno-spark-10c-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Tecno Spark 10C without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-magic-v2-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Magic V2.</u></a></li>
+</ul></div>
 

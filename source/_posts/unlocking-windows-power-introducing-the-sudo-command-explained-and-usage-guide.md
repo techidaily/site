@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2024-09-24T19:34:20.249Z
-updated: 2024-10-01T00:39:34.096Z
+date: 2024-10-05T03:20:52.557Z
+updated: 2024-10-05T22:24:09.320Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Is sudo So Revered?
 
  The sudo command speeds up administrative tasks by letting you run tasks without having to start a new session as a different user. It's a real time-saver, and it is good for security as it means you don't have to share administrative credentials. It's so widely used in day-to-day Linux operations it's pretty much a [geek meme](https://xkcd.com/149/) at this point.
@@ -26,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable sudo in Windows 11
@@ -60,25 +67,18 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
 
@@ -107,16 +107,24 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-crafting-perfect-slack-filmo-meeting-experiences/"><u>[New] 2024 Approved Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellence-in-broadcasted-theatrical-skits-for-2024/"><u>Excellence in Broadcasted Theatrical Skits for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a34-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A34 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-steadicam-devices-for-professional-drone-cinematography/"><u>Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>The way to get back lost music from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-redmi-12-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi Redmi 12 without backup.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-hot-40-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Hot 40</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-code-0x800f0831-the-troubleshoot-tome/"><u>Unraveling Code 0X800f0831: The Troubleshoot Tome</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>[New] 2024 Approved The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-which-is-superior-for-screen-recording-obs-studio-or-fraps/"><u>[New] In 2024, Which Is Superior for Screen Recording – OBS Studio or Fraps?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[Updated] 2024 Approved From Playtime to Peak Time Top Gaming Women in the Digital Space</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-directly-uploading-tweets-videos-to-instagram-profile-for-2024/"><u>[Updated] Directly Uploading Tweets Videos to Instagram Profile for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-outshine-filmora-a-roundup-of-the-best-tablets-for-image-tweaking/"><u>2024 Approved Outshine Filmora A Roundup of the Best Tablets for Image Tweaking</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discovering-the-fusion-of-color-and-clarity-in-4k-blade-cameras-for-2024/"><u>Discovering the Fusion of Color and Clarity in 4K Blade Cameras for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-lost-ark-not-starting-up-this-year/"><u>How to Overcome Lost Ark Not Starting Up This Year</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-reno-10-proplus-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Reno 10 Pro+ 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-10-proplus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 10 Pro+ 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to others devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-download-of-intel-cpugpu-drivers-instant-access/"><u>Step-by-Step Download of Intel CPU/GPU Drivers - Instant Access!</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-pop-7-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11-compatible-free-download-intel-usb-30-device-drivers/"><u>Windows 11 Compatible - Free Download: Intel USB 3.0 Device Drivers</u></a></li>
 </ul></div>
 

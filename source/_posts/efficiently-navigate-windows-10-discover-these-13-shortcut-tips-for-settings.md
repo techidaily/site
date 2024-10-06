@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Navigate Windows 10: Discover These 13 Shortcut Tips for Settings"
-date: 2024-09-30T01:06:45.808Z
-updated: 2024-09-30T21:00:22.163Z
+date: 2024-10-04T22:30:21.255Z
+updated: 2024-10-06T11:00:05.173Z
 tags:
   - desktop
 categories:
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  Just press Windows+i and the Settings menu will launch.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Start Menu
 
  You can also quickly access Settings from the Start menu. First, click the Windows icon in the bottom-left corner of the desktop. The Start menu will open. Click the gear icon near the bottom of the menu.
@@ -41,13 +54,20 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 ![Click the Start button, then click the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/start-menu-then-settings-icon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Settings app will open.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Power User Menu
 
@@ -55,21 +75,7 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Right-click the Start button, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-power-user-menu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Settings will open.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Search for Settings in Windows Search
 
@@ -82,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  Settings will then launch.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access Settings From the Context Menu on the Desktop
@@ -98,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ##  Open Settings From File Explorer
@@ -113,18 +112,24 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Click the File Explorer icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-File-Explorer-icon..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, in File Explorer, click "This PC" in the left-hand pane and then click "Open Settings" in the ribbon.
 
 ![Click the 'Open Settings' button at the top of Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-from-windows-explorer.png) 
 
  The Settings app will open.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Action Center
 
@@ -176,11 +181,25 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Click the 'Home' button to go to the main page of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-home-button-in-settings-again.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Run a Command in the Run App
 
  You can also use the Run app to open Settings. Open the Run app by using the Windows+R keyboard shortcut. Once open, enter **ms-settings:** in the text box and then click "OK."
 
 ![Enter 'ms-settings:' into a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-box-enter-ms-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will start the Settings app.
 
@@ -191,10 +210,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 ![Opening 'Command Prompt' from the Start Menu or taskbar search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Command Prompt, run this command:
@@ -217,13 +236,6 @@ start ms-settings:
 
 ![Run 'start ms-settings:' in the PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-start-ms-settings-powershell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Settings app will now open.
 
  There you have it. With so many ways to open the Settings app, you'll almost always have immediate access to it. But the Settings app isn't an exception—there are many different ways to open all kinds of apps on Windows 10, including the [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and [Control Panel](https://tech-recovery.techidaily.com/1722861107683-troubleshooting-when-your-iphone-doesnt-ring-easy-fixes-inside/). Discover your favorite way to open different apps!
@@ -243,16 +255,18 @@ start ms-settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>[New] 2024 Approved Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capture-the-action-crafting-best-in-class-sports-films/"><u>[New] 2024 Approved Capture the Action Crafting Best-in-Class Sports Films</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unleashing-your-potential-saving-instagram-stories-like-a-pro/"><u>[Updated] 2024 Approved Unleashing Your Potential Saving Instagram Stories Like a Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-apowersoft-screenshot-suite-comprehensive-free-analysis/"><u>[Updated] Apowersoft Screenshot Suite Comprehensive Free Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlicensed-legal-tracks-downloads-for-gaming/"><u>2024 Approved Unlicensed Legal Tracks Downloads for Gaming</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2000-online-add-signature-to-word-2000-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2000 Online - Add Signature to Word 2000 for Free</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966341386-solution-the-primary-cause-of-arc-blow-in-welding-processes-is-magnetic-fields-that-deflect-the-arc-away-from-its-intended-path/"><u>Solution: The Primary Cause of Arc Blow in Welding Processes Is Magnetic Fields that Deflect the Arc Away From Its Intended Path.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-leading-photo-editing-apps-for-iphone-and-android-guide/"><u>[New] In 2024, Leading Photo Editing Apps for iPhone & Android Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-transformative-power-of-augmented-vision/"><u>[Updated] The Transformative Power of Augmented Vision</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/5-ways-to-record-roblox-gameplay-on-mac-for-2024/"><u>5 Ways to Record Roblox Gameplay on Mac for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-drivers-bundle-steinberg-and-yamaha/"><u>Comprehensive Drivers Bundle: Steinberg & Yamaha</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-and-resolving-elans-win11-touchscreen-issues/"><u>Decoding and Resolving Elan's Win11 Touchscreen Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-productivity-top-30-mouse-control-wizards/"><u>Elevate Productivity: Top 30 Mouse Control Wizards</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-11-proplus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 11 Pro+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Google Pixel Fold</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-magic-6-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor Magic 6 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/vr-headset-showdown-the-best-of-2023-for-pc-for-2024/"><u>VR Headset Showdown The Best of 2023 for PC for 2024</u></a></li>
 </ul></div>
 

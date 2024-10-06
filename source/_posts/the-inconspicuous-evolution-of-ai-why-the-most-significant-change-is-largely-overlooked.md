@@ -1,7 +1,7 @@
 ---
 title: "The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked"
-date: 2024-09-26T06:49:14.100Z
-updated: 2024-10-01T00:37:52.112Z
+date: 2024-09-29T12:25:29.294Z
+updated: 2024-10-06T03:44:52.598Z
 tags:
   - cutting-edge
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -56,10 +56,10 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -87,24 +87,18 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-smart-shopping-for-cloud-storages-best-price-secrets-revealed/"><u>[New] 2024 Approved Smart Shopping for Cloud Storages Best Price Secrets Revealed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-transform-your-iphone-footage-creating-and-editing-lengthened-visual-narratives/"><u>[New] 2024 Approved Transform Your iPhone Footage Creating & Editing Lengthened Visual Narratives</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-professional-recording-essentials-evaluating-apeaksofts-capabilities-for-2024/"><u>[New] Professional Recording Essentials – Evaluating Apeaksoft's Capabilities for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-linking-perfection-incorporating-linktree-into-your-tiktok-profile/"><u>[Updated] 2024 Approved Linking Perfection Incorporating Linktree Into Your TikTok Profile</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-guide-8-real-world-promotion-tools-for-videos/"><u>[Updated] In 2024, The Ultimate Guide 8 Real-World Promotion Tools for Videos</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-poco-c50-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Poco C50? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-free-logitech-webcam-drivers-for-windows-no-hack/"><u>Download Free Logitech Webcam Drivers for Windows - No Hack</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>From Concept to Click An In-Depth Look at GIF Memes</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y100-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y100 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone X Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-motorola-moto-g34-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Motorola Moto G34 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-hottest-tiktok-trends-on-twitter-for-2024/"><u>The Hottest TikTok Trends on Twitter for 2024</u></a></li>
-<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-motorola-g54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola G54 5G?</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-update-error-code-0x80070652-a-user-friendly-guide/"><u>Winning Against Windows Update Error Code 0X80070652: A User-Friendly Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-xbox-storage-solutions-the-essential-5/"><u>[New] In 2024, Xbox Storage Solutions The Essential 5</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-xsplit-database-comprehensive-review-archives/"><u>2024 Approved XSplit Database Comprehensive Review Archives</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-s17-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo S17 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-step-by-step-tutorial-to-get-your-epson-et-4550-driver-running-on-a-pc-with-windows-os/"><u>Easy Step-by-Step Tutorial to Get Your Epson ET-4550 Driver Running on a PC with Windows OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-fold-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel Fold to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-note-30i-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Note 30i</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-redmi-note-12t-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Redmi Note 12T Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-gt-5-240w-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme GT 5 (240W)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-honor-magic-5-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor Magic 5</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-strategies-for-overcoming-football-manager-2021-compatibility-errors-with-pc/"><u>Winning Strategies for Overcoming Football Manager 2021 Compatibility Errors with PC</u></a></li>
 </ul></div>
 

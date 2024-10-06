@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Navigating Printer Setup and Management on Your Windows 10 Machine"
-date: 2024-09-30T03:39:56.814Z
-updated: 2024-10-01T04:49:06.691Z
+date: 2024-10-02T16:06:31.528Z
+updated: 2024-10-05T19:11:43.983Z
 tags:
   - deals
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b760d1fde54b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d1fde54b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also use the old interface at Control Panel > Hardware and Sound > Devices and Printers. Click the "Add a Printer" button to get started.
@@ -46,26 +46,27 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b760d447a301](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d447a301.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Change Printing Preferences
 
  To change your printer's settings, head to either Settings > Devices > Printers & Scanners or Control Panel > Hardware and Sound > Devices and Printers. In the Settings interface, click a printer and then click "Manage" to see more options.
 
 ![img_5b760d784359d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d784359d.png) 
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Control Panel, right-click a printer to find various options.
 
@@ -76,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  For example, if you have a color printer, you'll see options for choosing between color and black and white. You might also see options for choosing the tray from which the printer grabs the paper, selecting the orientation of the document (portrait or landscape), and changing print quality settings. Don't miss the "Advanced" button, which offers many additional settings.
 
 ![img_5b760ec197ec6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ec197ec6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
 
@@ -93,36 +101,28 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
 
 ![img_5b76126767084](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76126767084.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the Control Panel interface, right-click a printer and select "Printer Properties." Click the "Print Test Page" button.
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Set Your Default Printer
 
@@ -132,16 +132,16 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b76132b50e9d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76132b50e9d.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To choose your default printer, click a printer in the Printers & Scanners list, click "Manage," and click the "Set as Default" button.
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
@@ -157,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
@@ -172,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Create Multiple Printer Profiles
 
  Normally, you must go into your printer's preferences or properties to change various settings. However, this can be inconvenient when you have multiple groups of settings you want to toggle between. For example, perhaps you have a color printer on which you sometimes print high-quality color photos and sometimes print lower detail black and white documents.
@@ -179,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  Rather than toggling the settings back and forth every time you use the printer, you can [add multiple printer devices that point at the same underlying physical printer](https://screen-recording.techidaily.com/in-2024-perfecting-ipad-display-recordings/). Think of these as multiple printer profiles you can select between while printing documents.
 
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Set Up a Shared Printer
 
@@ -213,6 +206,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
  You might also need to run various diagnostic functions on the printer itself. Check your printer's manual for more information on its diagnostic features.
@@ -232,17 +232,24 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>[Updated] IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-lg-360-camera-full-review/"><u>[Updated] LG 360 Camera Full Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-irecorder-the-screen-recording-standard/"><u>2024 Approved IRecorder The Screen Recording Standard</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y36-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y36 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-your-mornings-with-the-philips-hf3505-sunrise-alarm-clock-detailed-analysis/"><u>Evaluating Your Mornings with the Philips HF3505 Sunrise Alarm Clock: Detailed Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976751364-experience-the-new-and-improved-magicard-rio-pro-driver-compatible-with-win-11-81-and-7/"><u>Experience the New & Improved Magicard Rio Pro Driver - Compatible with Win 11, 8.1 & 7!</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-t2-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo T2 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-13c-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi 13C Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-cutting-edge-third-place-ipad-audio-capture-apps/"><u>In 2024, Cutting-Edge Third-Place iPad Audio Capture Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-nokia-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nokia .</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-adding-youtube-music-to-video/"><u>[New] 2024 Approved Adding YouTube Music To Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-basic-snaps-to-expertly-crafted-images-on-snapchat-for-2024/"><u>[New] From Basic Snaps to Expertly Crafted Images on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-no-longer-a-mystery-shorts-now-showing-up/"><u>[Updated] 2024 Approved No Longer a Mystery Shorts Now Showing Up</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-launching-your-first-product-critique-network-a-step-by-step-guide/"><u>2024 Approved Launching Your First Product Critique Network A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/discover-reliable-free-mobile-communication-tools-with-advanced-security-features-for-2024/"><u>Discover Reliable Free Mobile Communication Tools with Advanced Security Features for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze 2 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 13 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-gt-5-240w-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme GT 5 (240W) Device</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y78t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y78t working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-galaxy-s23-ultra-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Galaxy S23 Ultra without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-magic-6-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor Magic 6 without backup.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-spark-10-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Spark 10 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transformative-strategies-for-broadcast-excellence-wirecast-on-youtube-for-2024/"><u>Transformative Strategies for Broadcast Excellence WireCast on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a78-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A78</u></a></li>
 </ul></div>
 

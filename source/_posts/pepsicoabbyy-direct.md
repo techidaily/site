@@ -1,7 +1,7 @@
 ---
 title: 世界市場をリードするPepsiCoがABBYY Directの高度なデータキャプチャを活用した自動化済請求システム
-date: 2024-09-20T01:09:22.901Z
-updated: 2024-09-23T18:02:16.638Z
+date: 2024-10-05T14:19:02.234Z
+updated: 2024-10-05T16:24:21.853Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2f0511baeab6c403517618b1.jpg
@@ -19,22 +19,29 @@ Food and Beverage | Accounts Payable Automation
 
 [お客様のストーリーに戻る](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 世界トップレベルの食品飲料ブランドPepsiCoがABBYYの デー タキャプチャを導入し請求書処理を自動化
 
 食品および飲料 | 支払業務自動化 
 
 ![](https://static1.abbyy.com/abbyycommedia/15764/pepsico.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### お客様の概要
 
 ![PEPSICO](https://static2.abbyy.com/abbyycommedia/15266/pepsico_for-uk.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | 氏名     | PEPSICO                                   |
 | ------ | ----------------------------------------- |
@@ -114,26 +121,26 @@ Patel氏によると、PepsiCo Imaging Technologyチ ー ムはFlexiCaptureを�
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![請求書処理の自動化](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [請求書処理の自動化](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF版](https://static2.abbyy.com/abbyycommedia/15765/pepsico1.png)](https://static4.abbyy.com/abbyycommedia/23673/customer-story-pepsico-ja.pdf "PDF版") [PDF版](https://static4.abbyy.com/abbyycommedia/23673/customer-story-pepsico-ja.pdf "PDF版") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [詳細を読む](https://static4.abbyy.com/abbyycommedia/23673/customer-story-pepsico-ja.pdf "PDF版") 
@@ -141,13 +148,6 @@ Patel氏によると、PepsiCo Imaging Technologyチ ー ムはFlexiCaptureを�
 ###### SNSでフォロー
 
 シェア  True ?  : "" 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
 
@@ -168,5 +168,18 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tips-for-effective-mov-file-saving-on-windows-11-for-2024/"><u>[New] Tips for Effective MOV File Saving on Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-captivating-video-narratives-for-youtube-success-for-2024/"><u>[Updated] Crafting Captivating Video Narratives for YouTube Success for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-discover-top-5-ios-ps2-games-simulators-for-2024/"><u>[Updated] Discover Top 5 IOS PS2 Games Simulators for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-dive-into-instagram-filters-2023s-latest-trends/"><u>[Updated] In 2024, Dive Into Instagram Filters 2023'S Latest Trends</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a78-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A78 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-handling-page-not-available-mistakes-on-websites-strategies-to-resolve/"><u>The Essentials of Handling 'Page Not Available' Mistakes on Websites: Strategies to Resolve</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/the-ultimate-guide-to-swiftly-and-accurately-convert-your-mov-files-into-mp4-format-with-the-best-tools/"><u>The Ultimate Guide to Swiftly & Accurately Convert Your MOV Files Into MP4 Format with the Best Tools!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-realme-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Realme</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+</ul></div>
 

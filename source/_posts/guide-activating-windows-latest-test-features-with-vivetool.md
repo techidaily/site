@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating Windows' Latest Test Features with ViVeTool"
-date: 2024-09-28T16:29:07.800Z
-updated: 2024-09-30T21:47:59.152Z
+date: 2024-09-30T21:18:35.620Z
+updated: 2024-10-06T02:02:04.303Z
 tags:
   - deals
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 * [How to Use ViVeTool (GUI) to Activate Windows Features](https://www.howtogeek.com/what-is-vivetool-and-how-to-use-it/#how-to-use-vivetool-gui-to-activate-windows-features)
 * [How to Use ViVeTool (Command-Line) to Activate Windows Features](https://www.howtogeek.com/what-is-vivetool-and-how-to-use-it/#how-to-use-vivetool-command-line-to-activate-windows-features)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ViVeTool is a third-party tool that allows you to enable experimental features on your Windows PC.
@@ -35,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
  Do you want to try out experimental features on Windows to stay ahead of the curve? One way to do that is by joining the Windows Insider Program. However, Microsoft gradually rolls out these experimental features to Insiders, meaning you might not get immediate access or, in some cases, not even be selected for the controlled rollout. This is where ViVeTool steps in.
 
  ViVeTool is a third-party tool that allows you to enable experimental Windows features on your computer. But how does this tool work, and is it safe to use? Let's find out.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is ViVeTool, and How Does It Work?
 
@@ -64,29 +64,22 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  In summary, if you are comfortable with command-line tools like [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and want more flexibility, the command-line version of ViVeTool is the better choice. However, if you prefer a simpler interface and don't have much expertise in executing commands, the GUI version is a more suitable option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use ViVeTool (GUI) to Activate Windows Features
 
  It's very easy to use ViVeTool's GUI version to activate features on your computer. Begin by visiting the [ViVeTool GUI GitHub page](https://github.com/PeterStrick/ViVeTool-GUI/releases/), and download the latest version of the setup.exe file. You might have to expand the "Assets" dropdown to find the ViVeTool.GUI.Setup.exe file.
 
 ![Setup file in ViVeTool GUI page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/setup-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the downloaded file and follow the on-screen instructions to complete the installation.
 
 ![Install option in ViVeTool installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/install-option.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is complete, open the app, click the drop-down icon in the top-left corner, and choose your [current Windows build](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/). ViVeTool will now populate the data grid view, which may take some time, so be patient.
 
@@ -100,21 +93,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![Success message of ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/success-message.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to disable a feature, enter the feature ID in the "Manually Change a Feature" field and choose "Deactivate Feature" from the drop-down menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use ViVeTool (Command-Line) to Activate Windows Features
 
@@ -124,9 +103,23 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![Zip file on the ViVeTool Downloads page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/zip-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on the downloaded zip file and choose "Extract All" from the menu that appears.
 
 ![Extract All option in the Windows context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-all-option.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose a location where you want to [extract the file](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) and then click the "Extract" button.
 
@@ -139,10 +132,10 @@ cd /d PathOfViVeToolFolder
 ![ViVeTool path in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/vivetool-path.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, type the following and press Enter to enable a feature:
@@ -156,6 +149,13 @@ ViVeTool.exe /enable /id:featureID
 ViVeTool.exe /enable /id:44788892
 
 ![ViVoTool Enable command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enable-command.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the command executes successfully, close Command Prompt and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/); the changes will take effect upon restart.
 
@@ -182,22 +182,18 @@ ViVeTool.exe /disable /id:44788892
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-crystal-carousel-at-the-olympics-for-2024/"><u>[New] Crystal Carousel at the Olympics for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>[New] In 2024, Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-inside-out-the-realities-of-youtubing-earning/"><u>[Updated] Inside Out The Realities of YouTubing Earning</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-yis-actioncam-the-innovation-leader-in-high-res-footage/"><u>2024 Approved Yi's ActionCam The Innovation Leader in High-Res Footage</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-msi-bluetooth-drivers-for-optimal-windows-11-10-performance-and-connectivity/"><u>Download Official MSI Bluetooth Drivers for Optimal Windows 11, 10 Performance & Connectivity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dual-display-configuration-for-mac-users-optimizing-your-workspace/"><u>Dual Display Configuration for Mac Users: Optimizing Your Workspace</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-nokia-c32-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia C32 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29 Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-a58-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A58 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-presentations-webcam-recording-tips/"><u>Streamlining Presentations Webcam Recording Tips</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-preserve-your-gameplay-for-future-replays/"><u>[New] In 2024, How to Preserve Your Gameplay for Future Replays</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ride-the-waves-with-top-picks-for-surfing-cams/"><u>[New] Ride the Waves with Top Picks for Surfing Cams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-is-itops-feature-set-enough-to-justify-usage/"><u>[Updated] In 2024, Is ITop's Feature Set Enough to Justify Usage?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-the-art-of-zooming-on-social-media-platform-snapchat/"><u>2024 Approved Mastering the Art of Zooming on Social Media Platform, Snapchat</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevating-performance-with-a-windows-11-64-bit-upgrade/"><u>Elevating Performance with a Windows 11 (64-Bit) Upgrade</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-15-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y78plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y78+ phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-for-tracking-movement-on-your-smartphone-or-tablet/"><u>In 2024, Best Apps for Tracking Movement on Your Smartphone or Tablet</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-razr-40-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Razr 40 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-iphone-guide-for-shooting-hdr-photos-for-2024/"><u>The Ultimate iPhone Guide for Shooting HDR Photos for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/transform-your-pdfs-and-images-into-interactive-android-books-using-flipbuilder/"><u>Transform Your PDFs & Images Into Interactive Android Books Using FlipBuilder</u></a></li>
 </ul></div>
 

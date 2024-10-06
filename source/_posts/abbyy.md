@@ -1,7 +1,7 @@
 ---
 title: "「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」"
-date: 2024-09-16T17:34:05.392Z
-updated: 2024-09-23T18:56:26.544Z
+date: 2024-10-04T00:05:46.148Z
+updated: 2024-10-06T07:47:17.534Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d85277a374a3a1037690eb16.jpg
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 日本の従業員における42%は「AIで業務負担の軽減になる」と回答  
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 [![](https://static1.abbyy.com/abbyycommedia/34771/infographic-for-survey-jp.jpg)](https://www.abbyy.com/media/34771/infographic-for-survey-jp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 【調査方法】
@@ -95,5 +95,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>[New] In 2024, Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adventure-in-sync-reviewing-the-panasonic-hx-a1-cam-for-2024/"><u>Adventure in Sync Reviewing the Panasonic HX-A1 Cam for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-lava-yuva-3-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Yuva 3 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-2-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze 2 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-xiaomi-13t-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi 13T Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-pinnacle-of-live-tweeting-on-social-media/"><u>In 2024, The Pinnacle of Live Tweeting on Social Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-a2plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi A2+ Phone Pattern Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/shop-now-and-save-big-exclusive-offer-on-85-inch-tcl-tv-up-to-25-off-ending-labor-day-zdnet-shops/"><u>Shop Now and Save Big – Exclusive Offer on 85-Inch TCL TV, Up to 25% Off Ending Labor Day | ZDNET Shops.</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Motorola Moto G73 5G</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-your-life-top-10-premium-yoga-streams-unleashed-for-2024/"><u>Transform Your Life Top 10 Premium Yoga Streams Unleashed for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-like-a-pro-setting-up-your-computer-for-premiere-pro/"><u>Updated Edit Like a Pro Setting Up Your Computer for Premiere Pro</u></a></li>
+</ul></div>
 

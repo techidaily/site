@@ -1,7 +1,7 @@
 ---
 title: How to Speed Up Your Slow-Performing, Frequently Freezing PC - Expert Tips
-date: 2024-09-23T06:02:58.721Z
-updated: 2024-09-23T18:12:19.590Z
+date: 2024-10-05T14:24:02.520Z
+updated: 2024-10-06T02:34:56.427Z
 tags:
   - win11
   - win10
@@ -55,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) To see which programs are using your computer’s processor the most, click the**CPU** column header. This will re-sort the list, displaying the worst offenders at the top. Similarly, to see which programs are using the most RAM, or reading and writing to your hard disk the most often, click **Memory** or**Disk** respectively.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6bd9af770.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We sorted the list by**Memory** for the below screenshot. As you can see, Google Chrome is using the most RAM here. There are multiple instances of it in the list because Task Manager recognizes each of your browser tabs and browser extensions as a separate process.
 
@@ -104,18 +104,18 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d7196c0d1e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 , e.g.:
 
  2) Click the dust-bin icon on the right to uninstall the extensions you don’t need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d71726af58.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **If you’re using Firefox**
 
@@ -124,10 +124,10 @@ Fortunately, extensions are very easy to disable or remove:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d72ba99bb5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Extensions** and**Plugins** on the left side of the window to see all your add-ons, select the ones you don’t need and click**Disable** or**Remove** to disable or uninstall them.
@@ -170,6 +170,13 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Update your device drivers
 
  If your device drivers are too old for your current operating system, it’s very likely that your PC will run slowly. So you should ensure that all your drivers are correct and up to date. You can do this either manually or automatically:
@@ -193,13 +200,6 @@ Fortunately, extensions are very easy to disable or remove:
  4) When the update finishes, you’ll be prompted to restart your computer. After restarting, check to see if your PC is running faster.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Uninstall unnecessary programs
 
@@ -235,19 +235,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![Delete temp files in Windows 10](https://images.drivereasy.com/wp-content/uploads/2017/06/Delete-temp-files-in-Windows-10.png)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) If, while trying to delete these files, you get a message saying a file or folder is in use, click**Skip** . The file won’t be deleted, but that’s OK; you can get it next time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e96992db13.png)
@@ -269,10 +256,10 @@ Here’s how to add more virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Advanced** tab, and click**Settings** .
@@ -295,6 +282,13 @@ Here’s how to add more virtual memory:
  Once you’ve entered your virtual memory values, click**Set** , then click**OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ebee6a3d27.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer and see if your PC is still running slow.
 
@@ -336,16 +330,16 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fd1e7877fd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the check disk reports problems, you should probably consider replacing your hard disk.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 13: Defragment your hard disk
 
@@ -371,18 +365,18 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fcf8b6a57b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) The defrag will take anywhere from a few minutes to a couple of hours to finish, depending on the type of disk and the data you have on it.
 
  When it finishes, restart your computer and see if it’s now performing better.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 14: Upgrade or reset Windows
 
@@ -447,5 +441,26 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-how-to-use-kinemaster-online-and-10-best-online-alternatives/"><u>[New] How To Use KineMaster Online and 10 Best Online Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[New] In 2024, Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-packaging-growth-tactics/"><u>[New] In 2024, Packaging Growth Tactics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-photographers-tale-assembly-tool/"><u>2024 Approved Master Photographer's Tale Assembly Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-top-8-windows-screen-recording-applications/"><u>2024 Approved The Top 8 Windows Screen Recording Applications</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v29-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V29 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-mini-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 mini Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-c67-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme C67 4G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-12r-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 12R in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-11f-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 11F 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y200-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y200</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-7a-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Google Pixel 7a Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lenovo-thinkphone-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lenovo ThinkPhone to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-13-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 13 Pro Max Suddenly | Stellar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-virtual-sound-devices/"><u>Ultimate Virtual Sound Devices</u></a></li>
+</ul></div>
 

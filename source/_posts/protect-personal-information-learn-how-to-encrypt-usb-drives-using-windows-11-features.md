@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features"
-date: 2024-09-27T06:33:41.879Z
-updated: 2024-09-30T17:08:37.836Z
+date: 2024-09-28T16:12:19.221Z
+updated: 2024-10-05T20:39:12.037Z
 tags:
   - deals
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
  Flash drives are convenient, but they're also easy to lose and often contain sensitive information you don't want in the wrong hands. Luckily, Windows 10 and 11 Pro users can easily encrypt and decrypt flash drives with no additional software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is BitLocker (And Why Use It)?
 
  BitLocker is a powerful encryption feature in Windows 10 and 11 Pro that protects the data on your drives so that no one can read their contents without the encryption key. The default level of encryption is AES-128, which would take millions or even billions of years to crack using current supercomputers.
@@ -47,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![A red arrow points to the 'Turn on bitlocker' option in the right-click context menu for a drive in Windows Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Wait for BitLocker to initialize the drive.
@@ -68,15 +69,22 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
@@ -92,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
  If the process was successful, your drive is now protected by strong encryption and can only be accessed using its password.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Decrypt a USB Flash Drive in Windows 10 or 11
 
  So what if you don't want to have an encrypted flash drive anymore? One option is simply to format the drive, which will get rid of the encryption, but also all the data on the drive! If you don't need the data anymore, this is the fastest and easiest way to get the drive back to its factory condition.
@@ -102,38 +117,11 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![A right-click context menu showing the option to manage BitLocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the BitLocker management Windows, choose "Turn off BitLocker" for the drive in question.
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then simply confirm as you did when first encrypting the drive.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Third-Party Encryption Options
 
@@ -162,21 +150,22 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-full-featured-sierra-drives-files-and-more/"><u>2024 Approved Full-Featured Sierra Drives, Files, and More</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/amazon-prime-and-twitter-most-shared-and-liked-shows-23-for-2024/"><u>Amazon Prime and Twitter Most Shared & Liked Shows, '23 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capture-and-share-live-to-the-max-with-4-pro-tips-on-fb/"><u>Capture and Share Live to The Max with 4 Pro Tips on FB</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-edit-suite-apps-and-devices-tools-listed/"><u>In 2024, Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-7-best-video-mergers-without-watermark/"><u>New 2024 Approved 7 Best Video Mergers Without Watermark</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-13-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/by-step-guide-to-adding-your-own-video-images/"><u>Step-by-Step Guide to Adding Your Own Video Images</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-100-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 100 without backup.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-methods-for-fixing-lost-or-unavailable-dnssddll-files/"><u>Troubleshooting Methods for Fixing Lost or Unavailable dnssd.dll Files</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-vegas-pro-gambit-unveiled-a-21-comprehensive-review/"><u>[New] 2024 Approved Vegas Pro Gambit Unveiled A '21 Comprehensive Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-skyrocketing-your-tiktok-content-speed/"><u>[New] Skyrocketing Your TikTok Content Speed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-videotwit-grabber-capture-tweets-visuals-for-ios/"><u>[New] VideoTwit Grabber Capture Tweets' Visuals for iOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-aspect-ratio-essentials-for-social-network-videos/"><u>2024 Approved Aspect Ratio Essentials for Social Network Videos</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-12plus-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 12+ 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-xr21-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia XR21 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-article-implementing-robotic-helpers-in-your-discord-channels-efficiently/"><u>How-To Article: Implementing Robotic Helpers in Your Discord Channels Efficiently</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cutting-edge-filmmaking-kinemasters-seamless-segments/"><u>In 2024, Cutting-Edge Filmmaking Kinemaster's Seamless Segments</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-edge-40-neo-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Edge 40 Neo working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-itel-p55-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Itel P55 Phone Now with These Tips</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2000-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2000 Documents Online for Free</u></a></li>
+<li><a href="https://fox-info.techidaily.com/swiftly-seek-and-find-discarded-reddit-posts/"><u>Swiftly Seek and Find Discarded Reddit Posts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-13t-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi 13T</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-winservicesexe-on-your-pc/"><u>Troubleshooting Winservices.exe on Your PC</u></a></li>
+<li><a href="https://techidaily.com/you-must-know-how-to-share-your-winning-forex-trades-with-friends-and-family-on-local-trade-copier-tm-together-by-mt4copier-guide/"><u>You must know how to Share Your Winning Forex Trades With Friends and Family on Local Trade Copier™ Together</u></a></li>
 </ul></div>
 

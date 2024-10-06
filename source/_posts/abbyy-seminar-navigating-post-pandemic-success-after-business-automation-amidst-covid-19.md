@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Seminar: Navigating Post-Pandemic Success After Business Automation Amidst COVID-19"
-date: 2024-09-23T01:22:07.906Z
-updated: 2024-09-23T18:48:09.097Z
+date: 2024-10-04T06:38:51.758Z
+updated: 2024-10-06T09:41:05.880Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f80c7ae4dc1f76086ad70935.jpg
@@ -15,16 +15,16 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 English
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featuring
 
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/33102/83-richardrabin-198x198.png)
 
@@ -34,7 +34,21 @@ Product Marketing Manager, **ABBYY**
 
 ![Reggietwigg 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Reggietwigg 198X198](https://static2.abbyy.com/abbyycommedia/31957/reggietwigg-198x198.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reginald J. Twigg, Ph.D.
 
@@ -43,20 +57,13 @@ Director, Enterprise Solutions Marketing, **ABBYY**
 ![Webinar: You have automated to survive COVID-19, but what now?](https://static1.abbyy.com/abbyycommedia/33287/79-youve-automated-to-survive-covid-360x232.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 COVID-19 forced mass adoption of digital transformation technologies, mainly to keep businesses running when the workforce, customers, and partners at once became virtual and relied on automation that was readily available. Now, a year into this new paradigm of work, we’ve learned that merely automating a process is not digital transformation; rather, processes must be re-imagined as experience management — especially those processes around employee and customer service.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### This session highlights:
 
@@ -67,26 +74,13 @@ COVID-19 forced mass adoption of digital transformation technologies, mainly to 
 Watch this insightful session and walk away with answers you need.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fill in the form to register for the webinar now
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Get in touch with us
 
@@ -164,5 +158,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-for-flipping-video-courses-on-instagram/"><u>[Updated] Expert Tips for Flipping Video Courses on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-school-based-videography-crafting-quality-content/"><u>2024 Approved School-Based Videography Crafting Quality Content</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-c67-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C67 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effortlessly-run-windows-programs-on-linux-using-the-ultimate-single-tool/"><u>Effortlessly Run Windows Programs on Linux Using the Ultimate Single Tool</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-14-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 14 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c110-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C110 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-z-flip-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy Z Flip 5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x9a-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone XR?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ry-in-motion-selecting-top-video-editors/"><u>Mastery in Motion Selecting Top Video Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-device-connection-failures-when-casting-from-windows-11-expert-advice/"><u>Resolving Device Connection Failures When Casting From Windows 11 [Expert Advice]</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-tecno-spark-10c-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Tecno Spark 10C</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-portable-dream-handhelds-vs-nintendo-switch-20/"><u>The Portable Dream: Handhelds vs Nintendo Switch 2.0?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ABBYY 最新リリース:「FlexiCapture 12」が日本で登場！"
-date: 2024-09-18T08:59:20.328Z
-updated: 2024-09-24T04:18:50.584Z
+date: 2024-10-01T06:08:44.703Z
+updated: 2024-10-05T17:28:43.227Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd2fb228b8b71882f24dcc32a.jpg
@@ -50,12 +50,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-visual-editors-journey-cropping-content-for-instagram-standout/"><u>[New] 2024 Approved The Visual Editor's Journey Cropping Content for Instagram Standout</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-best-of-the-best-essential-themes-for-animes/"><u>[New] In 2024, Best of the Best Essential Themes for Animes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-free-fb-hd-videos-step-by-step/"><u>[New] In 2024, Free FB HD Videos Step-by-Step</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-perfecting-the-art-of-screen-recording-with-step-by-step-instructions-from-adobe-captivate/"><u>[Updated] In 2024, Perfecting the Art of Screen Recording with Step-by-Step Instructions From Adobe Captivate</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-x9b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor X9b Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-10-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 10 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-c65-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C65 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-quickly-with-these-10-beginner-secrets-to-navigating-x-the-successor-of-twitter/"><u>Learn Quickly with These 10 Beginner Secrets to Navigating X, the Successor of Twitter</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cast-any-video-a-step-by-step-guide-to-chromecast-compatibility/"><u>New In 2024, Cast Any Video A Step-by-Step Guide to Chromecast Compatibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-playstation-3-issues-easy-steps-for-avi-video-compatibility/"><u>Resolving PlayStation 3 Issues - Easy Steps for AVI Video Compatibility</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-troubleshooting-checklist-for-successfully-starting-tekken/"><u>The Ultimate Troubleshooting Checklist for Successfully Starting Tekken</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-reno-10-proplus-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo on Windows?</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-date: 2024-09-25T05:06:44.518Z
-updated: 2024-09-30T18:25:41.528Z
+date: 2024-10-04T09:51:01.395Z
+updated: 2024-10-06T15:14:30.744Z
 tags:
   - mobile
 categories:
@@ -20,22 +20,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Samsung Messages has long been the text messaging app that comes on Samsung phones. Now, it's gone in favor of Google Messages. While Google Messages may be the better app, that doesn't mean this change is a good thing. In many ways, it's a step backward.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  RCS Was Supposed to Replace SMS, Not Become Another Walled Garden
 
 ![Samsung Messages recommending the user of Google Messages instead.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060161.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the surface, Google Messages is a texting app like any other. On the backend, though, it's not an online instant messaging app like WhatsApp or Signal. [It's built on RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), a protocol meant to serve as a replacement for SMS.
@@ -50,6 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There is now only one RCS app on Android: Google Messages. Samsung Messages used to have RCS support, but that feature was retired, and [now the app as a whole is following suit](https://youtube-tips.techidaily.com/ow-to-keep-unwanted-content-away-from-your-computer-and-phone/). There are absolutely valid reasons to [prefer Google Messages over Samsung Messages](https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/). The sad part is, for all practical purposes, using RCS on Android now means everyone has to consolidate around the same app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google Messages Feels, First and Foremost, Like a Google App
 
  Google Messages looks like a Google product. Google branding is present at the top, above your chats, whenever you tap the app icon. When you open settings, you find Google account options first and have to dig deeper to configure the actual app. This leads to the feeling that you're using a Google web service rather than a native app on your phone.
@@ -61,10 +61,10 @@ Close
  Most Android phones now come with Google Messages installed. It doesn't matter if your phone comes from Samsung, Motorola, OnePlus, Sony, or HTC. The text messaging app that once was simply part of the infrastructure of a phone, much like a dialer app, is now yet another Google app joining the likes of Gmail, Google Calendar, Google Maps, and the Play Store itself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Samsung Messages Integrates With Other Samsung Apps
@@ -88,10 +88,10 @@ Close
  I used to prefer for phones to ship with [stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/). Now, I actually appreciate the distinctions Samsung has made with its devices. Samsung's One UI interface is not the garish affair that the company's former TouchWiz interface once was, and there is a lot of functionality baked into Samsung's system that I miss when using other Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There's Now Less Competition Pushing Google to Innovate
@@ -131,21 +131,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-youtube-celebs-gabbing-via-snapchat/"><u>[New] 2024 Approved YouTube Celebs Gabbing via Snapchat</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/15-best-tools-to-capture-classroom-learning-moments/"><u>15 Best Tools to Capture Classroom Learning Moments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcool-unveils-latest-lineup-of-innovative-coolers-power-units-and-fans-enhance-your-builds-with-stylish-pixel-silicone-accents/"><u>DeepCool Unveils Latest Lineup of Innovative Coolers, Power Units & Fans - Enhance Your Builds with Stylish Pixel Silicone Accents</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-14-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 14 Pro Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone SE | Stellar</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/pdf-repair-tool-to-repair-corrupt-pdf-files-pdf-stellar-by-stellar-guide/"><u>PDF Repair Tool to Repair Corrupt PDF files (.PDF) | Stellar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-open-excel-2023-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2023 Read Only Documents | Stellar</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-polyphonic-nation-belgiums-language-composition/"><u>The Polyphonic Nation: Belgium's Language Composition</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Sony </u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-magic-vs-2-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Magic Vs 2</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-gt-10-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix GT 10 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vrijwillige-omzetting-van-ogm-bestandjes-professioneel-kwaliteitloos-and-vrij-movavi/"><u>Vrijwillige Omzetting Van OGM-Bestandjes: Professioneel, Kwaliteitloos & Vrij! - Movavi</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-a14-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy A14 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-new-youtube-earning-rules-unveiled/"><u>[New] 2024 Approved New YouTube Earning Rules Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pro-video-setup-the-ultimate-recording-companion/"><u>[Updated] Pro Video Setup The Ultimate Recording Companion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>[Updated] The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-streamlined-processes-for-crafting-smooth-multi-snap-videos/"><u>2024 Approved Streamlined Processes for Crafting Smooth Multi-Snap Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-on-effortless-driver-management-for-windows-update-success/"><u>Expert Advice on Effortless Driver Management for Windows Update Success</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-for-successfully-updating-your-asus-wifi-driver-software/"><u>Expert Tips for Successfully Updating Your ASUS WiFi Driver Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11x-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11X 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-say-cheese-16-best-apps-to-convert-your-photos-into-cartoons/"><u>New Say Cheese! 16 Best Apps to Convert Your Photos Into Cartoons</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-g2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from G2</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oneplus-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from OnePlus</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-samsung-galaxy-z-flip-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Samsung Galaxy Z Flip 5 on Windows?</u></a></li>
 </ul></div>
 

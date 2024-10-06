@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Repairing Disk Errors on Windows 10"
-date: 2024-09-16T18:34:07.005Z
-updated: 2024-09-24T04:53:09.871Z
+date: 2024-10-02T05:52:46.689Z
+updated: 2024-10-06T15:02:55.125Z
 tags:
   - win11
   - win10
@@ -46,11 +46,31 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
 
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78ef25f8dc.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Tap to check **USB tethering** .
 
@@ -63,10 +83,16 @@ It’s very easy to tether your phone on Windows 10, do these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7908b22f5e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I fix USB tethering not working on Windows 10?
@@ -99,37 +125,30 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
 
  1) On your keyboard, press**Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and **X**  at the same time to invoke the quick access menu.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79a86b4b0e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Expand **Network adapters**  and right-click **Remote NDIS based Internet Sharing Device** . Then click **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Browse my computer for driver software** .
 
@@ -139,43 +158,30 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7a0b38a645.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Wait for a few seconds, you should then see the screen shown below. Select **Microsoft**  \> **USB RNDIS6 Adapter** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c685fdf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
@@ -199,5 +205,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-master-privacy-unveil-faces-less-clearly/"><u>[Updated] 2024 Approved Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>[Updated] 2024 Approved Visual Brand Integration Embedding Watermarks and Logos Into Youtube Media</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-how-to-edit-the-length-of-a-video-on-youtube/"><u>2024 Approved How to Edit the Length of a Video on YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-with-new-amd-radeon-rx-6900-xt-drivers-compatible-with-multiple-windows-os-free-downloads-available/"><u>Ensure Optimal Performance with New AMD Radeon RX 6900 XT Drivers – Compatible with Multiple Windows OS: Free Downloads Available</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to others devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-beams-microphones-for-education/"><u>In 2024, Best Beams Microphones for Education</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone XS Max</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-0x802n200d-windows-update-issue-a-comprehensive-guide/"><u>Resolving the 0X802n200D Windows Update Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-12-mini-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 mini lock with iCloud</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-d530s-camera-software-direct-download-instructions-here/"><u>Update Your Canon D530's Camera Software: Direct Download Instructions Here</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers in Windows 11 & 10 & 7</u></a></li>
+</ul></div>
 

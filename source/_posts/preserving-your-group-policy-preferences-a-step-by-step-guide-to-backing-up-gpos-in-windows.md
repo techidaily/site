@@ -1,7 +1,7 @@
 ---
 title: "Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows"
-date: 2024-09-26T19:47:41.189Z
-updated: 2024-09-30T17:05:03.950Z
+date: 2024-10-04T05:54:50.557Z
+updated: 2024-10-06T12:10:06.099Z
 tags:
   - deals
 categories:
@@ -20,19 +20,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 * [How to Restore the Local Group Policy Editor Settings](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-c55-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 * [How to Back Up and Restore the Local Group Policy Editor Settings Using LGPO](https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-f23-5g-drfone-by-drfone-virtual-android/)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Backing up the Local Group Policy Editor settings is very easy. To do this, navigate to the "C:\\Windows\\System32\\GroupPolicy" folder and copy all of the files inside it. Then, navigate to the location where you want to back up the settings, create a new folder, and paste the copied files inside it.
@@ -47,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
  Because the Local Group Policy Editor manages a wide range of necessary settings, it's important to back it up. Doing so gives you the freedom to try out different apps, unstable Windows releases, and experimental features without worrying about losing your settings. Even if something goes wrong, you can quickly restore the Local Group Policy Editor settings to bring your computer back to a known good state.
 
  It also means that you can transfer the settings to another machine, if you have got a new computer or want to deploy the same configuration across multiple systems.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  1\. Back Up Local Group Policy Editor Settings With File Explorer
 
@@ -80,28 +74,28 @@ attrib -H -S "%BACKUP_DIR%\*.*" /S /D`
 ![Back up script in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/back-up-script-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, click "File" in the top-left corner and choose "Save as". Name the file whatever you wish, with ".bat" appended. Then, select "All files" from the "Save as type" drop-down menu and click "Save".
 
 ![All files option in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/all-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, to back up your Local Group Policy Editor settings, go to the location where you saved the batch file, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on it, and choose "Run as administrator". This will create a new folder named "Local Group Policy Editor settings back up folder", which will contain all of your settings.
 
 ![Run as admin option in context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-as-admin-option.jpg) 
 
  You will need to run the batch file again each time you change the Local Group Policy Editor settings, since the two aren't synced.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Back Up Local Group Policy Editor Settings With a PowerShell Script
 
@@ -140,25 +134,32 @@ while ($true) {
 ![Name field in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/name-field.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Trigger tab, choose "When the computer starts" and click "Next".
 
 ![When the computer starts option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/when-the-computer-starts.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Action tab, choose "Start a program" and click "Next".
 
 ![Start a program in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/start-a-program.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Start a Program tab, paste the following location in the "Program/script" field:
@@ -171,32 +172,11 @@ while ($true) {
     
 ![Next option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/next-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "Next" and "Finish".
 
 ![Finish option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/finish-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, whenever you change the Local Group Policy settings, the script runs automatically and saves the changes to the "Group Policy Backup" folder.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Restore the Local Group Policy Editor Settings
 
@@ -229,9 +209,23 @@ while ($true) {
     
 ![LGPO command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lgpo-command.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, open the backup folder, and you will see a folder with a random GUID name containing the settings. [Copy the folder to a pen drive](https://facebook-video-recording.techidaily.com/updated-introducing-top-tier-facebook-update-insights-for-2024/) or hard drive and move it to your new computer.
 
 ![GUID name folder in File Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/guid-name-folder.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To restore local GPO settings on your new computer, open Command Prompt as administrative rights on your new computer, type the following command, and press Enter. Replace "<GUID\_folder\_address>" with the address where you have saved the backup folder.
 
@@ -260,24 +254,22 @@ while ($true) {
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/cybersecurity-spotlight-exploring-why-hackers-are-drawn-to-chatgpt-accounts/"><u>Cybersecurity Spotlight: Exploring Why Hackers Are Drawn to ChatGPT Accounts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/fascination-frameworks-igs-most-popular-filters/"><u>Fascination Frameworks IG's Most Popular Filters</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-z-flip-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy Z Flip 5 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola ?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11x-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11x To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-restoring-past-reddit-articles/"><u>In 2024, Mastering the Art of Restoring Past Reddit Articles</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-defy-2-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Defy 2 Phone? Unlock It Now</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-cygwin1dll-missing-file-issue-a-comprehensive-guide/"><u>Solving the 'Cygwin1.dll' Missing File Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-types-of-content-facebook-hides-from-your-news-feed-and-why/"><u>The Types of Content Facebook Hides From Your News Feed (and Why)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-x50-gt-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor X50 GT.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-tiktok-video-potential-with-zoom/"><u>Unlocking TikTok Video Potential with Zoom</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-15-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 15 is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-adding-visuals-on-instagram-quickly/"><u>[New] 2024 Approved Adding Visuals on Instagram Quickly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-explore-windows-and-mac-8-best-3d-video-apps-for-free/"><u>[New] 2024 Approved Explore Windows & Mac 8 Best 3D Video Apps for FREE</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-visibility-restored-for-youtube-shorts-post-update/"><u>[New] 2024 Approved Visibility Restored for YouTube Shorts Post-Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-transaction-to-treasure-securing-your-fb-conversations/"><u>[New] In 2024, From Transaction to Treasure Securing Your FB Conversations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels/"><u>[New] In 2024, Step-by-Step Guide to Slow Mo Techniques on Instagram Reels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>[New] Top Picks Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-boomerang-edge-captivating-your-instagram-audience/"><u>[Updated] The Boomerang Edge Captivating Your Instagram Audience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-performance-and-reducing-delays-in-avatar-the-legend-of-quetsiyah/"><u>Boosting Performance & Reducing Delays in 'Avatar: The Legend of Quetsiyah'</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-k11x-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo K11x Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-play-40c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Play 40C Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-zte-blade-a73-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset ZTE Blade A73 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Poco M6 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oneplus-open-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from OnePlus Open</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-vivo-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Vivo without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-p40plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel P40+.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-vivo-g2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Vivo G2.</u></a></li>
 </ul></div>
 

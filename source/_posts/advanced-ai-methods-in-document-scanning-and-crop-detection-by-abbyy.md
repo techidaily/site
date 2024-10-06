@@ -1,7 +1,7 @@
 ---
 title: Advanced AI Methods in Document Scanning and Crop Detection by ABBYY
-date: 2024-09-18T02:49:52.166Z
-updated: 2024-09-23T20:20:35.959Z
+date: 2024-10-01T16:03:00.546Z
+updated: 2024-10-06T11:48:59.050Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5ea03b53b5e2dc79ce42b7e1.jpg
@@ -168,18 +168,28 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ntegrating-your-day-job-with-passionate-online-content-for-2024/"><u>[New] Integrating Your Day Job with Passionate Online Content for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-crafting-impressive-videos-with-the-best-methods-for-obs-studio/"><u>[Updated] 2024 Approved Crafting Impressive Videos with the Best Methods for OBS Studio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-demystifying-zoom-sessions-into-smaller-groups-for-2024/"><u>[Updated] Demystifying Zoom Sessions Into Smaller Groups for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guffaw-generator-cyborg-comic-coders/"><u>[Updated] Guffaw Generator Cyborg Comic Coders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-crafting-time-lapses-with-your-ipad-easefully/"><u>2024 Approved Crafting Time-Lapses with Your iPad Easefully</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-and-choose-from-these-top-10-vector-stockplaces/"><u>2024 Approved Explore and Choose From These Top 10 Vector Stockplaces</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-aspire-c27-ultimate-performance-in-a-sleek-design/"><u>Acer Aspire C27: Ultimate Performance in a Sleek Design</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-100-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 100 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-t2x-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2x 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-narzo-60-pro-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-12-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 12</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-nova-y71-by-fonelab-android-recover-data/"><u>Undelete lost data from Nova Y71</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Document Scanning: Unleash the Best in ABBYY FineScanner Mobile App"
-date: 2024-09-23T08:10:06.566Z
-updated: 2024-09-23T18:04:20.916Z
+date: 2024-10-02T17:20:06.434Z
+updated: 2024-10-06T13:48:01.872Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8ad5bcae0b9a32715b7cc063.jpg
@@ -46,15 +46,22 @@ Sections for the various document formats will be displayed at the top of the Ga
 ![classification_search_fs_8](https://static1.abbyy.com/abbyycommedia/31422/classification_search_fs_8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 “Training” our neural network involved studying tens of thousands of photographs provided by a multitude of ABBYY employees. Artificial intelligence, like any diligent student, requires a wealth of knowledge to learn from. As part of this process, ABBYY developers meticulously marked out each provided photo by hand. This was how the AI was “taught” the difference between books and A4 documents, business cards and ID’s, and so on. We decided to implement seven distinct sections for the most popular document types uploaded to [FineScanner](https://go.onelink.me/0oMB/2b084a0a). This data was obtained by means of a questionnaire answered by our users.
 
 According to testing results, the accuracy of classification is approximately 90 – 95%. But it depends on the quality of photos in your gallery.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Find photos using text search
 
@@ -63,13 +70,6 @@ Moreover, we want you to be able to find the photos that you need even quicker t
 ![search_fs_8](https://static1.abbyy.com/abbyycommedia/31421/search_fs_8.jpeg)
 
 Simply begin typing your search phrase into the bar at the top of the Gallery screen. You can also search through documents from a specific category (e.g. A4) by navigating to the appropriate document category folder and searching there. Doing so will restrict your search to that specific document type.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Activating the new smart gallery and the search feature
 
@@ -90,13 +90,6 @@ It is imperative that you select the correct recognition languages in order for 
 
 We have good news for you regardless of your device platform — [FineScanner 8.0 is available on both iOS and Android](https://go.onelink.me/0oMB/2b084a0a) on the same day.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Measuring document size using augmented reality on iOS devices
 
 We also have a little surprise for our Apple users. According to our research, more than half of all [FineScanner](https://go.onelink.me/0oMB/2b084a0a) users send the documents they create to their e-mail or messenger apps, which they do by either saving the documents on their PC or by printing them out. In previous [FineScanner](https://go.onelink.me/0oMB/2b084a0a) versions, printing a document straight from the app would stretch out the image over the entire page, which was just not good enough. In the new iOS version of [FineScanner](https://go.onelink.me/0oMB/2b084a0a), we’ve added a feature that allows you to measure the size of your documents using augmented reality. This tool will let you determine the size of your particular document (e.g. passport, driver’s license, business card) in order to correctly scale the document onto your printing paper. Now you won’t have any distortion issues when printing your documents directly from [FineScanner](https://go.onelink.me/0oMB/2b084a0a).
@@ -109,13 +102,6 @@ To measure your document using augmented reality, do the following:
 4) Follow the instructions on your screen.
 
 ![arkit_fs_8](https://static1.abbyy.com/abbyycommedia/31423/arkit_fs_8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the size of your document corresponds to one of the standard sizes (e.g. A4 or driver’s license), [FineScanner](https://go.onelink.me/0oMB/2b084a0a) will ask you whether you want to set the document to be treated as a document of that particular size. For documents of non-standard size, you can choose to save the detected size for later use. To do so, tap the detected document measurements and switch “Save to list” to “On”. Once that is done, specify a name for your new format, for example, “Flyer”.
 
@@ -130,13 +116,6 @@ To learn more about key updates for other ABBYY mobile apps that have been imple
 [](https://youtu.be/oo00Gxcptyw) 
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -194,6 +173,13 @@ _Editorial note: FineReader PDF Mobile for Android, Business Card Reader for And
 
 We are proud to present the newest generation of mobile scanners from ABBYY Mobile – FineScanner AI 8\. Now, FineScanner will not only scan and store your documents but will also become your personal smartphone archivist. FineScanner can now automatically sort all of your photos into seven different document types, help you find specific photos using the search feature, and precisely measure your documents’ size using augmented reality.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A new generation of smart galleries
 
 Our [first-generation AI](https://tools.techidaily.com/abbyy/products/) gallery automatically scanned your smartphone’s photo archive for documents with text. This meant that [FineScanner](https://go.onelink.me/0oMB/2b084a0a) could quickly single out your most important documents among a mix of your photos of cats and sunsets, letting you concentrate on your work without any distractions. However, this was only the beginning, and now the time has come for the biggest [FineScanner](https://go.onelink.me/0oMB/2b084a0a) update yet.
@@ -228,6 +214,13 @@ Moreover, we want you to be able to find the photos that you need even quicker t
 
 Simply begin typing your search phrase into the bar at the top of the Gallery screen. You can also search through documents from a specific category (e.g. A4) by navigating to the appropriate document category folder and searching there. Doing so will restrict your search to that specific document type.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Activating the new smart gallery and the search feature
 
 And now for some technical details – let’s have a look at how it all actually works. Once you have updated [FineScanner](https://go.onelink.me/0oMB/2b084a0a), you need to activate the smart gallery and text search features.
@@ -247,13 +240,6 @@ It is imperative that you select the correct recognition languages in order for 
 
 We have good news for you regardless of your device platform — [FineScanner 8.0 is available on both iOS and Android](https://go.onelink.me/0oMB/2b084a0a) on the same day.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Measuring document size using augmented reality on iOS devices
 
 We also have a little surprise for our Apple users. According to our research, more than half of all [FineScanner](https://go.onelink.me/0oMB/2b084a0a) users send the documents they create to their e-mail or messenger apps, which they do by either saving the documents on their PC or by printing them out. In previous [FineScanner](https://go.onelink.me/0oMB/2b084a0a) versions, printing a document straight from the app would stretch out the image over the entire page, which was just not good enough. In the new iOS version of [FineScanner](https://go.onelink.me/0oMB/2b084a0a), we’ve added a feature that allows you to measure the size of your documents using augmented reality. This tool will let you determine the size of your particular document (e.g. passport, driver’s license, business card) in order to correctly scale the document onto your printing paper. Now you won’t have any distortion issues when printing your documents directly from [FineScanner](https://go.onelink.me/0oMB/2b084a0a).
@@ -266,6 +252,13 @@ To measure your document using augmented reality, do the following:
 4) Follow the instructions on your screen.
 
 ![arkit_fs_8](https://static1.abbyy.com/abbyycommedia/31423/arkit_fs_8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the size of your document corresponds to one of the standard sizes (e.g. A4 or driver’s license), [FineScanner](https://go.onelink.me/0oMB/2b084a0a) will ask you whether you want to set the document to be treated as a document of that particular size. For documents of non-standard size, you can choose to save the detected size for later use. To do so, tap the detected document measurements and switch “Save to list” to “On”. Once that is done, specify a name for your new format, for example, “Flyer”.
 
@@ -280,6 +273,13 @@ To learn more about key updates for other ABBYY mobile apps that have been imple
 [](https://youtu.be/oo00Gxcptyw) 
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -298,5 +298,20 @@ Share
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagrams-best-tools-ranked-editors-to-elevate-reels-for-2024/"><u>[New] Instagram's Best Tools Ranked Editors to Elevate Reels for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-designing-an-editorial-epilogue-for-2024/"><u>[Updated] Designing an Editorial Epilogue for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-top-5-platforms-for-active-engagement-outside-of-twitter/"><u>[Updated] Top 5 Platforms For Active Engagement Outside of Twitter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-mkv-to-multiple-formats-converter-seamlessly-convert-mkv-avi-mp4-dvd-vob-and-more/"><u>Efficient MKV to Multiple Formats Converter - Seamlessly Convert MKV, AVI, MP4, DVD, VOB & More!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-on-how-to-refresh-the-driver-software-for-an-acer-nitro-5-laptop/"><u>Expert Tips on How to Refresh the Driver Software for an Acer Nitro 5 Laptop</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-find-x7-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-s23plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy S23+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oneplus-open-phone-by-drfone-android/"><u>How to Reset a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-s17e-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo S17e on Mac</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+</ul></div>
 

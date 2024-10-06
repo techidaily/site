@@ -1,7 +1,7 @@
 ---
 title: Quickly Lock Your Window's Desktop via Command Prompt on a Windows 11 Machine
-date: 2024-09-24T21:07:15.691Z
-updated: 2024-09-30T23:07:57.144Z
+date: 2024-10-04T01:41:26.507Z
+updated: 2024-10-06T13:50:10.189Z
 tags:
   - desktop
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -37,19 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -57,13 +44,20 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -83,6 +77,13 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -90,13 +91,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
@@ -115,21 +109,16 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capture-peak-performance-high-end-webcams-for-quality-live-streams-on-twitch/"><u>[Updated] 2024 Approved Capture Peak Performance High-End Webcams for Quality Live Streams on Twitch</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-mastery-of-viewership-hierarchy-key-aspects-examined/"><u>[Updated] Mastery of Viewership Hierarchy Key Aspects Examined</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pro-vs-pop-analyzing-gopro-and-polaroids-video-capabilities-for-2024/"><u>[Updated] Pro Vs. Pop Analyzing GoPro and Polaroid's Video Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-capturing-moments-expert-tips-on-downloading-social-media-lives/"><u>2024 Approved Capturing Moments Expert Tips on Downloading Social Media Lives</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi A2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-14-pro-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 14 Pro Stuck On Activation Lock?</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-14-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi 14 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>In 2024, Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-c67-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme C67 4G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-device-now-download-the-new-lenovo-t450-drivers-today/"><u>Optimize Your Device Now! Download the New Lenovo T450 Drivers Today</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-p55plus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from P55+</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-90-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor 90 Pro password or pattern lock</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-lenovos-secrets-to-effortless-screenshots-for-2024/"><u>[New] Lenovo's Secrets to Effortless Screenshots for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-v30t-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gag-generator-for-the-web/"><u>Gag Generator for the Web</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gigabytes-high-end-motherboard-showdown-assessing-the-cold-efficiency-steep-price-and-abundant-usb-ports-on-the-b65-groovy-ice-aorus-elite-ax-board/"><u>Gigabyte's High-End Motherboard Showdown: Assessing the Cold Efficiency, Steep Price, and Abundant USB Ports on the B65 Groovy Ice Aorus Elite AX Board</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-the-indexing-options-in-windows/"><u>How to Open the Indexing Options in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 mini without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Tecno</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978813528-synaptics-drivers-for-windows-made-easy-free-download-and-update-options/"><u>Synaptics Drivers for Windows Made Easy – Free Download & Update Options</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 11 & 10</u></a></li>
 </ul></div>
 

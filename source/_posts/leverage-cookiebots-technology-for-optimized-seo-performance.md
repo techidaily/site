@@ -1,7 +1,7 @@
 ---
 title: Leverage Cookiebot's Technology for Optimized SEO Performance
-date: 2024-09-17T17:24:30.038Z
-updated: 2024-09-24T08:46:17.135Z
+date: 2024-10-05T12:05:10.567Z
+updated: 2024-10-05T20:33:36.447Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d63759b0de073aa0fe2a9e240d0626e991d2055a110a13a7ea5ba7a42e20218a.jpg
@@ -26,10 +26,10 @@ The world has changed. But we are still working hard on updates to make your wor
 ## FineScanner
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bulk delete
@@ -46,10 +46,10 @@ We aim to implement feature requests by users as much as possible. Recently we a
 ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30383/new-in-apps-en-1.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30384/new-in-apps-en-2.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30385/new-in-apps-en-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **On Android**
@@ -62,10 +62,10 @@ We aim to implement feature requests by users as much as possible. Recently we a
 ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30386/new-in-apps-en-4.png) ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30387/new-in-apps-en-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Improved automatic crop
@@ -73,16 +73,10 @@ We aim to implement feature requests by users as much as possible. Recently we a
 In 2020, we implemented the new documents capture and crop technology to [FineScanner](https://go.onelink.me/0oMB/2b084a0a) iOS and Android. With the latest generation of [ABBYY Mobile Capture](https://tools.techidaily.com/abbyy/products/) technology, the accuracy of documents' capture and crop has increased by 20%!
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Export to OneDrive for Business in FineScanner iOS
@@ -104,6 +98,13 @@ As requested by our users, **OneDrive for Business** has become available for do
 
 ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30388/new-in-apps-en-6.png) ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30389/new-in-apps-en-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Don’t forget to set up the Auto-sending to cloud services function. Your files will be automatically uploaded to the chosen cloud storage, just after you save it.
 
 * To set up the Auto-sending feature, tap **Automatically send to** under the list of cloud services
@@ -113,6 +114,13 @@ Don’t forget to set up the Auto-sending to cloud services function. Your files
 ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30390/new-in-apps-en-8.png) 
 
 By the way, we’ve also added the automatic upload to Google Drive in FineScanner for Android. Learn more about it [here](https://tools.techidaily.com/abbyy/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Business Card Reader iOS
 
@@ -125,13 +133,6 @@ By the way, we’ve also added the automatic upload to Google Drive in FineScann
    * A QR code can be scanned with a smartphone camera or any other QR reader app. Contact data from QR code will be saved to the smartphone Contacts app.
 
 ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30391/new-in-apps-en-9.jpg) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30392/new-in-apps-en-10.png) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30393/new-in-apps-en-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Edit address by fields
 
@@ -148,13 +149,6 @@ The contact editor now allows viewing and editing of addresses on Apple Maps. Le
       * Tap **Save** in the upper right corner to save the new address
 
 ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30395/new-in-apps-en-13.png) ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30396/new-in-apps-en-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Keep your [FineScanner](https://go.onelink.me/0oMB/2b084a0a) and [Business Card Reader](https://go.onelink.me/LuYz/ca107d7) updated to try all the new features. Leave reviews on the App Store and Google Play – we take your feedback and requests into account.
 
@@ -223,5 +217,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-aimp-pro-541-wmsps-advanced-desktop-companion/"><u>[New] AIMP Pro 5.41 WMSP's Advanced Desktop Companion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-tips-for-perfect-webinar-saves/"><u>[Updated] Essential Tips for Perfect Webinar Saves</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-strategy-broadcasting-twitch-to-facebook-for-2024/"><u>[Updated] Social Media Strategy Broadcasting Twitch to Facebook for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y27-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-5-excellent-external-hdd-recommendations-for-xbox/"><u>2024 Approved 5 Excellent External HDD Recommendations for Xbox</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-11-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 11 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a59-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A59 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-x-fold-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo X Fold 2 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-and-pc-building-tips-from-toms-hardware/"><u>Innovative Electronics and PC Building Tips From Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-a38-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo A38</u></a></li>
+</ul></div>
 

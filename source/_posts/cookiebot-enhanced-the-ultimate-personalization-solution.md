@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced: The Ultimate Personalization Solution"
-date: 2024-09-20T03:52:53.497Z
-updated: 2024-09-24T02:07:22.127Z
+date: 2024-10-04T15:32:35.740Z
+updated: 2024-10-06T09:37:52.846Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb030d740feb1460fb864db26.jpg
@@ -19,13 +19,6 @@ November 07, 2017
 
 In this issue, how to filter out external distractions using “Do Not Disturb” function, work with different tags in FineScanner and interesting app that will help to realize ideas. In the end, theory of bicameral mind and mindfulness of choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **iOS Tip: How to Use the “Do Not Disturb” Feature**
 
 “Do Not Disturb” is probably the most useful phone mode when you are sleeping or snowed under at work. When enabled, the feature will muffle any incoming calls. It takes just a few taps to switch it on:
@@ -35,13 +28,6 @@ In this issue, how to filter out external distractions using “Do Not Disturb�
 3. Flick the switch to the **On** position.
 
 ![ios iphone do not disturb feature](https://static1.abbyy.com/abbyycommedia/26024/c6e96bee8c4234c81e75b3d768f47179.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can also access this mode via the Control Centre—just tap the crescent icon. When the mode is on, you’ll see a crescent moon icon in the status bar.
 
@@ -62,24 +48,18 @@ It’s quite a quest to enable the feature:
 
 ![ios do not disturb feature emergency bypass](https://static1.abbyy.com/abbyycommedia/26026/701c263c96db987db43d1146be5ed93a-e1510058771807.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you will get all notifications related to this caller, even if the **Do Not Disturb** option is turned on.
 
 Additionally, you can let through any caller who dials your number twice within the space of three minutes (persistence should be rewarded and emergencies should not be ignored).
 
 Another useful new feature of iOS 11 you may find really helpful is the **Do Not Disturb** **While Driving** mode. The phone will automatically enable the **Do Not Disturb** option if it detects that you are moving at high speed or have connected to your car’s Bluetooth network. When someone sends you an SMS (sadly, messengers are not supported), they will get a brief autoreply, if you care to supply one, like “Cant take my eyes off the road call you back later”. Ain’t that cool?
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Android Tip: How to Use the “Do Not Disturb” Feature**
 
@@ -98,22 +78,36 @@ At the bottom of the screen, turn on **Do not disturb**.
 
 ![android sound do not disturb feature](https://static1.abbyy.com/abbyycommedia/26027/48666df7-823d-4fb4-9cc7-e2aaa7b0feb5-e1510059030120.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The feature uses rules created by the user which tell the phone when it should go into **Do not disturb** mode. You can also specify several levels of quiet, from complete silence to priority calls and/or alarm sounds.
 
 Android comes with three ready-made rules: **Weekends**, **Event** and **Weeknight**. All you need to do is make the necessary adjustments and turn any of them on. For example, you can set up the phone to allow only calls from your family at weekends. Or you can make the sound of the alarm clock the only noise coming from your phone from 11:00pm to 07:00am on weekdays.
 
 ![android do not disturb feature](https://static1.abbyy.com/abbyycommedia/26028/17beb6fe-c6b8-4aa1-a780-58500859685d-e1510059082132.jpg)
 
-![do not disturb android choose rule type](https://static1.abbyy.com/abbyycommedia/26029/cf310a96-af2f-40b1-947a-568a2c5191f5-e1510059100215.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![do not disturb android choose rule type](https://static1.abbyy.com/abbyycommedia/26029/cf310a96-af2f-40b1-947a-568a2c5191f5-e1510059100215.jpg)
+
 Of course, there may be non-recurring time periods when you shouldn’t be disturbed, such as during important meetings or concerts. These can be added individually by tapping **Event**. You can also add events directly from Google Calendar, which is really handy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **ABBYY Tip: How to Add Tags in FineScanner**
 
@@ -123,16 +117,16 @@ Tags are a very useful invention. Using tag search, you can find that old contra
 2. Tap **Properties** and start editing the document.![abbyy add tags in finescanner](https://static1.abbyy.com/abbyycommedia/26030/untitled-e1510059645865.png)
 3. In the **Tags** field, select the necessary tags from the list (e.g. **Work** or **Contract**) or add your own.![abbyy choose tags finescanner document ocr](https://static1.abbyy.com/abbyycommedia/26031/img_0083-e1510059671839.png)![abbyy add create new tag finescanner](https://static1.abbyy.com/abbyycommedia/26032/img_0084-e1510059696164.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Done** and go back to the ribbon. Now you will be able to find this document by specifying its tag in the search field.
 
 You can tag all of your documents so that you don’t have to scroll through dozens of screens looking for some elusive contract. By the way, the iOS native Spotlight search engine also support tags.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **App of the Week: Keep Track of Your Ideas With Idealist**
 
@@ -142,6 +136,13 @@ Got lots of ideas but not enough time to put them all into practice? Try [Ideali
 
 ![idealist app idea realisation ios](https://static1.abbyy.com/abbyycommedia/26033/mycollages-6-e1506948419116.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Even if you don’t need any external advice, you may find the app useful for writing down worthwhile ideas, placing them into categories, and marking their statuses. [Idealist](https://itunes.apple.com/us/app/idealist-turn-your-idea-into/id975937527?mt=8)also nudges you towards more critical thinking, which is a useful skill for any adult, not just for inventors and entrepreneurs. Available on [iOS](https://itunes.apple.com/us/app/idealist-turn-your-idea-into/id975937527?mt=8).
 
 ## **First-Hand Experience:** Advice From a Colleague
@@ -149,13 +150,6 @@ Even if you don’t need any external advice, you may find the app useful for wr
 _Shared by Eugene Zudin, partner manager_
 
 **![advice colleague abbyy spend money wisely](https://static1.abbyy.com/abbyycommedia/26034/fjimnrfsihq-e1506953089696.jpg)**
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Almost half a century ago, the American psychologist Julian Jaynes came up with a wild yet compelling theory which he later developed in his 1976 book titled _The Origin of Consciousness in the Breakdown of the Bicameral Mind_, of which Richard Dawkins, the well-known evolutionary biologist, had this to say: “It is one of those books that is either complete rubbish or a work of consummate genius, nothing in between!”
 
@@ -245,5 +239,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-influencing-techniques-for-scaling-your-following-quickly/"><u>[New] Insta Influencing Techniques for Scaling Your Following Quickly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-strategies-to-improve-seamless-broadcasts-in-obs/"><u>[Updated] Strategies to Improve Seamless Broadcasts in OBS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-the-screen-a-dive-into-vr-filmmaking/"><u>2024 Approved Beyond the Screen A Dive Into VR Filmmaking</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-13-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 13? How to Fix it?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-security-camera-apps-10-top-rated-options-for-your-peace-of-mind/"><u>Free Security Camera Apps 10 Top-Rated Options for Your Peace of Mind</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x9a-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X9a FRP Locks</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v27-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V27 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-zte-nubia-z60-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Nubia Z60 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-v29-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo V29 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ranking-relaxing-front-row-activities-that-arent-sports/"><u>In 2024, Ranking Relaxing Front Row Activities That Aren't Sports</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-steam-online-friends-list-win11/"><u>Restoring Steam Online Friends List (Win11)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-netflix-issues-on-pc-fix-streaming-problems-in-windows-10-and-11/"><u>Troubleshoot Netflix Issues on PC - Fix Streaming Problems in Windows 10 & 11</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-itel-p40-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Itel P40</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo .</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+</ul></div>
 

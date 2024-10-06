@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-09-30T02:22:01.947Z
-updated: 2024-10-01T00:18:06.479Z
+date: 2024-10-04T05:05:09.249Z
+updated: 2024-10-06T04:52:09.453Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [Linus Torvalds and Freax](https://some-guidance.techidaily.com/new-swift-transition-the-ultimate-guide-to-sierra-on-macs/)
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,16 +56,16 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
 
@@ -79,20 +86,13 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -107,10 +107,10 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -150,24 +150,18 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-increasing-engagement-on-instagram-videos/"><u>[New] 2024 Approved Increasing Engagement on Instagram Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-leading-edge-webcams-the-best-on-windows-10/"><u>[New] 2024 Approved Leading Edge Webcams The Best on Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-approaches-to-sims-4-video/"><u>[Updated] Innovative Approaches to Sims 4 Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blunders-fixing-directx-glitches-in-your-fifa-20-installation/"><u>Beat the Blunders: Fixing DirectX Glitches in Your FIFA 20 Installation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/convert-free-youtube-videos-into-ipodiphone-format-with-our-simple-download-tool-play-on-the-go/"><u>Convert Free YouTube Videos Into iPod/iPhone Format with Our Simple Download Tool - Play On-The-Go!</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50-gt-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50 GT Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-civi-3-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Civi 3 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30i-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Hot 30i Phone without Google Account?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-depth-analysis-the-dell-g5-egpu-a-great-choice-for-budget-gamers-with-extensive-customization-possibilities/"><u>In-Depth Analysis: The Dell G5 eGPU, a Great Choice for Budget Gamers with Extensive Customization Possibilities</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-magic-5-lite-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Magic 5 Lite? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2010-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2010 Causes & Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/say-goodbye-to-pesky-pop-ups-four-ultimate-methods-to-remove-them-from-your-chrome-experience/"><u>Say Goodbye to Pesky Pop-Ups: Four Ultimate Methods to Remove Them From Your Chrome Experience</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oneplus-nord-ce-3-lite-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on OnePlus Nord CE 3 Lite 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-aerial-mastery-with-husqvarna-h501x4-fpv-analysis/"><u>[New] 2024 Approved Aerial Mastery with Husqvarna H501X4 FPV Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-twist-magic-secrets-to-spinning-video-content-for-platform-perfection-for-2024/"><u>[New] Insta-Twist Magic Secrets to Spinning Video Content for Platform Perfection for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-multiplayer-movies-review-poker-edition/"><u>[New] MULTIPLAYER MOVIES REVIEW Poker Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-freefire-presence-with-top-tips-and-tricks-for-2024/"><u>[Updated] Elevate Your FreeFire Presence with Top Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-functionality-reprogramming-fn-keys-on-modern-windows-pcs/"><u>Enhance Functionality: Reprogramming FN Keys on Modern Windows PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/freeze-whole-website-panel-for-2024/"><u>Freeze Whole Website Panel for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Max Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/savory-secrets-for-healthy-cooking-with-ai-help/"><u>Savory Secrets for Healthy Cooking with AI Help</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-realme-narzo-n53-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme Narzo N53</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-xiaomi-by-fonelab-android-recover-data/"><u>Undelete lost data from Xiaomi</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme on Mac?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-f5-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco F5 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

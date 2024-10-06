@@ -1,7 +1,7 @@
 ---
 title: パソコン初学者のための基本的な操作ガイド
-date: 2024-09-21T00:33:41.436Z
-updated: 2024-09-23T17:19:14.894Z
+date: 2024-10-03T14:21:41.665Z
+updated: 2024-10-06T08:01:38.770Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694def811f8f7c4b963f5242cb3d.jpg
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 
 [世界でも使われている「DX」の意味は？](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 経済産業省が提唱する DX（デジタルトランスフォーメーション）
 
 経産省の[DXを推進するためのガイドライン](https://www.meti.go.jp/press/2018/12/20181212004/20181212004-1.pdf)を確認しますと、DXの定義は「企業がビジネス環境の激しい変化に対応し、データとデジタル技術を活用して、顧客や社会のニーズを基に、製品やサービス、ビジネスモデルを変革するとともに、業務そのものや、組織、プロセス、企業文化・風土を変革し、競争上の優位性を確立すること」とあります。まずは、データとデジタル技術の活用が重要です。つまり、できるだけ業務をPCで行うようにし、それをオンライン化し、データを蓄積するようにします。このアプローチにより、はじめて、データの活用と様々なデジタル技術の活用が可能となります。直接的に業務と関係するデータをAI（人工知能）によって様々な角度から分析・予測することや全ての従業員・機械の作業ログデータからそれぞれの業務の効率化・自動化をおこなうことができるようになります。
@@ -30,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 これらは、経産省の DX Report2 (2020年12月)中間取り纏めにおいても、「DXのファーストステップ」としての業務環境のオンライン化、業務プロセスのデジタル化（OCR製品を用いた紙書類の電子化、RPAを用いた定型業務の自動化等）としてレポートされています。
 
 このあたりを切り口に、クラウド、モビリティ、ビッグデータ／アナリティクス、ソーシャル技術に慣れ親しみ、活用し、新しい製品・サービス・ビジネスモデルを通して、ネットとリアルの両面での顧客エクスペリエンスの変革を図ること、そして最終的にその価値を創出していくのがDX、デジタルトランスフォーメーションとなります。
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## なぜ、DXが求められるのか？その背景とデータの活用
 
@@ -51,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
     
 上述の経産省の[DXを推進するためのガイドライン](https://www.meti.go.jp/press/2018/12/20181212004/20181212004-1.pdf)中にも、「既存のITシステムが老朽化・複雑化・ブラックボックス化する中では、データを十分に活用しきれず、新しいデジタル技術を導入したとしても、データの利活用・連携が限定的であるため、その効果も限定的となってしまうという問題が指摘されている」と述べられています。さらには、「加えて、既存のITシステムがビジネスプロセスに密結合していることが多いため、既存のITシステムの問題を解消しようとすると、ビジネスプロセスそのものの刷新が必要となり、これに対する現場サイドの抵抗が大きいため、いかにこれを実行するかが課題となっているとの指摘もなされている」と続いています。つまり、現行プロセスにおいて、問題点・ボトルネックを含め全システムの現状把握を定量的にできてないこと、この解決において投資対費用効果が得られるのか不明瞭であることの2点が大きな課題です。これらを解決するために、DXを活用した、複数のシステムを含むシステムログからの定量的な現状プロセスの可視化と把握、そして問題点・ボトルネックへの気づきが必要となります。
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## まず手を打つべき対策として
 
 (1)-(3)に上げた労働生産性を向上させるような業務の把握、見直し、改善は、経産省が[DX Report2 (2020年12月)中間取り纏め](https://www.meti.go.jp/press/2020/12/20201228004/20201228004-2.pdf)の中で強調する「DXのファーストステップ」の「業務プロセスのデジタル化」に含まれます。ABBYYでもさまざまなソリューションを用意しております。前述の業務把握、見直し、改善分野に沿って、ソリューションを紹介します。
@@ -68,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 * (2) データエントリ作業、紙ベースの書類からのビジネスデータの抽出、システムへの転記等  
 ![FlexiCapture Step by Step on whiteboard in meeting room with four people](https://static1.abbyy.com/abbyycommedia/34148/413686-4.jpg)  
 AI OCR導入が最も効果的です。ただ、単なるOCR文字認識精度ではなく、トータルでの認識精度、検証時の使いやすさ、入出力連携を含むワークフローとしての柔軟な対応、処理性能、開発・メンテナンスコスト等、さまざまな[ポイント](https://tools.techidaily.com/abbyy/products/)を考慮する必要があることを忘れてはなりません。ここを間違えるとROI（費用対効果）が薄れるケースが多くなります。ABBYYでは、紙文書からの文字認識、仕分け、インテリジェントなデータ抽出、検証、出力（外部連携）といったワークフローを10年以上かけて柔軟に作り上げてきた[ABBYY FlexiCapture 12](https://tools.techidaily.com/abbyy/products/)が最適な商品となります。複雑な表、複数ページに渡る明細行からの読み取りまで対応しており、外部連携も豊富です。また、[AIを活用した仕分け](https://tools.techidaily.com/abbyy/products/)、ワークフローのカスタマイズ、オンプレミス対応も可能なため、システムの基盤として利用される[ケース](https://tools.techidaily.com/abbyy/products/)も多くあります。
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * (3) 業務システム、機械のログデータを利用した業務プロセス分析とPCログデータを利用した各自作業の分析  
     
@@ -88,6 +88,19 @@ ABBYYでは、ログデータをアップロードするだけで、25を超え�
 
 ![persons hands on laptop with ABBYY Timeline dashboard on the screen](https://static1.abbyy.com/abbyycommedia/34149/513686-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 なお、今回ご紹介しました製品についての概要、デモの依頼、お問い合わせは、それぞれの製品紹介ページ、「**お問い合わせ**」ボタンより承っておりますので、お気軽にお問い合わせ下さい。
 
 [AI（人工知能）](https://tools.techidaily.com/abbyy/products/) [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) 
@@ -95,20 +108,13 @@ ABBYYでは、ログデータをアップロードするだけで、25を超え�
 ![ABBYY logo circle](https://static5.abbyy.com/abbyycommedia/29971/abbyy-logo-2021-blog-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ABBYY Japan エンジニアリングチーム
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### いいね！、シェア、再投稿
 
@@ -171,5 +177,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevate-your-youtube-presence-uncovering-the-6-key-strategies-to-boost-retention-rates/"><u>[Updated] Elevate Your YouTube Presence Uncovering the 6 Key Strategies to Boost Retention Rates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-powerdirector-2024-mastery/"><u>[Updated] The Ultimate Guide to PowerDirector 2024 Mastery</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-s24plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy S24+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-driver-management-in-windows-get-started-today/"><u>Effortless Driver Management in Windows - Get Started Today</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-10c-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 10C Without Password | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-repair-a-504-gateway-timeout-problem-a-comprehensive-guide/"><u>How To Successfully Repair a 504 Gateway Timeout Problem - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ae-text-and-title-styles-guide/"><u>In 2024, AE Text & Title Styles Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-showdown-exploring-the-distinctions-between-mini-and-air-versions/"><u>IPad Showdown: Exploring the Distinctions Between Mini and Air Versions</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-camon-20-pro-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Camon 20 Pro 5G Device</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-redmi-k70e-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Redmi K70E</u></a></li>
+</ul></div>
 

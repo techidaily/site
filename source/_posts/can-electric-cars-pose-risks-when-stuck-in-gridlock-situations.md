@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
-date: 2024-09-25T16:43:56.693Z
-updated: 2024-09-30T19:17:51.145Z
+date: 2024-10-01T09:15:18.158Z
+updated: 2024-10-06T12:05:06.892Z
 tags:
   - cutting-edge
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  In 2022, a huge 48-mile traffic jam happened on the I-95 in Virginia on a cold, snowy day, and we instantly saw the [EV fearmongering](https://www.washingtonpost.com/opinions/2022/01/04/imagine-virginias-icy-traffic-catastrophe-with-only-electric-vehicles/) reach an all-time high. Claiming if those were all EVs, the situation would have been a "catastrophe." A reader actually sent us these graphics circulating on Facebook in response to one of our [recent EV articles](https://www.reviewgeek.com/118218/do-evs-need-special-tires/). In reality, when electric cars aren't moving, they use very little power, will last for days, and can easily keep you safe and warm (or cool) during a long traffic jam.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Rumors
 
 > "If all cars were electric ... and were caught up in a three hour traffic jam... dead batteries! Then what?"
@@ -43,10 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Wrong!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Electric Vehicle Facts
@@ -54,10 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ![All current Tesla models lined up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/29bb7ac0.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Tesla_
@@ -77,21 +70,22 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
  Your typical Tesla heated seat uses around 60 watts per seat and gets controlled by the onboard computer drawing around 250 watts. As long as you don't use extra systems like Wi-Fi to watch Netflix on the infotainment display, the car could easily keep your seats warm for nearly a week.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Do EVs Stuck In Traffic Fare?
 
 ![Tesla Model 3 stuck in traffic jam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/c00c6807.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Dan Kanninen_
 
@@ -126,20 +120,20 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-crafting-illusions-spatial-and-temporal-shifts/"><u>[New] Crafting Illusions Spatial and Temporal Shifts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-the-ultimate-path-to-boundless-space-with-20-no-cost-services/"><u>[New] In 2024, Discover The Ultimate Path to Boundless Space with 20 No-Cost Services</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-seamless-social-media-experience-with-fb-videos/"><u>2024 Approved Seamless Social Media Experience with FB Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-skyrocketing-subscribers-free-techniques-for-youtube-success/"><u>2024 Approved Skyrocketing Subscribers Free Techniques for YouTube Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-compelling-and-credible-documentary-scripts/"><u>2024 Approved The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-poco-m6-pro-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco M6 Pro 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-v29e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V29e without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-2020-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE (2020) to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-profile-picture-templates-free-downloads/"><u>In 2024, YouTube Profile Picture Templates – Free Downloads</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-12-proplus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 12 Pro+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/refreshing-historical-directx-titles-through-enhanced-dxvk-performance/"><u>Refreshing Historical DirectX Titles Through Enhanced DXVK Performance</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo )</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-90-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor 90 Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://driver-download.techidaily.com/news-how-to-swiftly-and-smoothly-update-drivers-for-your-amd-ryzen-5-2500u-processor/"><u>[NEWS] How to Swiftly & Smoothly Update Drivers for Your AMD Ryzen 5 2500U Processor</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-zoom-etiquette-secrets-to-polite-and-productive-online-chats/"><u>[Updated] The Art of Zoom Etiquette Secrets to Polite and Productive Online Chats</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-spiked-cpu-usage-on-modern-operating-systems-like-windows/"><u>Diagnosing & Fixing Spiked CPU Usage on Modern Operating Systems Like Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-wireless-mouse-fails-in-windows-11-and-10/"><u>Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone SE Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-style-essentials-download-for-free/"><u>In 2024, YouTube Style Essentials - Download for FREE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-solving-win-os-device-errors/"><u>Navigating and Solving Win OS Device Errors</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-f23-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from F23 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix .</u></a></li>
 </ul></div>
 

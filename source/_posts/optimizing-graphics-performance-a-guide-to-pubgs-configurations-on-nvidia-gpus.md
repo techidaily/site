@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Graphics Performance: A Guide to PUBG's Configurations on NVIDIA GPUs"
-date: 2024-09-22T23:07:18.244Z
-updated: 2024-09-23T16:29:00.026Z
+date: 2024-09-28T19:15:09.099Z
+updated: 2024-10-06T15:37:37.647Z
 tags:
   - win11
   - win10
@@ -24,10 +24,10 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2
@@ -36,11 +36,25 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4
 
@@ -64,13 +78,6 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select**TV** from Display drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-27.jpg)
@@ -79,14 +86,14 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What if there’s no sound from TV speakers?
 
@@ -98,6 +105,13 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Highlight your HDMI audio output device and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
@@ -105,20 +119,6 @@ In addition, set your HDMI audio output device as the default device.
 **NOTE:** If you cannot see your HDMI audio output device, right-click on the blank area of and tick on**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Still No Sound?
 
@@ -131,10 +131,10 @@ In addition, set your HDMI audio output device as the default device.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s all there is to it. Hopefully, you can enjoy the large screen now.
@@ -154,5 +154,21 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-guide-perfect-your-youtube-video-looping-game/"><u>[Updated] 2024 Approved How-To Guide Perfect Your YouTube Video Looping Game</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-resisting-insta-imposters-protect-your-profiles-prestige/"><u>[Updated] In 2024, Resisting Insta Imposters Protect Your Profile's Prestige</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-11-proplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 11 Pro+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-smart-8-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Smart 8 to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-taking-the-leap-secrets-for-free-fcp-acquisition/"><u>In 2024, Taking the Leap Secrets for Free FCP Acquisition</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mp4-mp3/"><u>MP4, MP3サポートのダビンチリゾルブ使い方 - 動画と音楽の作成ガイド</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/overcooked-2-analysis-gourmet-havoc-unleashed/"><u>Overcooked! 2 Analysis: Gourmet Havoc Unleashed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-selecting-comparing-and-acquiring-the-ideal-televisions-for-your-household/"><u>Step-by-Step Strategies: Selecting, Comparing & Acquiring the Ideal Televisions for Your Household</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nord-ce-3-lite-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nord CE 3 Lite 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-magic-6-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor Magic 6 without backup.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s17-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S17 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

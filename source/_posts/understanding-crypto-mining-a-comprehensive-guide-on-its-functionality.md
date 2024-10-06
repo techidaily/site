@@ -1,7 +1,7 @@
 ---
 title: "Understanding Crypto Mining: A Comprehensive Guide on Its Functionality"
-date: 2024-09-25T21:33:23.400Z
-updated: 2024-09-30T18:07:54.391Z
+date: 2024-10-03T21:45:05.750Z
+updated: 2024-10-05T17:55:45.588Z
 tags:
   - cutting-edge
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is Crypto Mining?
 
  In short, crypto mining is how new units of [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/)\---usually called coins---are created. As you can imagine, this type of mining doesn't involve callused hands gripping pickaxe handles. Instead, it's computer processors that do all the hard work, chipping away at complex math problems.
@@ -43,6 +36,19 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  The Ledger
 
  Every time a new coin is unlocked, it's recorded in the cryptocurrency's ledger, a massive file anybody can access at any time to see which coins were mined when and by whom. The ledger also shows when a coin changed hands, and who was involved in the transaction, putting the lie to [the claim that Bitcoin is anonymous](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/).
@@ -50,10 +56,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  To summarize, the ledger records the creation and movement of coins in the blockchain. Mining is validating new blocks and gaining access to the coins within. Interestingly enough, since the blockchain has to be finite, it also means that most cryptocurrencies have a hard limit to how many can exist: Bitcoin for example has a [cap of 21 million](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Crypto Mining Works
@@ -65,10 +71,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  DIY Supercomputers
@@ -83,18 +89,18 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  As a result, the market for GPUs was practically destroyed, with these groups buying all the units they could get their hands on---even [stealing them](https://fortune.com/2021/11/09/thieves-steal-nvidia-graphics-cards/) in some cases---and making it so regular consumers had to pay [massive prices](https://www.nme.com/news/gaming-news/700000-graphics-cards-were-bought-by-crypto-miners-in-early-2021-alone-2973241) even for badly outdated models. Though, as of late 2021, this arms race is quieting down thanks to a number of factors (including a [crackdown on miners](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html) by China), the GPU market has yet to recover.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Mined vs. Non-Mined Cryptocurrencies
 
  Interestingly enough, though, not all cryptocurrencies are mined. Rather than use proof of work, some currencies---like [Cardano](https://www.shutterstock.com/nl/image-illustration/block-chain-concept-consists-network-connections-1064476223) and [Ripple](https://ripple.com/)\---use something called "proof of stake." They still operate on blockchain for reasons of security, but instead of mining new blocks you "stake " them instead, claiming them for yourself ahead of time.
 
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Future of Mining
 
@@ -117,20 +123,21 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/beyond-apowersoft-top-10-screen-capture-apps-analyzed/"><u>Beyond Apowersoft Top 10 Screen Capture Apps Analyzed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-copilot-utilizes-gpt-4-turbo-accessing-premium-ai-assistance-at-no-cost/"><u>Discover How Copilot Utilizes GPT-4 Turbo: Accessing Premium AI Assistance at No Cost</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-ricoh-printer-software-on-your-windows-pc/"><u>Download & Install Ricoh Printer Software on Your Windows PC</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-x90s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo X90S Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50iplus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i+ in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-p55-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel P55 5G</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-camera-roll-for-social-media-step-by-step-guide/"><u>In 2024, Leveraging Camera Roll for Social Media - Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m34-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy M34 won’t play MP4 files</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/skype-recording-excellence-the-years-leading-tools-for-2024/"><u>Skype Recording Excellence The Year's Leading Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-magic-6-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Magic 6</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-rated-winx-mediatrans-superior-app-for-seamless-moving-of-photos-music-and-video-between-iphoneipad-and-computer/"><u>Top-Rated WinX MediaTrans: Superior App for Seamless Moving of Photos, Music & Video Between iPhone/iPad and Computer</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-12-pro-max-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 12 Pro Max files after scanning? | Stellar</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-purity-in-browsing-top-7-selective-android-adblocking-tools/"><u>[New] Purity in Browsing Top 7 Selective Android AdBlocking Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-essential-blueprint-to-compiling-youtube-soundscape-for-2024/"><u>[New] The Essential Blueprint to Compiling YouTube Soundscape for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-compilation-of-ios-compatible-ps2-games/"><u>[Updated] 2024 Approved Ultimate Compilation of iOS-Compatible PS2 Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-your-way-through-effective-spotify-promotion-techniques/"><u>[Updated] Navigating Your Way Through Effective Spotify Promotion Techniques</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-13-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 13 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/delving-into-the-value-proposition-with-compact-cameras-vixias-r800/"><u>Delving Into the Value Proposition with Compact Cameras – VIXIA's R800</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-xcover-6-pro-tactical-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy XCover 6 Pro Tactical Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a24-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/futureproofing-your-data-with-budgeted-cloud-choices/"><u>Futureproofing Your Data with Budgeted Cloud Choices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-xs-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone XS Max to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11/"><u>In 2024, Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-huawei-nova-y71-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Huawei Nova Y71</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-fe-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy S23 FE won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-platform-security-vulnerabilities/"><u>Social Platform Security Vulnerabilities</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-htc-u23-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About HTC U23 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-infinix-smart-7-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Infinix Smart 7 on Mac?</u></a></li>
 </ul></div>
 

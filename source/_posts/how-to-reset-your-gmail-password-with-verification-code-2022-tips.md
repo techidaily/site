@@ -1,7 +1,7 @@
 ---
 title: How to RESET Your Gmail Password with Verification Code - 2022 Tips
-date: 2024-09-16T21:57:20.068Z
-updated: 2024-09-24T10:26:29.288Z
+date: 2024-10-04T23:46:37.813Z
+updated: 2024-10-06T14:57:26.046Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 7. [**Adjust your Windows system for the best performance**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Tip 1: Install the latest Fortnite patch**
 
@@ -76,22 +69,8 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-graphics-driver.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -112,6 +91,14 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 2. View the Control Panel by   **Large icons**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap920.png)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap921.png)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap922.png)
@@ -132,54 +119,43 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap913.png)
 2. View the Control Panel by   **Large icons**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap914.png)
 3. Select **Intel Graphics Settings**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap915.png)
 4. Click **3D**  to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap916.png)
 5. Click **Scan**  to add**Fortnite** to the application list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap917.png)
 6. Modify the settings the same way you see on the screenshot below.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap918.png)
 7. Click **Apply**  to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap919.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Fortnite again to see if the FPS increases. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Tip 4: Optimize in-game settings**
 
@@ -188,6 +164,14 @@ You may need to **reduce in-game graphics**  to ensure that Fortnite runs smooth
 1. In Fortnite, click **the menu button**  on the upper-right corner, then click **the gear icon**  to open the game settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 2. Modify the video settings of the game following the screenshot below to gain maximum performance. Then click **Apply**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap927.png)
 
 Run Fortnite again to see if your FPS in Fortnite increases. If this issue helps, please use our creator code:`**DRIVEREASY**` to support us so that we can continue to create more high-quality content.
@@ -205,6 +189,13 @@ If this issue persists, try the next fix, below.
 3. Navigate to the **Detail**  tab. **Right-click**  the process related to Fortnite ( **FortniteClient-Win64-Shipping.exe** , **FortniteClient-Win64-Shipping\_EAC.exe**  and **FortniteLauncher.exe** ) and select **High**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap928.png)
 4. Run Fortnite to see if the FPS in Fortnite improves. If the FPS is still the same, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Tip 6: Change the power plan of your PC**
 
@@ -226,16 +217,25 @@ If this issue persists, try the next fix, below.
 2. In the Control panel, type**advanced** in the search bar in the upper-right corner. Then click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap932.png)
 3. In the pop-up window, click **Settings…** in the **Performance**  section.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap934.png)
-4. Select **Adjust for best performance** and click **OK**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap935.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap934.png)
+4. Select **Adjust for best performance** and click **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap935.png)
 
 Run Fortnite again to see if the FPS in the game improves.
 
@@ -259,5 +259,19 @@ Run Fortnite again to see if the FPS in the game improves.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-pop-culture-sounds-to-your-ringtone-a-compreeved-guide/"><u>[New] 2024 Approved From Pop Culture Sounds to Your Ringtone A Compreeved Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-fundamentals-of-earnings-on-youtube-for-2024/"><u>[New] The Fundamentals of Earnings on YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-iphone-hdr-imaging-techniques-for-2024/"><u>[Updated] Mastering iPhone HDR Imaging Techniques for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-is-product-review-vlog-paid/"><u>2024 Approved Is Product Review Vlog Paid</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mobiles-leading-free-image-enhancement-and-layer-apps-ranked-for-2024/"><u>Mobile's Leading Free Image Enhancement & Layer Apps Ranked for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Note 30i</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-12-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 12 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-frequent-application-freezes-in-minutes-expert-tips-inside/"><u>Troubleshoot Frequent Application Freezes in Minutes – Expert Tips Inside</u></a></li>
+</ul></div>
 

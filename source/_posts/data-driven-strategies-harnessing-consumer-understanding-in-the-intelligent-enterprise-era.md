@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Strategies: Harnessing Consumer Understanding in the Intelligent Enterprise Era"
-date: 2024-09-18T00:51:28.894Z
-updated: 2024-09-23T18:54:23.340Z
+date: 2024-09-29T01:14:19.650Z
+updated: 2024-10-05T19:31:15.311Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
@@ -27,13 +27,6 @@ In our final webinar for Intelligent Automation Month, a series of digital event
 Joining us on the panel was Shanx Tripathi from [IBM Consulting](https://www.ibm.com/consulting) \- financial services sector, and Swaraj Padma, head of automation at international real estate and investment company [JLL](https://www.us.jll.com/), along with ABBYY’s own Senior VP of Product Marketing Bruce Orcutt.
 
 With [recent research by ABBYY](https://tools.techidaily.com/abbyy/products/) identifying “vague automation goals” as the top reason for automation projects to fail, I was keen to know how IT leaders determine where to start their automation journeys.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Knowing where to start
 
@@ -63,13 +56,6 @@ For Shanx, meeting deadlines is heavily dependent on diversity in your automatio
 
 He believes that maintaining clarity in documenting your true end-to-end process and having the right kind of tool attached to each fragment of that newly imagined journey will help you stay on target.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Intelligent Document Processing in Financial Services: Use Cases
 
 eBook
@@ -77,16 +63,10 @@ eBook
 [Learn more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Examples of measuring value
@@ -98,6 +78,13 @@ One of JLL’s biggest success stories was automation of lease processing, which
 The process was previously manual, meaning staff had to print out information and manually upload details to track contracts on their document management system. This posed a huge security risk and the potential for reputational loss.
 
 JLL saw benefits of transformation from the perspective of operational risk and operational efficiency but hadn’t foreseen the huge impact on employee experience. Their staff had been going through 10 different processes manually and felt they weren’t contributing to any kind of worth for the organization in doing this. After automation, employees could focus that time on more important components of their job which led to a huge increase in morale, according to a company survey.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Meet demands for self-service
 
@@ -115,6 +102,13 @@ Swaraj admits that one of JLL’s biggest mistakes was not using process mining 
 
 He also believes they need to be better at aligning their visions for automation with actual delivery, and in terms of delivery timelines believes it’s important to break down requirements into small achievable parts rather than trying to roll out in one go.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Future use of intelligent automation
 
 Looking to the future, both of our panelists believe that generative AI and large language models will be a key driver in automation.
@@ -127,13 +121,6 @@ You can access the entire customer panel session with JLL and IBM Consulting [he
 
 ![Neilmurphy 99X99](https://static1.abbyy.com/abbyycommedia/25709/neilmurphy-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Neil Murphy
 
 Vice President, Global Channel Chief at ABBYY
@@ -141,6 +128,13 @@ Vice President, Global Channel Chief at ABBYY
 Neil Murphy is Vice President, Global Channel Chief and in his role now responsible for expanding the company's business globally after his role as UK head. Neil's deep experience working with data capture, cognitive understanding and process automation technologies derives from a multitude of strategic roles at leading organisations such as Kodak Alaris and now ABBYY. While at Kodak Alaris, Neil was responsible for the start-up and development of AI Foundry in EMEA, a technology start-up within Kodak Alaris focused on the AI and RPA markets.
 
 Over the years, Neil has worked with a variety of industry sectors ranging from Finance, Insurance, Healthcare to Government focusing on transforming their legacy approach to back and front office processes such as Accounts Payable, customer onboarding, and consumer loyalty programmes to name a few.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Additional Insights:
 
@@ -203,5 +197,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-smooth-art-of-mov-saving-a-win10-insight/"><u>[New] The Smooth Art of MOV Saving A Win10 Insight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-leveraging-technology-to-keep-your-snapchats-alive-for-2024/"><u>[Updated] Leveraging Technology to Keep Your Snapchats Alive for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>2024 Approved Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-experience-with-these-5-chatgpt-features-youre-missing-out-on/"><u>Enhance Your AI Experience with These 5 ChatGPT Features You're Missing Out On</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-video-creator-for-mac/"><u>Movavi Video Creator for Mac: เวทีผลไม้ท่องเท�ครอบ วงกลาง - ขั้นตอนสำเร็จรูป</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-iphone-15-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of iPhone 15</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-nokia-c22-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Nokia C22 on Windows</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-y78t-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo Y78t</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlock-ultimate-recording-easy-guide-to-activating-apowerrec-pro-on-windows-and-mac/"><u>Unlock Ultimate Recording: Easy Guide to Activating ApowerREC Pro on Windows and Mac</u></a></li>
+</ul></div>
 

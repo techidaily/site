@@ -1,7 +1,7 @@
 ---
 title: Innovative OCR Technology Transforms One Million Medical Records Into Easily Searchable Database
-date: 2024-09-19T03:35:39.204Z
-updated: 2024-09-24T11:08:08.390Z
+date: 2024-09-29T18:58:09.242Z
+updated: 2024-10-06T15:01:34.446Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe9ee598f36dc42477a8a3193.jpg
@@ -26,22 +26,15 @@ Healthcare | Digital Archiving
 ![](https://static1.abbyy.com/abbyycommedia/15758/jeghers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Customer Overview
 
 ![Jeghers Medical Index](https://static4.abbyy.com/abbyycommedia/15354/jeghers-medical-index.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 | Name                  | Jeghers Medical Index                                                                                        |
 | --------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -79,16 +72,16 @@ Jeghers Medical Index comprises over one million medical journal articles, the v
 
 pages to process
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### a **108**\-page
 
 project plan developed
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **1** year
 
@@ -154,6 +147,13 @@ Gawdyda concludes, “We are very pleased. And DocuSyst was very customer orient
 
 [![PDF Version](https://static2.abbyy.com/abbyycommedia/15759/jeghers1.png)](https://static3.abbyy.com/abbyycommedia/1222/rs%5Fjeghers%5Feducation%5F2014.pdf "PDF version") [PDF version](https://static3.abbyy.com/abbyycommedia/1222/rs%5Fjeghers%5Feducation%5F2014.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [read more](https://static3.abbyy.com/abbyycommedia/1222/rs%5Fjeghers%5Feducation%5F2014.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -165,10 +165,10 @@ Share  True ?  : ""
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
@@ -190,5 +190,18 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>[Updated] 2024 Approved Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimizing-youtube-and-twitch-with-obs-streaming-techniques/"><u>[Updated] 2024 Approved Optimizing YouTube & Twitch with OBS Streaming Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-chromeos-direct-screens-capture-tool/"><u>[Updated] ChromeOS Direct Screens Capture Tool</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enabling-effortless-playback-of-fb-videos/"><u>[Updated] Enabling Effortless Playback of FB Videos</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v29-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V29 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-poco-c50-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Poco C50 FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-touchpad-issues-in-windows-1187-easy-fixes-and-solutions/"><u>Laptop Touchpad Issues in Windows 11/8/7 – Easy Fixes and Solutions</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-fe-messages-recovery-recover-deleted-messages-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>Samsung Galaxy S23 FE Messages Recovery - Recover Deleted Messages from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Note 30 VIP Racing Edition</u></a></li>
+</ul></div>
 

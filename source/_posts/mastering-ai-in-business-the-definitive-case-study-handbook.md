@@ -1,7 +1,7 @@
 ---
 title: "Mastering AI in Business: The Definitive Case Study Handbook"
-date: 2024-09-17T03:11:46.415Z
-updated: 2024-09-24T07:52:51.846Z
+date: 2024-09-30T16:54:10.130Z
+updated: 2024-10-06T13:58:06.920Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c6a96da1aa4105529dabc652.jpg
@@ -37,13 +37,6 @@ Many internal automation problems have been solved, and now there is clear value
 
 Amidst the hype and rapid evolution of AI, it can be daunting for organizations to upend existing processes in favor of AI-augmented solutions, particularly when 31 percent of global businesses indicate a clear preference for maintaining ‘the old way of doing things.’ But when considering the long-term value of intelligent automation, it’s clearly worth the tribulations of implementation, as my conversation with Ashwin explored.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Maximizing employee potential: Synergizing skill and talent
 
 Today’s rapid pace of business demands a constant influx of skilled developers and technologists to support daily operations, but there isn’t always enough talent to go around. In lieu of an unending supply of top-tier talent, enterprises should strive to empower employees with tools and tasks that complement their innate abilities and existing skillsets.
@@ -51,13 +44,6 @@ Today’s rapid pace of business demands a constant influx of skilled developers
 If talent is defined as natural ability, and skill is cultivated through training, education, and practice, enterprises should focus on a combination of the two that drives innovation strategy. For example, a conversational specialist with strong linguistic and communication abilities could be highly suitable for prompt engineering. In process optimization, someone with extensive knowledge of larger business contexts will make more informed and effective decisions than a skilled developer that lacks this perspective.
 
 Attempting to drive efficiency and innovation purely from a technological perspective will have limited returns when compared to including professionals that can interpret the implications of data, apply them to business situations, and make decisions with respect to timing, market factors, and other variables. Designing tools that are accessible to those beyond the IT department enables this inclusivity of broader perspectives. Low-code / no-code intelligent automation solutions with intuitive and visually oriented interfaces help democratize data and technology, enabling organizations to drive value more briskly and effectively.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Intelligent Document Processing in Financial Services: Use Cases
 
@@ -78,6 +64,13 @@ Implementing intelligent automation can be a daunting task. It’s a significant
 Every process, enterprise, and industry have their own nuances. It’s important to understand how and where you’re starting your automation journey, and why you’re doing it in the first place. Breaking it down helps to comprehend business, corporate, and technological processes, which is a key step towards scalability. IT leaders should ask: “How are we automating across a broad set of processes rather than one part of a portfolio? Then, how do we recreate it?”
 
 Using an AI-enhanced tool like process intelligence gives enterprises the visibility they need to cultivate this thorough understanding of their operations. From there, decision makers can make informed decisions and test process improvements before implementation, reducing the risk of wasting innovation budget on a failed automation attempt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Maximizing your investment: Best practices
 
@@ -122,10 +115,10 @@ He is a thought leader with market domain expertise in AI, machine learning, pro
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Additional Insights:
@@ -135,13 +128,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![New ABBYY Report: 80% Have Increased Intelligent Automation Budgets in Past Year](https://static3.abbyy.com/abbyycommedia/38053/ds-191_ai-team-player-survey_848x4442.jpg)](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -153,6 +139,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![Customer Point of View: Highs and Lows of the Intelligent Automation Journey](https://static3.abbyy.com/abbyycommedia/38066/ds-191_customer-point-of-view_tn_848x444-1.jpg)](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**Customer Point of View: Highs and Lows of the Intelligent Automation Journey**](https://tools.techidaily.com/abbyy/products/)
@@ -162,13 +155,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![ICYMI: 5 Reasons Why Process Intelligence Is Replacing Process Mining—Our Conversation with Doculabs](https://static1.abbyy.com/abbyycommedia/38052/ds-191_5-reasons-why_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -189,13 +175,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![The Gap Is Closing Between AI Innovation and Time-to-Value](https://static4.abbyy.com/abbyycommedia/37512/executive-insight_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -228,10 +207,10 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [![Customer Point of View: Process Mining Reveals $6 Million in Savings](https://static2.abbyy.com/abbyycommedia/37509/leading-financial-institution-saves-millions_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
@@ -244,6 +223,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific](https://static4.abbyy.com/abbyycommedia/37508/idp-trends-and-outcomes-report_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific**](https://tools.techidaily.com/abbyy/products/)
@@ -253,6 +239,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![The Second Tax Revolution—How Trustworthy AI Transforms Online Tax Filing](https://static1.abbyy.com/abbyycommedia/37510/the-second-tax-revolution_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -264,6 +257,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**How AI Can Help Government Agencies Win at Total Experience (TX)**](https://tools.techidaily.com/abbyy/products/)
@@ -273,13 +273,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -300,6 +293,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -372,5 +372,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-definitive-guide-to-professional-level-youtube-video-edits-for-2024/"><u>[Updated] The Definitive Guide to Professional-Level YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleashing-potential-a-deep-dive-into-the-ion-air-pro-3-review/"><u>2024 Approved Unleashing Potential A Deep Dive Into the ION Air Pro 3 Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sive-resource-hub-downloadable-templates-for-youtubers-for-2024/"><u>Exclusive Resource Hub - Downloadable Templates for YouTubers for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-google-pixel-8-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Google Pixel 8 Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-xs-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone XS (4 Methods) | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-headshot-generator-for-2024/"><u>New What Is an AI Headshot Generator for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-vr-aka-psvr-2-news-price-release-date-specs-and-more/"><u>PS5 VR Aka PSVR 2: News, Price, Release Date, Specs, and More</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-zte-nubia-flip-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-narzo-n55-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme Narzo N55 on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eling-youtubes-puzzles-a-step-by-step-reveal-for-2024/"><u>Unraveling YouTube's Puzzles A Step-by-Step Reveal for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/zooming-in-on-podcast-quality-an-ultimate-video-recording-guidebook-for-2024/"><u>Zooming In on Podcast Quality An Ultimate Video Recording Guidebook for 2024</u></a></li>
+</ul></div>
 

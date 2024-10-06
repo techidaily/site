@@ -1,7 +1,7 @@
 ---
 title: Wirtschaftsblickpunkte Mit Dem Handelsblatt - Entdecken Sie Unseren Podcast 'Die Geschäftswelt Hören'“
-date: 2024-09-20T22:54:44.945Z
-updated: 2024-09-24T03:21:37.743Z
+date: 2024-10-02T03:45:26.728Z
+updated: 2024-10-06T04:38:17.655Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5eff5e3e04c1be7552d848bf.jpg
@@ -22,17 +22,10 @@ German
 ![95 Maximilianroglinger 198X198](https://static1.abbyy.com/abbyycommedia/34756/95-maximilianroglinger-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prof. Dr. Maximilian Röglinger
@@ -43,26 +36,27 @@ Leiter der Projektgruppe Wirtschaftsinformatik, **Fraunhofer FIT**
 
 ![02 Alexandrejanicki 198X198](https://static2.abbyy.com/abbyycommedia/25101/02-alexandrejanicki-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Alexandre Janicki
 
 Senior Enterprise Sales Manager, **ABBYY**
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Übersicht
 
 Ein erfolgreiches Prozessmanagement fordert von Banken zwei wichtige Dinge: eine hohe Kundenzufriedenheit und einen größeren Anwenderfokus.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prozesspioniere: Wie Banken ihre Prozesse optimal digitalisieren
 
@@ -75,20 +69,13 @@ Wie Banken ihre Prozesse optimieren und sich gezielt auch über das „New Norma
 * Wie steht es um die Investitionsbereitschaft von Unternehmen in moderne Prozesstechnologien
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Webinar-Aufzeichnung hier anfordern
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Get in touch with us
 
@@ -100,6 +87,19 @@ All personal information collected via this method is under full scope of all pr
 [Handelsblatt Podcast „So klingt Wirtschaft“](https://open.spotify.com/episode/3MzWUWTh7UgOcrUH7Bjuui "Handelsblatt Podcast „So klingt Wirtschaft“")
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Haben Sie weiterführende Fragen oder möchten Sie mit uns über ein konkretes Projekt sprechen? [Kontaktieren Sie uns.](https://tools.techidaily.com/abbyy/products/)
 
@@ -164,5 +164,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[New] In 2024, Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-streamcatcher-pro-for-facebook-videos-for-2024/"><u>[Updated] StreamCatcher Pro for Facebook Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-8-photo-montage-synthesizer-online/"><u>2024 Approved Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726227402067-ogg-mp4/"><u>移動維威 OGG 至 MP4 自由下載版：在線無限制大型視頻格式切換器</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-sound-glitch-on-pc-heres-how-to-solve-it/"><u>Black Ops: Cold War Sound Glitch on PC? Here's How to Solve It!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/effortless-pc-sound-logging-with-x-recorder-software/"><u>Effortless PC Sound Logging with X-Recorder Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A54 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-oppo-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo unlock screen</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-12-proplus-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme 12 Pro+ 5G</u></a></li>
+</ul></div>
 

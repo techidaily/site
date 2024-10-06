@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Site with the Power of Cookiebot Technology
-date: 2024-09-21T03:30:38.267Z
-updated: 2024-09-24T07:07:01.774Z
+date: 2024-10-03T17:19:42.012Z
+updated: 2024-10-06T06:58:27.471Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6568a394f73588c2742e16d9523df01c904b1fdda9dafd1cdce19ffb2049db40.jpg
@@ -29,22 +29,15 @@ Three things attracted me to ABBYY: people, culture, technologies. ABBYY is an a
 
 I am Director of Customer Success North America and am based 30 miles from Boston, Massachusetts. Customer Success means going above and beyond for our clients. Our goal is to make sure that customers have a great experience with ABBYY’s products and services. Helping customers, seeing their success and how thankful they are—these are the most exciting parts of my job.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What was your previous experience before ABBYY?
 
 I’ve been with ABBYY since 2004, so basically, I ‘grew up’ professionally here. I started at an ABBYY office in Eastern Europe and later, when my family moved to the USA, I continued my career with the company. In a previous position, as a Technical Product Marketing Manager for the software development kit (SDK) team, I was responsible for technical product marketing activities for ABBYY FineReader. Prior to that, I was a Technology Licensing Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Your top advice to someone working in your field?
@@ -64,24 +57,24 @@ As a family we hiked to the top of the two tallest peaks in the White Mountains�
 ![two children and two adults family at Mt. Washington summit](https://static1.abbyy.com/abbyycommedia/34361/larysalototska-mount.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 My two other hobbies are more relaxing. I absolutely love egg painting using old beeswax and color dyeing techniques. It’s an art called "pysanka" in Ukraine. I also love embroidery, mainly cross stitching. I decorate traditional Ukrainian clothes and make embroidery pictures.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### If you had one wish come true, what would it be?
 
 I lost my mom to a very aggressive and untreatable cancer. If I had one wish, it would be to create a magic pill to cure any kind of cancer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What’s your pet peeve?
 
@@ -94,6 +87,13 @@ It also bothers me when I hear anyone say, “I do not know how to do this”. W
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -156,5 +156,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/igures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[New] Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-spectacular-time-lapses-with-gopro-hero5-black/"><u>[New] In 2024, Crafting Spectacular Time-Lapses with GoPro Hero5 Black</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-network-live-broadcasts-via-vlc-for-2024/"><u>[New] Mastering Network Live Broadcasts via VLC for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>2024 Approved The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dispelling-fears-no-decline-in-chatgpt-smarts/"><u>Dispelling Fears: No Decline in ChatGPT Smarts</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-cursor-vanishing-issues-in-windows-11-a-complete-guide/"><u>Resolving Mouse Cursor Vanishing Issues in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-lava-yuva-3-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-nokia-xr21-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Nokia XR21</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo</u></a></li>
+</ul></div>
 

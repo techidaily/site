@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Cognitive Abilities: Smart Training Techniques on the ABBYY Blog"
-date: 2024-09-20T05:57:51.881Z
-updated: 2024-09-24T01:34:23.634Z
+date: 2024-09-29T16:23:52.351Z
+updated: 2024-10-06T08:49:38.411Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
@@ -20,10 +20,10 @@ June 28, 2018
 As artificial intelligence (AI) weaves itself into every aspect of production and services, it is time to consider how business could leverage this technology to analyze their massive datasets and drive better business outcomes. We spoke with Dr. Ivan P. Yamshchikov, AI Evangelist at ABBYY about the opportunities and challenges of training AI systems and how they are impacting business outcomes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Q. Why is it important to train AI systems?
@@ -31,10 +31,10 @@ As artificial intelligence (AI) weaves itself into every aspect of production an
 **IY.** AI systems are assuming increasing importance in all spheres of life. Just to give some examples, AI algorithms assist steel manufacturing, because it makes the production cheaper and safer for environment. AI-based voice recognition is developed so that drivers are not glued to the screens while driving. And, AI is used in the search-engines since you simply cannot effectively handle the massive amount of information on the web in any other way. ABBYY specifically develops AI-solutions to optimize business processes. Our AI helps to reduce bureaucracy, saves time that people spend working with documents and, at the end of the day, makes people more productive and happier. I can tell you that, most of the time when an office-worker "hates his job" it is because the task he performs is repetitive, and involves documents. We use AI to minimize that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Q. Is knowledge of programming/code writing required in order to train a machine learning system?
@@ -45,13 +45,6 @@ As artificial intelligence (AI) weaves itself into every aspect of production an
 
 **IY.** There are two big families of algorithms: supervised, that use labelling, and unsupervised, that don't. For example, clustering is a typical example of an unsupervised family of algorithms. Lets say you have several types of documents with different visual layouts, such as invoices or bills. With machine vision technologies, ABBYY FlexiCapture can classify and sort these different documents automatically. Since visual layout is varies according to different types of documents, you can use an unsupervised method and you do not need human labelling. However, if we talk about automated fraud detection or analysis of a contract for compliance, you have to have a dataset of hand-marked examples to train your AI on it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Q. Are some datasets easier to tag than others?
 
 **IY.** There are lots of factors that play a role. Generally, the higher the level of human expertise needed to tag certain dataset, the harder and more costly it is. If you have 1 Gb of cats and dogs photos and you want to tag manually, it should be relatively easy. If you have 1 Gb of Japanese manga and you want to tag all the pictures that have adjectives in the lines of the characters, that is way harder to pull off.
@@ -61,15 +54,22 @@ As artificial intelligence (AI) weaves itself into every aspect of production an
 **IY.** In a sense, it is. However, we usually talk about labelling or tagging if it is manual and use words clustering or classification when this is performed automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Q. Does one need huge amount of datasets to train Machine Learning systems?
 
 **IY.** You have to have data to train a model from scratch, but it does not necessarily mean that you need a lot of data to use certain AI-powered product. For example, we have advanced NLP algorithms in ABBYY that could be used for extensive document analysis. To develop these algorithm, we had to work with huge corpora of texts in every language, so that now business can have access to this NLP system and apply it to their datasets. Each of our clients would have to use years of research and developments and tons of data to get the same NLP technology on their own. The good news is that they can use ours for a fraction of that cost.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Q. Which ABBYY technologies rely heavily on ML technology?
 
@@ -138,5 +138,16 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-5-zoom-transcribing-tools-free-and-paid-options/"><u>[New] In 2024, Top 5 Zoom Transcribing Tools Free & Paid Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-balancing-volume-levels-in-obs-streaming-for-2024/"><u>[Updated] Balancing Volume Levels in OBS Streaming for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peak-visionary-workspace-appraisal/"><u>[Updated] Peak Visionary Workspace Appraisal</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-setup-instructions-for-downloading-the-epson-wf-3640-driver-windows-version/"><u>Complete Setup Instructions for Downloading the Epson WF-3640 Driver (Windows Version)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-digest-regain-missing-mobile-memories/"><u>Data Digest: Regain Missing Mobile Memories</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f14-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F14 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-p55plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel P55+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-xlsx-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xlsx files Online for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-09-29T00:01:41.044Z
-updated: 2024-09-30T18:12:58.242Z
+date: 2024-09-30T10:06:27.881Z
+updated: 2024-10-06T11:22:25.252Z
 tags:
   - web
 categories:
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make Your Search Results Fabulous With “Legally Blonde”
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Recreate the Burn Book From “Mean Girls”
 
  “Mean Girls” is another classic that has been blessed with its own Google Easter egg. In the movie, the girls have a pink journal called the "Burn Book" where they write mean things about their classmates. Google plays off this by letting you create your very own Burn Book right there in search.
@@ -77,7 +70,27 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A transparent pink background with kiss and scribble designs on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-transparent-pink-background-with-kiss-and-scribble-designs-on-it.png) 
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Kick-Start the Cordyceps Infection From “The Last of Us”
 
@@ -88,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
@@ -100,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google search results for 'war in Ba Sing Se'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-google-search-results-for-war-in-ba-sing-se.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
 
 ##  Fill up Your Coin Purse With “Super Mario Bros”
@@ -107,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Another game-turned-movie whose Easter egg you should check out is Super Mario Bros. Searching for **Super Mario** or **Super Mario Bros** brings up a mystery block, and clicking it earns you coins, just like in the [iconic retro game](https://vp-tips.techidaily.com/updated-2024-approved-pixels-of-laughter-mobile-apps-transform-images/). It pays to keep clicking too, as every hundred clicks, you get rewarded with the sweet sound of an extra mushroom. 
 
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Solve Time Travel Puzzles With “Doctor Who”
 
@@ -125,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Unleash the Force With Baby Yoda From “The Mandalorian”
 
  These days, there's a lot of debate about the quality of the new Star Wars series, but I think "The Mandalorian" gets a pass simply for introducing us to the adorableness that is Baby Yoda.
@@ -140,20 +146,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Turn Half Your Search Results to Dust With Thanos’ Snap
@@ -175,13 +174,20 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Travel to the World of Oz
 
@@ -214,19 +220,19 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-iphone-saving-insta-pics-and-videos/"><u>[New] In 2024, IPhone Saving Insta Pics and Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-blending-images-and-audio-for-dynamic-videos-for-2024/"><u>[Updated] Blending Images and Audio for Dynamic Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-engagement-through-effective-video-strategies-on-fb-for-2024/"><u>[Updated] Enhancing Engagement Through Effective Video Strategies on FB for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-immersive-fb-video-experienenas/"><u>[Updated] In 2024, A Step-by-Step Guide to Crafting Immersive FB Video Experienenas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-channel-upgrade-marking-chapters-in-youtube-video-files/"><u>2024 Approved Channel Upgrade Marking Chapters in YouTube Video Files</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-thrifty-choices-for-virtual-reality-heads/"><u>2024 Approved Thrifty Choices for Virtual Reality Heads</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-realme-gt-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme GT 5 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-12-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 12 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-sony-xperia-10-v-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Sony Xperia 10 V Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-13-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 13 Suddenly | Stellar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-infinix-smart-8-hd-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Infinix Smart 8 HD</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-insiders-trick-for-automatic-and-smooth-youtube-video-replays/"><u>[New] 2024 Approved The Insider's Trick for Automatic and Smooth YouTube Video Replays</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-clash-challenge-obs-meets-shadowgl/"><u>[Updated] Capture Clash Challenge OBS Meets ShadowGL</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cyclings-apex-titles-for-gamers-for-2024/"><u>[Updated] Cycling's Apex Titles for Gamers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-build-a-career-in-graphic-design/"><u>[Updated] How to Build A Career In Graphic Design</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-tools-for-image-transformation-framecraft-pro/"><u>[Updated] Premier Tools for Image Transformation FrameCraft Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-life-to-slides-adding-audio-effectively-powerpoint-for-2024/"><u>Bringing Life to Slides Adding Audio Effectively (PowerPoint) for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic-6-lite-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic 6 Lite in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-huawei-nova-y91-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Huawei Nova Y91 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-30i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 30i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streaming-sounds-into-your-social-story-arcs/"><u>Streaming Sounds Into Your Social Story Arcs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synergy-strategies-for-ig-and-tiktok-for-2024/"><u>Synergy Strategies for IG & TikTok for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-google-pixel-8-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Google Pixel 8 Pro</u></a></li>
 </ul></div>
 

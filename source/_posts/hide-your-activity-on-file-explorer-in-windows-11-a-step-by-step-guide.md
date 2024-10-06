@@ -1,7 +1,7 @@
 ---
 title: "Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide"
-date: 2024-09-28T03:29:12.951Z
-updated: 2024-10-01T01:10:57.749Z
+date: 2024-09-29T21:08:10.954Z
+updated: 2024-10-06T11:22:57.452Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,19 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 * [Stop Windows From Keeping Recent Items History](https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/)
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To manually remove recently accessed items from File Explorer, select the items you wish to delete, right-click, and select "Remove From Recent."
@@ -26,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Manually Remove Recently Accessed Items
@@ -42,18 +55,18 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Removing a recently accessed folder from the File Explorer's Jump List.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-removing-a-recently-accessed-folder-from-the-file-explorer-s-jump-list.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It's important to note that removing items in this way only removes them from the Recent section in File Explorer and the jump list; they will remain intact in the Recent Items folder, where the record is stored. If you want to ensure others don't know what files and folders you've accessed, remove them from there as well.
 
  To do so, press Win+R, type **%AppData%\\Microsoft\\Windows\\Recent\\** into the run box and click "OK." This will open the Recent Items folder.
 
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
 
@@ -66,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  Navigate to the "General" tab in the Folder Options window and uncheck the boxes next to "Show Recently Used Files" and "Show Frequently Used Folders." Click "Apply" and then "OK."
 
 ![Disabling privacy features in the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-privacy-features-in-the-folder-options-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the above process stops Windows from displaying recently accessed items in the Recent section of File Explorer, it will still record them in the Recent Items folder. This means that anyone using your PC can still view those records. So, what's the best way to maintain the privacy of this data?
 
@@ -88,16 +94,16 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
 ![Clearing File Explorer history from the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-clearing-file-explorer-history-from-the-folder-options-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By doing so, you will erase all the information, and File Explorer will start recording new actions from scratch, ensuring your privacy. Besides clearing your history, you can [customize many other settings](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) in Windows 11 to protect your privacy.
 
@@ -116,21 +122,17 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-instructions-on-capturing-streamed-dialogues/"><u>[New] In 2024, Instructions on Capturing Streamed Dialogues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-tips-for-successful-snapchat-branding/"><u>[Updated] Step-by-Step Tips for Successful Snapchat Branding</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-guide-to-7-superior-vids-on-mac/"><u>[Updated] Ultimate Guide to 7 Superior Vids on Mac</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/convenient-repair-steps-for-mtp-drivers/"><u>Convenient Repair Steps for MTP Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-copy-and-convert-software-for-macos-best-alternatives-to-dvdfab/"><u>DVD Copy and Convert Software for macOS: Best Alternatives to DVDFab</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-g54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola G54 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-stellar-photo-alterations-frameshift-prowess/"><u>In 2024, Stellar Photo Alterations FrameShift Prowess</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-11-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-strategies-for-in-depth-nba-game-watching/"><u>Top Strategies for In-Depth NBA Game Watching</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/transform-your-love-game-top-tips-for-irresistible-tinder-profiles/"><u>Transform Your Love Game Top Tips for Irresistible Tinder Profiles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-gadgets-insights-from-toms-hardware-experts/"><u>Ultimate Guide to Gadgets: Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-vivo-s18-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Vivo S18 Pro</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-hot-40i-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Hot 40i fingerprint</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-power-up-revenue-choose-the-best-15-facebook-insights-for-sale-boosting-for-2024/"><u>[Updated] Power Up Revenue Choose the Best 15 Facebook Insights for Sale Boosting for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps/"><u>[Updated] Unveiling Hidden Potential A Deep Dive Into Background Eraser in PS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-personalized-storytelling-on-snapchat/"><u>2024 Approved Crafting Personalized Storytelling on Snapchat</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-windows-10-missing-coprocessor-driver-problem-today/"><u>Fix Your Windows 10 Missing Coprocessor Driver Problem Today</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-se-2022-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone SE (2022) to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fix-shaky-gopro-videos/"><u>In 2024, How to Fix Shaky GoPro Videos</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-12t-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 12T Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-pixel-7a-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Pixel 7a</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-most-effective-screen-recorders-in-education/"><u>The Most Effective Screen Recorders in Education</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-xiaomi-mix-fold-3-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Xiaomi Mix Fold 3</u></a></li>
 </ul></div>
 

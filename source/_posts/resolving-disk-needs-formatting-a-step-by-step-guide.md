@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Disk Needs Formatting' - A Step-by-Step Guide
-date: 2024-09-17T09:55:03.076Z
-updated: 2024-09-24T08:30:26.205Z
+date: 2024-09-30T18:59:48.107Z
+updated: 2024-10-05T18:37:12.738Z
 tags:
   - win11
   - win10
@@ -43,24 +43,24 @@ Easy Steps for PS4 Remote Play Android devices !
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d99baced20.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then you can successfully enable the remote play feature in your PS4.
 
 ## **Step 2: Download the remote play app in your Android device**
 
  After setting up the PS4 setting, you’ll need to configure settings in your Android device. First of all you need to download the application, and then you further set up the connection after installing the application. Follow the instructions below:
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Configure the settings in your Android device
 
@@ -71,19 +71,19 @@ Then you can successfully enable the remote play feature in your PS4.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d6be6294fc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now your Android device is allowed to download and install applications without the Google Store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Download and install the remote play application in your Android device
@@ -100,18 +100,18 @@ Then you can successfully enable the remote play feature in your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d6a5c0e1b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4)**Sign into your PlayStation account** in the application, then it will connect automatically.
 
  After successfully connected, you can stream the screen on your PS4 to your Android phone now, and you can see the screen in different views by rotating your phone.
 
  If you have a DualShock controller, and you would like to manage your PS4 screen on the Android device by the controller, keep on reading the next step to set it up.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 3: Connect the PS4 controller with your Android device**
 
@@ -130,16 +130,16 @@ Then you can successfully enable the remote play feature in your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4f4bd79face.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to**Settings** \>**Bluetooth** on your Android device, and**turn on Bluetooth** in your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5dae28187b1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Find the**Wireless Controller** on the Bluetooth page in**Available devices** , tap the device to**connect** . (If you don’t see your PS4 controller in the available device section,**refresh** the page to search for the**nearby devices** , and select your controller to connect when it comes up.)
 
@@ -177,5 +177,19 @@ Then you can successfully enable the remote play feature in your PS4.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-app-investigation-via-az-screen-recorder/"><u>[Updated] 2024 Approved In-Depth App Investigation via AZ Screen Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mastering-nvidia-professional-screen-recording/"><u>[Updated] 2024 Approved Mastering NVIDIA Professional Screen Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-ios-compatible-ps2-software/"><u>[Updated] In 2024, Ultimate iOS Compatible PS2 Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screencast-success-stories-lessons-from-industry-experts-for-2024/"><u>[Updated] Screencast Success Stories Lessons From Industry Experts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-play-how-to-restore-audio-in-cyberpunk-2077-on-windows-11/"><u>Fixing Silent Play: How to Restore Audio in Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-smart-guide-to-procuring-premium-image-banners/"><u>In 2024, The Smart Guide to Procuring Premium Image Banners</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-motorola-razr-40-ultra-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Motorola Razr 40 Ultra.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 11 | Dr.fone</u></a></li>
+</ul></div>
 

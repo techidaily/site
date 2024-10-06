@@ -1,7 +1,7 @@
 ---
 title: "AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude"
-date: 2024-09-25T06:58:40.800Z
-updated: 2024-10-01T01:53:52.199Z
+date: 2024-10-05T01:41:46.435Z
+updated: 2024-10-06T15:16:21.830Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Though ChatGPT is the world's most popular AI chatbot, there are plenty of great alternatives out there, including Perplexity and Claude. But what do each of these three AI chatbots offer, and which is best for you?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  ChatGPT vs. Claude vs. Perplexity: A Quick Comparison
 
  It's important to understand the basics of ChatGPT, Claude, and Perplexity before we get into the deeper details. Note that we'll be comparing ChatGPT and Perplexity to Claude 2.1, the newest version of Claude that replaced its predecessor.
@@ -33,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Now, let's dive into the specifics of these three AI chatbot tools.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  1\. LLMs Used
 
 ![The ChatGPT Official App logo on the sign in page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/50aa3c08.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -56,13 +63,6 @@ Hannah Stryker / How-To Geek
 
  The Pro version gives you access to GPT-4 and Claude, too. It's important to note that there is no original Perplexity LLM. The platform uses preexisting LLMs, not its own.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Availability and Price
 
  ChatGPT is available in most countries worldwide, though it has been banned in North Korea, China, Iran, Cuba, Syria and Nepal. You can use ChatGPT for free, which gives you access to GPT-3.5, or you can use [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/). This premium version gives you access to OpenAI's latest LLM version, GPT-4, for $20 monthly.
@@ -71,16 +71,16 @@ Hannah Stryker / How-To Geek
 
  Perplexity is available in most countries worldwide, though it is not available in the EU. Perplexity's free version gives you access to GPT-3.5 and the Copilot search feature, while Perplexity Pro also gives you access to GPT-4 and Claude, and gives you more usage for Copilot, for $20 monthly or $200 annually.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Token Limits
 
 ![A person texting on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53216035228_58695ed0f7_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -93,10 +93,10 @@ Hannah Stryker / How-To Geek
  Unfortunately, Perplexity's official token limits for its chatbots are yet to be published at the time of writing. However, Perplexity's token limit for Copilot searches alone is 2,000 tokens. Perplexity's basic version also only allows five Copilot requests every four hours. If you upgrade to Perplexity Pro, this shoots up to over 300 requests per day.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Data Accuracy and Hallucinations
@@ -111,6 +111,13 @@ Hannah Stryker / How-To Geek
 
  ChatGPT has shown that it can hallucinate in the past, as discussed in an [NCBI study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/). Anthropic has also stated [on its own website](https://docs.anthropic.com/claude/docs/claude-is-hallucinating) that Claude can hallucinate. Therefore, whether you're using Claude or one of the GPT versions on Perplexity, it's important to remember that hallucination is possible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. Conversational Abilities
 
  LLMs are designed to interact with users in a human-like manner. This involves understanding context and nuance, keeping up with additional prompts or parameters, and responding with natural language. So, how do ChatGPT, Claude, and Perplexity measure up here?
@@ -123,18 +130,18 @@ Hannah Stryker / How-To Geek
 
 ![screenshot of chatgpt prompt response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-response-job.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT gave a longer response with more bullet points and information. The language was very conversational and natural.
 
  Here are the results from Claude:
 
 ![Screenshot of Claude's response to an interview advice request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-job-request.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Though Claude gave a shorter response, the language used was just as conversational and natural as that provided by ChatGPT.
 
@@ -182,29 +189,28 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Claude's response to an algebraic problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-math-problem.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Claude also gave the correct answer, along with the solution process.
 
  Finally, we got the below response from Perplexity:
 
 ![Screenshot of Perplexity's response to algebraic equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-math-response.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perplexity also gave the correct answer, as well as the solution process.
 
  It's important to note that no AI chatbot should be totally trusted with math equations, as they do have room for error. Check out our piece on [why you shouldn't use ChatGPT for mathematics](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/) to learn more.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Choosing an AI Chatbot Can Be Challenging
 
@@ -225,18 +231,15 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-science-of-visual-appeal-crafting-stunning-youtube-shorts-templates/"><u>[Updated] The Science of Visual Appeal Crafting Stunning YouTube Shorts Templates</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-di-immagini-dpx-a-tiff-online-utilizzando-movavi-scopri-come/"><u>Conversione Gratuita Di Immagini DPX a TIFF Online Utilizzando Movavi - Scopri Come!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/demystifying-copyright-policies-for-your-instagram-playlist-for-2024/"><u>Demystifying Copyright Policies for Your Instagram Playlist for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-download-and-update-drivers-for-your-hp-officejet-pro-8720-using-windows-devices/"><u>Easy Steps to Download and Update Drivers for Your HP Officejet Pro 8720 Using Windows Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-initial-video-setbacks-in-zoom-sessions/"><u>Expert Tips to Overcome Initial Video Setbacks in Zoom Sessions</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-vip-racing-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 VIP Racing Edition Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-file-error-data-may-have-been-lost-by-stellar-guide/"><u>Solved - Excel File Error Data may have been Lost</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-14-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 screen lock without password</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-beginners-guide-to-crafting-trendy-mac-video-content/"><u>[Updated] Beginner's Guide to Crafting Trendy Mac Video Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unleashing-your-viewing-experience-screen-recording-solutions/"><u>[Updated] Unleashing Your Viewing Experience Screen Recording Solutions</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/convert-your-favorite-youtube-videos-to-high-quality-mp3-files-at-320kbps-for-mac-and-windows-users/"><u>Convert Your Favorite YouTube Videos to High-Quality MP3 Files at 320Kbps - For Mac & Windows Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/amers-and-casters-to-subscribe-now-in-2024/"><u>Pro Gamers & Casters to Subscribe Now, In 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-find-x7-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo Find X7.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlocking-potential-effective-use-of-zoom-on-win11-pcs-for-2024/"><u>Unlocking Potential Effective Use of Zoom on Win11 PCs for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-nokia-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Nokia ?</u></a></li>
 </ul></div>
 

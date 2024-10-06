@@ -1,7 +1,7 @@
 ---
 title: "1. Monitoring PC Heat: A Guide to Measuring CPU Temperatures in Windows 11"
-date: 2024-09-29T05:20:36.568Z
-updated: 2024-10-01T02:46:45.762Z
+date: 2024-10-01T05:09:38.431Z
+updated: 2024-10-06T10:15:29.406Z
 tags:
   - deals
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 [Think your PC's CPU gets too hot](https://ios-unlock.techidaily.com/locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-by-drfone-ios/), but not sure exactly what temperature it reaches? Using a built-in method and a few free third-party apps, you can quickly and easily find out the processor temp of your Windows 11 PC. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Using BIOS/UEFI
 
  One built-in method to find your CPU's temp on some computers is by using your machine's [UEFI](https://twitter-videos.techidaily.com/updated-expert-tips-for-twitter-video-interactions/) menu, often referred to as the [BIOS](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/). This menu displays various information about your system, sometimes including your processor's temperature.
@@ -35,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
  That said, if you'd like to try using this method, open your Windows 11 PC's Settings app by pressing Windows+i. From the left sidebar, select "System." On the right pane, choose "Recovery."
 
 ![Select System > Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/1-windows-recovery-menu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the "Recovery" page, next to "Advanced Startup," click "Restart Now." Then, in the open prompt, select "Restart Now."
 
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ![View the CPU temperature in Core Temp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/4-core-temp-cpu-temperature.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The temp numbers are constantly updating, as your CPU's temp keeps fluctuating.
@@ -79,16 +79,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ![Access the CPU temperature in the system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/5-core-temp-system-tray.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using Speccy to Check CPU Temperature
@@ -105,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![View each CPU core temp with Speccy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/7-speccy-cpu-core-temp.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Using Open Hardware Monitor
 
  Open Hardware Monitor is a free and [open-source app](https://facebook-videos.techidaily.com/new-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/) that you can use to check your CPU's temperature as well as find other information about your PC components.
@@ -116,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ![Choose &quot;Run as Administrator&quot; in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/8-run-open-hardware-monitor-as-admin.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the "User Account Control" prompt, select "Yes."
@@ -129,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ![See the CPU temp in Open Hardware Monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/9-open-hardware-monitor-cpu-temp.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The app also displays other useful information, like the temperature of your hard drive or SSD drive.
@@ -143,18 +144,18 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![Select "Sensors-only" and then click "Start."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll through the list of the devices until you see "CPU" related terms. It'll show you the current temperature in addition to the minimum and maximum temperature.
 
 ![Look for the section relating to your CPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-4.png) 
 
 ##  Frequently Asked Questions
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  What's a normal temp for my CPU?
 
@@ -163,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ###  What's the maximum temperature for a CPU?
 
  The maximum CPU temperature varies by the CPU model you have. You can use a free app like Speccy to find out the maximum recommended temp for your specific processor. Generally speaking, Intel CPUs max out around 100 degrees Celsius, and AMD CPUs at 90 degrees Celsius.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How do you reduce a CPU's temperature?
 
@@ -190,16 +184,21 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-leapfrog-content-management-from-youtube-to-dailymotion-effortlessly/"><u>[Updated] 2024 Approved Leapfrog Content Management From YouTube to Dailymotion Effortlessly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-tailoring-your-viewing-experience-with-youtube-tv-for-2024/"><u>[Updated] Tailoring Your Viewing Experience with YouTube TV for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-10-activity-history/"><u>How to View and Clear the Windows 10 Activity History</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-solutions-for-when-your-samsung-smart-switch-fails-to-operate/"><u>Step-by-Step Solutions for When Your Samsung Smart Switch Fails to Operate</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-complete-checklist-15-vital-tips-to-resolve-common-iphone-issues/"><u>The Complete Checklist: 15 Vital Tips to Resolve Common iPhone Issues</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo password or pattern lock</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-voip-platforms-face-off-discord-vs-skype-showdown/"><u>[Updated] 2024 Approved Top VoIP Platforms Face-Off Discord Vs Skype Showdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-words-use-at-zero-expense/"><u>[Updated] Capture Words, Use at Zero Expense</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-x-sync-studio-platform-personal-computing/"><u>[Updated] In 2024, X-Sync Studio Platform, Personal Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-payment-for-publishing-consumer-based-merchandise-viewpoints/"><u>2024 Approved Payment for Publishing Consumer-Based Merchandise Viewpoints?</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-asus-rog-phone-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Asus ROG Phone 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/elite-english-footballers-refuse-online-engagement-in-anti-harassment-stance/"><u>Elite English Footballers Refuse Online Engagement in Anti-Harassment Stance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-87-fixing-the-parameter-is-incorrect-in-loadlibrary-issues/"><u>Error Code 87: Fixing 'The Parameter Is Incorrect' In LoadLibrary Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-moto-e13-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Moto E13 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y200e-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y200e 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-leap-in-ai-desired-upgrades-for-gpt/"><u>The Next Leap in AI: Desired Upgrades for GPT-</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-se-2022-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone SE (2022) screen lock</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/transform-your-stories-6-premier-apps-for-snapchat-filters-for-2024/"><u>Transform Your Stories 6 Premier Apps for Snapchat Filters for 2024</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor X7b</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
 

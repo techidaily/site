@@ -1,7 +1,7 @@
 ---
 title: "Top ABBYY Papers : Innovations in Smart Process Automation"
-date: 2024-09-22T19:11:38.249Z
-updated: 2024-09-24T02:42:55.943Z
+date: 2024-09-30T00:33:50.791Z
+updated: 2024-10-05T19:28:29.945Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f1438428a2471f9b4a0fdcaefb.jpg
@@ -27,20 +27,27 @@ Healthcare Global featured our big announcement of the [ABBYY Marketplace](https
 
 [Read the article](https://healthcareglobal.com/technology-and-ai-3/abbyys-new-no-code-ai-technology-could-be-gamechanger)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. ABBYY Blog**: Amidst the Great Resignation, 52% of employees believe AI skills will make their job easier, according to ABBYY survey
 
 ![the great resignation and document challenges](https://static1.abbyy.com/abbyycommedia/35211/news-artificialintelligence-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Employees want to feel empowered through work that matters, such as building meaningful customer relations, rather than spending time manually searching for information. Yet, the inability to access data in documents is leading to delays in completing processes, increased manual handling, errors and poor customer experience. Read what 4,000 respondents worldwide said are their document challenges and how no-code Intelligent Document Processing and document skills can make working with documents easier, and happier employees.
 
 [Read the article](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. CMSWire**: ABBYY Reaffirms Its Digital Transformation Cred & More News
 
@@ -56,13 +63,6 @@ While technology is quickly changing the nature of business, its investment proc
 
 [Read the article](https://bit.ly/3lH8Mmt)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Supply & Demand Chain Executive**: AP Automation: The Key to Long-Term Financial Health in the Supply Chain
 
 This article highlighted to supply chain leaders the reasons why accounts payable (AP) automation hasn’t been completed, including fear of taking on the project, loss of control, not having the IT staff to carry it out, and integrating with current systems. We explain how they can make a business case for AP automation, how to select the right technology, and how to measure its ROI.
@@ -70,10 +70,10 @@ This article highlighted to supply chain leaders the reasons why accounts payabl
 [Read the article](https://www.sdcexec.com/sourcing-procurement/article/21366306/abbyy-ap-automation-the-key-to-longterm-financial-health-in-the-supply-chainAP Automation: The Key to Long-Term Financial Health in the Supply Chain)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **6\. KMWorld**: KMWorld Readers’ Choice Award 2021 Winners
@@ -89,10 +89,10 @@ _Tom Hogan, Group Publisher at KMWorld_
 [Process Mining](https://tools.techidaily.com/abbyy/products/) [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Artificial Intelligence (AI)](https://www.abbyy.com/blog/artificial-intelligence-ai/ "Artificial Intelligence (AI)") [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Intelligent Automation](https://tools.techidaily.com/abbyy/products/) [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") [Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -156,5 +156,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-what-experts-say-optimizing-your-4k-lens-selection-process/"><u>[New] In 2024, What Experts Say Optimizing Your 4K Lens Selection Process</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-reel-into-reality-how-boomers-keep-ig-audiene-hooked/"><u>[New] Reel Into Reality How Boomers Keep IG Audiene Hooked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unpacked-strategies-for-optimal-viewing-of-live-videos-for-2024/"><u>[New] Unpacked Strategies for Optimal Viewing of Live Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-best-free-cloud-based-video-editing-tools/"><u>[Updated] The Best Free, Cloud-Based Video Editing Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-building-your-ideal-everyday-carry-for-summer/"><u>Expert Tips: Building Your Ideal Everyday Carry for Summer</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro iOS System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-screen-reporter-tech-boosting-youtubing-experience/"><u>Ideal Screen Reporter Tech Boosting YouTubing Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-x100-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo X100 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-excel-2023-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2023 Online for Free</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-find-x6-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Find X6 Pro</u></a></li>
+</ul></div>
 

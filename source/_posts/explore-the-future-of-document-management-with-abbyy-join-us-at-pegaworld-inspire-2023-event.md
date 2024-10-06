@@ -1,7 +1,7 @@
 ---
 title: Explore the Future of Document Management with ABBYY - Join Us at PegaWorld Inspire 2023 Event
-date: 2024-09-18T20:11:29.536Z
-updated: 2024-09-23T20:39:38.073Z
+date: 2024-10-03T22:22:14.459Z
+updated: 2024-10-05T21:52:21.350Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9ffa9ec58a8ecda669ea9207.jpg
@@ -38,10 +38,10 @@ Using Pega in tandem with [intelligent document processing](https://tools.techid
 Enhance Pega’s intelligence with ABBYY’s low-code no-code AI-based platform and see how pre-built AI models improve user productivity. Download the [ABBYY Vantage Connector for Pega](https://tools.techidaily.com/abbyy/products/) to reimagine your workflow automation with ABBYY intelligent document processing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are you attending PegaWorld in Las Vegas?
@@ -54,6 +54,13 @@ Schedule a meeting with ABBYY. We look forward to seeing you at PegaWorld iNspir
 
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bruce Orcutt
 
 Senior Vice President of Product Marketing at ABBYY
@@ -63,32 +70,25 @@ Bruce Orcutt is a veteran Product Marketing and Product Management professional 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Like, share or repost
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Related posts
 
 ![](https://static1.abbyy.com/abbyycommedia/37736/idp-scheme-848x444-b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [What Is Intelligent Document Processing, and How Does It Work?](https://tools.techidaily.com/abbyy/products/) 
@@ -150,5 +150,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-master-downloader-facebook-and-firefox-integration/"><u>[New] In 2024, Master Downloader Facebook & FireFox Integration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] In 2024, Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-cloning-made-simple-with-winx-dvd-copy-pro-convert-to-dvd-format-or-iso/"><u>DVD Cloning Made Simple with WinX DVD Copy Pro – Convert to DVD Format or ISO</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Xiaomi Redmi Note 12 Pro 4G ?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-a60s-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel A60s phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-external-monitor-setup-without-sluggishness/"><u>Navigate Through External Monitor Setup Without Sluggishness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>Prime Choices in Cinema Cameras From Newbies to Professionals</u></a></li>
+<li><a href="https://techidaily.com/sign-dot-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dot file Online for Free</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-redmi-k70-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi Redmi K70</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c12-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia C12 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-content-authors-should-think-twice-before-trusting-ai-chatbots-8-key-reasons/"><u>Why Content Authors Should Think Twice Before Trusting AI Chatbots: 8 Key Reasons</u></a></li>
+</ul></div>
 

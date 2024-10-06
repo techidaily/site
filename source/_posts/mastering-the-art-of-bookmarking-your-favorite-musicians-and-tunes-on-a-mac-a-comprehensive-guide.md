@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Bookmarking Your Favorite Musicians & Tunes on a Mac: A Comprehensive Guide"
-date: 2024-09-27T22:30:26.413Z
-updated: 2024-09-30T18:39:07.439Z
+date: 2024-09-29T13:28:56.241Z
+updated: 2024-10-06T00:08:53.879Z
 tags:
   - desktop
 categories:
@@ -22,40 +22,26 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
  Have you ever got hooked on a song that you wanted to revisit later without necessarily adding it to your library? The Music app on your Mac lets you mark tracks, albums, artists, and playlists as your favorites—doing so lets you quickly find them and influence future recommendations.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Favorite an Artist in Music for Mac
 
  Click the "Artists" section in the sidebar, select an artist in the next column, and press the star icon to the right of their name. Alternatively, click the ellipsis and select "Favorite."
 
 ![Marking an artist as favorite in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-artists-selected-favorite-star-icon-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you subscribe to Apple Music, you'll receive a notification when your favorite artists release new music. To [disable Music's new release alerts](https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-mix-fold-3-device-by-drfone-android/), go to Account > Notifications, uncheck "Artists and Shows", and click "Done."
 
 ![Disabling notifications for new releases from favorite artists in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-account-settings-notifications-artists-and-shows-option-selected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To browse all the artists you've marked as favorites in one place, select "Listen Now" in the sidebar, scroll to the bottom of the main pane, and click the "Favorite Artists" heading.
 
 ![Favorite playlists in Listen Now on Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-listen-now-section-selected-favorite-artists-heading-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Favorite a Song in Music for Mac
 
@@ -64,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![Favoriting a song in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-songs-selected-favorite-star-icon-highlighted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Can't see the star icon? Control-click any column heading and select the "Favorite" option to add the star column.
@@ -75,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  Alternatively, click the ellipsis next to the song and choose "Favorite."
 
 ![Marking a song as favorite in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-songs-selected-ellipsis-menu-favorite-option-highlighted.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you mark tracks as favorites, the Music app automatically adds them to the built-in "Favorite Songs" playlist, accessible from the sidebar. You cannot disable or delete this playlist from your library.
 
@@ -91,22 +70,29 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![Music for Mac settings with the option to add songs to the library when adding to favorites disabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-settings-advanced-tab-add-songs-to-library-when-adding-to-favorites-deselected.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Favorite an Album in Music for Mac
 
  Select "Albums" in the sidebar, then click the star icon below the artwork of the album you wish to favorite.
 
 ![The star icon next to an album in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-albums-selected-favorite-star-icon-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, hover over an album artwork, click the ellipsis, and choose "Favorite."
 
 ![Marking an album as favorite in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-albums-selected-ellipsis-menu-favorite-option-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  An album marked as a favorite is automatically added to your library. But don’t worry, you can remove it quickly: Control-click the album and select "Remove From Library."
 
@@ -121,10 +107,23 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![Marking a playlist as favorite in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-all-playlists-selected-ellipsis-menu-favorite-option-highlighted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Filter Your Music Library to Only Show Favorites
@@ -138,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  Whenever you see a highlighted star icon anywhere within Music, it indicates you've marked the item as a favorite.
 
 ![Music for Mac with Songs selected in the sidebar and tracks on the right, with some showing the favorites star icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-songs-selected-favorite-star-icon-visible.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, the tiny star icon is easy to miss. To help with that, consider [creating individual smart playlists](https://tech-revival.techidaily.com/how-to-successfully-obtain-anker-mouse-compatibility-drivers/) of your favorite artists, songs, and albums to access them quickly.
 
@@ -162,22 +168,18 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-breathing-life-into-images-mastering-face-motion-blur-in-picsart-for-2024/"><u>[Updated] Breathing Life Into Images Mastering Face Motion Blur in Picsart for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-exclusive-list-the-premier-gb-emulators-android/"><u>[Updated] Exclusive List The Premier GB Emulators, Android</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-video-content-with-proven-strategies-for-youtube-shorts-growth/"><u>[Updated] In 2024, Elevate Video Content with Proven Strategies for YouTube Shorts Growth</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-magic-vs-2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic Vs 2 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-s17-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo S17 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-elevate-your-tiktok-presence-with-innovative-pfps/"><u>In 2024, Elevate Your TikTok Presence with Innovative PFPs</u></a></li>
-<li><a href="https://ai-video.techidaily.com/in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972410165-maroon-5-their-modern-pop-rock-sound-has-many-feel-good-songs-such-as-sunday-morning-and-the-classic-this-love/"><u>Maroon 5 – Their Modern Pop-Rock Sound Has Many Feel-Good Songs Such as Sunday Morning and the Classic This Love</u></a></li>
-<li><a href="https://facebook.techidaily.com/masking-your-favorite-posts-with-precision-on-fb/"><u>Masking Your Favorite Posts with Precision on FB</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>New 2024 Approved How to Create a Video Slideshow with Final Cut Pro</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-poco-m6-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Poco M6 Pro 5G</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/toms-computing-hub-expert-reviews-and-buying-guides/"><u>Tom's Computing Hub: Expert Reviews & Buying Guides</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Google Pixel Fold.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-asus-rog-phone-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Asus ROG Phone 7 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-quick-guide-iphones-easiest-screen-recording-method/"><u>[Updated] 2024 Approved Quick Guide IPhone's Easiest Screen Recording Method</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jpgpng-images-transformation-iphones-pdf-creation-guide/"><u>[Updated] JPG/PNG Images Transformation IPhone's PDF Creation Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhanced-windows-10-update-process-faster-and-more-efficient-than-ever/"><u>Enhanced Windows 10 Update Process: Faster and More Efficient Than Ever</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s24plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S24+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x90s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X90S without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v30-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V30 phone? | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-transform-a-pdf-into-an-interactive-flash-book-with-paging-cues-and-audio-features-using-flipbuilder/"><u>How to Transform a PDF Into an Interactive Flash Book with Paging Cues & Audio Features Using FlipBuilder</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-13t-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi 13T Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-conflicts-easy-access-to-your-printer/"><u>Resolving Conflicts: Easy Access to Your Printer</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oneplus-nord-ce-3-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on OnePlus Nord CE 3 5G without backup.</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-mastering-lip-sync-explore-top-apps-for-dynamic-videos-for-2024/"><u>Updated Mastering Lip Sync Explore Top Apps for Dynamic Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/using-obs-with-zoom-the-easiest-steps/"><u>Using OBS with Zoom [The Easiest Steps]</u></a></li>
 </ul></div>
 

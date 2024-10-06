@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2024-09-25T00:02:37.986Z
-updated: 2024-09-30T18:53:23.459Z
+date: 2024-09-28T20:36:05.254Z
+updated: 2024-10-06T12:09:38.731Z
 tags:
   - desktop
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Additionally, you can animate text, create colorful ASCII text banners, and combine lolcat with cowsay for fun displays.
 
  Any Linux enthusiast will tell you all the fun takes place in the terminal. Unfortunately, the standard terminal text or output text from commands can often feel dull and boring. But not anymore. With the delightful lolcat tool, you can now change your terminal output into a colorful rainbow display.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is the lolcat Command?
 
@@ -65,6 +58,13 @@ sudo pacman -S lolcat
 
  Once you've installed lolcat, you're ready to use it and apply rainbow colors to your output text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  lolcat Command Options
 
  While the default lolcat behavior is already pretty awesome, there are a few options to tweak the output to your liking. For example, with these various flags, you can adjust the pattern of rainbow colors, modify the speed, and change a few other settings.
@@ -88,13 +88,6 @@ lolcat --help
 
 man lolcat
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Get Colored Terminal Output
 
  Now that you're familiar with the lolcat command and its options, let's see how you can use it to get colored terminal output. One of the easiest ways to use lolcat is to [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) of another Linux command through lolcat. For instance, if you want to colorize the output of the [ls command](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/), you can run this:
@@ -104,10 +97,16 @@ ls | lolcat
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
@@ -142,6 +141,26 @@ lolls
 
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Animate Your Text Using lolcat
 
  Why settle for static colors when you can animate them? One of the most entertaining features of lolcat is its ability to animate text, making it feel like the colors are dancing across your terminal. To animate the output, simply add the -a or --animate flag:
@@ -161,13 +180,6 @@ echo "Welcome to HTG" | lolcat --animate -d 500
 echo "Welcome to HTG" | lolcat --animate -s 5
 
  This command slows down the animation, giving you a more relaxed visual experience.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create Colorful ASCII Text Banner
 
@@ -191,18 +203,18 @@ figlet "Welcome to HTG" | lolcat
 
 ![Displaying ASCII text banner in rainbow colored format using figlet and lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also adjust the fonts used by figlet to create different styles of text. For example, to get the same previous banner with a different font, run this:
 
 figlet -f slant "Welcome to HTG" | lolcat
 
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make Things Interesting With cowsay
 
@@ -233,10 +245,10 @@ cowsay -f tux "Linux is cool" | lolcat
 ![Displaying a rainbow-colored tux in the terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tux-lolcat-cowsay.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tux has never looked so fabulous!
@@ -260,20 +272,17 @@ cowsay -f tux "Linux is cool" | lolcat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-unveiling-top-10-trending-tweets-of-2023/"><u>[New] Unveiling Top 10 Trending Tweets of 2023</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-content-expert-tips-on-facebook-video-playbacks/"><u>[Updated] 2024 Approved Elevate Your Content Expert Tips on Facebook Video Playbacks</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/digestible-vid-info-quick-start/"><u>Digestible Vid Info Quick Start</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-itel-a60-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel A60 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-razr-40-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Razr 40 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-g24-power-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola G24 Power to Mac? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-x100-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo X100 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oneplus-11-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from OnePlus 11 5G</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ling-secret-youtube-clips-a-step-by-step-guide-for-2024/"><u>Unveiling Secret YouTube Clips A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/using-your-iphone-to-monitor-and-elevate-emotional-well-being/"><u>Using Your iPhone to Monitor & Elevate Emotional Well-Being</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-11-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quickly-master-iphones-screencasting-feature/"><u>[New] 2024 Approved Quickly Master iPhone's Screencasting Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-assemble-an-impactful-visual-saga-with-montage-skills/"><u>[New] In 2024, Assemble an Impactful Visual Saga with Montage Skills</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-communicating-confidently-on-google-meet/"><u>[New] In 2024, Communicating Confidently on Google Meet</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>[New] In 2024, Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers/"><u>[Updated] The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-guide-best-video-capture-tools-for-windows/"><u>[Updated] Ultimate Guide Best Video Capture Tools for Windows</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-14-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 14 Pro Max Data Completely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-pova-5-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Pova 5 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-image-data-in-linux-removing-exif-information-using-exiftool/"><u>Securing Image Data in Linux: Removing EXIF Information Using Exiftool</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-xiaomi-13t-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-11-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 11 Suddenly | Stellar</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11/10</u></a></li>
 </ul></div>
 

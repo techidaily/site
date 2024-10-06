@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2024-09-24T20:36:24.113Z
-updated: 2024-09-30T18:04:39.931Z
+date: 2024-10-01T03:31:58.804Z
+updated: 2024-10-06T14:33:15.286Z
 tags:
   - desktop
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  Many people think that you need to use the terminal to properly control and tweak a Linux PC. While that might've been true 10 years ago, today, it's nothing more than a myth. So let's change how Ubuntu looks, feels, and operates without even opening the terminal or writing a single line of code.
 
  I'll be using the [Ubuntu 24.04 LTS](https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-n3-flip-by-fonelab-android-recover-data/) release in this showcase. However, the tips and steps mentioned here should also work on previous releases. That said, with time, the older versions might lose support for some of the stuff discussed here. Ubuntu 24.04 will be supported for five years and thus should still be compatible with all these tweaks and features till April 2029.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use These Six GNOME Extensions
 
@@ -69,16 +62,22 @@ Close
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
  Here's a guide to using [KDE Connect on Windows](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/). You can expect the same features and workflow with GSConnect on Ubuntu as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make These Three GNOME Tweaks
 
@@ -90,6 +89,13 @@ Close
 
 ![Set Startup Applications with GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/11-set-startup-applications-with-gnome-tweaks.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, head over to the "Windows" section and make these two tweaks:
 
 1. Select Titlebar Buttons > Placement > Left to move the window buttons to the left, similar to macOS (it's set to right by default).
@@ -98,10 +104,10 @@ Close
 ![Set Window options in GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/12-set-window-options-in-gnome-tweaks.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Finally, Change These Four Settings
@@ -111,10 +117,10 @@ Close
 ![Set Hot Corner and Activie Screen Edges in GNOME Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/13-set-hot-corner-and-activie-screen-edges-in-gnome-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With Hot Corner enabled, you can trigger the Activities Overview by quickly navigating your mouse cursor to the top-left corner of the screen. This can be handy if you have the ArcMenu running and the Activities Overview button disabled—which is how I run my system.
@@ -123,26 +129,26 @@ Close
 
 ![Snapping Windows to Screen Edges on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/14-snapping-windows-to-screen-edges-on-ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now the next setting is in the Sound section. From here, enable "Overamplification" to increase the volume above 100%. A great way to get some extra juice out of your current speaker.
 
 ![Enable Sound Overamplication on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/15-enable-sound-overamplication-on-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
 
 ![Setting Default Apps on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16-setting-default-apps-on-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -164,19 +170,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-effective-method-for-adding-music-to-facebook-iphone/"><u>[New] Effective Method for Adding Music to Facebook (iPhone)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-recent-youtube-financial-policies/"><u>[New] In 2024, Understanding Recent YouTube Financial Policies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-your-complimentary-access-to-50-premium-youtube-banners/"><u>[New] Your Complimentary Access to 50 Premium YouTube Banners</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-into-your-workspace-learn-screen-casting-via-ezvide/"><u>[New] Zoom Into Your Workspace Learn Screen Casting via EZvide</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-90-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 90 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dive-into-long-exposure-iphone-photography/"><u>Dive Into Long-Exposure iPhone Photography</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/examining-backspace-rites-across-continents/"><u>Examining Backspace Rites Across Continents</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g-stylus-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G Stylus (2023) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-neo-5-se-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT Neo 5 SE without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-8t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 8T Without Password | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/investigating-the-current-status-of-roblox-community-wide-problem-or-personal-glitches/"><u>Investigating the Current Status of Roblox: Community-Wide Problem or Personal Glitches?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-12-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme 12 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-oppo-a18-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Oppo A18</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-walkthrough-to-craft-your-metaverse-identity/"><u>2024 Approved A Step-by-Step Walkthrough to Craft Your Metaverse Identity</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/best-recommended-free-video-player-apps-for-windows-1011-with-universal-file-compatibility/"><u>Best Recommended Free Video Player Apps for Windows 10/11 with Universal File Compatibility</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-orbis-tri-band-wi-fi-6-mesh-network-for-seamless-speedy-connections/"><u>Comprehensive Evaluation of Orbi's Tri-Band Wi-Fi 6 Mesh Network for Seamless Speedy Connections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/diy-conversion-transforming-websites-into-instant-desktop-apps-at-home/"><u>DIY Conversion: Transforming Websites Into Instant Desktop Apps at Home</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-15-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 15 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-mp4-video-converter-tools-how-to-switch-formats-easily/"><u>Top FREE MP4 Video Converter Tools: How to Switch Formats Easily</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-gt-neo-5-se-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme GT Neo 5 SE on Windows?</u></a></li>
 </ul></div>
 

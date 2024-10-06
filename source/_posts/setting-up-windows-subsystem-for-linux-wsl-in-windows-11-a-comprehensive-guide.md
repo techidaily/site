@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2024-09-25T20:56:06.805Z
-updated: 2024-10-01T02:12:10.009Z
+date: 2024-10-02T09:31:03.600Z
+updated: 2024-10-06T11:09:03.323Z
 tags:
   - deals
 categories:
@@ -17,18 +17,18 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 * [Install WSL through Windows Terminal](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/)
 * [The Slow Way: Enable WSL and Install a Distro](https://smart-video-creator.techidaily.com/new-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To install the Windows Subsystem for Linux (WSL) on Windows 11, run Terminal as administrator, then enter "wsl --install" into the window. Run "wsl --install -d Distro", replacing "Distro" with the name of a Linux distro, to install a specific distribution instead of Ubuntu. You can install additional Linux distros from the Terminal or the Microsoft Store.
 
  The Windows Subsystem for Linux (WSL) lets you run Linux software on your Windows 11 PC. When you enable WSL, Windows will install a custom-built Linux kernel. You can then install Ubuntu or another Linux distribution of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How WSL Works on Windows 11
 
@@ -62,13 +62,6 @@ wsl --install
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
 wsl -l -o
@@ -96,26 +89,13 @@ wsl --install -d Debian
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Slow Way: Enable WSL and Install a Distro
 
@@ -129,11 +109,25 @@ wsl --install -d Debian
 
 ![Enable the &quot;Windows Subsystem for Linux&quot; option and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/b1-install-wsl.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you do, open the Microsoft Store app and search for the Linux distribution that you want to use. For example, you might search for "Ubuntu."
 
  Install the Linux distribution that you want to use (like Ubuntu) as you would any other application. Just click the "Get" button on its Store page.
 
 ![Search for "Ubuntu," then click "Get."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ubuntu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can now launch it from your Start menu just as if it were installed from the command above. 
 
@@ -154,24 +148,24 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premier-moba-games-on-android-top-10-edition-for-2024/"><u>[New] Premier MOBA Games on Android - TOP 10 Edition for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-leading-free-subtitle-tools-online/"><u>[Updated] Explore the Leading Free Subtitle Tools Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-exploring-new-realms-a-detailed-jaunt-vr-review/"><u>[Updated] Exploring New Realms A Detailed Jaunt VR Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-growth-secrets-masterful-narration-techniques/"><u>[Updated] In 2024, YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-simplified-approach-to-removing-youtube-comments-with-ease-for-2024/"><u>[Updated] Simplified Approach to Removing YouTube Comments with Ease for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smart-selections-17-apps-for-flawless-image-correction/"><u>[Updated] Smart Selections 17 Apps for Flawless Image Correction</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elite-display-decoded-examining-samsungs-ue590-monitor-for-2024/"><u>Elite Display Decoded Examining Samsung's UE590 Monitor for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-mini-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 mini Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-10-proplus-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 10 Pro+ 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/make-every-snap-spectacular-20-top-filter-recommendations-for-2024/"><u>Make Every Snap Spectacular 20 Top Filter Recommendations for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-s17e-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo S17e without backup.</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2022-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2022) is not listed when I run the software? | Stellar</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wire-free-wonderment-the-allure-of-m06-headphones/"><u>Wire-Free Wonderment: The Allure of M06 Headphones</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-choosing-a-professional-video-editor-filmora-against-democreator/"><u>[New] 2024 Approved Choosing a Professional Video Editor Filmora Against Democreator</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-earning-stream-start-small-see-big-on-youtube-for-2024/"><u>[New] Earning Stream Start Small, See Big on YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-future-scrutiny-alternate-viewpoints/"><u>2024 Approved Future Scrutiny Alternate Viewpoints</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-instant-video-creation-uploading-images/"><u>2024 Approved Instant Video Creation Uploading Images</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-performance-unleashed-tp-link-archer-c9-router-revealed/"><u>Affordable Performance Unleashed: TP-Link Archer C9 Router Revealed!</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/download-ultimate-collection-of-erito-adult-films-in-high-definition-formats-like-mp4-mov-avi-and-flv/"><u>Download Ultimate Collection of Erito Adult Films in High-Definition Formats Like MP4, MOV, AVI, and FLV</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716465099560-how-to-make-a-youtube-subscribe-link-easy/"><u>How to Make a YouTube Subscribe Link - Easy!</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-30i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 30i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-2022-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE (2022) to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-low-cost-cloud-storage-plans-for-2024/"><u>The Essential Guide to Low-Cost Cloud Storage Plans for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-samsung-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Samsung without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-find-x7-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-computer-components/"><u>Tom's Tech Insights - Your Guide to Computer Components</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-narzo-60x-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11/10/7</u></a></li>
 </ul></div>
 

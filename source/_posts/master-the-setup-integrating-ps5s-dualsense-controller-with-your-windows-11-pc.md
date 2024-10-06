@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC"
-date: 2024-09-27T21:09:22.619Z
-updated: 2024-09-30T18:37:57.321Z
+date: 2024-09-29T09:48:52.788Z
+updated: 2024-10-06T13:52:40.971Z
 tags:
   - deals
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
  You can pair your DualSense controller with either a USB cable or via Bluetooth. However, while connecting via Bluetooth is relatively easy, the controller's Bluetooth connection is not the best, so we highly recommend you connect the controller to your computer via USB.
@@ -42,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
@@ -49,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
@@ -59,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
@@ -86,22 +92,15 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
@@ -112,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
@@ -123,10 +122,17 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -156,20 +162,22 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[New] From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-role-of-green-infrastructure-in-revitalizing-cities/"><u>[Updated] 2024 Approved The Role of Green Infrastructure in Revitalizing Cities</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-igtv-masterpieces-top-editing-software-showcased/"><u>[Updated] In 2024, IGTV Masterpieces Top Editing Software Showcased</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-beaming-login-logout-directions/"><u>2024 Approved Beaming Login / Logout Directions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-premiere-pros-art-free-template-pack-2023/"><u>2024 Approved Master Premiere Pro's Art Free Template Pack 2023</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-a2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi A2 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-no-cost-nature-inspired-screen-images/"><u>In 2024, No-Cost, Nature Inspired Screen Images</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-90-gt-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 GT working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 Pro | Stellar</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/plicated-method-fast-clearance-of-online-discussions/"><u>Uncomplicated Method Fast Clearance of Online Discussions</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-a54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy A54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mobile-beat-benders-for-android-and-ios-devices/"><u>[New] In 2024, Mobile Beat Benders for Android and iOS Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-video-trailers-on-youtube-via-filmora-tools/"><u>[Updated] 2024 Approved Mastering Video Trailers on YouTube via Filmora Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>[Updated] The Ultimate List Best 7 Camcorders for Waterproof Use</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cutting-edge-streaming-top-5-tools-for-capturing-every-meeting-for-2024/"><u>Cutting-Edge Streaming Top 5 Tools for Capturing Every Meeting for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-s23-fe-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy S23 FE Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gifificacion-de-video-mp4-sin-coste-alguno-con-convertidor-online-seguro/"><u>Gifificación De Video MP4 Sin Coste Alguno Con Convertidor Online Seguro</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 Plus iOS System? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-lag-how-to-prevent-ready-or-not-from-crashing-on-different-operating-systems/"><u>Overcoming Game Lag: How to Prevent 'Ready Or Not' From Crashing on Different Operating Systems</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-samsung-galaxy-m54-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Samsung Galaxy M54 5G on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/review-the-ultimate-4k-action-recorder/"><u>Review The Ultimate 4K Action Recorder</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-c02-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from C02</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-understanding-snappy-driver-installer-v113-performance/"><u>The Ultimate Guide to Understanding Snappy Driver Installer v1.13 Performance</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-90-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from 90.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-yuva-3-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Yuva 3 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/why-does-instagram-keep-flipping-my-videos/"><u>Why Does Instagram Keep Flipping My Videos?</u></a></li>
 </ul></div>
 

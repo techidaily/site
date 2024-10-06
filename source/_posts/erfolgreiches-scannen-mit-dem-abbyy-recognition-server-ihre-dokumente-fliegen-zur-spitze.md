@@ -1,7 +1,7 @@
 ---
 title: Erfolgreiches Scannen Mit Dem ABBYY Recognition Server - Ihre Dokumente Fliegen Zur Spitze!
-date: 2024-09-20T19:04:58.063Z
-updated: 2024-09-23T16:58:35.540Z
+date: 2024-10-02T19:40:25.631Z
+updated: 2024-10-06T07:44:16.636Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846a7d2596697ef888fa555dd7.jpg
@@ -20,10 +20,10 @@ Transportation & Logistics | Document Management | Document Management/Complianc
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ABBYYs serverbasierte OCR beflügelt das Dokumentenmanagement-System einer Fluglinie
@@ -31,13 +31,6 @@ Transportation & Logistics | Document Management | Document Management/Complianc
 Logistics | Dokumentenmanagement 
 
 ![](https://static1.abbyy.com/abbyycommedia/17571/gen2-systems-pic1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Über den Kunden
 
@@ -102,32 +95,39 @@ Langfristig gesehen ermöglicht die Lösung von Gen2 ihren Kunden 40-50 % der Re
 [![ABBYY Recognition Server wird jetzt ABBYY FineReader Server genannt](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (jetzt FineReader Server genannt)](https://tools.techidaily.com/abbyy/products/) ") 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![13-Transportation](https://static5.abbyy.com/abbyycommedia/14363/13-transportation.jpg)](https://tools.techidaily.com/abbyy/products/) [Transport und Logistik](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![gen2-systems-pic2](https://static5.abbyy.com/abbyycommedia/17572/gen2-systems-pic2.jpg)](https://static1.abbyy.com/abbyycommedia/6146/cs-gen2-recserv-d.pdf "PDF-Version") [PDF-Version](https://static1.abbyy.com/abbyycommedia/6146/cs-gen2-recserv-d.pdf "PDF-Version") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Zum Dokument](https://static1.abbyy.com/abbyycommedia/6146/cs-gen2-recserv-d.pdf "PDF-Version") 
 
 [Mehr über ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
@@ -148,5 +148,20 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/best-free-tools-for-capturing-videos-top-5-recommendations/"><u>Best Free Tools for Capturing Videos: Top 5 Recommendations</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-camon-30-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Camon 30 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-top-notch-features-detailed-review-of-asus-ax6000-rt-ax88u-advanced-wi-fi-6-router/"><u>Exploring the Top Notch Features: Detailed Review of Asus AX6000 RT-AX88U Advanced Wi-Fi 6 Router</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone X Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/ios-145-update-the-hidden-menace-to-facebook/"><u>IOS 14.5 Update: The Hidden Menace to Facebook?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-beginnings-in-learning-arabic/"><u>New Beginnings in Learning Arabic</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y200-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Y200</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy XCover 7</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-top-10-storyboarding-software/"><u>Updated 2024 Approved Top 10 Storyboarding Software</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v27-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V27 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

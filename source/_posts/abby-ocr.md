@@ -1,7 +1,7 @@
 ---
 title: Abby OCR技術で実現! 完全内製化による税務収納業務生産性の飛躍的向上と外部コスト削減
-date: 2024-09-16T20:49:13.542Z
-updated: 2024-09-23T16:24:51.658Z
+date: 2024-10-04T03:55:24.579Z
+updated: 2024-10-06T07:47:56.801Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1202b54d6fbdf849bf81ed68.jpg
@@ -20,10 +20,16 @@ Government | Forms Processing | Document Processing
 [お客様のストーリーに戻る](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ABBYYのAI OCRで税務収納業務の効率化が進み外部委託費を皆減 業務の完全内製化を実現し、生産性も大幅向上
@@ -35,6 +41,13 @@ Government | Forms Processing | Document Processing
 #### お客様の概要
 
 ![中野区役所](https://static2.abbyy.com/abbyycommedia/36884/nakano_logo-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | 氏名     | 中野区役所                                                               |
 | ------ | ------------------------------------------------------------------- |
@@ -120,38 +133,25 @@ ABBYYのAI OCRは読み取り精度や拡張性が高く、スクリプト処理
 ![](https://static1.abbyy.com/abbyycommedia/36881/nakano-all-556-303.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 写真左より、TOPPANエッジ株式会社 石田様、中野区 高津様、坂本様、TOPPANエッジ株式会社 大台様
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![Learn more about ABBYY Vantage](https://static2.abbyy.com/abbyycommedia/24337/mailroom_automation_360x162.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
@@ -183,5 +183,26 @@ ABBYYのAI OCRは読み取り精度や拡張性が高く、スクリプト処理
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-adopting-innovative-approaches-to-elevate-your-fb-campaigns-for-2024/"><u>[New] Adopting Innovative Approaches to Elevate Your FB Campaigns for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-behind-the-scenes-youtubes-view-count-algorithm/"><u>[New] In 2024, Behind the Scenes YouTube's View Count Algorithm</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-mastering-screencastifys-features/"><u>[Updated] 2024 Approved Expert Tips for Mastering Screencastify's Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>[Updated] In 2024, A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastery-techniques-for-embedding-social-media-live-videos-for-2024/"><u>[Updated] Mastery Techniques for Embedding Social Media Live Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/connecting-worlds-mastering-video-chats-on-xbox-one-with-zoom/"><u>Connecting Worlds Mastering Video Chats on Xbox One with Zoom</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-learning-with-these-top-rated-animation-software/"><u>Elevate Learning with These Top-Rated Animation Software</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-nord-n30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-hot-30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Hot 30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c210-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C210 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photobooth-glitch-unraveling-video-lags/"><u>In 2024, Photobooth Glitch Unraveling Video Lags</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2013-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-xiaomi-civi-3-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Xiaomi Civi 3 without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-lava-blaze-2-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Lava Blaze 2 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-lava-blaze-2-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Lava Blaze 2 Pro.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-dota-2-microphone-proven-solutions-to-restore-audio-communication/"><u>Unstuck Your Dota 2 Microphone - Proven Solutions to Restore Audio Communication</u></a></li>
+</ul></div>
 

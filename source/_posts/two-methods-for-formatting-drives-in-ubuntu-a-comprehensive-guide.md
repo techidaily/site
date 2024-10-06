@@ -1,7 +1,7 @@
 ---
 title: "Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide"
-date: 2024-09-25T00:14:39.219Z
-updated: 2024-10-01T06:27:29.377Z
+date: 2024-10-04T09:25:06.110Z
+updated: 2024-10-06T04:05:07.932Z
 tags:
   - desktop
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
  However, since GParted doesn't come installed by default, you need to install it first to do any disk formatting. If that's not an issue, use GParted. Otherwise, Disks will also do the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 1: Formatting a Disk on Ubuntu Using the Disks App
@@ -48,22 +48,15 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![Ubuntu 22.04 version homescreen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the applications grid, click the "Utilities" app group.
 
 ![All applications displayed in a grid layout on the Ubuntu applications menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It should display all the utility software on your system. From there, click "Disks" to launch it.
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
  When the application opens, you will find your system storage, both internal and external, listed on the left sidebar. Select the disk that you want to format. Ideally, you're supposed to have multiple disks from which you will format one or more. In my case, since I'm on a virtual machine, there's only one disk. After selecting the disk, click the settings icon.
 
 ![An example of the Disks utility app on Ubuntu where a disk is selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That should open a context menu. Click the "Format Partition" button to continue.
 
@@ -95,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![The 'Format Volume' window on the Disks utility containing several options about disk formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A new window with confirmation details will appear. You can double-check the details here just to be sure. If all looks good, click "Format" to begin the formatting. On the other hand, click the "Previous" button to navigate to the previous window.
 
 ![The final confirmation window in Ubuntu's Disks utility prompting the user to confirm formatting details before proceeding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-4.png) 
@@ -114,14 +93,20 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![Disks utility window after you formatted a drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And that successfully formatted your desired disk. There is only one catch. It didn't create a partition table by default. You can do that using GParted, which I'll show you now.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 2: Formatting a Disk on Ubuntu Using GParted
 
@@ -137,6 +122,13 @@ sudo apt install gparted
 
 ![The Linux terminal prompting the user to confirm the installation of GParted on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After GParted is installed, you can either launch it from the applications menu or the terminal. Since you're already on the terminal, launch GParted using:
 
 gparted
@@ -144,6 +136,13 @@ gparted
  You'll be asked to authenticate by entering your password. Once you do that, the application should open. The first thing you must do is select the disk you want to format. You can do that from the dropdown menu in the top-right corner of the software. Click the drop-down menu and select a disk.
 
 ![An example of GParted interface while selecting a drive from the dropdown menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once selected, you can create a partition table in case you don't have it already. For that, click "Device" from the top menu bar. Then, select the "Create Partition Table" button.
 
@@ -156,10 +155,10 @@ gparted
 ![The process of unmounting a partition from a disk using GParted on ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can delete that partition and convert it into unallocated space. To do that, again right-click on the partition and click "Delete".
@@ -169,6 +168,13 @@ gparted
  After that, right-click on the partition, and this time, click "New".
 
 ![The GParted interface displaying the process of creating a new partition from an unallocated space on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should see a new window containing many options. You can set the size, give the partition a name and label, choose the file system, and do more. I'm keeping the default values here. You should fill in the fields according to your needs. Once you're done, click "Add".
 
@@ -182,14 +188,14 @@ gparted
 
 ![A window on GParted confirming that all the operations have been completed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/18.png) 
 
- And now you will find the formatted disk listed in GParted with the settings you specified earlier.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ And now you will find the formatted disk listed in GParted with the settings you specified earlier.
 
 ##  Disk Formatting on Ubuntu Made Easy!
 
@@ -210,15 +216,22 @@ gparted
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-playlist-perfection-weaving-youtube-videos-into-webpages/"><u>[New] Playlist Perfection Weaving YouTube Videos Into Webpages</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-guide-to-applying-new-colors-and-textures-on-past-media/"><u>2024 Approved Step-by-Step Guide to Applying New Colors & Textures on Past Media</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/artful-depth-making-text-pop-in-ai-for-2024/"><u>Artful Depth Making Text Pop in AI for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/brutal-speed-vs-spotty-snaps-the-dual-edges-of-the-oneplus-8t-smartphone/"><u>Brutal Speed Vs. Spotty Snaps: The Dual Edges of the OnePlus 8T Smartphone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vate-audiences-techniques-for-livestreaming-video-in-spherical-views-on-youtube/"><u>Captivate Audiences Techniques for Livestreaming Video in Spherical Views on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-ussd-insight-into-unstructured-supplementary-service-data-for-telecoms/"><u>Decoding USSD: Insight Into Unstructured Supplementary Service Data for Telecoms</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-xiaomi-redmi-13c-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-instagram-video-to-mp3-sound/"><u>[New] From Instagram Video to Mp3 Sound</u></a></li>
+<li><a href="https://article-tips.techidaily.com/20-high-end-editors-for-dji-drone-footage/"><u>20 High-End Editors for DJi Drone Footage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-leveraging-highlights-proven-techniques-for-business-engagement/"><u>2024 Approved Leveraging Highlights Proven Techniques for Business Engagement</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-8-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mobile-gear-enhancing-video-creation/"><u>In 2024, Mobile Gear Enhancing Video Creation</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/overcoming-startup-problems-with-call-of-duty-black-ops-4-a-step-by-step-guide/"><u>Overcoming Startup Problems with 'Call of Duty Black Ops 4': A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-y36-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo Y36</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-art-of-using-ai-to-refine-your-instagram-metadata-for-maximum-engagement-and-reach/"><u>The Art of Using AI to Refine Your Instagram Metadata for Maximum Engagement and Reach</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-no-ads-content-creators-playbook-a-guide-to-monetizing-videos/"><u>The No-Ads Content Creator’s Playbook A Guide to Monetizing Videos</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-a79-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo A79 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-m6-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from M6 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-xr21-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nokia XR21 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-speedy-epic-games-installations/"><u>Winning at Speedy Epic Games Installations</u></a></li>
+<li><a href="https://techidaily.com/x5-pro-video-recovery-recover-deleted-videos-from-x5-pro-by-fonelab-android-recover-video/"><u>X5 Pro Video Recovery - Recover Deleted Videos from X5 Pro</u></a></li>
 </ul></div>
 

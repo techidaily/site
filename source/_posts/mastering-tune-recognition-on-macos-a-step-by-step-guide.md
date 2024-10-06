@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-09-27T18:24:48.963Z
-updated: 2024-09-30T21:54:53.038Z
+date: 2024-10-01T08:05:37.245Z
+updated: 2024-10-05T21:04:42.834Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 * [More Ways to Identify Music](https://article-knowledge.techidaily.com/2024-approved-exclusive-list-top-20-open-source-pubg-slideshows/)
 
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Identify Music From the Menu Bar or Control Center
 
@@ -43,16 +50,16 @@ Close
 
 ![Safari for Mac displaying information about Blinding Lights by The Weeknd.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-safari-browser-shazam-website-song-information-blinding-lights-by-the-weeknd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To open the song in the Apple Music app instead, hover over it and click the tiny Apple Music button. Hitting the trashcan icon will remove the selected song from your Shazam history.
 
 ![Music Recognition in macOS menu bar displaying Shazam history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-menu-bar-music-recognition-history-apple-music-trashcan-icons-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To automatically back up your Shazam history to iCloud to access it on other devices using the same Apple ID, turn on "Music Recognition" in System Settings > \[your Apple ID\] > iCloud > Show More Apps.
 
@@ -62,34 +69,13 @@ Close
 
 ![Siri on Mac using Music Recognition to Shazam a song.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sinoma-14-4-siri-assistant-music-recognition-shazam-song-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A successful match will produce a notification revealing the identified tune. Of course, you'll need to ensure [Siri is enabled on your Mac](https://ai-topics.techidaily.com/new-what-are-ai-tools-for-2024/) to do this.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Launch Music Recognition via a Keyboard Shortcut
 
  Shazam lets you set a custom keyboard shortcut, but if you don't have the app installed, you can configure the ready-made Shazam shortcut to run via a keyboard combination.
 
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
@@ -101,7 +87,21 @@ Close
 
 ![The Shazam shortcut in macOS displaying music recognition menu, with the Copy to Clipboard option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shazam-shortcut-results-menu-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More Ways to Identify Music
 
@@ -124,24 +124,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>[New] 2024 Approved Constructing Emotional Resonance Trailer Sound Selection Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-gameplay-androids-leading-gba-emulators/"><u>[New] 2024 Approved Superior Gameplay Android's Leading GBA Emulators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-your-path-to-perfect-recording-5-must-know-techniques-for-minecraft-screenshots-macos/"><u>[New] In 2024, Your Path to Perfect Recording 5 Must-Know Techniques for Minecraft Screenshots (MacOS)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-caller-id-changers-with-enchanting-options/"><u>[New] Leading Caller ID Changers with Enchanting Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-image-presentations-how-to-add-text-and-captions-to-videos-within-windows-10-photos/"><u>2024 Approved Innovating Image Presentations How to Add Text and Captions to Videos Within Windows 10 Photos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/access-all-shows-seamless-apods-installation-tips-for-2024/"><u>Access All Shows Seamless APods Installation Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-turing-emerging-evaluation-methods/"><u>Beyond The Turing: Emerging Evaluation Methods</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 8 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-x6-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco X6 Phone Pattern Lock</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-14-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi 14 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m54-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M54 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/tecno-messages-recovery-recover-deleted-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Tecno Messages Recovery - Recover Deleted Messages from Tecno</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-y100i-power-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo Y100i Power 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-8-plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 8 Plus Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-xiaomi-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi play AVCHD mts files?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-video-quality-on-periscope-live-streams/"><u>[New] Maximizing Video Quality on Periscope Live Streams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship-for-2024/"><u>[Updated] From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/1726223221348-3gppwmv-movavi/"><u>無料でスムーズな3GPPへのWMVビデオ変換方法 - Movaviユーザガイド</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-infinix-hot-40i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Hot 40i Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-15-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-5-lite-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic 5 Lite</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-se-2022-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone SE (2022) iCloud Bypass</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mac-users-mastering-mp3-conversion-from-youtube-for-2024/"><u>Mac Users Mastering MP3 Conversion From YouTube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revitalize-your-hdtv-in-depth-strategies-for-spotless-flat-screen-maintenebuilding/"><u>Revitalize Your HDTV: In-Depth Strategies for Spotless Flat Screen Maintenebuilding</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-x-fold-2-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from X Fold 2</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-s17-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo S17 Pro</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-poco-f5-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco F5 Pro 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-xiaomi-civi-3-disney-100th-anniversary-edition-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi Civi 3 Disney 100th Anniversary Edition play AVCHD mts files?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-s18-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo S18? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V27e | Dr.fone</u></a></li>
 </ul></div>
 

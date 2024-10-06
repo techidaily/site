@@ -1,7 +1,7 @@
 ---
 title: "Drive Traffic with Cutting-Edge Automated Tracking: The Power of Cookiebot"
-date: 2024-09-21T09:39:20.126Z
-updated: 2024-09-24T03:05:51.094Z
+date: 2024-10-02T07:31:26.934Z
+updated: 2024-10-06T08:56:16.355Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63e5abfaa3c7c10c7e5faa6e1.jpg
@@ -21,16 +21,16 @@ At ABBYY, we value accommodating the diverse needs of our colleagues to ensure t
 
 From stories of siblings and partners working together to colleagues discovering the joys of parenthood, a few ABBYY colleagues share their stories on balancing work and family life.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Anastasiia and Anna
 
 ![anastasiia-anna-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/anastasiia-anna-600x600.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 First up, we're going to our Ukrainian office where we find sisters **Anastasiia and Anna**: 
 
@@ -64,6 +64,13 @@ Anna, Customer Service Expert
 
 ![ryan-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/ryan-600x600.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 From Ukraine, we go to Singapore, and from siblings, we chat with parents, specifically with our Senior Solution Consultant and mother of two, **Ryan**, who tells us that balancing parenthood and work is a true balancing act. 
 
 "Kids consistently require a lot of my energy and attention when they are back from school. And I’m not exaggerating when I say that I can hear my children call ‘mom/mama!’ at least 50 times a day. For me to respond with good energy it is key that I prioritize maintaining a good work-life balance." 
@@ -73,6 +80,13 @@ From Ukraine, we go to Singapore, and from siblings, we chat with parents, speci
 For me to respond with good energy, it is key that I prioritize maintaining a good work-life balance.
 
 Ryan, Senior Solution Consultant
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steve
 
@@ -88,16 +102,16 @@ After having my first child, I found myself seeking greater flexibility in my ca
 
 Steve, Head of Talent Acquisition
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Aleksandar
 
 ![aleksandar-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/aleksandar-600x600.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 "At first, I thought that becoming a parent will maybe have, so to say, a negative impact on my work and career," confessed **Aleksandar** from our Finance team in Serbia who has recently joined ABBYY after becoming a father. 
 
@@ -113,13 +127,6 @@ Aleksander, Order Fulfillment Specialist
 
 ![konstantin-ekaterina-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/konstantin-ekaterina-600x600.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In our Cyprus Research Development (R&D) and Product Development teams, we found **Konstantin** and **Ekaterina** who shared a bit about their experience working as a married couple with children at ABBYY:
 
 “Truth be told, ABBYY isn't our first rodeo together. We hustled as waiters back in our student days, then rocked it out at another IT joint.
@@ -133,13 +140,6 @@ Working together has strengthened our professional bond and given us fresh persp
 Yeah, we chat about work at home sometimes, but we make sure to switch it off, too. It's all about finding that balance.
 
 Konstantin and Ekaterina, R&D and Product Development
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Rahul
 
@@ -220,5 +220,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-audiences-in-motion-analyzers/"><u>[Updated] 2024 Approved Audiences in Motion Analyzers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-future-frameworks-exclusive-list-of-top-cameras/"><u>[Updated] 2024 Approved Future Frameworks Exclusive List of Top Cameras</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-becoming-a-pro-at-visual-effects-creation/"><u>[Updated] Becoming a Pro at Visual Effects Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-eliminate-quiet-vids-tweet-audio-revival-for-2024/"><u>[Updated] Eliminate Quiet Vids Tweet Audio Revival for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-learning-the-top-10-educational-historians-yt/"><u>[Updated] In 2024, Elevate Your Learning The Top 10 Educational Historians YT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-camcorder-for-wildlife-documenting/"><u>2024 Approved Best Camcorder for Wildlife Documenting</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y78plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y78+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c02-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C02 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a18-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A18 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-8-cameras-transforming-online-broadcasting/"><u>Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-mobile-and-web-based-a-capellas-mastery-tools-for-2024/"><u>New The Ultimate Guide to Mobile and Web-Based A Capellas Mastery Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-desktopmobile-communication-alternatives-to-zoom/"><u>Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo Y78t on Windows</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-messages-recovery-recover-deleted-messages-from-xiaomi-redmi-a2-by-fonelab-android-recover-messages/"><u>Xiaomi Redmi A2 Messages Recovery - Recover Deleted Messages from Xiaomi Redmi A2</u></a></li>
+</ul></div>
 

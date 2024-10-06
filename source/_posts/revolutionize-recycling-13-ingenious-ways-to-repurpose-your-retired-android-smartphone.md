@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone"
-date: 2024-09-27T23:15:42.571Z
-updated: 2024-09-30T19:27:21.152Z
+date: 2024-10-03T00:59:12.720Z
+updated: 2024-10-06T11:25:46.555Z
 tags:
   - mobile
 categories:
@@ -29,18 +29,18 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  If you have an old Android phone or two lying around your house collecting dust, this article is for you. Phones are versatile devices that can do just about anything, so there's no need to buy specialized gadgets when an old phone does the trick.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Repurpose It as a Storage Device 
 
  One of the most versatile ways to use a phone is as a storage device in place of an external drive. Sure, USB sticks are small and inexpensive, and [external SSDs](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) can reach insanely fast transfer speeds, but they also cost money to buy, whereas you already have an old phone. Plus, they don't usually support Bluetooth or Wi-Fi for wireless transfers or screens and speakers to show and play your stored media.
 
  You probably won't get a lot of mileage from a 16GB phone, but even a 32GB phone can [store](https://www.kingston.com/en/memory-cards/storage-chart) 26,786 12MP photos, 10,417 songs that are 3MB each, or 168 minutes of 1080p video. The real-world numbers would be slightly lower since the operating system takes up a few gigabytes, but those are still substantial numbers. Not to mention that many old Android phones have SD card slots, allowing you to [expand the storage](https://some-skills.techidaily.com/updated-thankful-discoveries-unlimited-outro-options/) significantly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Use It as a Mini Smart Speaker 
 
@@ -68,16 +68,16 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  If you want the [Android Auto experience on your bicycle](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), just use your old Android phone. This way, you won't damage your main phone in the case of an accident, and the constant vibrations won't break your camera's optical image stabilization (OIS).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7  Leave It in Your Kitchen 
 
@@ -87,6 +87,13 @@ Joe Fedewa / How-To Geek
 
 ![Woman in a meeting on a laptop using a phone as a webcam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ditch-the-webcam-i-use-my-android-phone-camera-to-look-better-on-video-calls.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/view-over-businesslady-shoulder-seated-workplace-1704165919) / Shutterstock
 
  Cheap webcams suck. What's worse is that the drivers with some cameras (like mine) are a nightmare to install. Since even old smartphones have pretty good cameras, they can make for a solid webcam. Just grab a simple [monitor phone mount](https://www.amazon.com/dp/B0BN3YLBLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) and use a spare USB port to charge the phone.
@@ -94,32 +101,25 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
  Your old phone already has everything that you need in a security camera—a solid camera, microphone, Wi-Fi, and storage. Smart security cameras are expensive and arguably [more prone to hacking](https://remote-screen-capture.techidaily.com/updated-webcam-ingenuity-for-productivity-boost/) than smartphones, though you shouldn't fully trust a phone running an outdated version of Android, either, so exercise caution. Follow our guide to [turn your old phone into a security camera](https://facebook-video-content.techidaily.com/updated-2024-approved-top-score-facebooks-1-10-music-video-showcase/).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10  Use It as a Cheap Handheld 
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
@@ -129,16 +129,10 @@ Jason Montoya / How-To Geek
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11  Use It as a PC Media or DAW Controller 
@@ -172,22 +166,18 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-the-perfect-first-touch-redefining-unboxing/"><u>[New] Crafting the Perfect First Touch Redefining Unboxing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-choice-5-time-lapse-capturers/"><u>[New] Expert Choice 5 Time-Lapse Capturers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-superior-online-concert-streamers/"><u>[New] Superior Online Concert Streamers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-overcome-the-invisibility-of-short-videos/"><u>[Updated] Overcome The Invisibility of Short Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-hues-at-your-fingertips-the-essential-11-tutorial-list/"><u>2024 Approved Perfect Hues at Your Fingertips The Essential 11 Tutorial List</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/chortlecraft-customize-funny-digital-images/"><u>ChortleCraft Customize Funny Digital Images</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-10-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark 10 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/erkunden-sie-die-superlative-top-favorisierte-kostenlose-dvd-player-auf-windows-1011/"><u>Erkunden Sie Die Superlative: Top-Favorisierte Kostenlose DVD-Player Auf Windows 10/11</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/instant-techniques-to-shuffle-youtube-song-sequences/"><u>Instant Techniques to Shuffle YouTube Song Sequences</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/plate-the-pan-fried-ribeye-steak-on-a-warm-serving-dish-or-plate-to-keep-it-hot/"><u>Plate the Pan-Fried Ribeye Steak on a Warm Serving Dish or Plate to Keep It Hot.</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-v30-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on V30</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2023-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2023</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor X7b</u></a></li>
-<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-zd-soft-screen-recorder-key-features-and-review/"><u>[New] 2024 Approved ZD Soft Screen Recorder Key Features and Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-2023-guide-to-top-value-streaming-tools-for-all-platform-users/"><u>2024 Approved The 2023 Guide to Top Value Streaming Tools for All Platform Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-windows-10-syncing-guide-effortless-mov-file-management/"><u>2024 Approved Windows 10 Syncing Guide Effortless .mov File Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-your-iphone-15-pro-a-step-by-step-guide/"><u>Disabling Your iPhone 15 Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x50-gt-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 GT without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-capture-the-extraordinary-tips-for-spectacular-slow-motion-video-on-mobile/"><u>In 2024, Capture the Extraordinary Tips for Spectacular Slow Motion Video on Mobile</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f34-5g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy F34 5G won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveil-the-power-of-storytelling-in-your-facebook-bio/"><u>Unveil the Power of Storytelling in Your Facebook Bio</u></a></li>
+<li><a href="https://techidaily.com/vivo-y27-4g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo Y27 4G support - Forgotten screen lock.</u></a></li>
 </ul></div>
 

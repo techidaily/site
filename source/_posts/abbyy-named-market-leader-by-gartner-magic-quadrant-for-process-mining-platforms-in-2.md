@@ -1,7 +1,7 @@
 ---
 title: ABBYY Named Market Leader by Gartner Magic Quadrant for Process Mining Platforms in 2
-date: 2024-09-17T11:21:10.437Z
-updated: 2024-09-23T20:31:44.845Z
+date: 2024-10-03T20:47:58.012Z
+updated: 2024-10-06T05:33:27.742Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946eb7be64c4d7f5c5a7b7d178.jpg
@@ -14,10 +14,10 @@ Bericht
 ## ABBYY im Gartner® Magic Quadrant™ for Process Mining-Platforms 2024 als Marktführer benannt
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ABBYY wurde für seine Timeline-Process-Intelligence-Plattform nach den Kriterien Vollständigkeit der Vision und Umsetzungskompetenz ausgezeichnet. 
@@ -25,10 +25,10 @@ Bericht
 ![Figure_1_Magic_Quadrant_for_Process_Mining](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/resource-center/content-images/figure_1_magic_quadrant_for_process_mining.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Process-Mining-Plattformen](https://tools.techidaily.com/abbyy/products/) helfen Unternehmen, intelligente, datenbasierte Entscheidungen schneller zu treffen, um operative Ziele zu erreichen und Wettbewerbsvorteile zu erzielen. Der Gartner® Magic Quadrant™ for Process Mining Platforms untersucht die aktuellen Marktkräfte und die führenden Anbieter von Process-Mining-Plattformen. 
@@ -54,10 +54,10 @@ GARTNER is a registered trademark and service mark, and MAGIC QUADRANT and PEER 
 Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences with the vendors listed on the platform, should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Danke für Ihr Interesse an ABBYY. 
@@ -129,5 +129,17 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-principles-to-uphold-youtube-civility/"><u>[New] Key Principles to Uphold YouTube Civility</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-dji-fpv-revolution-a-review-of-eyewear-innovation-for-2024/"><u>[Updated] The DJI FPV Revolution A Review of Eyewear Innovation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-easy-way-to-progressively-reduce-sound-levels-in-lumafusion-for-2024/"><u>[Updated] The Easy Way to Progressively Reduce Sound Levels in Lumafusion for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-spark-20-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Spark 20 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-a24-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy A24</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-find-n3-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Find N3 Device Top 5 Picks to Remove Android Locks</u></a></li>
+</ul></div>
 

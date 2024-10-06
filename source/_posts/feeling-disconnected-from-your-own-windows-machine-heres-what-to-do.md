@@ -1,7 +1,7 @@
 ---
 title: Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
-date: 2024-09-29T22:14:54.705Z
-updated: 2024-10-01T00:42:40.718Z
+date: 2024-09-29T23:18:47.862Z
+updated: 2024-10-06T02:37:06.308Z
 tags:
   - deals
 categories:
@@ -25,19 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
  Now that Windows is almost always online, my "personal" computer experience is feeling quite a bit less personal.
@@ -52,33 +39,33 @@ Jerome Thomas / How-To Geek
 
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Updates Breaking My PC
 
  At this point, I have lost count of the number of times that I've left my perfectly working Windows computer at the end of my work day, only to return to a completely broken computer that won't boot the next morning. We have numerous articles at How-To Geek on how to [stop Windows from updating](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/), and the mere fact that readers are searching for this information should tell you something.
 
  Forced, automatic Windows updates seem inevitable now, and with every workaround people come up with, the loopholes are closed. Updates can be delayed, but not deferred. Resistance is futile. Which is why I find it hard to even trust Windows to run a Plex server or a NAS, because inevitably it will reboot the computer without asking me first.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Leave My Settings Alone, Microsoft
 
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -88,6 +75,13 @@ Sergio Rodriguez / How-To Geek
 
  When I use my Windows 11 laptop (which was more expensive than my Mac, mind you), it feels like those Amazon Kindles that are subsidized by ad money. Except, at least Amazon gave us the choice.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Linux Respects Its Users
 
  The other major player here is of course Linux in all its varied distributions. Here you are literally getting the operating system for free. The closest that a distro of Linux has come to punting ads was when plugs for software showed up in the [Ubuntu Message of the Day](https://www.reddit.com/r/linux/comments/hfs4v9/ubuntu%5Fis%5Fputting%5Fads%5Fin%5Ftheir%5Fmotd%5Fnow/) and more recently a sort-of "ad" for [Ubuntu Pro](https://www.omgubuntu.co.uk/2022/10/ubuntu-pro-terminal-ad) in the terminal. If anyone knows of other examples of native ads in a Linux distro, I'd love to hear about it in the comments.
@@ -95,10 +89,16 @@ Sergio Rodriguez / How-To Geek
  I've had an on-again-off-again relationship with Linux over the years, and daily drove it during seven years of university, and never did I feel that I was being exploited or not in control. In fact, I was probably in too much control, which is why you can break Linux in so many creative ways just by being a dummy.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Can Windows Make a Comeback?
@@ -124,21 +124,22 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-a-compelling-video-story-with-b-roll-variety/"><u>[New] Crafting a Compelling Video Story with B-Roll Variety</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>[New] Mastering Lecture Capture A Comprehensible Methodology for Mac Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-gameplay-to-recording-expert-techniques-for-ps3-screenshots/"><u>2024 Approved From Gameplay to Recording Expert Techniques for PS3 Screenshots</u></a></li>
-<li><a href="https://facebook.techidaily.com/fine-tune-your-digital-experience-decrease-targeted-promotions/"><u>Fine-Tune Your Digital Experience: Decrease Targeted Promotions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/handling-http-status-code-401unauthorized-tips-and-solutions/"><u>Handling HTTP Status Code 401Unauthorized: Tips and Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-v27-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo V27 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 8 Plus without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 8 Plus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/managing-web-cookies-onoff-settings-for-chrome-firefox-opera-and-edge-in-microsofts-latest-operating-system/"><u>Managing Web Cookies: On/Off Settings for Chrome, Firefox, Opera & Edge in Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-metaverse-compelling-vr-headsets-recommended-for-2024/"><u>Navigating Metaverse Compelling VR Headsets Recommended for 2024</u></a></li>
-<li><a href="https://techidaily.com/reno-8t-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Reno 8T 5G support - Forgotten screen lock.</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2003-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2003 Spreadsheet Disappears after Opening | Stellar</u></a></li>
-<li><a href="https://techidaily.com/tecno-data-recovery-recover-lost-data-from-tecno-spark-20-proplus-by-fonelab-android-recover-data/"><u>Tecno Data Recovery – recover lost data from Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-windows-video-communicators-list-1-8-for-2024/"><u>[New] Best Windows Video Communicators List #1-8 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-leveraging-pip-for-multitasking-in-edge-browser-for-2024/"><u>[New] Leveraging PIP for Multitasking in Edge Browser for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-15-youtube-playlists-catering-to-musicians/"><u>[Updated] 2024 Approved Top 15 YouTube Playlists Catering to Musicians</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-selection-childrens-drone-choices/"><u>[Updated] In 2024, Ultimate Selection Children's Drone Choices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-real-time-streaming-excellence-instagram-and-obs-unite/"><u>[Updated] Real-Time Streaming Excellence Instagram and OBS Unite</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-the-process-of-obs-installation-on-apple-devices-for-2024/"><u>[Updated] Unveiling the Process of OBS Installation on Apple Devices for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-6-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 6 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-13-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 13 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-a14-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy A14 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-the-unresponsive-epic-games-launcher-problem/"><u>Quick Fixes for the Unresponsive Epic Games Launcher Problem</u></a></li>
+<li><a href="https://techidaily.com/sign-wpd-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wpd file Documents Online for Free</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-tecnicas-mas-efectivas-para-mejorar-la-nitidez-de-imagenes-en-2024/"><u>Top 5 Técnicas Más Efectivas Para Mejorar La Nitidez De Imágenes en 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
 

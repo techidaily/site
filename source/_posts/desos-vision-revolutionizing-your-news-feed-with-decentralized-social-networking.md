@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2024-09-25T22:44:16.971Z
-updated: 2024-09-30T17:24:56.579Z
+date: 2024-10-02T23:42:25.247Z
+updated: 2024-10-05T23:54:46.299Z
 tags:
   - cutting-edge
 categories:
@@ -48,6 +48,13 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  Before we go deeper into what this all means, let's examine what's now working well with legacy social media platforms and companies.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Issues With Web2 Social Media** 
 
  It's helpful to see that the [incentives are misaligned in Web2](https://techcrunch.com/2021/11/08/web-3-0-can-repair-the-attention-driven-digital-economy/) between the users and the platforms because the game theory of Web2 social is zero-sum. The networks own the user-generated data and content on their platforms and then use this data and content to advertise back to the users.
@@ -62,25 +69,18 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  This effectively turns the social graph each Web2 social media company controls into a moat that they use to keep you there. If you want to go to a different platform, you have to start all over again, building a following and creating and sharing content.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Benefits of DeSo Built with an Open Social Graph** 
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
-_[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+_[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
 
 ### **Control** 
 
@@ -97,10 +97,10 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  An open social graph allows for a social media experience that more closely resembles the native Web3 multiverse where things can connect with each other. The ability to move your friends list is quite a big change in how we understand social graphs. DeSo allows a future of social media that is not a unique universe or walled garden, but is a multiverse where things can talk to each other and interact in multi-faceted ways.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Choose Your Front-End** 
@@ -114,10 +114,10 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Case Study: Lens Protocol, An Open Social Graph** 
@@ -139,10 +139,10 @@ _[Lens Protocol](https://lens.xyz/)_
  Lens leverages the modular method for allowing an ecosystem of apps to build without having to worry about the backend and underlying technology. This frees up developers and designers to focus on the user experience and front end. Builders can bypass the heavy lift of creating network effects and bootstrapping a network, offering them a chance to streamline their efforts for creating real value for the end users. Furthermore, modular design allows for an infinitely expanding amount of use cases and features that interact and layer on top of one another that goes beyond platforms like Facebook and Twitter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Where Do We Go From Here?** 
@@ -172,20 +172,20 @@ _[Lens Protocol](https://lens.xyz/)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-blurry-to-sharp-mastering-vce-version-22/"><u>[New] From Blurry to Sharp Mastering VCE Version 2.2</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-edge-6-solutions-for-audiovisual-translation/"><u>2024 Approved Cutting-Edge 6 Solutions for Audio/Visual Translation</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-s23-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy S23 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-realme-gt-5-240w-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Realme GT 5 (240W).</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-v2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic V2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50-gt-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50 GT Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-s23plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel S23+ Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-vivo-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Vivo Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/illuminate-focus-through-the-use-of-leading-lines-in-iphone-photography/"><u>Illuminate Focus Through the Use of Leading Lines in iPhone Photography</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-c51-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C51 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplify-images-remove-the-environmental-elements/"><u>Simplify Images Remove the Environmental Elements</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Infinix Smart 7 HD</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-steps-fixing-a-non-functional-samsung-blu-ray-player/"><u>Troubleshooting Steps: Fixing a Non-Functional Samsung Blu-Ray Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-4k-clarity-redefined-an-intensive-overview-of-the-dell-p2715q-screen/"><u>[New] 4K Clarity Redefined An Intensive Overview of the Dell P2715Q Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-crystalstream-hd-converter-software-suite/"><u>[New] In 2024, CrystalStream HD Converter Software Suite</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-moviemakermag-comprehensive-editor-review/"><u>[Updated] 2024 Approved MovieMakerMag Comprehensive Editor Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y77t-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y77t Phone When You Forget the Password</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-zero-5g-2023-turbo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Zero 5G 2023 Turbo Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-tools-for-watchable-gaming/"><u>Cutting-Edge Tools for Watchable Gaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-audio-clips-to-written-content-harnessing-ms-words-transcription-features-for-2024/"><u>From Audio Clips to Written Content Harnessing MS Word's Transcription Features for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/full-facebook-call-archive-feature-guide/"><u>Full-Facebook Call Archive Feature Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-hot-40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Hot 40 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a34-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A34 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-crafting-the-ultimate-soundtrack-for-visual-media/"><u>New In 2024, Crafting the Ultimate Soundtrack for Visual Media</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nokia-g310-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nokia G310</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-zero-dollar-video-editing-pathway-for-2024/"><u>Vimeo's Zero-Dollar Video Editing Pathway for 2024</u></a></li>
 </ul></div>
 

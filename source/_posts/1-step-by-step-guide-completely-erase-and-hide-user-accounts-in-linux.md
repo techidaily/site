@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux"
-date: 2024-09-25T02:19:57.282Z
-updated: 2024-09-30T17:31:41.944Z
+date: 2024-10-02T22:40:56.313Z
+updated: 2024-10-06T00:51:13.609Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  If you just want to delete a user account from your system and aren't concerned about ending any running processes and other cleanup tasks, follow the steps in the "Deleting the User Account" section below. You'll need the `deluser` command on Debian-based distributions and the `userdel` command on other Linux distributions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  User Accounts on Linux
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  Everything's set. All eyes are on you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check the Login
 
  Let's see if he really is logged in and, if he is, how many sessions he's working with. The `who` command [will list active sessions](http://man7.org/linux/man-pages/man1/who.1.html).
@@ -62,21 +69,7 @@ who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Eric is logged in once. Let's see what processes he's running.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Reviewing The User's Processes
 
@@ -92,18 +85,25 @@ top -U eric
 
 ![top -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We can see the memory and CPU usage of each task, and can quickly look for anything with suspicious activity. We're about to forcibly kill all of his processes, so it is safest to take a moment to quickly review the processes, and check and make sure that other users are not going to be inconvenienced when you terminate user account `eric`'s processes.
 
 ![Output from top -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It doesn't look like he's doing much, just using `less` to view a file. We're safe to proceed. But before we kill his processes, we'll freeze the account by locking the password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Locking the Account
 
@@ -125,18 +125,18 @@ sudo passwd -l eric
 
 ![sudo passwd -l eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If we check the `/etc/passwd` file again, we'll see what's happened.
 
 sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
 
 ![sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/21-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  An exclamation mark has been added to the start of the encrypted password. It doesn't overwrite the first character, it's just added to the start of the password. That's all that's required to prevent a user from being able to log in to that account.
 
@@ -156,16 +156,16 @@ who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  His session is gone. He's been logged off and his processes have been stopped. That's taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric's desk.
 
 Related: [How to Add and Remove Users on Ubuntu](https://fox-links.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded-for-2024/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Archiving the User's home Directory
 
@@ -188,6 +188,13 @@ ls -lh eric-20200802.tar.bz
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A file of 722 MB has been created. This can be copied somewhere safe for later review.
 
 ##  Removing cron Jobs
@@ -204,13 +211,6 @@ sudo crontab -r -u eric
 
 ![sudo crontab -r -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.
 
 ##  Removing Print Jobs
@@ -222,10 +222,10 @@ lprm -U eric
 ![lprm -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The jobs are removed and you are returned to the command line.
@@ -291,18 +291,18 @@ sudo less /etc/group | grep eric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-visual-journey-to-crafting-a-user-friendly-subscribe-link/"><u>[Updated] A Visual Journey to Crafting a User-Friendly Subscribe Link</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-questions-on-vlc-player-mac-integration/"><u>2024 Approved Top Questions on VLC Player Mac Integration</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conversing-with-confidence-mastering-japanese-salutations/"><u>Conversing with Confidence: Mastering Japanese Salutations</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-heroics-damian-and-ms-sql-restoration/"><u>Data Heroics: Damian and MS SQL Restoration</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-magic-of-lightzone-top-ranked-photo-editor-for-all-platforms/"><u>Experience the Magic of Lightzone - Top-Ranked Photo Editor for All Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-repair-issues-when-using-the-clownfish-audio-alteration-device/"><u>How to Repair Issues When Using the Clownfish Audio Alteration Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nubia Red Magic 9 Pro+?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/no-more-delays-on-your-ai-journey-an-alternative-to-chatgpts-desktop-app-that-you-can-start-using-today/"><u>No More Delays on Your AI Journey - An Alternative to ChatGPT's Desktop App that You Can Start Using Today!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pinnacle-display-top-5-high-definition-hdmi-21-pcmonitor-for-2024/"><u>Pinnacle Display Top 5 High-Definition (HDMI 2.1) PC/Monitor for 2024</u></a></li>
-<li><a href="https://techidaily.com/s17-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>S17 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-a15-4g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-6-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6 without Face ID</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-a24-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A24 play AVCHD mts files?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-remedies-for-disabling-obs-fullscreen/"><u>[Updated] 2024 Approved Remedies for Disabling OBS Fullscreen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/11-year-olds-financial-rise-via-youtube-stardom/"><u>11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-selecting-the-best-ten-spotify-recording-software/"><u>2024 Approved Selecting the Best Ten Spotify Recording Software</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-latency-issues-ultimate-guide-to-optimize-street-fighter-6-performance-on-pc/"><u>Fixing Latency Issues: Ultimate Guide to Optimize Street Fighter 6 Performance on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Plus Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-90-by-fonelab-android-recover-music/"><u>How to restore wiped music on 90</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>In 2024, The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Smart 8 HD</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ming-service-showdown-facebook-vs-youtube-vs-twitvision-for-2024/"><u>Streaming Service Showdown Facebook Vs. YouTube Vs. TwitVision for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-ssd-drives-of-2024/"><u>Top Rated Portable SSD Drives of 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-x100-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo X100 password or pattern lock</u></a></li>
 </ul></div>
 

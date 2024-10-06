@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-09-23T17:11:44.259Z
-updated: 2024-10-01T01:14:15.488Z
+date: 2024-09-30T05:24:53.134Z
+updated: 2024-10-06T14:42:17.236Z
 tags:
   - web
 categories:
@@ -38,26 +38,31 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigating-through-fb-content-on-your-apple-media-hub/"><u>[New] In 2024, Navigating Through FB Content on Your Apple Media Hub</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-embedding-youtube-videos-in-insta-stories/"><u>[Updated] 2024 Approved The Ultimate Guide to Embedding YouTube Videos in Insta Stories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-pros-playbook-elevating-your-facebook-lives-to-new-heights/"><u>[Updated] The Pro's Playbook Elevating Your Facebook Lives to New Heights</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-errors-during-amd-195-installation/"><u>Eliminating Windows Errors During AMD 195 Installation</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hearthstone-stability-issues-resolved-for-desktop-users-guide-and-tips/"><u>Hearthstone Stability Issues Resolved for Desktop Users - Guide & Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xr-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XR iOS System? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-a54-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A54 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-windows-gameplay-unboxing-the-high-end-asus-rog-ally-x-gaming-device/"><u>Mastering Mobile Windows Gameplay: Unboxing the High-End Asus ROG Ally X Gaming Device</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-reno-11-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo Reno 11 5G on Mac</u></a></li>
-<li><a href="https://facebook.techidaily.com/simplifying-your-social-space-with-fb-restrictions/"><u>Simplifying Your Social Space with Fb Restrictions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-ways-to-resolve-non-functioning-aol-emails-on-your-iphone/"><u>Six Ways to Resolve Non-Functioning AOL Emails on Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-find-n3-flip-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo Find N3 Flip</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-guide-never-see-youtube-shorts-again-for-2024/"><u>[Updated] Effortless Guide Never See YouTube Shorts Again for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-master-subtitles-from-srt-with-3-steps/"><u>[Updated] Master Subtitles From SRT with 3 Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus 12R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/best-unmarked-video-content-your-ultimate-guide-to-watermark-free-media/"><u>Best Unmarked Video Content: Your Ultimate Guide to Watermark-Free Media</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-key-drivers-to-upgrade-your-msi-z370-a-pro-system-performance/"><u>Download Key Drivers to Upgrade Your MSI Z370-A Pro System Performance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expand-and-strengthen-wi-fi-coverage-the-new-netgear-nighthawk-x6s-extender-solution/"><u>Expand and Strengthen Wi-Fi Coverage: The New Netgear Nighthawk X6S Extender Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-match-your-logitech-mouse-with-various-systems/"><u>How To Successfully Match Your Logitech Mouse With Various Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-ace-2-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Ace 2 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-k70e-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi K70E working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-why-does-stardew-valley-crash-and-how-to-fix-it/"><u>Seamless Gaming: Why Does Stardew Valley Crash & How to Fix It</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-100-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor 100</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-google-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Google Users</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 15? | Stellar</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Windows 10 Editions, Versions & Builds
-date: 2024-09-29T04:48:36.608Z
-updated: 2024-09-30T18:28:27.308Z
+date: 2024-10-01T00:11:13.303Z
+updated: 2024-10-06T13:50:12.402Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,13 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -45,18 +38,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
@@ -65,6 +58,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **OS Build.** This line shows the specific operating system build you're running. It gives you sort of a timeline of minor build releases in between the major version number releases. In the screenshot above, the "14393.693" build was actually the 13th build released after version 1607 shipped in July, 2016\. This information is somewhat less important to most people than the major version numbers, but it can still help you identify exactly what you're running. If you're curious, you can check out the whole [history of versions and builds for Windows 10](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396) on Microsoft's TechNet site.
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
 
  You can also use the old standby Windows Version (winver) tool to find some of this information. Hit Start, type "winver," and then press Enter. You could also press Windows Key + R, type **winver** into the Run dialog, and press Enter.
@@ -72,10 +72,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
@@ -101,22 +101,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-footage-into-stunning-ig-images/"><u>[New] 2024 Approved Transform Footage Into Stunning IG Images</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-secure-video-streaming-apps-1-to-8-2023-edition/"><u>[Updated] 2024 Approved Top Secure Video Streaming Apps #1 to #8, 2023 Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-understanding-diverse-flavors-in-windows-movie-maker/"><u>[Updated] 2024 Approved Understanding Diverse Flavors in Windows Movie Maker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-screen-record-on-iphone-in-an-easy-way/"><u>[Updated] How to Screen Record on Iphone in An Easy Way?</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-htc-u23-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset HTC U23 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-asus-rog-phone-7-ultimate-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Asus ROG Phone 7 Ultimate Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-s23-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel S23 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-reno-10-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Reno 10 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-the-ping-unable-to-contact-data-centers-in-halo-infinity/"><u>Step-by-Step Solutions to the 'Ping Unable to Contact Data Centers' In Halo Infinity</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone XR | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-90-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor 90</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/transform-your-devices-display-into-a-high-quality-record-for-2024/"><u>Transform Your Device's Display Into a High-Quality Record for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-fixes-for-when-you-cant-access-your-snapchat-account/"><u>Ultimate Fixes for When You Can’t Access Your Snapchat Account</u></a></li>
-<li><a href="https://techidaily.com/will-xperia-10-v-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xperia 10 V play AVCHD mts files?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-streamlining-your-archive-converting-snapchats-ephemeral-snaps/"><u>[New] 2024 Approved Streamlining Your Archive Converting Snapchat's Ephemeral Snaps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-captivating-reels-musical-integration-strategies-for-2024/"><u>[New] Crafting Captivating Reels Musical Integration Strategies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-maestro-professional-photography-and-cinematography-techniques/"><u>[New] From Novice to Maestro Professional Photography & Cinematography Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-prime-methods-for-youtube-content-into-mpeg/"><u>[New] Prime Methods for YouTube Content Into MPEG</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessing-iphones-need-for-an-update/"><u>Assessing iPhone's Need for an Update</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-a1-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo A1 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breakdown-average-monthly-earning-for-podcasters/"><u>In 2024, Breakdown Average Monthly Earning for Podcasters</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-pro-max-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 Pro Max Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-14-plus-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 14 Plus Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-address-persistent-freezes-during-gta-v-sessions/"><u>Troubleshooting Guide: How to Address Persistent Freezes During GTA V Sessions</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-tecno-pova-6-pro-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Tecno Pova 6 Pro 5G fingerprint</u></a></li>
+<li><a href="https://techidaily.com/you-must-know-how-to-share-your-winning-forex-trades-with-friends-and-family-by-mt4copier-guide/"><u>You must know how to Share Your Winning Forex Trades With Friends and Family</u></a></li>
 </ul></div>
 

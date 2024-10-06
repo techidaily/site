@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Minecraft Performance: Ultimate Guide to Eliminating Lag on Powerful Gaming Rigs"
-date: 2024-09-20T18:11:03.956Z
-updated: 2024-09-24T05:35:16.573Z
+date: 2024-10-02T10:19:14.113Z
+updated: 2024-10-05T19:51:12.235Z
 tags:
   - win11
   - win10
@@ -82,16 +82,16 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
@@ -107,28 +107,15 @@ a) get it through your Windows computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
@@ -150,20 +137,34 @@ a) get it through your Windows computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3322be6ce67.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
@@ -180,13 +181,6 @@ a) get it through your Windows computer:
  3-2) Click Sign up as a new user and follow the on-screen instructions to sign up and log in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
@@ -215,5 +209,22 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-discover-the-art-of-curating-music-on-youtube-with-our-steps/"><u>[New] 2024 Approved Discover the Art of Curating Music on YouTube with Our Steps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-easy-guide-record-mov-files-on-win-11-pc/"><u>[New] 2024 Approved Easy Guide Record MOV Files on Win 11 PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cinematic-brilliance-through-masterful-application-of-luts-from-cg-central-for-2024/"><u>[New] Cinematic Brilliance Through Masterful Application of Luts From CG Central for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-embedding-spotify-content-into-a-youtube-music-list/"><u>[New] Embedding Spotify Content Into a YouTube Music List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-gamers-showcase-premium-setups-unveiled/"><u>[Updated] 2024 Approved Elite Gamers' Showcase – Premium Setups Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-10-dynamic-image-backdrops-for-video-editing/"><u>2024 Approved Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g84-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G84 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-motorola-edge-40-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Edge 40 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze 2 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-12plus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 12+ 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-system-shutdown-alerts-due-to-roblox-glitches/"><u>Overcoming System Shutdown Alerts Due to Roblox Glitches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recovering-a-deleted-or-disabled-instagram-profile-tips-and-tricks/"><u>Recovering a Deleted or Disabled Instagram Profile: Tips and Tricks</u></a></li>
+<li><a href="https://techidaily.com/sony-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Sony can't play MP4 video files</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-google-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Google</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Xiaomi Redmi 12 5G.</u></a></li>
+</ul></div>
 

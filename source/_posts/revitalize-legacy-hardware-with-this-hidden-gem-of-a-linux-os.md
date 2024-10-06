@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-09-23T21:32:52.655Z
-updated: 2024-09-30T21:03:44.763Z
+date: 2024-09-29T22:15:06.164Z
+updated: 2024-10-06T04:14:26.213Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Ubuntu isn’t your only option for reviving old PCs through Linux. Xubuntu is a lighter version of Ubuntu capable of running on moderately old hardware. Let’s see how well it delivers the Ubuntu experience on an older laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is Xubuntu?
 
 [Xubuntu](https://xubuntu.org/) is a flavor of Ubuntu featuring the XFCE desktop environment (hence the “X” in the name). It’s supposed to strip down Ubuntu for a more minimalist (yet super configurable and supported) experience.
@@ -28,11 +35,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu desktop and terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_32_42.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the very first boot, most apps you need to get working are right there in the app menu. The full [LibreOffice](https://screen-capture.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/) suite (including Libre Draw), a mail client, GIMP (for image manipulation), and Mozilla Firefox are packaged with the installation. Plus, it has two GUI software stores to download any other apps: App Center and Synaptic Package Manager.
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
 
@@ -52,23 +73,9 @@ Close
 
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Running Xubuntu
 
@@ -80,13 +87,6 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Running Ubuntu
 
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
@@ -94,10 +94,10 @@ Close
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
@@ -137,18 +137,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-creating-impactful-content-20-vlog-ideas/"><u>[Updated] 2024 Approved Creating Impactful Content 20 Vlog Ideas</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unseen-sonic-scribes-best-kept-mobile-voice-loggers-list/"><u>[Updated] 2024 Approved Unseen Sonic Scribes Best-Kept Mobile Voice Loggers List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-missing-or-corrupt-ac1st16dll-error-on-your-computer/"><u>Fixing 'Missing or Corrupt' ac1st16.dll Error on Your Computer</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-12-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus 12 Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f15-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F15 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>In 2024, How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 13 and iPad</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone X | Stellar</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-software-without-watermark/"><u>Updated In 2024, Free Video Editing Software Without Watermark</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone SE? | Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>[New] Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-v30-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme V30 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-meizu-21-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Meizu 21 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/educators-essential-video-recording-gadgets-top-10-picks-for-2024/"><u>Educator's Essential Video Recording Gadgets Top 10 Picks for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-x8b-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X8b Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-x7-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find X7 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/setting-up-zoom-like-a-pro-for-2024/"><u>Setting Up Zoom Like a Pro for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-how-to-stop-wrath-of-the-righteous-from-crashing/"><u>Troubleshooting Tips: How to Stop 'Wrath of the Righteous' From Crashing</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 

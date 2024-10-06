@@ -1,7 +1,7 @@
 ---
 title: "ABBYY and the Hamburg Football Association: A Strategic Partnership"
-date: 2024-09-22T22:40:54.896Z
-updated: 2024-09-23T17:19:47.411Z
+date: 2024-10-03T08:52:58.559Z
+updated: 2024-10-06T06:22:28.540Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c857eac1255a179cf5757415.jpg
@@ -20,10 +20,10 @@ Social Work
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ABBYY beim Hamburger Fußball Verband
@@ -51,35 +51,22 @@ Der HFV ist so begeistert von der Lösung, dass ab dem 1\. Juli 2009 auch der al
 ![HFV one](https://static1.abbyy.com/abbyycommedia/6018/hfv-one.png)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![HFV two](https://static1.abbyy.com/abbyycommedia/6019/hfv-two.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Über ABBYY und Kontaktmöglichkeiten
 
@@ -88,6 +75,19 @@ Der HFV ist so begeistert von der Lösung, dass ab dem 1\. Juli 2009 auch der al
 [Kontakt ›](https://tools.techidaily.com/abbyy/products/)
 
 Teilen 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
@@ -108,5 +108,20 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortlessly-download-top-5-chromium-plug-ins-for-fb-video-access/"><u>[New] Effortlessly Download Top 5 Chromium Plug-Ins for FB Video Access</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-discover-the-evolution-of-video-technology-with-mycams-review/"><u>[New] In 2024, Discover the Evolution of Video Technology with MyCam's Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-laughter-and-tears-on-insta-the-ultimate-meme-page-list/"><u>2024 Approved Laughter & Tears on Insta The Ultimate Meme Page List</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-snapsavvy-ai-revolutionizing-edit-processes/"><u>2024 Approved SnapSavvy AI Revolutionizing Edit Processes</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-moments-that-foster-interest-in-audios-for-2024/"><u>First Moments that Foster Interest in Audios for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-neo-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Neo Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-30ifrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 30iFRP Lock</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals/"><u>In 2024, Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/v30t-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>V30T support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oneplus-ace-2-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of OnePlus Ace 2?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Processor Power
-date: 2024-09-23T06:24:00.509Z
-updated: 2024-09-23T16:05:43.954Z
+date: 2024-09-29T19:34:54.477Z
+updated: 2024-10-05T21:06:42.154Z
 tags:
   - win11
   - win10
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6dbe715e4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) When you discover which program(s) is hogging your computer resources, consider shutting it down to speed up your PC. To do this, switch to the program, and close it as you normally would (e.g. by clicking the X at the top right of the program). If it refuses to shut down normally, select it from the list in Task Manager and click**End task** to force a close. (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ---
@@ -104,37 +97,24 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d7196c0d1e.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 , e.g.:
 
  2) Click the dust-bin icon on the right to uninstall the extensions you don’t need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d71726af58.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **If you’re using Firefox**
 
  1) Copy and paste**about:addons** into the Firefox browser address bar and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d72ba99bb5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Extensions** and**Plugins** on the left side of the window to see all your add-ons, select the ones you don’t need and click**Disable** or**Remove** to disable or uninstall them.
 
@@ -149,13 +129,6 @@ Fortunately, extensions are very easy to disable or remove:
  1)On your keyboard, press the **Windows logo key**  and **S**  at the same time. Type   **optimize visual**  and click **Optimize visual display** .
 
 ![Turn off animations Windows 10](https://images.drivereasy.com/wp-content/uploads/2017/06/Turn-off-animations.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Scroll down a little bit and tick the checkbox for**Turn off all unnecessary animations (when possible)** . Then click**Apply** and**OK** to save the change.
 
@@ -207,6 +180,13 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 8: Uninstall unnecessary programs
 
  If you have too many programs installed on your computer, it can slow down because they use disk space, memory and processing power. So you should delete any programs you don’t use (and which Windows doesn’t need to function properly). Here’s how:
@@ -226,10 +206,10 @@ Fortunately, extensions are very easy to disable or remove:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9: Clear temporary files
@@ -244,6 +224,13 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e73827e171.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Press the**Ctrl key** and**A** at the same time to select all the files you see here, and press the**Delete** key to delete them all.
 
 ![Delete temp files in Windows 10](https://images.drivereasy.com/wp-content/uploads/2017/06/Delete-temp-files-in-Windows-10.png)
@@ -251,13 +238,6 @@ Fortunately, extensions are very easy to disable or remove:
  3) If, while trying to delete these files, you get a message saying a file or folder is in use, click**Skip** . The file won’t be deleted, but that’s OK; you can get it next time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e96992db13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) It could take up to a few minutes for all these files to be deleted – especially if many of them are large. If you’re clearing your temp files regularly, though, it should take only a few seconds.
 
@@ -279,23 +259,9 @@ Here’s how to add more virtual memory:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the**Advanced** tab, and click**Change.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Make sure the checkbox for **Automatically manage paging file size for all drives** is **NOT ticked** .
 
@@ -333,6 +299,13 @@ To reduce the temperature of your computer, you can:
  Note that overheating can also be caused by a damaged or faulty RAM stick, processor or graphics card. If you believe your PC is still running too hot after you’ve done the above, you may need to consult your PC retailer or manufacturer, or your local computer repair shop.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 12: Verify the integrity of your hard disk
 
@@ -374,6 +347,13 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fb9a304288.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the drive you want to defragment, and click**Optimize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fcf8b6a57b.png)
@@ -394,6 +374,13 @@ To reduce the temperature of your computer, you can:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 15: Upgrade some hardware
 
  If you’ve tried all the above fixes, but your computer is still running slowly, it’s time for you to focus on your hardware. A damaged video card, an insufficient amount of RAM or worn out cooling fans could be causing your computer to run slow.
@@ -405,6 +392,13 @@ To reduce the temperature of your computer, you can:
 ## Fix 16: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -447,5 +441,16 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-televised-facebook-live-4-strategies-for-2024/"><u>[Updated] Exploring Televised Facebook Live 4 Strategies for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a1x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A1x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-motorola-moto-g-stylus-5g-2023-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Motorola Moto G Stylus 5G (2023) FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009820023-effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-proplus-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro+ 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-milestones-of-vegaspros-2019-upgrade/"><u>In 2024, The Milestones of VegasPro's 2019 Upgrade</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-affordable-online-communication-apps-for-video-calls/"><u>In 2024, Top 10 Affordable Online Communication Apps for Video Calls</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-x50-gt-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor X50 GT Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

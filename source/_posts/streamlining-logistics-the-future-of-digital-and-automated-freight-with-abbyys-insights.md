@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Logistics: The Future of Digital & Automated Freight with ABBYY's Insights"
-date: 2024-09-22T08:11:14.976Z
-updated: 2024-09-23T19:27:18.380Z
+date: 2024-10-01T02:46:36.203Z
+updated: 2024-10-05T22:44:16.025Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
@@ -20,33 +20,19 @@ French
 ![04 Lindaameur 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![04 Lindaameur 198X198](https://static4.abbyy.com/abbyycommedia/25106/04-lindaameur-198x198.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Linda Ameur
 
 Directrice Commerciale, **ABBYY France**
 
 ![Joël Glusman](https://static4.abbyy.com/abbyycommedia/32797/71-joelglusman-198x198.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Joël Glusman
 
@@ -56,15 +42,22 @@ Président et CEO, **Crystal Group** et **Qualitair & sea**
 
 ![07 Oliviervasseur 198X198](https://static4.abbyy.com/abbyycommedia/25112/07-oliviervasseur-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Olivier Vasseur
 
 Solution Architect, **ABBYY France**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -75,6 +68,13 @@ Nous avions le plaisir d’échanger avec **Joël Glusman, Président et CEO Cry
 
 Au travers de différents cas clients ainsi qu’une démonstration, nous avons montré par la suite comment l’intelligence digitale aide les prestataires de transport et logistique à obtenir toutes les informations des documents de transport, de façon juste et avec une vérification instantanée à chaque dédouanement tout au long du parcours.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Regardez maintenant
 
 ### Get in touch with us
@@ -83,10 +83,10 @@ Please note that progressive profiling is used on this form to incrementally col
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Merci et bon webinaire !
@@ -158,5 +158,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-mystery-of-non-existent-videos-insight-into-fb-feed-absence/"><u>[New] 2024 Approved The Mystery of Non-Existent Videos Insight Into FB Feed Absence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-device-media-transfer-protocols/"><u>[New] Harmonizing Device Media Transfer Protocols</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfect-your-content-mix-horizontal-videos-on-the-igtv-stage/"><u>[Updated] Perfect Your Content Mix Horizontal Videos on the IGTV Stage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reawakening-windows-photo-viewer-in-windows-10-with-ease/"><u>[Updated] Reawakening Windows Photo Viewer in Windows 10 with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-upgrade-for-your-dymo-4xl-label-printer-today/"><u>Get the Latest Upgrade for Your DYMO 4XL Label Printer Today!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-the-potential-of-quantum-hdr-imaging-for-2024/"><u>Harnessing the Potential of Quantum HDR Imaging for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-se-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone SE</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-realme-10t-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Realme 10T 5G on Mac</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-y78plus-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo Y78+</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-90-gt-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 90 GT Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

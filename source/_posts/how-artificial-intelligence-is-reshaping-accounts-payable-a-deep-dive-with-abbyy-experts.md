@@ -1,7 +1,7 @@
 ---
 title: How Artificial Intelligence Is Reshaping Accounts Payable - A Deep Dive with ABBYY Experts
-date: 2024-09-21T00:47:40.176Z
-updated: 2024-09-23T16:06:22.080Z
+date: 2024-10-01T12:34:19.703Z
+updated: 2024-10-06T13:06:51.651Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af3415416f540b09fcf25e37cb1c7dd.jpg
@@ -27,6 +27,19 @@ Organizations are seeing the promise of consumer-AI capabilities within the ente
 
 The biggest challenge to achieving quick results, according to Big Four firm PwC, is the availability of large volumes of labeled data to train the system. Invoices are a prime example of large volumes of labeled data, and represent an opportune area to initiate AI-enabling technology. Here are tangible ways AI can enhance accounts payable and show immediate benefits.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Beyond Invoice Automation
 
 Eliminating paper is the first step towards the digital transformation of AP. Many organizations have incorporated sophisticated capture technology that automatically extracts, validates and matches data from invoices, and seamlessly feeds the results into the AP workflow, ERP system or line-of-business application.
@@ -34,10 +47,10 @@ Eliminating paper is the first step towards the digital transformation of AP. Ma
 The next generation of machine learning in AP includes the intelligent extraction of line and field data that incorporates the understanding of the overall structure of an invoice. Machine learning technology allows the system to recognize patterns, such as when a certain general ledger code is applied to a certain invoice; and learn overall structure of an invoice in order to extract all the meaningful data automatically. The system will learn these patterns and will suggest codes to the users coding them or find all the totals, amounts, and details contained within the invoice. AI recognizes the result and knows how to process, validate and recommend this data. This will reduce the amount of time AP spends on keying and correcting data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Lean IT support
@@ -45,10 +58,10 @@ The next generation of machine learning in AP includes the intelligent extractio
 A large IT staff that can code and implement time-consuming algorithms and workflows is not a luxury that most organizations can afford. This is where robotic process automation and AI expedite the process by enabling AP operators to train systems with user-friendly interfaces. Training allows the operator to act as a facilitator of intelligence back into the application, thus eliminating the need for IT resources.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Smarter Decisions
@@ -65,13 +78,6 @@ Integrating AI within accounts payable (or in any part of the enterprise) is pos
 
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bruce Orcutt
 
 Senior Vice President of Product Marketing at ABBYY
@@ -81,10 +87,10 @@ Bruce Orcutt is a veteran Product Marketing and Product Management professional 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -148,5 +154,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>[New] A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-essential-steps-for-forming-a-facebook-profile/"><u>[Updated] In 2024, The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audiophiles-collection-of-drama-writing/"><u>2024 Approved Audiophile's Collection of Drama Writing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-top-handheld-audio-devices-of-2024/"><u>Exploring the Top Handheld Audio Devices of 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-driver-update-for-your-acer-predator-xb271h-display/"><u>Fast & Simple Driver Update for Your Acer Predator XB271H Display</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10C in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introduction-to-russian-verbal-courtesies-crucial-phrases-and-words/"><u>Introduction to Russian Verbal Courtesies: Crucial Phrases and Words</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-slim-release-date-specs-revealed-get-up-to-date-information-on-prices-and-launch-window/"><u>PS5 Slim Release Date, Specs Revealed: Get Up-to-Date Information on Prices and Launch Window</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-90-lite-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor 90 Lite</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-7-plus-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 7 Plus by restoring it to default settings</u></a></li>
+</ul></div>
 

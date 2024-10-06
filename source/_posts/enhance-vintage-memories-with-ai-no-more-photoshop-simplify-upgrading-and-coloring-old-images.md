@@ -1,7 +1,7 @@
 ---
 title: "Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images"
-date: 2024-09-24T02:59:27.720Z
-updated: 2024-10-01T04:39:58.606Z
+date: 2024-10-03T14:41:28.799Z
+updated: 2024-10-05T22:59:23.156Z
 tags:
   - cutting-edge
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ![Sample photos showcasing Microsoft's photo restoration AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0001.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unfortunately, Microsoft has yet to offer an official app to use this AI. If you have a powerful PC and you possess the technical know-how, you can run the AI on your own hardware.
 
  But the easiest way is to run it for free on the cloud. You can either use:
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  To get started with Replicate, all we need is a GitHub account. If you already have a GitHub, skip this step, otherwise, head over to [GitHub](https://github.com/join/). You need a valid email to join GitHub and the sign-up only takes a few minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Restoring Old Photos
 
  After [logging into Replicate](https://replicate.com/), we’re ready for the first step. In the search bar, enter **Bringing Old Photos Back to Life**, or you can [go directly to the page](https://www.replicate.com/microsoft/bringing-old-photos-back-to-life).
@@ -53,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
  Click the tiny cloud icon to select and upload the photo you want to restore.
 
 ![Clicking the upload button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
 
@@ -69,18 +76,18 @@ Close
 
 ![Steps for running photo restoration AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Keep an eye on the Warm or Cold tag under the title of the AI model. A cold tag means the model is booting, and your photo will take longer to process. If the model is already warm, you’ll get the output sooner.
 
  As you can see, the AI has done a great job of cleaning up the photo. ​​​​Click “Download” to get your restored image in full resolution. Or click “Tweak” to run the AI again with different settings.
 
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Colorizing Restored Photos
 
@@ -94,22 +101,15 @@ Close
 
 ![Arrow indicating the upload button on the Deoldify input form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Deoldify has two settings: the model name and the render factor. You can play around with both until you get the best result. The default is the Artistic model and a render factor of “35” which should work in most scenarios. I got a better result with Stable here.
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
@@ -117,10 +117,10 @@ Close
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Upscaling Old Photos
@@ -139,16 +139,16 @@ Close
 
 ![Steps for running the upscaling AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When it's done, the before and after previews look identical. But when you download the processed file, it has a much higher resolution.
 
 ![Arrow indicating the download button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
 
@@ -177,20 +177,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-find-muted-conversations-on-snapchat/"><u>[New] 2024 Approved How to Find Muted Conversations on Snapchat</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-podcastpioneers-charting-new-territories/"><u>[New] In 2024, PodcastPioneers Charting New Territories</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/21919835-updated-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>[Updated] Boost Channels to Partner Status in Under 90 Days, Start Now</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-xcover-7-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy XCover 7 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-f14-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy F14 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 mini Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-maintain-anonymity-in-fb-narratives/"><u>In 2024, Maintain Anonymity in FB Narratives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-employment-opportunities-discover-how-chatgpt-can-aid-in-your-job-hunt/"><u>Maximize Employment Opportunities: Discover How ChatGPT Can Aid in Your Job Hunt</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-13-pro-max-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 13 Pro Max failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-x50i-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor X50i</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-leading-online-video-promo-builders/"><u>Updated 2024 Approved Leading Online Video Promo Builders</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-galaxy-f54-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Galaxy F54 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/vintage-video-preservation-the-ultimate-guide-to-digitizing-your-vhs-collection-using-cutting-edge-apps/"><u>Vintage Video Preservation: The Ultimate Guide to Digitizing Your VHS Collection Using Cutting-Edge Apps</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT 5 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-iphone-techniques-creating-extended-frame-videos/"><u>[New] In 2024, IPhone Techniques Creating Extended Frame Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamline-your-steam-playback-for-flawless-replays/"><u>[Updated] In 2024, Streamline Your Steam Playback for Flawless Replays</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bypassing-the-hurdles-upgrade-from-windows-10-to-11-now/"><u>Bypassing The Hurdles: Upgrade From Windows 10 to 11 Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-vivo-y100i-power-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Vivo Y100i Power 5G.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-microsofts-directx-directinput-library-errors/"><u>Comprehensive Fixes for Microsoft's DirectX DirectInput Library Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-deskjet-3755-all-in-one-driver-software-for-your-pc-windows-10-8-and-7/"><u>Get the Newest HP DeskJet 3755 All-in-One Driver Software for Your PC (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-100-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 100 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-google-pixel-fold-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel Fold without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to others devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-american-sanctions-on-deepcools-role-in-fueling-russias-war-resources-against-ukraine/"><u>Impact of American Sanctions on DeepCool's Role in Fueling Russia’s War Resources Against Ukraine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-command-prompt-a-guide-to-user-management/"><u>Navigating Command Prompt: A Guide to User Management</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-and-simple-edits-for-an-edge-in-the-tiktok-world/"><u>Quick & Simple Edits for an Edge in the TikTok World</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/vivo-x90s-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo X90S Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
