@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-10-04T18:44:26.554Z
-updated: 2024-10-06T12:43:42.942Z
+date: 2024-10-05T23:29:24.189Z
+updated: 2024-10-11T17:40:14.462Z
 tags:
   - mobile
 categories:
@@ -28,10 +28,10 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
@@ -39,10 +39,10 @@ Bone
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -53,16 +53,16 @@ Joe Fedewa / How-To Geek
 
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How It Works and What You Need
 
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -73,10 +73,10 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -102,15 +102,20 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-8-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 8 to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-experience-the-future-of-video-editing-with-64-bit-power/"><u>New 2024 Approved Experience the Future of Video Editing with 64-Bit Power</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-mystery-of-persistent-iphone-photographs-post-deletion-8-fixes-explained/"><u>The Mystery of Persistent iPhone Photographs Post-Deletion - 8 Fixes Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-role-of-chatgpt-in-facilitating-malware-design-a-possibility-or-myth/"><u>The Role of ChatGPT in Facilitating Malware Design: A Possibility or Myth?</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-lava-blaze-2-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-m6-pro-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from M6 Pro 5G.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-xiaomi-13t-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Xiaomi 13T Pro fingerprint</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-tiktok-watermark-remover-tools-online/"><u>Updated 2024 Approved Top Rated TikTok Watermark Remover Tools Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[New] 2024 Approved How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-inside-camstudios-updated-screen-recorder-techniques/"><u>[New] Inside CamStudio's Updated Screen Recorder Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rights-infringement-abrupt-content-elimination-for-2024/"><u>[New] Rights Infringement Abrupt Content Elimination for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-tutorial-enhancing-your-hp-screen-recordings-for-2024/"><u>[New] Step-by-Step Tutorial Enhancing Your HP Screen Recordings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-the-world-of-youtube-building-strong-partner-relationships/"><u>[Updated] Navigating the World of YouTube Building Strong Partner Relationships</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-ace-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Ace 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/crafting-compelling-compositions-with-magix-fruity-loops/"><u>Crafting Compelling Compositions with Magix Fruity Loops</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-cultural-linguistics-mental-gains/"><u>Cross-Cultural Linguistics, Mental Gains</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-digital-marketing-game-with-cutting-edge-cookiebot-features/"><u>Elevate Your Digital Marketing Game with Cutting-Edge Cookiebot Features</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-g2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo G2 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-fe-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy S23 FE won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-spark-go-2024-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Spark Go (2024)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-y36-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo Y36 without backup.</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Xiaomi Redmi Note 13 5G ?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Video Downloads From Vimeo with Ease"
-date: 2024-09-17T11:35:50.211Z
-updated: 2024-09-24T05:32:58.813Z
+date: 2024-10-09T02:38:03.572Z
+updated: 2024-10-11T20:57:56.289Z
 tags:
   - win11
   - win10
@@ -83,13 +83,6 @@ Please follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bb18d984c0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on the **hosts**  file, then click **Open with** , select **Notepad** . If you have **Notepad++** , choose it like as I do.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bb2245a4a8.png)
@@ -101,13 +94,6 @@ Please follow these:
  5) Run Chrome on your computer and type the website address you set, you should then find it can’t be accessed.
 
 **Note:**  Next time when you want to access the websites you’ve blocked, open your hosts file through the same step 1) -3) and delete the number and website.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3: Adding an blocking-website extension in Chrome
 
@@ -125,46 +111,53 @@ Please follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b4f49327d1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Add extension**  to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b507d2c323.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Back on the extension page and click **F5**  to reload the site. Then click **Options**  under **Block site** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5150d390d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Enter the website address you want to block. Then click **ADD PAGE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5374073f6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Try to access the website on Chrome. You should then see a page like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5209700a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:**  Next time when you want to access the websites you’ve blocked, go to the Options of Block site, click the delete icon ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5336754c9.png) next to the site.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b52e7b43b7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to keep your children surfing safely, the following Way 4 and Way 5 are your best choice to own parental control on your children’s accounts.
 
@@ -184,22 +177,15 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df148651d9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) On the **Add person**  page, you can set the name for your kid’s Google account, and his profile image. Then tick on   **Supervise the person to control and view the websites then visit from your Google account**  and choose your Google account from the drop-down menu. Click **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df1d9d52ea.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click **<www.chrome.com/manage>**  to manage the account you set.
@@ -210,22 +196,36 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df47e9043b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df4a827b6b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Enter the domain or the website address into the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df5cc48f43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Rerun Chrome, and log in your kid’s account, he can’t access the website now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df6b52a641.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 5: Installing a parental control software
 
@@ -246,5 +246,21 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-embrace-video-creation-integrating-windows-movie-maker/"><u>[New] In 2024, Embrace Video Creation Integrating Windows Movie Maker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pinnacle-performance-radeons-new-era/"><u>[New] In 2024, Pinnacle Performance Radeon's New Era</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transformative-tactics-for-advanced-iphone-x-animoji-utilization/"><u>[New] Transformative Tactics for Advanced iPhone X Animoji Utilization</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-which-screen-recorder-delivers-more-insights-into-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved Which Screen Recorder Delivers More? Insights Into Bandicam vs Camtasia</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-durecorder-uncovered-features-and-analysis/"><u>2024 Approved DuRecorder Uncovered Features and Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-perfect-crossfading-techniques-using-audacity/"><u>2024 Approved Perfect Crossfading Techniques Using Audacity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>2024 Approved Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic-6-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic 6 Lite Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-and-systems-the-ultimate-resource-by-toms-hardware/"><u>Navigating the World of Gadgets & Systems – The Ultimate Resource by Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-asus-rog-phone-7-ultimate-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-itel-p40-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Itel P40</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-redmi-13c-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Redmi 13C 5G</u></a></li>
+</ul></div>
 

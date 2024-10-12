@@ -1,7 +1,7 @@
 ---
 title: Speed Hacks - Supercharge Minecraft Gameplay
-date: 2024-09-17T09:11:19.553Z
-updated: 2024-09-24T03:43:29.798Z
+date: 2024-10-10T02:50:15.127Z
+updated: 2024-10-11T19:54:43.171Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Then try 2 methods to speed up Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine6.jpg)
 4. Play the game to check.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Lower the Video Settings
 
  Fancy video settings can bring you nice pictures but they can also make your computer work with more stuff that lowers the gaming speed. So setting your game in low settings can make Minecraft run faster.
@@ -55,13 +62,6 @@ Then try 2 methods to speed up Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine8.jpg)
 3. Set Graphics as Fast.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Turn Smooth Lighting off.
 5. Turn 3D Anaglyph off.
 6. Turn Use VSync off.
@@ -70,13 +70,6 @@ Then try 2 methods to speed up Minecraft:
 9. Lower Max Framerate.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine10.jpg)
 10. Play the game to check.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.**Change the Minecraft game resolution**
 
@@ -93,26 +86,6 @@ Then try 2 methods to speed up Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine5-1.jpg)
 6. Click**PLAY** to check.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Turn off the Sound in Minecraft
 
  Sound is not a necessary part if you want to speed up your Minecraft. Although you may feel a little quite, it’s an easy way to make Minecraft run faster.
@@ -122,13 +95,6 @@ Then try 2 methods to speed up Minecraft:
 2. Click**Music & Sounds.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine12.jpg)
 3. Turn it off.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Play the game to check.
 
@@ -144,10 +110,10 @@ Then try 2 methods to speed up Minecraft:
 6. **[Consider upgrading your computer](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Give Minecraft more RAM
@@ -158,25 +124,56 @@ Then try 2 methods to speed up Minecraft:
 1. Check your installed memory by pressing the**Windows logo key + Pause key** together. You’ll see how much RAM space you have.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ram.jpg)
 2. Run Minecraft, and click the menu button in the right-topper corner.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine1-1.jpg)
 3. Click**Lauch options** \>**Advanced settings** \>**Add new** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine2-1.jpg)
 4. Add a name then click**JVM arguments** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine3.jpg)
 5. Change the**Xmx2G** into**Xmx4G** . Xmx2G means Xmx 2 gigabytes of RAM, you can change 2 into 4 or 8 as you like. Then click**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can never have more RAM dedicated than you have installed on your computer. And there’s no need to add more than 75% of your RAM for Minecraft.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine4.jpg)
 6. Back to the**News** tab, click the arrow button beside**PLAY** and choose the name you add.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mine5-1.jpg)
 7. Click**PLAY** to check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Java as a priority
 
@@ -188,10 +185,10 @@ Then try 2 methods to speed up Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/java.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.**Close unnecessary programs**
@@ -256,5 +253,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-advanced-strategies-for-recording-and-saving-gameplay-on-ps4-for-2024/"><u>[New] Advanced Strategies for Recording and Saving Gameplay on PS4 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-androids-premier-3d-visualization-app/"><u>[Updated] Android's Premier 3D Visualization App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prove-your-skills-fast-and-precise-video-edits-on-windows-11/"><u>[Updated] Prove Your Skills Fast & Precise Video Edits on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-camera-compendium-best-in-class-filmmaking-gear/"><u>2024 Approved Camera Compendium Best in Class Filmmaking Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-digital-life-top-wins11-experiences/"><u>Elevate Your Digital Life Top Wins11 Experiences</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-narzo-60-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme Narzo 60 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-flip-and-rotate-the-top-free-iphone-video-editing-apps-for-2024/"><u>New Flip and Rotate The Top Free iPhone Video Editing Apps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-steps-to-overcome-latency-and-reduce-ping-issues-in-valorant-gaming/"><u>Resolved: Steps to Overcome Latency & Reduce Ping Issues in VALORANT Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-low-cost-windows-11-licenses/"><u>The Insider's Guide to Low-Cost Windows 11 Licenses</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78 5G | Dr.fone</u></a></li>
+</ul></div>
 

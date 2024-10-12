@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-09-28T23:56:43.034Z
-updated: 2024-10-06T03:08:29.340Z
+date: 2024-10-11T00:14:36.866Z
+updated: 2024-10-11T18:55:43.244Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Copilot Web App
@@ -35,32 +35,26 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
@@ -87,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -112,20 +106,24 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-animals-in-play-androids-favorites-list/"><u>[New] 2024 Approved Leading Animals in Play Android's Favorites List</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>[New] In 2024, Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/discover-the-finest-selection-of-royalty-free-mp3s-on-these-10-unbeatable-websites/"><u>Discover the Finest Selection of Royalty-Free MP3s on These 10 Unbeatable Websites!</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-x50i-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor X50i in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/feltolto-kozze-vetelere-az-altalanos-kifejezes-megvaltoztatasat-a-hang-video-hasznalatara/"><u>Feltöltő Közzé Vételére Az Általános Kifejezés Megváltoztatását - A Hang-Vídeó Használatára</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-13-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 13 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-weaving-a-story-in-your-tiktok-closing-moment/"><u>In 2024, Weaving a Story in Your TikTok Closing Moment</u></a></li>
-<li><a href="https://techidaily.com/solved-microsoft-excel-2010-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2010 File Error The document cannot be saved</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nokia-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nokia</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-poco-c51-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Poco C51 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-htc-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from HTC</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-smart-8-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Smart 8.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ideal-choices-the-best-9-gif-recorder-software-on-your-pc/"><u>[New] 2024 Approved Ideal Choices The Best 9 GIF Recorder Software on Your PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unleash-potential-making-your-vids-go-viral/"><u>[New] In 2024, Unleash Potential Making Your Vids Go Viral</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-selecting-facebook-live-capturers/"><u>[Updated] 2024 Approved The Ultimate Guide to Selecting Facebook Live Capturers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-top-5-iphone-podcast-apps-guide/"><u>[Updated] Exclusive Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-13-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 13 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/coming-soon-to-google-store-the-pixel-buds-pro-2-leak-what-we-know-about-price-and-specs/"><u>Coming Soon to Google Store? The Pixel Buds Pro 2 Leak – What We Know About Price and Specs</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-xcover-6-pro-tactical-edition-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy XCover 6 Pro Tactical Edition Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-gt-neo-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme GT Neo 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-60-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo 60 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>In 2024, Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>In 2024, Unveil Clearer Visuals Essential Tips for Zooming on Snapchat</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-narzo-n55-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme Narzo N55</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/switched-on-gaming-a-comprehensive-look-at-nintendos-latest-offerings-lite-and-oled/"><u>Switched On Gaming: A Comprehensive Look at Nintendo's Latest Offerings, Lite and OLED</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transforma-tu-video-desde-3gp-a-mpeg-en-linea-sin-gastos-con-la-herramienta-gratuita-de-movavi/"><u>Transforma Tu Vídeo Desde 3GP a MPEG en Línea Sin Gastos Con La Herramienta Gratuita De Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-customer-support-interactions-via-chatgpt/"><u>Transforming Customer Support Interactions via ChatGPT</u></a></li>
 </ul></div>
 

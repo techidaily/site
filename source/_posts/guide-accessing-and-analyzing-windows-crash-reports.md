@@ -1,7 +1,7 @@
 ---
 title: "Guide: Accessing and Analyzing Windows Crash Reports"
-date: 2024-09-21T02:58:48.455Z
-updated: 2024-09-24T08:52:03.142Z
+date: 2024-10-05T07:25:52.419Z
+updated: 2024-10-11T18:51:25.236Z
 tags:
   - win11
   - win10
@@ -55,19 +55,6 @@ The answer is, no.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975bf68b4ff6.png)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Use DISM Tool**
 
 **DISM**  stands for Deployment Image & Servicing Management. It is a tool that allows you to make changes to Windows features, packages, drivers, and international settings. In this case, we will use it to help us clean up our WinSxS folder.
@@ -77,6 +64,13 @@ The answer is, no.
  1) On your keyboard, press **Windows logo key**   and **X**   at the same time, then choose **Command Prompt (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c1bb42138.png)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When prompted with the UAC, hit **Yes** to continue.
 
@@ -89,15 +83,22 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c1fc428ac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check for possible typo. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c4b394177.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In the same DISM window, type in or copy and paste in the following command:
 
@@ -111,13 +112,6 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup /ResetBase
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c55d520c4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Still in the same window, type in or copy and paste in the following command:
 
 Dism.exe /online /Cleanup-Image /SPSuperseded
@@ -126,16 +120,16 @@ Dism.exe /online /Cleanup-Image /SPSuperseded
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c5c8b3c70.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Make sure that you have made no typo and hit Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c5eb65aaf.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need more assistance, feel free to leave us comment and we will see what else we can do to help.
 
@@ -156,5 +150,16 @@ Hope your problem solved!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram/"><u>[New] From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/causes-and-remedies-for-service-unavailable-dealing-with-http-503-errors-effectively/"><u>Causes and Remedies for 'Service Unavailable': Dealing with HTTP 503 Errors Effectively</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/harness-your-pcs-power-for-high-dynamic-range-video-magic/"><u>Harness Your PC's Power for High Dynamic Range Video Magic</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-yuva-2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Yuva 2 FRP Without Computer</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y78t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Y78t</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-securely-capturing-streamed-sessions-on-vtc-services/"><u>Step-by-Step Guide: Securely Capturing Streamed Sessions on VTC Services</u></a></li>
+</ul></div>
 

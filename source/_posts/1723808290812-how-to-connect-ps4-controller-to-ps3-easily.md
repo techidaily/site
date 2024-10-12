@@ -1,7 +1,7 @@
 ---
 title: How to Connect PS4 Controller to PS3. Easily
-date: 2024-09-18T00:18:35.323Z
-updated: 2024-09-23T17:02:11.915Z
+date: 2024-10-06T01:39:23.968Z
+updated: 2024-10-12T04:26:05.169Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
  Then plug the cable to the controller and the console. Once the controller and the console are connected, the controller will be paired automatically. You can check it by playing games with the PS4 controller on PS3 console.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Connect PS4 controller to PS3 console wirelessly
 
  If you prefer to play games wirelessly, you can choose to connect the PS4 controller to the console through bluetooth.
@@ -54,10 +61,10 @@ Then follow steps below to pair the controller:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/manage-bluetooth-devices.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) If you don’t have other bluetooth device paired, you’ll see the message: The Bluetooth device has not been registered. Do you want to register it? In this case, highlight**Yes** and press the**X** button on the controller.
@@ -65,10 +72,10 @@ Then follow steps below to pair the controller:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a55ec01d26e2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If some bluetooth devices have been paired, you’ll be prompted to pair a new bluetooth device. Highlight**Register Now Device** and press the**X** button on your controller.
@@ -76,28 +83,15 @@ Then follow steps below to pair the controller:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/register-now-devcie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Highlight**Start Scanning** and press the**X** button, then the system will scan available bluetooth devices to pair. You’ll expect the connected PS4 controller will be detected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/starting-scanning.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Disconnect PS4 controller.
 
@@ -127,5 +121,23 @@ Then follow steps below to pair the controller:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-clipcrafter-window-edition-for-2024/"><u>[New] ClipCrafter Window Edition for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-captivating-yt-cover-art-for-maximum-traffic/"><u>[Updated] 2024 Approved Captivating YT Cover Art for Maximum Traffic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-cost-effective-2024-cloud-services/"><u>[Updated] Ultimate Guide to Cost-Effective 2024 Cloud Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-professional-finishes-avoid-blisters-and-pimples-in-your-3d-prints/"><u>Achieve Professional Finishes: Avoid Blisters & Pimples in Your 3D Prints</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-p55t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel P55T Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams-for-2024/"><u>From Concept to Curtain Call Scriptwriting Tips for Successful Streams for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-a24-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy A24 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-12-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 12 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-best-drawing-apps-for-chromebook/"><u>In 2024, FREE Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-g310-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-on-finties-secure-carrying-case-for-macbook-airpro-13-inch-balancing-protection-with-price/"><u>Top Review on Fintie's Secure Carrying Case for MacBook Air/Pro (13-Inch): Balancing Protection with Price</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo</u></a></li>
+</ul></div>
 

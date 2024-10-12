@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware"
-date: 2024-09-30T18:58:17.144Z
-updated: 2024-10-06T06:28:46.805Z
+date: 2024-10-06T08:32:21.962Z
+updated: 2024-10-11T23:32:16.787Z
 tags:
   - desktop
 categories:
@@ -39,45 +39,39 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Opening the Disk Utility from the spotlight search on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-opening-the-disk-utility-from-the-spotlight-on-macos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, select the main volume, usually "Macintosh HD," and click "Partition."
 
 ![Opening the partition panel to parition a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-opening-the-partition-panel-to-parition-a-drive-on-macos.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click the "+" icon and select "Add Partition" from the popup menu.
 
 ![Adding a partition to a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-adding-a-parition-to-a-drive-on-macos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Name the newly created partition, choose "APFS" as the format, and allocate the desired size for the partition. Click "Apply," then "Partition," and finally "Continue" in the warning popup.
 
 ![Applying a partition by defining the partition information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-applying-a-parition-by-defining-the-partition-information.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Newly Created Partition for the Backup
@@ -92,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Restoring a deleted Microsoft Word file from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-restoring-a-deleted-file-from-the-time-machine-backup.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Let Your Backup Drive Get Clogged Up
 
  Since you're backing up your data locally, there's a risk of quickly [filling up your backup drive](https://twitter-videos.techidaily.com/direct-video-transmission-from-twitters-to-whatsapp-for-2024/) if you have large amounts of data and limited storage space on the partition you've allocated for it. To prevent this issue, I suggest only backing up essential files and excluding less important ones.
@@ -106,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  To exclude files from the backup, open the System Settings, and go to General > Time Machine. Then, click the "Options" button, followed by the "+" button, and select the folders you want to exclude from the backup.
 
 ![Excluding some data from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-excluding-some-data-from-the-time-machine-backup-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -128,22 +122,24 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-analysis-and-overview-of-du-recorders-capabilities/"><u>[New] Detailed Analysis and Overview of Du Recorder’s Capabilities</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-5-proven-methods-to-enhance-your-instagram-tv-experience/"><u>[New] In 2024, 5 Proven Methods to Enhance Your Instagram TV Experience</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-your-guide-to-top-6-free-online-video-downloads/"><u>[Updated] 2024 Approved Your Guide to Top 6 Free, Online Video Downloads</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-find-x7-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Find X7 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/digital-audience-accolades-for-content-makers-for-2024/"><u>Digital Audience Accolades for Content Makers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-a-frozen-iphone-15-quick-restart-instructions/"><u>Fix a Frozen iPhone 15: Quick Restart Instructions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-rid-of-pc-crashes-in-dauntless-with-these-effective-solutions/"><u>Get Rid of PC Crashes in Dauntless with These Effective Solutions</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a05-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A05 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-realme-c55-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme C55 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-phantom-v-fold-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 2 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-htc-u23-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset HTC U23 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-nokia-c12-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Nokia C12 Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-approach-to-crafting-hits-on-9gag/"><u>In 2024, Step-by-Step Approach to Crafting Hits on 9GAG</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/spooler-error-printer-not-initializing-in-windows/"><u>Spooler Error: Printer Not Initializing in Windows</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-g42-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia G42 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-phantom-v-flip-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860241974-updated-essential-8-android-group-calls-over-4-users/"><u>[Updated] Essential 8 Android Group Calls Over 4 Users!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-preeminent-5-photo-background-changer-tools-iphone-x87-edition/"><u>2024 Approved Preeminent 5 Photo Background Changer Tools IPhone X/8/7 Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rise-above-1000-subs-youtubing-strategies-for-mobile-creators/"><u>2024 Approved Rise Above 1000 Subs YouTubing Strategies for Mobile Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/comprehensive-tutorial-for-zoom-and-gmail-users/"><u>Comprehensive Tutorial for Zoom and Gmail Users</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggles-in-a-box-iphone-fun-for-2024/"><u>Giggles in a Box (iPhone Fun) for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x6-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X6 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-zte-nubia-z60-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a ZTE Nubia Z60 Ultra Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A34 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-the-conversion-of-vids-to-mp3-on-insta/"><u>In 2024, Mastering the Conversion of Vids to MP3 on Insta</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-setup-download-wacom-intuos-pro-software-for-windows-11-users/"><u>Quick & Easy Setup: Download Wacom Intuos Pro Software for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-lock-screen-without-password-infinix-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Lock Screen without Password(Infinix )</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-poco-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Poco</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-unrecognized-usb-connections-on-your-pc-windows-10/"><u>Step-by-Step Solutions for Fixing Unrecognized USB Connections on Your PC (Windows 10)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-helperdll-error-on-your-pc-tips-and-solutions/"><u>Troubleshooting Missing Helper.dll Error on Your PC – Tips & Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-logitech-usb-headset-drivers-quickly/"><u>Update Your Logitech USB Headset Drivers Quickly</u></a></li>
+<li><a href="https://techidaily.com/will-galaxy-a25-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A25 5G play AVCHD mts files?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

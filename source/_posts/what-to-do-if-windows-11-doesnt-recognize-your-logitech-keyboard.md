@@ -1,7 +1,7 @@
 ---
 title: What to Do if Windows 11 Doesn't Recognize Your Logitech Keyboard
-date: 2024-09-18T04:06:58.493Z
-updated: 2024-09-24T01:55:26.008Z
+date: 2024-10-10T21:36:19.047Z
+updated: 2024-10-12T06:21:16.934Z
 tags:
   - win11
   - win10
@@ -29,19 +29,20 @@ Here are two ways to download AURA software.
 * **[2. Download AURA program according to ASUS AURA product](https://tools.techidaily.com/drivereasy/download/)**
 * **[Bonus: Update ASUS drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Download and install Aura Sync software through the homepage
 
 1. Go to[ASUS’s website](https://www.asus.com/campaign/aura/us/download.html) .
 2. Click**CHOOSE A VERSION** and click the latest version. The software will download automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/2020-06-03_11-27-52.jpg)
 3. Unzip and open the file. Double click**Setup** and follow the on-screen instructions to finish the installation.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Snap70-1.jpg)
 
  ASUS mentioned that you need to ensure you’ve updated to the latest available motherboard BIOS. If you don’t know how to do it, here’s the[guide](https://tools.techidaily.com/drivereasy/download/) .
@@ -54,14 +55,15 @@ Here are two ways to download AURA software.
 2. Type your product’s model name to find it. Then click**Driver & Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap80-1.jpg)
 3. Choose your operating system type. And then download the**AURA** program under**Utilities** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap76.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap76.jpg)
 
 ## Bonus: Update ASUS drivers
 
@@ -73,13 +75,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-asus-aura-for-window-10/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1 – Download and install the driver manually
 
  You can download ASUS products drivers from[ASUS website](https://www.asus.com/us/support/Download-Center/) . Go to the[ASUS download center](https://www.asus.com/us/support/Download-Center/) , enter your model name to find the correct model and choose your specific flavor of Windows system (Window 10 64-bits or etc.) Then download the driver manually.
@@ -87,10 +82,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap73.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update ASUS devices drivers
@@ -105,6 +100,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/asus-radeon.png)
@@ -130,5 +132,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-crafting-shocking-news-titles-expert/"><u>[New] 2024 Approved Crafting Shocking News Titles Expert</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweetvidsoundscape-instant-video-to-sound/"><u>[New] 2024 Approved TweetVidSoundscape Instant Video-to-Sound</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-securing-your-online-discussions/"><u>2024 Approved Securing Your Online Discussions</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-z-fold-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy Z Fold 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/biodiversity-losses-linked-to-climate-or-just-a-coincidence/"><u>Biodiversity Losses Linked to Climate, or Just a Coincidence?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-unlimited-access-use-chatgpt-from-any-location-with-the-power-of-chatgpt-everywhere/"><u>Getting Unlimited Access: Use ChatGPT From Any Location with the Power of ChatGPT Everywhere</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-t2-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo T2 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-usb-tether-connection-problems-quickly/"><u>How to Resolve USB Tether Connection Problems Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instantaneous-itinerary-designer-pick-from-these-7-affordable-chatgpt-tools/"><u>Instantaneous Itinerary Designer: Pick From These 7 Affordable ChatGPT Tools</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-edge-40-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Edge 40 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oneplus-11-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from OnePlus 11 5G.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-g2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo G2 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-oneplus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from OnePlus</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+</ul></div>
 

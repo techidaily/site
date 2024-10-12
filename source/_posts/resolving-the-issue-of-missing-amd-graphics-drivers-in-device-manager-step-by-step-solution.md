@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Missing AMD Graphics Drivers in Device Manager - Step-by-Step Solution
-date: 2024-09-19T07:42:47.797Z
-updated: 2024-09-24T08:30:56.945Z
+date: 2024-10-04T19:42:26.137Z
+updated: 2024-10-11T18:11:48.732Z
 tags:
   - win11
   - win10
@@ -26,19 +26,6 @@ What operating system is running on your phone?
 * [**iOS**](https://tools.techidaily.com/drivereasy/download/)
 * [**Android**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### iOS (iPhone users)
 
 #### To block unwanted calls in iOS
@@ -49,13 +36,6 @@ What operating system is running on your phone?
 4. Scroll to the bottom of your screen, then tap**Block this Caller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-662.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### To unblock phone numbers
 
@@ -68,10 +48,16 @@ What operating system is running on your phone?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-669.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Tap**Edit** on the upper-tight corner,then tap**the minus icon** next to the phone number you want to unblock. Tap**Unblock** to unblock this phone number.
@@ -79,10 +65,10 @@ What operating system is running on your phone?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-iPhone-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Android
@@ -96,6 +82,13 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### To unblock phone numbers
 
 You can follow the steps below to unblock a phone number:
@@ -103,6 +96,13 @@ You can follow the steps below to unblock a phone number:
  1) In your**Phone** app, tap**the menu icon** on the upper-right corner and select**Settings** . Then tap**Blocked numbers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
 
@@ -126,5 +126,19 @@ You can follow the steps below to unblock a phone number:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-essentialists-guide-to-iphone-sound-recording/"><u>[New] In 2024, The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-hero5-black-meets-yi-4k-the-ultimate-update-for-action-camera-fans/"><u>[Updated] In 2024, Hero5 Black Meets Yi 4K - The Ultimate Update for Action Camera Fans</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-play-8t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Play 8T in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 mini Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a78frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A78FRP Lock</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ps5-variants-explored-an-in-depth-look-at-ps5-slim-against-the-regular-ps5/"><u>PS5 Variants Explored: An In-Depth Look at PS5 Slim Against The Regular PS5</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-huawei-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Huawei </u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-10-movie-creation-tools-our-top-picks/"><u>Windows 10 Movie Creation Tools Our Top Picks</u></a></li>
+</ul></div>
 

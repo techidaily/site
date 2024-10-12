@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-10-04T13:02:39.886Z
-updated: 2024-10-05T23:00:35.643Z
+date: 2024-10-09T00:05:43.187Z
+updated: 2024-10-11T17:44:46.013Z
 tags:
   - deals
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To delete a file or folder, use the "Remove-Item PATH" cmdlet in PowerShell. In this command, replace "PATH" with the full path to the file or folder you want to remove.
@@ -35,6 +42,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, [open a File Explorer window](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) and locate the file or folder whose path you want to find. Then, hold down the Shift key on your keyboard, right-click your file or folder, and choose "Copy as Path."
 
 !['Copy as Path' highlighted in Windows' context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-copy-file-folder-path-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
 
@@ -52,23 +66,9 @@ Remove-Item "C:\Users\username\Desktop\Old-List.txt"
 
 ![The 'Remove-Item' cmdlet to delete a file in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-delete-file-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that the command won’t ask for a confirmation before deleting your file. If you’d like the command to do that, add the "Confirm" parameter as follows:
 
 Remove-Item "C:\Users\username\Desktop\Old-List.txt" -Confirm
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Delete a Specific Folder Using PowerShell
 
@@ -103,10 +103,16 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files From a Folder and Its Subfolders
@@ -126,10 +132,10 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
@@ -169,22 +175,19 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-alternatives-spotlighted-by-az-screen-recorder/"><u>[New] Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-virtual-voyages-with-jaunt-vr/"><u>[New] Pioneering Virtual Voyages with Jaunt VR</u></a></li>
-<li><a href="https://windows11.techidaily.com/gain-control-of-costs-windows-11-pro-key-advantages/"><u>Gain Control of Costs: Windows 11 Pro Key Advantages</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-unlocking-financial-success-through-youtubes-viewer-count/"><u>In 2024, Unlocking Financial Success Through Youtube's Viewer Count</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/leading-20-zero-copyright-pubg-image-collections-for-2024/"><u>Leading 20 Zero-Copyright PUBG Image Collections for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/no-copyright-worries-best-sites-for-public-domain-video-downloads-for-2024/"><u>No Copyright Worries Best Sites for Public Domain Video Downloads for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-tecno-camon-20-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Tecno Camon 20 has been deleted.</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-lava-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Lava</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Google Pixel 7a</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-itel-a70-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Itel A70</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-pick-outstanding-external-blu-ray-players-and-burners/"><u>Top Pick: Outstanding External Blu-Ray Players and Burners</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-video-compression-techniques-for-optimal-discord-streaming/"><u>Ultimate Guide: Video Compression Techniques for Optimal Discord Streaming</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Google Pixel 8 Pro</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-video-mastery-with-these-quick-trimming-tips-for-windows-10/"><u>[Updated] Unlock Video Mastery with These Quick Trimming Tips for Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ace-the-art-of-digital-photography-with-lunapic/"><u>2024 Approved Ace the Art of Digital Photography with LunaPic</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-revenue-how-much-do-creators-earn-on-youtube-in-2024/"><u>Decoding Revenue How Much Do Creators Earn on Youtube, In 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-lite-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 Lite If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-razr-40-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Razr 40 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-ace-2v-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus Ace 2V</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/personalized-and-accessible-video-conclusions-downloads/"><u>Personalized & Accessible Video Conclusions Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/setting-the-standard-for-online-video-presentations-yt-thumbnail-sizing-for-2024/"><u>Setting the Standard for Online Video Presentations – YT Thumbnail Sizing for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-huawei-nova-y91-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Huawei Nova Y91</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-8t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 8T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-itel-a70-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Itel A70 Phone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-x50i-by-fonelab-android-recover-data/"><u>Undelete lost data from X50i</u></a></li>
 </ul></div>
 

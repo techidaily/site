@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-09-30T05:24:53.134Z
-updated: 2024-10-06T14:42:17.236Z
+date: 2024-10-06T22:56:10.797Z
+updated: 2024-10-11T17:13:33.369Z
 tags:
   - web
 categories:
@@ -38,31 +38,31 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-guide-never-see-youtube-shorts-again-for-2024/"><u>[Updated] Effortless Guide Never See YouTube Shorts Again for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-master-subtitles-from-srt-with-3-steps/"><u>[Updated] Master Subtitles From SRT with 3 Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oneplus-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus 12R Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/best-unmarked-video-content-your-ultimate-guide-to-watermark-free-media/"><u>Best Unmarked Video Content: Your Ultimate Guide to Watermark-Free Media</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-key-drivers-to-upgrade-your-msi-z370-a-pro-system-performance/"><u>Download Key Drivers to Upgrade Your MSI Z370-A Pro System Performance</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expand-and-strengthen-wi-fi-coverage-the-new-netgear-nighthawk-x6s-extender-solution/"><u>Expand and Strengthen Wi-Fi Coverage: The New Netgear Nighthawk X6S Extender Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-match-your-logitech-mouse-with-various-systems/"><u>How To Successfully Match Your Logitech Mouse With Various Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-ace-2-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Ace 2 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-k70e-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi K70E working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-why-does-stardew-valley-crash-and-how-to-fix-it/"><u>Seamless Gaming: Why Does Stardew Valley Crash & How to Fix It</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Blaze 2 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-honor-100-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor 100</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-google-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Google Users</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 15? | Stellar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-your-video-quality-with-gopro-knowledge/"><u>[Updated] 2024 Approved Elevate Your Video Quality with GoPro Knowledge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[Updated] Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleash-the-power-of-online-livestreams-with-us-today/"><u>2024 Approved Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-defy-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Defy 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/capturing-cultures-a-step-by-step-guide-for-aspiring-travel-vloggers/"><u>Capturing Cultures A Step-by-Step Guide for Aspiring Travel Vloggers</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 11 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-magic-6-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Magic 6 to Another | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n53-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N53 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>In 2024, Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-pro-master-virtual-webcams-with-manycam-the-ultimate-guide/"><u>Live Streaming Pro: Master Virtual Webcams with ManyCam - The Ultimate Guide</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-narzo-n53-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme Narzo N53 on Mac</u></a></li>
+<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2007-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2007 Causes & Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2010-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2010 documents online</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-find-x7-ultra-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-c65-by-fonelab-android-recover-photos/"><u>Undelete lost photos from C65.</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-list-best-video-editing-apps-for-vloggers-ios-and-android/"><u>Updated 2024 Approved The Ultimate List Best Video Editing Apps for Vloggers (iOS & Android)</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Camon 20 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

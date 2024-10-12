@@ -1,7 +1,7 @@
 ---
 title: How to Use External Hard Drive on PS4
-date: 2024-09-18T19:51:57.110Z
-updated: 2024-09-23T21:34:42.874Z
+date: 2024-10-07T08:00:23.436Z
+updated: 2024-10-11T23:47:40.610Z
 tags:
   - win11
   - win10
@@ -41,52 +41,39 @@ Here’s how:
 3. Click**Change account type** under**User Accounts** when View by**Category** selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25877dcf40e.jpg)
 4. Double-click the account you want to change the user name.  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a6a563ded.png)
 5. Select**Change the account name** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bc4e8452a.jpg)
 6. Type the new name into the New account name box, then click**Change Name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You’ll then see your account shows with the new name.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: change your user account name in Local Users and Groups
 
@@ -116,16 +103,24 @@ The new name is set successfully.
 2. Click**Accounts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bf52c64f4.jpg)
 3. Click **Manage my Microsoft account** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c071b4eb6.jpg)
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
@@ -153,5 +148,26 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-cutting-edge-gaming-elite-rift-player-reviews/"><u>[New] In 2024, Cutting Edge Gaming Elite Rift Player Reviews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-toy-quadcopters-reviewed-kids-edition-for-2024/"><u>[Updated] Best Toy Quadcopters Reviewed (Kids Edition) for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13/iPad? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-breaking-out-of-the-perpetual-boot-errors-on-your-windows-10-computer/"><u>Effective Solutions for Breaking Out of the Perpetual Boot Errors on Your Windows 10 Computer</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/experiencing-sluggish-iphone-performance-discover-the-best-solutions-to-enhance-its-speed/"><u>Experiencing Sluggish iPhone Performance? Discover the Best Solutions to Enhance Its Speed</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-crackling-speaker-issue-on-your-pc-with-windows-10-or-7/"><u>How to Fix a Crackling Speaker Issue on Your PC with Windows 10 or 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-gt-5-240w-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme GT 5 (240W) Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-nova-y71-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei Nova Y71 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-spark-10-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Spark 10 Pro FRP Without Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-music-recovery-recover-deleted-music-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-music/"><u>Samsung Galaxy Z Flip 5 Music Recovery - Recover Deleted Music from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://techidaily.com/sign-dotm-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dotm file Online with DigiSigner</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-streaming-mp4-videos-on-your-ipad-discover-three-top-techniques/"><u>Successfully Streaming MP4 Videos on Your iPad: Discover Three Top Techniques</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-motorola-edge-2023-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Motorola Edge 2023</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-8-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 8 Plus without Passcode</u></a></li>
+</ul></div>
 

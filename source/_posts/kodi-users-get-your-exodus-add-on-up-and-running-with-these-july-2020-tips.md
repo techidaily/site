@@ -1,7 +1,7 @@
 ---
 title: "Kodi Users: Get Your Exodus Add-On Up and Running with These July 2020 Tips"
-date: 2024-09-21T23:51:55.524Z
-updated: 2024-09-24T03:16:40.460Z
+date: 2024-10-04T23:13:47.781Z
+updated: 2024-10-12T06:54:10.172Z
 tags:
   - win11
   - win10
@@ -38,10 +38,16 @@ What operating system is running on your phone?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-662.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### To unblock phone numbers
@@ -53,13 +59,6 @@ What operating system is running on your phone?
 2) Go to**Settings** \>**Phone** \>**Call Blocking & Identification** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-669.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Tap**Edit** on the upper-tight corner,then tap**the minus icon** next to the phone number you want to unblock. Tap**Unblock** to unblock this phone number.
 
@@ -77,10 +76,10 @@ What operating system is running on your phone?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### To unblock phone numbers
@@ -91,15 +90,22 @@ You can follow the steps below to unblock a phone number:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-683.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, you find this post helpful. If you have any suggestions or questions, you’re more than welcome to leave us a comment below.
@@ -120,5 +126,20 @@ You can follow the steps below to unblock a phone number:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigating-social-networking-videos-your-ultimate-guide-for-appletv-users/"><u>[New] 2024 Approved Navigating Social Networking Videos Your Ultimate Guide for AppleTV Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-of-coolest-mc-homes-designed/"><u>[New] The Ultimate List of Coolest MC Homes Designed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-finding-friends-films-and-snapshots-on-the-social-web/"><u>[Updated] 2024 Approved Finding Friends’ Films & Snapshots on the Social Web</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>2024 Approved Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-to-overcome-common-windows-app-errors/"><u>Efficient Fixes to Overcome Common Windows App Errors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-seamless-connectivity-with-new-broadcom-bluetooth-driver-for-windows-11-8-and-7/"><u>Ensure Seamless Connectivity with New Broadcom Bluetooth Driver for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exposing-effective-promotions-for-2024/"><u>Exposing Effective Promotions for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-camon-20-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Camon 20 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-lock-screen-without-password-google-by-drfone-android-unlock-android-unlock/"><u>Remove Google Lock Screen without Password(Google )</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-7-plus-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 7 Plus Suddenly | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-tecno-pova-5-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-android-apps-everyone-loves/"><u>Updated The Ultimate List of Android Apps Everyone Loves</u></a></li>
+</ul></div>
 

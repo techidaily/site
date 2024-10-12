@@ -1,7 +1,7 @@
 ---
 title: How to Fix Battle.net Slow Download Speed – 2024 Tips
-date: 2024-09-22T21:55:08.163Z
-updated: 2024-09-24T10:41:28.581Z
+date: 2024-10-08T20:35:38.686Z
+updated: 2024-10-12T05:58:13.447Z
 tags:
   - win11
   - win10
@@ -26,10 +26,10 @@ If you see an error message popping up when you plug in your USB device saying t
 Part 1:[**What is USB selective suspend?**](https://tools.techidaily.com/drivereasy/download/)Part 2:[**Should I disable it or enable it?**](https://tools.techidaily.com/drivereasy/download/)Part 3: **[If I want to disable it, how can I do that?](https://tools.techidaily.com/drivereasy/download/)** Part 4:[**What to do if my USB device is still not recognized?**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: What is USB selective suspend?
@@ -41,28 +41,28 @@ Part 1:[**What is USB selective suspend?**](https://tools.techidaily.com/drivere
 You should choose to leave it enable or disable it as per your own needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why should I enable it?
 
 As mentioned, the USB selective suspend is really handy for laptop and tablet users in that it saves you power from unnecessary USB devices. So if you have not experienced any problems with your external USB devices on your laptop or tablet, you should leave it be.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why should I disable it?
 
 If you run into_**USB device not recognized**_problem, always have the charger plugged in your computer, or you are on a full-power required USB device at all times, you should disable this feature.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a425938f75.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Frankly speaking, the USB selective suspend feature is not entirely helpful for desktop users, since desktops are always plugging into the power cord. But it won’t hurt either just to leave it at the enable state.
 
@@ -76,9 +76,23 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Change advanced power settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Click to expand **USB settings**  and **USB selective suspend setting**.
 
@@ -90,31 +104,11 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 
 **NOTE**: If you’re using a laptop, click **On battery**, then **Disabled**  from the drop-down menu. 6) If you want to re-enable the USB selective suspend setting, just repeat the above procedures all over again.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: What to do if my USB device is still not recognized?
 
 **NOTE**: The screenshots here are shown in Windows 10, but all the operations apply to Windows 7 and Windows 8 as well. If disabling the USB selective suspend feature doesn’t help you solve your USB device not recognized problem, you may need to consider if you have the most recent correct USB ports drivers installed. You should verify that all your USB ports have the most recent correct drivers, and update those that don’t. **Manual USB ports drivers update**– You can update needed USB ports drivers via the Device Manager one by one, or go to your computer’s manufacturer support website and search for the device drivers by yourself. The process could take quite some time if you’re not particularly familiar with the driver update process. **Automatic drivers update**  – If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it: 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -135,5 +129,24 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-sales-with-powerful-language-tools/"><u>[New] 2024 Approved Elevate Sales with Powerful Language Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use-for-2024/"><u>[New] Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-leading-15-hd-action-footage-capturers/"><u>[Updated] In 2024, Leading 15 HD Action Footage Capturers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-navigating-tiktok-web-efficiently-as-a-mac-user/"><u>[Updated] In 2024, Navigating TikTok Web Efficiently as a Mac User</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-note-30i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Note 30i Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-htc-u23-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset HTC U23 Without Password | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-15-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 15? Fixed | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-xr21-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia XR21 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-spark-10c-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Spark 10C</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sj4000-owners-guide-to-stylish-and-practical-gear-for-2024/"><u>SJ4000 Owners' Guide to Stylish & Practical Gear for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-dot-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .dot file documents online</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-realme-c51-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme C51</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-the-implications-of-removing-windows-11s-taskbar-chatting-capability-on-you/"><u>Unpacking the Implications of Removing Windows 11'S Taskbar Chatting Capability on You</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-anatomy-of-a-perfect-lower-third-fcpx-best-practices-for-2024/"><u>Updated The Anatomy of a Perfect Lower Third FCPX Best Practices for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-12-pro-max-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 12 Pro Max is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus 12R | Dr.fone</u></a></li>
+</ul></div>
 

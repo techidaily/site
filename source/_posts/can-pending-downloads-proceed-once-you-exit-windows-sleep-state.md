@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2024-10-05T10:54:34.326Z
-updated: 2024-10-06T14:46:03.563Z
+date: 2024-10-07T08:02:31.802Z
+updated: 2024-10-11T18:41:55.872Z
 tags:
   - deals
 categories:
@@ -25,23 +25,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Does Windows 11 or Windows 10 continue your file downloads when your PC enters sleep mode? Do you want to download a file but are worried sleep mode will interrupt that download? We’ll answer those questions as well as give you some relevant tips here in this guide. Let’s dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Can You Keep Downloads Running While Windows Is in Sleep Mode?
 
  The answer to that question is no. If you [put your Windows system in sleep mode](https://tech-haven.techidaily.com/speak-up-discover-how-openai-revolutionizes-chatbot-experience-with-voice-recognition-in-chatgpt/) (even by closing your laptop's lid), you can't keep downloads running. This is because when your system enters sleep mode, it disables your disk, causing your file downloads not to progress.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Keep Downloads Running While Your Laptop's Lid Is Closed
 
@@ -51,26 +37,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Hardware and Sound' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/1-hardware-sound-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, select "Power Options".
 
 !['Power Options' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-power-options-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the left sidebar, select "Choose What Closing the Lid Does".
 
 !['Choose What Closing the Lid Does' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-closing-lid-settings-control-panel.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the screen that opens, from the drop-down menus next to "When I Close the Lid", choose "Do Nothing". Then, at the bottom, select "Save Changes".
 
 !['When I Close the Lid' and 'Save Changes' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-do-nothing-close-lid-control-panel.jpg) 
 
  All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Turn Off Sleep Mode on Your Windows PC
 
@@ -81,10 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Change When the Computer Sleeps' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sleep-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the following screen, in the "Put the Computer to Sleep" drop-down menus, select "Never" for both. Then, click "Save Changes".
@@ -110,22 +110,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/the-outer-worlds-a-unique-space-expedition-brimming-with-entertainment-and-intrigue/"><u>'The Outer Worlds': A Unique Space Expedition Brimming with Entertainment & Intrigue</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-from-wardrobe-to-webcam-your-macootd-tiktok-adventure/"><u>[New] 2024 Approved From Wardrobe to Webcam Your MacOOTD TikTok Adventure</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-asmr-for-restful-slumber/"><u>[New] 2024 Approved Mastering ASMR for Restful Slumber</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>[New] Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-what-is-mukbang-and-how-to-make-mukbang-videos/"><u>[New] What Is Mukbang and How to Make Mukbang Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-a-movie-on-pc-mac-and-smartphones/"><u>[Updated] 2024 Approved How to Record a Movie on PC, Mac, and Smartphones?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-5-platforms-for-active-engagement-outside-of-twitter/"><u>2024 Approved Top 5 Platforms For Active Engagement Outside of Twitter</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-red-magic-9-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y78plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y78+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-11r-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus 11R phone? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-the-most-effective-key-finder-devices/"><u>The Ultimate Guide to the Most Effective Key Finder Devices</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-rog-phone-8-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from ROG Phone 8.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 7</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-yuva-3-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Yuva 3 Pro on Mac?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-synchronized-soundtracks-the-years-most-recurring-tiktok-songs/"><u>[New] 2024 Approved Synchronized Soundtracks The Year’s Most Recurring TikTok Songs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-iconic-cinema-essential-youtube-channels/"><u>[Updated] 2024 Approved Discover Iconic Cinema Essential YouTube Channels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-htc-vive-review-the-most-immersive-vr-headset-for-2024/"><u>[Updated] HTC Vive Review – The Most Immersive VR Headset for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-strategy-for-fixing-update-errors-in-windows-0xc1900101/"><u>Combat Strategy for Fixing Update Errors in Windows (0xC1900101)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-plex-transcode-settings-your-essential-how-to-guide/"><u>Mastering Plex Transcode Settings: Your Essential How-To Guide</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Pro Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/rising-above-failed-installers-the-nvidia-story/"><u>Rising Above Failed Installers: The NVIDIA Story</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f54-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy F54 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-moto-g34-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Moto G34 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-immagini-tga-in-formato-png-gratuitamente-conversione-on-line-con-movavi/"><u>Trasforma Immagini TGA in Formato PNG Gratuitamente - Conversione On-Line Con Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-2024-playlist-top-tier-gaming-devices-reviewed/"><u>Ultimate 2024 Playlist: Top-Tier Gaming Devices Reviewed</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
 

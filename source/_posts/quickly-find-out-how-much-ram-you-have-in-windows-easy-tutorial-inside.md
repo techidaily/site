@@ -1,7 +1,7 @@
 ---
 title: Quickly Find Out How Much RAM You Have in Windows – Easy Tutorial Inside
-date: 2024-09-23T02:58:00.277Z
-updated: 2024-09-24T02:28:46.472Z
+date: 2024-10-05T16:19:04.887Z
+updated: 2024-10-12T00:05:36.252Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee1b7c7526.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You can check your RAM in**Installed Physical Memory (RAM)** . You can also browse other system information from this window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2291df98.jpg)
@@ -54,6 +47,13 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 Now you should be able to check your computer memory without problems!
 
  If this method doesn’t work for you, don’t worry. We have other solutions for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Check RAM via Task Manager
 
@@ -65,13 +65,6 @@ Now you should be able to check your computer memory without problems!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee269376df.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Check RAM in Control Panel
 
  Control Panel is a powerful feature where you can check information and diagnose the issues in your Windows 10 computer.
@@ -80,33 +73,20 @@ Now you should be able to check your computer memory without problems!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2b7db7c5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) View Control Panel items**by category** , then click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2d98fe01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**View amount of RAM and processor speed** in the**System** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2f5a8a43.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You can check your RAM information in**Installed memory** under the**System** section.
 
@@ -124,9 +104,35 @@ Now you should be able to check your computer memory without problems!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee3deadb42.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) You can then check the memory in your Windows computer, and you can also check other system information such as Motherboard, Processor, Video cards, Networks card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee3c9d2600.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you may have already known, Windows 10 computers usually run into various issues, and one of the possible problems is the device drivers. So it’s recommended to keep your device drivers up to date.
 
@@ -141,10 +147,10 @@ Now you should be able to check your computer memory without problems!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee3fbf37a7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of the driver (you can do this with the**FREE** version), then install it in your computer.
@@ -153,16 +159,22 @@ Now you should be able to check your computer memory without problems!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee410cbc5f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) You can also back up your device drivers or restore drivers automatically!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee42b88cad.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [memory](https://tools.techidaily.com/drivereasy/download/)
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -180,5 +192,23 @@ Now you should be able to check your computer memory without problems!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-budget-video-editing-made-simple-with-vimeo-free-service/"><u>[New] 2024 Approved Budget Video Editing Made Simple with Vimeo Free Service</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-silentizing-beats-the-low-volume-approach/"><u>[New] Silentizing Beats The Low-Volume Approach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-smartest-devices-to-modify-your-speech-on-the-go-for-2024/"><u>[New] Smartest Devices to Modify Your Speech on the Go for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-adding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>[Updated] In 2024, Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-combo-exclusive-afx-design-tools/"><u>[Updated] Premium Combo Exclusive AFX Design Tools</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus 12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bad-pool-header-error-on-windows-11-8-and-7/"><u>How to Fix the 'Bad Pool Header' Error on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-6-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 6 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-amplify-your-channel-popularity-instantly/"><u>In 2024, Amplify Your Channel Popularity Instantly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-a24-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy A24 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-p55t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel P55T working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+</ul></div>
 

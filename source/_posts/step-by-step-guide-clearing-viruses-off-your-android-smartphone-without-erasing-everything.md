@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Viruses Off Your Android Smartphone Without Erasing Everything"
-date: 2024-09-16T16:36:08.666Z
-updated: 2024-09-24T02:14:50.389Z
+date: 2024-10-05T01:09:16.853Z
+updated: 2024-10-11T17:48:28.622Z
 tags:
   - win11
   - win10
@@ -47,22 +47,15 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-669.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Tap**Edit** on the upper-tight corner,then tap**the minus icon** next to the phone number you want to unblock. Tap**Unblock** to unblock this phone number.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-iPhone-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Android
@@ -76,6 +69,13 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### To unblock phone numbers
 
 You can follow the steps below to unblock a phone number:
@@ -85,10 +85,16 @@ You can follow the steps below to unblock a phone number:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
@@ -96,10 +102,10 @@ You can follow the steps below to unblock a phone number:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-683.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, you find this post helpful. If you have any suggestions or questions, you’re more than welcome to leave us a comment below.
@@ -120,5 +126,20 @@ You can follow the steps below to unblock a phone number:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-pcs-premiere-selection-of-ps3-game-simulations-for-2024/"><u>[New] PC's Premiere Selection of PS3 Game Simulations for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ranking-the-premier-online-church-service-providers/"><u>[New] Ranking the Premier Online Church Service Providers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-10-easy-strategies-for-capturing-youtube-content/"><u>2024 Approved 10 Easy Strategies for Capturing YouTube Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-powerpoint-video-capture/"><u>2024 Approved Innovative Approaches to PowerPoint Video Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieving-verified-mark-status-on-instagram-essential-techniques-and-tips/"><u>Achieving Verified Mark Status on Instagram: Essential Techniques and Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/grok-ai-revelations-understanding-its-significance-and-financial-implications-by-musk/"><u>Grok AI Revelations: Understanding Its Significance & Financial Implications by Musk</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-f23-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo F23 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-restore-functionality-to-your-nvidia-game-overlay/"><u>How to Restore Functionality to Your NVIDIA Game Overlay</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-oppo-a2-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Oppo A2</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-redmi-13c-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Redmi 13C 5G</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-x7-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Find X7</u></a></li>
+</ul></div>
 

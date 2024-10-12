@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-10-04T05:05:09.249Z
-updated: 2024-10-06T04:52:09.453Z
+date: 2024-10-06T22:53:48.981Z
+updated: 2024-10-11T17:03:06.127Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -61,10 +61,10 @@ Dave McKay/How-To Geek
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -86,10 +86,10 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -106,13 +106,6 @@ Dave McKay/How-To Geek
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Your System Administrator Knows Best
 
  Torvalds’ original email to the MINIX newsgroup piqued the interest of Ari Lemmke, a teaching assistant at the Helsinki University of Technology. They were something of kindred spirits and struck up an email-based friendship.
@@ -128,6 +121,13 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -150,18 +150,20 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-aerial-mastery-with-husqvarna-h501x4-fpv-analysis/"><u>[New] 2024 Approved Aerial Mastery with Husqvarna H501X4 FPV Analysis</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-insta-twist-magic-secrets-to-spinning-video-content-for-platform-perfection-for-2024/"><u>[New] Insta-Twist Magic Secrets to Spinning Video Content for Platform Perfection for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-multiplayer-movies-review-poker-edition/"><u>[New] MULTIPLAYER MOVIES REVIEW Poker Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-freefire-presence-with-top-tips-and-tricks-for-2024/"><u>[Updated] Elevate Your FreeFire Presence with Top Tips and Tricks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-functionality-reprogramming-fn-keys-on-modern-windows-pcs/"><u>Enhance Functionality: Reprogramming FN Keys on Modern Windows PCs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/freeze-whole-website-panel-for-2024/"><u>Freeze Whole Website Panel for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Max Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/savory-secrets-for-healthy-cooking-with-ai-help/"><u>Savory Secrets for Healthy Cooking with AI Help</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-realme-narzo-n53-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme Narzo N53</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-xiaomi-by-fonelab-android-recover-data/"><u>Undelete lost data from Xiaomi</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme on Mac?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-f5-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco F5 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-your-content-delivery-insights-on-igtv-and-youtube-for-2024/"><u>[New] Mastering Your Content Delivery Insights on IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-your-podcast-name-strategies-and-ideas/"><u>[New] Perfecting Your Podcast Name Strategies and Ideas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-broadcast-battles-tech-titans-tussle-for-top-spot/"><u>[Updated] Broadcast Battles Tech Titans Tussle for Top Spot</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-conference-quality-the-list-of-top-10-free-audio-capture-for-2024/"><u>[Updated] Elevate Conference Quality The List of Top 10 Free Audio Capture for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-highest-quality-screen-time-movie-hits-list/"><u>2024 Approved Highest-Quality Screen Time Movie Hits List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-creativity-unleashed-discover-the-transformative-features-of-final-cut-pro-for-ipad-macworld-expo-blog/"><u>Cutting Edge Creativity Unleashed: Discover the Transformative Features of Final Cut Pro for iPad | Macworld Expo Blog</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-70-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 70 Lite 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/leveraging-video-cropping-to-maximize-instagram-reach-for-2024/"><u>Leveraging Video Cropping to Maximize Instagram Reach for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-spark-10-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Spark 10 5G</u></a></li>
+<li><a href="https://techidaily.com/spark-20-pro-music-recovery-recover-deleted-music-from-spark-20-pro-by-fonelab-android-recover-music/"><u>Spark 20 Pro Music Recovery - Recover Deleted Music from Spark 20 Pro</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-v27-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo V27 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel P55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edge-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge 40 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2024-10-04T19:58:32.489Z
-updated: 2024-10-06T07:22:45.253Z
+date: 2024-10-09T16:15:24.221Z
+updated: 2024-10-12T02:11:01.280Z
 tags:
   - web
 categories:
@@ -27,13 +27,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
  Some project management apps are indeed complicated—but there are also beautifully simple ones, like Trello.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Trello?
 
  While I've played around with plenty of different approaches to planning both work and personal projects (you can [use any number of apps to plan a project](https://youtube-zero.techidaily.com/approved-mastering-video-introduction-on-ios-and-android-devices/)), I've always quickly returned to Trello, for five reasons.
@@ -44,19 +37,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 4. Trello makes it incredibly easy to collaborate with other people.
 5. It's free as in free forever. Technically, it's a freemium project, with free and subscription tiers, but the free tier does everything you're likely to need for personal projects. In five or six years of using it for dozens of different projects, I've never yet had to move to a paid tier.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Few Examples
 
  I'm currently midway through selling one apartment and buying another. One step is shortlisting potential purchases, so I created a Trello project (a "board" in Trello speak) for this.
@@ -64,6 +44,13 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
  Any listings I wanted to view were put in the Wait column. When I had a viewing arranged, I simply dragged it to the Scheduled column. If I eliminated it, then I simply archived it; if it was a contender, I moved it to the Shortlist column. And so on to an accepted offer (which I'll believe when I'm standing in the apartment with the deeds in one hand and the keys in the other, but that's another story!).
 
 ![A Trello board with apartment listings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-apartment.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -80,30 +67,30 @@ Ben Lovejoy
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ben Lovejoy
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use Trello
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Creating a Board
 
@@ -113,24 +100,31 @@ Ben Lovejoy
 
  You can choose one of the standard backgrounds—either a color or an image—or "Custom" to upload your own. My personal preference is to have a minimalist but interesting background, so I search for free stock images on [Unsplash](https://unsplash.com) and use one of those.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Creating Lists
 
  I recommend closing the side menu by clicking the "<" button shown below. That gives you a much cleaner screen.
 
 ![Click the small arrow to hide the sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/close-sidebar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
  You'll now have an "Add List" button top left. Click that and give it a name, then click "Save." Doing that will prompt you for your next list, so repeat until you have as many lists as you want.
 
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -148,18 +142,18 @@ Ben Lovejoy
 
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  The photo will then show on the card in the main view:
 
 ![A VR headset displayed on a Trello card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/photo-added.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -177,37 +171,30 @@ Ben Lovejoy
 
  You'll also see here options to link to existing cards.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Adding Checklists
 
  Everything else from this point is added in the same way: Open the card, then choose the option from that right-hand menu we used to add the cover photo. I'll skip the screengrabs, as these would just be the same image.
 
  To add a checklist, simply click the Checklist button.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Adding Deadlines
 
  If a card represents a task, you can set a deadline by clicking the "Date" button. By default, you'll get a reminder the day before it becomes due, but you can change this from the dropdown.
 
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Using Color Coding
 
@@ -230,6 +217,13 @@ Ben Lovejoy
  Whether you want to move a card up or down a list, move a card from one list to another, or move a list to the left or right, you can do it all simply by dragging and dropping, picking the card up by its edge.
 
  However, there is one quirk to watch out for. Trello also lets you drag one card inside another one by picking it up in the center, where it is added as an attachment (effectively a hyperlink from one card to another). If the card remains the same size and rounded shape when you drag it, you are dragging the card—but if it changes to a small square, you are in insertion mode. If you get that and don't want it, then just drag it anywhere outside your lists and let it go.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Collaborating With Family and Friends
 
@@ -254,17 +248,19 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-compelling-multi-picture-insta-stories/"><u>[Updated] 2024 Approved Step by Step Guide to Creating Compelling, Multi-Picture Insta Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-meticulous-study-of-magix-photo-controls/"><u>[Updated] Meticulous Study of MAGIX Photo Controls</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-limitless-design-gratuitous-premiere-pro-templates/"><u>2024 Approved Limitless Design Gratuitous Premiere Pro Templates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-0x80070570-mistake-a-step-by-step-repair-guide/"><u>Decoding the 0X80070570 Mistake: A Step-by-Step Repair Guide</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-6-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 6 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic 5 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-poco-m6-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco M6 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-explore-the-finest-free-luts-of-the-year/"><u>In 2024, Explore the Finest FREE LUTs of the Year</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Infinix Hot 40</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplifying-task-management-how-to-optimize-your-slack-alerts/"><u>Simplifying Task Management: How To Optimize Your Slack Alerts</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nord-n30-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nord N30 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-depth-insights-on-creating-captivating-instagram-stories/"><u>[New] In-Depth Insights on Creating Captivating Instagram Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-video-splitting-expertise-best-recorder-verdict/"><u>[New] Video Splitting Expertise Best Recorder Verdict</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/avaliacao-dos-top-10-mais-eficientes-softwares-de-dvd-para-mp4-conversao-para-pcs-e-macs-em-2023/"><u>Avaliação Dos Top 10 Mais Eficientes Softwares De DVD Para MP4 Conversão Para PCs E Macs Em 2023</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/convert-your-whatsapp-voice-messages-top-4-free-ways-to-download-as-mp3/"><u>Convert Your WhatsApp Voice Messages: Top 4 Free Ways to Download as MP3</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-m54-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy M54 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-set-up-reliable-mouse-driver-software-for-windows-7-compatible-with-all-models/"><u>How to Obtain and Set Up Reliable Mouse Driver Software for Windows ^7 (Compatible with All Models)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-google-pixel-fold-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Google Pixel Fold Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-fe-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 FE Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-a34-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy A34 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Ace 2V | Dr.fone</u></a></li>
 </ul></div>
 

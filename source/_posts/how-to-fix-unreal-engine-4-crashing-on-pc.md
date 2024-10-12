@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Unreal Engine 4 Crashing' On PC
-date: 2024-09-19T20:34:09.086Z
-updated: 2024-09-24T06:05:59.395Z
+date: 2024-10-07T06:42:26.153Z
+updated: 2024-10-11T20:27:54.161Z
 tags:
   - win11
   - win10
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
  If it still doesn’t work, it may suggest If the keyboard itself is faulty. If the keyboard works well on another computer, don’t worry! Just try the fixes below one by one to troubleshoot your computer.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update the keyboard driver
 
  If the keyboard driver on your computer is faulty or corrupted, your Logitech K520 keyboard may also not function properly.
@@ -71,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 ![Update all of your drivers by just 1 click with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-Update-all-drivers.png)  
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if this fix works after you updated the keyboard driver. If not, try the next fix, below.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall Logitech unifying software
 
@@ -90,27 +103,14 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Locate the Logitech unifying software,**right-click** on it and select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall-logitech-unifying-software.png)
 3. Download the latest version of Logitech unifying software from the official website of[Logitech.](https://support.logi.com/hc/en-us/articles/360025297913)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
@@ -123,16 +123,22 @@ See if this fix works for you. If not, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/services-msc.png)
 2. In the**Name** list of services in the Details pane, locate**Human Interface Device Service** .**Double-click** on it to view its properties.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
 3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if you can fix the problem after restarting the Human Interface Device Service.
 
@@ -157,5 +163,16 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-consoles-step-by-step-pc-playback-guide/"><u>[New] Capturing Consoles Step-by-Step PC Playback Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tomtom-gopro-challenger-review-2023-update-for-2024/"><u>[Updated] TomTom GoPro Challenger Review – 2023 Update for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-amd-gpio-device-driver-today/"><u>Download the Latest AMD GPIO Device Driver Today!</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-x7b-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X7b Without Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Phone without PIN</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-x6-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of X6 Pro</u></a></li>
+<li><a href="https://techidaily.com/sign-rtf-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .rtf file Online for Free</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-stream-success-beginners-roadmap/"><u>Twitter Stream Success Beginner's Roadmap</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+</ul></div>
 

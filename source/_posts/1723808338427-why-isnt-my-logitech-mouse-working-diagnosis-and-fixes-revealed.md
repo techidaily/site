@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Logitech Mouse Working? Diagnosis & Fixes Revealed
-date: 2024-09-16T16:09:53.745Z
-updated: 2024-09-24T09:46:08.729Z
+date: 2024-10-10T03:07:28.585Z
+updated: 2024-10-11T22:27:33.181Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
 If you confirm the power switch is on, go on and try the methods.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [**Method 1: Remove the unifying receiver and batteries for 5 seconds**](https://tools.techidaily.com/drivereasy/download/)
@@ -51,13 +44,6 @@ If you confirm the power switch is on, go on and try the methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Remove the unifying receiver and batteries for 5 seconds
 
  To fix the Logitech wireless mouse stopped working issue, the easiest method is to remove the unifying receiver and batteries for about 5 seconds. You may be wondering why this would work. Removing and re-inserting the device would allow the device to restart and allow the computer to re-recognize the device.
@@ -65,6 +51,13 @@ If you confirm the power switch is on, go on and try the methods.
  From the comments below, we can tell this method has worked for many users. So you can have a try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Uninstall and reinstall the mouse driver
 
@@ -77,10 +70,10 @@ If you confirm the power switch is on, go on and try the methods.
 2. On your keyboard, press the**Tab** key and thene the**down arrow** key to locate the category**Mice and other pointing devices** . Press the**Alt** and the**right arrow** keys together to expand the category. You should see your Logitech mouse under this category. It might not named Logitech mouse, but HID-compliant mouse as seen in this screenshot:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-10.png)
@@ -95,15 +88,22 @@ If you confirm the power switch is on, go on and try the methods.
 8. Restart your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the mouse still doesn’t work, go to Method 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update the mouse driver
 
@@ -122,16 +122,16 @@ If the mouse still doesn’t work, go to Method 3.
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/logitech-wireless-mouse-1.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the problem continues to occur, go to Method 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Change USB port
 
@@ -174,10 +174,10 @@ If this method doesn’t fix the problem, go to Method 7.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 7: Try using the mouse on a different surface
@@ -211,5 +211,21 @@ If this method doesn’t work for you, go to Method 8.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/0-best-youtube-video-to-mp3-converter/"><u>[New] 10 Best YouTube Video to Mp3 Converter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-upgrade-made-simple-embrace-tubebuddy-techniques-for-2024/"><u>[New] Channel Upgrade Made Simple - Embrace TubeBuddy Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-edit-youtube-channel-description/"><u>[New] In 2024, How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-revel-in-the-best-of-both-worlds-10-meme-feeds-for-chuckles-and-sobs-for-2024/"><u>[New] Revel in the Best of Both Worlds 10 Meme Feeds for Chuckles & Sobs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-seamlesscapture-w10s-simple-recording-tool/"><u>[New] SeamlessCapture W10's Simple Recording Tool</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigate-your-newly-enjoyed-facebook-movies-with-this-2023-guide/"><u>[Updated] In 2024, Navigate Your Newly Enjoyed Facebook Movies with This 2023 Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-key-insights-mastering-win11-features/"><u>[Updated] Key Insights Mastering Win11 Features</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-8-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 8 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-realme-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Realme</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-lava-blaze-2-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Lava Blaze 2.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-3-ways-to-add-transitions-in-final-cut-pro/"><u>Updated 2024 Approved 3 Ways To Add Transitions In Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-split-and-trim-mkv-files-best-free-tools/"><u>Updated Split and Trim MKV Files Best Free Tools</u></a></li>
+</ul></div>
 

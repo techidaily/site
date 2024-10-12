@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2024-09-29T12:07:05.738Z
-updated: 2024-10-05T20:10:57.083Z
+date: 2024-10-04T21:59:58.737Z
+updated: 2024-10-12T03:55:03.596Z
 tags:
   - web
 categories:
@@ -23,18 +23,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 [Facebook account hacking](https://youtube-sure.techidaily.com/ed-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/) is a pernicious issue, and even tech-savvy users can get caught out since these attacks are so relentless. You need to be lucky all the time, but the hacker only has to be lucky once. If nothing else, this means you should always treat anything posted by your friends on Facebook as potentially suspicious. Most importantly, if you have another way of contacting someone besides Facebook, you should confirm any information they post on a separate channel. Give them a call, or call someone who lives with them, and confirm the information before acting on it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Criminals Know You Trust Your Friends More Than Strangers
 
  Facebook accounts are valuable to hackers for a variety of reasons. First, if they manage to hack one account, it becomes easy to hack more accounts. Usually, a compromised account will send out a malware-infected link to other people in the network. Since the link is apparently coming from someone they know, people open it uncritically. Then _their_ networks get infected the same way, and so on.
 
 ![An example of a trading scam on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trading-scam.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 An example of a trading offer. Note how the text invites users to send direct messages.
 
@@ -48,19 +48,6 @@ An example of a trading offer. Note how the text invites users to send direct me
 
  Although I know people personally who have been victims of these scams, and I have plenty of people in my Facebook feed who have clearly compromised accounts, or in some cases seem to be complicit, I have opted not to post any screenshots that can potentially be traced back to specific people. However, my aim here is to warn you against this entire class of scam, not the specific approach scammers are taking at the moment.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Those Banking Screenshots Are Easy to Fake
 
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
@@ -72,25 +59,32 @@ _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-us
  The most obvious question you should be asking yourself, is why this person is so desperate to share this "investment" opportunity in the first place? What do they stand to gain? Either the account is hacked, or the person is complicit and is taking money in exchange for roping more people into the scam,
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Technology Can Make It Worse
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
  At first, I was convinced that all of these accounts were simply hacked, but then some of them started posting testimonial videos. It occurred to me that these could be [AI deepfakes](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/), but looking closely at them for the telltale signs, it doesn't seem that way. Which suggests that some of these people may be complicit in the scams. However, deepfake technology has advanced to the point where this is also a totally plausible answer. Either way, you should find these videos equally unconvincing regardless of whether they are faked or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Never Invest Money Without Licensed Help
@@ -114,19 +108,21 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-urban-oasis-best-6-modern-mc-living-spaces/"><u>[New] 2024 Approved Urban Oasis Best 6 Modern MC Living Spaces</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-restoring-streamlined-views-where-are-your-vids-for-2024/"><u>[New] Restoring Streamlined Views Where Are Your Vids for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-your-videos-potential-with-dynamic-titles/"><u>[New] Unleash Your Video's Potential with Dynamic Titles</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-world-of-youtube-content-creation-with-flair-for-2024/"><u>[Updated] Navigating the World of YouTube Content Creation with Flair for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-pre-production-meets-post-production-premiere-and-youtube-for-2024/"><u>[Updated] Pre-Production Meets Post-Production Premiere and YouTube for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a38-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A38 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-f23-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo F23 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-note-12-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi Note 12 Pro 5G without App | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-gesture-tracking/"><u>In 2024, Mastering the Art of Gesture Tracking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iphone-16-pro-vs-iphone-14-pro-unveiling-if-the-new-generation-justifies-the-investment-insights/"><u>IPhone 16 Pro vs iPhone 14 Pro: Unveiling If The New Generation Justifies The Investment - Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-13-ultra-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi 13 Ultra with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-itel-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Itel without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c02-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C02.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-ios-platforms-for-ps2-gaming-for-2024/"><u>[New] Premier iOS Platforms for PS2 Gaming for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-forward-leveraging-live-talks-in-the-instagram-world-for-2024/"><u>[New] Step Forward Leveraging Live Talks in the Instagram World for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-2023s-premier-action-cameras-for-ocean-thrills/"><u>[Updated] 2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-skills-applying-radial-blur-in-photoshop-easily/"><u>2024 Approved Perfect Your Skills Applying Radial Blur in Photoshop Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-textbooks-to-tech-your-roadmap-to-affordable-microsoft-gear-as-a-learner/"><u>From Textbooks to Tech: Your Roadmap to Affordable Microsoft Gear as a Learner</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-7-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 7 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v30-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V30 Lite 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-techs-compilation-browsers-with-the-best-snapshot-capabilities/"><u>In 2024, Top Tech's Compilation Browsers with the Best Snapshot Capabilities</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-a-curated-pick-for-fluent-multilingualism/"><u>Mondly: A Curated Pick for Fluent Multilingualism</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y100a-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y100A Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-p55-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel P55.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcodez-en-h264-gratuit-guide-detaille-pour-migrer-du-format-hevc-h2eplus8-a-windowsmacos/"><u>Transcodez en H.264 Gratuit : Guide Détaillé Pour Migrer Du Format HEVC (H.2e+8) À Windows/macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-tutorial-revitalize-your-dell-xps-15-the-complete-driver-update-process-for-windows-users/"><u>Ultimate Tutorial: Revitalize Your Dell XPS 15 - The Complete Driver Update Process for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-a34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy A34 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme 10T 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial: Convert Strings with Base64 in the Linux Environment"
-date: 2024-10-02T04:17:29.777Z
-updated: 2024-10-05T18:13:46.556Z
+date: 2024-10-06T00:25:58.292Z
+updated: 2024-10-12T04:57:24.506Z
 tags:
   - desktop
 categories:
@@ -32,10 +32,10 @@ echo 'I love Linux' | base64
 ![The Linux terminal showing the process of encoding a string](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Because of the default behavior of the echo command, there's a trailing newline character at the end of the string. If you'd like to omit that and only use the string, run:
@@ -56,13 +56,6 @@ base64 <<< 'I love Linux'
 
 ![The Linux terminal showcases how to encode a string using the base64 command with the help of here string operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Similar to the echo command, here-strings also add a newline character at the end of the string.
 
 ##  Encoding Files Using the base64 Command
@@ -81,13 +74,20 @@ base64 base.txt > output.txt
 
 ![The Linux terminal showcasing the process of encoding the content of a file to base64 and saving it to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the terminal didn't display the output. This command saved it to another file instead.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Decoding a base64 String Using the base64 Command
@@ -97,13 +97,6 @@ base64 base.txt > output.txt
 echo 'SG93VG9HZWVrCg==' | base64 -d
 
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of the echo command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you'd like to use here-strings for decoding a base64 string, then use:
 
@@ -133,6 +126,13 @@ echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​�
 
         `import base64  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get input string from the user  
 input_string = input("Enter the string to encode: ")  
 
@@ -140,21 +140,14 @@ input_string = input("Enter the string to encode: ")
 encoded_string = base64.b64encode(input_string.encode('utf-8'))  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Decode the encoded string to ensure it's correct (optional)  
 decoded_string = base64.b64decode(encoded_string).decode('utf-8')  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Print the encoded and decoded strings  
 print("Encoded string:", encoded_string.decode('utf-8'))  
@@ -167,16 +160,16 @@ python3 base64_encoder.py
 
 ![The Linux terminal showcasing the process of encoding a string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also create a program to decode a base64 string. Here's a code snippet you can use:
 
         `import base64  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get input base64 string from the user  
 encoded_string = input("Enter the Base64 string to decode: ")  
@@ -193,6 +186,13 @@ except Exception as e:
 python3 base64_decoder.py
 
 ![The Linux terminal displaying the process of decoding a base64 string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can use these Python programs to encode and decode any strings.
 
@@ -215,21 +215,22 @@ python3 base64_decoder.py
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ad-innovations-what-to-expect-from-facebook/"><u>[Updated] 2024 Approved Ad Innovations What to Expect From Facebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions-for-2024/"><u>[Updated] Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices/"><u>[Updated] How to Get Gratis, Safe VLC Media Player on Mac OS X Devices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fast-friending-mastering-the-art-of-profile-searches/"><u>[Updated] In 2024, Fast Friending Mastering the Art of Profile Searches</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-innovations-in-youtube-shorts-templates-latest-trends-and-tips-for-2024/"><u>[Updated] Innovations in YouTube Shorts Templates Latest Trends & Tips for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289325086-2024/"><u>2024年提升图像清晰度：顶级五种方法</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-htc-u23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for HTC U23 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-s17t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo S17t Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 13 Pro | Stellar</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leveraging-look-up-table-techniques-for-richer-images-in-pscc-for-2024/"><u>Leveraging Look-Up Table Techniques for Richer Images in PSCC for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-frontiers-in-gaming-combatting-increasing-cyberthreats/"><u>New Frontiers in Gaming: Combatting Increasing Cyberthreats</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-uot-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .uot file documents online</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-google-pixel-8-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Google Pixel 8.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-breakthrough-youtube-success-essential-tips-from-creator-studio-guide/"><u>[New] Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-list-ps2-games-on-android-devices/"><u>[New] Ultimate List PS2 Games on Android Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-avoid-facebooks-targeted-video-promotions/"><u>[Updated] In 2024, Avoid Facebook's Targeted Video Promotions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv/"><u>[Updated] In 2024, Efficient Broadcast Techniques Incorporating YouTube Loops on TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-20-unencumbered-public-domain-pubg-artifacts/"><u>2024 Approved Top 20 Unencumbered, Public Domain PUBG Artifacts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-lite-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 Lite If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-crashing-optimizing-red-dead-redemption-2-for-seamless-pc-gaming/"><u>Say Goodbye to Crashing: Optimizing Red Dead Redemption 2 for Seamless PC Gaming</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-motorola-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Motorola</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-play-7t-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor Play 7T</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-80-pro-straight-screen-edition-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-camon-20-premier-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Camon 20 Premier 5G.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-s17-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo S17 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-tone-transmitter-for-voice-artists/"><u>Top-Tier Tone Transmitter for Voice Artists</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-red-magic-9-proplus-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Red Magic 9 Pro+ fingerprint</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager on Windows 10</u></a></li>
 </ul></div>
 
