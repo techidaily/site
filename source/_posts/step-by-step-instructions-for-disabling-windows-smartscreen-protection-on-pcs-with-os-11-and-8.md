@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Disabling Windows SmartScreen Protection on PCs with OS 11 & 8
-date: 2024-10-06T16:18:45.219Z
-updated: 2024-10-11T20:17:51.171Z
+date: 2024-10-11T06:25:14.823Z
+updated: 2024-10-18T07:40:54.836Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Disable SmartScreen on Windows 10](https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-by-drfone-ios/)
 * [Disable SmartScreen on Windows 8](https://ai-video-tools.techidaily.com/updated-maximize-your-online-presence-10-best-free-video-hosting-sites-for-2024/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * SmartScreen provides an extra layer of security and can protect your PC from malicious content.
@@ -24,13 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To disable SmartScreen, open Windows Security, then navigate to App and Browser Control > Reputation-Based Protection Settings, then toggle the SmartScreen filters off.
 
  The [SmartScreen filter built into Windows](https://instagram-video-recordings.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads/) automatically scans applications, files, downloads, and websites, blocking known-dangerous content and warning you before you run unknown applications. You can disable it, if you like.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Disable SmartScreen? 
 
@@ -44,33 +44,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click on "Reputation-based Protection Settings." 
 
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are four different Windows SmartScreen options, and you can disable them individually. 
 
  The "Check Apps and Files" option controls the operating system's SmartScreen filter, which protects you no matter where you download files from. When you try to open a downloaded application or file in File Explorer or another application, Windows will check that application or file and block it or display a warning if it's unrecognized.
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
@@ -80,16 +80,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
@@ -114,21 +114,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveil-the-potential-of-vfx-animated-text-for-free/"><u>[New] 2024 Approved Unveil the Potential of VFX Animated Text for Free</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-next-gen-cinema-through-vr/"><u>[Updated] Unveiling the Next Gen Cinema Through VR</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-proven-methods-to-eliminate-jpeg-distortions-at-no-cost/"><u>4 Proven Methods to Eliminate JPEG Distortions at No Cost</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/clearer-horizons-the-ultimate-tweet-video-viewing-guide-for-2024/"><u>Clearer Horizons The Ultimate Tweet Video Viewing Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-leading-universal-dvd-players-of-2024-a-comprehensive-review-for-all-regions/"><u>Discover the Leading Universal DVD Players of 2024: A Comprehensive Review for All Regions</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-s17e-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S17e working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-google-pixel-8-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Google Pixel 8</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/strategic-approaches-to-googles-podcast-submission-protocol-for-2024/"><u>Strategic Approaches to Google’s Podcast Submission Protocol for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tech-list-nine-crucial-devices-every-student-should-own/"><u>The Ultimate Tech List: Nine Crucial Devices Every Student Should Own</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g14-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G14</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-tips-for-optimizing-uiux-on-apples-visionos-insights-from-zdnet/"><u>Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062481681-wireless-driver-for-windows-7-download-and-install-easily/"><u>Wireless Driver for Windows 7 Download & Install EASILY!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-sweet-indulgence-recording-a-compreran-analysis/"><u>[New] In 2024, Sweet Indulgence Recording A Compreran Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-undercover-upscalers-guide-to-clear-visuals/"><u>2024 Approved The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-and-savings-with-the-apple-watch-series-se/"><u>Exploring the Features and Savings with the Apple Watch Series SE</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-your-pc-solutions-for-windows-10-8-and-7/"><u>Fixing Missing Driver Issues on Your PC: Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lenovo-thinkphone-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lenovo ThinkPhone If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-avi-video-trimming-made-easy-top-16-tools-for-every-device/"><u>New In 2024, AVI Video Trimming Made Easy Top 16 Tools for Every Device</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-oneplus-nord-n30-se-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://facebook.techidaily.com/simplifying-your-social-media-network-structure/"><u>Simplifying Your Social Media Network Structure</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-virtualdub-vs-other-video-editors-which-one-reigns-supreme/"><u>Updated In 2024, Virtualdub vs Other Video Editors Which One Reigns Supreme ?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s17t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S17t Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

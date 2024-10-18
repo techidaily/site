@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Guide: Improve Your Gaming Experience by Disabling Mouse Acceleration"
-date: 2024-09-17T04:50:11.079Z
-updated: 2024-09-23T16:19:53.949Z
+date: 2024-10-15T04:43:40.029Z
+updated: 2024-10-18T05:10:10.879Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
  However difficult it may seem to start when your computer refuse to boot, there is no reason for you to despair. The silver lining is, Microsoft has spent a lot of time and energy to make Windows easy to fix, almost to the point where it’s actually self-repairable.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I fix my not booting computer?
 
  To fix this problem, here are some of the most effective methods that you can try. As mentioned, you don’t have to try them all; just pick from the list the options you have tried and then work until you hit the jackpot for you.
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
  Step 6:[**Refresh or Reset your computer Refresh**](https://tools.techidaily.com/drivereasy/download/)
 
 **IMPORTANT** : We focus on software triggered Windows 10 not booting problem here in this post only. If you suspect that the problem is with your hardware, we recommend that you ask your computer technicians for further assistance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 1: Check the Power Supply
 
@@ -72,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -94,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
  3) If your computer starts well, reconnect the devices back on one by one. This will help you figure out which device is causing the problem.
 
  4) If your computer won’t start and the same problem exists, press and hold the power button to turn off the computer. Please make sure that you don’t connect any external devices to your computer for now.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 3: Perform a Hard Reboot
 
@@ -109,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
@@ -124,9 +97,23 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Follow the on-screen instructions to continue with the system repair.
 
@@ -139,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
  1) Repeat step 1) to 5) in the above method. When in the Advanced options page, click**System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
@@ -157,10 +151,10 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) In the Command Prompt window, type
@@ -171,16 +165,16 @@ chkdsk c: /r /x
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e3a862c3ed.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Wait for the scan process to finish.
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 6: Refresh or Rest your computer
 
@@ -192,16 +186,16 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0bd42c7cf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) If prompt, click on the account you want to provide credentials for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Press the **Reset**  button to confirm the reset process.
 
@@ -230,5 +224,18 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-fanfare-to-fame-facebook-features-for-viral-voyages-for-2024/"><u>[Updated] From Fanfare to Fame Facebook Features for Viral Voyages for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>2024 Approved Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-m14-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy M14 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/cross-reality-shopping-experiences-for-2024/"><u>Cross-Reality Shopping Experiences for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-costs-sapphires-latest-pcie-gen-4-mini-itx-am5-board-arrives-in-the-chinese-market/"><u>Cutting Costs: Sapphire's Latest PCIe Gen 4 Mini ITX AM5 Board Arrives in the Chinese Market</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-xcover-6-pro-tactical-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy XCover 6 Pro Tactical Edition Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-s24-ultra-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy S24 Ultra phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-recording-simplified-review-insights/"><u>Screen Recording Simplified Review Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sharing-the-fun-a-comprehensive-guide-to-sending-your-xbox-one-games-to-friends/"><u>Sharing the Fun: A Comprehensive Guide to Sending Your Xbox One Games to Friends</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-8t-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 8T 5G Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

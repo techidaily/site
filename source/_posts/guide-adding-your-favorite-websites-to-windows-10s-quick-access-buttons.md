@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons"
-date: 2024-10-05T05:58:03.482Z
-updated: 2024-10-11T18:23:12.566Z
+date: 2024-10-14T00:41:07.833Z
+updated: 2024-10-17T16:06:21.339Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 * [Pin a Website from Firefox](https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6s-by-drfone-ios/)
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * In Google Chrome, click the three vertical dots, go to Save and Share, and select Create Shortcut to pin a website.
@@ -36,11 +29,25 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
@@ -48,18 +55,18 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Enter the name of your shortcut, then click 'Create.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-click-create.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From your desktop, right-click on the shortcut, and click "Pin to Start." You can now delete the shortcut on your desktop. You can also select "Unpin from Taskbar" if you don't want it on your taskbar. 
 
  If you set the website to open as a window, it will open immediately as its own window. You can then right-click its shortcut on your taskbar and select "Pin to Taskbar" without using the desktop shortcut.
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Pin a Website from Firefox
 
@@ -77,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click "OK."
 
  From your desktop, right-click on the shortcut, and click either "Pin to Start" or "Pin to Taskbar." You can now delete the shortcut on your desktop.
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
@@ -122,20 +122,22 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-cameras-for-quality-youtube-content/"><u>[New] In 2024, Best Cameras for Quality YouTube Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-rule-book-on-instagram-video-length-for-2024/"><u>[New] The Ultimate Rule Book on Instagram Video Length for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-digital-diary-keepers-securely-download-tweets-videos/"><u>[Updated] Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-ace-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Ace 2 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-smart-8-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Smart 8 Without Password | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/innovative-immersion-a-guide-to-the-leaders-for-2024/"><u>Innovative Immersion A Guide to the Leaders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastery-of-malware-chatgpts-podcast-assistants/"><u>Mastery of Malware: ChatGPT's Podcast Assistants</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-v13-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v1.3 files on my Mac using tool | Stellar</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-narzo-60-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme Narzo 60 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-lava-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Lava</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-motorola-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Motorola</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722844445387-simplified-steps-accessing-and-customizing-androids-quick-settings-menu/"><u>Simplified Steps: Accessing and Customizing Android's Quick Settings Menu</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-watch-teen-films-streaming-on-netflix/"><u>Top 10 Must-Watch Teen Films Streaming on Netflix</u></a></li>
-<li><a href="https://techidaily.com/vivo-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Vivo Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/y02t-music-recovery-recover-deleted-music-from-y02t-by-fonelab-android-recover-music/"><u>Y02T Music Recovery - Recover Deleted Music from Y02T</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shared-sights-untold-histories-revealed/"><u>[New] Shared Sights Untold Histories Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[New] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>[Updated] Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-premier-networks-for-live-viewing/"><u>[Updated] Ultimate List Premier Networks for Live Viewing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-se-2022-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://techidaily.com/easy-tips-for-downloading-and-setting-up-hewlett-packards-windows-7-compatible-drives/"><u>Easy Tips for Downloading and Setting Up Hewlett Packard's Windows 7 Compatible Drives</u></a></li>
+<li><a href="https://techidaily.com/easy-to-follow-tutorial-a-detailed-walkthrough-of-using-a-virtual-private-network-vpn-effectively/"><u>Easy-to-Follow Tutorial: A Detailed Walkthrough of Using a Virtual Private Network (VPN) Effectively</u></a></li>
+<li><a href="https://techidaily.com/effortless-driver-update-processes-for-windows-versions-7-8-and-10/"><u>Effortless Driver Update Processes for Windows Versions 7, 8 & 10</u></a></li>
+<li><a href="https://techidaily.com/effortless-file-duplication-from-windows-1n-10-to-secondary-drives-an-ultimate-7-step-process/"><u>Effortless File Duplication From Windows 1N 10 to Secondary Drives: An Ultimate 7-Step Process</u></a></li>
+<li><a href="https://techidaily.com/expert-advice-how-to-get-your-google-chrome-up-and-running-after-an-unexpected-stop/"><u>Expert Advice: How to Get Your Google Chrome Up and Running After an Unexpected Stop</u></a></li>
+<li><a href="https://techidaily.com/fixes-implemented-for-successful-windows-11-installs-overcoming-initial-errors/"><u>Fixes Implemented for Successful Windows 11 Installs – Overcoming Initial Errors</u></a></li>
+<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
+<li><a href="https://techidaily.com/guide-monitoring-your-pcs-temperature-in-windows-11/"><u>Guide: Monitoring Your PC's Temperature in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-90-phone-by-drfone-android/"><u>How to Reset a Locked Honor 90 Phone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-channeling-musical-charm-crafting-custom-playlists-on-youtube/"><u>In 2024, Channeling Musical Charm Crafting Custom Playlists on Youtube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-z-fold-5-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy Z Fold 5 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premium-choices-for-unparalleled-video-communication-for-2024/"><u>Premium Choices for Unparalleled Video Communication for 2024</u></a></li>
 </ul></div>
 

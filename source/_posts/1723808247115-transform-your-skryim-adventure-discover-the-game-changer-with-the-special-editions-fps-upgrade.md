@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Skryim Adventure: Discover the Game Changer with the Special Edition's FPS Upgrade"
-date: 2024-09-19T20:39:54.838Z
-updated: 2024-09-23T22:24:32.883Z
+date: 2024-10-16T05:59:32.044Z
+updated: 2024-10-17T19:05:17.257Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 4. **[Roll back your AMD graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install mods](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Change the PC power plan
 
  If your computer is running on the**Power saver** or**Balanced** power plan as default, Windows will automatically adjust the CPU’s speed and may limit your gaming experience. For better performance, you could switch to the High performance option.
@@ -41,16 +34,24 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then type**powercfg.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1.jpg)
 2. Select**High performance** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2.jpg)
-
- If you still don’t see improvement in Skyrim FPS, proceed to the second fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If you still don’t see improvement in Skyrim FPS, proceed to the second fix below.
 
 ### Fix 2 – Update your graphics driver
 
@@ -67,20 +68,27 @@ There are mainly two ways you can update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer to employ the changes. If the issue persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Modify the config file
 
@@ -92,13 +100,6 @@ There are mainly two ways you can update your graphics driver:
 3. Go back to the Skyrim Special Edition folder and open the**SkyrimPrefs** file.
 4. Find**iVsyncPresentInterval** , set it to**0** and save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once completed, launch Skyrim to test. If the FPS is not improved, there are a few more fixes to try.
 
@@ -117,23 +118,18 @@ Here is the instruction:
 4. Click**Clean and restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-2.jpg)
 5. Wait for the uninstalling process to complete. Then, reboot your PC to exit the safe mode.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Go to the official support website of[AMD](https://www.amd.com/en/support) or[NVIDIA](https://www.nvidia.com/Download/index.aspx) to download the previous version of your graphics card driver.
 7. Open the downloaded file and follow the on-screen instructions to install the driver manually.
 
  Now see if the Skyrim FPS is raised. If not, try different versions until you find the one that renders the most stable Skyrim gameplay. Still no luck? Take a look at the last fix below.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Install mods
 
@@ -161,5 +157,16 @@ Here is the instruction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-13-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 13 Pro Max without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-the-features-and-performance-of-the-samsung-qn55q6f-led-tv/"><u>Comprehensive Guide to the Features and Performance of the Samsung QN55Q6F LED TV</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/edgeresolve-pixelperfect-booster-windowsmacos/"><u>EdgeResolve PixelPerfect Booster (Windows/MacOS)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-pronunciation-fundamentals-in-german/"><u>Exploring Pronunciation Fundamentals in German</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-s23-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel S23 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ideal-start-kit-top-gopro-supplementary-gear/"><u>In 2024, Ideal Start Kit Top GoPro Supplementary Gear</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g24-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-nokia-150-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Nokia 150 (2023) fingerprint</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Your Complete Guide To Reset Vivo Y78+ | Dr.fone
-date: 2024-09-20T03:27:45.106Z
-updated: 2024-09-24T11:29:38.898Z
+date: 2024-10-15T05:21:34.487Z
+updated: 2024-10-17T23:47:02.083Z
 tags: 
   - reset
 categories:
@@ -34,6 +34,13 @@ If your phone is working slower than usual or starts lagging, you can do a facto
 
 Aside from the two situations discussed earlier, you might also have to hard reset your phone in other cases. Let's say you want to buy a new phone or upgrade to a newer model. You will not use your old phone and will probably sell it. Before you sell it, you have to erase all data and personal information like passwords and accounts from your phone. In another scenario, let's say your phone is stolen or you lost it. All you need to do is use the **Vivo Y78+ hard reset** to ensure no one can access your personal data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1: Hard Reset from Settings (if you have password)
 
 The easiest way to do an **Vivo Y78+ hard reset** is by using the factory reset option in the settings. This method will erase all data and settings, and you can easily do it in two easy steps. But it only works if you know the password of your phone. If you don't know the password and the phone is unlocked, it will still require a password for confirmation. Follow these steps for a hard reset from settings.
@@ -67,16 +74,16 @@ If you want to hard reset your phone just to erase all its data and settings, in
 
 ![data eraser interface](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Type the key and click on "erase now".
 
 ![erase all data interface](https://images.wondershare.com/drfone/guide/android-erase-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Dr.Fone will erase all types of data on your device, and you can see the progress on your computer screen.
 
@@ -87,6 +94,13 @@ If you want to hard reset your phone just to erase all its data and settings, in
 Most people do an **Vivo Y78+ hard reset** because they forget their screen lock or password. But it also erases all their data and settings, which is a big loss just to recover a password of their phones. Instead of doing a hard reset, you can use the Dr.Fone screen unlock feature to unlock any phone without password. You can also reset a new password without any complicated procedure. Here is the guide on how to unlock phones with Dr.Fone.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Launch Dr.Fone on your computer, select "screen lock", and use a USB cable to connect your mobile with your computer.
 - Select Vivo Y78+ on Dr.Fone and put your phone into the specific mode.
@@ -116,6 +130,13 @@ If your phone is lagging, or you want to fix software problems, doing a factory 
 
 ![code confirmation interface](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Bottom Line
 
 This concludes our article on five ways to hard reset Vivo Y78+ phones. You might be wondering which method is best for your **Vivo Y78+ hard reset**. The best way to factory reset your phone, erase all data, or unlock the screen is by using Dr.Fone. It is multipurpose software that enables users to fix various problems without doing anything. All you need to do is install Dr.Fone on your computer and connect your phone with it. Dr.Fone has various other features like WhatsApp transfer, data recovery, and device transfer.
@@ -132,22 +153,15 @@ If you are facing some troubles with **Vivo Y78+ hard reset**, then we have the 
 
 ## Using Vivo Y78+ Hard Reset in What Situations?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1: Erase All Data and Settings
 
 One of the most common reasons for a hard reset is to erase all data and settings from the phone. When your phone runs out of storage, you can only delete the previous data if you want to save something new. Although Vivo Y78+ phones provide a lot of storage and support SD cards, you can only erase unwanted data if you run out of space. Here is the deal, you can save your data on another device like your laptop and do an **Vivo Y78+ hard reset**. This way, you can keep your previous data, make room for new data, and save time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Restore Your Phone Back to Original Operating System and Apps
@@ -181,13 +195,6 @@ Suppose you want to hard reset your locked Vivo Y78+ phone, use the recovery mod
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to hard reset your phone just to erase all its data and settings, instead of using the long factory reset method, erase data with Dr.Fone. With third-party software like Dr.Fone, you can erase anything from your mobile in one click. It helps you save time, and you don't have to set up your phone after you are done. You can also restore the erased data using Dr.Fone as well. Here are the steps for erasing data from your mobile using Dr.Fone.
 
 - Launch Dr.Fone on your computer, select "Data Erase", and connect your mobile with your computer using a USB cable.
@@ -235,13 +242,6 @@ If your phone is lagging, or you want to fix software problems, doing a factory 
 - Enter the Vivo Y78+ device information with its name, model, and country.
 
 ![device information form](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click on Next and type the code you see on the screen.
 
@@ -288,6 +288,19 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 
 With the completion of the above steps, your Vivo Y78+ phone will reset.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Perform a Hard Reset on Vivo Y78+ with Hardware Keys
 
 Hard reset which is also termed factory reset is a feature that will reset all the Vivo Y78+ device settings and bring them to the factory setting status. While you perform the hard reset, all the data of your phone as well as the installed apps will also be deleted.
@@ -318,10 +331,16 @@ The screen locks can be removed without rooting, and the software is completely 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -346,16 +365,16 @@ The Best Tool for factory reset Vivo Y78+ Phone When Locked
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** Dr.Fone will begin unlocking the Android screen once it enters the specific mode. Please wait for the unlock process to finish.
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. How to Reset Vivo Y78+ Phone at Normal Cases?
 
@@ -383,13 +402,6 @@ Steps to reset Vivo Y78+ phone using secret reset code
 
 The above methods can also be tried if you get stuck in a situation on how to factory reset Vivo Y78+ tablets without password. Also, we recently covered a method of how to bypass the Google account on Vivo Y78+ after a factory reset, we have now had the opportunity to test this with many people with different models of Android and have found mixed results.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The above given are multiple options that can be used for resetting your Vivo Y78+ phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Vivo Y78+ device as it supports removing all types of screen locks in a hassle-free manner.
@@ -408,5 +420,19 @@ The above given are multiple options that can be used for resetting your Vivo Y7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-next-gen-virtual-reality-top-8-metaverse-tech/"><u>[Updated] In 2024, Next-Gen Virtual Reality Top 8 Metaverse Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-larger-pictures-same-sharpness-levels/"><u>2024 Approved Larger Pictures, Same Sharpness Levels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-and-seo-synergy-reshaping-online-discoverability-through-intelligent-search-engines/"><u>AI and SEO Synergy: Reshaping Online Discoverability Through Intelligent Search Engines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-windows-118s-smartscreen-protection-a-comprehensive-tutorial/"><u>Disabling Windows 11/8'S SmartScreen Protection: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-gt-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme GT 5 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-skyrocket-your-video-speed-expert-tips-for-faster-render-and-upload/"><u>In 2024, Skyrocket Your Video Speed Expert Tips for Faster Render & Upload</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/profitable-pathways-to-youtube-success-on-the-social-network-superstar/"><u>Profitable Pathways to YouTube Success on the Social Network Superstar</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-storport-syscrash-errors-a-step-by-step-guide-for-windows-11-users/"><u>Resolve StorPort SysCrash Errors: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-external-hard-drive-not-showing-up-on-windows-10-solved/"><u>Seagate External Hard Drive Not Showing Up on Windows 10 [Solved]</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-xiaomi-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Xiaomi</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing Sluggish Windows 11 Startup Times"
-date: 2024-09-23T07:27:12.685Z
-updated: 2024-09-24T10:20:10.036Z
+date: 2024-10-12T16:11:43.593Z
+updated: 2024-10-18T01:58:28.073Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bf508717.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When prompted to give administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
@@ -68,15 +75,22 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bff41b81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) The scan can take up to 15 minutes to finish. Wait until it’s done.
 
  5) Check if you can log in without any problems now.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Create a new local administrator account**
 
@@ -87,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7c07ec74b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Other people** . (Note: If you’re on Windows 10 Home or Professional edition, you’ll see**Family & other people** here.) Then click**Add someone else to this PC** .
@@ -102,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Add a user without a Microsoft account** .
@@ -132,25 +146,11 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b3da7b57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b47c83bf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you still can’t sign into your profile after the above steps, feel free to leave us comments and we’ll provide as much help as we can.
 
@@ -169,5 +169,20 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-discover-the-innovations-in-iphone-xs-imaging-system/"><u>[New] 2024 Approved Discover the Innovations in iPhone X's Imaging System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-11-techniques-for-perfecting-hue-balance/"><u>[New] Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-box-buying-bonanza-uncovering-top-1-written-by-instruction-1/"><u>2024 Approved Box Buying Bonanza! Uncovering Top 1 Written by Instruction 1</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-must-see-top-5-youtube-link-share-extensions/"><u>2024 Approved Must-See Top 5 YouTube Link Share Extensions</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effective-solutions-for-when-your-dota-2-game-is-caught-on-the-startup-screen/"><u>Effective Solutions for When Your Dota 2 Game Is Caught on the Startup Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-breakdown-for-ending-your-linkedin-presence/"><u>In 2024, A Step-by-Step Breakdown for Ending Your LinkedIn Presence</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f34-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy F34 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-130-music-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia 130 Music</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Galaxy Z Flip 5</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Plus without Passcode</u></a></li>
+</ul></div>
 

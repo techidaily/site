@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2024-10-07T08:02:31.802Z
-updated: 2024-10-11T18:41:55.872Z
+date: 2024-10-10T19:03:02.243Z
+updated: 2024-10-18T02:42:27.165Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Keep Downloads Running While Your Laptop's Lid Is Closed](https://extra-approaches.techidaily.com/how-to-make-a-photo-video-with-pixiz-for-2024/)
 * [How to Turn Off Sleep Mode on Your Windows PC](https://hardware-help.techidaily.com/get-the-newest-hp-officejet-pro-8720-windows-driver-software-free-of-charge/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Downloads cannot continue running while your PC is in sleep mode, as the system disables the disk and prevents the file download progress.
@@ -25,9 +32,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Does Windows 11 or Windows 10 continue your file downloads when your PC enters sleep mode? Do you want to download a file but are worried sleep mode will interrupt that download? We’ll answer those questions as well as give you some relevant tips here in this guide. Let’s dive in.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Can You Keep Downloads Running While Windows Is in Sleep Mode?
 
  The answer to that question is no. If you [put your Windows system in sleep mode](https://tech-haven.techidaily.com/speak-up-discover-how-openai-revolutionizes-chatbot-experience-with-voice-recognition-in-chatgpt/) (even by closing your laptop's lid), you can't keep downloads running. This is because when your system enters sleep mode, it disables your disk, causing your file downloads not to progress.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Keep Downloads Running While Your Laptop's Lid Is Closed
 
@@ -37,34 +58,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Hardware and Sound' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/1-hardware-sound-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the following screen, select "Power Options".
 
 !['Power Options' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-power-options-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From the left sidebar, select "Choose What Closing the Lid Does".
 
 !['Choose What Closing the Lid Does' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-closing-lid-settings-control-panel.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the screen that opens, from the drop-down menus next to "When I Close the Lid", choose "Do Nothing". Then, at the bottom, select "Save Changes".
 
@@ -79,13 +86,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To do that on your Windows 11 or 10 PC, [open Control Panel](https://tech-recovery.techidaily.com/1722861107683-troubleshooting-when-your-iphone-doesnt-ring-easy-fixes-inside/) and navigate to Hardware and Sound > Power Options. In the left sidebar, select "Change When the Computer Sleeps".
 
 !['Change When the Computer Sleeps' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sleep-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the following screen, in the "Put the Computer to Sleep" drop-down menus, select "Never" for both. Then, click "Save Changes".
 
@@ -110,17 +110,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-synchronized-soundtracks-the-years-most-recurring-tiktok-songs/"><u>[New] 2024 Approved Synchronized Soundtracks The Year’s Most Recurring TikTok Songs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-iconic-cinema-essential-youtube-channels/"><u>[Updated] 2024 Approved Discover Iconic Cinema Essential YouTube Channels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-htc-vive-review-the-most-immersive-vr-headset-for-2024/"><u>[Updated] HTC Vive Review – The Most Immersive VR Headset for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-strategy-for-fixing-update-errors-in-windows-0xc1900101/"><u>Combat Strategy for Fixing Update Errors in Windows (0xC1900101)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-plex-transcode-settings-your-essential-how-to-guide/"><u>Mastering Plex Transcode Settings: Your Essential How-To Guide</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-13-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Pro Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/rising-above-failed-installers-the-nvidia-story/"><u>Rising Above Failed Installers: The NVIDIA Story</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-f54-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy F54 5G won’t play AVCHD .mts files</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-moto-g34-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Moto G34 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trasforma-immagini-tga-in-formato-png-gratuitamente-conversione-on-line-con-movavi/"><u>Trasforma Immagini TGA in Formato PNG Gratuitamente - Conversione On-Line Con Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-2024-playlist-top-tier-gaming-devices-reviewed/"><u>Ultimate 2024 Playlist: Top-Tier Gaming Devices Reviewed</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-smooth-transition-altering-snapchat-videos-tempo-for-2024/"><u>[Updated] Smooth Transition Altering Snapchat Videos' Tempo for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transforming-videos-into-stories-top-5-effective-tiktok-caption-strategies-for-2024/"><u>[Updated] Transforming Videos Into Stories Top 5 Effective TikTok Caption Strategies for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-perfecting-sound-capture-reviewed-mac-compatible-recorders/"><u>2024 Approved Perfecting Sound Capture Reviewed Mac-Compatible Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-analytics-how-to-analyze-your-and-competitors-youtube-video/"><u>2024 Approved YouTube Analytics – How to Analyze Your and Competitor's YouTube Video</u></a></li>
+<li><a href="https://techidaily.com/applying-pitch-strategies-to-enhance-smart-automation-projects/"><u>Applying Pitch Strategies to Enhance Smart Automation Projects</u></a></li>
+<li><a href="https://techidaily.com/assessing-and-enhancing-your-rpa-strategy-the-role-of-process-insights/"><u>Assessing and Enhancing Your RPA Strategy: The Role of Process Insights</u></a></li>
+<li><a href="https://techidaily.com/automated-marketing-with-the-help-of-cookiebot-elevate-your-digital-strategy/"><u>Automated Marketing with the Help of Cookiebot: Elevate Your Digital Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-chat-applications-the-ultimate-list-for-ios-and-android-devices/"><u>Best 10 Mobile Chat Applications: The Ultimate List for iOS & Android Devices</u></a></li>
+<li><a href="https://techidaily.com/drive-more-traffic-with-our-advanced-cookiebot-inspired-analytics-tools/"><u>Drive More Traffic with Our Advanced Cookiebot-Inspired Analytics Tools</u></a></li>
+<li><a href="https://techidaily.com/enhance-user-experience-and-analytics-using-cookiebot-solutions/"><u>Enhance User Experience and Analytics Using Cookiebot Solutions</u></a></li>
+<li><a href="https://techidaily.com/enhance-your-digital-strategy-using-cookiebot-technology/"><u>Enhance Your Digital Strategy Using Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/enhancing-conversions-the-efficacy-of-cookiebot-driven-marketing-solutions/"><u>Enhancing Conversions: The Efficacy of Cookiebot-Driven Marketing Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/epic-dramatic-stories-for-the-ears-for-2024/"><u>Epic Dramatic Stories for the Ears for 2024</u></a></li>
+<li><a href="https://techidaily.com/optimieren-sie-ihre-buchhaltungsautomatisierung-mit-verbesserter-ocr-und-texterkennungsfunktionen-von-abbyy/"><u>Optimieren Sie Ihre Buchhaltungsautomatisierung Mit Verbesserter OCR- Und Texterkennungsfunktionen Von ABBYY</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-redmi-note-12-pro-4g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi Redmi Note 12 Pro 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sleek-and-mighty-lg-gram-17-notebook-the-definitive-review-of-its-exceptional-specs-and-speed/"><u>Sleek & Mighty LG Gram 17 Notebook - The Definitive Review of Its Exceptional Specs and Speed</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-transferring-data-from-smaller-to-bigger-ssds-on-windows-systems-versions-10-8-and-nul/"><u>Step-by-Step Tutorial: Transferring Data From Smaller to Bigger SSDs on Windows Systems (Versions 10, 8 & Nul)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/struggling-divisions-plunge-intels-profit-margins-a-detailed-look-at-the-1nbillion-decrease/"><u>Struggling Divisions Plunge Intel's Profit Margins: A Detailed Look at the $1.nBillion Decrease</u></a></li>
+<li><a href="https://techidaily.com/44or44k944kz44oz5yid5a2m6icf44gu44gf44kb44gu5zplus65pys55qe44gq5pon5l2c44ks44kk44oj/"><u>パソコン初学者のための基本的な操作ガイド</u></a></li>
 </ul></div>
 

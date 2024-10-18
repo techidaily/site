@@ -1,7 +1,7 @@
 ---
 title: "Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide"
-date: 2024-10-11T02:23:21.831Z
-updated: 2024-10-11T20:15:21.104Z
+date: 2024-10-11T23:10:59.358Z
+updated: 2024-10-17T19:10:25.108Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
@@ -74,22 +74,16 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Disabling privacy features in the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-privacy-features-in-the-folder-options-window.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While the above process stops Windows from displaying recently accessed items in the Recent section of File Explorer, it will still record them in the Recent Items folder. This means that anyone using your PC can still view those records. So, what's the best way to maintain the privacy of this data?
 
  The best way is to [clear your File Explorer history](https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/) after using your PC. Doing so will erase the entire history, ensuring no traces are left for anyone to see.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Clear the Entire History of Recent Items
 
@@ -122,22 +116,22 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-strategies-for-viewing-your-subscribers/"><u>[New] 2024 Approved Essential Strategies for Viewing Your Subscribers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-mastering-windows-identifying-top-5-cutting-tools/"><u>[New] Mastering Windows Identifying Top 5 Cutting Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>[Updated] Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>[Updated] The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-insiders-guide-to-finesse-and-control-on-insta-stories/"><u>2024 Approved The Insider's Guide to Finesse and Control on Insta Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excellent-instructions-making-leverage-these-7-digital-platforms/"><u>Excellent Instructions Making: Leverage These 7 Digital Platforms</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y28-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y28 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-13t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 13T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-6-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 6 Plus and iPad?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-video-edits-with-imovie-a-step-by-step-guide/"><u>In 2024, Mastering YouTube Video Edits with iMovie A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-thermaltake-massive-t-cooling-pad-worth-its-price-an-in-depth-look/"><u>Is the Thermaltake Massive T Cooling Pad Worth Its Price? An In-Depth Look</u></a></li>
-<li><a href="https://techidaily.com/solved-microsoft-excel-2023-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2023 File Error The document cannot be saved</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-zte-blade-a73-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Blade A73 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-11-pro-max-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 11 Pro Max by restoring it to default settings</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-free-video-template-resources/"><u>[Updated] 2024 Approved Top Free Video Template Resources</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-practices-expert-picks-for-4k-dslr-mounts/"><u>2024 Approved Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>2024 Approved Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
+<li><a href="https://techidaily.com/1722956418639-asus-atk0110-bios-and-acpi-control-panel-programs-free-download-today/"><u>ASUS ATK0110 BIOS & ACPI Control Panel Programs Free Download Today!</u></a></li>
+<li><a href="https://techidaily.com/cutting-edge-dell-alienware-aurora-r9-game-system-assessment/"><u>Cutting-Edge Dell Alienware Aurora R9 Game System Assessment</u></a></li>
+<li><a href="https://techidaily.com/discovering-the-features-of-samsung-galaxy-tab-s4-a-detailed-android-tablet-analysis/"><u>Discovering the Features of Samsung Galaxy Tab S4: A Detailed Android Tablet Analysis</u></a></li>
+<li><a href="https://techidaily.com/exclusive-look-at-the-lenovo-thinkpad-x1-titanium-yoga-a-dream-come-true-for-diehard-thinkpad-lovers/"><u>Exclusive Look at the Lenovo ThinkPad X1 Titanium Yoga: A Dream Come True for Diehard ThinkPad Lovers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A05</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-pathway-for-webp-to-jpg-transformation/"><u>In 2024, Expert Pathway for WebP-to-JPG Transformation</u></a></li>
+<li><a href="https://techidaily.com/inside-look-unpacking-the-legacy-and-innovation-in-lgs-latest-wear-os-20-smartwatch/"><u>Inside Look: Unpacking the Legacy and Innovation in LG's Latest Wear OS 2.0 Smartwatch</u></a></li>
+<li><a href="https://techidaily.com/optimal-networking-solutions-increase-ports-and-improve-bandwidth-for-faster-speeds/"><u>Optimal Networking Solutions: Increase Ports & Improve Bandwidth for Faster Speeds</u></a></li>
+<li><a href="https://techidaily.com/overcoming-cannot-find-cprogram-filescommon-filesmicrosoft-sharedwebserverlibxml2libxml2dll-glitches/"><u>Overcoming 'Cannot Find C: Program Files Common Files Microsoft Shared webserver LibXML2 libxml2.dll' Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-connectivity-problems-on-your-ios-device-with-a-complete-network-settings-reset/"><u>Solve Connectivity Problems on Your iOS Device with a Complete Network Settings Reset</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-converting-your-dvds-with-mediacoder-on-windows-1011/"><u>Step-by-Step Guide: Converting Your DVDs with MediaCoder on Windows 10/11</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-latest-in-computing-by-toms-electronics-review/"><u>Unveiling the Latest in Computing by Tom's Electronics Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-sandxs-quick-resume-a-game-changer/"><u>Xbox Series S&X's Quick Resume - A Game Changer?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel"
-date: 2024-10-09T19:18:52.808Z
-updated: 2024-10-12T01:58:38.896Z
+date: 2024-10-14T18:30:05.832Z
+updated: 2024-10-18T06:58:15.480Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
  Excel has hundreds of functions that can help you to quickly and accurately perform calculations, among which are the AVERAGE functions. You might want to calculate the average sales figures, get the average of a group of data that contains numbers and text, or work out the average of all student scores over a certain number.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Many Average Functions Are There in Excel?
 
  There are four AVERAGE functions and each has different uses:
@@ -31,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 * **AVERAGEIFS**: This tells you the arithmetic mean of a set of numerical data that fulfill several criteria.
 
  Let's explore these in more detail.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use AVERAGE in Excel
 
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores has been calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-calculated-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The AVERAGE function includes 0 within its calculations, but ignores all empty cells, text, and logical values (TRUE or FALSE). So, we can be confident that this calculation will include Student C's score, but ignore Student F's score.
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  If any of the values being used in the AVERAGE calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would not work.
 
  To save time, you can instead calculate the average through a few simple clicks. First, select your data to average, click the "Home" tab on the ribbon, and in the "Editing" group, click on the drop-down arrow next to the sigma (Σ) symbol. From there, click "Average". The result will appear at the end of your data.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEA in Excel
 
@@ -87,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In cell D5, we would type the following formula:
@@ -125,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
 
  To work out the average scores of all students over 12 years of age, we would use the following formula:
@@ -161,10 +161,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To do this, we would use the following formula:
@@ -201,17 +201,22 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/descubre-las-18-opciones-superiores-para-cortar-videos-y-mantener-la-excelencia-en-tu-pc/"><u>¡Descubre Las 18 Opciones Superiores Para Cortar Videos Y Mantener La Excelencia en Tu PC!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-dividing-drama-a-step-by-step-chapters-integration-on-vimeo-for-2024/"><u>[New] Dividing Drama A Step-by-Step Chapters Integration on Vimeo for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-debunking-youtube-premium-benefits-vs-costs/"><u>[New] In 2024, Debunking YouTube Premium Benefits Vs. Costs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-efficient-strategies-for-saving-youtube-thumbnails-on-any-os/"><u>[New] In 2024, Efficient Strategies for Saving Youtube Thumbnails on Any OS</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-visual-strategy-for-podcast-branding-for-2024/"><u>[New] The Ultimate Visual Strategy for Podcast Branding for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726221968341-movavi/"><u>专业视频编辑器 Movavi 快速下载教程</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-camon-30-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Camon 30 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-7-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-smartphone-browser-showdown-youtube-app-analysis/"><u>In 2024, Smartphone Browser Showdown YouTube App Analysis</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-ideas-to-make-money-from-your-snapchat-community-for-2024/"><u>[New] Innovative Ideas to Make Money From Your Snapchat Community for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-clockwatchdogtimeout-bsod-in-windows-11/"><u>[Solved] CLOCK_WATCHDOG_TIMEOUT BSOD in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-masterful-webcam-hacks-for-creative-sessions/"><u>[Updated] 2024 Approved Masterful Webcam Hacks for Creative Sessions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pajama-plots-and-prose-critical-review-of-childrens-videos-for-2024/"><u>[Updated] Pajama Plots and Prose Critical Review of Children's Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>2024 Approved Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-itel-a70-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Itel A70 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-save-your-customized-email-signatures-successfully-in-microsoft-outlook-365-problem-solved/"><u>How to Save Your Customized Email Signatures Successfully in Microsoft Outlook 365 (Problem Solved)</u></a></li>
+<li><a href="https://techidaily.com/how-to-snapping-photos-of-your-lenovo-computer-screen-in-seconds/"><u>How-To: Snapping Photos of Your Lenovo Computer Screen in Seconds</u></a></li>
+<li><a href="https://techidaily.com/invisible-web-journeys-strategies-for-anonymous-internet-use/"><u>Invisible Web Journeys: Strategies for Anonymous Internet Use</u></a></li>
+<li><a href="https://techidaily.com/maximize-savings-on-driver-easy-use-this-exclusive-2er-2024-discount-code-for-a-smaller-price-tag/"><u>Maximize Savings on Driver Easy – Use This Exclusive 2Er-2024 Discount Code for a Smaller Price Tag!</u></a></li>
+<li><a href="https://techidaily.com/maximize-speed-on-windows-11-for-optimal-functionality-a-step-by-step-tutorial/"><u>Maximize Speed on Windows 11 for Optimal Functionality – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/maximizing-your-privacy-with-the-tor-browser-in-a-windows-11-environment/"><u>Maximizing Your Privacy with the Tor Browser in a Windows 11 Environment</u></a></li>
+<li><a href="https://techidaily.com/no-more-interruptions-disable-the-lock-screen-on-windows-10-effortlessly/"><u>No More Interruptions: Disable the Lock Screen on Windows 10 Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/overcoming-common-hurdles-in-configuring-miracast-for-windows-11-users/"><u>Overcoming Common Hurdles in Configuring Miracast for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/rapid-and-simple-guide-to-assessing-cpu-speed-with-a-comprehensive-benchmark/"><u>Rapid and Simple Guide to Assessing CPU Speed with a Comprehensive Benchmark</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reboot-and-revive-how-to-reset-final-cut-pro-x-for-smooth-video-editing/"><u>Updated In 2024, Reboot and Revive How to Reset Final Cut Pro X for Smooth Video Editing</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726029440695-iphoneandroid/"><u>スマートフォン用: IPhone/Android対応ニコニコ動画ダウンロード保存方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-10-05T19:23:33.087Z
-updated: 2024-10-11T18:34:45.241Z
+date: 2024-10-11T06:18:54.275Z
+updated: 2024-10-17T22:19:15.851Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Many operating systems have X in their name to pay homage to Unix.
@@ -33,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -57,15 +57,22 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
 
@@ -88,10 +95,10 @@ Dave McKay/How-To Geek
 Dave McKay/How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
@@ -105,13 +112,6 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -150,24 +150,20 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-startup-to-success-skyrocketing-youtube-subs/"><u>[Updated] From Startup to Success Skyrocketing Youtube Subs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-transform-screen-shots-to-videos-mastery-in-aiseesofts-screencast-tools/"><u>[Updated] Transform Screen Shots to Videos Mastery in Aiseesoft's Screencast Tools</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-mix-fold-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Mix Fold 3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-tecno-camon-20-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Camon 20 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-dragon-age-origins-crashing-issues-on-windows-11/"><u>Fixes and Solutions for Dragon Age: Origins Crashing Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-x50i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X50i in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c32-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C32 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-proplus-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 Pro+ 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nubia-red-magic-9-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lenovo-thinkphone-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lenovo ThinkPhone Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-past-opengl-problems-in-minecraft-practical-strategies-and-fixes/"><u>Navigate Past OpenGL Problems in Minecraft: Practical Strategies and Fixes</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-sony-xperia-10-v-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Sony Xperia 10 V on Windows</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-redmi-note-12-4g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi Redmi Note 12 4G on Mac</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cket-your-channel-mastery-of-youtube-data-analysis/"><u>Skyrocket Your Channel Mastery of YouTube Data Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-your-printing-experience-with-new-software-for-the-hp-deskjet-3700-printer/"><u>Upgrade Your Printing Experience with New Software for the HP Deskjet 3700 Printer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-new-in-icloud-apple-unveils-significant-changes-and-solutions-for-windows-users-insights/"><u>What's New in iCloud? Apple Unveils Significant Changes and Solutions for Windows Users Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-thriving-online-a-strategy-guide-for-building-youtube-links/"><u>[New] 2024 Approved Thriving Online A Strategy Guide for Building YouTube Links</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-streamline-social-video-downloads-with-new-app-for-2024/"><u>[New] Streamline Social Video Downloads with New App for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-game-masters-unleashed-an-in-depth-look-at-kinemaster-on-android/"><u>[Updated] Game Masters Unleashed An In-Depth Look at KineMaster on Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-premium-designers-stellar-instagram-hlv-page-builders/"><u>[Updated] Premium Designers Stellar Instagram HLV Page Builders</u></a></li>
+<li><a href="https://techidaily.com/1723808129333-disable-windows-defender-on-windows-10-3-ways/"><u>Disable Windows Defender on Windows 10 – 3 Ways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enduring-seamlessness-direct-profile-url-insertion-guide/"><u>Enduring Seamlessness Direct Profile URL Insertion Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-the-best-10-vectors-online-archives/"><u>Explore the Best 10 Vectors Online Archives</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>In 2024, Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
+<li><a href="https://techidaily.com/1723808000322-premier-mac-video-editing-software-by-apple-elevate-your-editing-skills-today/"><u>Premier Mac Video Editing Software by Apple - Elevate Your Editing Skills Today!</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-resetting-your-pc-to-factory-settings-in-windows-11-a-step-by-step-approach/"><u>Ultimate Tutorial on Resetting Your PC to Factory Settings in Windows 11 – A Step by Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-admin-controls-in-windows-security-alert/"><u>Unlocking Admin Controls in Windows Security Alert</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-secrets-of-windows-10s-boot-configuration-a-step-by-step-guide/"><u>Unlocking the Secrets of Windows 10'S Boot Configuration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-convert-video-voice-to-text-online-for-free-fast-and-easy-ways-for-2024/"><u>Updated Convert Video Voice to Text Online for Free Fast and Easy Ways for 2024</u></a></li>
+<li><a href="https://techidaily.com/windows-11-guide-improve-your-gaming-experience-by-disabling-mouse-acceleration/"><u>Windows 11 Guide: Improve Your Gaming Experience by Disabling Mouse Acceleration</u></a></li>
+<li><a href="https://techidaily.com/wirelessly-projecting-laptop-content-on-a-television-with-an-hdmi-connection-a-visual-guide/"><u>Wirelessly Projecting Laptop Content on a Television with an HDMI Connection - A Visual Guide</u></a></li>
 </ul></div>
 

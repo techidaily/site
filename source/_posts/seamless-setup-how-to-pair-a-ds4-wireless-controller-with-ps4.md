@@ -1,7 +1,7 @@
 ---
 title: "Seamless Setup: How to Pair a DS4 Wireless Controller with PS4"
-date: 2024-09-23T08:01:09.029Z
-updated: 2024-09-24T08:06:38.523Z
+date: 2024-10-11T06:37:36.395Z
+updated: 2024-10-18T00:18:50.641Z
 tags:
   - win11
   - win10
@@ -32,46 +32,11 @@ thumbnail: https://thmb.techidaily.com/3baf857753526582466180d3f05c500201c50c263
 
 Put the battery in your wireless keyboard. Make sure you install it correctly. You can skip this step if there is a built-in battery in your wireless keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step 2: Insert the unifying receiver into the USB port**
 
 Usually, the wireless keyboard comes with**a unifying receiver**. You need to insert the unifying receiver into the USB port on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap64.png)
-
- the unifying receiver
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### **Step 3: Turn on your wireless keyboard**
-
-**Turn on your wireless keyboard**. the On / Off switch usually can be found on the back or the side of your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### **Step 4: Wait until your wireless keyboard pairs with your PC**
-
-Once you turn on your wireless keyboard, it will start to pair with your PC. If you see any prompted dialog on your computer,**just confirm and allow it to connect**. It may take a while. Wait until your wireless keyboard pairs successfully with your PC.
-
-### **Step 5: Test your wireless keyboard**
-
-You need to test your wireless keyboard when it is connected to your computer. You can open**Word**or any other word-processing application and**try pressing the keys on your wireless keyboard**to see if your wireless keyboard works on your computer.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
@@ -79,6 +44,47 @@ You need to test your wireless keyboard when it is connected to your computer. Y
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ the unifying receiver
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### **Step 3: Turn on your wireless keyboard**
+
+**Turn on your wireless keyboard**. the On / Off switch usually can be found on the back or the side of your keyboard.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### **Step 4: Wait until your wireless keyboard pairs with your PC**
+
+Once you turn on your wireless keyboard, it will start to pair with your PC. If you see any prompted dialog on your computer,**just confirm and allow it to connect**. It may take a while. Wait until your wireless keyboard pairs successfully with your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### **Step 5: Test your wireless keyboard**
+
+You need to test your wireless keyboard when it is connected to your computer. You can open**Word**or any other word-processing application and**try pressing the keys on your wireless keyboard**to see if your wireless keyboard works on your computer.
 
 ### **Bonus tip: How to fix the wireless keyboard not working issue?**
 
@@ -122,5 +128,20 @@ If you have any questions or suggestions, please leave your comments below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/fixed-apex-legends-error-code-23/"><u>[Fixed] Apex Legends Error Code 23</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-inside-look-unlocking-the-potential-of-m1-max-clip/"><u>[New] 2024 Approved Inside Look Unlocking the Potential of M1 Max Clip</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-hitting-1080p-quality-with-facebook-broadcasting/"><u>[New] In 2024, Hitting 1080P Quality with Facebook Broadcasting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uploading-tunes-a-guide-to-posting-on-youtube/"><u>2024 Approved Uploading Tunes A Guide to Posting on YouTube</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-x50iplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X50i+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-12-mini-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-through-free2xs-camera-capturing-features/"><u>In 2024, Navigating Through Free2X's Camera Capturing Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://techidaily.com/remove-honor-lock-screen-without-password-honor-90-lite-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Lock Screen without Password(Honor 90 Lite)</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-tactical-edition-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S23 Tactical Edition won’t play MKV movies</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-huawei-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Huawei .</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-wi-fi-connectivity-a-step-by-step-guide-to-restoring-links-in-windows/"><u>USB Wi-Fi Connectivity: A Step-by-Step Guide to Restoring Links in Windows</u></a></li>
+</ul></div>
 

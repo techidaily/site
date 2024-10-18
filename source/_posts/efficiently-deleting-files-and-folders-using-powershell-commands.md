@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-10-09T00:05:43.187Z
-updated: 2024-10-11T17:44:46.013Z
+date: 2024-10-12T21:51:27.118Z
+updated: 2024-10-17T20:47:53.386Z
 tags:
   - deals
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To delete a file or folder, use the "Remove-Item PATH" cmdlet in PowerShell. In this command, replace "PATH" with the full path to the file or folder you want to remove.
@@ -42,13 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, [open a File Explorer window](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) and locate the file or folder whose path you want to find. Then, hold down the Shift key on your keyboard, right-click your file or folder, and choose "Copy as Path."
 
 !['Copy as Path' highlighted in Windows' context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-copy-file-folder-path-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
 
@@ -86,6 +72,26 @@ Remove-Item "C:\Users\username\Desktop\Old Files"
 
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Delete All Files in a Folder But Keep the Folder
 
  If you want to remove all files from a folder but retain the folder, use the "Remove-Item" cmdlet as follows.
@@ -103,16 +109,10 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files From a Folder and Its Subfolders
@@ -132,10 +132,10 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
@@ -175,19 +175,18 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-video-mastery-with-these-quick-trimming-tips-for-windows-10/"><u>[Updated] Unlock Video Mastery with These Quick Trimming Tips for Windows 10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ace-the-art-of-digital-photography-with-lunapic/"><u>2024 Approved Ace the Art of Digital Photography with LunaPic</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/decoding-revenue-how-much-do-creators-earn-on-youtube-in-2024/"><u>Decoding Revenue How Much Do Creators Earn on Youtube, In 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-lite-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 Lite If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-razr-40-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Razr 40 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-ace-2v-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus Ace 2V</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/personalized-and-accessible-video-conclusions-downloads/"><u>Personalized & Accessible Video Conclusions Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/setting-the-standard-for-online-video-presentations-yt-thumbnail-sizing-for-2024/"><u>Setting the Standard for Online Video Presentations – YT Thumbnail Sizing for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-huawei-nova-y91-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Huawei Nova Y91</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-8t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 8T Reset Code | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-itel-a70-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Itel A70 Phone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-x50i-by-fonelab-android-recover-data/"><u>Undelete lost data from X50i</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-5-budget-friendly-video-effect-tools/"><u>[New] 2024 Approved Top 5 Budget-Friendly Video Effect Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-guide-to-mastering-slug-line-crafting/"><u>[New] In 2024, Step-by-Step Guide to Mastering Slug Line Crafting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-actor-rights-free-movie-downloads-license/"><u>[Updated] Actor Rights Free Movie Downloads License</u></a></li>
+<li><a href="https://techidaily.com/aragon-research-recognizes-abbyy-as-top-performer-in-document-analysis-for-2019/"><u>Aragon Research Recognizes ABBYY as Top Performer in Document Analysis for 2019</u></a></li>
+<li><a href="https://techidaily.com/comprehensive-guide-to-the-abbyy-flexicapture-cloud-services-agreement-in-the-united-states/"><u>Comprehensive Guide to the ABBYY FlexiCapture Cloud Services Agreement in the United States</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversione-gratuita-da-mp2-ad-aac-su-internet-tramite-movavi/"><u>Conversione Gratuita Da MP2 Ad AAC Su Internet Tramite Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-your-online-meeting-with-customized-google-meet/"><u>Elevate Your Online Meeting with Customized Google Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-childrens-films-a-step-by-step-guide-to-streaming-and-downloading-for-offline-viewing/"><u>Free Children's Films: A Step-by-Step Guide to Streaming and Downloading for Offline Viewing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>In 2024, A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
+<li><a href="https://techidaily.com/inside-look-into-abbyys-hierarchy-of-success-the-visionary-leaders-from-founders-to-cfo-who-steered-its-course/"><u>Inside Look Into ABBYY's Hierarchy of Success: The Visionary Leaders From Founders to CFO Who Steered Its Course</u></a></li>
+<li><a href="https://techidaily.com/leverage-seamless-personalization-features-via-cutting-edge-cookiebot-solutions/"><u>Leverage Seamless Personalization Features via Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-boosting-your-business-with-advanced-process-analytics-insights-from-the-abbyy-experts/"><u>Ultimate Guide: Boosting Your Business with Advanced Process Analytics - Insights From the ABBYY Experts</u></a></li>
 </ul></div>
 

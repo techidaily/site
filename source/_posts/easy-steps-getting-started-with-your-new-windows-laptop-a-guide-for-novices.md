@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2024-10-11T04:47:37.920Z
-updated: 2024-10-12T08:53:37.198Z
+date: 2024-10-16T23:37:46.436Z
+updated: 2024-10-18T03:13:48.386Z
 tags:
   - deals
 categories:
@@ -24,18 +24,18 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Make the Login Process Easier 
 
  When setting up a Windows device for a non-tech-savvy user, the first step is to simplify the login process. Choose a password that is easy for them to remember, or set up a login PIN, which is often easier to recall and enter. If the device supports it, you can also [enable Windows Hello for facial recognition or fingerprint login](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to streamline the process further.
 
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2  Remove Unnecessary Programs From the Startup List 
 
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  To remove these apps, right-click the Start button and open "Task Manager." Go to the "Startup Apps" tab, right-click on unnecessary apps and processes, and select "Disable."
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
@@ -62,22 +55,16 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
@@ -110,26 +97,33 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Changing scale and resolution in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-scale-and-resolution-in-the-settings-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
@@ -157,19 +151,24 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-syncopating-youtube-melodies-with-visuals/"><u>[New] Syncopating YouTube Melodies with Visuals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortless-no-cost-screening-of-android-gadgets/"><u>[Updated] In 2024, Effortless, No-Cost Screening of Android Gadgets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-podcast-with-ease/"><u>[Updated] Streamline Your Podcast With Ease</u></a></li>
-<li><a href="https://win-hot.techidaily.com/3-easy-methods-for-transferring-your-email-data-from-windows-11-to-an-external-storage-device/"><u>3 Easy Methods for Transferring Your Email Data From Windows 11 to an External Storage Device</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-compre-point-strategies-for-effortless-story-posting-for-2024/"><u>A Compre Point Strategies For Effortless Story Posting for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-minecraft-unresponsive-issues-solutions-for-your-pc/"><u>Fixing 'Minecraft Unresponsive' Issues: Solutions for Your PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y55s-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y55s 5G (2023) without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank/"><u>In 2024, Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-p55-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of P55 on Windows</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-v29e-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from V29e</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformar-mp3-en-mp4-por-internet-sin-coste-con-excelente-calidad-original-preservada/"><u>Transformar MP3 en MP4 Por Internet Sin Coste Con Excelente Calidad Original Preservada</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-m6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-rewind-and-play-an-in-depth-look-at-snapchats-reversal-feature/"><u>[Updated] 2024 Approved Rewind & Play An In-Depth Look at Snapchat's Reversal Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>2024 Approved Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-rotational-rigging-solutions/"><u>2024 Approved Full-Rotational Rigging Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blending-youtube-audio-features-into-video-projects/"><u>Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://techidaily.com/boosting-website-analytics-with-cookiebot-technology-the-key-to-personalized-marketing-insights/"><u>Boosting Website Analytics with Cookiebot Technology – The Key to Personalized Marketing Insights</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-website-optimization/"><u>Cookiebot-Enabled Website Optimization</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-the-ultimate-personalization-solution/"><u>Cookiebot-Enhanced: The Ultimate Personalization Solution</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-leading-the-way-in-smart-marketing-solutions/"><u>Cookiebot: Leading the Way in Smart Marketing Solutions</u></a></li>
+<li><a href="https://techidaily.com/elevate-user-engagement-the-power-of-transformative-experience-automation/"><u>Elevate User Engagement: The Power of Transformative Experience Automation</u></a></li>
+<li><a href="https://techidaily.com/enhanced-conversions-with-our-leading-cookiebot-driven-solutions/"><u>Enhanced Conversions with Our Leading Cookiebot-Driven Solutions</u></a></li>
+<li><a href="https://techidaily.com/enhanced-site-personalization-with-the-help-of-cookiebot-technology/"><u>Enhanced Site Personalization with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fast-track-to-facebooks-latest-viewing-history-2e23/"><u>Fast Track to Facebook’s Latest Viewing History (2E23)</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-fixing-non-responsive-verticalhorizontal-scrolling-on-windows-10-touchpad/"><u>Guide: Fixing Non-Responsive Vertical/Horizontal Scrolling on Windows 10 Touchpad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-unable-to-display-webpage-in-internet-explorer-a-complete-guide/"><u>How to Overcome 'Unable to Display Webpage' In Internet Explorer – A Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/innovative-ocr-technology-transforms-one-million-medical-records-into-easily-searchable-database/"><u>Innovative OCR Technology Transforms One Million Medical Records Into Easily Searchable Database</u></a></li>
+<li><a href="https://techidaily.com/innovative-tech-solutions-widget-integration-and-messaging-trends-with-a-thrill-of-sky-adventures-exploring-the-latest-on-the-abbyy-platform/"><u>Innovative Tech Solutions: Widget Integration & Messaging Trends with a Thrill of Sky Adventures - Exploring the Latest on the ABBYY Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-non-microsoft-office-solutions-of-2024/"><u>Navigating the Best Non-Microsoft Office Solutions of 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>New 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trading-techniques-tested-gpts-impact-on-digital-assets/"><u>Trading Techniques Tested: GPT's Impact on Digital Assets</u></a></li>
 </ul></div>
 

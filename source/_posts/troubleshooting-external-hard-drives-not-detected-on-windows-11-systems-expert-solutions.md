@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting External Hard Drives Not Detected on Windows 11 Systems: Expert Solutions"
-date: 2024-09-23T02:23:42.111Z
-updated: 2024-09-23T18:25:38.775Z
+date: 2024-10-10T18:16:06.223Z
+updated: 2024-10-18T00:32:25.444Z
 tags:
   - win11
   - win10
@@ -43,19 +43,6 @@ _Skype can’t connect_
 
  3) If you do see message concerning connection problem, all you can do is to wait for Skype technicians to solve it on their end.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Upgrade Skype to the latest version
 
  If you don’t see error message on Skype Heartbeat, then it’s time for you to upgrade your Skype.
@@ -69,10 +56,10 @@ _Skype can’t connect_
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3ce447ed7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) You can also go the the official website of Skype to download the latest version from there.
@@ -109,13 +96,6 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba445219ad3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When prompted to give administrator permission, click**Yes** .
 
  2) Type the following commands. Make sure that you have made no typo and then press the**Enter** key on your keyboard after each command.
@@ -134,13 +114,26 @@ netsh int tcp show global
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba44fb14d3b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Restart your computer.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Network Card Driver
 
@@ -155,6 +148,19 @@ netsh int tcp show global
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
@@ -177,5 +183,20 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-brand-your-channel-innovative-banner-templates-for-gamers/"><u>[New] Brand Your Channel Innovative Banner Templates for Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-take-your-teamsnap-game-to-the-next-level-expert-tips/"><u>[New] In 2024, Take Your TeamSnap Game to the Next Level Expert Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-perfecting-your-makeup-mastery/"><u>[Updated] In 2024, Perfecting Your Makeup Mastery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister/"><u>[Updated] The Ultimate Comparison Top Screen Recorders, Focusing on Recmeister</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fixing-half-silenced-facebook-video-volume/"><u>In 2024, Fixing Half-Silenced Facebook Video Volume</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>In 2024, Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-overcoming-initializing-delays-in-destiny-2-gaming-experience/"><u>Master the Solution: Overcoming 'Initializing' Delays in Destiny 2 Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2016-causes-and-solutions-stellar-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2016 Causes & Solutions | Stellar</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2003-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2003 Online for Free</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-2020-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE (2020) Suddenly | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-x7b-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor X7b</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco X6 Pro</u></a></li>
+</ul></div>
 

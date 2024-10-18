@@ -1,7 +1,7 @@
 ---
 title: "Learning From My Experience: Avoiding Risks While Shopping Through TikTok"
-date: 2024-10-06T22:39:52.303Z
-updated: 2024-10-11T20:24:05.069Z
+date: 2024-10-15T21:25:41.040Z
+updated: 2024-10-17T17:46:17.642Z
 tags:
   - web
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  TikTok Shop opened for business in November 2022, and the operation now generates more than $17 billion per year. Almost anyone can monetize their TikTok account using Shopify—which is how I got burned. Here's what you need to know to make sure it doesn't happen to you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Tale of Two TikTok Purchases
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  But who can resist the siren song of clothing and criss-cross chairs? Not me, apparently. Since I signed up for TikTok, I've made two purchases: a [viral oversized desk chair](https://www.amazon.com/Legged-Office-Armless-Computer-Adjustable/dp/B0CZLHFWL8/ref=sr%5F1%5F5?dib=eyJ2IjoiMSJ9.EYKqMjOnndRP7MShUqmOzZBgiPBKdwLlhpHETWBE2TO1s4a%5FiOHgexUu2sVrgA9MXTSiXV9ZdJx0%5Ftrvxq5caahoQAsYRLYi1BqnuR8KPv35286n7TBo0LYhksIhy3XgMIel5N1KvOUD7n8u4vry3KKSwTnmVF1hNHd3BEsWLqNX8EkeCC4%5FBjv5DF9jhNY1WTa3V8UDQdjPom8JEs26qD90ov-JewAEEIkAhYjz9JF7y621lAtnYpU8pQ6DqLNLTffBvck5gF8mtuNbr2vY0MxZPB3gRpnRf6LJ1teMrFM.fAmGlb014eQcxe5m1moZZ8MJENJo-Do1bOpdVSR6rb4&dib%5Ftag=se&hvadid=665639400447&hvdev=c&hvlocphy=1013462&hvnetw=g&hvqmt=e&hvrand=6948836597444604577&hvtargid=kwd-2162749065788&hydadcr=7665%5F13469258&keywords=viral+criss+cross+chair&qid=1718305400&sr=8-5&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003634&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-got-burned-shopping-on-tiktok-but-you-can-learn-from-my-mistake%2F&asc%5Fcampaign=Short-Term) and a [belted black jumpsuit](https://mccoyn.com/products/womens-sleeveless-wide-leg-jumpsuit). I sit upon my huge quilted throne as we speak, but the jumpsuit is lost to time and space (I got scammed out of $20).
 
  While the chair sale went through the typical TikTok Shop Shopify pipeline, at some point when purchasing the jumpsuit I was apparently lured to a third-party site. When the item never arrived and I requested a refund, I was met with radio silence. I'm not holding my breath.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How TikTok Shop Works
 
@@ -52,15 +45,22 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 ![Select 'Shop' in the bottom bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-_profile_-in-the-bottom-bar-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or, you can click the Shop link in a video to shop for the product that they're talking about:
 
 ![Click the TikTok shop link in a post to buy the item shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tiktok-shop-link.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Red Flags When Buying on TikTok
@@ -74,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  Lastly, avoid products with little description. Don't buy anything with little to no product specs or descriptions. Legit sellers will outline what you're getting and how you can return it. Look for contact info, too.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Practices for TikTok Shopping
@@ -103,20 +109,21 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-conquering-the-world-of-instagram-reels-tips-inside/"><u>[New] 2024 Approved Conquering the World of Instagram Reels – Tips Inside</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-best-streaming-cameras-to-boost-viewer-interaction-on-twitch/"><u>[Updated] 2024 Approved The Best Streaming Cameras to Boost Viewer Interaction on Twitch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-flawless-adobe-audio/"><u>2024 Approved Expert Techniques for Flawless Adobe Audio</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-and-install-logitech-m525-keyboard-software-and-drivers/"><u>How to Update and Install Logitech M525 Keyboard Software and Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audience-enhancement-with-audition-fades/"><u>In 2024, Audience Enhancement with Audition Fades</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-105-classic-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nokia 105 Classic Phone Without Password?</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-find-n3-flip-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Find N3 Flip</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-securely-retrieving-vimeo-content-for-offline-viewing/"><u>Step-by-Step Tutorial on Securely Retrieving Vimeo Content for Offline Viewing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-easy-path-to-engaging-animation-in-your-videos-for-2024/"><u>The Easy Path to Engaging Animation in Your Videos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trouble-with-dvd-playback-on-windows-1011-discover-effective-solutions-inside/"><u>Trouble with DVD Playback on Windows 10/11? Discover Effective Solutions Inside!</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-edge-2023-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Edge 2023 password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/y78plus-video-recovery-recover-deleted-videos-from-y78plus-by-fonelab-android-recover-video/"><u>Y78+ Video Recovery - Recover Deleted Videos from Y78+</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-spin-and-share-easy-iphone-filmmaking-techniques/"><u>[New] 2024 Approved Spin and Share Easy iPhone Filmmaking Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>[Updated] 2024 Approved A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-srt-deep-dive-knowledge-at-your-fingertips/"><u>2024 Approved SRT Deep Dive Knowledge at Your Fingertips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismiss-incompatible-prerequisite-message-in-win11/"><u>Dismiss Incompatible Prerequisite Message in Win11</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-11-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 11 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-note-30i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30i Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-microsoft-copilot-integration-in-your-windows-11-system/"><u>How To Turn Off Microsoft Copilot Integration In Your Windows 11 System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-in-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers in Windows 11/10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-victories-effective-strategies-with-w11/"><u>In 2024, Capturing Victories Effective Strategies with W11</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-6-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 6 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-7-plus-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 7 Plus failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-k11-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo K11 5G.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-ultimate-guide-to-protecting-images/"><u>Your Ultimate Guide to Protecting Images</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware"
-date: 2024-10-06T08:32:21.962Z
-updated: 2024-10-11T23:32:16.787Z
+date: 2024-10-15T17:52:51.122Z
+updated: 2024-10-18T04:32:09.552Z
 tags:
   - desktop
 categories:
@@ -39,40 +39,39 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Opening the Disk Utility from the spotlight search on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-opening-the-disk-utility-from-the-spotlight-on-macos.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, select the main volume, usually "Macintosh HD," and click "Partition."
 
 ![Opening the partition panel to parition a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-opening-the-partition-panel-to-parition-a-drive-on-macos.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click the "+" icon and select "Add Partition" from the popup menu.
 
 ![Adding a partition to a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-adding-a-parition-to-a-drive-on-macos.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Name the newly created partition, choose "APFS" as the format, and allocate the desired size for the partition. Click "Apply," then "Partition," and finally "Continue" in the warning popup.
 
 ![Applying a partition by defining the partition information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-applying-a-parition-by-defining-the-partition-information.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Newly Created Partition for the Backup
 
@@ -86,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Restoring a deleted Microsoft Word file from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-restoring-a-deleted-file-from-the-time-machine-backup.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don't Let Your Backup Drive Get Clogged Up
 
  Since you're backing up your data locally, there's a risk of quickly [filling up your backup drive](https://twitter-videos.techidaily.com/direct-video-transmission-from-twitters-to-whatsapp-for-2024/) if you have large amounts of data and limited storage space on the partition you've allocated for it. To prevent this issue, I suggest only backing up essential files and excluding less important ones.
@@ -95,10 +101,16 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ![Excluding some data from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-excluding-some-data-from-the-time-machine-backup-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -122,24 +134,22 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/1715860241974-updated-essential-8-android-group-calls-over-4-users/"><u>[Updated] Essential 8 Android Group Calls Over 4 Users!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-preeminent-5-photo-background-changer-tools-iphone-x87-edition/"><u>2024 Approved Preeminent 5 Photo Background Changer Tools IPhone X/8/7 Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rise-above-1000-subs-youtubing-strategies-for-mobile-creators/"><u>2024 Approved Rise Above 1000 Subs YouTubing Strategies for Mobile Creators</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comprehensive-tutorial-for-zoom-and-gmail-users/"><u>Comprehensive Tutorial for Zoom and Gmail Users</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giggles-in-a-box-iphone-fun-for-2024/"><u>Giggles in a Box (iPhone Fun) for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x6-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X6 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-zte-nubia-z60-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a ZTE Nubia Z60 Ultra Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A34 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-the-conversion-of-vids-to-mp3-on-insta/"><u>In 2024, Mastering the Conversion of Vids to MP3 on Insta</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-setup-download-wacom-intuos-pro-software-for-windows-11-users/"><u>Quick & Easy Setup: Download Wacom Intuos Pro Software for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/remove-infinix-lock-screen-without-password-infinix-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Lock Screen without Password(Infinix )</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-poco-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Poco</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-unrecognized-usb-connections-on-your-pc-windows-10/"><u>Step-by-Step Solutions for Fixing Unrecognized USB Connections on Your PC (Windows 10)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-helperdll-error-on-your-pc-tips-and-solutions/"><u>Troubleshooting Missing Helper.dll Error on Your PC – Tips & Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-logitech-usb-headset-drivers-quickly/"><u>Update Your Logitech USB Headset Drivers Quickly</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-a25-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A25 5G play AVCHD mts files?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-no-more-costs-discover-best-free-camera-screen-recorder-apps/"><u>[New] No More Costs? Discover Best FREE Camera Screen Recorder Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>[Updated] 2024 Approved Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-post-production-hues-with-expertise/"><u>[Updated] Navigating Post-Production Hues with Expertise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repairs-how-to-restore-functionality-on-tiktok/"><u>DIY Repairs: How to Restore Functionality on TikTok</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-errors-in-the-finals-game-for-windows-users/"><u>Fixing Persistent Errors in The Finals Game for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-igniting-interest-and-inviting-in-accelerating-audience-acquisition/"><u>In 2024, Igniting Interest and Inviting In Accelerating Audience Acquisition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-triumph-through-tales-3-crucial-strategies-for-channels/"><u>In 2024, Triumph Through Tales 3 Crucial Strategies for Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/innovative-ideas-for-snapad-success-in-business-for-2024/"><u>Innovative Ideas for SnapAd Success in Business for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-strategies-for-seamlessly-mirroring-your-android-device-onto-an-ipad/"><u>Simple Strategies for Seamlessly Mirroring Your Android Device Onto an iPad</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-to-fix-error-code-0xa00f4244-on-your-windows-11-pc-camera/"><u>Step-by-Step Guide to Fix 'Error Code 0Xa00f4244' On Your Windows 11 PC Camera</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-safely-extract-videos-from-vimeo-platforms/"><u>Step-by-Step Tutorial: How To Safely Extract Videos From Vimeo Platforms</u></a></li>
+<li><a href="https://techidaily.com/tackling-high-cpu-consumption-in-windows-11-a-closer-look-at-module-installer-processes/"><u>Tackling High CPU Consumption in Windows 11 - A Closer Look at Module Installer Processes</u></a></li>
+<li><a href="https://techidaily.com/troubleshoot-invisible-amd-graphics-driver-problems-in-windows-expert-tips-to-appear-in-device-manager/"><u>Troubleshoot Invisible AMD Graphics Driver Problems in Windows: Expert Tips to Appear in Device Manager</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-and-repairing-your-lenovos-photography-application-issues-on-windows-1through-easy-steps/"><u>Troubleshooting and Repairing Your Lenovo's Photography Application Issues on Windows 1([Through Easy Steps</u></a></li>
+<li><a href="https://techidaily.com/turn-off-sticky-keys-on-windows-10-easily-with-pictures/"><u>Turn Off Sticky Keys on Windows 10 Easily [with Pictures]</u></a></li>
+<li><a href="https://techidaily.com/turning-up-the-volume-expert-tips-to-fix-your-ps4s-audio-issue/"><u>Turning Up the Volume: Expert Tips to Fix Your PS4's Audio Issue</u></a></li>
+<li><a href="https://techidaily.com/understanding-and-locating-your-mac-address-a-comprehensive-guide/"><u>Understanding and Locating Your MAC Address: A Comprehensive Guide</u></a></li>
 </ul></div>
 

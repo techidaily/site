@@ -1,7 +1,7 @@
 ---
 title: Boost Your Laptop's Performance Swiftly on Windows 11/7/8.1 with These Easy Tips
-date: 2024-09-22T20:41:35.509Z
-updated: 2024-09-23T18:50:34.815Z
+date: 2024-10-11T01:44:56.771Z
+updated: 2024-10-17T18:55:05.413Z
 tags:
   - win11
   - win10
@@ -30,25 +30,11 @@ Windows Update is a feature that automatically checks and provide updates for ou
 3. **[Change Group Policy Settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Bonus tip: Update your device drivers via Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Disable the Windows Update Service
 
  Method 2 is pretty much self-explanatory. By**disabling the Windows Update Service** , Windows will stop checking for updates, hence sparing you the wanted Windows updates. To do so:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
@@ -56,16 +42,16 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31df211e366.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Startup type, select**Disabled** , then click >**Stop** ( make sure the word**Stop** is grayed out) >**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31dfc99cd5c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -85,14 +71,20 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
- 4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
 
 ## **Method 3: Change Group Policy Settings**
 
@@ -102,35 +94,54 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320075a239c.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click on **Computer Configuration** \> **Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Double-click on**Windows Update** \> **Configure Automatic Updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Restart your computer for the changes to take effect.
 
@@ -152,6 +163,13 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321850aaba5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to finish the update.
 
  That’s it  – 3 easy methods for you to turn off Windows Update on your computer  . Hope this helps and feel free to comment below if you have any further questions. ?
@@ -171,5 +189,18 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-steps-for-skype-capture-via-obs/"><u>[New] Essential Steps for Skype Capture via OBS</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-find-n3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Find N3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blocking-youtube-streams-in-safari-on-the-ios-platform-a-comprehensive-guide/"><u>Blocking YouTube Streams in Safari on the iOS Platform - A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-itel-device-sim-by-drfone-android/"><u>Easily Unlock Your Itel Device SIM</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-strategies-overcoming-common-issues-when-skype-fails-to-connect/"><u>Essential Strategies: Overcoming Common Issues When Skype Fails to Connect</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-14-plus-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 14 Plus Data Completely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-nord-n30-se-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus Nord N30 SE Android SIM Unlock APK</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/techniques-for-text-overlays-in-video-platforms-vimeo-for-2024/"><u>Techniques for Text Overlays in Video Platforms (Vimeo) for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 7</u></a></li>
+<li><a href="https://techidaily.com/yuva-3-video-recovery-recover-deleted-videos-from-yuva-3-by-fonelab-android-recover-video/"><u>Yuva 3 Video Recovery - Recover Deleted Videos from Yuva 3</u></a></li>
+</ul></div>
 

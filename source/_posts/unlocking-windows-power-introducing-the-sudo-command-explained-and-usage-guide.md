@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2024-10-05T23:48:51.083Z
-updated: 2024-10-12T04:23:38.390Z
+date: 2024-10-12T22:37:58.003Z
+updated: 2024-10-17T16:54:59.279Z
 tags:
   - desktop
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
@@ -54,25 +54,31 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Configure sudo in Windows
@@ -80,10 +86,16 @@ Microsoft
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
@@ -113,16 +125,18 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-generate-interest-making-your-own-youtube-intros/"><u>[New] 2024 Approved Generate Interest Making Your Own YouTube Intros</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-step-by-step-iphone-guide-creating-and-editing-languid-video-sequences/"><u>[New] In 2024, Step by Step iPhone Guide Creating & Editing Languid Video Sequences</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-your-first-dive-into-the-world-of-zoom-webinar-hosting-for-2024/"><u>[New] Your First Dive Into the World of Zoom Webinar Hosting for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>2024 Approved Syncing Scores and Screenplays Top Tunes for Video Unboxing</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-find-x7-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X7 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-your-destiny-2-gameplay/"><u>How to Restore Voice Communication in Your Destiny 2 Gameplay</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-from-beginner-to-pro-the-top-tips-for-instagram-stories/"><u>In 2024, From Beginner to Pro The Top Tips for Instagram Stories</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-redmi-note-13-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Redmi Note 13 5G on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-digital-landscape-with-windows-11-features/"><u>Tailoring Your Digital Landscape with Windows 11 Features</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 10 & 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-selections-versatile-and-affordable-macpc-bd-decoders/"><u>[New] 2024 Approved Premier Selections Versatile and Affordable Mac/PC BD Decoders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-liftoff-your-phone-images-with-free-magnification-app/"><u>[Updated] Liftoff Your Phone Images with Free Magnification App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-apps-for-editing-and-mixing-dji-video-tapes/"><u>2024 Approved Ideal Apps for Editing and Mixing DJi Video Tapes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diving-into-huawei-p10s-latest-tech-features/"><u>Diving Into Huawei P10's Latest Tech Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-samsung-galaxy-s23-tactical-edition-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Samsung Galaxy S23 Tactical Edition? </u></a></li>
+<li><a href="https://fox-info.techidaily.com/restoring-windows-photo-viewer-in-windows-10-step-by-step-guide/"><u>Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-configuring-a-three-monitor-workstation/"><u>Step-by-Step Tutorial on Configuring a Three-Monitor Workstation</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-enablingdisabling-hibernate-mode-for-windows-10-users/"><u>Step-by-Step Tutorial on Enabling/Disabling Hibernate Mode for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/successful-guide-disabling-onedrive-integration-in-windows-11-file-explorer/"><u>Successful Guide: Disabling OneDrive Integration in Windows 11 File Explorer</u></a></li>
+<li><a href="https://techidaily.com/tech-guide-detailed-steps-to-perform-a-complete-factory-reset-on-your-toshiba-computer/"><u>Tech Guide: Detailed Steps to Perform a Complete Factory Reset on Your Toshiba Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-quickly-identify-your-steam-user-identifier/"><u>Tips to Quickly Identify Your Steam User Identifier</u></a></li>
+<li><a href="https://techidaily.com/top-rated-vpn-services-for-enhancing-your-pc-gaming-experience/"><u>Top Rated VPN Services for Enhancing Your PC Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-resolving-windows-11-desktop-apps-and-data-sync-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Desktop Apps and Data Sync Issues</u></a></li>
 </ul></div>
 

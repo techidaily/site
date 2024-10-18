@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models"
-date: 2024-10-11T08:13:45.343Z
-updated: 2024-10-12T06:54:01.179Z
+date: 2024-10-16T18:35:39.209Z
+updated: 2024-10-18T04:40:53.098Z
 tags:
   - desktop
 categories:
@@ -25,24 +25,18 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
  Are you planning to sell your Mac? Or is it getting cluttered up with apps and data and you want to give it a good spring clean? A factory reset is what you need. Let's take a look at how to do it on both Apple Silicon and Intel Macs.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Requirements (And Tips for Older Macs)
 
  All Macs powered by Apple Silicon, along with those that have a T2 Security Chip and run at least macOS Monterey (macOS 12), have a handy "Erase All Content and Settings" option in the System Settings. It works in the same way that you would [factory reset an iPhone](https://facebook-video-content.techidaily.com/group-gallery-video-extractor/) and simplifies the whole process.
 
  If your Mac uses an Intel processor, or you're running a version of macOS older than Monterey, you'll need to perform a more complex series of steps to factory reset your Mac. We'll explain how to do that below, or check out our guide to [reinstalling macOS](https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/) for more detail.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Erase All Content and Settings on an Apple Silicon Mac
 
@@ -55,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 ![The Transfer or Reset option in System Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-transfer-or-reset-option-in-system-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select "Erase All Content and Settings." Enter your password when prompted and this will launch the Erase Assistant.
@@ -69,6 +63,19 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![In the menu bar, click "System Preferences" then choose "Erase All Content And Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/choose_erase_all_content_and_settings.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With Erase Assistant launched, you'll see exactly what will be removed during the factory reset. Along with your data, apps, and settings, you'll be signed out of your Apple ID, your Touch ID fingerprints will be removed, Bluetooth accessories will be unpaired, and the Mac will no longer appear under the Find My service.
 
 ![Screenshot showing what will be removed during a factory reset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-showing-what-will-be-removed-during-a-factory-reset.png) 
@@ -77,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![Sign out from your Apple ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sign-out-from-your-apple-id.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You might now be asked if you want to back up your Mac using Time Machine. Do this if you haven't already, because once your data has been wiped, you won't be able to get it back. For the final step, you'll be asked to confirm that you want to perform the factory reset.
 
  Click "Erase All Content & Settings" to continue.
@@ -84,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 ![The screen to confirm that you should erase all your content.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-screen-to-confirm-that-you-should-erase-all-your-content.png) 
 
  After clicking, your Mac will restart and show a progress bar as it erases all the content on your device. When it's done, you'll be asked to set up your Mac again. You can start from scratch as if it were a brand-new Mac, or hand it off to someone else to set up later.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Factory Reset an Older Mac
 
@@ -109,19 +116,6 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
  Once in Disk Utility, select "Macintosh HD" in the sidebar. Make sure you have backups, then click "Erase" in the toolbar. You will lose all data on the drive.
 
 ![The Disk Utlity screen for erasing your Mac hard drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-disk-utlity-screen-for-erasing-your-mac-hard-drive.png) 
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you're done erasing the drive, quit Disk Utility using the menu bar and select "Reinstall macOS" in the Recovery menu, then follow the on-screen instructions.
 
@@ -146,19 +140,21 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-innovating-your-sims-4-experience-through-recording/"><u>[New] 2024 Approved Innovating Your Sims 4 Experience Through Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-champion-of-cinematography-audio-visual-artistry-for-2024/"><u>[New] Champion of Cinematography Audio-Visual Artistry for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-uncharted-mmo-adventures-ranking-the-10-best-free-games/"><u>[New] In 2024, Uncharted MMO Adventures Ranking the 10 Best Free Games</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>[New] In 2024, Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversational-conjurer-chatbot-aides-in-your-quest-for-the-perfect-dungeon/"><u>Conversational Conjurer: Chatbot Aides in Your Quest for the Perfect Dungeon</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-3-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord 3 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-sony-xperia-10-v-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Sony Xperia 10 V working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-adding-sounds-to-mkv-videos-techniques-and-procedures-revamped-for-2024/"><u>New Adding Sounds to MKV Videos Techniques and Procedures (Revamped) for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oneplus-open-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of OnePlus Open on Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-by-step-shortcut-for-easy-mac-screen-recording/"><u>Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-quick-guide-to-instagrams-magnification-magic/"><u>[New] The Quick Guide to Instagram's Magnification Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-the-barriers-effective-rtmp-streaming-in-premiere/"><u>2024 Approved Breaking Down the Barriers Effective RTMP Streaming in Premiere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/broadcast-bliss-the-most-accurate-local-and-online-tv-services/"><u>Broadcast Bliss The Most Accurate Local and Online TV Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-superiority-gpt-vs-huggingface/"><u>Deciphering Superiority: GPT VS HuggingFace</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/decoding-zdsofts-key-recording-features/"><u>Decoding ZDSoft's Key Recording Features</u></a></li>
+<li><a href="https://techidaily.com/effortless-setup-linking-wireless-headphones-to-your-desktop-computer-on-windows-10/"><u>Effortless Setup: Linking Wireless Headphones to Your Desktop Computer on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/elevate-your-roblox-experience-achieve-higher-fps-using-latest-techniques/"><u>Elevate Your Roblox Experience: Achieve Higher FPS Using Latest Techniques</u></a></li>
+<li><a href="https://techidaily.com/embark-on-a-lone-quest-with-offline-mode-in-minecraft-for-windows-10-users/"><u>Embark on a Lone Quest with Offline Mode in Minecraft for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/essential-techniques-to-refresh-bios-in-a-windows-11-environment/"><u>Essential Techniques to Refresh BIOS in a Windows 11 Environment</u></a></li>
+<li><a href="https://techidaily.com/five-effective-methods-to-utilize-the-open-group-policy-editor-in-windows-10/"><u>Five Effective Methods to Utilize the Open Group Policy Editor in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/fix-superfetchs-full-disk-utilization-issue-a-complete-guide/"><u>Fix Superfetch's Full Disk Utilization Issue: A Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/getting-started-with-fallout-3-compatibility-and-setup-for-windows-11-gaming/"><u>Getting Started with Fallout 3: Compatibility and Setup for Windows 11 Gaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://win11.techidaily.com/invigorating-previous-generations-directx-software-via-dxvk/"><u>Invigorating Previous Generations' DirectX Software via DXVK</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972326466-negative-externalities-can-result-from-private-transactions-causing-harm-to-others-like-pollution/"><u>Negative Externalities Can Result From Private Transactions Causing Harm to Others, Like Pollution.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/voice-logging-access-and-evaluation-for-2024/"><u>Voice Logging Access & Evaluation for 2024</u></a></li>
 </ul></div>
 

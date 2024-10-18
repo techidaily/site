@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2024-10-04T23:47:36.207Z
-updated: 2024-10-12T08:03:48.311Z
+date: 2024-10-15T00:47:14.561Z
+updated: 2024-10-18T01:51:06.684Z
 tags:
   - mobile
 categories:
@@ -19,13 +19,6 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
@@ -38,35 +31,42 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 Valve
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
@@ -75,20 +75,13 @@ Valve
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Motorola
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
@@ -97,6 +90,13 @@ Motorola
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -119,22 +119,22 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-survivors-guide-top-6-mc-house-plans/"><u>[New] 2024 Approved Survivor's Guide Top 6 MC House Plans</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-the-secrets-to-choosing-movie-trailers-music-for-2024/"><u>[New] Unveiling the Secrets to Choosing Movie Trailers' Music for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-revolutionize-your-social-media-experience-with-premier-tools-for-2024/"><u>[Updated] Revolutionize Your Social Media Experience with Premier Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/camera-enthusiasts-top-list-ultimate-6-4k-dslr-cameras-for-2024/"><u>Camera Enthusiasts' Top List Ultimate 6 4K DSLR Cameras for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-spark-10-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Spark 10 5G</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-civi-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Civi 3 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-rewind-a-twitch-live-stream/"><u>How to Rewind A Twitch Live Stream</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-streamline-your-vids-top-5-chrome-filters-for-fb/"><u>In 2024, Streamline Your Vids Top 5 Chrome Filters for FB</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/master-your-audio-recordings-5-expert-methods-online/"><u>Master Your Audio Recordings 5 Expert Methods Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-new-software-for-dells-thunderbolt-dock-tb16/"><u>Step-by-Step Guide: Installing New Software for Dell's Thunderbolt Dock TB16</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y28-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-14-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi 14 can't play MP4 video files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-revamping-online-speech-chromebooks-top-5-voice-alteration-tools-revealed/"><u>[New] In 2024, Revamping Online Speech Chromebook's Top 5 Voice Alteration Tools Revealed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-guide-to-filming-in-full-view-9-tips/"><u>[New] The Ultimate Guide to Filming in Full View (9 Tips)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-little-gamers-treasure-trove-of-joy/"><u>[Updated] Little Gamers' Treasure Trove of Joy</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-phantom-v-flip-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722956204031-download-the-latest-csr-bluetooth-drivers-without-hesitation/"><u>Download the Latest CSR Bluetooth Drivers Without Hesitation!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-download-optimized-sound-card-software-updates-for-windows-systems/"><u>Find & Download Optimized Sound Card Software Updates for Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nubia-red-magic-9-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Red Magic 9 Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2v-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2V Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-rejoice-top-alternatives-to-pinnacle-studio/"><u>Mac Users, Rejoice! Top Alternatives to Pinnacle Studio</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Pro Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/seamless-m4a-to-wma-file-conversion-techniques-for-optimal-audio-quality/"><u>Seamless M4A to WMA File Conversion Techniques for Optimal Audio Quality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-for-correcting-unclear-images-in-cod-warzone-on-windows-machines/"><u>Step-by-Step Tutorial for Correcting Unclear Images in Cod: Warzone on Windows Machines</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-avchd-video-editing-software/"><u>Updated In 2024, The Ultimate Guide to AVCHD Video Editing Software</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-x-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo X Flip Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-14-pro-messages-recovery-recover-deleted-messages-from-xiaomi-14-pro-by-fonelab-android-recover-messages/"><u>Xiaomi 14 Pro Messages Recovery - Recover Deleted Messages from Xiaomi 14 Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2024-10-09T16:15:24.221Z
-updated: 2024-10-12T02:11:01.280Z
+date: 2024-10-12T05:25:11.384Z
+updated: 2024-10-17T21:37:35.695Z
 tags:
   - web
 categories:
@@ -19,6 +19,13 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
  Each approach has its pros and cons, and over the years I think there are very few of them I haven't tried. But when it comes to a combination of flexibility, ease of use, and aesthetics, dedicated planning tools tend to have the edge. We'll get more into the specifics in a moment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Aren’t Project Management Apps for Work?
 
  Project management apps probably aren't the first thing that spring to mind when you think about planning personal projects. We tend to think of them in a work context, and they bring to mind large-scale team projects in enterprise companies.
@@ -26,6 +33,13 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
  You might also have heard people mention their qualifications in project management tools, which again has the effect of making them seem complex.
 
  Some project management apps are indeed complicated—but there are also beautifully simple ones, like Trello.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Trello?
 
@@ -46,10 +60,10 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 ![A Trello board with apartment listings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-apartment.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -66,27 +80,7 @@ Ben Lovejoy
 
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ben Lovejoy
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use Trello
 
@@ -107,10 +101,10 @@ Ben Lovejoy
 ![Click the small arrow to hide the sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/close-sidebar.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -119,13 +113,6 @@ Ben Lovejoy
 
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
 ###  Adding Cards
@@ -133,6 +120,13 @@ Ben Lovejoy
  You'll see each list now has an "Add a Card" button, so just click this to do so. Again, repeat as many times as desired to add as many cards as needed within each list.
 
 ![Adding cards to each task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cards.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -147,13 +141,6 @@ Ben Lovejoy
  The photo will then show on the card in the main view:
 
 ![A VR headset displayed on a Trello card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/photo-added.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -171,19 +158,6 @@ Ben Lovejoy
 
  You'll also see here options to link to existing cards.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Adding Checklists
 
  Everything else from this point is added in the same way: Open the card, then choose the option from that right-hand menu we used to add the cover photo. I'll skip the screengrabs, as these would just be the same image.
@@ -195,6 +169,13 @@ Ben Lovejoy
  If a card represents a task, you can set a deadline by clicking the "Date" button. By default, you'll get a reminder the day before it becomes due, but you can change this from the dropdown.
 
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Using Color Coding
 
@@ -212,6 +193,13 @@ Ben Lovejoy
 
 Ben Lovejoy
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Moving Things Around (Lists and Cards)
 
  Whether you want to move a card up or down a list, move a card from one list to another, or move a list to the left or right, you can do it all simply by dragging and dropping, picking the card up by its edge.
@@ -219,10 +207,16 @@ Ben Lovejoy
  However, there is one quirk to watch out for. Trello also lets you drag one card inside another one by picking it up in the center, where it is added as an attachment (effectively a hyperlink from one card to another). If the card remains the same size and rounded shape when you drag it, you are dragging the card—but if it changes to a small square, you are in insertion mode. If you get that and don't want it, then just drag it anywhere outside your lists and let it go.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Collaborating With Family and Friends
@@ -248,19 +242,24 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-depth-insights-on-creating-captivating-instagram-stories/"><u>[New] In-Depth Insights on Creating Captivating Instagram Stories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-video-splitting-expertise-best-recorder-verdict/"><u>[New] Video Splitting Expertise Best Recorder Verdict</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/avaliacao-dos-top-10-mais-eficientes-softwares-de-dvd-para-mp4-conversao-para-pcs-e-macs-em-2023/"><u>Avaliação Dos Top 10 Mais Eficientes Softwares De DVD Para MP4 Conversão Para PCs E Macs Em 2023</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/convert-your-whatsapp-voice-messages-top-4-free-ways-to-download-as-mp3/"><u>Convert Your WhatsApp Voice Messages: Top 4 Free Ways to Download as MP3</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-m54-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy M54 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-set-up-reliable-mouse-driver-software-for-windows-7-compatible-with-all-models/"><u>How to Obtain and Set Up Reliable Mouse Driver Software for Windows ^7 (Compatible with All Models)</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-google-pixel-fold-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Google Pixel Fold Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-fe-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 FE Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-a34-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy A34 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-effortlessly-integrate-your-apple-podcasts-collection-for-2024/"><u>[Updated] Effortlessly Integrate Your Apple Podcasts Collection for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-5-playstation-vr-games-to-look-forward-to/"><u>[Updated] In 2024, Top 5 Playstation VR Games to Look Forward To</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-perfect-windows-photos-implementing-sound-and-visual-filters-guide/"><u>[Updated] Perfect Windows Photos Implementing Sound & Visual Filters Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/behind-the-walls-facebooks-policies-now-visible-via-new-hq/"><u>Behind the Walls: Facebook's Policies Now Visible via New HQ</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-infinix-smart-8-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix Smart 8 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comprehensive-guide-to-enable-and-manage-vsphere-replication-within-a-vsan-environment/"><u>Comprehensive Guide to Enable and Manage vSphere Replication Within a vSAN Environment</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-automation-enhance-your-websites-performance/"><u>Cookiebot-Driven Automation: Enhance Your Website's Performance</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-hot-40-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Hot 40 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-your-steam-remote-play-up-and-running-with-these-expert-tips/"><u>Get Your Steam Remote Play Up and Running with These Expert Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-play-8t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Play 8T Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-10t-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 10T 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mkvmp48/"><u>MKVファイルをMP4形式で完全無料で変換するためのベストテクニック8種類</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-fodt-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .fodt file Online with DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-realme-11x-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Realme 11X 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 7</u></a></li>
 </ul></div>
 

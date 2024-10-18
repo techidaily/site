@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide"
-date: 2024-10-09T07:01:23.881Z
-updated: 2024-10-11T19:13:38.730Z
+date: 2024-10-14T01:21:12.412Z
+updated: 2024-10-17T21:46:31.021Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 * [Is Downloading the Windows 10 KB5034441 Update Important?](https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-10c-unlock-without-password-by-drfone-android/)
 * [What is the WinRE Recovery Partition?](https://vp-tips.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today/)
 * [How to Fix the Windows Update Error 0x80070643](https://win11.techidaily.com/unlocking-dangers-hacked-fingerprints-on-windows-pcs/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Windows Update Error 0x80070643](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-update-error-0x80070643.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft clearly states that if your system doesn't have a Recovery partition, you don't need to download the KB5034441 update and you can ignore this error. However, if your system does feature a Recovery partition, it's important for you to download the update and, unfortunately, Microsoft isn't going to release an automatic fix that will solve the 0x80070643 error.
 
  Earlier, when the report broke about users facing this issue, Microsoft acknowledged it and said they were working on a fix. However, that hasn't panned out (yet). 
@@ -56,33 +56,33 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Recovery partition in Disk Management](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-partition-in-disk-management.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows Recovery Environment (WinRE) is a built-in feature provided by Windows that helps you recover your computer when it has been corrupted for various reasons, and you cannot boot it. Additionally, it will help recover your system when it has become unusable due to incorrect updates or accidental removal of system files.
 
  To check if the Recovery partition is configured properly on your computer, [open Command Prompt as an administrator](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/), type **reagentc /info**, and hit Enter. If you see "Enabled" next to Windows RE status, it means your computer has a Recovery partition, and it is working properly.
 
 ![Windows RE status in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-re-status-in-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Fix the Windows Update Error 0x80070643
 
  As mentioned earlier, the 0x80070643 error occurs when the Recovery partition doesn't have 250 MB of free space. This means that to fix the problem, you will need to provide more space to the Recovery partition. To do that, open Command Prompt as an administrator, type **reagentc /disable** to disable the Recovery partition, and hit Enter.
 
 ![Disable Recovery Partition command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-recovery-partition-command.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type **diskpart** and hit Enter.
 
@@ -92,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![List disk command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-disk-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the disk where your operating system is installed. For example, if it is Disk 1, type **select disk 1** and hit Enter.
 
 ![Select disk command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-disk-command-in-cmd.jpg) 
@@ -106,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
  Type **list partition** to list the partitions on the disk.
 
 ![List partition command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-partition-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the primary disk partition. For example, if it is Partition 3, type **select partition 3** and hit Enter.
 
@@ -132,27 +112,33 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![select partition 4 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-4-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **delete partition override** and hit Enter to delete the recovery partition.
 
 ![delete partition override command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-partition-override-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here's the most important step. Scroll up in your Command Prompt window and check the [disk partition style](https://facebook-video-footage.techidaily.com/updated-pro-level-gif-generation-a-critical-review/). If there's an asterisk (\*) in the GPT column of your operating system disk, it means you have GUID Partition Table (GPT) partition style. If there's no asterisk in the GPT column, then it's [MBR partition style](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/).
 
 ![Asterick mark in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asterick-mark-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your disk is GPT, type **create partition primary id=de94bba4-06d1-4d40-a16a-bfd50179d6ac** and hit Enter. Then, type **gpt attributes =0x8000000000000001** and hit Enter. If your disk is MBR, type **create partition primary id=27** and hit Enter.
 
@@ -166,6 +152,13 @@ Close
 
 ![List vol command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-vol-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **exit** and hit Enter to exit Diskpart.
 
 ![Exit command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-command-in-cmd.jpg) 
@@ -173,6 +166,13 @@ Close
  Re-enable the Recovery partition by typing **reagentc /enable** and hitting Enter.
 
 ![Recovery parition enable command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-parition-enable-command-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finally, to confirm the Recovery partition is configured properly on your computer, type **reagentc /info** and hit Enter. If you see "Enabled" next to Windows RE status, it means the Recovery partition is working properly. After that, [restart your computer](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) and try downloading the Windows update again. This time, the error code 0x80070643 shouldn't interrupt the download process.
 
@@ -195,19 +195,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[New] In 2024, Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-dive-into-digital-clarity-the-guide-for-full-hd-on-tweet/"><u>[Updated] 2024 Approved Dive Into Digital Clarity The Guide for Full HD on Tweet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-reviewing-the-unseen-assessing-your-facebook-past/"><u>[Updated] 2024 Approved Reviewing the Unseen Assessing Your Facebook Past</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-fix-facebook-snap-glitches-stories-upload-woes/"><u>[Updated] Fix Facebook Snap Glitches Stories Upload Woes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>[Updated] Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-guide-jpegpng-to-pdf-conversion-techniques/"><u>[Updated] IPhone Guide JPEG/PNG to PDF Conversion Techniques</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g84-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G84 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-open-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Open Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-excel-tutorial-clearing-out-select-box-options-efficiently/"><u>Microsoft Excel Tutorial: Clearing Out Select Box Options Efficiently</u></a></li>
-<li><a href="https://media-tips.techidaily.com/paramountplus-announces-regular-price-increases-what-subscribers-need-to-know/"><u>Paramount+ Announces Regular Price Increases: What Subscribers Need to Know</u></a></li>
-<li><a href="https://article-helps.techidaily.com/public-perceptions-unveiling-vllo-realities/"><u>Public Perceptions Unveiling VLLO Realities</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m34-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy M34 can’t play AVCHD .mts video</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-x6-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find X6 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-samsung-galaxy-s24plus-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Samsung Galaxy S24+ fingerprint</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[New] 2024 Approved ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-smooth-setup-seamless-screenshots-on-dell-devices/"><u>[New] 2024 Approved Smooth Setup Seamless Screenshots on Dell Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-guide-to-mastering-zoom-in-windows-10/"><u>[Updated] In 2024, The Ultimate Guide to Mastering Zoom in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/diy-dvd-conversion-for-windows-11-a-straightforward-process-walkthrough/"><u>DIY DVD Conversion for Windows 11: A Straightforward Process Walkthrough</u></a></li>
+<li><a href="https://techidaily.com/effective-fixes-for-fortnite-audio-trouble-no-more-sound-delays-or-cuts/"><u>Effective Fixes for Fortnite Audio Trouble - No More Sound Delays or Cuts</u></a></li>
+<li><a href="https://techidaily.com/effortless-printer-to-pc-connection-techniques-in-windows-11-environment/"><u>Effortless Printer-to-PC Connection Techniques in Windows 11 Environment</u></a></li>
+<li><a href="https://techidaily.com/effortlessly-link-a-second-display-unit-in-your-windows-environment-a-comprehensive-guide/"><u>Effortlessly Link a Second Display Unit in Your Windows Environment – A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/elevate-your-eso-adventure-with-expert-techniques-for-overcoming-low-frames-per-second-fps/"><u>Elevate Your ESO Adventure with Expert Techniques for Overcoming Low Frames Per Second (FPS)</u></a></li>
+<li><a href="https://techidaily.com/enabling-local-play-of-minecraft-on-your-pc-an-in-depth-guide-for-windows-11-gamers/"><u>Enabling Local Play of Minecraft on Your PC: An In-Depth Guide for Windows 11 Gamers</u></a></li>
+<li><a href="https://techidaily.com/ensuring-successful-oculus-installation-on-your-pc-running-windows-11-or-10/"><u>Ensuring Successful Oculus Installation on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://techidaily.com/expert-solutions-overcoming-lag-on-an-underperforming-hp-device/"><u>Expert Solutions: Overcoming Lag on an Underperforming HP Device</u></a></li>
+<li><a href="https://techidaily.com/fixed-repairing-disk-errors-on-windows-10/"><u>Fixed: Repairing Disk Errors on Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a05-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A05 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-becoming-part-of-the-global-community-your-guide-to-facebook/"><u>In 2024, Becoming Part of the Global Community Your Guide to Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-video-edits-post-upload-techniques/"><u>In 2024, Mastering Video Edits Post-Upload Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turning-clutter-into-clarity-managing-massive-tiktok-drafters/"><u>In 2024, Turning Clutter Into Clarity Managing Massive TikTok Drafters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80d03801-on-microsoft-pcs/"><u>Overcoming Error 0X80D03801 on Microsoft PCs</u></a></li>
+<li><a href="https://discover-help.techidaily.com/recovering-damaged-txt-files-a-guide-to-four-reliable-strategies/"><u>Recovering Damaged .txt Files: A Guide to Four Reliable Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205644040-windows-11-update-why-cant-i-print-to-pdf-with-microsoft-heres-help/"><u>Windows 11 Update: Why Can't I Print to PDF with Microsoft? Here’s Help</u></a></li>
 </ul></div>
 

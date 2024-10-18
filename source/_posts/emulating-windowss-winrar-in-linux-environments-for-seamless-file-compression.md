@@ -1,7 +1,7 @@
 ---
 title: Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
-date: 2024-10-08T22:23:13.082Z
-updated: 2024-10-12T01:22:56.077Z
+date: 2024-10-10T18:41:37.756Z
+updated: 2024-10-17T21:42:47.083Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Performing Multiple Operations on RARs](https://screen-mirroring-recording.techidaily.com/in-2024-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,13 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Yes, you can install WinRAR on Linux. However, it is more complex than installing it on Windows. WinRAR officially does not have a graphical user interface (GUI) client for Linux, as it only provides a command-line interface (CLI) tool named rar or WinRAR CLI.
 
  Well, there is a method that lets you run the Windows WinRAR GUI on Linux without any hassle. The solution is to [use Wine](https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y100a-frp-bypass-instantly-by-drfone-android/), a tool that lets you use Windows applications on Linux. Wine does not emulate Windows, but provides a compatibility layer that converts Windows system calls to Linux system calls. With Wine, you can install and run WinRAR on Linux like that on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install WinRAR on Linux
 
@@ -68,10 +61,10 @@ sudo pacman -S wine
 ![downloading WinRAR 64-bit version of windows from the official download page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, head over to the directory where you saved the file using [the cd command](https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/):
@@ -92,6 +85,13 @@ wine winrar-*.exe
 
 ![WinRAR on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Extracting a RAR File Using WinRAR on Linux
 
  To extract a RAR file, simply right-click on the file and click on "Open With WinRAR." This will launch WinRAR and give you the extracted file. Another way to open the RAR file is to launch WinRAR from the application menu and choose the file to extract it.
@@ -108,11 +108,25 @@ wine winrar-*.exe
 
 ![viewing extracted rar file in Nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As mentioned earlier, WinRAR officially only provides rar for Linux, which is a command-line tool. If you prefer [extracting RAR files using the command line](https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/), you can use the rar command.
 
 ##  WinRAR Alternatives for Linux
 
  WinRAR is one of the best tools for managing RAR files on Windows. However, when it comes to Linux, WinRAR lacks a native graphical user interface (GUI) version. To install WinRAR GUI, you have to rely on Wine. Considering this, it's worth exploring some great alternatives to WinRAR on Linux.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  File Roller
 
@@ -134,13 +148,6 @@ sudo pacman -S file-roller
 
  After installing File Roller, you can extract, add, or open any RAR file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  7-Zip
 
 ![context menu showing different options of the 7zip tool in nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-1.png) 
@@ -161,28 +168,15 @@ sudo pacman -S p7zip
 
  Once 7-Zip is installed, you can right-click on your file to extract and compress your files.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Xarchiver
 
 ![xarchiver on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Xarchiver](https://xarchiver.sourceforge.net/) is a GTK+ application that can handle various compression formats. You can use it to create archives and perform operations like adding, extracting, and deleting files. It lets you browse archives with MIME type icons, add comments to them, and export them as HTML or TXT.
@@ -222,22 +216,24 @@ sudo pacman -S xarchiver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-approach-to-webinar-savings-mac-and-pc-systems/"><u>[Updated] 2024 Approved Step-by-Step Approach to Webinar Savings Mac & PC Systems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-engagement-a-guide-to-more-youtube-shorts-success/"><u>Boosting Engagement A Guide to More YouTube Shorts Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-the-launch-failed-error-ultimate-guide-for-a-seamless-wow-experience-on-pc/"><u>Defeating the 'Launch Failed' Error: Ultimate Guide for a Seamless WoW Experience on PC</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-k11-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo K11 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/expert-recommended-filmmaking-equipment-roundup/"><u>Expert-Recommended Filmmaking Equipment Roundup</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experts-rave-about-xiaomi-mi-smart-band-4-the-top-pick-in-affordable-health-trackers/"><u>Experts Rave About Xiaomi Mi Smart Band 4 - The Top Pick in Affordable Health Trackers</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-zoom-in-gmail/"><u>In 2024, How to Use Zoom in Gmail</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/inquire-now-and-discover-solutions-next-chapter-awaits/"><u>Inquire Now & Discover Solutions - Next Chapter Awaits</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-based-qbittorrent-halt-problems/"><u>Overcoming Windows-Based qBittorrent Halt Problems</u></a></li>
-<li><a href="https://techidaily.com/s17-video-recovery-recover-deleted-videos-from-s17-by-fonelab-android-recover-video/"><u>S17 Video Recovery - Recover Deleted Videos from S17</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-13-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 13 mini | Stellar</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-90-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor 90 without backup.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>[New] 2024 Approved Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-defining-your-digital-dna-a-guide-to-youtubing-personal-branding/"><u>[New] In 2024, Defining Your Digital DNA A Guide to YouTubing Personal Branding</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-content-twitter-video-integration-for-2024/"><u>[New] Streamline Your Content Twitter Video Integration for 2024</u></a></li>
+<li><a href="https://techidaily.com/solved-how-to-fix-windows-detected-a-hard-disk-problem/"><u>[Solved] How to Fix “Windows Detected a Hard Disk Problem”</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-vision-experience-these-7-grading-styles/"><u>[Updated] Elevate Your Vision Experience These 7 Grading Styles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-spotifys-1-hitlist-rankings/"><u>2024 Approved Spotify's #1 Hitlist Rankings</u></a></li>
+<li><a href="https://discover-great.techidaily.com/alternative-al-programma-clonezilla-per-windows-versioni-11-10-8-e-7/"><u>Alternative Al Programma Clonezilla per Windows (Versioni 11, 10, 8 E ^7)</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/effective-troubleshooting-tips-overcoming-issues-with-shared-albums-invites-on-ios-devices/"><u>Effective Troubleshooting Tips: Overcoming Issues with Shared Albums Invites on iOS Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ating-rapid-subscriptions-impact-on-video-engagement-for-2024/"><u>Evaluating Rapid Subscription's Impact on Video Engagement for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expert-advice-on-converting-high-quality-ipv-files-to-mp4/"><u>Expert Advice on Converting High-Quality IPV Files to MP4</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-12-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi 12 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/resolving-the-issue-of-missing-amd-graphics-drivers-in-device-manager-step-by-step-solution/"><u>Resolving the Issue of Missing AMD Graphics Drivers in Device Manager - Step-by-Step Solution</u></a></li>
+<li><a href="https://techidaily.com/restoring-illumination-fixes-for-non-functioning-keylight-on-lenovo-devices/"><u>Restoring Illumination: Fixes for Non-Functioning Keylight on Lenovo Devices</u></a></li>
+<li><a href="https://techidaily.com/rip-dvds-with-ease-using-windows-11-the-ultimate-how-to/"><u>Rip DVDs with Ease Using Windows 11 - The Ultimate How-To</u></a></li>
+<li><a href="https://techidaily.com/seagate-external-hd-invisible-on-windows-11-solutions-to-reappear-it-back/"><u>Seagate External HD Invisible on Windows 11: Solutions to Reappear It Back</u></a></li>
+<li><a href="https://techidaily.com/secure-surfing-explained-the-importance-and-mechanics-of-virtual-private-networks-vpn/"><u>Secure Surfing Explained: The Importance and Mechanics of Virtual Private Networks (VPN)</u></a></li>
+<li><a href="https://techidaily.com/solving-the-issue-of-high-cpu-usage-by-antimalware-service-executable-in-windows-11-and-10/"><u>Solving the Issue of High CPU Usage by Antimalware Service Executable in Windows 11 and 10</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-for-integrating-beats-wireless-with-microsofts-latest-operating-systems/"><u>Step-by-Step Guide for Integrating Beats Wireless with Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-enabling-fps-counter-in-csglobal-offensive/"><u>Step-by-Step Tutorial on Enabling FPS Counter in CS:Global Offensive</u></a></li>
 </ul></div>
 

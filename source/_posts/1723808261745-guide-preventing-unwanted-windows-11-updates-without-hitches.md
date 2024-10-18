@@ -1,7 +1,7 @@
 ---
 title: "Guide: Preventing Unwanted Windows 11 Updates Without Hitches"
-date: 2024-09-21T06:48:43.739Z
-updated: 2024-09-24T04:59:58.170Z
+date: 2024-10-16T17:47:42.870Z
+updated: 2024-10-18T01:41:23.107Z
 tags:
   - win11
   - win10
@@ -30,18 +30,18 @@ Windows Update is a feature that automatically checks and provide updates for ou
 3. **[Change Group Policy Settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Bonus tip: Update your device drivers via Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Disable the Windows Update Service
 
  Method 2 is pretty much self-explanatory. By**disabling the Windows Update Service** , Windows will stop checking for updates, hence sparing you the wanted Windows updates. To do so:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
@@ -55,13 +55,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 4) Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: **Meter your Wifi network**
 
  If you’re using Wifi network, then method 2 will just do the trick. By**metering your Wi-fi network** , Windows will automatically take it that you’re on a limited data plan (even if you aren’t) and stop forcing Windows updates on your computer. Here’s how:
@@ -74,18 +67,25 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e51d793cb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle the**Set as metered connection** switch**On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Change Group Policy Settings**
 
@@ -99,16 +99,16 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Double-click on**Windows Update** \> **Configure Automatic Updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
@@ -121,10 +121,10 @@ Windows Update is a feature that automatically checks and provide updates for ou
 6) Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip: Update your device drivers via Driver Easy
@@ -141,16 +141,16 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45814031f86.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Y ou can upgrade to the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click   **Update All**   to automatically download and install the correct version of   **ALL** the drivers that are missing or out of date on your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321850aaba5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer to finish the update.
 
@@ -171,5 +171,19 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-premier-options-to-play-sonys-ps1-games-on-pc/"><u>[Updated] In 2024, Premier Options to Play Sony's PS1 Games on PC</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-p55plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel P55+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-yuva-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-use-windows-11-task-scheduler-to-automate-file-transfer-to-a-network-drive/"><u>How to Use Windows 11 Task Scheduler to Automate File Transfer to a Network Drive</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-s17t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo S17t to iPhone | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-newest-nvidia-geforce-210-drivers-for-windows-11/"><u>Install the Newest Nvidia GeForce 지오라인드210 드라이버스(Drivers) for Windows 11</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m14-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M14 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smile-and-shine-enhance-photos-at-zero-cost/"><u>Smile & Shine Enhance Photos at Zero Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-for-your-iphone-last-line-not-working-problem/"><u>Step-by-Step Solutions for Your iPhone Last Line Not Working Problem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-infinix-hot-40-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Infinix Hot 40 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Capturing Screen Images Effortlessly on Your ASUS Computer"
-date: 2024-09-17T08:46:32.050Z
-updated: 2024-09-23T22:40:38.475Z
+date: 2024-10-12T04:04:31.641Z
+updated: 2024-10-17T18:06:35.168Z
 tags:
   - win11
   - win10
@@ -31,15 +31,22 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf2aeaf55c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **three-dot** icon.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-34.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click **Export bookmarks** .  
 
@@ -51,33 +58,34 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Import your Google bookmarks into Firefox
 
 1. Open Firefox.
 2. Click the**Library** icon and click**Bookmarks** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfc8da5140.png)
 3. Click**Show All Bookmarks** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfcee78e14.png)
-4. Click**Import and Backup** \>**Import Bookmarks from HTML** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfcee78e14.png)
+4. Click**Import and Backup** \>**Import Bookmarks from HTML** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfda429a3d.jpg)
 5. Locate and open the HTML file you’ve saved earlier and you’ll be good to go!
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tips: Update your drivers with Driver Easy
 
@@ -88,13 +96,6 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with[**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-226.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -116,5 +117,16 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-building-an-instagram-money-machine/"><u>[Updated] In 2024, Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974272191-bruno-mars-with-hits-like-uptown-funk-and-24k-magic-bruno-mars-music-is-always-filled-with-energy/"><u>Bruno Mars – With Hits Like Uptown Funk and 24K Magic, Bruno Mars' Music Is Always Filled with Energy.</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c12-plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-everything-you-need-to-know-about-youtube-basic-and-premium/"><u>In 2024, Everything You Need to Know About YouTube Basic & Premium</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-shorts-revenue-sharing-how-much-do-creators-get-paid/"><u>In 2024, YouTube Shorts Revenue Sharing How Much Do Creators Get Paid?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-x-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone X</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/vivo-s17e-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo S17e support - Turn Off Screen Lock.</u></a></li>
+</ul></div>
 

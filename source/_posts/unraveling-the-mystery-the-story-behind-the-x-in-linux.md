@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-10-06T22:53:48.981Z
-updated: 2024-10-11T17:03:06.127Z
+date: 2024-10-14T07:49:29.522Z
+updated: 2024-10-17T20:58:46.416Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -60,13 +67,6 @@ Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  MINIX, the Unix Mini-Me
 
  Before Unix eventually found commercial success, it was a major hit in academia. Because Unix was a new breed of operating system, university courses were devoted to its design and implementation, and Unix was used on university mainframes by the universities themselves.
@@ -85,14 +85,14 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -105,6 +105,13 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -121,13 +128,6 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -150,20 +150,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/astering-your-content-delivery-insights-on-igtv-and-youtube-for-2024/"><u>[New] Mastering Your Content Delivery Insights on IGTV and YouTube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-your-podcast-name-strategies-and-ideas/"><u>[New] Perfecting Your Podcast Name Strategies and Ideas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-broadcast-battles-tech-titans-tussle-for-top-spot/"><u>[Updated] Broadcast Battles Tech Titans Tussle for Top Spot</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-conference-quality-the-list-of-top-10-free-audio-capture-for-2024/"><u>[Updated] Elevate Conference Quality The List of Top 10 Free Audio Capture for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-highest-quality-screen-time-movie-hits-list/"><u>2024 Approved Highest-Quality Screen Time Movie Hits List</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-creativity-unleashed-discover-the-transformative-features-of-final-cut-pro-for-ipad-macworld-expo-blog/"><u>Cutting Edge Creativity Unleashed: Discover the Transformative Features of Final Cut Pro for iPad | Macworld Expo Blog</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-70-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 70 Lite 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/leveraging-video-cropping-to-maximize-instagram-reach-for-2024/"><u>Leveraging Video Cropping to Maximize Instagram Reach for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-spark-10-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Spark 10 5G</u></a></li>
-<li><a href="https://techidaily.com/spark-20-pro-music-recovery-recover-deleted-music-from-spark-20-pro-by-fonelab-android-recover-music/"><u>Spark 20 Pro Music Recovery - Recover Deleted Music from Spark 20 Pro</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-v27-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo V27 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel P55 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edge-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-up-your-content-with-these-effective-freefire-video-hashtags/"><u>[Updated] In 2024, Game Up Your Content with These Effective FreeFire Video Hashtags</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-secrets-of-the-pros-screening-your-switch-games/"><u>[Updated] In 2024, Secrets of the Pros Screening Your Switch Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715859669568-updated-recording-rivals-meet/"><u>[Updated] Recording Rivals, Meet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-screen-driver-setup-instant-and-hassle-free-downloads/"><u>ASUS Screen Driver Setup - Instant and Hassle-Free Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-dissection-gopro-silver-hero4-model-insight-for-2024/"><u>Full Dissection GoPro Silver Hero4 Model Insight for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-hot-30i-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Hot 30i Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>In 2024, From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-subtitle-extraction-from-youtube-unveiling-three-steps-for-2024/"><u>Mastering Subtitle Extraction From YouTube Unveiling Three Steps for 2024</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-perform-a-successful-system-restore-in-windows-10/"><u>Step by Step Tutorial: How to Perform a Successful System Restore in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-capturing-images-with-your-lenovo-computers-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Lenovo Computer's Built-In Camera</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-clearing-viruses-off-your-android-smartphone-without-erasing-everything/"><u>Step-by-Step Guide: Clearing Viruses Off Your Android Smartphone Without Erasing Everything</u></a></li>
+<li><a href="https://techidaily.com/tackling-the-trouble-easy-ways-to-fix-your-frozen-windows-update-dilemma/"><u>Tackling the Trouble: Easy Ways to Fix Your Frozen Windows Update Dilemma</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-guide-how-to-upgrade-bios-compatible-with-windows-11/"><u>The Ultimate Guide: How to Upgrade BIOS Compatible with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-fixing-seagate-hdd-visibility-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing Seagate HDD Visibility Issues on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-managing-high-cpu-consumption-by-antimalware-service-executable-on-windows-systems/"><u>Troubleshooting Guide: Managing High CPU Consumption by 'Antimalware Service Executable' On Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-resolving-issues-with-your-logitech-k780-keyboard/"><u>Troubleshooting Tips: Resolving Issues with Your Logitech K780 Keyboard</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-solving-the-black-webcam-issue-in-windows-11-and-10/"><u>Troubleshooting Tips: Solving the Black Webcam Issue in Windows 11 & 10</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlimited-premium-mondly-for-a-limited-price/"><u>Unlimited Premium Mondly for a Limited Price</u></a></li>
 </ul></div>
 

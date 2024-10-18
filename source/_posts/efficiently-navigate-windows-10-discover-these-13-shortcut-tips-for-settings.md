@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Navigate Windows 10: Discover These 13 Shortcut Tips for Settings"
-date: 2024-10-05T01:49:51.577Z
-updated: 2024-10-11T19:28:17.828Z
+date: 2024-10-13T22:03:27.021Z
+updated: 2024-10-17T17:16:27.615Z
 tags:
   - desktop
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  The Settings app will open.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Power User Menu
 
  The Power User menu, also known as the [WinX menu](https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-m6-5g-unlock-without-password-by-drfone-android/), is essentially the Start menu's context menu. Open it by right-clicking the Windows icon in the bottom-left corner of your desktop, or use the Windows+X keyboard shortcut. The Power User menu will appear. Here, click "Settings."
@@ -51,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  Settings will open.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Search for Settings in Windows Search
@@ -65,7 +72,21 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Searching for 'Settings' in the search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-the-settings-app-from-the-start-menu-search.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Settings will then launch.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Access Settings From the Context Menu on the Desktop
 
@@ -78,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -92,16 +113,16 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Click the File Explorer icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-File-Explorer-icon..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, in File Explorer, click "This PC" in the left-hand pane and then click "Open Settings" in the ribbon.
 
 ![Click the 'Open Settings' button at the top of Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-from-windows-explorer.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Settings app will open.
 
@@ -111,40 +132,13 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Click the text bubble icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-text-bubble-icon..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click "Expand" in the bottom-left corner of the Action Center.
 
 ![Click "Expand."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Expand..png) 
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The list of options will expand. Click "All Settings."
 
 ![Click "All Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-All-Settings..png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Settings will now open.
 
@@ -153,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  You can open all kinds of apps from Task Manager—including the Settings app. First, [open Task Manager](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) by using the Ctrl+Shift+Esc keyboard shortcut. In Task Manager, click the "File" tab and then click "Run New Task" from the drop-down menu.
 
 ![Click 'File,' then select 'Run New Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tsk-mngr-file-run-new-task.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Create New Task window will appear. In the text box, type **ms-settings:** in the field, and then click "OK."
 
@@ -204,31 +205,24 @@ start ms-settings:
 
  The Settings app will open.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Run a Command in Windows PowerShell
 
  If you prefer using Windows PowerShell over Command Prompt, then you can still open the Settings app by running the same command. First, [open Windows PowerShell](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/) by right-clicking the Windows icon in the bottom-left corner of the desktop. This opens the Power User menu. Here, click "Windows PowerShell." You can also select "Windows PowerShell (Admin)," it change anything in this situation. 
 
 ![Right-click the Start button, then select 'Windows PowerShell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-from-power-user-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows PowerShell will open. Run this command:
 
 start ms-settings:
 
 ![Run 'start ms-settings:' in the PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-start-ms-settings-powershell.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Settings app will now open.
 
@@ -249,22 +243,24 @@ start ms-settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-attract-and-retain-more-viewers-on-youtube/"><u>[New] 2024 Approved How to Attract and Retain More Viewers on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-manycam-recorder-review-for-2024/"><u>[Updated] ManyCam Recorder Review for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-pova-5-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Pova 5 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-g2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo G2 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-mastered-entry-editor-for-multi-platform-devices/"><u>In 2024, 2023'S Mastered Entry Editor for Multi-Platform Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination/"><u>In 2024, From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-these-techniques-to-prevent-maplestory-from-crashing-on-your-windows-10/"><u>Master These Techniques to Prevent MapleStory From Crashing on Your Windows 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ct-your-asmr-recordings-with-these-mic-choices-for-2024/"><u>Perfect Your ASMR Recordings with These Mic Choices for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-tecno-spark-go-2024-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Tecno Spark Go (2024) unlock screen</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-samsung-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Samsung</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nokia-c12-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nokia C12</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-creative-expression-adding-descriptive-texts-to-your-tiktok-videos-for-2024/"><u>Unlock Creative Expression Adding Descriptive Texts to Your TikTok Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-itel-p55plus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Itel P55+ on Mac?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/vrije-omzettingen-voor-qt-fiches-veerkrachtigheid-vergroten-doorzichtig-met-movavi-online/"><u>Vrije Omzettingen Voor QT-Fiches: Veerkrachtigheid Vergroten Doorzichtig Met Movavi Online</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-soften-image-periphery-with-circular-light-blend-photoshop/"><u>[New] 2024 Approved Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-key-strategies-in-livestreaming-major-sporting-contests/"><u>[Updated] In 2024, Key Strategies in Livestreaming Major Sporting Contests</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-verdict-on-toolwiz-top-notch-mobile-photo-editor/"><u>[Updated] In 2024, The Verdict on Toolwiz Top-Notch Mobile Photo Editor?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-hubs-for-downloading-popular-youtube-tone-selections/"><u>2024 Approved Ideal Hubs for Downloading Popular YouTube Tone Selections</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1726224405973-caf-wav-movavi/"><u>免費網站轉化 CAF 到 WAV：用 Movavi 進行順暢音效變更</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elevate-visual-impact-with-custom-typography-in-after-effects-for-2024/"><u>Elevate Visual Impact with Custom Typography in After Effects for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722850398032-enhancing-your-furry-friends-portraits-techniques-to-remove-pupil-glare-and-redness/"><u>Enhancing Your Furry Friend's Portraits: Techniques to Remove Pupil Glare and Redness</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-7-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 7 Plus Without Passcode Now</u></a></li>
+<li><a href="https://techidaily.com/secure-gaming-made-simple-setting-up-a-virtual-private-network-on-ps4-using-just-two-techniques/"><u>Secure Gaming Made Simple: Setting Up a Virtual Private Network on PS4 Using Just Two Techniques</u></a></li>
+<li><a href="https://techidaily.com/simple-guide-disabling-sticky-keys-in-windows-11-with-visual-aids/"><u>Simple Guide: Disabling Sticky Keys in Windows 11 with Visual Aids</u></a></li>
+<li><a href="https://techidaily.com/simple-guide-easily-solve-your-tv-screens-phantom-image-issue/"><u>Simple Guide: Easily Solve Your TV Screen's Phantom Image Issue</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-to-follow-when-building-your-own-google-account/"><u>Simple Steps to Follow When Building Your Own Google Account</u></a></li>
+<li><a href="https://techidaily.com/solving-your-playstation-4-safe-mode-issues-a-comprehensive-guide/"><u>Solving Your PlayStation 4 Safe Mode Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-linking-your-printer-with-a-windows-11-pc/"><u>Step-by-Step Guide: Linking Your Printer with a Windows 11 PC</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-erase-everything-how-to-factory-reset-hp-laptops-easily/"><u>Step-by-Step Tutorial: Erase Everything - How to Factory Reset HP Laptops Easily</u></a></li>
+<li><a href="https://techidaily.com/sync-settings-across-devices-on-windows-10/"><u>Sync Settings Across Devices on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/tackling-windows-10-memory-hogging-a-comprehensive-guide/"><u>Tackling Windows 10 Memory Hogging: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-creativity-time-lapse-on-samsung/"><u>Unleashing Creativity Time-Lapse on Samsung</u></a></li>
 </ul></div>
 

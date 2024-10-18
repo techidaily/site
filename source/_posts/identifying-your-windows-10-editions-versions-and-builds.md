@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Windows 10 Editions, Versions & Builds
-date: 2024-10-10T17:35:26.820Z
-updated: 2024-10-11T19:27:28.064Z
+date: 2024-10-12T01:59:45.344Z
+updated: 2024-10-18T03:35:36.609Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Do Build Versions Mean?
 
  Windows has always used build numbers. They represent significant updates to Windows. Traditionally, most people have referred to Windows based on the major, named [version](https://extra-tips.techidaily.com/innovative-ai-tools-to-spark-your-podcast-written-name/) they're using—Windows Vista, 7, 8, and so on. Within those versions, we also had [service packs](https://techidaily.com/undeleted-lost-videos-from-infinix-smart-8-pro-by-fonelab-android-recover-video/) to refer to: Windows 7 Service Pack 1, for example.
@@ -31,13 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
@@ -45,10 +45,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -58,13 +64,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **OS Build.** This line shows the specific operating system build you're running. It gives you sort of a timeline of minor build releases in between the major version number releases. In the screenshot above, the "14393.693" build was actually the 13th build released after version 1607 shipped in July, 2016\. This information is somewhat less important to most people than the major version numbers, but it can still help you identify exactly what you're running. If you're curious, you can check out the whole [history of versions and builds for Windows 10](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396) on Microsoft's TechNet site.
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
 
  You can also use the old standby Windows Version (winver) tool to find some of this information. Hit Start, type "winver," and then press Enter. You could also press Windows Key + R, type **winver** into the Run dialog, and press Enter.
@@ -72,15 +71,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -101,19 +107,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-snapquarter-testimony-for-2024/"><u>[New] SnapQuarter Testimony for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-tiktok-a-template-based-guide-to-outstanding-video-creation/"><u>[Updated] In 2024, Mastering TikTok A Template-Based Guide to Outstanding Video Creation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/10-free-instagram-story-viewers-to-watch-instagram-stories-anonymously/"><u>10 FREE Instagram Story Viewers to Watch Instagram Stories Anonymously</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-radial-blur-photoshop-edition/"><u>2024 Approved Mastering Radial Blur Photoshop Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/epicurean-envoys-the-best-food-vloggers-to-watch/"><u>Epicurean Envoys The Best Food Vloggers to Watch</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-v-purse-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor V Purse without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/le-cinque-innovazioni-chiave-nel-202-cuoio-per-migliorare-lavanzamento-della-risoluzione-immagiografica/"><u>Le Cinque Innovazioni Chiave Nel 202 Cuoio per Migliorare L'Avanzamento Della Risoluzione Immagiografica</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xr-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XR Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-c51-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme C51</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-t2x-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo T2x 5G.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update-for-2024/"><u>[New] A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-savvy-mastering-screen-recordings-on-your-phone-for-2024/"><u>[Updated] Snapchat Savvy Mastering Screen Recordings on Your Phone for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>2024 Approved Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-full-potential-of-luts-in-adobe-premiere-pro/"><u>2024 Approved Harnessing the Full Potential of LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/adding-audio-enhancements-to-your-ebook-with-flipbuilder-a-comprehensive-guide/"><u>Adding Audio Enhancements to Your eBook with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/1723808190964-boost-your-pcs-gameplay-in-windows-11-top-tips-and-tricks/"><u>Boost Your PC's Gameplay in Windows 11 – Top Tips and Tricks</u></a></li>
+<li><a href="https://techidaily.com/decoding-your-listening-choices-exploring-distinct-features-of-home-theaters-vs-stereo-receivers/"><u>Decoding Your Listening Choices: Exploring Distinct Features of Home Theaters Vs. Stereo Receivers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dual-angles-debate-vertical-vs-horizontal-fb-videos-for-2024/"><u>Dual Angles Debate Vertical vs Horizontal FB Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-download-and-install-the-best-compatible-canon-mp280-drivers-for-modern-windows-os/"><u>How to Download & Install the Best Compatible Canon MP280 Drivers for Modern Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-repair-xbox-peripheral-drivers-in-windows-11-8-and-the-ultimate-guide/"><u>How to Update or Repair Xbox Peripheral Drivers in Windows 11, 8, & The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-elevate-your-fb-presence-with-top-10-music-videos-guide/"><u>In 2024, Elevate Your FB Presence with Top 10 Music Videos Guide</u></a></li>
+<li><a href="https://techidaily.com/1722900485294-netflixs-must-watch-teen-movie-collection-unveiled/"><u>Netflix's Must-Watch Teen Movie Collection Unveiled!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-footage-a-gopro-quik-review-and-top-pc-editing-alternatives-for-2024/"><u>New Unleash Your Footage A GoPro Quik Review & Top PC Editing Alternatives for 2024</u></a></li>
+<li><a href="https://techidaily.com/1723808142135-quick-tips-to-resolve-slow-boot-on-windows-1011-boost-your-pcs-performance/"><u>Quick Tips to Resolve Slow Boot on Windows 10/11 - Boost Your PC's Performance!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-netgear-wifi-router-models/"><u>Top-Rated NETGEAR WiFi Router Models</u></a></li>
 </ul></div>
 
