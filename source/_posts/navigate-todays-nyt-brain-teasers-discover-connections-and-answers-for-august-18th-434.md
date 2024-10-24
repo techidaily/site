@@ -1,7 +1,7 @@
 ---
 title: "Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)"
-date: 2024-10-11T16:21:35.676Z
-updated: 2024-10-17T17:22:16.282Z
+date: 2024-10-17T23:52:32.237Z
+updated: 2024-10-24T00:30:38.134Z
 tags:
   - web
 categories:
@@ -21,18 +21,18 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ![The unsorted words for August 18 Connections game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-18-connections-game.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 * **Green:** Here's a Thought...
 * **Blue:** Candy Pieces
 * **Purple:** Seven Dwarfs Minus Last Letter
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
  Do, Dope, Grump, Sleep
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  Today's game wasn't too bad. 
@@ -99,10 +99,16 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  That left Do, Dope, Grump, and Sleep—once again, I was a bit stumped by Purple. I eventually realized that grump, dope, and sleep could all take a Y at the end and still make sense, but that didn't work for do. Purple turned out to be "Seven Dwarfs Minus Last Letter." Turns out that I need to up my fairytale game. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -133,22 +139,22 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-panzoid-blueprint-selections/"><u>[New] Exclusive Panzoid Blueprint Selections</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-masterful-background-selection-tips-for-2024/"><u>[New] Masterful Background Selection Tips for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-6-best-4k-dslr-cameras/"><u>[New] Top 6 Best 4K DSLR Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-microscopic-views-on-ms-teams-chat/"><u>2024 Approved Mastering Microscopic Views on MS Teams Chat</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v30-lite-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V30 Lite 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-gt-5-240w-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme GT 5 (240W) Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro Max System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Plus iOS System? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y77t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y77t Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-ace-2-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Ace 2 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-civi-3-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Civi 3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722873844369-step-by-step-guide-repairing-dvd-blu-ray-and-cd-drives-stuck-in-closed-position/"><u>Step-by-Step Guide: Repairing DVD, Blu-Ray, and CD Drives Stuck in Closed Position</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-essential-blueprint-for-breathtaking-instagram-films/"><u>The Essential Blueprint for Breathtaking Instagram Films</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-a18-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo A18</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-c02-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from C02</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-magic-6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Magic 6 Pro</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-11-pro-max-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 11 Pro Max is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-initiate-social-media-exploration-with-a-new-twitter-for-2024/"><u>[Updated] Initiate Social Media Exploration with a New Twitter for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-noise-cancelled-skype-communication-for-2024/"><u>[Updated] Noise-Cancelled Skype Communication for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-updating-your-epson-wf-3620-printer-driver-for-windows-10-8-and-7/"><u>Easy Guide to Downloading and Updating Your Epson WF-3620 Printer Driver for Windows (10, 8 & 7)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-online-presence-with-manycam-the-leading-platform-for-virtual-camera-solutions-and-live-broadcasts/"><u>Enhance Online Presence with ManyCam: The Leading Platform for Virtual Camera Solutions and Live Broadcasts</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/maximize-your-ios-for-ps2-gaming-with-best-emulators-for-2024/"><u>Maximize Your IOS for PS2 Gaming with Best Emulators for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premium-mac-image-transformer-for-2024/"><u>Premium Mac Image Transformer for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-google-pixel-7a-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Google Pixel 7a without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-poco-x6-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Poco X6 Pro without backup.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-the-most-stellar-yt-gamers-intros-no-cost-high-quality-for-2024/"><u>Uncover the Most Stellar YT Gamers' Intros No Cost, High Quality for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-moto-g84-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola Moto G84 5G.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-future-of-ai-beyond-the-current-capabilities-of-chatgpt/"><u>Unveiling the Future of AI: Beyond the Current Capabilities of ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
 

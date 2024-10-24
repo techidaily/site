@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-10-11T17:06:21.843Z
-updated: 2024-10-17T22:03:23.966Z
+date: 2024-10-20T01:00:04.207Z
+updated: 2024-10-23T17:32:56.245Z
 tags:
   - desktop
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Ubuntu isn’t your only option for reviving old PCs through Linux. Xubuntu is a lighter version of Ubuntu capable of running on moderately old hardware. Let’s see how well it delivers the Ubuntu experience on an older laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What is Xubuntu?
 
 [Xubuntu](https://xubuntu.org/) is a flavor of Ubuntu featuring the XFCE desktop environment (hence the “X” in the name). It’s supposed to strip down Ubuntu for a more minimalist (yet super configurable and supported) experience.
@@ -40,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
 
@@ -66,15 +52,22 @@ Close
 
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Running Xubuntu
@@ -88,10 +81,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Running Ubuntu
@@ -101,6 +94,19 @@ Close
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
 
@@ -137,22 +143,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-video-upgrade-critical-tech-to-elevate-content-for-2024/"><u>[New] Video Upgrade Critical Tech to Elevate Content for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-hastyhit-freezevidsnapshot/"><u>[Updated] In 2024, HastyHit FreezeVidSnapshot</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-pairing-podcast-with-picture/"><u>[Updated] Pairing Podcast with Picture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/avoiding-motion-illusions-tips-for-vr-users/"><u>Avoiding Motion Illusions Tips for VR Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/crafting-animation-dynamic-bouncy-text-techniques-for-2024/"><u>Crafting Animation Dynamic, Bouncy Text Techniques for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Razr 40 Ultra?</u></a></li>
-<li><a href="https://techidaily.com/is-your-pcs-windows-update-taking-forever-heres-why-and-how-to-improve-it/"><u>Is Your PC's Windows Update Taking Forever? Here's Why and How to Improve It!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028099213-line/"><u>LINEでのビデオ送信 - 映像品質・容量に影響なし</u></a></li>
-<li><a href="https://techidaily.com/logitech-g923-repair-guide-for-disconnected-controllers-as-of-2024/"><u>Logitech G923 Repair Guide for Disconnected Controllers as of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/lost-ark-resolved-frame-rate-drops-and-enhanced-gameplay-stability/"><u>Lost Ark: Resolved Frame Rate Drops and Enhanced Gameplay Stability</u></a></li>
-<li><a href="https://techidaily.com/mastering-usb-selective-suspend-a-comprehensive-guide/"><u>Mastering USB Selective Suspend: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/optimizing-pc-performance-a-step-by-step-guide-to-accelerating-gameplay/"><u>Optimizing PC Performance: A Step-by-Step Guide to Accelerating Gameplay</u></a></li>
-<li><a href="https://techidaily.com/prevent-automatic-driver-updates-during-windows-10-system-rollouts-a-comprehensive-guide/"><u>Prevent Automatic Driver Updates During Windows 10 System Rollouts: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/quick-and-easy-brother-printer-installation-tips-for-beginners/"><u>Quick and Easy Brother Printer Installation Tips for Beginners</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-accessing-windows-11s-advanced-startup-features-with-simple-steps/"><u>Quick Guide: Accessing Windows 11'S Advanced Startup Features with Simple Steps</u></a></li>
-<li><a href="https://techidaily.com/resolving-the-persistent-windows-update-failed-decoding-error-0x80-grounds8007-in-windows-10/"><u>Resolving the Persistent 'Windows Update Failed' - Decoding Error 0X80 groUNDS8007 in Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-exclusive-screensaver-pro-for-smartphones/"><u>[Updated] In 2024, Exclusive ScreenSaver Pro for Smartphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-10-text-boosting-techniques-in-videos/"><u>[Updated] In 2024, Top 10 Text Boosting Techniques in Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-silent-to-clear-the-ultimate-guide-to-professional-audio-recording/"><u>[Updated] Silent to Clear The Ultimate Guide to Professional Audio Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-earning-through-youtube-a-creators-guide/"><u>[Updated] The Path to Earning Through YouTube A Creator's Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-understanding-and-meeting-aspect-ratios-on-twitter-for-2024/"><u>[Updated] Understanding and Meeting Aspect Ratios on Twitter for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-iphone-motion-blur-effects-in-images/"><u>2024 Approved Master iPhone Motion-Blur Effects in Images</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-quick-insights-for-accelerating-editing-tasks-efficiently/"><u>2024 Approved Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
+<li><a href="https://discover-data.techidaily.com/easy-steps-to-reinstate-your-hp-recovery-partition-and-data/"><u>Easy Steps to Reinstate Your HP Recovery Partition and Data</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y56-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y56 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-v2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic V2 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-11-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 11 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-civi-3-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Civi 3 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Camon 20 Premier 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x-fold-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X Fold 2</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-itel-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Itel</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-y78-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo Y78 5G</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edgeplus-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge+ (2023) Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

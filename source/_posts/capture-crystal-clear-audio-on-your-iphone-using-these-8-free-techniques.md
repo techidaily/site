@@ -1,7 +1,7 @@
 ---
 title: Capture Crystal Clear Audio on Your iPhone Using These 8 FREE Techniques
-date: 2024-10-17T01:18:27.012Z
-updated: 2024-10-17T20:05:26.749Z
+date: 2024-10-16T19:20:32.285Z
+updated: 2024-10-23T16:52:35.822Z
 tags:
   - mobile
 categories:
@@ -26,10 +26,10 @@ Close
  There is a catch, though. High-resolution files take up much more storage space than compressed files, so you likely won't want to record everything this way.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Position the Phone Wisely
@@ -38,6 +38,13 @@ Close
 
  When I record either music or vocals, I find that placing the phone about 6–12 inches (15-30 cm) from the source creates the most balanced sound without picking up on low-end frequencies. However, positioning also depends on the acoustics of the room. If you're in a room with little sound-dampening materials, you may want to try placing the phone further from the sound source.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Clean the iPhone's Microphone Ports
 
  A dirty microphone can cause your recording to sound muffled, muddy, or distant.
@@ -45,6 +52,13 @@ Close
  To remove debris blocking the mic, get some isopropyl alcohol and use it to wet a gentle cleaning device, like cotton swabs or a soft-bristled toothbrush or paintbrush. Please remember not to use anything too abrasive, then brush until all the debris is gone.
 
 ![iPhone's microphone and speaker grill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-s-microphone-grill.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -57,10 +71,10 @@ Justin Duino / How-To Geek
  You can choose to mute the phone, but it could still vibrate and mess with the recording. The easiest solution is to flip on airplane mode and turn it off when you're done, as this ensures no notifications come through. However, if you need to use the internet while recording, you can [set your phone to Do Not Disturb using Focus](https://instagram-video-recordings.techidaily.com/updated-storystitcher-compelling-collage-for-instagram-users-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Prepare the Environment
@@ -83,25 +97,11 @@ Justin Duino / How-To Geek
 
 ![Bellroy Bio Phone Case being held by a human hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-being-held-by-a-human-hand.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tyler Hayes / How-To Geek
 
 The Bellroy Bio Phone Case being held after being buried for five months.
 
  To check if your case might negatively affect recording quality, run a test where you record the exact same thing in the same environment. First, record with the case on, and then again with the case off. The difference may not be dramatic, but will likely be obvious enough to see if the playback is affected by your case.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Bonus Tip: Use an Apple Watch as a Discreet Microphone
 
@@ -128,15 +128,19 @@ The Bellroy Bio Phone Case being held after being buried for five months.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-rhythm-renders-infusing-sound-into-your-visual-storytelling-fb/"><u>[New] In 2024, Rhythm Renders Infusing Sound Into Your Visual Storytelling (FB)</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-y100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y100 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a59-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A59 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-c210-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia C210</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simply-streamlined-steps-for-new-windows-11-dossiers/"><u>Simply Streamlined Steps for New Windows 11 Dossiers</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-pip-in-edge-for-a-superior-browsing-experience/"><u>Unlock PIP in Edge for a Superior Browsing Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostinger-hosting-solutions-vps-cloud-and-shared-hosting-explored/"><u>Unveiling the Pros and Cons of Hostinger Hosting Solutions: VPS, Cloud & Shared Hosting Explored</u></a></li>
-<li><a href="https://extra-information.techidaily.com/winter-olympics-2022-highlights-for-2024/"><u>Winter Olympics 2022 Highlights for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-rhythmic-resonance-select-sites-for-downloading-tones-for-2024/"><u>[Updated] Rhythmic Resonance Select Sites for Downloading Tones for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-money-saving-drones-reviewed-top-5-under-100-models/"><u>2024 Approved Money-Saving Drones Reviewed Top 5 Under $100 Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-outstanding-interviewer-expertise/"><u>2024 Approved The Path to Outstanding Interviewer Expertise</u></a></li>
+<li><a href="https://win-forum.techidaily.com/demystifying-the-social-media-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Demystifying the Social Media Giants: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-gtx-980-ti-graphics-card-drivers-latest-version/"><u>Download NVIDIA GeForce GTX 980 Ti Graphics Card Drivers - Latest Version</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y200-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y200 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x-fold-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X Fold 2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-novices-route-to-excellent-game-editing-platforms/"><u>In 2024, Novice's Route to Excellent Game Editing Platforms</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/simple-guide-how-to-transfer-your-dvds-into-avi-format-without-a-watermark-for-free/"><u>Simple Guide: How to Transfer Your DVDs Into AVI Format Without a Watermark - For FREE!</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-a2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi A2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secret-to-a-complimentary-macbook-air-m3-at-best-buy-exclusive-guide-zdnet/"><u>Unlock the Secret to a Complimentary MacBook Air M3 at Best Buy – Exclusive Guide | ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vintage-racing-spectacles-top-five/"><u>Vintage Racing Spectacles Top Five</u></a></li>
+<li><a href="https://techidaily.com/will-14-pro-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will 14 Pro play AVCHD mts files?</u></a></li>
 </ul></div>
 

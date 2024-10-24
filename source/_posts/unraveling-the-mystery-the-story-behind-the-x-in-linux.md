@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-10-14T07:49:29.522Z
-updated: 2024-10-17T20:58:46.416Z
+date: 2024-10-21T20:44:08.408Z
+updated: 2024-10-23T21:17:10.814Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Many operating systems have X in their name to pay homage to Unix.
@@ -35,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
@@ -63,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
@@ -85,13 +85,20 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
@@ -105,13 +112,6 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -150,24 +150,21 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-up-your-content-with-these-effective-freefire-video-hashtags/"><u>[Updated] In 2024, Game Up Your Content with These Effective FreeFire Video Hashtags</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-secrets-of-the-pros-screening-your-switch-games/"><u>[Updated] In 2024, Secrets of the Pros Screening Your Switch Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715859669568-updated-recording-rivals-meet/"><u>[Updated] Recording Rivals, Meet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-screen-driver-setup-instant-and-hassle-free-downloads/"><u>ASUS Screen Driver Setup - Instant and Hassle-Free Downloads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-dissection-gopro-silver-hero4-model-insight-for-2024/"><u>Full Dissection GoPro Silver Hero4 Model Insight for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-hot-30i-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Hot 30i Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>In 2024, From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
-<li><a href="https://article-tips.techidaily.com/mastering-subtitle-extraction-from-youtube-unveiling-three-steps-for-2024/"><u>Mastering Subtitle Extraction From YouTube Unveiling Three Steps for 2024</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-how-to-perform-a-successful-system-restore-in-windows-10/"><u>Step by Step Tutorial: How to Perform a Successful System Restore in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-capturing-images-with-your-lenovo-computers-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Lenovo Computer's Built-In Camera</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-clearing-viruses-off-your-android-smartphone-without-erasing-everything/"><u>Step-by-Step Guide: Clearing Viruses Off Your Android Smartphone Without Erasing Everything</u></a></li>
-<li><a href="https://techidaily.com/tackling-the-trouble-easy-ways-to-fix-your-frozen-windows-update-dilemma/"><u>Tackling the Trouble: Easy Ways to Fix Your Frozen Windows Update Dilemma</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-guide-how-to-upgrade-bios-compatible-with-windows-11/"><u>The Ultimate Guide: How to Upgrade BIOS Compatible with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-fixing-seagate-hdd-visibility-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing Seagate HDD Visibility Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-managing-high-cpu-consumption-by-antimalware-service-executable-on-windows-systems/"><u>Troubleshooting Guide: Managing High CPU Consumption by 'Antimalware Service Executable' On Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-resolving-issues-with-your-logitech-k780-keyboard/"><u>Troubleshooting Tips: Resolving Issues with Your Logitech K780 Keyboard</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-solving-the-black-webcam-issue-in-windows-11-and-10/"><u>Troubleshooting Tips: Solving the Black Webcam Issue in Windows 11 & 10</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlimited-premium-mondly-for-a-limited-price/"><u>Unlimited Premium Mondly for a Limited Price</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/erfecting-the-skill-for-selective-youtube-downloads-for-2024/"><u>[New] Perfecting the Skill for Selective YouTube Downloads for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-complete-guide-of-screenrec-for-laptop/"><u>[Updated] In 2024, A Complete Guide of ScreenRec for Laptop</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-spectre-3-clash-mirage-4-unleashed/"><u>[Updated] Spectre 3 Clash Mirage 4 Unleashed</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amplify-your-pcs-performance-the-duoblast-air-chiller-by-cyberflow-cools-dual-cpus-seamlessly/"><u>Amplify Your PC’s Performance: The DuoBlast Air Chiller by CyberFlow Cools Dual CPUs Seamlessly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-free-asrock-amd-ab350-pro4-driver-pack-compatible-with-windows/"><u>Download Free Asrock AMD AB350 Pro4 Driver Pack - Compatible with Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevated-engagement-awards-on-video-realms-for-2024/"><u>Elevated Engagement Awards on Video Realms for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-jetaudio-installation-guide-cross-platform-supported-on-pcs-and-mobile-oses/"><u>Free JetAudio Installation Guide: Cross-Platform Supported on PCs and Mobile OSes</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-asus-rog-phone-7-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Asus ROG Phone 7 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-3-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord 3 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-find-x7-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Find X7? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-tecno-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Tecno</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-sony-xperia-1-v-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Sony Xperia 1 V.</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-vivo-s18-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo S18 Pro fingerprint</u></a></li>
 </ul></div>
 
