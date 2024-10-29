@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2024-10-20T00:58:36.121Z
-updated: 2024-10-23T16:27:51.407Z
+date: 2024-10-27T19:33:50.986Z
+updated: 2024-10-29T20:21:47.794Z
 tags:
   - web
 categories:
@@ -37,6 +37,13 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 4. Trello makes it incredibly easy to collaborate with other people.
 5. It's free as in free forever. Technically, it's a freemium project, with free and subscription tiers, but the free tier does everything you're likely to need for personal projects. In five or six years of using it for dozens of different projects, I've never yet had to move to a paid tier.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Few Examples
 
  I'm currently midway through selling one apartment and buying another. One step is shortlisting potential purchases, so I created a Trello project (a "board" in Trello speak) for this.
@@ -65,13 +72,6 @@ Ben Lovejoy
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Creating a Board
 
  Visit [trello.com](https://trello.com) and use the "Create an Account" link to register. If asked to choose your plan, opt for the "Free" one. Once you are registered, select "Boards" from the left-hand menu, and then click the big blue "+" sign at the top to add a board.
@@ -81,10 +81,16 @@ Ben Lovejoy
  You can choose one of the standard backgrounds—either a color or an image—or "Custom" to upload your own. My personal preference is to have a minimalist but interesting background, so I search for free stock images on [Unsplash](https://unsplash.com) and use one of those.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Creating Lists
@@ -99,13 +105,26 @@ Ben Lovejoy
 
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Adding Cards
@@ -114,6 +133,13 @@ Ben Lovejoy
 
 ![Adding cards to each task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cards.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
 ###  Adding Photos
@@ -121,6 +147,13 @@ Ben Lovejoy
  Click on any card to open it, and you'll see all the options available. If you want to have a photo visible in your overview, as in my apartment hunt example, then this is called a cover photo. Click the "Cover" button and upload your photo.
 
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -133,10 +166,10 @@ Ben Lovejoy
  If you instead only want a photo to be visible when you open the card, then use the "Attachment" button.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Adding Links
@@ -148,10 +181,10 @@ Ben Lovejoy
 ![Adding a link to a Trello activity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-link.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -170,13 +203,6 @@ Ben Lovejoy
 
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Using Color Coding
 
  To color-code cards, click the "Label" button. You'll get a set of default colors, but can also edit these. Just check the box next to a color to add that to the card. If you want to give your color-coded labels names, click the pencil (edit) button next to the color and type your name.
@@ -191,21 +217,7 @@ Ben Lovejoy
 
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ben Lovejoy
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Moving Things Around (Lists and Cards)
 
@@ -236,18 +248,20 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pro-grade-mac-video-plus-audiophile-recorder/"><u>[New] 2024 Approved Pro-Grade Mac Video + Audiophile Recorder</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed/"><u>[Updated] 2024 Approved Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-financial-gains-the-youtube-money-flow-from-1m-views/"><u>[Updated] In 2024, Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-synergy-of-enterprises-and-immersive-virtual-worlds/"><u>[Updated] Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-introducing-low-tier-sound-diminution-tricks-with-audacity/"><u>2024 Approved Introducing Low-Tier Sound Diminution Tricks with Audacity</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-latest-hp-wireless-network-adapter-drivers-for-windows/"><u>Download Latest HP Wireless Network Adapter Drivers for Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-gt-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 GT in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-mayhem-meets-friendly-fun-ranks-10/"><u>In 2024, Metaverse Mayhem Meets Friendly Fun Ranks 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-the-art-of-pace-control-for-instas-live-videos-for-2024/"><u>Master the Art of Pace Control for Insta's Live Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-out-in-a-crowd-the-finest-thumbnail-font-options/"><u>Standing Out in a Crowd The Finest Thumbnail Font Options</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-poco-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Poco</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-enhancing-video-quality-on-tiktok-via-zoom-for-2024/"><u>[Updated] Enhancing Video Quality on TikTok via Zoom for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-snap-and-save-life-on-mi-11-with-unmatched-screen-quality/"><u>[Updated] In 2024, Snap and Save Life on Mi 11 with Unmatched Screen Quality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-profiles-in-metaverse-promotion-case-studies-and-more-for-2024/"><u>[Updated] Profiles in Metaverse Promotion Case Studies and More for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-saving-instagrams-finest-in-your-photo-gallery/"><u>[Updated] Saving Instagram's Finest in Your Photo Gallery</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-sketching-the-perfect-end-credits-scene-for-your-tiktok-for-2024/"><u>[Updated] Sketching the Perfect End-Credits Scene for Your TikTok for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cutting-edge-performance-meets-affordability-a-closer-look-at-the-loongson-3a6000-in-a-387-chinese-mini-pc/"><u>Cutting-Edge Performance Meets Affordability: A Closer Look at the Loongson 3A6000 in a $387 Chinese Mini PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05s-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05s in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-tecno-spark-10-4g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Tecno Spark 10 4G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-x90s-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo X90S.</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-motorola-moto-g-5g-2023-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-oppo-a2-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Oppo A2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-why-you-might-need-a-new-car-battery-often-a-guide/"><u>Understanding Why You Might Need a New Car Battery Often: A Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/what-is-a-parody-and-how-to-make-a-parody-video-for-2024/"><u>What Is a Parody and How to Make a Parody Video for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-a78-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A78 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

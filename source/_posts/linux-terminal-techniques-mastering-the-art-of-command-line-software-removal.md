@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2024-10-22T00:40:21.929Z
-updated: 2024-10-23T17:46:01.311Z
+date: 2024-10-24T19:30:59.442Z
+updated: 2024-10-29T17:17:54.300Z
 tags:
   - desktop
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 * [How to Uninstall Software Using the Command Line on Ubuntu](https://tech-hub.techidaily.com/champion-your-fitness-qanda-mastering-the-art-of-effective-chatgpt-communication/)
 * [How to Uninstall Software Using the Command Line in Fedora](https://fox-that.techidaily.com/10-effective-solutions-for-resolving-ghost-touch-issues-on-your-iphone/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Identify the installed package's name by running commands like "apt list --installed" (on Ubuntu) or "dnf list --installed" (on Fedora).
@@ -30,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 * On Fedora Linux, the "sudo dnf remove \[package\_name\]" command will uninstall the package.
 
  Linux distributions provide different methods for installing software. You can install software from the standard Ubuntu or Fedora software repositories using the Software Center, from outside of the standard Ubuntu or Fedora software repositories, or by compiling source code. However, what if you need to uninstall a program?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Uninstall Software Using the Command Line on Ubuntu
 
@@ -53,13 +53,6 @@ apt list --installed
 
 ![GIMP listed as an installed program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/GIMP-listed-in-the-installed-packages.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To uninstall a program, use the `apt` command, which is the general command for installing programs and manipulating installed programs. For example, the following command uninstalls gimp and deletes all the configuration files, using the `purge` command.
 
 sudo apt purge gimp
@@ -77,10 +70,10 @@ sudo apt purge gimp
 ![GIMP was successfully removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/Sudo-apt-purge-ran-successfully.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't want to remove the configuration files, simply substitute the command `remove `for `purge`, as shown in the following command.
@@ -90,10 +83,10 @@ sudo apt remove gimp
 ![Enter &quot;sudo apt remove gimp&quot; to remove just GIMP, but leave the configuration files in place.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/sudo-apt-remove-instead-of-sudo-apt-purge.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Programs installed in Linux — just like Windows and MacOS — depend on other packages to function. When you uninstall a program, there may be packages that the uninstalled program depended upon that are no longer used. To remove any unused packages, use the "autoremove" command, as shown in the following example.
@@ -136,6 +129,13 @@ dnf list --installed
 
 ![Terminal output of the DNF command to list installed packages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072542.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll through the list until you find the program that you're looking for.
 
 ![The GIMP package found in the list of installed packages on a Fedora installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072638.png) 
@@ -160,16 +160,10 @@ sudo dnf remove gimp
 ![The DNF command to remove the GIMP package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_073703.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Just enter "y" and GIMP will be removed.
@@ -201,22 +195,22 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/2024-approved-capture-screenshots-of-a-full-page/"><u>2024 Approved Capture Screenshots of a Full Page</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-nokia-g42-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia G42 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-fixes-solving-issues-with-your-dell-mouse-driver-download/"><u>Easy Fixes: Solving Issues with Your Dell Mouse Driver Download</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-ipad-recording-tools-3-edition-for-2024/"><u>Essential iPad Recording Tools #3 Edition for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-12-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 12 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-11x-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11X 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-8-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 8 when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/prophetic-stability-prototype-reviewed/"><u>Prophetic Stability Prototype Reviewed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reactivating-your-disabled-apple-device-tips-and-tricks/"><u>Reactivating Your Disabled Apple Device: Tips & Tricks</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-2022-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE (2022) Suddenly | Stellar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-psychological-implications-of-ai-deployment/"><u>The Psychological Implications of AI Deployment</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-ace-2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-x6-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco X6.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-seamless-integration-with-freestyle2-blue-software-for-your-mac-device/"><u>Unlocking Seamless Integration with Freestyle2 Blue Software for Your Mac Device</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cost-effective-aerospace-for-huge-datasets-at-low-rates-for-2024/"><u>[New] Cost-Effective AeroSpace for Huge Datasets at Low Rates for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>[Updated] 2024 Approved Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-crafting-compelling-end-screens-in-youtube-videos/"><u>[Updated] In 2024, Crafting Compelling End Screens in YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-11-camera-crash-zero-a00f-problem/"><u>Clearing Up Windows 11 Camera Crash: Zero-A00F Problem</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c210-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C210 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-extensions-elevating-vs-code-with-gpt-features/"><u>Essential Extensions: Elevating VS Code with GPT Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-reno-11-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo Reno 11 Pro 5G Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/srt-to-sub-shift-expert-strategies-and-actions/"><u>SRT to SUB Shift Expert Strategies & Actions</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-phantom-v-fold-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Phantom V Fold without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-edge-40-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Edge 40 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor X50</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-130-music-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia 130 Music Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

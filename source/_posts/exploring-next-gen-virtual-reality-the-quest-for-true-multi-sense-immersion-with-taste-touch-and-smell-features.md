@@ -1,7 +1,7 @@
 ---
 title: "Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features"
-date: 2024-10-03T16:26:42.936Z
-updated: 2024-10-06T04:14:47.187Z
+date: 2024-10-24T17:02:39.339Z
+updated: 2024-10-29T21:21:18.043Z
 tags:
   - cutting-edge
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 * [The Holy Grail: Direct Brain Stimulation](https://games-able.techidaily.com/sonic-sleuths-find-your-melodic-match-with-mobile-gaming/)
 
  Virtual Reality (VR) has pretty much nailed providing high-quality virtual content for your eyes and ears, but what about the other sense organs? How far away are we from getting taste, touch, and smell as part of the VR experience?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  It's Not As Crazy As It Smells
 
@@ -58,10 +51,10 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Next-Generation Haptics
@@ -81,16 +74,10 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
  In other words, we're on track to create technology that can reliably recreate many types of touch sensations that current consumer VR can't. Getting the cost and complexity down so that it can reach the masses, however, will take time.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Smelling the Virtual Roses
@@ -108,6 +95,13 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  For smell specifically, the mask uses nine cartridges with different aromas that can be mixed together. These can be depleted and need to be replaced, but by combining them in various proportions this "scent generator" can offer a bouquet of smells.
 
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Holy Grail: Direct Brain Stimulation
 
@@ -130,18 +124,24 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-navigating-the-complex-world-of-video-text-implementation-vimeo/"><u>[New] In 2024, Navigating the Complex World of Video Text Implementation (Vimeo)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/androidiphones-ultimate-arvr-game-list/"><u>Android/iPhone's Ultimate AR/VR Game List</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-honor-90-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 90 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-xiaomi-mix-fold-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Mix Fold 3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/from-ordinary-to-extraordinary-your-pathway-with-tiktok-templates-for-2024/"><u>From Ordinary to Extraordinary Your Pathway with TikTok Templates for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-13-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 13 With 7 Methods</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2v-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2V If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/legitimacy-check-ensuring-your-microsoft-windows-is-genuine-insights-from-zdnet/"><u>Legitimacy Check: Ensuring Your Microsoft Windows Is Genuine - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pro-phone-showdown-google-pixel/"><u>Pro Phone Showdown: Google Pixel</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-users-facing-problems-with-cortana-service/"><u>Step-by-Step Fixes for Users Facing Problems with Cortana Service</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-edge-40-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola Edge 40 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-6-plus-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 6 Plus is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/anking-the-top-16-youtube-intros-to-amplify-views/"><u>[New] Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ethical-implications-recording-whatsapp-calls-responsibly/"><u>[Updated] Ethical Implications Recording WhatsApp Calls Responsibly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-5-video-monitors-for-ps5-players/"><u>2024 Approved Excellent 5 Video Monitors for PS5 Players</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-buyers-guide-to-premium-document-and-image-scanners-top-picks-for-2e-2024/"><u>A Buyer's Guide to Premium Document & Image Scanners: Top Picks for 2E 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/essential-top-10-applications-every-windows-11-user-needs/"><u>Essential Top 10 Applications Every Windows 11 User Needs</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-m54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy M54 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2020-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2020) System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-creating-smooth-time-lapses-with-samsung-mobile/"><u>In 2024, Creating Smooth Time-Lapses with Samsung Mobile</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-15-pro-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 15 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-ideas-into-engaging-youtube-video-plans/"><u>In 2024, Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-samsung-galaxy-m54-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/seamless-mac-screen-record-with-audio-device/"><u>Seamless Mac Screen Record with Audio Device</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-10c-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Spark 10C Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-svd-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .svd file documents online</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

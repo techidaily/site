@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2024-10-22T22:32:06.939Z
-updated: 2024-10-24T00:07:13.552Z
+date: 2024-10-26T16:51:09.625Z
+updated: 2024-10-29T18:24:00.398Z
 tags:
   - desktop
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  I'll be using the [Ubuntu 24.04 LTS](https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-n3-flip-by-fonelab-android-recover-data/) release in this showcase. However, the tips and steps mentioned here should also work on previous releases. That said, with time, the older versions might lose support for some of the stuff discussed here. Ubuntu 24.04 will be supported for five years and thus should still be compatible with all these tweaks and features till April 2029.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use These Six GNOME Extensions
@@ -36,23 +36,9 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Install Extension Manager from Ubuntu App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-install-extension-manager-from-ubuntu-app-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once installed, you will find the app in the Ubuntu App drawer. Open it and the following window should appear.
 
 ![Installed Tab on Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-installed-tab-on-extension-manager.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, Ubuntu ships with a few extensions out of the box, as shown under System Extensions. If you like, you can disable them from here or customize them by clicking on the settings icon. However, we are interested in installing a few extensions. To do this, switch to the "Browse" tab and search for the following extensions:
 
@@ -67,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Recommended Extensions Installed in Ubuntu Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-recommended-extensions-installed-in-ubuntu-extension-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, let's take a quick look at each of the extensions. Starting with Dash to Panel, it transforms the dash (the iconic left-side apps panel on Ubuntu) into a panel similar to the Windows taskbar. Alternatively, you can use Dash to Dock to transform the dash into a macOS-like dock.
 
 Close 
@@ -75,20 +68,27 @@ Close
 
 ![Extensions changing the look and functionality of Ubuntu desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-ubuntu-desktop-with-recommended-extensions-enabled.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can go inside the settings menu for each of these extensions to further fine-tune how they work. For example, inside ArcMenu's settings page, you can access tons of different menu layouts and granular control over how you want to style it.
 
 ![ArcMenu different menu laypouts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-arcmenu-different-menu-laypouts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Speaking of control, Just Perfection gives you access to a ton of settings and options to fine-tune the GNOME UI elements. You can use it to enable/disable UI elements and quick settings, customize the overall styling and presentation, and even control the general behavior of the desktop environment.
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
@@ -117,6 +117,13 @@ Close
 
 ![Set Hot Corner and Activie Screen Edges in GNOME Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/13-set-hot-corner-and-activie-screen-edges-in-gnome-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With Hot Corner enabled, you can trigger the Activities Overview by quickly navigating your mouse cursor to the top-left corner of the screen. This can be handy if you have the ArcMenu running and the Activities Overview button disabled—which is how I run my system.
 
  Coming to Active Screen Edges, it allows you to snap windows to the four corners of the screen—a great little hack to take full advantage of a large monitor with more screen real estate.
@@ -127,22 +134,15 @@ Close
 
 ![Enable Sound Overamplication on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/15-enable-sound-overamplication-on-ubuntu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
 
 ![Setting Default Apps on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16-setting-default-apps-on-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -164,22 +164,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-slomo-videography-comprehensive-review/"><u>[New] 2024 Approved Mastering SloMo Videography - Comprehensive Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-revenue-predictor-tools/"><u>[New] In 2024, Free YouTube Revenue Predictor Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-use-creative-commons-copyright-licenses-complete-guide/"><u>[New] In 2024, How to Use Creative Commons Copyright Licenses [Complete Guide]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-picture-perfect-instagram-carousel/"><u>[New] In 2024, Picture-Perfect Instagram Carousel</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-p40plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40+ without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-retrieve-and-view-your-sent-or-received-facetime-photos-easily/"><u>How to Retrieve and View Your Sent or Received FaceTime Photos Easily</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-oculus-rift-setup/"><u>In 2024, Comprehensive Guide to Oculus Rift Setup</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-effortless-techniques-to-edit-multisnapping-videos/"><u>In 2024, Effortless Techniques to Edit Multisnapping Videos</u></a></li>
-<li><a href="https://techidaily.com/is-your-tecno-spark-10-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 10 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-bulgarian-in-dashes-10-minute-sessions/"><u>Learn Bulgarian in Dashes - 10-Minute Sessions</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-nokia-105-classic-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Nokia 105 Classic</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-zte-axon-40-lite-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Axon 40 Lite Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-galaxy-a25-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Galaxy A25 5G fingerprint</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-15-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 by restoring it to factory settings</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win11-compatible-conexant-hd-audio-drivers-guide/"><u>Win11 Compatible Conexant HD Audio Drivers Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-effortless-online-video-access-via-vimeo/"><u>[New] Effortless Online Video Access via Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-key-approaches-turning-visual-content-into-music-files-for-2024/"><u>[New] Key Approaches Turning Visual Content Into Music Files for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ai-powered-best-titles-makers-online/"><u>[Updated] AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/aging-pipes-and-corrosion/"><u>Aging Pipes And Corrosion:</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-90-lite-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-10-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 10 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-game-ahead-the-ultimate-list-of-premier-gba-emulator-programs/"><u>In 2024, Game Ahead The Ultimate List of Premier GBA Emulator Programs</u></a></li>
+<li><a href="https://techidaily.com/samsung-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Samsung support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-to-common-media-device-not-recognized-issues-correcting-missing-drivers/"><u>Solution to Common 'Media Device Not Recognized' Issues: Correcting Missing Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/syncing-imovie-projects-with-itunes-a-step-by-step-guide/"><u>Syncing iMovie Projects with iTunes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-nord-3-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Nord 3 5G</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g13-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G13 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

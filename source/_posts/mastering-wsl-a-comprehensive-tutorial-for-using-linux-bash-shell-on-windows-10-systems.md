@@ -1,7 +1,7 @@
 ---
 title: "Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems"
-date: 2024-10-10T01:42:57.190Z
-updated: 2024-10-11T19:40:50.732Z
+date: 2024-10-23T21:11:52.844Z
+updated: 2024-10-29T16:25:21.658Z
 tags:
   - deals
 categories:
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  There are some limitations here. It won't officially work with [graphical Linux desktop applications](https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-profit-the-ultimate-strategy-blueprint/). Not every command-line application works, either, as the feature isn't perfect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  How Windows Subsystem for Linux 2 (WSL2) Works
 
  Windows Subsystem for Linux 2 (WSL2) is designed to provide the exact same user experience as its predecessor, but the similarities mostly end there.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  WSL2 runs a full Linux Kernel in [an extremely efficient virtual machine.](https://facebook-record-videos.techidaily.com/updated-the-infographic-index-youtubes-surprising-stat-treasury-2017/) Just like WSL1, WSL2 allows you use a range of different Linux Distros including, Ubuntu, Debian, Kali, openSUSE, Fedora, and others. That also means that most any Linux application, package, or command will work without an issue.
 
  WSL2 supports GUI applications on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install Bash on Windows 10
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![Open up the Windows Features menu, scroll down until you find &quot;Windows Subsystem for Linux,&quot; then tick the box and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985001e7f37.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Restart now" when you're prompted to restart your computer. The feature won't work until you reboot.
@@ -94,13 +94,6 @@ wsl --install
 
 ![Installing Debian through the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/installing-debian.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
 
 ##  How to Use The Bash Shell and Install Linux Software
@@ -116,10 +109,16 @@ wsl --install
 ![Searching for "Ubuntu" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ubuntu-search.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The first time you launch the Linux environment, you're be prompted to enter a UNIX username and password. These don't have to match your Windows username and password, but will be used within the Linux environment.
@@ -127,6 +126,13 @@ wsl --install
  For example, if you enter "bob" and "letmein" as your credentials, your username in the Linux environment will be "bob" and the password you use inside the Linux environment will be "letmein" --- no matter what your Windows username and password are.
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
@@ -170,13 +176,6 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -184,13 +183,6 @@ wsl --install
  Here's what it looks like:
 
 ![The default font, Consolas.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a9864cb2035c.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To install the font, first download the [Ubuntu Font Family](http://font.ubuntu.com/) from Ubuntu's website. Open the downloaded .zip file and locate the "UbuntuMono-R.ttf" file. This is the Ubuntu monospace font, which is the only one used in the terminal. It's the only font you need to install.
 
@@ -201,10 +193,10 @@ wsl --install
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Console
@@ -217,6 +209,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Navigate to the &quot;TrueTypeFont&quot; key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986517b1bec.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click in the right pane and select New > String Value. Name the new value `000` .
 
  Double-click the "000" string you just created, and then enter `Ubuntu Mono` as its value data.
@@ -224,10 +223,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
@@ -239,6 +238,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
  If you're using the Windows Terminal—and you should be, it is [a big improvement in most ways](https://video-screen-grab.techidaily.com/updated-2024-approved-effortless-screen-saving-on-android-devices/)—changing fonts is easier. After you've installed the Ubuntu font, open up the Terminal, click the small downward facing arrow, and select "Settings."
 
 ![Open the Terminal Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-settings-terminal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open to Defaults > Appearance, then select "Ubuntu Mono" from the list of available fonts.
 
@@ -263,22 +269,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-optimizing-youtube-content-for-higher-visibility/"><u>[New] 2024 Approved Optimizing YouTube Content for Higher Visibility</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-navigate-10-top-free-web-explorers-for-remote-collaboration-for-2024/"><u>[New] Navigate 10 Top Free Web Explorers for Remote Collaboration for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-find-hidden-watch-tile-artwork/"><u>[Updated] 2024 Approved Find Hidden Watch Tile Artwork</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-revolutionize-your-digital-photography/"><u>2024 Approved Revolutionize Your Digital Photography</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-ultimate-hack-grabbing-gif-images-from-tweets/"><u>2024 Approved The Ultimate Hack Grabbing GIF Images From Tweets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/deciding-on-live-stream-software-streamlabs-vs-obs-comparison-for-2024/"><u>Deciding on Live Stream Software Streamlabs Vs. OBS Comparison for 2024</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/effettuare-il-salto-di-disco-con-dvd-su-hard-disk-sotto-windows-107-usando-winxdvd-guida-passo-passo/"><u>Effettuare Il Salto Di Disco Con DVD Su Hard Disk Sotto Windows 10/7 Usando WinXDVD - Guida Passo-Passo</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50iplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i+ without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-smart-8-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Smart 8 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-poco-c51-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Poco C51 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x9a-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X9a</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-c12-plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia C12 Plus.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-xiaomi-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Xiaomi .</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-split-your-videos-with-ease-top-5-free-software/"><u>Updated Split Your Videos with Ease Top 5 Free Software</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT 5 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Redmi Note 13 Pro+ 5G?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>[New] 2024 Approved Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-how-to-speed-up-windows-file-inspection-for-2024/"><u>[New] How To Speed Up Windows File Inspection for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-effortless-hue-alignment/"><u>[Updated] 2024 Approved Effortless Hue Alignment</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-boost-communication-how-to-use-google-hangouts-on-mobile/"><u>[Updated] Boost Communication How to Use Google Hangouts on Mobile</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>[Updated] Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x50i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X50i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/compreranzo-il-background-ottenere-video-piu-chiaro-su-youtube-for-2024/"><u>Compreranzo Il Background Ottenere Video Più Chiaro Su YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-tecno-camon-20-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Tecno Camon 20 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-red-magic-8s-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Red Magic 8S Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-game-based-activities-in-discord-servers/"><u>Navigating Game-Based Activities in Discord Servers</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-14-pro-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 14 Pro without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

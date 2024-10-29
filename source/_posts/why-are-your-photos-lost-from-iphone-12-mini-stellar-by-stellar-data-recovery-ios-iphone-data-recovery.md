@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone 12 mini? | Stellar
-date: 2024-09-17T22:02:06.498Z
-updated: 2024-09-23T19:21:54.108Z
+date: 2024-10-24T16:22:00.857Z
+updated: 2024-10-29T16:04:45.372Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -75,13 +75,6 @@ If you are proactively using iCloud to maintain data backup, there is a fair cha
 
 You can also transfer all your dead iPhone data to a new one by inserting its SIM card in the new iPhone. Learn here how to [Transfer Data from Old iPhone to New iPhone](https://www.stellarinfo.com/blog/transfer-data-from-old-to-new-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Use a Reliable Data Recovery Software**
 
 Your last respite is a professional data recovery software in case a vast amount of data from dead iPhone, like photos, videos, messages, contacts, etc., remain missing after iCloud recovery. We recommend [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) because it guarantees absolute recovery of lost or deleted data from iPhone, iTunes, and iCloud. Listing some common situations where the software can help:
@@ -91,13 +84,6 @@ Your last respite is a professional data recovery software in case a vast amount
 - Instead of restoring all files from the iPhone, you wish to recover only some selected files.
 
 You can download the demo version of the software for assessment and buy the software to activate its key functionalities. It will activate via activation key that will be sent on your email once you purchase the software. Read this KB to learn [How to Activate Stellar Data Recovery for iPhone](https://www.stellarinfo.com/support/kb/index.php/article/activate-stellar-data-recovery-for-iphone). Additionally, using the Toolkit version of the software, identified as [Stellar Eraser for iPhone](https://www.stellarinfo.com/erase-iphone-data.php), you can permanently remove all the sensitive data stored in your dead iPhone so it won’t fall into the wrong hands.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion:**
 
@@ -110,13 +96,6 @@ If your phone turns blank or dead, don’t panic and stop using your device for 
 ### **What to do if iPhone is not working?**
 
 If your iPhone has stopped responding to any command and you can’t even turn it off, then force shutdown and restart it. Swiftly press and release the volume up button first and repeat the same with volume down button. Now, press and hold the side button and once the Apple logo appears on the screen, release the side button too.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Why is my phone unresponsive?**
 
@@ -150,10 +129,16 @@ There can be several reasons for the loss of photos during transfer, such as bel
 - Anti-virus on your PC/Mac scans and detects viruses in the photo resulting in photo loss
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **How to Recover Photos Lost during Transfer from iPhone 15, 14/13/12/11/X/8/7 to PC/Mac?**
@@ -169,25 +154,19 @@ It might be possible you transferred the iPhone photos to the PC but forgot the 
 3. The list of images will be displayed
 4. Right-click on the required photos from the search results, and click **Open File Location to view where they are saved**
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  **For MAC follow the below steps:**
 
 1. Open the **Finder** and go to your home directory
 2. Go to the Pictures folder
 3. Right-click on Photos Library.photoslibrary and select Show Package Contents
 4. Open the folder Masters to find the images in the Photos app. The Masters folder comprises the photos by date in subfolders. You can open the folders of the relevant dates to find your pictures.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 2: Recover lost transferred photos from iTunes Backup**
 
@@ -200,19 +179,6 @@ In Windows 7, 8, 10, & 11 the iTunes backup is stored in **Users > username > Ap
 
  |
 | --- |
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3: Recover Lost Photos from iCloud**
 
@@ -234,6 +200,13 @@ You have to reset your iPhone X/8/7 to factory settings to restore the iCloud ba
 
 | **Tip:** For selective recovery of lost photos from iCloud/iTunes use [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/). It recovers missing Photos from Camera Roll and Photo Stream in iCloud/iTunes/iPhone. You can preview, select and save only the desired photos at your preferred location. |
 | --- |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 4: Use the Best Photo Recovery Software**
 
@@ -280,6 +253,13 @@ Apple has made it easy to recover deleted iPhone photos. Here’s what you need 
 5. To permanently delete a photo, press “**Delete**”.
 
 ![recover deleted photos from iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2017/07/iphone-recently-deleted.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Figure 1 represents how to recover photos from Recently Deleted folder_
 
@@ -368,6 +348,19 @@ On Windows PC, update iTunes by following **Help > Check for Updates** in the to
 
 On Mac, go to **App Store >** **Updates >** click **Install,** if you see any iTunes updates.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Update iOS**
 
 iOS updates usually fix error 1015 which appears while restoring iPhone with iTunes.
@@ -390,13 +383,6 @@ On Windows computer g**o to Start > All apps.** Find the third-party software an
 
 On Mac, in the Finder window, go to **Applications**. Find and select the third-party software. In the top menu bar, go to **File** and select **Move to Trash.** Next, click on **Empty Trash.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. Put your iPhone in Recovery Mode and restore**
 
 Before you put your iPhone on Recovery Mode, ensure you are using the latest version of iTunes. Next, follow the below steps to restore iPhone using the Recovery Mode.
@@ -416,6 +402,13 @@ Before you put your iPhone on Recovery Mode, ensure you are using the latest ve
 After the Update process completes, you can restore your iPhone from iTunes or iCloud backup without facing the error 1015.
 
 **Note:** If you are unable to enter Recovery Mode on your iPhone due to jailbreak, you may use programs like RecBoot, which are used to enter and exit the Recovery Mode on iPhone, iPad or iPod touch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **6\. Delete the IPSW file on your computer**
 
@@ -447,10 +440,10 @@ As in Recovery Mode, bringing your iOS device to DFU mode will lead to loss of i
 ![iTunes has detected an iPhone in recovery mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/iTunes-has-detected-an-iPhone-in-recovery-mode.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Leave the Home button or volume down button. The iPhone screen turns black indicating the device has entered DFU mode
@@ -474,6 +467,13 @@ If after putting your iOS device to Recovery or DFU mode you are unable to resto
  |
 | --- |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **To Sum Up**
 
 Naturally, the error code 1015 is annoying when you quickly want to restore your iPhone using iTunes.
@@ -496,5 +496,24 @@ In case these methods don’t work, then go for the tougher solutions like bring
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-framefinesse-optimizing-visuals-on-instagram-for-2024/"><u>[Updated] FrameFinesse Optimizing Visuals on Instagram for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-in-car-audio-experience-with-the-lihan-lhfm1039-the-ultimate-wireless-fm-transmitter-review/"><u>Enhancing In-Car Audio Experience with the LIHAN LHFM1039: The Ultimate Wireless FM Transmitter Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-newly-released-amd-radeon-r5-driver-update-for-microsoft-windows-win-11-win-10-win-8-win-7/"><u>Get Newly Released AMD Radeon R5 Driver Update for Microsoft Windows (Win 11, Win 10, Win 8, Win 7)</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-nord-ce-3-lite-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Nord CE 3 Lite 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c67-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C67 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-v27-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo V27 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s18-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo S18 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-13c-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-ahead-date-set-for-samsungs-monumental-tech-showcase-rumors-and-official-information/"><u>Inside Look Ahead: Date Set for Samsung's Monumental Tech Showcase – Rumors & Official Information</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-guide-saving-screen-share-dialogue-for-2024/"><u>Quick Guide Saving Screen Share Dialogue for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-honor-magic-5-lite-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor Magic 5 Lite Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X6 | Dr.fone</u></a></li>
+</ul></div>
 

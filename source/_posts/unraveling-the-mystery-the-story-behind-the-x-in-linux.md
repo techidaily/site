@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-10-21T20:44:08.408Z
-updated: 2024-10-23T21:17:10.814Z
+date: 2024-10-23T18:07:13.347Z
+updated: 2024-10-29T16:57:09.853Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -85,20 +85,19 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
@@ -112,6 +111,13 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -150,21 +156,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/erfecting-the-skill-for-selective-youtube-downloads-for-2024/"><u>[New] Perfecting the Skill for Selective YouTube Downloads for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-complete-guide-of-screenrec-for-laptop/"><u>[Updated] In 2024, A Complete Guide of ScreenRec for Laptop</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-spectre-3-clash-mirage-4-unleashed/"><u>[Updated] Spectre 3 Clash Mirage 4 Unleashed</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amplify-your-pcs-performance-the-duoblast-air-chiller-by-cyberflow-cools-dual-cpus-seamlessly/"><u>Amplify Your PC’s Performance: The DuoBlast Air Chiller by CyberFlow Cools Dual CPUs Seamlessly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-free-asrock-amd-ab350-pro4-driver-pack-compatible-with-windows/"><u>Download Free Asrock AMD AB350 Pro4 Driver Pack - Compatible with Windows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevated-engagement-awards-on-video-realms-for-2024/"><u>Elevated Engagement Awards on Video Realms for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-jetaudio-installation-guide-cross-platform-supported-on-pcs-and-mobile-oses/"><u>Free JetAudio Installation Guide: Cross-Platform Supported on PCs and Mobile OSes</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-asus-rog-phone-7-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Asus ROG Phone 7 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-3-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord 3 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-find-x7-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Find X7? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-tecno-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Tecno</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-sony-xperia-1-v-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Sony Xperia 1 V.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-vivo-s18-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo S18 Pro fingerprint</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-freedom-selecting-prime-video-editing-tools/"><u>[New] 2024 Approved Android Freedom Selecting Prime Video Editing Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc/"><u>[New] 2024 Approved Expert Tips on Angling Videos Unlocking Full Potential with VLC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-guide-to-camstudios-2023-screen-record-features/"><u>2024 Approved The Ultimate Guide to CamStudio's 2023 Screen Record Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpt-unveiled-how-this-ai-is-transforming-natural-language-processing/"><u>ChatGPT Unveiled: How This AI Is Transforming Natural Language Processing</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-itel-a60-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel A60 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-the-multiversus-game-freeze-learn-the-best-fixes-in-8-steps/"><u>End the Multiversus Game Freeze: Learn the Best Fixes in 8 Steps</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/fixing-asus-bootloader-issue-a-comprehensive-guide-to-fixing-f9-recovery-problems/"><u>Fixing Asus Bootloader Issue: A Comprehensive Guide to Fixing F9 Recovery Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s24-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S24 Ultra Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-magic-of-watching-nba-online-unveiling-the-best-15-strategies/"><u>In 2024, The Magic of Watching NBA Online - Unveiling the Best 15 Strategies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-gameplay-journey-top-10-adventures-in-gaming/"><u>In 2024, The Ultimate Gameplay Journey Top 10 Adventures in Gaming</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728507998363-pcsd/"><u>PCに移行しても安全SDカードバックアップ法</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Max Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24-messages-recovery-recover-deleted-messages-from-samsung-galaxy-s24-by-fonelab-android-recover-messages/"><u>Samsung Galaxy S24 Messages Recovery - Recover Deleted Messages from Samsung Galaxy S24</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-reno-9a-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Reno 9A</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-nonfunctional-internal-laptop-sound/"><u>Troubleshooting & Solutions for Nonfunctional Internal Laptop Sound</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-tecno-spark-10-4g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Tecno Spark 10 4G password or pattern lock</u></a></li>
 </ul></div>
 

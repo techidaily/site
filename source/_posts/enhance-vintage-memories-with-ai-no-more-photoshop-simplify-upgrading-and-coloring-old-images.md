@@ -1,7 +1,7 @@
 ---
 title: "Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images"
-date: 2024-10-03T14:41:28.799Z
-updated: 2024-10-05T22:59:23.156Z
+date: 2024-10-26T16:31:54.183Z
+updated: 2024-10-29T18:14:52.952Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  Photoshop has a built-in neural filter for restoring old scratched photos. But you don’t need to spend 20 bucks a month just to use that feature. Microsoft has developed a more robust AI for the job and it’s completely free. Here’s the only guide you need to bring your old photos back to life.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Microsoft's AI that Brings Old Photos Back to Life
 
  There was a time when it took Photoshop gurus hours of painstaking labor to [fix up old degraded photos](https://some-tips.techidaily.com/updated-top-tunes-where-to-secure-soundscapes/). Today, AI can do most of the heavy lifting. So much so that you can restore a photo with just one click!
@@ -26,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 [Bringing Old Photos Back to Life](https://www.microsoft.com/en-us/research/publication/bringing-old-photos-back-to-life/) is the official Microsoft project for AI-powered photo restoration. The project samples show some stunning restoration jobs on a few degraded photos. I tested it with some photos of my own too, and it worked like a charm.
 
 ![Sample photos showcasing Microsoft's photo restoration AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0001.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, Microsoft has yet to offer an official app to use this AI. If you have a powerful PC and you possess the technical know-how, you can run the AI on your own hardware.
 
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  To get started with Replicate, all we need is a GitHub account. If you already have a GitHub, skip this step, otherwise, head over to [GitHub](https://github.com/join/). You need a valid email to join GitHub and the sign-up only takes a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Restoring Old Photos
 
  After [logging into Replicate](https://replicate.com/), we’re ready for the first step. In the search bar, enter **Bringing Old Photos Back to Life**, or you can [go directly to the page](https://www.replicate.com/microsoft/bringing-old-photos-back-to-life).
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
  Click the tiny cloud icon to select and upload the photo you want to restore.
 
 ![Clicking the upload button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
 
@@ -77,10 +77,10 @@ Close
 ![Steps for running photo restoration AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep an eye on the Warm or Cold tag under the title of the AI model. A cold tag means the model is booting, and your photo will take longer to process. If the model is already warm, you’ll get the output sooner.
@@ -105,23 +105,9 @@ Close
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
 
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Upscaling Old Photos
 
@@ -131,6 +117,13 @@ Close
 
 ![Arrow pointing at the upload button for ESRGAN AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
 
 Close 
@@ -139,15 +132,22 @@ Close
 
 ![Steps for running the upscaling AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When it's done, the before and after previews look identical. But when you download the processed file, it has a much higher resolution.
 
 ![Arrow indicating the download button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
@@ -177,22 +177,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-iphone-techniques-creating-extended-frame-videos/"><u>[New] In 2024, IPhone Techniques Creating Extended Frame Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamline-your-steam-playback-for-flawless-replays/"><u>[Updated] In 2024, Streamline Your Steam Playback for Flawless Replays</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bypassing-the-hurdles-upgrade-from-windows-10-to-11-now/"><u>Bypassing The Hurdles: Upgrade From Windows 10 to 11 Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-vivo-y100i-power-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Vivo Y100i Power 5G.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-microsofts-directx-directinput-library-errors/"><u>Comprehensive Fixes for Microsoft's DirectX DirectInput Library Errors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-deskjet-3755-all-in-one-driver-software-for-your-pc-windows-10-8-and-7/"><u>Get the Newest HP DeskJet 3755 All-in-One Driver Software for Your PC (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-100-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 100 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-fold-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel Fold without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to others devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/impact-of-american-sanctions-on-deepcools-role-in-fueling-russias-war-resources-against-ukraine/"><u>Impact of American Sanctions on DeepCool's Role in Fueling Russia’s War Resources Against Ukraine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-command-prompt-a-guide-to-user-management/"><u>Navigating Command Prompt: A Guide to User Management</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/quick-and-simple-edits-for-an-edge-in-the-tiktok-world/"><u>Quick & Simple Edits for an Edge in the TikTok World</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/vivo-x90s-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo X90S Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[New] Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-zte-blade-a73-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ending-the-annoyance-how-to-stop-pesky-texts-on-iphone/"><u>Ending the Annoyance: How to Stop Pesky Texts on iPhone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-zero-30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Zero 30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100A phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-signs-does-he-or-she-have-read-my-messages/"><u>Identifying Signs: Does He or She Have Read My Messages?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-flashy-netgear-nighthawk-rax8n-revolutionizing-wi-fi-with-wi-fi-6-capabilities/"><u>In-Depth Review of the Flashy Netgear Nighthawk RAX8n – Revolutionizing Wi-Fi with Wi-Fi 6 Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-discover-manycams-virtual-webcam-and-video-editing-solutions/"><u>Live Streaming Made Easy: Discover ManyCam's Virtual Webcam and Video Editing Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-silent-issue-effective-solutions-to-make-corsair-hs50-speaker-mic-work-again/"><u>Solving the Silent Issue: Effective Solutions to Make Corsair HS50 Speaker Mic Work Again</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-srt-manipulation-for-mac-enthusiasts/"><u>Step-by-Step SRT Manipulation for Mac Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-p40-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from P40</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-p60-by-fonelab-android-recover-photos/"><u>Undelete lost photos from P60.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-windows-10-photos-not-enough-explore-these-8-amazing-alternatives/"><u>Updated In 2024, Windows 10 Photos Not Enough? Explore These 8 Amazing Alternatives</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

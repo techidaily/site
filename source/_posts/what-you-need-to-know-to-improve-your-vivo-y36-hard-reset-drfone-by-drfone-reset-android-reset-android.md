@@ -1,7 +1,7 @@
 ---
 title: What You Need To Know To Improve Your Vivo Y36 Hard Reset | Dr.fone
-date: 2024-09-20T22:38:55.829Z
-updated: 2024-09-23T18:44:49.864Z
+date: 2024-10-22T20:14:44.158Z
+updated: 2024-10-29T18:21:30.883Z
 tags: 
   - reset
 categories:
@@ -24,18 +24,24 @@ Let's get started!
 
 If your Vivo Y36  is having issues like freezing, crashing, or battery draining, a hard reset may be what you need. It will restore your phone to its factory settings, which should fix any problems.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Constant Crashes
 
 Constant crashes can be a frustrating experience, especially if you don't know why they're happening. Constant crashes cause data loss and can be very disappointing. A hard reset will restore your Vivo Y36  to its factory settings, which should fix the crashing issue.
 
 Before resetting your phone, back up your data, so you don't lose anything important.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Battery Drains Too Fast
 
@@ -101,13 +107,6 @@ Listed below are the steps you need to follow to hard reset Vivo Y36 ;
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Phone Backup (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Backup and Restore Android Data
@@ -135,6 +134,13 @@ Here's how to backup and restore your Vivo Y36  hard reset:
 
 ![backup data before factory reset android](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: During the backup process, don't disconnect your Android phone, use the Vivo Y36 device, or delete any data.
 
 ![backing up](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
@@ -145,6 +151,13 @@ Here's how to backup and restore your Vivo Y36  hard reset:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/) (Simply And Completely Delete All Data)
 
 The following steps will guide you through the Dr.Fone - Data Eraser of your Vivo Y36  hard reset tool:
@@ -152,13 +165,6 @@ The following steps will guide you through the Dr.Fone - Data Eraser of your Viv
 **Step 1**: Select "Data Eraser" from all the tools in Dr.Fone.
 
 ![drfone hompage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2**: You need to enable USB debugging on your Android phone before connecting it to the computer.
 
@@ -168,16 +174,16 @@ The following steps will guide you through the Dr.Fone - Data Eraser of your Viv
 
 ![start to erase](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Ensure all the necessary data is backed up before proceeding since all the erased data will not be recoverable. Confirm your operation by typing "000000".
 
 ![code to erase](https://images.wondershare.com/drfone/guide/android-erase-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5**: Dr. Fone only takes a few minutes to erase all data from your Android phone. Keep the phone connected, and don't open any phone management software.
 
@@ -208,13 +214,6 @@ The following instructions will show you how to completely wipe up all of your d
 We advise you to remove all accounts from the Vivo Y36 device before performing a factory reset, especially if you plan to sell, give away, or donate the 3.4. It is also a good idea to unlink the Google account. By doing this, we can prevent issues for new users as some more recent smartphones have a feature called FRP, or Factory Reset Protection, which requires the Google account or PIN number that was originally used to set up the Vivo Y36 when a device is factory restored.
 
 ## Part 2: How to Hard Reset My Vivo Y36
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Fastboot Mode
 
@@ -252,13 +251,6 @@ Let's see how you can delete completely all the data using Dr.Fone - Data Eraser
 
 ![drfone home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Connect your Vivo Y36 to the PC via a USB wire. Ensure that your phone has USB debugging turned on. You will see a pop-up window on your phone asking you to approve USB debugging.
 
 ![connect to device](https://images.wondershare.com/drfone/guide/android-erase-01.png)
@@ -272,6 +264,13 @@ Dr.Fone will then automatically recognize and connect to your Vivo Y36 smartphon
 Before proceeding, ensure that you have backed up any critical data because deleted data cannot be retrieved. After that, type "000000" to confirm your activity.
 
 ![code to erase](https://images.wondershare.com/drfone/guide/android-erase-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dr. Fone will next proceed to wipe the data on your Vivo Y36 phone. The entire procedure takes only a few minutes. Turn off the phone and do not run any phone administration programs on the PC.
 
@@ -313,6 +312,13 @@ The backup will take a few moments. Please do not detach your Vivo Y36 phone, us
 
 ![backup completed](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When the backup is finished, you can view the contents of the backup file by clicking the View the backup button.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -320,13 +326,6 @@ When the backup is finished, you can view the contents of the backup file by cli
 ### The Bottom Line
 
 Now that you know how to hard reset Vivo Y36 it is time to implement all the possible ways and see which one works for you. We also recommend you to proceed with backing up and restoration of all the information so that you will not have to repent in the end. It is all about using smart tools like Dr.Fone - Data Eraser and Dr.Fone - Phone Backup.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Ways to Reset Vivo Y36 Without Volume Buttons
 
@@ -394,6 +393,13 @@ After the reset is complete, navigate to the “reboot system now” option and 
 
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Reset Android with the reset pinhole
 
 There are many reasons for opting to reset an Android smartphone or tablet. Sometimes, a forgotten password might get your tablet locked. At times, the screen of your smartphone or tablet might get stuck and fail to respond. Or your device might come with a non-removable battery to make matters worse. For all these problems and many others, you might want to reset your device. But if your device does not come with a home button or volume buttons, you might want to use a different method. Generally, such devices come with a reset pinhole on the Vivo Y36 device which can be used to reset the Vivo Y36 device. To perform a tablet hard reset without the volume button, follow the simple steps described below.
@@ -429,13 +435,6 @@ After that, navigate or scroll down until you can find the “Backup and Reset�
 Now swipe down to find the “Factory data reset” option and tap on it. A new screen will appear, requesting you for confirmation to proceed with the process. Tap on “Reset device” to start the process.
 
 ![backup reset](https://images.wondershare.com/drfone/article/2017/04/14931915614133.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 At the end of the process, your device will be reset and ready to use after it completes the mandatory reboot.
 
@@ -476,6 +475,13 @@ Wait for the reboot process to complete, and then you can access the phone or ta
 
 ![screen unlock successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 So these are the methods with which you can do a reset without using volume buttons. The difficulty level of the methods depends on the type and brand of the Android device. The first two parts can be performed easily by anyone, and that too in a matter of a few minutes. However, the third method may pose some difficulty, particularly because manufacturers set different key combinations for rebooting the Vivo Y36 device into recovery. Nevertheless, once it is figured out, the rest is easy. Hence, it is up to you to decide on the method to be adopted for hard resetting your Android device.
@@ -494,5 +500,24 @@ So these are the methods with which you can do a reset without using volume butt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-superstar-creators-the-highest-paid-ones/"><u>[New] In 2024, Superstar Creators The Highest Paid Ones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-amplify-viewership-with-these-top-10-youtube-reaction-strategies/"><u>[Updated] 2024 Approved Amplify Viewership with These Top 10 YouTube Reaction Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-capturing-the-spirit-2023s-most-shared-tweets/"><u>[Updated] 2024 Approved Capturing the Spirit 2023'S Most Shared Tweets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-secrets-to-creating-an-enterprise-instagram-profile-for-2024/"><u>[Updated] Unveiling the Secrets to Creating an Enterprise Instagram Profile for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-magic-6-lite-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor Magic 6 Lite Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-sound-problems-in-toshiba-portable-computers/"><u>Effective Fixes for Sound Problems in Toshiba Portable Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c02-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C02 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leading-edge-technology-in-capturing-virtual-meetings-5-top-picks/"><u>In 2024, Leading Edge Technology in Capturing Virtual Meetings (5 Top Picks)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-skype-connections-a-comprehensive-guide-to-fixing-difficulties/"><u>Mastering Skype Connections: A Comprehensive Guide to Fixing Difficulties</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nubia Red Magic 8S Pro.</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-the-secrets-of-auto-played-youtube-content-on-facebook-platform-for-2024/"><u>Unveiling the Secrets of Auto-Played YouTube Content on Facebook Platform for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-k11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo K11 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

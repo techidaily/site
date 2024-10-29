@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone 12? | Stellar
-date: 2024-09-21T01:38:04.615Z
-updated: 2024-09-23T18:46:51.955Z
+date: 2024-10-28T16:04:01.243Z
+updated: 2024-10-29T16:40:15.861Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -60,6 +60,13 @@ If you have been practicing the above steps for long, then simply connect your d
 
 **Pro Tip:** _If found dead, let your iPhone remain off for as long as possible to avoid data overwriting._
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Use iCloud to Recover Data from Dead iPhone**
 
 If you are proactively using iCloud to maintain data backup, there is a fair chance to recover your dead phone’s data from it. You can directly recover data from iCloud on another iPhone that doesn’t necessarily require connection to a laptop or computer. All you need is an iPhone that can be turned on at least and let you through the initial steps to login to your iCloud. Don’t forget to erase your dead iPhone before continuing on the new one; otherwise, you won’t get to perform the initial set-up. Follow the steps below to restore dead iPhone’s data from iCloud Backup:
@@ -75,6 +82,13 @@ If you are proactively using iCloud to maintain data backup, there is a fair cha
 
 You can also transfer all your dead iPhone data to a new one by inserting its SIM card in the new iPhone. Learn here how to [Transfer Data from Old iPhone to New iPhone](https://www.stellarinfo.com/blog/transfer-data-from-old-to-new-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Use a Reliable Data Recovery Software**
 
 Your last respite is a professional data recovery software in case a vast amount of data from dead iPhone, like photos, videos, messages, contacts, etc., remain missing after iCloud recovery. We recommend [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) because it guarantees absolute recovery of lost or deleted data from iPhone, iTunes, and iCloud. Listing some common situations where the software can help:
@@ -84,13 +98,6 @@ Your last respite is a professional data recovery software in case a vast amount
 - Instead of restoring all files from the iPhone, you wish to recover only some selected files.
 
 You can download the demo version of the software for assessment and buy the software to activate its key functionalities. It will activate via activation key that will be sent on your email once you purchase the software. Read this KB to learn [How to Activate Stellar Data Recovery for iPhone](https://www.stellarinfo.com/support/kb/index.php/article/activate-stellar-data-recovery-for-iphone). Additionally, using the Toolkit version of the software, identified as [Stellar Eraser for iPhone](https://www.stellarinfo.com/erase-iphone-data.php), you can permanently remove all the sensitive data stored in your dead iPhone so it won’t fall into the wrong hands.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion:**
 
@@ -117,13 +124,6 @@ In iPhone, black screen appears due to software or hardware issues. Firmware mod
 **Summary:** Sometimes, resetting an iPhone is essential to fix minor issues like iPhone crashing, freezing, or getting stuck at the Apple logo. But the iPhone reset process can delete important data and settings on your device. Read this post to learn smart ways to reset your iPhone without data loss. Moreover, you can also download this quick tool to reset your iPhone without losing data.
 
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://cloud.stellarinfo.com/StellarToolkitforiPhone-B.exe "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://cloud.stellarinfo.com/StellarToolkitforiPhone-B.dmg.zip "Free Download for Mac")
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _“Yesterday, my iPhone stopped working suddenly. I have been trying multiple ways to fix it since then; even tried the force reboot method. Should I simply reset my iPhone? How do I do it without losing my device data?”_
 
@@ -160,20 +160,6 @@ Moreover, no data or media is deleted from iPhone when choosing the Reset All Se
 - Now, click **Reset All Settings**. This process will take a couple of minutes to reset the privacy settings, keyword dictionary, location settings to default, but will keep the rest of your data fully secure.
 
 ![reset iPhone via Settings app -2](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 2: Reset iPhone via Stellar Toolkit for iPhone Tool**
 
@@ -227,6 +213,13 @@ To reset your iPhone, you can use iTunes or Finder app. You need to use Mac or W
 
 ![itunes recovery mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/itunes-recovery-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Click on your **iPhone** when it appears in iTunes, then click **Summary.**
 - Now, select the “**Restore** **iPhone**” option on the right pane.
 
@@ -235,13 +228,6 @@ To reset your iPhone, you can use iTunes or Finder app. You need to use Mac or W
 - Click **Restore** to confirm. It might take a while for your iPhone to reset; don’t disconnect your device from the computer until the reset process is completed.
 
 ![reset iphone via itunes - click Restore](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/reset-iphone-via-itunes-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Once the restore process is complete, set up your iPhone as new or restore it from a backup.
 
@@ -265,6 +251,13 @@ If your iPhone is lost or stolen, you can protect your iPhone data from misuse b
 
 Use an [iCloud backup to restore](https://www.stellarinfo.com/blog/restore-iphone-from-icloud-backup/) your iPhone after a factory reset.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Activate Stellar Data Recovery for iPhone
 
 If you want to recover and save the missing or deleted iPhone data, activate Stellar Data Recovery for iPhone on your computer.
@@ -283,6 +276,19 @@ The software can be activated using the Activation Key, which you receive via em
 1. The Activation window appears. Enter the Activation Key you received in your email after purchasing the software.
 
 ![insert activation key- stellar iphone data recovery](https://www.stellarinfo.com/images/kb/Activation-iPhone-Data-Recovery-6-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click **Activate**
 2. The software verifies the entered key. After successful verification, a message appears saying ‘Activation Completed Successfully’. Click **OK.**
@@ -306,6 +312,13 @@ In case you don’t have an Activation Key, follow the below steps:
 
 Stellar Data Recovery for iPhone® Stellar Data Recovery for iPhone® is the best DIY software to recover missing or accidentally deleted Contacts, Messages, Calendar, Photos, Videos, Call History etc directly from iPhone or iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Forgot iPhone Password? – Here are the Best Solutions
 
 **Summary:** Can't remember your iPhone password? This post brings the best solutions to fix forgotten password issue and restore your data from the locked iPhone.
@@ -315,6 +328,13 @@ Setting up a password on your iPhone is a great way to keep unauthorized access 
 Password enabled iPhone ensures that no one can access it without your permission and is a great way to stop prying eyes from accessing your personal data. But what if you itself forget the password? Isn’t that a problematic situation? Obviously, as you cannot unlock your iPhone and access the data. Further, if you enter the wrong password six times, then a message is displayed stating that the iPhone has been disabled.
 
 ![forgot-iphone-password-best-solutions](https://www.stellarinfo.com/blog/wp-content/uploads/2017/10/1-2.jpg)_Figure 1. If you enter the wrong password six times in a row, then a message will be displayed stating that your iPhone has been disabled._
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you’re lucky then you might be able to unlock your iPhone and access the data stored on it else there is a probability that you may end up losing your data in the process of unlocking it.
 
@@ -329,6 +349,13 @@ If you’ve forgotten the password, these options will help you out:
 - Erase the passcode with iCloud
 - Use Recovery mode if you’re unable to connect to either iCloud or iTunes
 - Leverage an iPhone data recovery to recover deleted/lost data
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Erase your iPhone with iTunes, restore files from it and remove the passcode
 
@@ -345,13 +372,6 @@ This process will restore all your data on iPhone. Now, configure a new passcode
 ![forgot-iphone-password-best-solutions](https://www.stellarinfo.com/blog/wp-content/uploads/2017/10/3-1.png)
 
 _Figure 2 illustrates to erase the data & passcode and to restore your iPhone_
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Erase the passcode with iCloud
 
@@ -381,19 +401,6 @@ _Figure 3 illustrates to restore iPhone via recovery mode_
 
 **iii.** Wait for the process to finish and then restore your files to your iPhone and set up a new passcode
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get more help
 
 If due to any reason you lose your data stored on iPhone during the whole process, then you can utilize an [iPhone data recovery software](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) and recover all your lost data. Stellar Data Recovery for iPhone is a robust iPhone data recovery software which efficiently brings back all your lost data. Moreover, the software facilitates three recovery option namely:
@@ -407,19 +414,6 @@ If due to any reason you lose your data stored on iPhone during the whole proces
 ![Stellar Data Recovery for iPhone software](https://www.stellarinfo.com/blog/wp-content/uploads/2018/06/1-Mui.png)
 
 Figure 3 illustrates the home screen of Stellar Data Recovery for iPhone software
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **At Last**
 
@@ -437,5 +431,22 @@ After [restoring your iPhone](https://tools.techidaily.com/stellardata-recovery/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-transforming-youtube-content-using-the-power-of-imovie/"><u>[New] 2024 Approved Transforming YouTube Content Using the Power of iMovie</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-noise-reduction-software-for-video-editing/"><u>[New] Professional Noise-Reduction Software for Video Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-decibel-documentation-system-and-speech/"><u>[Updated] In 2024, Decibel Documentation System and Speech</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-razr-40-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Razr 40 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-lava-blaze-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Blaze Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-2022-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone SE (2022) Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Poco M6 Pro 4G</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/learn-the-procedure-for-automatic-video-broadcasting-on-facebook-for-2024/"><u>Learn the Procedure for Automatic Video Broadcasting on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-common-youtube-short-glitches-for-2024/"><u>Navigating Common YouTube Short Glitches for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snapdragon-x-qualcomm-demonstrates-its-capability-to-match-apples-powerful-silicon/"><u>Snapdragon X: Qualcomm Demonstrates Its Capability to Match Apple's Powerful Silicon</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-redmi-12-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Redmi 12 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-free-solution-for-unresponsive-buttons-on-hp-laptops/"><u>Trouble-Free Solution for Unresponsive Buttons on HP Laptops</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-infinix-smart-7-hd-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Infinix Smart 7 HD</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10</u></a></li>
+</ul></div>
 

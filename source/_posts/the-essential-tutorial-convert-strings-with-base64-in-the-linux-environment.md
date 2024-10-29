@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial: Convert Strings with Base64 in the Linux Environment"
-date: 2024-10-19T18:45:39.417Z
-updated: 2024-10-23T19:48:47.400Z
+date: 2024-10-23T17:57:39.929Z
+updated: 2024-10-29T17:20:03.157Z
 tags:
   - desktop
 categories:
@@ -49,21 +49,7 @@ base64 <<< 'I love Linux'
 
 ![The Linux terminal showcases how to encode a string using the base64 command with the help of here string operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Similar to the echo command, here-strings also add a newline character at the end of the string.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Encoding Files Using the base64 Command
 
@@ -81,7 +67,21 @@ base64 base.txt > output.txt
 
 ![The Linux terminal showcasing the process of encoding the content of a file to base64 and saving it to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the terminal didn't display the output. This command saved it to another file instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Decoding a base64 String Using the base64 Command
 
@@ -99,19 +99,6 @@ base64 -d <<< SG93VG9HZWVrCg==
 
  Sometimes, there might be non-alphanumeric characters in a string. You can ignore those while decoding the string by using the "-i" option.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Using Python to Encode and Decode a base64 String
 
  If you're a Python programmer or are more familiar with the [Python programming language](https://youtube-data.techidaily.com/024-approved-conveniently-connect-with-others-via-your-playlist/) than Bash, then this method will be more suitable for you. Python has a base64 module that you can use for encoding and decoding strings. You can either use the python3 terminal command or write a full program. I'll show you both ways.
@@ -123,10 +110,10 @@ echo 'I love Linux' | python3 -m base64 # Using the echo commandpython3 -m base6
 ![The Linux terminal displays the process of encoding a string to base64 using Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To decode a base64 string, all you need to do is use the "-d" flag as seen previously with the base64 command. The syntax is below:
@@ -136,16 +123,10 @@ echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​�
 ![The Linux terminal showing the process of decoding a base64 string using the Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-5.png) 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, the convenient way is to create a Python program that can handle the encoding and decoding by taking user input. First, let's create a program that will encode a string. Here's the encoding code:
@@ -155,18 +136,25 @@ echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​�
 ## Get input string from the user  
 input_string = input("Enter the string to encode: ")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Encode the string using base64  
 encoded_string = base64.b64encode(input_string.encode('utf-8'))  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Decode the encoded string to ensure it's correct (optional)  
 decoded_string = base64.b64decode(encoded_string).decode('utf-8')  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Print the encoded and decoded strings  
 print("Encoded string:", encoded_string.decode('utf-8'))  
@@ -183,6 +171,13 @@ python3 base64_encoder.py
 
         `import base64  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get input base64 string from the user  
 encoded_string = input("Enter the Base64 string to decode: ")  
 try:  
@@ -198,13 +193,6 @@ except Exception as e:
 python3 base64_decoder.py
 
 ![The Linux terminal displaying the process of decoding a base64 string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can use these Python programs to encode and decode any strings.
 
@@ -227,18 +215,20 @@ python3 base64_decoder.py
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximize-your-youtube-reach-key-tips-for-enhancing-video-seo/"><u>[Updated] 2024 Approved Maximize Your YouTube Reach Key Tips for Enhancing Video SEO</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-embrace-a-new-identity-free-fire-sound-alteration-techniques-for-beginners/"><u>2024 Approved Embrace a New Identity Free Fire Sound Alteration Techniques for Beginners</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-any-tiktok-audio-the-ultimate-cellphone-sound/"><u>2024 Approved How To Make Any TikTok Audio, the Ultimate Cellphone Sound</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-optimize-your-video-library-youtubes-to-dailymotion-directly/"><u>2024 Approved Optimize Your Video Library YouTubes to Dailymotion Directly</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-guide-pairing-your-beats-headphones-with-windows-11-the-ultimate-troubleshooting/"><u>Easy Guide: Pairing Your Beats Headphones with Windows 11 – The Ultimate Troubleshooting</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23+ in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817458455-nvidiaintel-graphics-issue-no-more-on-windows-10/"><u>Nvidia/Intel Graphics Issue No More on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger-for-2024/"><u>Transforming Trips Into Tales The Roadmap to Becoming a Travel Blogger for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/next-travel-companion-best-youtubers-list/"><u>Your Next Travel Companion Best Youtubers' List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/usion-of-youtube-beats-and-imovie-editing-magic/"><u>[New] Fusion of YouTube Beats and iMovie Editing Magic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mov-storage-solutions-maximizing-capacity-on-windows/"><u>[Updated] 2024 Approved .mov Storage Solutions Maximizing Capacity on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-ace-advertising-and-analytics-youtubes-universal-monetization-techniques-for-2024/"><u>[Updated] Ace Advertising and Analytics YouTube's Universal Monetization Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-copyright-free-audio-treasury-for-gamers-online/"><u>[Updated] Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pro-video-recording-on-iphone-meets-instant-photos/"><u>[Updated] Pro Video Recording on iPhone Meets Instant Photos</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/windows-781011-ghost/"><u>對Windows 7/8/10/11系統進行無損傷 Ghost硬碟操作：一站式指南解析</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-creativity-in-writing-unmatched-by-algorithms/"><u>Human Creativity in Writing Unmatched by Algorithms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlock-multi-window-video-experience-in-edge/"><u>In 2024, Unlock Multi-Window Video Experience in Edge</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-nubia-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Nubia</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-friendly-singing-machine-sml385btbk-top-rated-multicolor-karaoke-device-for-instant-entertainment/"><u>User-Friendly Singing Machine SML385BTBK - Top Rated, Multicolor Karaoke Device for Instant Entertainment</u></a></li>
 </ul></div>
 

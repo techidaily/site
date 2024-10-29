@@ -1,7 +1,7 @@
 ---
 title: "Solving Chrome's Security Alert During File Download: A Step-by-Step Guide"
-date: 2024-10-21T00:56:44.548Z
-updated: 2024-10-23T19:54:00.779Z
+date: 2024-10-26T20:03:51.113Z
+updated: 2024-10-29T19:08:19.998Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 * [Temporarily Disable the Security Program](https://fox-boxes.techidaily.com/2024-approved-photography-tips-for-iphone/)
 * [Disable Virus Scanning for Downloads](https://extra-approaches.techidaily.com/updated-mobile-mastery-high-shots-with-your-smartphone/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The best way to avoid the "Failed - Virus Detected" message in Chrome is to download your files straight from the official website, not some random third-party site.
@@ -27,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
  Sometimes, you might see the message "Failed - Virus Detected" when you try to download a file on Google Chrome. What does this message mean? Is it safe to bypass it? And how can you do that? Here's everything you need to know.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Chrome Shows the "Failed - Virus Detected" Message
 
  When you try to download a file from the internet using Google Chrome, it's first scanned by Chrome's built-in security system and Windows Security. If the file passes both checks, then it's downloaded to your computer. However, if Chrome or Windows Security thinks the file contains a virus, it will stop you from downloading it and show the message "Failed - Virus Detected."
 
 ![Failed - Virus Detected messages in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/failed-virus-detected-messages-in-chrome.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It is important to note that the "Failed - Virus Detected" message doesn't mean that your PC has been infected with malware; quite the opposite. It means that Google Chrome or your system's antivirus has identified and blocked a potential threat.
 
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  This warning is often accurate, but it can sometimes appear for files that you know are safe, or if you try to download them from the official website. You can verify whether Chrome is raising a false alarm by [scanning the download link](https://extra-support.techidaily.com/pinnacle-tools-for-subs-to-srt-unveiling-the-top-8-win-and-mac-software-for-2024/) with [VirusTotal](https://www.virustotal.com/gui/home/url). Simply copy the file's download link and paste it into the URL bar of the VirusTotal website.
 
 ![Download link on the VirusTotal website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-link-on-the-virustotal-website.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The website will scan the file for you. If the results show that the file contains malicious code, then Chrome was correct with its message, and you should not download the file. However, if the results show the file is safe, then it means that Chrome probably raised a false alarm.
 
@@ -77,22 +77,15 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Security option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/security-option-in-chrome-settings-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Under the Safe Browsing section, select "No Protection (Not Recommended)."
 
 ![No Protection option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/no-protection-option-in-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Turn Off" in the confirmation that appears.
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  If Chrome's security settings were responsible for the message, you should be able to download the file now. Make sure to turn Safe Browsing back on after downloading. To do that, go to the Safe Browsing section and choose "Standard Protection" or "[Enhanced Protection](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/)," depending on your security needs.
 
 ![Standard Protection option Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/standard-protection-option-chrome-settings-menu.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. Temporarily Disable the Security Program
 
@@ -115,16 +115,22 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Real-time Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-in-the-windows-security-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will temporarily [disable Windows Defender](https://tech-renaissance.techidaily.com/what-is-the-difference-between-an-ipad-and-a-tablet/). If you're using a different security program, check its user manual for instructions on temporarily turning it off.
 
  After disabling your security software, try downloading the file again. If the download succeeds, it means your security program was indeed blocking it. Make sure to re-enable your security software immediately after downloading, as leaving it disabled leaves your device vulnerable.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Disable Virus Scanning for Downloads
 
@@ -146,33 +152,33 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Key Option in the Registry Option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/key-option-in-the-registry-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **attachments** into the field to name the new key. Then, right-click the "Attachments" key, hover over "New" and choose "DWORD (32-bit) Value."
 
 ![DWORD (32-bit) Value in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dword-32-bit-value-in-the-registry-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Name the DWORD **ScanWithAntiVirus**, then double-click the "ScanWithAntiVirus" key. Type **1** in the Value data field and click "OK."
 
 ![Typing 1 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-1-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) for the changes to take effect. Upon restart, you'll be able to download the file without any problems.
 
  Once the download is finished, you must disable the registry edit so your browser (Chrome, in this case) can keep scanning files for viruses during downloads. To disable it, double-click the "ScanWithAntiVirus," type **0** in the Value data field, and click "OK." Then, restart your computer again to apply the changes.
 
 ![Typing 0 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-0-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -197,21 +203,17 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-screen-replay-applications-for-windowsmacos/"><u>[New] 2024 Approved Best Screen Replay Applications for Windows/macOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-eco-scene-blueprints-download-free-guides-for-professional-filmmakers/"><u>[New] 2024 Approved Eco-Scene Blueprints Download Free Guides for Professional Filmmakers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-compelling-spotify-campaigns-a-practical-guide/"><u>[New] In 2024, Crafting Compelling Spotify Campaigns A Practical Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-imagery-best-google-meet-screen-savers/"><u>[New] In 2024, Ideal Imagery Best Google Meet Screen Savers</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-smart-8-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Smart 8 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/elevate-your-servers-speed-and-capacity-discover-microns-mrdimms-for-the-new-intel-xeon-processors/"><u>Elevate Your Server's Speed and Capacity: Discover Micron's MRDIMMs for the New Intel Xeon Processors</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-camon-20-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Camon 20 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2013-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2013 Error Code 0x800A03EC?</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-incrementally-lower-decibels-in-logic-pro-for-2024/"><u>How to Incrementally Lower Decibels in Logic Pro for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-f5-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco F5 Pro 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-zte-blade-a73-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from ZTE Blade A73 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-the-finest-20-chatgpt-prompts-curated-via-github-platforms/"><u>Unleashing AI Potential: The Finest 20 ChatGPT Prompts Curated via Github Platforms</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-wont-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi won’t play MP4 files</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-samsung-bd-j5900-review-2023-update/"><u>[New] 2024 Approved Samsung BD-J5900 Review - 2023 Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlock-the-potential-of-your-camera-creating-stunning-slow-motion-videos-for-instagram-for-2024/"><u>[New] Unlock the Potential of Your Camera Creating Stunning Slow-Motion Videos for Instagram for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-sunset-symphony-cinematic-darkening-in-pro/"><u>[Updated] Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/collaborations-with-major-companies-like-microsoft-google-and-ibm-that-signify-growing-trust-in-the-platformamoebas-ether-dapps/"><u>Collaborations with Major Companies Like Microsoft, Google, and IBM that Signify Growing Trust in the Platform'amoebas': ['Ether', 'DApps'],</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 12 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-stealth-mode-tips-for-secret-internet-exploration/"><u>Mastering Stealth Mode: Tips for Secret Internet Exploration</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-switch-time-join-the-3-leading-stream-services/"><u>Maximize Your Switch Time: Join the 3 Leading Stream Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-windows-environment-for-seamless-vbox-use/"><u>Optimizing Your Windows Environment for Seamless VBox Use</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A25 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-samsung-galaxy-s23-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Samsung Galaxy S23</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Sony Xperia 5 V | Dr.fone</u></a></li>
 </ul></div>
 

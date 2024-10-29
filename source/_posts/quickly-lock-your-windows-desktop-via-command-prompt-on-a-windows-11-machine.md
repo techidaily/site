@@ -1,7 +1,7 @@
 ---
 title: Quickly Lock Your Window's Desktop via Command Prompt on a Windows 11 Machine
-date: 2024-10-18T20:00:06.491Z
-updated: 2024-10-23T18:17:19.212Z
+date: 2024-10-22T18:54:57.328Z
+updated: 2024-10-29T16:30:45.154Z
 tags:
   - desktop
 categories:
@@ -15,6 +15,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,10 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -43,21 +50,7 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -77,6 +70,13 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -86,10 +86,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
@@ -109,19 +109,18 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-inshot-a-guide-to-video-transition-techniques/"><u>[New] 2024 Approved Mastering Inshot A Guide to Video Transition Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-expert-advice-for-improved-minecraft-zooms/"><u>[New] Expert Advice for Improved Minecraft Zooms</u></a></li>
-<li><a href="https://fox-making.techidaily.com/accelerating-your-online-presence-strategies-for-superior-website-response-times/"><u>Accelerating Your Online Presence: Strategies for Superior Website Response Times</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/action-footage-enhanced-top-mic-picks/"><u>Action Footage Enhanced Top Mic Picks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-best-entry-level-cams-2024/"><u>Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Pro Max Data Completely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m14-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M14 4G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/sign-xls-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xls files Online for Free</u></a></li>
-<li><a href="https://driver-download.techidaily.com/speed-up-your-sound-experience-with-the-nahimic-drivers-update/"><u>Speed Up Your Sound Experience with the Nahimic Drivers Update</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-the-metaverse-essential-gear-to-consider-top-7-for-2024/"><u>Transforming the Metaverse Essential Gear to Consider (Top 7) for 2024</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-k11x-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo K11x</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10win11-install-issue-fixing-the-open-package-fail/"><u>Win10/Win11 Install Issue: Fixing the 'Open Package' Fail</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-transform-your-content-reach-with-strategic-tagging-insight/"><u>[New] In 2024, Transform Your Content Reach with Strategic Tagging Insight</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-proven-pathway-to-pure-sound/"><u>[Updated] 2024 Approved Proven Pathway to Pure Sound</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>[Updated] Sharpening Vision In-Depth HDR Techniques in PhotoShop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/st-youtube-music-reaction-video-and-how-to-make-one/"><u>10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-mini-gaming-memories-learn-to-record-minecraft-on-apple-devices/"><u>2024 Approved Mastering Mini-Gaming Memories Learn to Record Minecraft on Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467603043-are-your-iphone-pictures-really-gone-forever-discover-8-solutions/"><u>Are Your iPhone Pictures Really Gone Forever? Discover 8 Solutions!</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-a60-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel A60 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/different-versions-of-windowed-movie-crafting/"><u>Different Versions of Windowed Movie Crafting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-for-resolving-armored-core-6-fires-of-rubicon-pc-game-crashes-and-freezes/"><u>Essential Tips for Resolving Armored Core 6 (Fires of Rubicon) PC Game Crashes & Freezes</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-paradise-expertly-selected-plugins-and-sites-for-frame-upgrades-for-2024/"><u>Picture Paradise Expertly Selected Plugins & Sites for Frame Upgrades for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
 

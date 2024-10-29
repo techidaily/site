@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-10-20T01:00:04.207Z
-updated: 2024-10-23T17:32:56.245Z
+date: 2024-10-25T17:51:33.667Z
+updated: 2024-10-29T20:39:28.561Z
 tags:
   - desktop
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Install Xubuntu
 
  Xubuntu recommends at least 2GB of RAM and 1.5GHz dual-core CPU. The OS takes about 9GB of storage on your disk. And it’s compatible with 64-bit NVIDIA and AMD chips.
@@ -52,22 +59,15 @@ Close
 
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Running Xubuntu
@@ -80,32 +80,32 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Running Ubuntu
 
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
 
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
@@ -143,24 +143,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-exclusive-screensaver-pro-for-smartphones/"><u>[Updated] In 2024, Exclusive ScreenSaver Pro for Smartphones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-10-text-boosting-techniques-in-videos/"><u>[Updated] In 2024, Top 10 Text Boosting Techniques in Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-silent-to-clear-the-ultimate-guide-to-professional-audio-recording/"><u>[Updated] Silent to Clear The Ultimate Guide to Professional Audio Recording</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-earning-through-youtube-a-creators-guide/"><u>[Updated] The Path to Earning Through YouTube A Creator's Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-understanding-and-meeting-aspect-ratios-on-twitter-for-2024/"><u>[Updated] Understanding and Meeting Aspect Ratios on Twitter for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-iphone-motion-blur-effects-in-images/"><u>2024 Approved Master iPhone Motion-Blur Effects in Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-quick-insights-for-accelerating-editing-tasks-efficiently/"><u>2024 Approved Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
-<li><a href="https://discover-data.techidaily.com/easy-steps-to-reinstate-your-hp-recovery-partition-and-data/"><u>Easy Steps to Reinstate Your HP Recovery Partition and Data</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y56-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y56 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-v2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic V2 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-11-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 11 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-civi-3-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Civi 3 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Camon 20 Premier 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x-fold-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X Fold 2</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-itel-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Itel</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-y78-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo Y78 5G</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edgeplus-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge+ (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-every-story-stand-out-6-top-rated-apps-for-android-and-iphone/"><u>[New] 2024 Approved Make Every Story Stand Out 6 Top-Rated Apps for Android & iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-google-meet-setup-and-scheduling-guide/"><u>[New] 2024 Approved Mastering Google Meet Setup and Scheduling Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-behind-the-scenes-mastering-the-craft-of-streaming-archiving/"><u>[New] In 2024, Behind the Scenes Mastering the Craft of Streaming Archiving</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ending-quicktime-capture-immediate-steps/"><u>[New] In 2024, Ending QuickTime Capture Immediate Steps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[Updated] Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/efficient-leesoverblijven-mit-movavi-practische-guides-and-hetplaatse-adviezen/"><u>Efficiënt Leesoverblijven Mit Movavi: Practische Guides & Hetplaatse Adviezen</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12r-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12R phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-master-the-art-of-live-sound-capture-on-the-internet/"><u>In 2024, Master the Art of Live Sound Capture on the Internet</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-13-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 13 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-itel-p40-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P40 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-stylus-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G Stylus (2023) fingerprint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-ussd-a-comprehensive-overview-of-unstructured-service-data-technology/"><u>Unveiling USSD: A Comprehensive Overview of Unstructured Service Data Technology</u></a></li>
 </ul></div>
 

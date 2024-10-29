@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2024-10-05T03:26:39.504Z
-updated: 2024-10-06T13:01:24.131Z
+date: 2024-10-28T19:58:12.182Z
+updated: 2024-10-29T19:50:34.873Z
 tags:
   - deals
 categories:
@@ -18,10 +18,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Much as they would like you to forget, Copilot is not Microsoft’s first crack at a digital assistant. In fact, they’ve built two before this: Clippy and Cortana—the former of which we loved to hate and the latter of which we simply hated (or completely ignored).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clippy: The Assistant We All Love to Hate
@@ -42,13 +42,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Clippy would go on to frustrate users until it was disabled by default in Office XP and retired in Office 2007.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Cortana: The One That Missed the Mark
 
  Microsoft’s next attempt at a digital assistant came in 2015 when they launched Cortana, aiming to ride the voice assistant wave. Fun fact, Cortana was named after an AI character in the Halo games whose job was to support players through missions. Said AI would eventually become antagonistic and work against the player in a subsequent installment of the game. Foreshadowing?
@@ -57,11 +50,25 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![Cortana on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/07/img_55bc11439921b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It also didn't help that Cortana just wasn't a very good assistant. Simple requests like “Play some music” or “What’s the time” triggered a web search half the time, and you could probably do whatever Cortana could in less time with your keyboard and mouse.
 
  These challenges meant that Cortana struggled to amass a sizable user base. Even Microsoft didn't believe in Cortana’s future, gradually diminishing it until it was finally killed off in 2023.
 
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
 
@@ -69,25 +76,11 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![An unfinished letter in Microsoft Word and a paperclip with a textbox above it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-unfinished-letter-in-microsoft-word-and-a-paperclip-with-a-textbox-above-it.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cortana was much the same. It held the search bar hostage, and there was no simple way to disable it. Microsoft even baked Cortana into the setup process for new PCs so she was impossible to escape.
 
  In my opinion, a good assistant should help you when you need it, and get out of your way when you don’t. No one likes a backseat driver. It might seem counterintuitive, but if Copilot is to succeed, it needs to be as unobtrusive as possible.
 
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Don't Just Tell Me How—Do It for Me
 
@@ -100,6 +93,13 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Now, to be fair, [Copilot can do some things for you](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/), like turning on dark mode and opening some apps, but other things just return instructions on how to do it yourself. For example, I asked Copilot how much space I had left on my PC, and it returned instructions on how to check the storage space.
 
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Copilot, Respect My Boundaries
 
@@ -134,21 +134,22 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-revolutionizing-play-leading-vr-handwear-selections/"><u>[New] 2024 Approved Revolutionizing Play Leading VR Handwear Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-visual-identity-with-ae-titles/"><u>[New] Innovating Visual Identity with AE Titles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-restoration-tips-for-usb-headphone-users-on-windows-7-machines/"><u>Audio Restoration Tips for USB Headphone Users on Windows 7 Machines</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-11-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-gt-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme GT 5 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/crafting-a-personalized-auditory-experience-on-ios-for-2024/"><u>Crafting a Personalized Auditory Experience on iOS for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-aerial-palette-changes-get-20-free-with-pay-options-available/"><u>DJI Aerial Palette Changes - Get 20 FREE with Pay Options Available</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-xr-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone XR to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors-for-2024/"><u>Perfected Edits on the Go Leading Apps for macOS Big Sur's Video Editors for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2021-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2021 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-into-3d-designing-layered-textured-texts-psx/"><u>Step Into 3D Designing Layered, Textured Texts PSX</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Phone Pattern Lock</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-a1x-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo A1x 5G</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-the-process-of-obs-installation-on-apple-devices/"><u>[New] In 2024, Unveiling the Process of OBS Installation on Apple Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-inside-the-tech-what-is-virtual-reality-gear/"><u>[New] Inside the Tech What Is Virtual Reality Gear?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fix-frozen-mobile-youtube-videos-on-multiple-devices/"><u>[Updated] In 2024, Fix Frozen Mobile YouTube Videos on Multiple Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-superior-sites-for-selecting-storied-soundtracks/"><u>2024 Approved Superior Sites for Selecting Storied Soundtracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-verse-utilizing-chatgpt-for-writing-poetry-collections/"><u>Crafting Verse: Utilizing ChatGPT for Writing Poetry Collections</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-20c-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/game-on-end-of-fortnite-delays/"><u>Game On: End of Fortnite Delays</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a56s-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A56s 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inside-magixs-acid-pro-and-its-competitors/"><u>In 2024, Inside Magix's ACID Pro and Its Competitors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unlocking-youtubes-potential-10-mpeg-conversion-tips/"><u>In 2024, Unlocking YouTube's Potential 10 MPEG Conversion Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gamers-conquer-stray-crashes-with-these-6-effective-remedies/"><u>PC Gamers, Conquer Stray Crashes with These 6 Effective Remedies</u></a></li>
+<li><a href="https://techidaily.com/sign-wpd-file-online-add-signature-to-wpd-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wpd file Online - Add Signature to .wpd file for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-honor-70-lite-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

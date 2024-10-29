@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone XS? | Stellar
-date: 2024-09-17T18:39:43.938Z
-updated: 2024-09-23T23:24:18.689Z
+date: 2024-10-27T17:33:26.353Z
+updated: 2024-10-29T20:10:33.364Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -60,6 +60,13 @@ If you have been practicing the above steps for long, then simply connect your d
 
 **Pro Tip:** _If found dead, let your iPhone remain off for as long as possible to avoid data overwriting._
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Use iCloud to Recover Data from Dead iPhone**
 
 If you are proactively using iCloud to maintain data backup, there is a fair chance to recover your dead phone’s data from it. You can directly recover data from iCloud on another iPhone that doesn’t necessarily require connection to a laptop or computer. All you need is an iPhone that can be turned on at least and let you through the initial steps to login to your iCloud. Don’t forget to erase your dead iPhone before continuing on the new one; otherwise, you won’t get to perform the initial set-up. Follow the steps below to restore dead iPhone’s data from iCloud Backup:
@@ -85,13 +92,6 @@ Your last respite is a professional data recovery software in case a vast amount
 
 You can download the demo version of the software for assessment and buy the software to activate its key functionalities. It will activate via activation key that will be sent on your email once you purchase the software. Read this KB to learn [How to Activate Stellar Data Recovery for iPhone](https://www.stellarinfo.com/support/kb/index.php/article/activate-stellar-data-recovery-for-iphone). Additionally, using the Toolkit version of the software, identified as [Stellar Eraser for iPhone](https://www.stellarinfo.com/erase-iphone-data.php), you can permanently remove all the sensitive data stored in your dead iPhone so it won’t fall into the wrong hands.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion:**
 
 Avid iPhone users know when to stop playing with their iOS device to let it reset in case of a technical glitch. Nevertheless, not all iPhone users are aware of this practice. Consequently, we panic and keep on switching off and on our smartphones when it hangs.
@@ -112,6 +112,13 @@ Your iPhone’s touchscreen can be unresponsive for reasons like a brief hiccup 
 
 In iPhone, black screen appears due to software or hardware issues. Firmware modifications, dropping the iPhone, iOS upgrade/downgrade, and jailbreaking, are some other common reasons behind the black screen error. Learn some great solutions to [overcome the black screen of death error](https://www.stellarinfo.com/blog/best-solutions-fix-iphone-black-screen/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to recover data from dead iPhone
 
 **Summary:** Recovering data from a dead iPhone is precarious if you don’t acquire knowledge about your iOS device. Be wary of how your device works and its data backup options to avert data loss problems in the future. If your iPhone has turned dead because of a major technical glitch, you can recover the data stored in it using a reliable data recovery software. This blog encapsulates all such concrete details with a step-by-step guide to recover data from dead iPhone.
@@ -119,13 +126,6 @@ In iPhone, black screen appears due to software or hardware issues. Firmware mod
 iPhone is one of the most affluent smartphones loaded with advanced features. Most people invest in it because its upbeat features and advanced technology intrigue them. Every time Apple announces a new upgrade or introduces new features to its iOS software upgrade, iPhone fans dig deep to learn more about it.
 
 If your iPhone is dead and not working at all, and you want to learn how to recover data from dead iPhone, this blog is exclusively for you.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Why would an iPhone suddenly go dead?**
 
@@ -155,6 +155,13 @@ iTunes is one of the most coveted options to **recover data recovery from dead i
 - At the same time, take the opportunity to eliminate all the duplicate files taking unnecessary space on your hard drive. However, before making this move, save a copy of the original files in your iTunes Media Folder.
 
 ![](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/iTunes-back-up-restore-options-on-PC.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you have been practicing the above steps for long, then simply connect your device with your computer using a USB cable and follow steps to recover data from iTunes backup:
 
@@ -203,19 +210,6 @@ If your phone turns blank or dead, don’t panic and stop using your device for 
 
 If your iPhone has stopped responding to any command and you can’t even turn it off, then force shutdown and restart it. Swiftly press and release the volume up button first and repeat the same with volume down button. Now, press and hold the side button and once the Apple logo appears on the screen, release the side button too.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Why is my phone unresponsive?**
 
 Your iPhone’s touchscreen can be unresponsive for reasons like a brief hiccup or glitch that your smartphone’s inner system can’t detect or render it unresponsive. Sometimes, touch screen becomes unresponsive due to water damage or app glitch, or virus attack.
@@ -227,6 +221,13 @@ In iPhone, black screen appears due to software or hardware issues. Firmware mod
 ## Apple will delete your photos in July. Here’s what you should do
 
 Apple has recently announced that it will permanently delete photos from its users' **'My Photo Stream'** this month. This news has come as a surprise to the Apple community, as users struggle to understand the implications of this announcement and what necessary precautions can be taken. In this blog post, we will get into the details of this new move by Apple, explore the reasons behind it, and provide tips on how iPhone/iPad/Mac users can safeguard their precious photos.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **The Announcement**
 
@@ -296,13 +297,6 @@ For **iOS 15, iPadOS 15, or earlier** versions: Turn on the **iCloud Photos**
 
 **
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Don't want to use iCloud Photos?**
 
 While iCloud Photos is a convenient option for many Apple users, it's important to acknowledge that it is not the best fit for everyone. Limited free storage of 5GB or lack of cross-platform compatibility can compel Apple users to look for other alternatives.
@@ -331,6 +325,13 @@ While the new iPhones have good water resistant capabilities, this doesn’t mea
 
 This article shares several best practices that can help you save a water-damaged iPhone. But first, let’s understand how water resistant your iPhone is.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Is my iPhone water resistant?**
 
 The water resistance of the smartphones is rated by the “ingress protection” code, also called IP rating.
@@ -356,6 +357,13 @@ There are multiple types of IP ratings, but IP67 and IP68 are mainly applied to 
 
 Most iPhones offer certain level of water resistance, but it doesn’t mean an iPhone dropped in swimming pool or a bucket full of water is immune to any damage. Moreover, not every repair step will help you fix water-damaged iPhone; and some can complicate things further. Before, we start on potential steps to save your water-damaged iPhone, let’s first look at some absolute things that worsen the cause and should be avoided at all costs.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Don’t turn on your iPhone**
 
 Your iPhone will turn off automatically after being dropped in water. However, you should manually turn it off if it doesn’t turn off. Turn your phone on only if you are sure water or moisture content from the exterior and interior is completely dry. Turning on the water-damaged iPhone might cause water to reach inside the device, causing it to malfunction.
@@ -363,13 +371,6 @@ Your iPhone will turn off automatically after being dropped in water. However, y
 ### **2\. Plug it in or Use the Charging Port in Any Way**
 
 Moreover, don’t charge your iPhone battery as it can result in an electrical short circuit or even combustion, resulting in a fire. No matter how water resistant the iPhone is, it’s better to not plug it in when wet or water-damaged.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Don’t use hot air to blow dry your iPhone**
 
@@ -409,13 +410,6 @@ If your hair dryer has a cool wind setting, you can use it to dry wet iPhone. Wh
 
 Or, you can keep your iPhone under a cool air fan to dry it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **4\.** **Disassemble the phone and let it air dry**
 
 If drying the iPhone via uncooked rice method or silica gel packet doesn’t work, consider dismantling it as your last resort. You can use DIY repair tips to open the device to dry it out or go to any trusted tech expert.
@@ -424,27 +418,20 @@ _**Caution**: We wouldn’t recommend dismantling the iPhone using DIY tips as i
 
 Dismantle your iPhone carefully, air dry its interior, and assemble it back after a few hours. Also, if the Liquid Contact Indicators inside the iPhone have already detected water damage, opening the phone invalidates your warranty coverage.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5.** **Check if your warranty is still valid**
 
 If all the above efforts fail to fix the iPhone from water damage, you must check if the device’s warranty is still valid. If it is, call your manufacturer and request a repair or replacement. If it is invalid, visit an Apple Genius bar to repair your cell phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\.** **Take the phone to an approved repair shop**
 
 The longer you wait to take your iPhone to an Apple Genius bar, the more damage it incurs. If you cannot dry the wet iPhone by following the manual methods mentioned above, rush to an Apple Genius bar to get it repaired and minimize the chances of further damage.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How To Find Out If Your iPhone Has Water Damage?**
 
@@ -465,6 +452,13 @@ Let’s see various scenarios where you can recover data from a water-damaged iP
 If your iPhone won’t turn on even after drying the wet iPhone using the tips mentioned above, it has short-circuited or water has eroded some of its internal components. In such a situation, use any backup service to recover your iPhone data.
 
 If you have enabled iCloud backup on your iPhone, you can easily restore your data. You can visit the official iCloud website and log into your account to save the lost data on your computer. Or, set up your new iPhone using the existing iCloud credentials to restore the data of your previous iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **iPhone starts but data is lost**
 
@@ -504,5 +498,24 @@ If there is water in your iPhone speaker, it may not work. In such a situation, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-coders-showdown-which-codec-will-dominate-video-quality-in-2024/"><u>[New] Coders' Showdown Which Codec Will Dominate Video Quality, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transformations-unlocked-the-2-most-effective-ways-to-convert-video/"><u>[New] In 2024, Transformations Unlocked The 2 Most Effective Ways to Convert Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-audio-capture-in-windows-11/"><u>[New] Streamlining Audio Capture in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unforgettable-stop-motion-films-an-overview/"><u>2024 Approved Unforgettable Stop-Motion Films - An Overview</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/cutting-through-the-clutter-innovative-ai-strategies-for-signal-purification/"><u>Cutting Through the Clutter Innovative AI Strategies for Signal Purification</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-zero-5g-2023-turbo-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Zero 5G 2023 Turbo without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-z50-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Z50 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-se-2020-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone SE (2020) to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-to-structure-youtube-videos/"><u>In 2024, How to Structure YouTube Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unique-channel-branding-how-to-personalize-your-youtube-url/"><u>In 2024, Unique Channel Branding How to Personalize Your YouTube Url</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-wijzer-om-gratis-raam-in-wmv-formaat-te-veranderen-de-meest-gewone-movavi-oplage/"><u>Online Wijzer Om Gratis RAAM in WMV Formaat Te Veranderen - De Meest Gewone Movavi Oplage</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-speech-in-xbox-multiplayer-settings/"><u>Stealthy Speech in Xbox Multiplayer Settings</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20c-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Spark 20C Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/will-redmi-a2plus-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Redmi A2+ play AVCHD mts files?</u></a></li>
+</ul></div>
 

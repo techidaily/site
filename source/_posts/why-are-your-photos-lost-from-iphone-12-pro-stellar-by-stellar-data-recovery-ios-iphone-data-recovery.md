@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone 12 Pro? | Stellar
-date: 2024-09-18T01:54:07.321Z
-updated: 2024-09-24T06:14:13.222Z
+date: 2024-10-23T17:12:54.387Z
+updated: 2024-10-29T19:46:28.100Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -130,17 +130,17 @@ Its’ also possible that your iPhone has insufficient space, which prevents vid
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/12/Featured-Unable-to-load-Video-an-error-occurred.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 1: Restart iPhone**
@@ -195,13 +195,6 @@ You can check the available space on your iPhone or iPad by navigating to: **Set
 
 ![iPhone storage screen](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/12/ios15-iphone-12-pro-iphone-storage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Figure: iPhone storage screen_
 
 On the top right, you will see the amount of space used on your iOS device. If the space is less, remove the useless videos, photos, apps and other data on your iPhone or iPad.
@@ -216,13 +209,6 @@ If the videos don’t load on iPhone and show error, try to access them via iClo
 
 There’s also the options in _icloud.com_ to share the video via email or download to save it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 8: Repair video not loading on iPhone
 
 If you face ‘unable to load video’ an error occurred in Camera Roll videos of iPhone, the file may have corrupted.
@@ -230,6 +216,13 @@ If you face ‘unable to load video’ an error occurred in Camera Roll videos o
 Copy or transfer the problem video to your PC or Mac. Download and install a video repair software—[Stellar Repair for Video](https://www.stellarinfo.com/disk-recovery/video-repair.php)**.** It can fix file corruption in the error throwing iPhone video. The software is compatible with MP4, MOV, HEVC, video files formats used in iPhone and iPad.
 
 The software also offers a free trail wherein you can repair the corrupt video and watch its preview.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 9: Restore iPhone to factory settings**
 
@@ -266,6 +259,13 @@ Your iPhone videos may not play on Windows PC due to many reasons— the media p
 In iCloud.com, select the Photos app and click Photos. In the side bar, you will see the thumbnails of all your photos and videos. Find your video and click on it to view.
 
 ___
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best 10 iMessage Recovery Software
 
@@ -345,6 +345,13 @@ PhoneRescue is also among the best iMessage recovery software that has helped ma
 - You can preview and then choose the message before restoring them.
 - No backup is needed to recover 31 file types with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. [ApowerRescue](https://www.softpedia.com/get/Mobile-Phone-Tools/IPhone/ApowerRescue.shtml)
 
 ApowerRescue is a high-grade iMessages recovery software for iPhone users. It allows one to recover missing messages easily. ApowerRescue provides extensive device scanning for iPhones, iCloud backup, and iTunes backup to help one recover any erased data. It can recover lost information even if your gadget isn’t easily accessible, is stuck on the Apple Logo, or has a white or black screen. ApowerRescue supports up to iPhone XS Max and iPad Pro models.
@@ -409,19 +416,6 @@ Coolmuster iPhone Data Recovery is designed to improve the efficiency of data re
 - In addition, you can preview your iMessages before recovery.
 - You can also transfer data to your computer using the software.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Recovering lost data with the best iMessage Recovery Software
 
 Technological advancements have meant that there are several options available for the recovery of data. iMessages can be recovered using any software with or without iTunes/iCloud backup. However, we recommend Stellar due to its stellar record in data recovery. The software needs no introduction, and reviews have consistently pitched Stellar’s Data Recovery solutions to consumers for their ease of use and efficiency.
@@ -442,16 +436,16 @@ Deleted iMessages may seem scary, but they aren’t gone forever. You can always
 
 [![Buy Now](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/EN-BUY-NOW.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Buy Now")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Are you planning to sell or discard your iPhone? If yes, it’s important to ensure that your personal data, such as photos and videos, etc. is deleted and cannot be recovered even by a professional data recovery tool. To protect your privacy and prevent unauthorized access to your deleted iPhone photos, make sure your iPhone is wiped clean of all your previous photos before you sell, donate, or discard it.  
 
 In this blog, we will talk about different ways to delete photos from iPhones beyond the scope of recovery.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How to Delete All Photos from iPhone?**
 
@@ -479,6 +473,13 @@ You can even use iTunes to back up your iPhone photos. To do this,
 
 Once you have backed up all your photos, proceed forward with deleting them from your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 1: Delete Images From Photos and Recently Deleted Folder**
 
 Photos app saves images shot from iPhone as well as those received on chats. You can delete all the photos from your iPhone via the Photos app. Here’s how to do it.
@@ -489,6 +490,13 @@ Photos app saves images shot from iPhone as well as those received on chats. You
 - Tap on the **Trash** icon and then confirm to **delete** the photos.
 
 ![delete photos from iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/delete-photos-from-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you delete a photo from the iPhone, it’s not deleted permanently. Instead, it is moved to the **Recently Deleted** folder, where the deleted photos stay for 30 days before being permanently deleted.
 
@@ -521,19 +529,6 @@ However, remember erasing your iPhone data with the **‘Erase All Content and S
 
 ![factory reset your iPhone to erase all Photos](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/erase-all-content-and-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Don’t forget to back up your iPhone data on iCloud or iTunes before initiating the factory reset. Because this backed-up data can be accessed on your computer or new iPhone.
 
 [Stellar Eraser for iPhone](https://www.stellarinfo.com/erase-iphone-data.php) is the best way to delete permanently erase all photos as well as other data of the iPhone. The software erases all your photos, contacts, videos, chats, iMessage, browser search history, third-party apps data, and more from your iPhone.
@@ -558,13 +553,6 @@ The software works with all iPhones and iPad versions, such as iPhone 14 to lowe
 - Connect your **iPhone** to the system when prompted and click **Erase**.
 
 ![click Device to select Erase iPhone Data in Stellar Toolkit for iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-select-device-2-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click **Yes** to start the process of erasure.
 
@@ -612,5 +600,26 @@ Documents and Data folder may contain browsing history, cookies, cache, temporar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/adjust-twitter-video-excerpt-for-2024/"><u>Adjust Twitter Video Excerpt for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-newly-leaked-google-pixel-fold-2-price-release-date-and-specs-revealed/"><u>All You Need to Know About the Newly Leaked Google Pixel Fold 2: Price, Release Date & Specs Revealed!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-40-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 40 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c32-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C32 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-hot-40i-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Hot 40i Location by Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-garmin-forerunner-e945-the-pinnacle-of-gps-sport-watches-on-the-market-today/"><u>In-Depth Analysis of Garmin Forerunner E945: The Pinnacle of GPS Sport Watches on the Market Today</u></a></li>
+<li><a href="https://article-files.techidaily.com/latest-smartphones-and-their-fit-with-gear-vr-technology-for-2024/"><u>Latest Smartphones and Their Fit With Gear VR Technology for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/maintain-excellence-when-shrinking-your-videos-a-step-by-step-compression-strategy-without-compromising-on-quality/"><u>Maintain Excellence When Shrinking Your Videos - A Step-by-Step Compression Strategy Without Compromising on Quality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ps5-versus-ps5-slim-which-console-is-right-for-you/"><u>PS5 Versus PS5 Slim: Which Console Is Right for You?</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-messages-recovery-recover-deleted-messages-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-messages/"><u>Samsung Galaxy M34 5G Messages Recovery - Recover Deleted Messages from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my 13 Ultra</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211272487-9780994839534-twin-flames/"><u>Twin Flames | Free Book</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Smart 7 HD.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi support - Turn Off Screen Lock.</u></a></li>
+</ul></div>
 

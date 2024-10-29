@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-10-21T19:33:56.072Z
-updated: 2024-10-23T18:56:05.479Z
+date: 2024-10-23T18:02:36.259Z
+updated: 2024-10-29T18:02:06.250Z
 tags:
   - mobile
 categories:
@@ -28,10 +28,10 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
@@ -39,16 +39,16 @@ Bone
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -64,10 +64,10 @@ Joe Fedewa / How-To Geek
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -79,10 +79,10 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -108,21 +108,19 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nlock-free-tunes-steps-for-youtube-content-creators/"><u>[New] Unlock Free Tunes Steps for YouTube Content Creators</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722680428747-compact-100-instant-capture-cameras-in-2s/"><u>Compact $100 Instant Capture Cameras in 2S!</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-g24-power-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola G24 Power Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-ce-3-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord CE 3 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-free-video-transcoding-suite-adjust-preferences-and-profiles/"><u>Download Free Video Transcoding Suite - Adjust Preferences & Profiles</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/enhance-your-marketing-game-the-top-15-social-media-analyzers-to-increase-e-commerce/"><u>Enhance Your Marketing Game The Top 15 Social Media Analyzers to Increase E-Commerce</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-freeze-unfreezing-the-frozen-features/"><u>Facebook Freeze: Unfreezing the Frozen Features</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-youtube-determines-your-true-view-count/"><u>How YouTube Determines Your True View Count</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-moto-g34-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola Moto G34 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mirth-makers-zombie-shadowbenders-for-2024/"><u>Mirth Makers Zombie Shadowbenders for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-g310-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia G310</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/transform-your-mp4-footage-into-high-quality-content-using-movavis-editing-tool/"><u>Transform Your MP4 Footage Into High-Quality Content Using Movavi's Editing Tool</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ioneer-productions-leading-free-editors-on-android-for-2024/"><u>[New] Pioneer Productions Leading Free Editors on Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-audio-curated-list-of-top-mac-friendly-recorders-for-2024/"><u>[Updated] Elevate Your Audio Curated List of Top Mac-Friendly Recorders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-assessing-the-riches-of-mr-beast/"><u>[Updated] In 2024, Assessing the Riches of Mr. Beast</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-frameforge-review-the-ultimate-guide-to-capturing-tech/"><u>2024 Approved FrameForge Review The Ultimate Guide to Capturing Tech</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-install-kyocera-printer-drivers-in-windows/"><u>How to Easily Install KYOCERA Printer Drivers in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-12-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-poco-x5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco X5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-y78-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo Y78 5G)</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy S23 Ultra can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-slow-motion-mastery-in-phantom-cameras-for-2024/"><u>Step-by-Step Slow Motion Mastery in Phantom Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-avi-videos-top-5-methods-for-converting-online-and-offline/"><u>Transform Your AVI Videos: Top 5 Methods for Converting Online & Offline</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-11-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11</u></a></li>
 </ul></div>
 

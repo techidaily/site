@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-10-20T00:36:05.194Z
-updated: 2024-10-24T01:27:06.180Z
+date: 2024-10-23T20:58:41.198Z
+updated: 2024-10-29T18:39:21.389Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Copilot Web App
 
  Microsoft's Copilot AI assistant is available on the web in any web browser. You can simply load it up in whatever browser you use and access it from there. A better option, though, is to save it as a web app.
@@ -27,38 +34,31 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
  You can save web apps in other browsers, too. In Chrome, tap the three-dot menu button, go to More Tools > Create Shortcut, check "Open as Window", and click "Create". In Edge, click the three-dot menu button and go to Apps > Install This Site as an App.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Run the Copilot iPad App on Your Mac
 
@@ -70,16 +70,16 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
 
@@ -106,18 +106,19 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-2023s-leading-online-sound-recorders-ranked/"><u>[New] 2024 Approved 2023'S Leading Online Sound Recorders Ranked</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-premium-webcam-guide-5-best-options-with-mic-integration/"><u>[New] 2024 Approved Premium Webcam Guide 5 Best Options with Mic Integration</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ios-focused-techniques-downloading-and-saving-youtube-video/"><u>[New] IOS-Focused Techniques Downloading and Saving YouTube Video</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-stock-photos-without-watermarks-a-guide-for-2024/"><u>[Updated] Stock Photos Without Watermarks – A Guide for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-the-newest-dell-d3100-printer-driver-version-instantly-start-here/"><u>Access the Newest DELL D3100 Printer Driver Version Instantly - Start Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adaptive-learning-how-ai-modifies-web-pages/"><u>Adaptive Learning: How AI Modifies Web Pages</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-addressing-the-missing-devices-warning-in-icue/"><u>Expert Guide: Addressing the Missing Devices Warning in ICUE</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-play-7t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Play 7T Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-xiaomi-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi unlock screen</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-lava-blaze-pro-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Lava Blaze Pro 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-sony-xperia-1-v-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Sony Xperia 1 V.</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-journey-of-trust-a-guide-to-becoming-a-verified-discord-partner/"><u>[Updated] 2024 Approved The Journey of Trust A Guide to Becoming a Verified Discord Partner</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-5-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>2024 Approved Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist/"><u>From Individual Songs to a Cohesive Collection Building Your YouTube Playlist</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Realme unlock screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-common-problems-with-windows-speech-recognition-a-step-by-step-guide/"><u>Resolving Common Problems with Windows Speech Recognition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-poco-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Poco</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125962-9781609257828-the-practical-psychic/"><u>The Practical Psychic | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-computer-components-and-performance/"><u>Tom's Tech Insights: Exploring Computer Components and Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-internet-experience-with-amplifi-hd-mesh-say-goodbye-to-weak-wi-fi-areas/"><u>Transform Your Internet Experience with Amplifi HD Mesh - Say Goodbye to Weak Wi-Fi Areas</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vital-top-5-compact-action-camera-selections-for-2024/"><u>Vital Top 5 Compact Action Camera Selections for 2024</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
 

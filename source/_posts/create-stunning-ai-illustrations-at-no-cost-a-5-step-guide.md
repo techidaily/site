@@ -1,7 +1,7 @@
 ---
 title: "Create Stunning AI Illustrations at No Cost: A 5 Step Guide"
-date: 2024-10-04T22:25:59.237Z
-updated: 2024-10-05T16:11:06.291Z
+date: 2024-10-24T19:55:40.355Z
+updated: 2024-10-29T18:19:20.856Z
 tags:
   - cutting-edge
 categories:
@@ -19,28 +19,35 @@ Everyone loves to generate AI art, but no one likes to pay for it. The good news
 
  This tool used to be known as "DALL-E Mini", but had to change to [Craiyon](https://www.craiyon.com/) since the company isn't affiliated with OpenAI or its [DALL-E](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/) image generator. I want to be upfront that Craiyon doesn't produce very good results compared to most paid or free AI image generators, but it's the only free option that still has that unique "jankiness" that early AI images had. While everyone is approaching perfection with their models, Craiyon has retained that quirky charm, and so deserves some love in my opinion.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Stable Diffusion Online 
 
 ![The Stable Diffusion Online web front end with retro computer images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-10-at-13-16-37.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have a GPU with enough memory and performance, you can [run Stable Diffusion locally on your computer](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/). If not, or you don't want the hassle, then you can use this high-end image generation model via [Stable Diffusion Online](https://stablediffusionweb.com/). You can sign up and generate images for free, although you only get a limited number of credits to play with. Also, on the free plan images have a watermark, but you can always crop that out if you're smart with the aspect ratio selection. Overall, the quality of the images generated here is great and comparable to paid services like MidJourney or DALL-E.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  Ideogram 
 
 ![Ideogram website with images of retro computers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-10-at-13-22-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ideogram](https://ideogram.ai/t/explore) is a [hot new competitor to MidJourney](https://hardware-help.techidaily.com/hands-on-evaluation-of-alienware-m18-r2s-premium-keyboard-and-performance-features/) which I found to be quite promising in terms of features, but not quite there when it comes to the final quality of the results or consistency. However, one big advantage Ideogram has over MidJourney is its free tier. MidJourney used to offer a free tier, but has since ended it. So if you want something quite similar, but don't want to pay for it, give Ideogram a shot. It's definitely one of the best AI image generators on the market right now.
@@ -50,28 +57,15 @@ Everyone loves to generate AI art, but no one likes to pay for it. The good news
 ![Artbreeder prompter with images of retro computers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-10-at-14-40-58.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Artbreeder](https://www.artbreeder.com/) offers a set of different tools that let you do all sorts of creative things with images. This includes "Prompter" which is the core tool to create images from text prompts. However, there's some interesting stuff that lets you mix images, create a character with a certain pose from source images, and much more. The output is quite decent, but it works best when you provide your own source images in addition to your text prompt.
 
  The free tier comes with 10 credits per month, but you can get more by [earning achievements](https://www.artbreeder.com/achievements).
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  OpenArt 
 
@@ -100,18 +94,22 @@ Everyone loves to generate AI art, but no one likes to pay for it. The good news
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-authenticity-selfie-verification-insights/"><u>[New] In 2024, Insta Authenticity Selfie Verification Insights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-viral-velocity-on-instagram-leveraging-video-and-likes/"><u>[New] In 2024, Viral Velocity on Instagram Leveraging Video & Likes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-9-free-youtube-channel-branding-solutions/"><u>[New] Ultimate 9 Free YouTube Channel Branding Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-tailoring-your-podcast-content-with-seo-in-mind/"><u>[Updated] 2024 Approved Tailoring Your Podcast Content with SEO in Mind</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-htc-u23-phone-by-drfone-android/"><u>How to Unlock a Network Locked HTC U23 Phone?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/prime-captures-of-apples-hd-video-screenshots-under-156-chars/"><u>Prime Captures of Apple's HD Video Screenshots (Under 156 Chars)</u></a></li>
-<li><a href="https://techidaily.com/sign-dotx-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dotx file Online with DigiSigner</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-usb-failures-unraveling-the-descriptor-request-failed-issue/"><u>Solving the Mystery of USB Failures: Unraveling the 'Descriptor Request Failed' Issue</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c12-plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C12 Plus Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elevate-your-song-listening-with-these-top-6-android-apps/"><u>[New] In 2024, Elevate Your Song Listening With These Top 6 Android Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-inverted-playback-the-hidden-technique-for-a-reversed-youtube-list/"><u>[New] In 2024, Inverted Playback The Hidden Technique for a Reversed YouTube List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-cheap-cameras-for-dynamic-shots/"><u>[Updated] Top 10 Cheap Cameras For Dynamic Shots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-techniques-for-iphone-sideways-shots/"><u>2024 Approved Innovative Techniques for iPhone Sideways Shots</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-key-insights-fifa-content-on-youtube-charted/"><u>2024 Approved Key Insights FIFA Content on YouTube Charted</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-s17e-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S17e in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a1x-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A1x 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-sustainable-cinematography-gear-for-2024/"><u>Premier Sustainable Cinematography Gear for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/purestream-app-audit-report-for-2024/"><u>PureStream App Audit Report for 2024</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-retrieval-tool-restore-lost-data-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Samsung Data Retrieval tool – restore lost data from Samsung Galaxy S24</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-xr-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone XR Activation Lock</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 

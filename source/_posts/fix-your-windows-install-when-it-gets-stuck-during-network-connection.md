@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2024-10-17T21:15:47.116Z
-updated: 2024-10-23T17:04:45.701Z
+date: 2024-10-25T19:29:54.794Z
+updated: 2024-10-29T20:39:21.217Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 * [Use the Command Prompt to Bypass the Internet Requirement](https://vp-tips.techidaily.com/updated-2024-approved-ranking-relaxing-front-row-activities-that-arent-sports/)
 * [End the Network Connection Flow Process](https://win11.techidaily.com/tackling-blank-screen-issues-after-attempting-to-connect/)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If Windows 11 installation gets stuck at the "Let's connect to a network" screen, double-check that your internet is working. Restarting your router might fix the issue, or you can use your mobile hotspot as a temporary solution.
@@ -24,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 * Alternatively, you can bypass the internet requirement through Task Manager. While on the "Let's connect to a network" screen, open Command Prompt, then type **taskmgr** and press Enter. In Task Manager, right-click the process called "Network Connection Flow" and choose "End task" from the context menu.
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  1\. Check Your Connection
 
@@ -42,10 +56,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
@@ -60,21 +74,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. End the Network Connection Flow Process
 
@@ -95,10 +95,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
@@ -122,24 +122,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-superhero-sprouts-top-kid-friendly-gaming-stories/"><u>[New] 2024 Approved Superhero Sprouts Top Kid-Friendly Gaming Stories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-apeaksoft-2023-screens-recording-insights/"><u>[New] In 2024, Apeaksoft 2023 Screens Recording Insights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-quickening-vimeo-media-load-times-for-2024/"><u>[New] Quickening Vimeo Media Load Times for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tools-for-every-videographers-kit/"><u>[Updated] In 2024, Essential Tools for Every Videographer's Kit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-2023-free-compre-folios/"><u>[Updated] Innovative 2023 Free, Compre Folios</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>[Updated] Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-circle-construction-techniques-for-the-aspiring-minecraft-artist/"><u>2024 Approved Circle Construction Techniques for the Aspiring Minecraft Artist</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro Max iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial/"><u>In 2024, 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2023-causes-and-solutions-stellar-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2023 Causes & Solutions | Stellar</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola G54 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-motorola-edge-40-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/sleepy-systems-unlocked-keyboard-and-mouse-fixes-for-winos/"><u>Sleepy Systems Unlocked: Keyboard & Mouse Fixes for WinOS</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-a1-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on A1 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-xiaomi-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Xiaomi .</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-bokeh-effects-apps-for-ios-and-android/"><u>Updated Best Bokeh Effects Apps for iOS and Android</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-premiere-samsung-gear-vr-playlist/"><u>[New] 2024 Approved Premiere Samsung Gear VR Playlist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flash-fiction-directorial-map/"><u>[New] Flash Fiction Directorial Map</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-maximizing-collaboration-with-zoom-meeting-recordings/"><u>[Updated] In 2024, Maximizing Collaboration with Zoom Meeting Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/delving-into-instagrams-videography-restriction-for-2024/"><u>Delving Into Instagram's Videography Restriction for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-poco-c51-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Poco C51 Quickly | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-enhancing-experience-best-audio-sources-for-unpack-videos/"><u>In 2024, Enhancing Experience Best Audio Sources for Unpack Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-meme-tastic-creativity-tips-on-standing-out-in-virtual-worlds/"><u>In 2024, Meme-Tastic Creativity Tips on Standing Out in Virtual Worlds</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-mkv-video-trimmers-2023s-top-3-choices-for-2024/"><u>New Mac MKV Video Trimmers 2023S Top 3 Choices for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF files on my Mac using tool | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-logiteche-g933-headset-easily-with-these-tips/"><u>Resolve Silent Logiteche G933 Headset Easily with These Tips</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24plus-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S24+ won’t play MKV movies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-to-restore-a-damaged-microsoft-excel-spreadsheet/"><u>Simple Steps to Restore a Damaged Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-tecno-phantom-v-flip-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-c67-4g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme C67 4G</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2023-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2023 | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-realme-gt-5-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Realme GT 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
 

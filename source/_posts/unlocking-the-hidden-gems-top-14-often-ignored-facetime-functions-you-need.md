@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Hidden Gems: Top 14 Often-Ignored FaceTime Functions You Need"
-date: 2024-10-22T00:42:47.387Z
-updated: 2024-10-23T23:13:03.804Z
+date: 2024-10-27T19:15:41.197Z
+updated: 2024-10-29T21:01:46.458Z
 tags:
   - mobile
 categories:
@@ -46,23 +46,9 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
 ![Apple iOS 18 FaceTime Settings Eye Contact Enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-facetime-settings-eye-contact-enabled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [With fake eye contact](https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-c300-drfone-by-drfone-virtual-android/), AI digitally modifies the video feed so that you don't appear looking sideways, which is rude because you're disrespecting my time and not paying attention.
 
  Instead of faking it, always focus on the other party for better video-calling etiquette.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Make Conversational Text Calls With RTT
 
@@ -102,6 +88,13 @@ Apple
 
  Sidecar isn't the only way to use second-screen functionality. [Check out Duet Display](https://screen-video-capture.techidaily.com/new-groundbreiting-recording-solutions-for-environmental-films-for-2024/), which brings similar features to unsupported Macs and platforms like Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. Record Important Calls for Reference
 
  I use the built-in [iOS Screen Recording](https://buynow-reviews.techidaily.com/review-of-cubefits-terramat-enhance-workouts-in-a-stationary-position/) feature and the [macOS Screenshot app](https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-13-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) to record important calls with mutual consent for safekeeping and reference. With the call active, touch the Screen Recording icon in the iPhone's Control Center.
@@ -112,18 +105,25 @@ Apple
 
 ![Using the Record Selected Portion feature in the Mac's Screenshot app to record a FaceTime video call.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-screenshot-app-record-selected-portion-quicktime-player.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or open QuickTime Player and click File > New Screen Recording. Hit the downward-pointed arrow, select your iPhone under both Camera and Microphone, then enable the "Maximum" quality setting. Start recording, then open FaceTime on your iPhone and initiate a call.
 
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
- iOS 18 enables call recording in some countries with an automatic warning to the other party that the call is being recorded to comply with consent laws.
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ iOS 18 enables call recording in some countries with an automatic warning to the other party that the call is being recorded to comply with consent laws.
 
 ##  6\. Take Control of Another Device
 
@@ -135,18 +135,18 @@ Apple
 
  The other party will need to choose "Open" next to Join Screen Sharing in the notification that appears on their device to accept your invite and start sharing their screen with you.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. Boost Your Mac's Image Quality With Continuity Camera
 
  I'm ashamed of my MacBook's potato cam but don't get me started on my Thunderbolt Display's 720p webcam. God bless Continuity Camera, one of Apple's best features!
 
 ![Using an iPhone as a webcam using Continuity Camera for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/macos-ventura-macbook-pro-iphone-13-pro-continuity-camera-desk-view-hero.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -168,6 +168,13 @@ Close
 
 Christian Zibreg / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Save FaceTime Snapshots as Live Photos
 
  I use this helpful feature whenever I'd like to capture short snapshots of my favorite video conversations with loved ones to cherish those moments later. Select "Allow Live Photos to be captured during Video calls" in FaceTime > Settings > General on macOS.
@@ -175,10 +182,10 @@ Christian Zibreg / How-To Geek
 ![Apple macOS Sequoia FaceTime App Settings General FaceTime Live Photos Enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-settings-general-facetime-live-photos-enabled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On iOS, enable "FaceTime Live Photos" in Settings > FaceTime.
@@ -194,13 +201,6 @@ Christian Zibreg / How-To Geek
 ![FaceTime video call on iPhone displaying a notification that a Live Photo has been taken.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-facetime-app-video-call-live-photos-notification.jpg) 
 
  Look for your image in the Live Photos album in the Photos app, where you can [turn your Live Photo into an animated GIF](https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  9\. FaceTime With Android or Windows Friends
 
@@ -236,13 +236,6 @@ Close
 
  Handoff must be enabled in Settings > General > AirPlay & Handoff on your iPhone. On a Mac, go to System Settings > General > AirDrop & Handoff and enable "Allow Handoff between this Mac and your iCloud devices."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  12\. Collaborate on Projects or Documents
 
  You can invite people to work on a document together, though the process is a bit convoluted. After starting a FaceTime call, you must switch to an app that supports collaboration, such as Pages, Keynote, Numbers, Freeform, Safari, Reminders, or Notes.
@@ -257,13 +250,26 @@ Close
 
 ![The FaceTime for Mac menu with the keyboard shortcuts higlhighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-menu-keyboard-shortcuts-highlighted.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I've memorized two combinations for in-call control. One takes FaceTime full screen by pressing Control+Command+F because who wants to video chat in a window? The other switches between portrait and landscape mode with the Command+R combo. This also changes video orientation for the other party.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  14\. Reduce Background Noise on Your iPhone
@@ -295,16 +301,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-a-guide-to-establishing-a-vlog-centered-on-merchandise-assessments/"><u>[New] 2024 Approved A Guide to Establishing a Vlog Centered on Merchandise Assessments</u></a></li>
-<li><a href="https://win-dash.techidaily.com/convert-your-youtube-content-to-60fps-mp4-a-comprehensive-guide-without-costs/"><u>Convert Your YouTube Content to 60Fps MP4: A Comprehensive Guide Without Costs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhancing-your-video-impact-a-compreranble-plan-for-youtube-success-for-2024/"><u>Enhancing Your Video Impact A Compreranble Plan for YouTube Success for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-recording-to-releasing-editing-in-garageband-for-2024/"><u>From Recording to Releasing Editing in GarageBand for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-x-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-g2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo G2 Phones with/without a PC</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y27-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y27 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a56s-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-20-racing-games-for-bicyclists-for-2024/"><u>Top 20 Racing Games for Bicyclists for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-navigating-the-world-of-pc-screencasters-with-ease/"><u>[New] 2024 Approved Navigating the World of PC Screencasters with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[New] In 2024, Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters/"><u>[New] In 2024, Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>[Updated] Navigating the Landscape Intricacies of Using the Background Eraser Feature</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-speeding-up-projects-without-compromising-quality/"><u>[Updated] Speeding Up Projects Without Compromising Quality</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quintessential-screenplays-among-varied-genres/"><u>Quintessential Screenplays Among Varied Genres</u></a></li>
+<li><a href="https://techidaily.com/remove-rog-phone-8-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove ROG Phone 8 Pro unlock screen</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a05-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy A05 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/step-by-step-selection-of-tiktok-screenshots/"><u>Step-by-Step Selection of TikTok Screenshots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/talking-bots-face-off-which-one-triumphs-more/"><u>Talking Bots Face-Off: Which One Triumphs More?</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-p55t-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on P55T without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-huawei-nova-y71-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2010-file-not-opening-error-stellar-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2010 File Not Opening Error | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-x100-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo X100</u></a></li>
 </ul></div>
 

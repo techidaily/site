@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-10-20T01:35:04.778Z
-updated: 2024-10-24T01:13:30.078Z
+date: 2024-10-27T16:14:38.313Z
+updated: 2024-10-29T19:47:04.981Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Identify Music From the Menu Bar or Control Center
 
  In macOS, you can identify songs playing around you, online, or in apps—including while wearing AirPods—using the menu bar or Control Center. You just need to enable the features to do so.
@@ -38,10 +45,10 @@ Close
  Download the free [Shazam Mac app](https://apps.apple.com/app/id897118787) to access additional features. With it, you can view time-synced lyrics, change the sound input, enable the always-listening Auto Shazam mode, share identified songs via Messages, open them on Spotify, Deezer, YouTube Music, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to View Your Shazam History
@@ -54,6 +61,13 @@ Close
 
 ![Music Recognition in macOS menu bar displaying Shazam history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-menu-bar-music-recognition-history-apple-music-trashcan-icons-highlighted.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To automatically back up your Shazam history to iCloud to access it on other devices using the same Apple ID, turn on "Music Recognition" in System Settings > \[your Apple ID\] > iCloud > Show More Apps.
 
 ##  How to Identify a Song With Siri
@@ -62,13 +76,6 @@ Close
 
 ![Siri on Mac using Music Recognition to Shazam a song.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sinoma-14-4-siri-assistant-music-recognition-shazam-song-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A successful match will produce a notification revealing the identified tune. Of course, you'll need to ensure [Siri is enabled on your Mac](https://ai-topics.techidaily.com/new-what-are-ai-tools-for-2024/) to do this.
 
 ##  How to Launch Music Recognition via a Keyboard Shortcut
@@ -76,13 +83,6 @@ Close
  Shazam lets you set a custom keyboard shortcut, but if you don't have the app installed, you can configure the ready-made Shazam shortcut to run via a keyboard combination.
 
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
@@ -94,14 +94,14 @@ Close
 
 ![The Shazam shortcut in macOS displaying music recognition menu, with the Copy to Clipboard option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shazam-shortcut-results-menu-options.png) 
 
- The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
-
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
 
 ##  More Ways to Identify Music
 
@@ -124,18 +124,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-global-cloud-savings-summary-comparing-and-choosing-the-cheapest/"><u>[New] 2024 Approved Global Cloud Savings Summary Comparing and Choosing the Cheapest</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-top-tier-content-guild/"><u>[New] In 2024, The Top Tier Content Guild</u></a></li>
-<li><a href="https://article-posts.techidaily.com/crafting-content-that-wins-on-ig-unboxing-edition-for-2024/"><u>Crafting Content That Wins on IG Unboxing Edition for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-g24-power-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola G24 Power Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>In 2024, Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-13-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Pro Max Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-xs-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone XS Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-choosing-superior-external-drive-units/"><u>Ultimate Guide to Choosing Superior External Drive Units</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-13t-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi 13T won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streaming-success-capturing-dota-2s-epic-battles-2enas/"><u>[Updated] 2024 Approved Streaming Success Capturing Dota 2'S Epic Battles (2Enas)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/api-success-stories-with-chatgpt-innovation/"><u>API Success Stories with ChatGPT Innovation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-audio-quality-reviving-your-disabled-dolby-headphone-feature-in-win-10-read-this/"><u>Enhance Audio Quality: Reviving Your Disabled Dolby Headphone Feature in Win 10? Read This!✨</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-salvage-with-windows-essential-tool/"><u>File Salvage with Windows Essential Tool</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v27-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V27 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-civi-3-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Xiaomi Civi 3 using Video Repair Utility?</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-embrace-effortless-storage-our-20-most-trusted-free-cloud-service-choices-up-to-1tb/"><u>In 2024, Embrace Effortless Storage - Our 20 Most Trusted FREE Cloud Service Choices (Up To 1TB)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ios-device-integration-with-android-images/"><u>In 2024, IOS Device Integration with Android Images</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-speedy-way-to-measure-available-ram-in-windows-a-clear-user-friendly-guide/"><u>The Speedy Way to Measure Available RAM in Windows - A Clear, User-Friendly Guide</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-red-magic-8s-proplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Red Magic 8S Pro+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-voyage-navigating-through-dall-e-iiis-imaginative-landscapes/"><u>Visual Voyage: Navigating Through DALL-E III’s Imaginative Landscapes</u></a></li>
 </ul></div>
 

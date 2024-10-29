@@ -1,7 +1,7 @@
 ---
 title: Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
-date: 2024-10-01T08:12:47.001Z
-updated: 2024-10-06T09:44:06.208Z
+date: 2024-10-23T19:52:47.070Z
+updated: 2024-10-29T17:57:31.232Z
 tags:
   - cutting-edge
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Get a Quick Excel Formula From ChatGPT
 
  If you dread the mere thought of opening Excel, let alone creating formulas, you've come to the right place. ChatGPT offers you an easy way to create Excel formulas with zero practical experience required.
@@ -34,6 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  All you have to do is give ChatGPT an explanation of what you want to do, and it'll give you a formula, along with detailed instructions on how to implement it. Just make sure to mention the range (columns and rows) that you want to apply the formula to, and it'll do the rest for you. In this example, I have an assortment of orders for various items with varying prices and profit margins.
 
 ![A list of orders for mugs, spoons, teapots, and kettles in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/test-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  My goal is to calculate the revenue and profit for each order. While the formula required to do this isn't complex, let's just assume that I knew nothing about Excel, and it was my first day on the job. I'd turn to ChatGPT and ask it for a formula:
 
@@ -43,27 +57,27 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
@@ -73,25 +87,11 @@ Close
 
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  You Can Create Formatting Rules With ChatGPT
 
  Excel has a complex interface that makes it hard to navigate, especially for novices, and conditional formatting rules require you to poke around to figure them out. In the following example, I have a list of articles with columns that track whether they have been written and have photos.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
 
@@ -138,20 +138,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-best-free-youtube-comment-finder-you-should-try-for-2024/"><u>[Updated] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonic-havens-expert-picks-of-ringtone-download-sites-for-2024/"><u>Harmonic Havens Expert Picks of Ringtone Download Sites for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Nubia Red Magic 9 Pro Phone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v12-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.2 file when manual method fails | Stellar</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-c53-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme C53)</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a15-4g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy A15 4G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme 11 Pro</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/spectacle-of-speed-simulators-top-5-for-2024/"><u>Spectacle of Speed Simulators (Top 5) for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transferer-un-fichier-amv-vers-wmv-sur-internet-gratuite-methode-de-convertisseur/"><u>Transférer Un Fichier AMV Vers WMV Sur Internet Gratuite - Méthode De Convertisseur</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 13 Pro Max? | Stellar</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kinemaster-tools-for-cohesive-narrative-flow/"><u>[New] Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-asus-rog-phone-7-ultimate-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Asus ROG Phone 7 Ultimate Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-encompassing-insight-understanding-the-google-podcast-app/"><u>In 2024, Encompassing Insight Understanding the Google Podcast App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-on-the-sony-playstation-5-and-spider-man-miles-morales-bundle-with-up-to-110-discount-at-amazon-prime-day-zdnet-news/"><u>Save Big on the Sony PlayStation 5 and Spider-Man: Miles Morales Bundle with Up to $110 Discount at Amazon Prime Day - ZDNet News</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-like-an-aussie-essential-slang-and-idioms-guide/"><u>Speak Like an Aussie: Essential Slang & Idioms Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-google-pixel-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Google Pixel 8 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

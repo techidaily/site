@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone"
-date: 2024-10-16T23:34:13.591Z
-updated: 2024-10-23T21:53:53.807Z
+date: 2024-10-26T16:17:05.196Z
+updated: 2024-10-29T17:19:03.333Z
 tags:
   - mobile
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  If you have an old Android phone or two lying around your house collecting dust, this article is for you. Phones are versatile devices that can do just about anything, so there's no need to buy specialized gadgets when an old phone does the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1  Repurpose It as a Storage Device 
@@ -54,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  There are [tools and apps you can use](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/) to manage what your kids can do on their phones and how much they can use it. This way, your child can have a way to contact you without getting glued to their screen. Old phones also make for pretty decent [cameras for kids](https://article-helps.techidaily.com/new-maximize-your-iphone-xs-selfie-potential-top-free-apps-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4  Use It as a TV Remote and Streaming Device 
 
  Many old Android phones have [IR blasters](https://tech-renaissance.techidaily.com/ultimate-tips-for-successfully-playing-pokemon-unite-online/), meaning you can use them as a traditional remote for devices with IR sensors, like TVs. If your old phone doesn't have one, you can still connect it to your smart TV and use [screen mirroring](https://extra-information.techidaily.com/photoshops-jiggle-minimizing-effective-or-overstated/) to watch a TV show.
 
  Granted, you can do this with your main phone as well, but I like to immerse myself when I watch content. It's better to have a dedicated phone remote that isn't logged in to anything, especially with an easily distracted family.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Use It as a Mini Car Multimedia and Dash Cam 
 
@@ -75,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Joe Fedewa / How-To Geek
 
  If you want the [Android Auto experience on your bicycle](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), just use your old Android phone. This way, you won't damage your main phone in the case of an accident, and the constant vibrations won't break your camera's optical image stabilization (OIS).
@@ -90,15 +83,36 @@ Joe Fedewa / How-To Geek
 
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8  Use It as a PC Webcam 
 
 ![Woman in a meeting on a laptop using a phone as a webcam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ditch-the-webcam-i-use-my-android-phone-camera-to-look-better-on-video-calls.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/view-over-businesslady-shoulder-seated-workplace-1704165919) / Shutterstock
 
  Cheap webcams suck. What's worse is that the drivers with some cameras (like mine) are a nightmare to install. Since even old smartphones have pretty good cameras, they can make for a solid webcam. Just grab a simple [monitor phone mount](https://www.amazon.com/dp/B0BN3YLBLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) and use a spare USB port to charge the phone.
 
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
@@ -109,10 +123,10 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
@@ -121,25 +135,11 @@ Jason Montoya / How-To Geek
 
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11  Use It as a PC Media or DAW Controller 
 
  The [Unified Remote](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.Relmtech.Remote) app allows you to control your PC from your phone. One useful function is that you can use the phone as a general media remote. It essentially gives you media keys if you don't have dedicated media keys on your keyboard. There used to be a more advanced app called PCVolumeControl, but the project seems to have been abandoned.
 
  If you're a music producer, you can leave an old phone permanently on a phone holder to use it as a DAW controller. The touch screen makes for a perfect DAW control surface, as demonstrated in the following video:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 12  Transform It Into a Picture Frame or Calendar 
 
@@ -166,17 +166,24 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-excellent-screen-capture-apps-for-linux-enthusiasts/"><u>[New] 2024 Approved Excellent Screen Capture Apps for Linux Enthusiasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-asmr-for-restful-slumber-for-2024/"><u>[New] Mastering ASMR for Restful Slumber for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlocking-secrets-the-battle-of-biometric-systems-in-phones-for-2024/"><u>[Updated] Unlocking Secrets The Battle of Biometric Systems in Phones for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-reversing-a-youtube-strike-a-guide/"><u>2024 Approved Reversing a YouTube Strike A Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-iphone-snapshots-a-guide-to-restoring-camera-focusing-functionality/"><u>Enhance iPhone Snapshots: A Guide to Restoring Camera Focusing Functionality</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Data Completely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-civi-3-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Civi 3 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-perfecting-video-cuts-the-role-of-visual-callouts-in-edits/"><u>In 2024, Perfecting Video Cuts The Role of Visual Callouts in Edits</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-video-in-magix-movie-edit-pro-for-2024/"><u>New How to Remove Audio From Video in Magix Movie Edit Pro for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-s24-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy S24 Ultra Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-90-gt-by-fonelab-android-recover-photos/"><u>Undelete lost photos from 90 GT.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-easy-routines-for-documenting-instagram-stories/"><u>[New] 2024 Approved Easy Routines for Documenting Instagram Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-steady-your-screen-a-guide-to-decelerating-snapchats-playback/"><u>[New] In 2024, Steady Your Screen A Guide to Decelerating Snapchat's Playback</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-personalize-and-protect-youtube-channel-url-made-simple-for-2024/"><u>[Updated] Personalize & Protect YouTube Channel URL Made Simple for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-infinix-note-30-vip-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-initiating-a-forced-reboot-on-your-iphone-and-accessing-recovery-mode/"><u>Guide: Initiating a Forced Reboot on Your iPhone & Accessing Recovery Mode</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a59-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A59 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-f54-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy F54 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-14-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 14 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-v2-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic V2 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-go-2023-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark Go (2023) phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-huawei-nova-y91-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Huawei Nova Y91 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-asus-rog-phone-8-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Asus ROG Phone 8 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g04-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G04</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-samsung-galaxy-s24-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Samsung Galaxy S24.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-secrets-of-advanced-camera-settings/"><u>Unveiling the Secrets of Advanced Camera Settings</u></a></li>
 </ul></div>
 

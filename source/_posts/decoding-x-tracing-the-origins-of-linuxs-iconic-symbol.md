@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-10-20T18:10:05.298Z
-updated: 2024-10-23T18:11:11.862Z
+date: 2024-10-25T21:15:20.243Z
+updated: 2024-10-29T16:14:28.878Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,19 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Many operating systems have X in their name to pay homage to Unix.
@@ -26,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -49,23 +69,9 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
 
@@ -85,13 +91,6 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
 ##  Linus Torvalds and Freax
@@ -107,10 +106,10 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -128,6 +127,13 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -150,24 +156,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gopros-new-era-a-detailed-max-360-vs-hero-11-analysis/"><u>[New] GoPro's New Era A Detailed Max 360 vs Hero 11 Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-level-techniques-for-attaching-srt-to-mp4-clips/"><u>[New] Master Level Techniques for Attaching SRT to MP4 Clips</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-essential-20-country-melodies-to-unwind-and-groove-at-home-tiktok/"><u>[Updated] In 2024, Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-master-videoleap-to-capture-up-close-footage-for-2024/"><u>[Updated] Master Videoleap to Capture Up-Close Footage for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-videos-with-these-proven-seo-tools-for-more-clicks/"><u>2024 Approved Elevate Your Videos with These Proven SEO Tools for More Clicks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-screen-shots-to-speech-navigating-the-best-37-applications-for-video-to-text-translation/"><u>2024 Approved From Screen Shots to Speech Navigating the Best 37 Applications for Video-to-Text Translation</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/fursten-sie-sich-rolf-zuckowskis-beruhmte-weihnachtshymnen-an-gratis-download-und-viel-freude-im-advent/"><u>Fürsten Sie Sich Rolf Zuckowskis Berühmte Weihnachtshymnen An: Gratis-Download Und Viel Freude Im Advent</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a54-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A54 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-g2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo G2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-13t-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 13T Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-m6-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-8t-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 8T 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-functionality-via-plugin-addition/"><u>Maximizing ChatGPT Functionality via Plugin Addition</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-itel-p40-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Itel P40 password or pattern lock</u></a></li>
-<li><a href="https://fox-that.techidaily.com/whatsapp-photo-woes-correcting-camera-distortion-effortlessly/"><u>WhatsApp Photo Woes? Correcting Camera Distortion Effortlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-offline-masterpieces-top-10-ios-game-selections-without-internet-for-2024/"><u>[New] Offline Masterpieces Top 10 iOS Game Selections Without Internet for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-visual-impact-journey-begins-with-our-50-free-banners-in-2024/"><u>[New] Your Visual Impact Journey Begins with Our 50 FREE Banners, In 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-observing-to-involved-the-tiktok-life-journey/"><u>[Updated] In 2024, From Observing to Involved The TikTok Life Journey</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-multitasking-mastery-activities-while-embracing-soundtracks-for-2024/"><u>[Updated] Multitasking Mastery Activities While Embracing Soundtracks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-are-video-reviews-of-goods-paid-for-by-creators/"><u>2024 Approved Are Video Reviews of Goods Paid For by Creators?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-c55-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme C55 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-zero-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Zero 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-p55-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel P55 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-8t-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 8T 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s23-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S23</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pros-verdict-4-superior-fullscreen-capture-applications/"><u>Pro's Verdict 4 Superior Fullscreen Capture Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/professional-insights-into-recording-quality-conversations-on-facetime/"><u>Professional Insights Into Recording Quality Conversations on FaceTime</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-yuva-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Yuva 2</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y02t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y02T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-x50iplus-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor X50i+</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a24-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A24 Phone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 </ul></div>
 

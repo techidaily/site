@@ -1,7 +1,7 @@
 ---
 title: "Elevate WhatsApp Conversations: Top Tips for Creative Message Formatting"
-date: 2024-10-16T17:58:31.222Z
-updated: 2024-10-23T18:25:37.335Z
+date: 2024-10-23T21:13:22.004Z
+updated: 2024-10-29T18:52:48.357Z
 tags:
   - web
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![Bold text whatsapp formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/bold-text-whatsapp-formatting.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Italic
 
  Italic text is great for adding emphasis without being too overpowering. You might use italics to add emphasis to an opinion or a word that you want to stress gently. Just put underscores (\_) around the word or phrase.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![Italic text in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-19-59-am.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Strikethrough
 
  Do you want to show something that’s no longer relevant or make a correction? Use strikethrough by placing tildes (\~) around the text. Strikethrough text can be used for humor, to show edits, or to indicate something that's been completed or canceled. It adds a playful touch to your messages and can make corrections less formal.
@@ -52,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  For example, you might use strikethrough to humorously show a change of plans: \~Going to the gym\~ Watching Netflix instead.
 
 ![Struckthrough text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-19-59-am-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Monospace
 
@@ -62,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  Example: \`\`\`This is monospace text.\`\`\`
 
 ![Monospace text in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-29-43-am.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Inline Code
 
@@ -83,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  Inline code is quite like the monospace text. The major change in output is that the inline code comes out highlighted.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Quote
@@ -98,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  Example: > This is a quote.
 
 ![Quoted text in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-31-30-am.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Bulleted List
 
@@ -123,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![Bulletted List in WhatsApp text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-32-05-am.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Numbered List
@@ -143,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![Numbered list in WhatsApp text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-32-46-am.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Combining Formatting
 
  Why stick to just one format when you can combine them? Mix bold, italic, strikethrough, and more for greater emphasis.
@@ -159,10 +159,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![A WhatsApp text with different format types](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-34-07-am.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Combining formats can help make your message clear and visually interesting. It allows you to emphasize different parts of your message in various ways, adding depth and creativity to your communication.
@@ -174,10 +174,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![WhatsApp text highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/easy-formatting-whatsapp.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  WhatsApp Formatting on Desktop vs. Mobile
@@ -201,18 +201,19 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-next-gen-online-meeting-apps-azoom-no-more/"><u>[New] 2024 Approved Next-Gen Online Meeting Apps Azoom No More</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-essential-guide-to-androids-best-video-editors/"><u>[New] In 2024, The Essential Guide to Android's Best Video Editors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-revolutionizing-gameplay-with-innovative-file-logging-tools-for-2024/"><u>[New] Revolutionizing Gameplay with Innovative File Logging Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-play-7t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Play 7T without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-setup-the-top-quality-4k-dslr-mounts-guide/"><u>In 2024, Premium Setup The Top-Quality 4K DSLR Mounts Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/spezialisierte-technische-hilfe-fur-winx-dvd-ripping-and-videobearbeitungssoftware-im-internet/"><u>Spezialisierte Technische Hilfe Für WinX DVD Ripping & Videobearbeitungssoftware Im Internet</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-no-sync-option-on-steam-library-error/"><u>Tackling the No Sync Option on Steam Library Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/walmart-sale-save-24-on-apple-airtag-4-pack-during-labor-day-special-exclusive-deals-from-zdnet/"><u>Walmart Sale: Save $24 on Apple AirTag 4-Pack During Labor Day Special - Exclusive Deals From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-13-pro-5g-wont-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi Redmi Note 13 Pro 5G won’t play MKV movies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-chromes-pip-feature-across-devices/"><u>[New] In 2024, Navigating Chrome's PIP Feature Across Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-art-of-concluding-your-videos-powerfully-for-2024/"><u>[New] The Art of Concluding Your Videos Powerfully for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-guide-posting-shorts-on-youtube-from-pcmobile-devices-for-2024/"><u>[Updated] Step-by-Step Guide Posting Shorts on YouTube From PC/Mobile Devices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquering-low-light-with-iphones-advanced-hdr-techniques/"><u>2024 Approved Conquering Low Light with iPhone’s Advanced HDR Techniques</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-convenient-methods-for-recording-playtime-footage/"><u>In 2024, Convenient Methods for Recording Playtime Footage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lenovo-thinkphone-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lenovo ThinkPhone Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-spark-go-2024-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Spark Go (2024) Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-c22-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from C22</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/windows-routine-clean-up-stellar-erase-for-secure-file-removal/"><u>Windows Routine Clean-Up: Stellar Erase for Secure File Removal</u></a></li>
 </ul></div>
 

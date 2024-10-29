@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-10-12T21:51:27.118Z
-updated: 2024-10-17T20:47:53.386Z
+date: 2024-10-26T17:56:12.701Z
+updated: 2024-10-29T19:52:25.614Z
 tags:
   - deals
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell offers a straightforward way to delete files and folders on your Windows 11 or Windows 10 PC. You can remove folders, all files inside a folder, specific files from the specified directory, and so on using just a few commands. Here's how to do that.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Before You Begin: How to Find a File or Folder’s Full Path
 
  To remove files or folders from your Windows PC, you’ll need the item’s full path. If you know [how to get file or folder paths](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), skip to the relevant section below. If you aren't sure how to copy a file or folder’s full path, we’ll show you how.
@@ -37,6 +44,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows' context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-copy-file-folder-path-windows.jpg) 
 
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Delete a Specific File Using PowerShell
 
@@ -72,26 +86,6 @@ Remove-Item "C:\Users\username\Desktop\Old Files"
 
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Delete All Files in a Folder But Keep the Folder
 
  If you want to remove all files from a folder but retain the folder, use the "Remove-Item" cmdlet as follows.
@@ -109,10 +103,10 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files From a Folder and Its Subfolders
@@ -132,10 +126,10 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
@@ -175,18 +169,17 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-5-budget-friendly-video-effect-tools/"><u>[New] 2024 Approved Top 5 Budget-Friendly Video Effect Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-guide-to-mastering-slug-line-crafting/"><u>[New] In 2024, Step-by-Step Guide to Mastering Slug Line Crafting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-actor-rights-free-movie-downloads-license/"><u>[Updated] Actor Rights Free Movie Downloads License</u></a></li>
-<li><a href="https://techidaily.com/aragon-research-recognizes-abbyy-as-top-performer-in-document-analysis-for-2019/"><u>Aragon Research Recognizes ABBYY as Top Performer in Document Analysis for 2019</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-guide-to-the-abbyy-flexicapture-cloud-services-agreement-in-the-united-states/"><u>Comprehensive Guide to the ABBYY FlexiCapture Cloud Services Agreement in the United States</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversione-gratuita-da-mp2-ad-aac-su-internet-tramite-movavi/"><u>Conversione Gratuita Da MP2 Ad AAC Su Internet Tramite Movavi</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-your-online-meeting-with-customized-google-meet/"><u>Elevate Your Online Meeting with Customized Google Meet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-childrens-films-a-step-by-step-guide-to-streaming-and-downloading-for-offline-viewing/"><u>Free Children's Films: A Step-by-Step Guide to Streaming and Downloading for Offline Viewing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>In 2024, A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
-<li><a href="https://techidaily.com/inside-look-into-abbyys-hierarchy-of-success-the-visionary-leaders-from-founders-to-cfo-who-steered-its-course/"><u>Inside Look Into ABBYY's Hierarchy of Success: The Visionary Leaders From Founders to CFO Who Steered Its Course</u></a></li>
-<li><a href="https://techidaily.com/leverage-seamless-personalization-features-via-cutting-edge-cookiebot-solutions/"><u>Leverage Seamless Personalization Features via Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-boosting-your-business-with-advanced-process-analytics-insights-from-the-abbyy-experts/"><u>Ultimate Guide: Boosting Your Business with Advanced Process Analytics - Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-tailoring-trending-topics-to-endings-for-2024/"><u>[Updated] Tailoring Trending Topics to Endings for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-6-social-media-platforms-for-business/"><u>2024 Approved Best 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-thumbnail-creation-for-youtube-macos-style/"><u>2024 Approved Professional Thumbnail Creation for YouTube (macOS Style)</u></a></li>
+<li><a href="https://article-files.techidaily.com/chucklebox-build-memes-free-of-charge-for-2024/"><u>ChuckleBox Build Memes Free of Charge for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 12 Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-picks-for-the-ultimate-offline-game-experience-on-android/"><u>In 2024, Top Picks for the Ultimate Offline Game Experience on Android</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-the-process-of-moving-recovered-email-archives-from-edb-files-to-active-exchange-platforms/"><u>Mastering the Process of Moving Recovered Email Archives From .EDB Files to Active Exchange Platforms</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-y27s-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo Y27s</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-c67-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme C67 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia .</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-s23plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel S23+.</u></a></li>
 </ul></div>
 

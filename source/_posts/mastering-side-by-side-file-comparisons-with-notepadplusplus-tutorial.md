@@ -1,7 +1,7 @@
 ---
 title: Mastering Side-by-Side File Comparisons with Notepad++ Tutorial
-date: 2024-10-22T18:08:43.036Z
-updated: 2024-10-23T21:02:12.743Z
+date: 2024-10-22T19:32:22.775Z
+updated: 2024-10-29T16:23:08.386Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The installation path and 'Next' highlighted in Notepad++'s installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-notepad-plus-plus-installation-path.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Enable the "Plugins Admin" option in the component list on the "Choose Components" screen. Then, at the bottom, select "Next."
 
 !['Plugins Admin' and 'Next' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-install-plugins-admin-notepad-plus-plus.png) 
@@ -40,16 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  When you’ve installed the app, click "Finish."
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2\. Install the Compare Plugin Using Plugins Admin
@@ -74,13 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Notepad++ will relaunch with the Compare plugin installed.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 3\. Compare Two Files in Notepad++
 
  Now that you’ve finished adding the Compare plugin, let’s use it to compare your files.
@@ -89,56 +83,56 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Open' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-open-files-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After opening both files, from the app’s menu bar, select Plugins > Compare > Compare.
 
 !['Compare' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-compare-files-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Compare plugin will do its job, which is to start highlighting the differences in your files. You’ll instantly see your files’ differences highlighted.
 
 ![The file content differences highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-file-differences-highlighted-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By default, the app shows your files in a vertical view. To change the view to horizontal mode, right-click the border dividing your files and choose "Rotate to Left" or "Rotate to Right."
 
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
 
 !['Settings' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-compare-plugin-settings-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the "Compare Plugins" window, in the "Color Settings" section, choose the various colors you’d like to use. Then, click "OK." To revert your changes, choose "Reset."
 
 !['Color Settings' and 'OK' highlighted on the 'Compare Plugin Settings' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-change-color-settings-compare-plugin-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
 !['Clear All Compares' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-clear-comparison-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s how you quickly know the difference between two files using a free and open-source app on your computer. Notepad++ is a great [plain text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/), and it can natively do all sorts of useful things besides compare files, like [replace specific characters with new lines](https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/). It shines even more when you start adding plugins.
@@ -158,24 +152,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-transform-speeches-into-animated-videos/"><u>[New] Transform Speeches Into Animated Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-assemble-your-unique-google-cardboard-virtual-reality-for-2024/"><u>[Updated] Assemble Your Unique Google Cardboard Virtual Reality for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[Updated] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capture-and-save-windows-screen-shots-made-simple/"><u>Capture and Save Windows Screen Shots Made Simple</u></a></li>
-<li><a href="https://games-able.techidaily.com/chdmans-secret-for-slimming-retro-games-without-loss-of-functionality/"><u>CHDMAN's Secret for Slimming Retro Games without Loss of Functionality</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-tecno-pova-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Pova 5 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-gt-5-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme GT 5 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-nfl-games-on-sundays-for-free-special-promotion-from-verizon/"><u>Enjoy NFL Games on Sundays For Free – Special Promotion From Verizon!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-updates-secure-new-drivers-for-your-hp-officejet-4500-today/"><u>Essential Updates: Secure New Drivers for Your HP Officejet 4500 Today!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-f34-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy F34 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-reno-10-proplus-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo Reno 10 Pro+ 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/is-your-asus-rog-phone-7-ultimate-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Asus ROG Phone 7 Ultimate working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-nokia-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Nokia</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/revive-lost-memories-step-by-step-guide-for-minolta-camera-photo-rescue/"><u>Revive Lost Memories: Step-by-Step Guide for Minolta Camera Photo Rescue</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-solutions-for-troubleshooting-guided-access-issues-on-ios-devices/"><u>Top 6 Solutions for Troubleshooting Guided Access Issues on iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-motorola-edge-40-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-use-xbox-screen-recorder-for-2024/"><u>[Updated] How to Use Xbox Screen Recorder for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-smooth-techniques-painless-ios-screen-recordings/"><u>[Updated] In 2024, Smooth Techniques Painless iOS Screen Recordings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-process-of-enlisting-videos-on-youtube-shelves/"><u>[Updated] Navigating the Process of Enlisting Videos on YouTube Shelves</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-guide-to-captivating-podcast-covers/"><u>2024 Approved The Definitive Guide to Captivating Podcast Covers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-ai-artistry-for-free-with-dall-e-3-and-microsoft-bing/"><u>Experience AI Artistry for Free with DALL-E 3 & Microsoft Bing</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max iOS System? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-p40plus-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel P40+</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-n3-flip-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find N3 Flip phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/quick-and-powerful-video-transcoding-with-handbrake-gpu-enhanced-encoding-explained-in-faqs/"><u>Quick and Powerful Video Transcoding with HandBrake: GPU-Enhanced Encoding Explained in FAQs</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-passworda05s-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(A05s)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-10-22T20:37:37.764Z
-updated: 2024-10-23T21:15:29.272Z
+date: 2024-10-23T16:26:08.084Z
+updated: 2024-10-29T16:03:22.718Z
 tags:
   - web
 categories:
@@ -38,27 +38,35 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>[Updated] 2024 Approved Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unveiling-the-prospects-of-splitcam-for-videographers/"><u>[Updated] 2024 Approved Unveiling the Prospects of SplitCam for Videographers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-fortnite-login-errors-easy-tips-for-uninterrupted-gaming/"><u>Bypassing Fortnite Login Errors: Easy Tips for Uninterrupted Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cosa-fare-per-convertire-un-file-mov-in-formato-mp4-con-vlc-su-pc-e-mac/"><u>Cosa Fare per Convertire Un File Mov in Formato MP4 Con VLC Su PC E Mac</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-se-2022-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone SE (2022) If Youve Tried Everything</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-note-50-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Note 50 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s Plus iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y02t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y02T without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-80-pro-straight-screen-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 80 Pro Straight Screen Edition phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-edge-40-neo-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Edge 40 Neo by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-11-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 11 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://win-web3.techidaily.com/stop-your-downloads-from-disappearing-on-windows-11-with-these-4-effective-fixes/"><u>Stop Your Downloads From Disappearing on Windows 11 with These 4 Effective Fixes!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-budget-friendly-prefab-homes-building-your-dream-house-from-a-box/"><u>Top 5 Budget-Friendly Prefab Homes: Building Your Dream House From a Box</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pro-3-in-perspective-the-latest-from-ion-air-reviewed/"><u>[Updated] In 2024, Pro 3 in Perspective The Latest From ION Air Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-selecting-the-ideal-ringtone-for-your-pixel-for-2024/"><u>[Updated] Selecting the Ideal Ringtone for Your Pixel for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>[Updated] Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-blueprint-for-tiktok-on-zoom-platforms/"><u>2024 Approved The Essential Blueprint for TikTok on Zoom Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-tutorial-for-installing-windows-11-from-scratch-to-brand-new-hardware/"><u>Beginner's Tutorial for Installing Windows 11 From Scratch to Brand-New Hardware</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-samsung-galaxy-a15-4g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Samsung Galaxy A15 4G.</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-camon-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Camon 20 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-prime-locations-for-buying-cutting-edge-cell-phones/"><u>Discover Prime Locations for Buying Cutting-Edge Cell Phones</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-top-social-media-platforms-facebook-twitter-and-instagram-vs-youtube/"><u>Explore Top Social Media Platforms: Facebook, Twitter & Instagram vs YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a34-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A34 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://techidaily.com/is-your-poco-x6-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco X6 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-c55-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C55 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-gionee-f3-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Gionee F3 Pro</u></a></li>
+<li><a href="https://techidaily.com/t2-pro-5g-music-recovery-recover-deleted-music-from-t2-pro-5g-by-fonelab-android-recover-music/"><u>T2 Pro 5G Music Recovery - Recover Deleted Music from T2 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-y100i-power-5g-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo Y100i Power 5G)</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

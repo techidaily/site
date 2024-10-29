@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10"
-date: 2024-10-04T03:56:30.706Z
-updated: 2024-10-06T12:00:35.558Z
+date: 2024-10-26T20:12:49.402Z
+updated: 2024-10-29T20:41:43.525Z
 tags:
   - deals
 categories:
@@ -18,6 +18,19 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 * [Clear Windows Update Cache Using Disk Cleanup](https://instagram-video-recordings.techidaily.com/in-2024-cracking-the-code-of-true-instagram-photos/)
 * [Clear Windows Update Cache Using Command Prompt](https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11x-5g-drfone-by-drfone-virtual/)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To delete the update cache, open Run, type **services.msc**, right-click "Windows Update," and choose "Stop." Keep the window open.
@@ -26,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
  Both Windows 11 and Windows 10 make it super easy to clear your Windows Update cache. You can use a graphical method or a command line option to delete the saved update files. We’ll show you your available options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Should You Clear Your Windows Update Cache?
 
  There are many reasons you might want to clear your Windows Update cache.
@@ -33,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  You might be [facing issues finding or installing updates](https://extra-guidance.techidaily.com/2024-approved-smoothing-out-the-rough-edges-in-photo-booth-videos/), and clearing the cache often fixes the problem. Clearing the cache fixes issues with Windows Updates by forcing Windows to re-download all the required files.
 
  Another reason is to [free up storage space](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/). Update cache files often use a huge chunk of the storage, and you can reclaim that by deleting those cached files. (Windows does delete some update files after installing those updates, but not all.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using File Explorer
 
@@ -61,11 +74,25 @@ C:\Windows\SoftwareDistribution\
 
 ![The trash can icon highlighted for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-delete-windows-update-cache-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Close File Explorer and [empty the Recycle Bin](https://some-guidance.techidaily.com/new-the-complete-powerdirector-2024-users-handbook/).
 
  Then, return to the "Services" window, right-click "Windows Update," and choose "Start."
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This ensures your PC can continue to look for the latest updates.
 
@@ -77,6 +104,13 @@ C:\Windows\SoftwareDistribution\
 
 ![Disk Cleanup highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-run-disk-cleanup.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select your Windows installation drive and choose "OK."
 
 ![The Windows installation drive and 'OK' highlighted in Disk Cleanup prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-choose-windows-drive.jpg) 
@@ -84,13 +118,6 @@ C:\Windows\SoftwareDistribution\
  Select "Clean Up System Files."
 
 !['Clean Up System Files' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-clean-up-system-files.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose your Windows installation drive again and select "OK."
 
@@ -100,13 +127,6 @@ C:\Windows\SoftwareDistribution\
 
  The tool will begin cleaning up the update cache files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Clear Windows Update Cache Using Command Prompt
 
  If you prefer command line methods over graphical ones, use a few commands in Command Prompt (or PowerShell) to remove the update cache.
@@ -114,13 +134,6 @@ C:\Windows\SoftwareDistribution\
  Begin by opening the Start Menu, searching for **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-run-cmd-as-admin.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the "User Account Control" (UAC) prompt, select "Yes."
 
@@ -131,13 +144,6 @@ net stop bits`
     
 ![Commands to stop certain Windows services typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-stop-services.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next up, run the following command to make the Windows Update cache folder the current working directory.
 
 cd %windir%\SoftwareDistribution
@@ -147,6 +153,13 @@ cd %windir%\SoftwareDistribution
 del /f /s /q *.*
 
 ![Commands to clear the Windows Update cache typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-clear-update-cache-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After clearing the cache, restart the services you stopped above. Do that by typing the following commands and pressing Enter after each line.
 
@@ -176,13 +189,6 @@ net start bits`
 
 ![Windows' 'Save As' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-create-update-cache-removal-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the future, to clear your Windows Update cache using the script, right-click the script file and select "Run as Administrator." In the User Account Control prompt, choose "Yes." The script will stop certain services, deletes the update cache files, and restarts the stopped services.
 
 ---
@@ -204,22 +210,18 @@ net start bits`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-unlocking-the-potential-of-harmonics-in-your-facebook-videos/"><u>[New] Unlocking the Potential of Harmonics in Your Facebook Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-channel-excellence-with-ideas-and-vision-for-2024/"><u>[Updated] Elevating Channel Excellence with Ideas & Vision for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-beam-your-ideas-master-screencast-with-ezvide-video-maker/"><u>2024 Approved Beam Your Ideas Master Screencast with EZvide Video Maker</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-picture-unraveling-the-google-podcast-application/"><u>2024 Approved Full Picture Unraveling the Google Podcast Application</u></a></li>
-<li><a href="https://extra-information.techidaily.com/around-the-clock-vision-versus-multiplanar-exposures-for-2024/"><u>Around-the-Clock Vision Versus Multiplanar Exposures for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canon-sx70s-zoom-unleashed-a-perfect-choice/"><u>Canon SX70's Zoom Unleashed: A Perfect Choice?</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c12-plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C12 Plus Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/kill-the-glitches-expert-advice-for-a-steady-run-of-halo-infinite-on-windows-machines/"><u>Kill the Glitches: Expert Advice for a Steady Run of Halo Infinite on Windows Machines</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-connectivity-challenges-in-winmc-minecraft/"><u>Navigating Connectivity Challenges in WinMC Minecraft</u></a></li>
-<li><a href="https://techidaily.com/remove-oneplus-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove OnePlus unlock screen</u></a></li>
-<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-passwordvivo-y36-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo Y36)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-methods-to-boost-your-pcs-performance-swiftly/"><u>Top 7 Methods to Boost Your PC's Performance Swiftly</u></a></li>
-<li><a href="https://techidaily.com/vivo-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-12-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 12 takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-ranked-mac-gif-converter/"><u>[New] In 2024, Top-Ranked Mac GIF Converter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-audio-designers-for-iphone-ringtones/"><u>[New] Leading Audio Designers for iPhone Ringtones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-taming-the-obs-timeline-glitches/"><u>[Updated] In 2024, Taming the OBS Timeline Glitches</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-mov-to-mp3-downloader-effortless-media-format-switching-with-movavi/"><u>Free Online MOV to MP3 Downloader - Effortless Media Format Switching with Movavi</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-12-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi 12 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c210-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C210 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-f34-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F34 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg3620-driver-version-available-for-windows-10817-users/"><u>Latest Canon PIXMA MG3620 Driver Version Available for Windows 10/8.1/7 Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-trasforma-i-tuoi-video-flv-in-mp4-gratis-e-protetto-da-right-click-aac/"><u>Movavi - Trasforma I Tuoi Video FLV in MP4 Gratis E Protetto Da Right-Click (AAC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-tekken-8-failure-to-start-on-your-pc-a-step-by-step-guide/"><u>Solving the Issue of Tekken 8 Failure to Start on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-reno-10-proplus-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo Reno 10 Pro+ 5G</u></a></li>
 </ul></div>
 

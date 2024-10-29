@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2024-10-19T17:29:23.647Z
-updated: 2024-10-23T23:06:54.397Z
+date: 2024-10-27T20:57:44.502Z
+updated: 2024-10-29T18:34:06.777Z
 tags:
   - web
 categories:
@@ -19,22 +19,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Over the past few months I've noticed a worrying trend in my Facebook feed. People I know in real life are pushing a variety of very sketchy "investment" opportunities with "evidence" of the enormous payouts they've received. It shouldn't have to be said, but please don't fall for this!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Facebook Accounts Are Getting Hacked
 
 [Facebook account hacking](https://youtube-sure.techidaily.com/ed-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/) is a pernicious issue, and even tech-savvy users can get caught out since these attacks are so relentless. You need to be lucky all the time, but the hacker only has to be lucky once. If nothing else, this means you should always treat anything posted by your friends on Facebook as potentially suspicious. Most importantly, if you have another way of contacting someone besides Facebook, you should confirm any information they post on a separate channel. Give them a call, or call someone who lives with them, and confirm the information before acting on it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Criminals Know You Trust Your Friends More Than Strangers
 
  Facebook accounts are valuable to hackers for a variety of reasons. First, if they manage to hack one account, it becomes easy to hack more accounts. Usually, a compromised account will send out a malware-infected link to other people in the network. Since the link is apparently coming from someone they know, people open it uncritically. Then _their_ networks get infected the same way, and so on.
 
 ![An example of a trading scam on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trading-scam.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 An example of a trading offer. Note how the text invites users to send direct messages.
 
@@ -48,22 +55,15 @@ An example of a trading offer. Note how the text invites users to send direct me
 
  Although I know people personally who have been victims of these scams, and I have plenty of people in my Facebook feed who have clearly compromised accounts, or in some cases seem to be complicit, I have opted not to post any screenshots that can potentially be traced back to specific people. However, my aim here is to warn you against this entire class of scam, not the specific approach scammers are taking at the moment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Those Banking Screenshots Are Easy to Fake
 
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-usa-january-5-2021-1887366490)_
@@ -76,16 +76,16 @@ _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-us
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
  At first, I was convinced that all of these accounts were simply hacked, but then some of them started posting testimonial videos. It occurred to me that these could be [AI deepfakes](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/), but looking closely at them for the telltale signs, it doesn't seem that way. Which suggests that some of these people may be complicit in the scams. However, deepfake technology has advanced to the point where this is also a totally plausible answer. Either way, you should find these videos equally unconvincing regardless of whether they are faked or not.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Never Invest Money Without Licensed Help
 
@@ -108,15 +108,16 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-earning-through-youtube-an-overview/"><u>[New] 2024 Approved Earning Through YouTube An Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[New] In 2024, Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
-<li><a href="https://fox-links.techidaily.com/expertise-in-format-switching-srt-to-advanced-standards/"><u>Expertise in Format Switching SRT to Advanced Standards</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967083012-get-the-latest-hp-officejet-pro-product-model-number-drivers-for-your-pc-now/"><u>Get the Latest HP OfficeJet Pro ([Product Model Number]) Drivers for Your PC Now!</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-se-2020-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-tips-for-uploading-external-urls-to-ig/"><u>In 2024, Tips for Uploading External URLs to IG</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-moto-g-power-analysis-exceptional-endurance-meets-style/"><u>In-Depth Moto G Power Analysis: Exceptional Endurance Meets Style</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Xiaomi</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-moto-g04-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Moto G04 without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-x50i-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor X50i Reset Code | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-mac-user-manual-for-installing-and-configuring-movavi-software/"><u>Comprehensive Mac User Manual for Installing and Configuring Movavi Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-guide-downloading-and-setting-up-logitech-driving-software-for-windows-os/"><u>Easy Install Guide: Downloading and Setting Up Logitech Driving Software for Windows OS</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ignite-your-narratives-complimentary-fb-apps-for-everyday-users/"><u>Ignite Your Narratives Complimentary FB Apps for Everyday Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-100-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 100 Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-7-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 7 In Different Conditionsin</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-year-end-roundup-top-youtube-music-reaction-videos/"><u>In 2024, Year-End Roundup Top YouTube Music Reaction Videos</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel S23+ | Dr.fone</u></a></li>
 </ul></div>
 

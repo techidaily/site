@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Undiscovered Secrets in Windows 11: Boost Your Productivity!"
-date: 2024-10-03T08:24:24.548Z
-updated: 2024-10-06T06:46:28.387Z
+date: 2024-10-27T18:06:51.134Z
+updated: 2024-10-29T20:04:13.087Z
 tags:
   - deals
 categories:
@@ -34,27 +34,20 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![An instance of different Windows privacy and security settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-privacy-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By default, everything is turned on. Use the toggle buttons to turn off the data you share with Windows.
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, return to the "Privacy & Security" menu and go to "Activity History" under Windows Permissions.
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This setting tracks the websites you browse and the apps you use on your system. Use the toggle button to turn it off. Then click the "Clear History" button to delete previously collected activity history.
 
@@ -64,24 +57,18 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Different privacy and security settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diagnostics-and-feedback-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Toggle the buttons to turn off sending all types of diagnostic data. Then press the "Delete" button to clear any previously collected data.
 
 ![Diagnostics data collection settigns on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-diagnostics-data-collection-on-windows.png) 
 
  There are more [privacy settings on Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) that you can change for a [better Windows user experience](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Live Captions Anywhere
 
@@ -105,16 +92,16 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Accessbility settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/accessbility-settings-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turn on "Voice Access." Then press "I Agree" when the popup appears.
 
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
 
@@ -154,7 +141,21 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Scrolling Over the Volume Icon to Change the Volume
 
@@ -163,10 +164,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Instant Photo Transfer From Android
@@ -181,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
 
 ##  Start Button Shortcuts
@@ -198,13 +192,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  OCR in the Snipping Tool
 
  If you need to quickly extract some text from an image, the Windows Snipping Tool can help you with that. It's known as the [Text Actions feature](https://fox-hovers.techidaily.com/updated-2024-approved-mastering-time-warp-in-video-editing/). Open the Snipping Tool and [take a screenshot](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/) of the image that you want to extract text from. If the photo is already on your PC, you can right-click it and open it in Snipping Tool.
@@ -212,6 +199,13 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  After that, press the Text Actions button from the top menu. You can then click the "Copy All Text" button to copy all the text in the picture. You can also manually select text using your mouse and copy only specific portions. If there is any sensitive information in the picture such as phone numbers or emails, you can redact it too.
 
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Built-in Image Editing in the Photos App
 
@@ -222,10 +216,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  No More Hiding Behind the Windows
@@ -247,15 +241,16 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ignite-interest-a-list-of-30-video-themes/"><u>[New] 2024 Approved Ignite Interest A List of 30 Video Themes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-perfect-livestream-match-10-top-tier-platform-recommendations/"><u>[New] Perfect Livestream Match 10 Top-Tier Platform Recommendations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-game-on-mobile-funimate-apk-setup-simplified/"><u>[Updated] In 2024, Game On Mobile Funimate APK Setup Simplified</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-get-the-most-out-of-your-streamlabs-obs-setup/"><u>How to Get the Most Out of Your Streamlabs OBS Setup</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-x50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-7-hd-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 7 HD phone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-g54-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola G54 5G Is Unlocked</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for G54 5G</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-soar-high-and-stream-straight-dji-drone-techniques-for-facebook-live/"><u>[New] 2024 Approved Soar High & Stream Straight - DJI Drone Techniques for Facebook Live</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-virtual-havens-of-adventure-but-not-like-gta/"><u>[New] 2024 Approved Virtual Havens of Adventure (But Not Like GTA)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-apowersofts-new-screen-recording-tech-for-enhanced-pc-captures/"><u>[New] In 2024, Apowersoft’s New Screen Recording Tech for Enhanced PC Captures</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-retro-revelry-on-snapchat-camera-roll-insights/"><u>[New] In 2024, Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-culinary-kings-and-queens-youtube-food-experts-for-2024/"><u>[Updated] Culinary Kings & Queens YouTube Food Experts for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-90-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 90 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-stabilizer-websites-smooth-out-your-footage/"><u>New Best Free Video Stabilizer Websites Smooth Out Your Footage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-presentation-projecting-windows-desktop-onto-television-with-googles-chromecast/"><u>Wireless Presentation: Projecting Windows Desktop Onto Television with Google's Chromecast</u></a></li>
 </ul></div>
 

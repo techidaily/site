@@ -1,7 +1,7 @@
 ---
 title: Why Stellar Data Recovery for iPhone XR takes time in scanning my iPhone? | Stellar
-date: 2024-09-20T17:01:04.391Z
-updated: 2024-09-23T20:06:41.409Z
+date: 2024-10-22T20:41:17.057Z
+updated: 2024-10-29T19:58:12.611Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -51,13 +51,6 @@ If you have synced your iPhone to iCloud backup, restore missing contact names a
 
 ![how to restore contacts on iPhone from iCloud](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/1-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Toggle OFF and turn ON **Contacts** again
 
 ![recover deleted contacts from iCloud](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/2-1.png)
@@ -103,16 +96,16 @@ There is a possibility that your device has all the contacts, but they are not s
 
 ![Stellar Data Recovery for iPhone- recover from iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/1-Mui.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - It will show you the iOS devices connected to your system. Select your device and click **Scan**
 
 ![Stellar Data Recovery for iPhone- Select Device](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/2recover-file2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - After scanning, select **Contacts** on your left pane; all the contacts will be displayed in the right pane.
 -  Then, Select All or particular items by clicking on the associated checkbox.
@@ -121,17 +114,10 @@ There is a possibility that your device has all the contacts, but they are not s
 ![Stellar Data Recovery for iPhone- Save recovered data from iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/5recover-file6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Restore from iCloud Backup**
@@ -144,22 +130,15 @@ Recovery from iCloud Backup allows you to selectively recover deleted contacts f
 
 ![Stellar Data Recovery for iPhone- recover from iCloud](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/iCloud-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Enter the Apple ID and Password to get the list of available backup files.
 
 ![Stellar Data Recovery for iPhone- sign-in to iCloud](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/iCloud-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Select the backup file and click **Scan**
@@ -167,10 +146,16 @@ Recovery from iCloud Backup allows you to selectively recover deleted contacts f
 ![Stellar Data Recovery for iPhone- recover from iCloud](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/iCloud-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - After scanning, select “Contacts” on your left pane, all the contacts in the selected backup file will be displayed in the right pane.
@@ -180,6 +165,13 @@ Recovery from iCloud Backup allows you to selectively recover deleted contacts f
 - Then, Select All or selective items by clicking on the associated checkbox.
 
 ![Stellar Data Recovery for iPhone- save iCloud data](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/iCloud-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Click on Save and browse the desired location to save the recovered contacts.
 
@@ -215,20 +207,34 @@ Minor changes in the iPhone Settings can also help restore deleted contacts. Try
 ![Change Contacts' groups settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/123-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Click on **Done** (top right)
 - Check if you got back all your contacts
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2: Reset the Network Connections**
 
 - Under **Settings** > **General** > **Reset** > **Reset Network Settings**
 
 ![Reset iPhone Network Connections](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/02/main-qimg-164d17fa45a35b970a0c4651fa2c690a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Enter your passcode
 - Choose **Reset Network Settings** to continue ignoring the message that this action will delete all your network settings.
@@ -290,5 +296,24 @@ The software lets you preview, select, recover, and also search for specific pho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-eliminating-iphoneandroid-issues-with-fb-message-video-sharing/"><u>[New] In 2024, Eliminating iPhone/Android Issues with FB Message Video Sharing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crafting-cinematic-audio-in-inshot-videos/"><u>[Updated] 2024 Approved Crafting Cinematic Audio in InShot Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-simplified-guide-to-switching-clownfish-voices-on-win/"><u>[Updated] Simplified Guide to Switching Clownfish Voices on Win</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exploring-the-full-potential-of-obs-screen-capture/"><u>2024 Approved Exploring the Full Potential of OBS Screen Capture</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoid-interrupting-allow-the-speaker-to-finish-their-thoughts-before-responding-or-asking-questions/"><u>Avoid Interrupting Allow the Speaker to Finish Their Thoughts Before Responding or Asking Questions</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-v-purse-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor V Purse Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/graphical-glimpse-radeons-resurgence/"><u>Graphical Glimpse Radeon's Resurgence</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nubia-z50-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nubia Z50 Ultra Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g14-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G14 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-note-30-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Note 30 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-download-kinemaster-for-macstep-by-step-guide-for-2024/"><u>New Download KineMaster for MacStep-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-zoom-integration-joining-and-scheduling-made-simple-for-2024/"><u>Seamless Zoom Integration Joining & Scheduling Made Simple for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-google-pixel-8-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-play-8t-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor Play 8T</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-a60-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of A60?</u></a></li>
+</ul></div>
 

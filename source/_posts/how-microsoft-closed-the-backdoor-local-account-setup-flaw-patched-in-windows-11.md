@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-10-02T11:30:56.257Z
-updated: 2024-10-06T06:24:36.252Z
+date: 2024-10-23T18:59:34.757Z
+updated: 2024-10-29T18:43:55.644Z
 tags:
   - deals
 categories:
@@ -40,31 +40,27 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>[New] Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-concept-to-completion-building-effective-facebook-covers/"><u>[Updated] 2024 Approved From Concept to Completion Building Effective Facebook Covers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-free-and-open-source-video-capturing-tools-for-2024/"><u>[Updated] Free & Open Source Video Capturing Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sensory-storytelling-crafting-engaging-food-videos/"><u>2024 Approved Sensory Storytelling Crafting Engaging Food Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722183839212-chatgpt-revolutionizes-creation-craft-your-own-custom-designed-gpt-models-like-never-before/"><u>ChatGPT Revolutionizes Creation: Craft Your Own Custom-Designed GPT Models Like Never Before!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-geforce-rtx-3080-ti-drivers-compatible-with-windows-11-10-and-7/"><u>Download the Newest GeForce RTX 3080 Ti Drivers: Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-review-unveiling-the-miniature-marvel-that-is-ugreens-qi2-charging-station-a-workspace-lifesaver/"><u>Expert Review: Unveiling the Miniature Marvel that Is Ugreen's Qi2 Charging Station - A Workspace Lifesaver</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-x90s-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X90S Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g42-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G42 5G Phone FRP Lock</u></a></li>
-<li><a href="https://techidaily.com/is-your-nokia-c02-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C02 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s24plus-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy S24+ won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-12-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from 12</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-13-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 13 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-razr-40-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Razr 40</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-zte-nubia-z60-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Nubia Z60 Ultra Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-smart-8-plus-by-fonelab-android-recover-data/"><u>Undelete lost data from Smart 8 Plus</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-footage-to-film-the-best-software-for-burning-home-dvds/"><u>Updated 2024 Approved From Footage to Film The Best Software for Burning Home DVDs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/viber-out-evaluation-top-features-benefits-and-drawbacks-explored/"><u>Viber Out Evaluation: Top Features, Benefits, and Drawbacks Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>[New] 2024 Approved Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-best-apps-to-transform-your-vertical-igtv-footage-for-2024/"><u>[Updated] Best Apps to Transform Your Vertical IGTV Footage for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-backup-solutions-efficiently-saving-your-data-on-a-lenovo-notebook-with-windows-11/"><u>1. Backup Solutions: Efficiently Saving Your Data on a Lenovo Notebook with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-windows-7-headphone-not-working-issue/"><u>Fix Windows 7 Headphone Not Working Issue</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-decides-against-issuing-product-recalls-for-faulty-processors/"><u>Intel Decides Against Issuing Product Recalls for Faulty Processors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-pro-7s-flickering-display/"><u>Solving Pro 7'S Flickering Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-server-connection-woes-heres-how-you-can-restore-access/"><u>Steam Server Connection Woes? Here’s How You Can Restore Access</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-15-funny-youtube-channels-to-watch-when-youre-bored-for-2024/"><u>Top 15 Funny YouTube Channels to Watch When You're Bored for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-v30-by-fonelab-android-recover-data/"><u>Undelete lost data from V30</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-itel-s23plus-by-fonelab-android-recover-music/"><u>Undelete lost music from Itel S23+</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-a1-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo A1 5G</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166571-9781396323119-wisdom-of-the-ages/"><u>Wisdom of the Ages | Free Book</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide"
-date: 2024-10-18T19:03:38.702Z
-updated: 2024-10-23T19:16:04.937Z
+date: 2024-10-27T19:04:56.960Z
+updated: 2024-10-29T17:22:31.718Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 * [Stop Windows From Keeping Recent Items History](https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/)
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To manually remove recently accessed items from File Explorer, select the items you wish to delete, right-click, and select "Remove From Recent."
@@ -32,25 +25,11 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Manually Remove Recently Accessed Items
 
  To selectively remove recently accessed files and folders, [open File Explorer](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) by clicking on the folder icon in the taskbar. Then, navigate to the "Home" tab on the left. Check the box(es) next to the files you want to remove from the history, right-click on the selected files, and select "Remove From Recent."
 
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
 
@@ -61,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  To do so, press Win+R, type **%AppData%\\Microsoft\\Windows\\Recent\\** into the run box and click "OK." This will open the Recent Items folder.
 
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
 
@@ -74,15 +60,28 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Disabling privacy features in the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-privacy-features-in-the-folder-options-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While the above process stops Windows from displaying recently accessed items in the Recent section of File Explorer, it will still record them in the Recent Items folder. This means that anyone using your PC can still view those records. So, what's the best way to maintain the privacy of this data?
 
  The best way is to [clear your File Explorer history](https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/) after using your PC. Doing so will erase the entire history, ensuring no traces are left for anyone to see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clear the Entire History of Recent Items
@@ -94,6 +93,19 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  To clear the File Explorer History, click on the folder icon on the taskbar to open File Explorer. Click on the See More menu, represented by three horizontal dots at the top, and select "Options."
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
@@ -116,24 +128,17 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-pureaiediting-refined-photo-craftsmanship/"><u>[New] PureAiEditing Refined Photo Craftsmanship</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-lighting-checklist-for-video-creators/"><u>[Updated] In 2024, The Ultimate Lighting Checklist for Video Creators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-minimize-time-maximize-results-with-this-srt-to-txt-hack/"><u>[Updated] Minimize Time, Maximize Results with This SRT to TXT Hack</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unraveling-the-purpose-of-facebooks-blue-messenger-emblem/"><u>2024 Approved Unraveling the Purpose of Facebook's Blue Messenger Emblem</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-online-mov-to-avi-converter-by-movavi-start-converting-immediately/"><u>Free Online MOV to AVI Converter by Movavi - Start Converting Immediately!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6 Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/immersive-test-drive-unveiling-the-power-and-potential-of-the-apple-iphone-15-pro/"><u>Immersive Test Drive: Unveiling the Power and Potential of the Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nubia Red Magic 8S Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-picks-premium-costless-screencasting-apps-reviewed/"><u>In 2024, Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-15-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://article-posts.techidaily.com/navigating-through-the-excellent-5-virtual-title-experts/"><u>Navigating Through the Excellent 5 Virtual Title Experts</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Realme</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M34 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/sign-dot-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dot file Online with DigiSigner</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-t2x-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo T2x 5G</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xperia-1-v-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xperia 1 V on Mac?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-color-space-comparison-srgb-vs-rgb/"><u>[New] In 2024, Color Space Comparison Srgb vs Rgb</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-8-best-tools-for-youtube-to-avi-conversion/"><u>[New] Unveiling 8 Best Tools for YouTube to AVI Conversion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-aiming-for-the-stars-select-7-top-shooter-experiences/"><u>[Updated] Aiming for the Stars Select 7 Top Shooter Experiences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-straightforward-stories-essence/"><u>2024 Approved Straightforward Stories' Essence</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728500728107-windows-11-0x8000ffff/"><u>解決Windows 11 0X8000ffff錯誤：高效修复技巧及其他兩種方法</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/der-umfassende-leitfaden-zu-kostenlosem-download-und-nutzung-beliebter-dekodierungsprogramme-fur-dvds/"><u>Der Umfassende Leitfaden Zu Kostenlosem Download Und Nutzung Beliebter Dekodierungsprogramme Für DVDs</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a25-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A25 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-paso-a-paso-para-resetear-tu-pc-con-windows-1011/"><u>Guía Paso a Paso Para Resetear Tu PC Con Windows 10/11</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-mini-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 13 mini Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-y27-4g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Y27 4G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-capabilities-of-claude-2-for-enhanced-performance/"><u>Understanding the Capabilities of Claude 2 for Enhanced Performance</u></a></li>
 </ul></div>
 

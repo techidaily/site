@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2024-10-06T03:49:48.017Z
-updated: 2024-10-12T00:35:51.401Z
+date: 2024-10-26T21:01:59.818Z
+updated: 2024-10-29T19:56:18.659Z
 tags:
   - deals
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  The Windows Subsystem for Linux (WSL) lets you run Linux software on your Windows 11 PC. When you enable WSL, Windows will install a custom-built Linux kernel. You can then install Ubuntu or another Linux distribution of your choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How WSL Works on Windows 11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  You can also run graphical Linux apps out of the box (Just install them in the Linux command-line environment and run the command). Windows 11 also includes support for running Linux apps with GPU access, making GPU-accelerated Linux computing workloads run well on Windows.
 
  It is also worth noting that most new, interesting developments for WSL are shifting to Windows 11—Windows 10 users won't be able to use them. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Install WSL through Windows Terminal
 
@@ -68,13 +61,6 @@ wsl --install
  When the process is complete, Windows will ask you to reboot your PC. Restart your computer by entering **shutdown /r /t 0** into the Terminal. You'll be able to use your Linux system after you do. (You can right-click the Start menu and click Shut Down or Sign Out > Restart to quickly reboot.)
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
@@ -96,11 +82,31 @@ wsl --install -d Debian
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
 
  If you don't see the Linux distribution that you installed in the Windows Terminal, launch it from your Start menu first. After it completes its first-run setup process, it will appear here.
 
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
 
@@ -123,10 +129,10 @@ wsl --install -d Debian
 ![Search for "Ubuntu," then click "Get."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now launch it from your Start menu just as if it were installed from the command above. 
@@ -148,24 +154,18 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-continuous-connection-avoiding-streak-breakers-on-snapchat/"><u>[New] 2024 Approved Continuous Connection Avoiding Streak Breakers on Snapchat</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-a14-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy A14 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-home-cinematic-wonders-fastest-tips-and-tricks/"><u>2024 Approved Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-asus-rog-phone-7-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Asus ROG Phone 7 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 12 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/effortless-urdu-acquisition-in-10-minute-sessions/"><u>Effortless Urdu Acquisition in 10-Minute Sessions</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/handbrake-y-el-soporte-de-archivos-av1-es-posible-codificacion-con-esta-herramienta/"><u>HandBrake Y El Soporte De Archivos AV1: ¿Es Posible Codificación Con Esta Herramienta?</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-note-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nubia-z50-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Z50 Ultra Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/microsoft-plans-another-overhaul-of-windows-update-timetable-insider-insights-from-zdnet/"><u>Microsoft Plans Another Overhaul of Windows Update Timetable: Insider Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-pova-6-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Pova 6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of 70 Lite 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-s17-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo S17 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-free-software-pour-la-copie-de-disque-uefi-meilleurs-choix/"><u>Top Free Software Pour La Copie De Disque UEFI: Meilleurs Choix</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-guide-to-resolve-constant-crashes-in-tower-of-fantasy-game-on-pc/"><u>Troubleshooting Guide to Resolve Constant Crashes in Tower of Fantasy Game on PC</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-m34-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy M34 password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-shot-selection-mastery-making-every-frame-count-on-youtube/"><u>[Updated] 2024 Approved Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-channel-art-make-banners-icons-and-thumbnails/"><u>[Updated] In 2024, YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughterlink-join-now-and-start-your-journey/"><u>[Updated] LaughterLink Join Now & Start Your Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-delete-temporary-files-in-windows-try-these-fixes/"><u>Can’t Delete Temporary Files in Windows? Try These Fixes</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y36-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y36 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-itel-p55-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel P55 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-11x-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11X 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-upgrade-your-mac-with-macos-sierra-simplified-for-2024/"><u>How to Upgrade Your Mac with macOS Sierra Simplified for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-accessing-your-subscriber-details-directly/"><u>In 2024, Accessing Your Subscriber Details Directly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-nubia-red-magic-8s-proplus-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Nubia Red Magic 8S Pro+ Phone? Unlock It Now</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-c110-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia C110 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transfiere-archivo-pgm-a-formato-png-sin-coste-metodo-online-de-convertir-imagenes/"><u>Transfiere Archivo PGM a Formato PNG Sin Coste: Método Online De Convertir Imágenes</u></a></li>
 </ul></div>
 

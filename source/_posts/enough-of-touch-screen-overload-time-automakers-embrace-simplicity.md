@@ -1,7 +1,7 @@
 ---
 title: "Enough of Touch Screen Overload: Time Automakers Embrace Simplicity"
-date: 2024-10-02T18:56:21.483Z
-updated: 2024-10-06T01:25:07.654Z
+date: 2024-10-23T18:06:02.777Z
+updated: 2024-10-29T17:58:42.396Z
 tags:
   - cutting-edge
 categories:
@@ -19,18 +19,18 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 
  Big touch screens give modern vehicles a real sci-fi vibe, but there's a reason old-fashioned knobs and controls have been the go-to choice for controlling your car's features for a century. Touch screens have their place, but automakers are going a little overboard, if you ask me.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Touch Screens Have Many Downsides
 
  While a touch screen is fine on a phone or laptop, operating one while driving isn't the best idea. Because there's no tactile feedback, you have to look over at the screen in order to make your selection. Any control system that requires a driver to take their eyes off the road is logically a safety issue.
 
 ![A Tesla passenger enabling Vehicle Motion Cues in their iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tesla-passenger-seat-iphone-control-center-vehicle-motion-cues-enabled-wide-shot-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek
 
@@ -39,10 +39,10 @@ Christian Zibreg / How-To Geek
  It's also an open question whether these screens need to be so large. I own the KIA Sportage model just before the series got a massive touch screen in the 2023 model update and, honestly, I'm not sure if I could live with such a huge screen long-term. Whereas the small central touch screen my car currently has (so I can use Android Auto or Apple CarPlay) feels like a much more sensible balance.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Physical Controls Are Safer for Drivers
@@ -50,16 +50,10 @@ Christian Zibreg / How-To Geek
  While the primary safety benefit of physical controls in a car is that you can operate them without looking, that's not the only reason they are safer. For one thing, touch screens are more complex, more fragile, and more prone to failure than a physical switch or toggle. You can also develop muscle memory to operate your car controls while putting pretty much zero cognitive load on yourself. The controls will always be in the same place and operate the same way.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Putting Everything on One Screen Is a Mistake
@@ -69,10 +63,10 @@ Christian Zibreg / How-To Geek
  At the very least, I think that a touchscreen should offer redundancy for critical controls. So, while it's fine to have access to things like the AC, or your car's warning messages on the touch screen, these should be duplicated with traditional controls or gauges where possible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some Lawmakers Are Taking Notice
@@ -98,14 +92,20 @@ Christian Zibreg / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tailoring-content-to-thrive-on-youtube-select-the-best-formats/"><u>[Updated] In 2024, Tailoring Content to Thrive on YouTube – Select the Best Formats</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exciting-news-microsoft-offers-office-2er-2024-at-an-unprecedented-one-off-price/"><u>Exciting News: Microsoft Offers Office 2Er 2024 at an Unprecedented One-Off Price!</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/tecno-data-retrieval-tool-restore-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Tecno Data Retrieval tool – restore lost data from Tecno</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-open-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus Open Location | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-s21-fe-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy S21 FE 5G (2023) play AVCHD mts files?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-nvidia-screen-recorder-record-games-with-ease/"><u>[New] 2024 Approved NVIDIA Screen Recorder - Record Games with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-smooth-transitions-the-ultimate-guide-for-audio-editors/"><u>[Updated] 2024 Approved Smooth Transitions The Ultimate Guide for Audio Editors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-fitbit-charge-6-analysis-features-performance-and-verdict/"><u>Comprehensive Fitbit Charge 6 Analysis: Features, Performance & Verdict</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-x50-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor X50 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-gaming-experience-to-120fps-with-this-essential-ps5-optimization-guide/"><u>Elevate Your Gaming Experience to 120Fps with This Essential PS5 Optimization Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-find-n3-flip-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Find N3 Flip Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-14-pro-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 14 Pro (4 Methods) | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-gionee-f3-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Gionee F3 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-geforce-experience-unable-to-access-user-configurations/"><u>Troubleshooting Guide: 'GeForce Experience Unable to Access User Configurations'</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Play 40C.</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Google Pixel 7a</u></a></li>
 </ul></div>
 

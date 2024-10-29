@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2024-10-17T17:30:02.832Z
-updated: 2024-10-23T18:11:49.222Z
+date: 2024-10-27T17:30:11.143Z
+updated: 2024-10-29T19:18:40.718Z
 tags:
   - mobile
 categories:
@@ -20,15 +20,28 @@ This was a surprisingly busy week for tech news, with announcements for Google a
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
@@ -43,10 +56,10 @@ Valve
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
@@ -54,10 +67,10 @@ Valve
  Chrome on iPhone, iPad, and Android now has a few more features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
@@ -67,13 +80,6 @@ Valve
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
@@ -88,10 +94,10 @@ Motorola
  Google's next hardware event is nearing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
@@ -119,21 +125,19 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-quick-route-to-true-profile-ages-on-tiktok/"><u>[Updated] The Quick Route to True Profile Ages on TikTok</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/breaking-the-silence-crafting-powerful-film-dialogues/"><u>Breaking the Silence Crafting Powerful Film Dialogues</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-s17e-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo S17e Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-pcs-usb-30-gigabit-ethernet-controller-driver/"><u>How to Update Your Windows PC's USB 3.0 Gigabit Ethernet Controller Driver</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-huawei-nova-y71-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Huawei Nova Y71 Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nokia-c12-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nokia C12 Pro Phone</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-k70-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi K70 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/oneplus-10-the-comprehensive-guide-to-latest-rumors-pre-launch-speculations-estimated-costs-and-release-timeline/"><u>OnePlus 10: The Comprehensive Guide to Latest Rumors, Pre-Launch Speculations, Estimated Costs & Release Timeline</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-note-30-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Note 30 Pro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/sims-4-video-card-troubles-heres-how-to-fix-your-gaming-experience/"><u>Sims 4 Video Card Troubles? Here's How to Fix Your Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-game-masters-youtube-money-hacks/"><u>[Updated] Game Masters YouTube Money Hacks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximize-offline-fb-usage-with-free-downloaders/"><u>[Updated] In 2024, Maximize Offline FB Usage with Free Downloaders</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-12-proplus-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 12 Pro+ 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-11-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 11 Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c33-2023-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme C33 2023 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-gameplay-with-new-fix-for-frame-rate-boosts-in-mass-effect-master-edition/"><u>Maximizing Gameplay with New Fix for Frame Rate Boosts in Mass Effect Master Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030473110-mp38/"><u>MP3データを効率良く分けるためのベストフリーウェアランキング：トップ8推薦!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>New In 2024, Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-redmi-k70-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Redmi K70</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-slow-shutdowns-in-windows-11-systems/"><u>Troubleshooting and Solving Slow Shutdowns in Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
 

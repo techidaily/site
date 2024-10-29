@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone 7 Plus? | Stellar
-date: 2024-09-21T08:14:18.588Z
-updated: 2024-09-23T21:50:30.329Z
+date: 2024-10-23T18:44:40.806Z
+updated: 2024-10-29T17:51:29.030Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -38,19 +38,6 @@ In either of the above-mentioned conditions, your iPhone will stop responding to
 
 If these attempts won’t bring your iPhone back to life, certainly it has some major technical glitch that only Apple experts can address. Before submitting your device for the same, recover all the data stored in it. Follow these DIY solutions to **recover data from dead iPhone**:
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Use iTunes to Recover Data from Dead iPhone**
 
 iTunes is one of the most coveted options to **recover data recovery from dead iPhone**. However, to use this method, your iPhone should be in sync with iTunes, and you have to periodically take data backup on it. Observe the steps to keep data backup on iTunes:
@@ -63,13 +50,6 @@ iTunes is one of the most coveted options to **recover data recovery from dead i
 
 ![](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/iTunes-back-up-restore-options-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you have been practicing the above steps for long, then simply connect your device with your computer using a USB cable and follow steps to recover data from iTunes backup:
 
 - Connect your iPhone to your computer and open **iTunes**.
@@ -79,13 +59,6 @@ If you have been practicing the above steps for long, then simply connect your d
 - Once selected, the desired number of files/data to restore, press **Restore**, and wait. The move may restart your iPhone. If not, your device will suffer a more serious hardware failure that only technical experts can fix.
 
 **Pro Tip:** _If found dead, let your iPhone remain off for as long as possible to avoid data overwriting._
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Use iCloud to Recover Data from Dead iPhone**
 
@@ -101,6 +74,13 @@ If you are proactively using iCloud to maintain data backup, there is a fair cha
 - Once done, you’ll get a notification of successful data transfer.
 
 You can also transfer all your dead iPhone data to a new one by inserting its SIM card in the new iPhone. Learn here how to [Transfer Data from Old iPhone to New iPhone](https://www.stellarinfo.com/blog/transfer-data-from-old-to-new-iphone/).
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Use a Reliable Data Recovery Software**
 
@@ -132,19 +112,6 @@ Your iPhone’s touchscreen can be unresponsive for reasons like a brief hiccup 
 
 In iPhone, black screen appears due to software or hardware issues. Firmware modifications, dropping the iPhone, iOS upgrade/downgrade, and jailbreaking, are some other common reasons behind the black screen error. Learn some great solutions to [overcome the black screen of death error](https://www.stellarinfo.com/blog/best-solutions-fix-iphone-black-screen/).
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Recover Lost Data from iTunes Backup File?
 
 If you have lost iPhone data and are unable to restore it from the iTunes backup file, use Stellar Data Recovery for iPhone. The software quickly recovers lost or deleted iPhone data from iTunes.
@@ -159,6 +126,13 @@ Follow the below steps to recover lost data from iTunes backup file:
 
 ![Stellar Data Recovery for iPhone](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     _Figure: Home screen of Stellar Data Recovery for iPhone_
 
 2\. Click **‘Recover iTunes Backup’** option on the left. The software scans the system for iTunes backup files and lists them along with the date of creation.
@@ -172,6 +146,13 @@ The software lets you preview, select, recover, and also search for specific pho
 5\. Select what you want to recover and click on **Save.** Select a destination to save the iPhone data.
 
 [![iPhone Data Recovery](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://cloud.stellarinfo.com/StellarDataRecoveryforiPhone-KB.exe)   [![iPhone Data Recovery Mac](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-mac-1.png)](https://cloud.stellarinfo.com/StellarDataRecoveryforiPhone-KB.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to do if iPhone is not listed when I run the software?
 
@@ -210,22 +191,15 @@ Mac does not detect your iPhone due to many reasons, such as
 ![Mac Doesn't Recognize my iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Featured-Methods-to-fix-Mac-Doesnt-Recognize-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **1\. Check your iPhone**
 
 Before you connect your iPhone to Mac, make sure the iOS device is unlocked and on the Home screen.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Fix USB connection**
 
@@ -234,6 +208,13 @@ When **Mac computer doesn’t recognize iPhone**, first check your USB connectio
 ### **3\. Restart your iPhone**
 
 Restarting the iOS device would resolve any issue between your iPhone programs and iTunes. To restart hold volume/side/ top button depending on your iPhone model. Slide the red power off slider on your iPhone. Wait for your iPhone to turn off. After a few seconds, again restart iPhone. Now Mac should recognize your iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Restart your Mac**
 
@@ -251,6 +232,13 @@ To check the USB Device Tree on Mac follow the below steps:
 
 ![USB Device Tree](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Mac-USB-tree-Image-2-1024x709.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <sub>Figure: USB Device Tree</sub>
 
 - On the right pane, you will see **USB Device Tree**. If you see your iPhone in the list, then update to the latest macOS.
@@ -263,16 +251,16 @@ To install the latest iTunes, open iTunes. From the menu bar choose **Help > C
 
 Now, check if your Mac recognizes the iPhone or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **7\. Disable antivirus on Mac**
 
 One of the reason cited for **iPhone not detected by Mac** is anti-virus or firewall protection on your system. So disable the antivirus or firewall and then try to connect your iPhone to Mac.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **8\. Enable iOS device in Mac Preferences**
 
@@ -283,19 +271,6 @@ When iPhone is not showing on Mac Finder, check if your Mac Preferences allows t
 - Check in **CDs, DVDs and iOS Devices**.
 
 ![Finder Preferences](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Mac-Finder-Preferences-Sidebar-Image-3-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <sub>Figure: Finder Preferences</sub>
 
@@ -308,6 +283,13 @@ Try by connecting your iPhone to another Mac. If you receive a message asking to
 **Tip:** Have you lost or accidentally deleted Camera Roll, Contacts, Photos Stream, Voice Memos, or more while transferring iPhone data to Mac? No need to worry. Restore the deleted photos, videos, messages, contacts, etc., with the help of an efficient [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) for Mac.
 
 [![](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-mac-1.png)](https://cloud.stellarinfo.com/StellarToolkitforiPhone-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **FAQ**
 
@@ -353,5 +335,26 @@ Syncing iOS device to macOS has so many advantages but if Mac is not recognizing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-your-metaverse-journey-with-7-must-have-devices/"><u>[New] Accelerate Your Metaverse Journey with 7 Must-Have Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-4-proven-methods-for-perfect-instagram-video-loops/"><u>[New] In 2024, 4 Proven Methods for Perfect Instagram Video Loops</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-trustworthy-youtube-to-mp4-file-extraction-processes/"><u>[New] In 2024, Trustworthy YouTube to MP4 File Extraction Processes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-is-your-social-media-strategy-up-to-date-with-facebook-changes-in-2024/"><u>[New] Is Your Social Media Strategy Up-to-Date with Facebook Changes, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-decoding-the-mystery-of-facebook-data-a-novices-handbook/"><u>[Updated] 2024 Approved Decoding the Mystery of Facebook Data A Novice’s Handbook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beijings-ice-arena-olympic-moments-2022/"><u>[Updated] Beijing's Ice Arena Olympic Moments, 2022</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-t2x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo T2x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-blueear-wireless-beanie-cap-for-stylish-listening-experience/"><u>Expert Analysis of the BlueEAR Wireless Beanie Cap for Stylish Listening Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-proof-asus-router-solutions-dominating-2024/"><u>Future-Proof Asus Router Solutions Dominating 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illustration-giggles-memecrafterz/"><u>In 2024, Illustration Giggles MemeCrafterz</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-10t-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 10T 5GFRP Lock</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-fodt-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .fodt file documents online</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-realme-11-proplus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Realme 11 Pro+</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-moto-g04-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Moto G04 without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-gt-10-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from GT 10 Pro</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-t2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo T2 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

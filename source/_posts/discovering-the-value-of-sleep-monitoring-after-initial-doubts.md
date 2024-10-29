@@ -1,7 +1,7 @@
 ---
 title: Discovering the Value of Sleep Monitoring After Initial Doubts
-date: 2024-10-17T19:14:07.008Z
-updated: 2024-10-23T20:17:19.157Z
+date: 2024-10-27T18:21:26.058Z
+updated: 2024-10-29T18:32:22.776Z
 tags:
   - mobile
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  How much REM sleep did _you_ get last night? You’d know if you started to use your Apple Watch to start tracking your sleep, instead of leaving it on the charger.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why I Started Wearing My Watch in Bed
 
  I only started tracking my sleep on an Apple Watch last week, despite having worn one regularly since 2018\. Apple first introduced sleep tracking in watchOS 7, released in 2020\. At the time I didn’t even bat an eyelid, the only time I wore my Watch in bed was when I forgot to take it off.
@@ -29,6 +36,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Apple Watch Series 8 with Nike Sports Loop band.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple_watch_s8_2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Part of adjusting to tracking my sleep meant finding time to charge my Watch. Since I work at a computer, I now take my Watch off in the morning and plug it into my MacBook until I see an “Apple Watch charged” notification. Wearing the Watch to bed only seems to consume about 20% battery at most, so I don’t usually have to charge it at night.
@@ -36,19 +50,6 @@ Tim Brookes / How-To Geek
  One thing I quickly grew to appreciate is being able to glance at a dim Watch face in the middle of the night. Seeing what time it is and how long I’ve got until I have to face the day is much more pleasant than peering at a dazzling iPhone display. [StandBy mode on an always-on-display](https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/) is probably even better.
 
  I also no longer have to worry about remembering to charge my Watch at night. As someone who leaves their Watch charger in the living room, having to get out of bed at midnight because I realized I’d forgotten to attach the charger happened way too often.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Sleep Tracking Data Is Just Interesting
 
@@ -61,10 +62,10 @@ Tim Brookes / How-To Geek
 ![Apple Watch sleep data displayed on a 24-hour graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_graph.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can try to use this data to improve your sleep. Experiment with different wind-down activities like reading, taking a bath, meditation, or cutting out activities close to bedtime and see what happens. Compare how different seasons and conditions affect your sleep, then make adjustments like losing that extra blanket or closing the window at night.
@@ -81,20 +82,13 @@ Tim Brookes / How-To Geek
 
 ![Setting up a sleep schedule on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_schedule.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you use the Sleep Focus to [silence notifications from all but an allow-list of apps and contacts](https://youtube-clips.techidaily.com/2024-approved-designing-distinctive-denouements/), turning off your alarm in the morning will automatically disable Focus and greet you with a “Good morning” message that summarizes the day ahead including overall temperatures and current Watch charge. Otherwise, you’ll need to disable it manually.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Give Sleep Tracking a Shot
@@ -118,22 +112,22 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-meditative-harmony-top-free-no-copyright-playlists/"><u>[New] In 2024, Meditative Harmony – Top Free, No-Copyright Playlists</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-smart-shelfings-leading-frame-apps-of-the-future/"><u>[New] Smart Shelfings Leading Frame Apps of the Future</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-maximizing-outreach-facebook-videos-transmitted-to-whatsapp/"><u>[Updated] 2024 Approved Maximizing Outreach Facebook Videos Transmitted to WhatsApp</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-9-best-video-calling-applications-safety-and-simplicity-focus/"><u>2024 Approved 9 Best Video Calling Applications Safety & Simplicity Focus</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-engage-enlighten-and-enthrall-with-immersive-facebook-sharing/"><u>2024 Approved Engage, Enlighten and Enthrall with Immersive Facebook Sharing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-itel-p40plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Itel P40+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-80-pro-straight-screen-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 80 Pro Straight Screen Edition Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-11-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 11 Pro Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-engagement-insider-secrets-to-youtube-seo-for-2024/"><u>Maximize Engagement Insider Secrets to YouTube SEO for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/seamless-integration-how-to-transfer-an-ost-file-into-your-microsoft-outlook-seamlessly/"><u>Seamless Integration: How to Transfer an OST File Into Your Microsoft Outlook Seamlessly</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-moto-g34-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Moto G34 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a78-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A78 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Asus ROG Phone 7</u></a></li>
-<li><a href="https://win11.techidaily.com/triumph-in-windows-pricing-acquiring-top-product-keys/"><u>Triumph in Windows Pricing: Acquiring Top Product Keys</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-basics-to-brilliance-the-fb-cover-video-journey-for-2024/"><u>[New] From Basics to Brilliance The FB Cover Video Journey for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-n53-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/behind-the-shield-understanding-secure-fb/"><u>Behind the Shield: Understanding Secure FB</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-huawei-p60-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Huawei P60 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-mfp-m428fdw-driver-for-latest-and-legacy-windows-systems/"><u>Download HP LaserJet Pro MFP M428fdw Driver for Latest and Legacy Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-enhancing-your-network-with-the-netgear-ex3700-wifi-range-extender-ac750/"><u>Expert Review: Enhancing Your Network with the Netgear Ex3700 WiFi Range Extender (AC750)</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v29-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V29</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a70-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A70 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-agni-2-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Agni 2 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100i-power-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100i Power 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-20c-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 20C Phones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/standing-and-mastering-youtube-live-visuals-for-engagement-for-2024/"><u>Understanding and Mastering YouTube Live Visuals for Engagement for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone XS Max? | Stellar
-date: 2024-09-23T09:25:51.805Z
-updated: 2024-09-24T06:34:44.878Z
+date: 2024-10-22T19:29:38.290Z
+updated: 2024-10-29T20:24:07.675Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -75,13 +75,6 @@ If you are proactively using iCloud to maintain data backup, there is a fair cha
 
 You can also transfer all your dead iPhone data to a new one by inserting its SIM card in the new iPhone. Learn here how to [Transfer Data from Old iPhone to New iPhone](https://www.stellarinfo.com/blog/transfer-data-from-old-to-new-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Use a Reliable Data Recovery Software**
 
 Your last respite is a professional data recovery software in case a vast amount of data from dead iPhone, like photos, videos, messages, contacts, etc., remain missing after iCloud recovery. We recommend [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) because it guarantees absolute recovery of lost or deleted data from iPhone, iTunes, and iCloud. Listing some common situations where the software can help:
@@ -105,15 +98,22 @@ If your phone turns blank or dead, don’t panic and stop using your device for 
 If your iPhone has stopped responding to any command and you can’t even turn it off, then force shutdown and restart it. Swiftly press and release the volume up button first and repeat the same with volume down button. Now, press and hold the side button and once the Apple logo appears on the screen, release the side button too.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Why is my phone unresponsive?**
 
 Your iPhone’s touchscreen can be unresponsive for reasons like a brief hiccup or glitch that your smartphone’s inner system can’t detect or render it unresponsive. Sometimes, touch screen becomes unresponsive due to water damage or app glitch, or virus attack.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Why did my iPhone screen go black?**
 
@@ -135,13 +135,6 @@ There could be many possible reasons for the loss of photos from iPhone. Some co
 - Failed iOS update
 - iPhone jailbreak
 - Water damaged, stolen iPhone, and others
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods to recover permanently deleted photos from iPhone
 
@@ -215,30 +208,10 @@ Steps to restore photos from iCloud on iPhone:
 
 ![Recover from iCloud backup](https://www.stellarinfo.com/image/catalog/article/reset-sett.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - A dialog box pops up, choose Erase Now
 - Follow the instructions until you get on to the Apps & Data screenTap Restore from iCloud Backup
 
 ![Restore from iCloud Backup](https://www.stellarinfo.com/blog/wp-content/uploads/2019/02/art3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Sign in to your iCloud account
 
@@ -256,6 +229,13 @@ Follow the below steps to restore only the lost/deleted photos from iCloud:
 - Select Recover from iCloud Backup on main screen of software.
 
 ![Stellar Data Recovery for iPhone - iCloud](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/Screenshot%20(48).png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Select Camera Roll and Photo Stream and click Next.
 - Enter the Apple ID and password.
@@ -275,10 +255,10 @@ Steps to restore photos from iTunes backup:
 ![Recover deleted photos from iTunes](https://www.stellarinfo.com/image/catalog/article/photo-recovery-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Connect iPhone to your PC/Mac
@@ -305,17 +285,17 @@ Follow the below steps to recover only the lost/deleted photos via iTunes:
 
 ![Stellar Data Recovery for iPhone - iTunes backup](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/iTunes%20backup%202.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - If your iTunes backup is encrypted, a dialog box will open prompting you to enter the password. Enter the password and click OK.
 - From the backup files list in the left pane, click Camera Roll and Photo Stream. Preview the existing and deleted photos or search for a specific photo by typing a keyword in the search box. Click Deep Scan at the bottom left side, if your desired photos are not in the list.
 
 ![Stellar Data Recovery for iPhone - Click Deep Scan](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/Screenshot%20(20).png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Click Save. A dialog box appears asking to select the location to save photos. You can save the recovered photos either onto your iPhone or computer.
 
@@ -331,6 +311,13 @@ Steps to turn on iCloud Photos on iPhone/iPad/ iPod Touch
 
 ![turn on iCloud Photos on iPhone](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/file-recovery/enable-icloud-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Tap Photos
 - Toggle on iCloud Photos.
 
@@ -339,6 +326,13 @@ To turn on iCloud Photos on Mac
 - Go to System Preferences > iCloud.
 
 ![To turn on iCloud Photos on Mac](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Next to Photos, click Options
 
@@ -362,6 +356,13 @@ Tip: When you turn on iCloud Photos, photos upload to iCloud but they are not du
 | Preview photos before recovery | Yes | No | No | Yes | Yes |
 | Difficulty level | Nil | Medium | Medium | Nil | Medium |
 | Recovery options | Recovers from iPhone, iPad, iCloud & iTunes | Recovers from iCloud only | Recovers from iTunes only | Recover from iPhone & iPad (within 30 days of photo deletion) | Recover on iPhone synced devices |
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Recover Deleted iPhone Camera Roll Photos and Photo Stream Pictures?
 
@@ -394,13 +395,6 @@ _Note: Here, you can select to stop the scan process in between by selecting the
 **Step 5)** Once the scanning is completed, the tool will enlist all the files and folders existing within the iPhone device.
 
 ![Stellar Data Recovery for iPhone - Select Camera Roll](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6)** From the left panel, you can select **Photos & Videos** category from the tree structure. It will then expand associated options that include **Camera Roll, Photo Stream, and Apps Library**.
 
@@ -476,5 +470,20 @@ Stellar Data Recovery for iPhone® Stellar Data Recovery for iPhone® is the bes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-effortless-screen-capture-on-chrome-os-devices/"><u>[New] In 2024, Effortless Screen Capture on Chrome OS Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-video-voyage-twitters-compiled-top-10-tiktoks-for-2024/"><u>[Updated] Viral Video Voyage Twitter's Compiled Top 10 TikToks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/active-recorder-assessment-industry-standards-met/"><u>Active Recorder Assessment Industry Standards Met?</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y27s-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y27s Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/experts-secret-for-sticker-less-vids-on-tiktok-for-2024/"><u>Experts' Secret for Sticker-Less Vids on TikTok for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-privilege-access-denial-error-error-0x80070522-on-modern-windows-pcs/"><u>Fixing Privilege Access Denial Error (Error 0X80070522) on Modern Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g14-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G14 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2020-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2020) Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-securely-transforming-youtube-videos-top-3-reliable-methods/"><u>In 2024, Securely Transforming YouTube Videos Top 3 Reliable Methods</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-asus-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Asus</u></a></li>
+</ul></div>
 

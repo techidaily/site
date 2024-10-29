@@ -1,7 +1,7 @@
 ---
 title: "Easy Tutorial: Adjusting Windows 10 Icon Dimensions for Better Display"
-date: 2024-10-17T21:50:56.537Z
-updated: 2024-10-23T23:47:54.527Z
+date: 2024-10-23T20:42:23.224Z
+updated: 2024-10-29T18:09:57.059Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
  You might want bigger icons on your Windows 10 PC to help you find what you need, or smaller icons to keep things compact and tidy. Fortunately, it's easy to adjust icon sizes on your desktop, taskbar, and File Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Resize Desktop Icons
 
  If the icons on your desktop are too large or too small, you can quickly resize them into one of the three available sizes.
@@ -33,21 +40,7 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 ![Hover your cursor over 'View' and choose an icon size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Hover-your-cursor-over-View-and-choose-an-icon-size..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you find that the three available options aren't exactly what you're looking for, you can place your cursor anywhere on the desktop, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or reduce the size of the desktop icons, respectively. This adjusts the size in smaller increments, letting you get the size closer to what you want.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Resize Taskbar Icons
 
@@ -56,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  Right-click on an empty space in the Taskbar. Click "Taskbar Settings" at the bottom of the context menu that appears.
 
 ![Right-click the taskbar and choose Taskbar Settings from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Right-click-the-taskbar-and-choose-Taskbar-Settings-from-the-context-menu..png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Taskbar Settings window will open. Near the top of the list of options, toggle the slider to the "On" position under the "Use Small Taskbar Buttons" option.
 
@@ -76,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![Click the File Explorer icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-file-explorer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, click the "View" tab.
@@ -91,10 +91,16 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![Select between icon sizes, or a list view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-icon-sizes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If one of these four options doesn't fit your requirements, place your mouse anywhere in File Explorer, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or decrease the icon size, respectively. This will adjust the size of the icons in smaller increments.
@@ -116,24 +122,22 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-your-youtube-content-basic-premiere-pro-edits-for-2024/"><u>[New] Enhancing Your YouTube Content Basic Premiere Pro Edits for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-gently-fading-sounds-in-os-environments-for-2024/"><u>[New] Gently Fading Sounds in OS Environments for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback/"><u>[Updated] 2024 Approved Average Earnings Per View What's the Income for YouTubers per Ad Playback?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-new-era-of-photo-display-best-frame-makers/"><u>[Updated] A New Era of Photo Display Best Frame Makers</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-for-transforming-caf-audio-to-mp3-on-pcs-mac-computers-and-via-online-tools/"><u>Effortless Guide for Transforming CAF Audio to MP3 on PCs, Mac Computers & via Online Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/facing-problems-with-the-chatgpt-app-on-your-iphone-try-these-9-fixes/"><u>Facing Problems with the ChatGPT App on Your iPhone? Try These 9 Fixes!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/from-broadcasts-to-bitstreams-online-recording-for-professionals/"><u>From Broadcasts to Bitstreams Online Recording for Professionals</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-asus-rog-phone-8-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Asus ROG Phone 8 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-13-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 13 Pro Max If Youve Tried Everything</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f04-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F04 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-y36i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y36i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-wi-fi-connectivity-hurdles-clearing-action-shortcomings/"><u>Overcoming Wi-Fi Connectivity Hurdles: Clearing Action Shortcomings</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-13t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/sign-ott-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .ott file Online for Free</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung password or pattern lock</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leap-into-a-bigger-view-the-new-full-screen-fb-video-trend/"><u>[New] 2024 Approved Leap Into a Bigger View The New Full-Screen FB Video Trend</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-video-camera-compendium-year/"><u>[New] 2024 Approved The Ultimate Video Camera Compendium Year</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-viewership-into-income-youtubes-advertising-guide/"><u>[New] Transforming Viewership Into Income YouTube's Advertising Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-voip-excellence-showdown-discord-vs-skype-analysis-for-2024/"><u>[Updated] VoIP Excellence Showdown Discord vs Skype Analysis for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overcoming-handheld-vibration-secure-your-gopro-movies/"><u>2024 Approved Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-14-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/join-the-visual-speech-the-simple-guide-to-posting-and-uploading-gifs-on-instagram/"><u>Join the Visual Speech The Simple Guide to Posting and Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pick-the-best-days-to-post-on-youtube-for-2024/"><u>Pick the Best Days to Post on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-smart-7-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Smart 7</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-x-flip-by-fonelab-android-recover-video/"><u>The way to get back lost videos from X Flip</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/windows-10-3/"><u>Windows 10 重新安裝後失去檔案？3項專家解決方法！</u></a></li>
 </ul></div>
 

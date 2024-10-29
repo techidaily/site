@@ -1,7 +1,7 @@
 ---
 title: "Learning From My Experience: Avoiding Risks While Shopping Through TikTok"
-date: 2024-10-17T16:34:33.448Z
-updated: 2024-10-24T01:14:07.855Z
+date: 2024-10-23T18:11:33.921Z
+updated: 2024-10-29T18:56:46.580Z
 tags:
   - web
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  TikTok Shop opened for business in November 2022, and the operation now generates more than $17 billion per year. Almost anyone can monetize their TikTok account using Shopify—which is how I got burned. Here's what you need to know to make sure it doesn't happen to you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Tale of Two TikTok Purchases
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  But who can resist the siren song of clothing and criss-cross chairs? Not me, apparently. Since I signed up for TikTok, I've made two purchases: a [viral oversized desk chair](https://www.amazon.com/Legged-Office-Armless-Computer-Adjustable/dp/B0CZLHFWL8/ref=sr%5F1%5F5?dib=eyJ2IjoiMSJ9.EYKqMjOnndRP7MShUqmOzZBgiPBKdwLlhpHETWBE2TO1s4a%5FiOHgexUu2sVrgA9MXTSiXV9ZdJx0%5Ftrvxq5caahoQAsYRLYi1BqnuR8KPv35286n7TBo0LYhksIhy3XgMIel5N1KvOUD7n8u4vry3KKSwTnmVF1hNHd3BEsWLqNX8EkeCC4%5FBjv5DF9jhNY1WTa3V8UDQdjPom8JEs26qD90ov-JewAEEIkAhYjz9JF7y621lAtnYpU8pQ6DqLNLTffBvck5gF8mtuNbr2vY0MxZPB3gRpnRf6LJ1teMrFM.fAmGlb014eQcxe5m1moZZ8MJENJo-Do1bOpdVSR6rb4&dib%5Ftag=se&hvadid=665639400447&hvdev=c&hvlocphy=1013462&hvnetw=g&hvqmt=e&hvrand=6948836597444604577&hvtargid=kwd-2162749065788&hydadcr=7665%5F13469258&keywords=viral+criss+cross+chair&qid=1718305400&sr=8-5&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003634&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-got-burned-shopping-on-tiktok-but-you-can-learn-from-my-mistake%2F&asc%5Fcampaign=Short-Term) and a [belted black jumpsuit](https://mccoyn.com/products/womens-sleeveless-wide-leg-jumpsuit). I sit upon my huge quilted throne as we speak, but the jumpsuit is lost to time and space (I got scammed out of $20).
 
  While the chair sale went through the typical TikTok Shop Shopify pipeline, at some point when purchasing the jumpsuit I was apparently lured to a third-party site. When the item never arrived and I requested a refund, I was met with radio silence. I'm not holding my breath.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How TikTok Shop Works
 
@@ -45,22 +52,15 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 ![Select 'Shop' in the bottom bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-_profile_-in-the-bottom-bar-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or, you can click the Shop link in a video to shop for the product that they're talking about:
 
 ![Click the TikTok shop link in a post to buy the item shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tiktok-shop-link.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Red Flags When Buying on TikTok
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  Lastly, avoid products with little description. Don't buy anything with little to no product specs or descriptions. Legit sellers will outline what you're getting and how you can return it. Look for contact info, too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Practices for TikTok Shopping
@@ -103,22 +103,22 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-perfecting-presence-zooming-past-background-imperfections/"><u>[Updated] 2024 Approved Perfecting Presence Zooming Past Background Imperfections</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-saving-hulu-episodes-on-various-devices/"><u>[Updated] 2024 Approved Unlocking the Secrets of Saving Hulu Episodes on Various Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expanding-your-audience-stream-successfully-across-30plus-outlets/"><u>[Updated] In 2024, Expanding Your Audience Stream Successfully Across 30+ Outlets</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-usbasp-on-xp-7-81-and-10-for-uninterrupted-use/"><u>Fixing USBasp on XP, 7, 8.1 & 10 for Uninterrupted Use</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS iOS System? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-htc-u23-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of HTC U23 Through Google Earth?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-smart-8-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Smart 8 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-action-camera-showdown-who-wins-with-gopro-hero5-black-and-yis-4k-update/"><u>In 2024, Action Camera Showdown Who Wins with GoPro Hero5 Black & Yi's 4K Update</u></a></li>
-<li><a href="https://extra-information.techidaily.com/m1-demystified-apple-redefines-chipset-technology/"><u>M1 Demystified Apple Redefines Chipset Technology</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-v13-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF v1.3 File using PDF Repair Tool | Stellar</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-xs-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone XS Max Suddenly | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-xiaomi-redmi-k70-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xiaomi Redmi K70</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-to-playing-helldivers-2-on-steam-without-issues/"><u>Unlocking the Secrets to Playing Helldivers 2 on Steam Without Issues</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2007-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2007 File Error | Stellar</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dominating-digital-space-top-5-youtube-tactics-revealed/"><u>[New] 2024 Approved Dominating Digital Space Top 5 YouTube Tactics Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-experts-picks-top-10-budget-friendly-call-apps/"><u>[New] Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-apps-allow-you-to-transcribe-speech-to-text-offline/"><u>[Updated] Best Apps Allow You to Transcribe Speech to Text Offline</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enhance-video-production-7-best-free-sounds-for-editors/"><u>[Updated] In 2024, Enhance Video Production - 7 Best Free Sounds for Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-initiate-internet-income-low-cost-youtube-channel-buys/"><u>[Updated] Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-reinstating-windows-photo-viewer-ways-for-windows-11-users/"><u>[Updated] Reinstating Windows Photo Viewer Ways for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-nord-n30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Nord N30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-and-twitter-verification-a-new-horizon-unfolds/"><u>GPT-4 & Twitter Verification: A New Horizon Unfolds</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-g22-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia G22 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-g54-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola G54 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y27-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y27 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-video-thumbnail-personalization-on-youtube/"><u>Mastering Video Thumbnail Personalization on YouTube</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-moto-g04-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Moto G04</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sh-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels-for-2024/"><u>Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels for 2024</u></a></li>
+<li><a href="https://techidaily.com/vivo-y100i-video-recovery-recover-deleted-videos-from-vivo-y100i-by-fonelab-android-recover-video/"><u>Vivo Y100i Video Recovery - Recover Deleted Videos from Vivo Y100i</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-12-5g-cant-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi 12 5G can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 

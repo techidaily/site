@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone 12 Pro Max? | Stellar
-date: 2024-09-20T18:17:01.595Z
-updated: 2024-09-24T09:00:29.884Z
+date: 2024-10-27T20:29:29.619Z
+updated: 2024-10-29T20:29:44.274Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -38,6 +38,13 @@ In either of the above-mentioned conditions, your iPhone will stop responding to
 
 If these attempts won’t bring your iPhone back to life, certainly it has some major technical glitch that only Apple experts can address. Before submitting your device for the same, recover all the data stored in it. Follow these DIY solutions to **recover data from dead iPhone**:
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Use iTunes to Recover Data from Dead iPhone**
 
 iTunes is one of the most coveted options to **recover data recovery from dead iPhone**. However, to use this method, your iPhone should be in sync with iTunes, and you have to periodically take data backup on it. Observe the steps to keep data backup on iTunes:
@@ -60,6 +67,13 @@ If you have been practicing the above steps for long, then simply connect your d
 
 **Pro Tip:** _If found dead, let your iPhone remain off for as long as possible to avoid data overwriting._
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Use iCloud to Recover Data from Dead iPhone**
 
 If you are proactively using iCloud to maintain data backup, there is a fair chance to recover your dead phone’s data from it. You can directly recover data from iCloud on another iPhone that doesn’t necessarily require connection to a laptop or computer. All you need is an iPhone that can be turned on at least and let you through the initial steps to login to your iCloud. Don’t forget to erase your dead iPhone before continuing on the new one; otherwise, you won’t get to perform the initial set-up. Follow the steps below to restore dead iPhone’s data from iCloud Backup:
@@ -69,16 +83,10 @@ If you are proactively using iCloud to maintain data backup, there is a fair cha
 ![](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/Apps-Data.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - A window will prompt you with all backups available for restoring. Select the most recent one that contains all the data you wish to retrieve from your dead iPhone.
@@ -98,19 +106,6 @@ Your last respite is a professional data recovery software in case a vast amount
 
 You can download the demo version of the software for assessment and buy the software to activate its key functionalities. It will activate via activation key that will be sent on your email once you purchase the software. Read this KB to learn [How to Activate Stellar Data Recovery for iPhone](https://www.stellarinfo.com/support/kb/index.php/article/activate-stellar-data-recovery-for-iphone). Additionally, using the Toolkit version of the software, identified as [Stellar Eraser for iPhone](https://www.stellarinfo.com/erase-iphone-data.php), you can permanently remove all the sensitive data stored in your dead iPhone so it won’t fall into the wrong hands.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion:**
 
 Avid iPhone users know when to stop playing with their iOS device to let it reset in case of a technical glitch. Nevertheless, not all iPhone users are aware of this practice. Consequently, we panic and keep on switching off and on our smartphones when it hangs.
@@ -126,19 +121,6 @@ If your iPhone has stopped responding to any command and you can’t even turn i
 ### **Why is my phone unresponsive?**
 
 Your iPhone’s touchscreen can be unresponsive for reasons like a brief hiccup or glitch that your smartphone’s inner system can’t detect or render it unresponsive. Sometimes, touch screen becomes unresponsive due to water damage or app glitch, or virus attack.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Why did my iPhone screen go black?**
 
@@ -161,13 +143,6 @@ Apple has recently announced that it will permanently delete photos from its use
 _"__My Photo Stream is scheduled to be shut down on July 26, 2023._ _As part of this transition, new photo uploads to My Photo Stream from your devices will stop one month before, on June 26, 2023._
 
 The photos in My Photo Stream are already stored on at least one of your devices, so as long as you have the device with your originals, you won't lose any photos as part of this process. If a photo you want isn't already in your Library on a particular iPhone, iPad, or Mac, make sure that you save it to your Library on that device…” [Read more](https://support.apple.com/en-us/HT210705)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **What is Apple's My Photo Stream?**
 
@@ -225,6 +200,13 @@ For **iOS 15, iPadOS 15, or earlier** versions: Turn on the **iCloud Photos**
 - Click **Apple** **ID** and then select **iCloud** in the sidebar.
 - Now, select **Photos** and turn on the **switch** next to **Sync** **this** **Mac**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **
 
 ![setup icloud on Mac](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/apple-iphone-permanently-delete-photos/icloud-mac.jpg)
@@ -237,16 +219,16 @@ While iCloud Photos is a convenient option for many Apple users, it's important 
 
 Storage options, such as Google Photos, Microsoft OneDrive, Dropbox, external hard drives, etc., are available to ensure your iPhone Photos are safe and easily accessible.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **The Bottom Line**
 
 Apple's announcement of the potential discontinuation of My Photo Stream has understandably caused worry among its users. While a specific reason for this action remains undisclosed, they are actively addressing the issue to prevent data loss. In the meantime, iPhone users must take precautionary measures to safeguard their photos. They can simply move the My Photo Stream images to the Photo Library, iCloud Photos, or other backup folders.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Recover lost Calendar on iPhone
 
@@ -260,6 +242,13 @@ Thus, losing your iPhone Calendar due to deletion, formatting, or other reasons 
 
 **If you are one of those who has lost Calendar app on iPhone and now looking for ways to restore it back…read this post further.**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **How to restore calendar on iPhone?**
 
 Lost or accidentally deleted Calendar can be recovered by Apple’s backup utilities. However, sometimes backups too may not restore Calendar. Then an iPhone data recovery software is the only solution.
@@ -271,10 +260,10 @@ Lost or accidentally deleted Calendar can be recovered by Apple’s backup utili
 3. Recover from iCloud or iTunes Backup
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **1\. Restore from archive of Calendars via iCloud.com**
@@ -312,6 +301,13 @@ The restored calendars appear on all your Apple devices with Calendars turned on
 
 _**Note:** These archives will not contain information like calendar invites. You will have to recreate and reissue the invitations._
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Restore Calendar on iPhone using iPhone data recovery software**
 
 A simpler, more effective and convenient way to recover Calendar app is by using a professional iPhone recovery software, such as [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/). Regardless of the reason for loss – deletion, factory reset, or jailbreak etc., the software can restore the app data on your device.
@@ -347,13 +343,6 @@ Stellar Data Recovery for iPhone is also the way out when you don’t have Calen
 
 ![preview the recoverable data](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/iPhone-Notes-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Choose the **data** you want to restore and click **Save** to restore them at your desired location.
 
 - location.
@@ -373,13 +362,6 @@ _**Note:** Deletes and replaces all your current data, be it apps, messages, ph
 - On **Apps & Data** screen, tap **Restore from iCloud Backup.**
 
 ![restore from iCloud backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/restore-from-icloud-backup-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Sign in to your iCloud account.
 - Choose the last backup and **Restore.**
@@ -440,5 +422,24 @@ You can view upcoming events as a list of one day, a week, a month, or a year at
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-visualizing-creativity-to-perfection-with-magix-video-pro-x/"><u>[New] In 2024, Visualizing Creativity to Perfection with Magix Video Pro X</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-speeding-up-instagram-media-mobile-methods-for-2024/"><u>[New] Speeding Up Instagram Media Mobile Methods for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-xr21-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia XR21 FRP Bypass Instantly</u></a></li>
+<li><a href="https://article-files.techidaily.com/apex-of-scripting-soundscapes-for-2024/"><u>Apex of Scripting Soundscapes for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hits-to-strikes-expert-youtube-studio-editing-strategies/"><u>From Hits to Strikes Expert YouTube Studio Editing Strategies</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-poco-x6-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco X6 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-into-the-heart-of-windows-10-flawless-media-import-techniques/"><u>In 2024, Into the Heart of Windows 10 Flawless Media Import Techniques</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-f14-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F14 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-repair-google-hangouts-when-your-mic-goes-silent/"><u>Quick Solutions: How to Repair Google Hangouts When Your Mic Goes Silent</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correctly-resolve-code-0x8024402c-in-windows-update/"><u>Step-by-Step Solutions to Correctly Resolve Code 0X8024402c in Windows Update</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2000-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2000 File Not Opening Error</u></a></li>
+</ul></div>
 

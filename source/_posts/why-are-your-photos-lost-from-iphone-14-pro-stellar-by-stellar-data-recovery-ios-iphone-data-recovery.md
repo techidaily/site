@@ -1,7 +1,7 @@
 ---
 title: Why are your photos lost from iPhone 14 Pro? | Stellar
-date: 2024-09-21T07:13:55.748Z
-updated: 2024-09-24T07:28:21.107Z
+date: 2024-10-23T20:05:54.985Z
+updated: 2024-10-29T16:10:09.940Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -60,13 +60,6 @@ If you have been practicing the above steps for long, then simply connect your d
 
 **Pro Tip:** _If found dead, let your iPhone remain off for as long as possible to avoid data overwriting._
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Use iCloud to Recover Data from Dead iPhone**
 
 If you are proactively using iCloud to maintain data backup, there is a fair chance to recover your dead phone’s data from it. You can directly recover data from iCloud on another iPhone that doesn’t necessarily require connection to a laptop or computer. All you need is an iPhone that can be turned on at least and let you through the initial steps to login to your iCloud. Don’t forget to erase your dead iPhone before continuing on the new one; otherwise, you won’t get to perform the initial set-up. Follow the steps below to restore dead iPhone’s data from iCloud Backup:
@@ -103,6 +96,13 @@ If your phone turns blank or dead, don’t panic and stop using your device for 
 ### **What to do if iPhone is not working?**
 
 If your iPhone has stopped responding to any command and you can’t even turn it off, then force shutdown and restart it. Swiftly press and release the volume up button first and repeat the same with volume down button. Now, press and hold the side button and once the Apple logo appears on the screen, release the side button too.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Why is my phone unresponsive?**
 
@@ -159,6 +159,13 @@ iv. Preview the selected backup files and save the files
 
 ![Stellar iPhone data recovery- Preview the recovered files](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2017/12/iTunes-backup-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Figure 3 represents the preview of the files_
 
 **_\*\*Note: You can preview the existing and deleted files. Moreover, type the keyword or filename in the search box to search for a particular file._**
@@ -166,10 +173,10 @@ _Figure 3 represents the preview of the files_
 v. Click the **Save** button to recover the file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Recovery Mode 2: iCloud Backup files**
@@ -197,6 +204,19 @@ _Figure 7 Represents the list of all files_
 iv. Preview the selected files and press the **Save** button which you can save to the desired location.
 
 ![Stellar iPhone data recovery- preview of recovered files](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2017/08/iCloud-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Figure 8 illustrates the preview of the files_
 
@@ -243,13 +263,6 @@ Pictures taken with the iPhone Camera application are saved by default in the Ph
 
 ![recover deleted image from recently deleted album-3](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/recover-deleted-pictures-on-iphones/Recover-Deleted-Pictures-from-Recently-Deleted-Album-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Select the deleted photos you want to recover on your iPhone.
 
 ![recover deleted image from recently deleted album-4](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/recover-deleted-pictures-on-iphones/Recover-Deleted-Pictures-from-Recently-Deleted-Album-4.jpg)
@@ -289,13 +302,6 @@ To restore photos from iCloud, follow these steps:
 
 ![restore deleted photos from iCloud](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/recover-deleted-pictures-on-iphones/Restore-Photos-from-iCloud-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Recover Photos on iPhone using iTunes
 
 Many iPhone users use iTunes backup to recover their deleted photos and videos. This Apple's proprietary tool syncs your iPhone files to your PC or Mac. Follow the steps to recover deleted photos from iTunes backup:
@@ -318,13 +324,6 @@ Many iPhone users use iTunes backup to recover their deleted photos and videos. 
 **Note** - _macOS Mojave is the last version of Apple’s OS to ship with iTunes. In macOS Catalina and newer version, iTunes is split into different apps: Podcasts, Books, TV, and Music. Moreover, Finder is used to manage and sync content on your iPhone, iPad, and iPod touch._
 
 - Once the restoration process is complete, check the **Photos** app to see if the deleted photos were recovered. If not, try repeating the process and return to the most recent backup or choose an older backup.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Recover Deleted Pictures on iPhone using Finder
 
@@ -361,6 +360,13 @@ What to do if there is no iPhone backup or you cannot restore pictures using iCl
 
 ![recover deleted data using Stellar data recovery for iPhone](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/recover-deleted-pictures-on-iphones/select-what-to-recover-Stellar-Data-Recovery-for-iPhone-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Select the **data** type and click **Next**. The scanning process will start.
 
 ![scanning selected device](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/recover-deleted-pictures-on-iphones/sacnning-is-in-progress-Stellar-Data-Recovery-for-iPhone-2.png)
@@ -374,10 +380,10 @@ What to do if there is no iPhone backup or you cannot restore pictures using iCl
 ![choose destination to save recovered data](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/recover-deleted-pictures-on-iphones/save-the-recovered-data-Stellar-Data-Recovery-for-iPhone-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -405,13 +411,6 @@ With new-generation Apple devices, water exposure isn’t an immediate death sen
 While the new iPhones have good water resistant capabilities, this doesn’t mean they are totally immune to water. Being electronic devices, water can seriously damage them.
 
 This article shares several best practices that can help you save a water-damaged iPhone. But first, let’s understand how water resistant your iPhone is.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Is my iPhone water resistant?**
 
@@ -446,6 +445,13 @@ Your iPhone will turn off automatically after being dropped in water. However, y
 
 Moreover, don’t charge your iPhone battery as it can result in an electrical short circuit or even combustion, resulting in a fire. No matter how water resistant the iPhone is, it’s better to not plug it in when wet or water-damaged.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Don’t use hot air to blow dry your iPhone**
 
 Blow-drying your iPhone with hot air can damage your device further. Hot air may heat your iPhone to an unbearable degree, making it unsuitable for device hardware. Also, avoid using a space heater or furnace sidewall exhaust to dry your iPhone.
@@ -461,13 +467,6 @@ Remove your iPhone from the water right away. Once retrieved, turn it off immedi
 ### **2\. Evacuate the SIM card**
 
 After drying the iPhone’s exterior, remove the SIM card tray, if not using an e-SIM. Although SIM cards have a watertight seal, getting them out helps. Use a paper towel to dry the SIM card and the tray.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Dry your iPhone**
 
@@ -502,6 +501,13 @@ Dismantle your iPhone carefully, air dry its interior, and assemble it back afte
 ### **5.** **Check if your warranty is still valid**
 
 If all the above efforts fail to fix the iPhone from water damage, you must check if the device’s warranty is still valid. If it is, call your manufacturer and request a repair or replacement. If it is invalid, visit an Apple Genius bar to repair your cell phone.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **6\.** **Take the phone to an approved repair shop**
 
@@ -565,5 +571,21 @@ If there is water in your iPhone speaker, it may not work. In such a situation, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-access-yt-comments-desktopiosandroid-edition-explained/"><u>[Updated] In 2024, Access YT Comments Desktop/iOS/Android Edition Explained</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-crafting-successful-instagram-posts/"><u>[Updated] In 2024, The Art of Crafting Successful Instagram Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-focusing-on-your-iphone-camera/"><u>A Comprehensive Guide to Focusing on Your iPhone Camera</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-100-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 100 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost-for-2024/"><u>Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-z50-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Z50 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-pop-8-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Pop 8</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-upgrade-examining-the-differences-between-galaxy-s23-ultra-and-samsungs-previous-beast-s21-ultra/"><u>Is It Time to Upgrade? Examining the Differences Between Galaxy S23 Ultra and Samsung's Previous Beast, S21 Ultra</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mac-graphics-revolution-top-10-freeware-drawings/"><u>Mac Graphics Revolution Top 10 Freeware Drawings</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-s17-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo S17 Pro on Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalizing-the-it-workforce-how-artificial-intelligence-alleviates-burnout-and-manages-fatigue-inducing-alerts-insights-from-zdnet/"><u>Revitalizing the IT Workforce: How Artificial Intelligence Alleviates Burnout and Manages Fatigue-Inducing Alerts | Insights From ZDNET</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-huawei-nova-y91-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Huawei Nova Y91</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-13-ultra-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-ace-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Ace 2 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 
