@@ -1,7 +1,7 @@
 ---
 title: Causation
-date: 2024-10-01T01:53:34.739Z
-updated: 2024-10-06T15:36:55.081Z
+date: 2024-11-01T06:02:12.600Z
+updated: 2024-11-04T13:36:19.108Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Tools to Check If An Article Was Written By ChatGPT](https://extra-approaches.techidaily.com/snappy-snippets-quick-and-quirky-memes-guide-for-2024/)
 * [Train Your Brain To Catch AI](https://tech-hub.techidaily.com/leveraging-chatgpts-power-building-effective-web-applications-easily/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 You can tell a ChatGPT-written article by its simple, repetitive structure and its tendency to make logical and factual errors. Some tools are available for automatically detecting AI-generated text, but they are prone to false positives. 
@@ -27,10 +34,10 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  The more sinister uses of AI tech, like a political disinformation campaign blasting out fake articles, mean we need to educate ourselves enough to spot the fakes. So [how can you tell](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-phone-unlock-it-now-by-drfone-android/) if an article is actually AI generated text?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Tell If ChatGPT Wrote That Article
@@ -46,20 +53,13 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 ![Chat GPT answering the question "Can you explain quantum computing in simple terms?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-08-at-12.29.13-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Short, simple connecting words are regularly used, the sentences are all a similar length, and paragraphs all follow a similar structure. The end result is writing that sounds and feels a bit robotic.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Can You Use AI to Detect AI-Generated Text?
 
@@ -68,6 +68,13 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  Researchers are also working on watermarking methods to detect AI articles and text. Tom Goldstein, who teaches computer science at the University of Maryland, is working on a way to [build watermarks](https://arxiv.org/pdf/2301.10226.pdf) into AI language models in the hope that it can help detect machine-generated writing even if it's good enough to mimic human randomness.
 
  Invisible to the naked eye, the watermark would be detectable by an algorithm, which would indicate it as either human or AI generated depending on how often it adhered to or broke the watermarking rules. Unfortunately, this method hasn't tested so well on later models of ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Tools to Check If An Article Was Written By ChatGPT
 
@@ -86,13 +93,6 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  While developers are working to make these tools better at detecting AI generated text, none of them are totally accurate and can [falsely flag](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) human content as AI generated. There's also concern that since large language models like GPT-4 are improving so quickly, detection models are constantly playing catchup.
 
 Related: [Can ChatGPT Write Essays: Is Using AI to Write Essays a Good Idea?](https://digital-screen-recording.techidaily.com/2024-approved-smartest-devices-to-modify-your-speech-on-the-go/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Train Your Brain To Catch AI
 
@@ -121,19 +121,24 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-next-gen-capture-the-leading-apps-decoded/"><u>[New] In 2024, Next-Gen Capture The Leading Apps Decoded</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-understanding-vimeos-unique-value-over-youtube/"><u>[New] Understanding Vimeo's Unique Value over YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mov-file-keeping-hacks-for-new-win-11-users/"><u>[Updated] .MOV File Keeping Hacks for New Win 11 Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-leading-tools-for-crafting-superior-video-titles-and-tags/"><u>[Updated] 2024 Approved 5 Leading Tools for Crafting Superior Video Titles and Tags</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-resume-your-tiktok-journey-post-reload-error/"><u>[Updated] 2024 Approved Resume Your TikTok Journey Post-Reload Error</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unraveling-the-mysteries-of-instagrams-video-timeframe/"><u>[Updated] 2024 Approved Unraveling the Mysteries of Instagram's Video Timeframe</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-your-netflix-video-flow-pc-and-mobile/"><u>[Updated] How to Control Your Netflix Video Flow PC & Mobile</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/craft-exclusive-gpt-versions/"><u>Craft Exclusive GPT Versions</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-se-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone SE Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20c-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20C Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-organizing-dialogues-with-ease/"><u>Mastering ChatGPT: Organizing Dialogues with Ease</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-p55-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on P55 5G</u></a></li>
-<li><a href="https://techidaily.com/spark-10-pro-video-recovery-recover-deleted-videos-from-spark-10-pro-by-fonelab-android-recover-video/"><u>Spark 10 Pro Video Recovery - Recover Deleted Videos from Spark 10 Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-classic-cinema-revisited-step-by-step-video-guide-for-2024/"><u>[Updated] Classic Cinema Revisited Step-by-Step Video Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfecting-panoramic-videography-with-premiere-pros-tools/"><u>2024 Approved Perfecting Panoramic Videography with Premiere Pro's Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/charting-the-evolution-of-windows-movie-maker/"><u>Charting the Evolution of Windows Movie Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steam-controller-blunders-on-pc/"><u>Fixing Steam Controller Blunders on PC</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a15-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A15 4G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-vs-2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic Vs 2 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a05-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A05 Bootloader Easily</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-yuva-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Yuva 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-max-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Max Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-htc-u23-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on HTC U23 without backup.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-computers-expert-picks-by-zdnet/"><u>Top-Ranking Mac Computers : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-mass-effect-legendary-edition-freezing-issues-on-pc-and-xbox/"><u>Troubleshooting Guide: Solving Mass Effect Legendary Edition Freezing Issues on PC and Xbox</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-note-30-vip-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Note 30 VIP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-elon-musks-new-innovation-introducing-grok-ai-features-and-pricing/"><u>Understanding Elon Musk's New Innovation: Introducing Grok AI – Features & Pricing</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-camon-20-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Camon 20 Pro 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficient Invoicing Made Easy: How ABBYY's Software Revolutionizes Adactus Housing Group's Operations"
-date: 2024-10-03T21:39:31.934Z
-updated: 2024-10-05T23:36:11.875Z
+date: 2024-11-01T06:20:32.067Z
+updated: 2024-11-04T13:01:10.865Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b52b80b737f6be60e6367144.PNG
@@ -30,10 +30,10 @@ Other | Accounts Payable Automation
 ![Adactus Group](https://static2.abbyy.com/abbyycommedia/14441/adactus_155x80.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 | Name                  | Adactus Group                                               |
@@ -45,6 +45,13 @@ Other | Accounts Payable Automation
 #### Partner Overview
 
 ![INVU](https://static1.abbyy.com/abbyycommedia/14443/invu_logo.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name | INVU                                 |
 | ---- | ------------------------------------ |
@@ -71,6 +78,13 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 ### Up to **60,000**
 
 paper invoices are normally received each year
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **24** suppliers
 
@@ -122,13 +136,6 @@ The benefit of introducing this solution is a slicker way of working which limit
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
@@ -136,19 +143,6 @@ The benefit of introducing this solution is a slicker way of working which limit
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/14325/1a-adactus-1-real-estate-en_small.jpg)](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [read more](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
@@ -161,10 +155,10 @@ Share  True ?  : ""
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
@@ -188,20 +182,19 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-framebyframe-faceoff/"><u>[New] FrameByFrame Faceoff</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr/"><u>[New] Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>[Updated] AZ Capture Extraordinaire Thorough App Reviews for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-dominating-the-digital-realm-youtube-marketing-secrets/"><u>[Updated] Dominating the Digital Realm YouTube Marketing Secrets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-your-workflow-online-photo-cropping-made-simple/"><u>[Updated] Simplifying Your Workflow Online Photo Cropping Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-policy-scope-and-structure/"><u>AI Policy: Scope & Structure</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-xs-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2020) without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-f5-pro-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco F5 Pro 5G Phone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/interactive-latin-an-enjoyable-study-experience/"><u>Interactive Latin: An Enjoyable Study Experience</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-galaxy-xcover-6-pro-tactical-edition-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Galaxy XCover 6 Pro Tactical Edition on Windows</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Oppo Find X7</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-t2x-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo T2x 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-sharing-guide-for-tiktok-content/"><u>[New] 2024 Approved Twitter Sharing Guide for TikTok Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-tips-for-mastering-color-grading-via-3d-luts-in-photoshop/"><u>[Updated] Advanced Tips for Mastering Color Grading via 3D LUTs in Photoshop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>[Updated] Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-explore-new-movie-landscapes-top-7-alternates/"><u>2024 Approved Explore New Movie Landscapes - Top 7 Alternates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nubia-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nubia</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-quality-speech-to-text-solutions-for-2024/"><u>High-Quality Speech-to-Text Solutions for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone SE Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/leading-6-low-cost-superior-4k-tv-projectors/"><u>Leading 6 Low-Cost, Superior 4K TV Projectors</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-htc-u23-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from HTC U23</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-docm-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .docm file documents online</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-smart-8-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Smart 8</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-samsung-galaxy-s21-fe-5g-2023-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Samsung Galaxy S21 FE 5G (2023)</u></a></li>
 </ul></div>
 

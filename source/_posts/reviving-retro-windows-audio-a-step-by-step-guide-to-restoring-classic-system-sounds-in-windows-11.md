@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11"
-date: 2024-10-23T16:44:21.095Z
-updated: 2024-10-29T19:25:30.504Z
+date: 2024-11-01T00:23:08.543Z
+updated: 2024-11-03T16:43:48.046Z
 tags:
   - desktop
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 * [How to Get Sound Packs of Old Windows Sounds](https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-150-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/)
 * [Change System Sounds in Settings](https://screen-activity-recording.techidaily.com/2024-approved-effective-group-meetings-googles-top-solutions-4/)
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -60,6 +53,13 @@ Close
 
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
 
 Close 
@@ -69,10 +69,16 @@ Close
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
@@ -80,16 +86,10 @@ Close
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
@@ -107,10 +107,10 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
@@ -142,24 +142,24 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-s17t-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo S17t FRP</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989793469-achieving-stability-in-a-total-war-saga-troy-fixed-bugs-for-an-uninterrupted-adventure-on-pc/"><u>Achieving Stability in A Total War Saga: Troy - Fixed Bugs For an Uninterrupted Adventure on PC</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-y28-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y28 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-ray-tracing-an-in-depth-guide/"><u>Exploring the World of Ray Tracing: An In-Depth Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-dell-wi-fiethernet-drivers-for-optimal-performance-in-windows-7/"><u>Get the Newest Dell Wi-Fi/Ethernet Drivers for Optimal Performance in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Max Data Completely | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-does-a-browser-fingerprint-reveal-your-online-identity-and-what-steps-can-you-take-to-guard-it/"><u>How Does a Browser Fingerprint Reveal Your Online Identity & What Steps Can You Take to Guard It?</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a05mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A05Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-12-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi 12 5G FRP</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-trendsetting-images-their-histories/"><u>In 2024, Trendsetting Images Their Histories</u></a></li>
-<li><a href="https://techidaily.com/is-your-poco-x5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco X5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-tips-on-how-to-address-and-solve-game-freezes-in-persona-4-golden/"><u>Master Tips on How to Address and Solve Game Freezes in Persona 4 Golden</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-pixel-7a-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Pixel 7a</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-s23plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-speedy-integration-of-voice-input-feature-in-your-powerpoint-shows/"><u>[New] Speedy Integration of Voice Input Feature in Your PowerPoint Shows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-highest-priority-list-best-10-apps-for-live-baseball-and-basketball-action/"><u>[Updated] 2024 Approved Highest Priority List Best 10 Apps for Live Baseball & Basketball Action</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/counteracting-the-issue-of-unsaved-nvidia-settings-in-windows-11/"><u>Counteracting the Issue of Unsaved NVidia Settings in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a24-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A24 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/double-delight-maximizing-the-use-of-netflixs-floating-window-for-2024/"><u>Double Delight Maximizing the Use of Netflix's Floating Window for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/email-as-a-tool-for-vatican-diplomacy-is-pope-francis-an-avid-user/"><u>Email as a Tool for Vatican Diplomacy: Is Pope Francis an Avid User?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fetch-and-install-the-newest-amd-radeon-hd-7870-drivers-for-windows-10/"><u>How to Fetch and Install the Newest AMD Radeon HD 7870 Drivers for Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x100-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X100 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hurried-articulation-guide-for-french-vibrancy/"><u>Hurried Articulation Guide for French Vibrancy</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y100a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y100A working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/outshine-google-searches-with-innovative-perplexity-ai/"><u>Outshine Google Searches with Innovative Perplexity AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210041519-resolve-the-bluetooth-problem-in-windows-11-fast-and-simple-solutions/"><u>Resolve the Bluetooth Problem in Windows 11: Fast and Simple Solutions</u></a></li>
+<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-11-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 11 screen lock</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-magic-6-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor Magic 6 Pro fingerprint</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 6s Plus? | Stellar</u></a></li>
 </ul></div>
 

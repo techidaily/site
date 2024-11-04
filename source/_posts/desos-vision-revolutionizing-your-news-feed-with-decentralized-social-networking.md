@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2024-10-22T20:46:07.239Z
-updated: 2024-10-29T16:45:28.052Z
+date: 2024-10-29T09:11:58.095Z
+updated: 2024-11-03T17:30:35.720Z
 tags:
   - cutting-edge
 categories:
@@ -22,28 +22,28 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Decentralized Social, or DeSo, is a way of social networking built on open blockchain technology without a central authority that owns and operates the network, creating new opportunities for how we can use social media and giving more power to you, the user.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **A Quick Note on Web2 and Web3** 
 
  For our discussion of DeSo, it's helpful to understand that legacy social media platforms and the type of interactive code that they use to host and share interactive content is often described as Web2\. The current mix of innovations happening with cryptocurrencies, [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), metaverse concepts, decentralized finance, and blockchain technology are often referred to as Web3.
 
  The biggest difference is that while Web2 technology and internet companies like Meta and Twitter are owned and operated by a central authority, Web3 technology is distributed and owned by the users who govern the protocols on which it is built such as [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/) and [Solana](https://facebook-video-content.techidaily.com/new-enjoy-whole-audio-on-twitch-addressing-muted-segments-now-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **What's a Social Graph and Why Does It Matter?** 
 
 ![Network structures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Network-strcuture.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)_
@@ -55,19 +55,6 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
  The social graph used by legacy Web2 firms as we experience it can be understood like an iceberg in which we often only see the tip protruding above water while there's an enormous amount of data hidden below the surface which we may or may not be able to interact with or see. Essentially, they are choosing which parts of the iceberg to bring to the surface and allow you to interact with and see while deciding which parts to leave hidden below the water's surface. Furthermore, you don't get to know how they are making these selections for you.
 
  In Web2, central authorities have ultimate control over this trove of data, they own it, and they use it as they see fit. DeSo applications being built in Web3 are poised to bring more of the opaque aspects of our social graph above the surface so that developers and users can have more power, gain more insight, and build better systems for living and working together.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Decentralized Social Brings Power Back to the Users** 
 
@@ -89,6 +76,13 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  This effectively turns the social graph each Web2 social media company controls into a moat that they use to keep you there. If you want to go to a different platform, you have to start all over again, building a following and creating and sharing content.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Benefits of DeSo Built with an Open Social Graph** 
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
@@ -109,13 +103,6 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 
  An open social graph allows for a social media experience that more closely resembles the native Web3 multiverse where things can connect with each other. The ability to move your friends list is quite a big change in how we understand social graphs. DeSo allows a future of social media that is not a unique universe or walled garden, but is a multiverse where things can talk to each other and interact in multi-faceted ways.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Choose Your Front-End** 
 
  The more power we have and the more data we control allows us to understand ourselves better. Now we can re-imagine what a front-end user experience using social media can be. If you don't like the data or user experience that comes out of a particular front-end application, you can move on or build your own.
@@ -125,6 +112,13 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  Since developers and designers are not burdened with the heavy lifting of managing their own social graph and back end, they can instead lead with better design and focus on improving the experience for the end user.
 
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Case Study: Lens Protocol, An Open Social Graph** 
 
@@ -145,10 +139,10 @@ _[Lens Protocol](https://lens.xyz/)_
  Lens leverages the modular method for allowing an ecosystem of apps to build without having to worry about the backend and underlying technology. This frees up developers and designers to focus on the user experience and front end. Builders can bypass the heavy lift of creating network effects and bootstrapping a network, offering them a chance to streamline their efforts for creating real value for the end users. Furthermore, modular design allows for an infinitely expanding amount of use cases and features that interact and layer on top of one another that goes beyond platforms like Facebook and Twitter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Where Do We Go From Here?** 
@@ -178,24 +172,17 @@ _[Lens Protocol](https://lens.xyz/)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ideal-screen-capturing-solutions-for-igadgets/"><u>[New] 2024 Approved Ideal Screen Capturing Solutions for iGadgets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-revitalizing-past-moments-with-instagram-filters/"><u>[New] 2024 Approved Revitalizing Past Moments with Instagram Filters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-scouting-top-7-innovative-mobile-streaming-tools-for-youtube-enthusiasts-for-2024/"><u>[Updated] Scouting Top 7 Innovative Mobile Streaming Tools for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-send-smiles-wide-step-by-step-for-sharing-gifs-on-snapchat/"><u>[Updated] Send Smiles Wide Step-by-Step for Sharing Gifs on Snapchat</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/conquering-snapchat-send-gifs-with-ease-for-2024/"><u>Conquering Snapchat Send Gifs with Ease for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-printer-mx490-drivers-on-windows-a-complete-guide/"><u>Download and Install Canon Printer MX490 Drivers on Windows: A Complete Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-fixes-for-an-unresponsive-hp-wireless-keyboard-expert-advice/"><u>Easy Fixes for an Unresponsive HP Wireless Keyboard - Expert Advice</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/harnessing-cloud-power-for-advanced-document-recognition-a-deep-dive-into-ocr-sdk-scalability-on-the-abbyy-blog/"><u>Harnessing Cloud Power for Advanced Document Recognition: A Deep Dive Into OCR SDK Scalability on the ABBYY Blog</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-gaming-fixing-the-assassins-creed-odyssey-freeze-glitch-on-windows-pc/"><u>How to Ensure Smooth Gaming: Fixing the Assassin's Creed Odyssey Freeze Glitch on Windows PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-15-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-11x-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11X 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-meizu-21-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Meizu 21 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-the-0x800704cf-hurdle-in-windows-store-experience/"><u>Removing the 0X800704CF Hurdle in Windows Store Experience</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-realme-gt-5-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Realme GT 5 Pro</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vlcs-screen-recording-capabilities/"><u>[New] 2024 Approved VLC's Screen Recording Capabilities</u></a></li>
+<li><a href="https://facebook.techidaily.com/17-motivating-reasons-to-take-a-social-media-vacation-now/"><u>17 Motivating Reasons to Take a Social Media Vacation Now</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-color-correction-utilizing-luts-in-ae/"><u>Advanced Color Correction Utilizing LUTs in AE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embarking-on-a-path-in-natural-language-processing-the-role-of-a-prompt-engineer/"><u>Embarking on a Path in Natural Language Processing: The Role of a Prompt Engineer</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-mini-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 mini iOS System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-deleted-and-found-again-streaming-yts-forgotten-videos/"><u>In 2024, Deleted and Found Again Streaming YT’s Forgotten Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/python-and-gpt-3-integration-techniques/"><u>Python & GPT-3 Integration Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-audio-workflow-by-changing-m4a-tracks-into-mp3-for-no-cost-trust-in-the-power-of-movavi-converter/"><u>Streamline Your Audio Workflow by Changing M4A Tracks Into MP3 for No Cost - Trust in the Power of Movavi Converter</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-narzo-n55-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme Narzo N55</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-100-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Honor 100 Pro on Windows?</u></a></li>
 </ul></div>
 

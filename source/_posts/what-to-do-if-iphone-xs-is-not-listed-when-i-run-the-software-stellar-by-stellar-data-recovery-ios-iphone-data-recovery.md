@@ -1,7 +1,7 @@
 ---
 title: What to do if iPhone XS is not listed when I run the software? | Stellar
-date: 2024-09-20T02:08:11.470Z
-updated: 2024-09-24T01:42:41.059Z
+date: 2024-11-02T10:04:06.786Z
+updated: 2024-11-03T23:04:41.048Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -53,13 +53,6 @@ While you can also choose to reset the forgotten Apple ID and password and then 
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 1: Use Recovery Mode to reset iPhone without Apple ID**
 
 You can factory reset iPhone without Apple ID or password by using Recovery Mode. Make sure to have the latest iTunes installed on your already trusted computer.
@@ -97,13 +90,6 @@ _Figure: Restore iPhone option iTunes_
 
 iTunes factory resets your iPhone without Apple ID. This will delete all your photos, videos, contacts, messages, chats and other data, same as in normal factory reset process using iPhone settings, which requires Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 2: Reset iPhone without Apple ID via Stellar iPhone Eraser**
 
 **<u><a href="https://www.stellarinfo.com/erase-iphone-data.php" target="_blank" rel="noreferrer noopener">Stellar iPhone Eraser</a></u>** software is another secure way to permanently erase complete iPhone data when you have forgotten Apple ID and password.  The software wipes iPhone as new without using the Apple ID.
@@ -115,6 +101,13 @@ You can permanently delete photos, videos, audio, contacts, messages, passcodes,
 It sets the iOS device to the original factory settings. The software works with all iPhone variants including series of iPhone 15, 14, 13, 12, 11, XS MAX, XS, XR, X, 8, and below. It supports latest iOS 16 and below versions.
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Steps to reset iPhone without Apple ID using software:**
 
@@ -133,6 +126,13 @@ _Figure: Erase iPhone Data screen_
 **Step 4:** Connect your iPhone to the computer when prompted.
 
 ![Erase iPhone button in software](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2020/12/image-56.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Figure: Erase button in software_
 
@@ -167,13 +167,6 @@ _Figure: Reset option in iPhone_
 
 **Also read: <u><a href="https://www.stellarinfo.com/blog/does-factory-reset-deletes-everything-on-iPhone/" target="_blank" rel="noreferrer noopener">Does factory reset deletes everything on iPhone?</a></u>**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Conclusion**
 
 Without the Apple ID and password, you cannot reset your iOS device through the traditional ‘Erase All Content and Settings’ method. Either you recover the forgotten Apple ID and password or use any of the two methods shared above to factory reset the iPhone without Apple ID.
@@ -188,13 +181,6 @@ And the situation can be devastating if the lost photos include your precious me
 
 Helping you out in such a situation, here we bring the methods to recoup your memories back into your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why are your photos lost from iPhone?
 
 There could be many possible reasons for the loss of photos from iPhone. Some common reasons are listed below:
@@ -205,6 +191,13 @@ There could be many possible reasons for the loss of photos from iPhone. Some co
 - Failed iOS update
 - iPhone jailbreak
 - Water damaged, stolen iPhone, and others
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods to recover permanently deleted photos from iPhone
 
@@ -217,6 +210,13 @@ Wherein in absence of backup, an iPhone photo recovery software is the best way 
 Other methods such as photo recovery from 'Recently Deleted' folder or turning on iCloud Photos can also work in specific situations.
 
 These methods can be applied on all iPhone models including series of iPhone 15, 14, 13, 12, 11, XS, XS Max, XR, X, 8 Plus, 8, 7 Plus, 7, 6S Plus, 6S, 6 Plus, 6, 5S, 5c, 5, 4S and 4.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Recover photos from 'Recently Deleted' on iPhone
 
@@ -266,20 +266,20 @@ Step-by-step: Recover deleted photos from iPhone
 
 ![Stellar data recovery for iPhone - Click Next](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen3.png)
 
-- Click Save
-
 <!-- affiliate ads begin -->
-<span id="1982485">
+<span id="1982459">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+- Click Save
 
 ### 3\. Recover from iCloud backup
 
@@ -350,13 +350,6 @@ Follow the below steps to recover only the lost/deleted photos via iTunes:
 
 ![Stellar Data Recovery for iPhone - Recover photos from iTunes](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/Screenshot%20(40).png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - From the list of the iTunes backup files, select the relevant iTunes backup from which you want to restore photos.
 
 ![Stellar Data Recovery for iPhone - iTunes backup](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/iTunes%20backup%202.png)
@@ -393,11 +386,25 @@ To turn on iCloud Photos on Mac
 
 ![Click options](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/hey.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Select iCloud Photos
 
 Next, connect to Wi-Fi and wait for some time until your photos appear again on the synced devices.
 
 Tip: When you turn on iCloud Photos, photos upload to iCloud but they are not duplicated in your iCloud backup. So make backup of your photo library. You can download your photos from iCloud.com to your PC/Mac and store them as a separate library or store them on a separate drive.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comparison — iPhone Photo Recovery Methods
 
@@ -461,13 +468,6 @@ Figure: Restore from Backup in iTunes
 
 In case iTunes could not connect to iPhone and shows value is missing error, learn [how to fix and connect to iTunes](https://www.stellarinfo.com/blog/how-to-fix-itunes-could-not-connect-to-this-iphone-the-value-is-missing/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 2: Recover lost iPhone data after iOS update using iCloud**
 
 All iOS device users have iCloud backup advantage. If, after the iOS 16/15/14/13/12 update, your iPhone contacts, Camera Roll, notes, messages, etc., are missing, recover them using the iCloud backup.
@@ -486,10 +486,10 @@ However, this method resets your device, and all existing data gets deleted. Thi
 ![](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/image-27-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Enter **Apple ID** to sign in to your iCloud account.
@@ -597,5 +597,24 @@ For [recovering imessages](https://www.stellarinfo.com/blog/best-imessage-recove
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-impact-of-luts-on-professional-photography/"><u>[New] In 2024, The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>[New] In 2024, Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-comprehensively-addressed-best-tools-for-efficient-unfollowing/"><u>[Updated] Comprehensively Addressed Best Tools for Efficient Unfollowing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-discover-the-finest-android-and-iphone-photo-overlays-at-no-cost/"><u>[Updated] Discover the Finest Android & iPhone Photo Overlays at No Cost</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ios-screen-recording-the-updated-process-for-2024/"><u>[Updated] IOS Screen Recording The Updated Process for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-joining-the-dots-obs-and-zoom-pairing-explained-for-2024/"><u>[Updated] Joining the Dots OBS & Zoom Pairing Explained for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/5yid44kb44gm6kem44km44kl5pa544g444gu44kk44oe44ow44op44oz77ya44oa44km44oz44ot44o844oj44gl44kj5pel5pys6kqe6kit5a6a44gplus44gn44ks44kk44oj/"><u>初めて触れる方へのイマブラン：ダウンロードから日本語設定までガイド</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-free-webcam-background-replacers-top-7-picks/"><u>Best Free Webcam Background Replacers: Top 7 Picks</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55plus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55+ in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-smart-7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 7 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-960-drivers-new-release/"><u>Nvidia GTX 960 Drivers: New Release</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-tecno-spark-20c-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Tecno Spark 20C</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-6s-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 6s lock with iCloud</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-htc-u23-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your HTC U23 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2024-10-23T19:41:34.291Z
-updated: 2024-10-29T20:46:26.669Z
+date: 2024-10-29T00:00:52.444Z
+updated: 2024-11-04T12:11:18.491Z
 tags:
   - cutting-edge
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Single Point of Failure
 
  What shocks me the most about this CrowdStrike debacle isn't just how fragile our technological world is, but the nature of the fragility.
@@ -45,6 +38,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This teaches us an important lesson about redundancy and the unreliability of centralized systems. In an ideal world, critical systems would have backup plans including alternative platforms like Linux and Mac computers, but this isn't the case. Hopefully, we can learn from this incident and put some sort of backup system in place so we're prepared.
 
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
 
@@ -56,13 +56,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clouds Can Vanish
@@ -73,32 +80,13 @@ Jerome Thomas / How-To Geek
 
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reduce Your Reliance on the Internet
@@ -122,22 +110,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-smartphone-lens-creating-sweeping-panos/"><u>[Updated] 2024 Approved The Smartphone Lens Creating Sweeping Panos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-media-manipulation-from-text-formats-to-srts-for-2024/"><u>[Updated] The Art of Media Manipulation From Text Formats to SRTs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-ranking-of-the-finest-apple-band-straps-for-your-smartwatch-2024s-picks-tested-and-evaluated-zdnet/"><u>Exclusive Ranking of the Finest Apple Band Straps for Your Smartwatch - 2024'S Picks, Tested & Evaluated | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014705390-fixes-for-creative-pebble-audio-device-malfunction-success-stories-inside/"><u>Fixes for Creative Pebble Audio Device Malfunction - Success Stories Inside</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/fully-restore-or-erase-your-iphone-using-stellar-for-windows-and-macos-users/"><u>Fully Restore or Erase Your iPhone Using Stellar for Windows & macOS Users</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a25-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A25 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-x-fold-2-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from X Fold 2.</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-m14-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy M14 4G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-latest-nvidia-gpu-drivers-a-guide-for-surface-book-owners/"><u>Installing the Latest NVIDIA GPU Drivers: A Guide for Surface Book Owners</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-the-new-streaming-landscape-with-youtube-premium/"><u>Navigating the New Streaming Landscape with YouTube Premium</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-pop-8-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Pop 8</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Infinix Smart 7 HD</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-vivo-v29-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Vivo V29 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-y78plus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo Y78+ without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-poco-c50-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco C50 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-light-to-shadow-premiere-pro-transitions/"><u>[New] 2024 Approved From Light to Shadow Premiere Pro Transitions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovate-your-intonation-ranking-the-best-audio-modification-apps-for-mobile/"><u>[New] Innovate Your Intonation Ranking the Best Audio Modification Apps for Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-retrieval-downloading-gifs-from-twitter-apps/"><u>[Updated] Quick Retrieval Downloading GIFs From Twitter Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-your-potential-for-higher-instagram-video-visibility-for-2024/"><u>[Updated] Unlocking Your Potential for Higher Instagram Video Visibility for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-google-pixel-fold-frp-bypass-by-drfone-android/"><u>About Google Pixel Fold FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-moto-g14-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Moto G14 on Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-transforming-mts-and-m2ts-files-into-various-formats/"><u>Step-by-Step Tutorial on Transforming MTS and M2TS Files Into Various Formats</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-minimalists-guide-to-aerial-imagery-with-dji-spark-for-2024/"><u>The Minimalist's Guide to Aerial Imagery with DJI Spark for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-xiaomi-13t-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Xiaomi 13T Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-and-fixes-for-when-your-pc-struggles-to-connect-to-cod-warzone-games/"><u>Tips & Fixes for When Your PC Struggles to Connect to COD Warzone Games</u></a></li>
 </ul></div>
 

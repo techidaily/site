@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Windows 10 Editions, Versions & Builds
-date: 2024-10-25T17:00:04.638Z
-updated: 2024-10-29T19:13:51.606Z
+date: 2024-10-30T02:42:01.763Z
+updated: 2024-11-04T11:35:29.661Z
 tags:
   - desktop
 categories:
@@ -23,13 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Do Build Versions Mean?
 
  Windows has always used build numbers. They represent significant updates to Windows. Traditionally, most people have referred to Windows based on the major, named [version](https://extra-tips.techidaily.com/innovative-ai-tools-to-spark-your-podcast-written-name/) they're using—Windows Vista, 7, 8, and so on. Within those versions, we also had [service packs](https://techidaily.com/undeleted-lost-videos-from-infinix-smart-8-pro-by-fonelab-android-recover-video/) to refer to: Windows 7 Service Pack 1, for example.
@@ -39,10 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Check Windows Version with the Settings App
@@ -59,10 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -72,15 +65,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -101,22 +101,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leading-apps-to-monitor-facebook-twitter-and-instagram-tags/"><u>[New] 2024 Approved Leading Apps to Monitor Facebook, Twitter and Instagram Tags</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-crafting-curve-concepts-for-text-visualization/"><u>[Updated] In 2024, Crafting Curve Concepts for Text Visualization</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-cash-generated-by-every-viewed-stream/"><u>[Updated] In 2024, Unveiling the Cash Generated by Every Viewed Stream</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y77t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y77t in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-v30-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo V30 Pro Quickly? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-building-striking-soundbite-trailers-for-podcasts/"><u>In 2024, Building Striking Soundbite Trailers for Podcasts</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-a18-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of A18 on Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/self-reflection/"><u>Self-Reflection:</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-reno-10-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo Reno 10 5G</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-meizu-21-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Meizu 21 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-realme-c33-2023-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Realme C33 2023</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-nokia-105-classic-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nokia 105 Classic</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-tackle-icons-not-aligned/"><u>Win 11: Tackle Icons Not Aligned</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieving-content-balance-a-thorough-exploration-of-yt-aspect-ratios-for-2024/"><u>[New] Achieving Content Balance A Thorough Exploration of YT Aspect Ratios for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>[New] Syncopate Screen A Beginner's Guide to Mobile Video Making</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ensuring-compliance-with-fb-messenger-call-records/"><u>2024 Approved Ensuring Compliance with FB Messenger Call Records</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dissecting-obs-technology-for-top-level-recording/"><u>In 2024, Dissecting OBS Technology for Top-Level Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-iphone-methods-for-spherical-footage/"><u>Pro iPhone Methods for Spherical Footage</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Motorola Moto G14</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wpt-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wpt file documents online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-journey-from-ad-revenue-to-bank-account-balance-for-2024/"><u>The Journey From Ad Revenue to Bank Account Balance for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-15-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 15 screen lock</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-zero-30-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-arp-cache-and-how-do-you-clear-it-on-windows/"><u>What Is the ARP Cache, and How Do You Clear It on Windows?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-10-27T16:14:38.313Z
-updated: 2024-10-29T19:47:04.981Z
+date: 2024-10-29T23:27:23.687Z
+updated: 2024-11-04T06:30:22.257Z
 tags:
   - desktop
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Identify Music From the Menu Bar or Control Center
 
  In macOS, you can identify songs playing around you, online, or in apps—including while wearing AirPods—using the menu bar or Control Center. You just need to enable the features to do so.
@@ -44,13 +37,6 @@ Close
 
  Download the free [Shazam Mac app](https://apps.apple.com/app/id897118787) to access additional features. With it, you can view time-synced lyrics, change the sound input, enable the always-listening Auto Shazam mode, share identified songs via Messages, open them on Spotify, Deezer, YouTube Music, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to View Your Shazam History
 
  Your Shazam history is under the Music Recognition menu. Click the Shazam icon in the Control Center or menu bar and select any song to learn more about it on the Shazam website.
@@ -60,13 +46,6 @@ Close
  To open the song in the Apple Music app instead, hover over it and click the tiny Apple Music button. Hitting the trashcan icon will remove the selected song from your Shazam history.
 
 ![Music Recognition in macOS menu bar displaying Shazam history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-menu-bar-music-recognition-history-apple-music-trashcan-icons-highlighted.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To automatically back up your Shazam history to iCloud to access it on other devices using the same Apple ID, turn on "Music Recognition" in System Settings > \[your Apple ID\] > iCloud > Show More Apps.
 
@@ -84,9 +63,23 @@ Close
 
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
 ![Details view in Shortcuts for Mac with the Add Keyboard Shortcut button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-add-keyboard-shortcut.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don't see the Shazam shortcut? Click "Gallery" in the sidebar, search for "Shazam," choose "Shazam shortcut," and hit the "Add Shortcut" button.
 
@@ -95,13 +88,20 @@ Close
 ![The Shazam shortcut in macOS displaying music recognition menu, with the Copy to Clipboard option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shazam-shortcut-results-menu-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More Ways to Identify Music
 
@@ -124,19 +124,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streaming-success-capturing-dota-2s-epic-battles-2enas/"><u>[Updated] 2024 Approved Streaming Success Capturing Dota 2'S Epic Battles (2Enas)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/api-success-stories-with-chatgpt-innovation/"><u>API Success Stories with ChatGPT Innovation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhance-audio-quality-reviving-your-disabled-dolby-headphone-feature-in-win-10-read-this/"><u>Enhance Audio Quality: Reviving Your Disabled Dolby Headphone Feature in Win 10? Read This!✨</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/file-salvage-with-windows-essential-tool/"><u>File Salvage with Windows Essential Tool</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-v27-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V27 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-civi-3-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Xiaomi Civi 3 using Video Repair Utility?</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-embrace-effortless-storage-our-20-most-trusted-free-cloud-service-choices-up-to-1tb/"><u>In 2024, Embrace Effortless Storage - Our 20 Most Trusted FREE Cloud Service Choices (Up To 1TB)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ios-device-integration-with-android-images/"><u>In 2024, IOS Device Integration with Android Images</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-speedy-way-to-measure-available-ram-in-windows-a-clear-user-friendly-guide/"><u>The Speedy Way to Measure Available RAM in Windows - A Clear, User-Friendly Guide</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-red-magic-8s-proplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Red Magic 8S Pro+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visual-voyage-navigating-through-dall-e-iiis-imaginative-landscapes/"><u>Visual Voyage: Navigating Through DALL-E III’s Imaginative Landscapes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-innovative-brainstroming-techniques-for-channels-names/"><u>[New] 2024 Approved Innovative Brainstroming Techniques for Channels' Names</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-deconstructing-the-features-of-djis-quadcopter-model-3/"><u>[New] Deconstructing the Features of DJI's Quadcopter Model 3</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-blueprint-crafting-content-for-a-thousand-strong-audience/"><u>[Updated] The Instagram Blueprint Crafting Content for a Thousand-Strong Audience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-sites-streaming-k-drama-series-in-original-language-with-comprehensive-english-subtitles/"><u>Best Sites Streaming K-Drama Series in Original Language With Comprehensive English Subtitles</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/como-reducir-el-tamano-de-los-archivos-de-imagen-para-ahorrar-espacio-en-la-unidad-de-disco/"><u>Cómo Reducir El Tamaño De Los Archivos De Imagen Para Ahorrar Espacio en La Unidad De Disco</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-6-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic 6 Lite phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-stealth-video-tactics-for-soundless-capture/"><u>In 2024, Stealth Video Tactics for Soundless Capture</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-magic-v2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic V2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-basics-of-home-audio-a-detailed-guide-for-newbies-looking-to-upgrade-their-sound-experience/"><u>Mastering the Basics of Home Audio: A Detailed Guide for Newbies Looking to Upgrade Their Sound Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/maximize-your-savings-the-complete-list-of-filmora-coupon-codes/"><u>Maximize Your Savings The Complete List of Filmora Coupon Codes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-user32dll-file-is-absent-issue/"><u>Ultimate Guide: Resolving the 'User32.dll File Is Absent' Issue</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-note-30-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Note 30 5G fingerprint</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 11/10/7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2024-10-26T21:01:59.818Z
-updated: 2024-10-29T19:56:18.659Z
+date: 2024-11-01T13:17:11.543Z
+updated: 2024-11-04T01:45:53.846Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 * [Install WSL through Windows Terminal](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/)
 * [The Slow Way: Enable WSL and Install a Distro](https://smart-video-creator.techidaily.com/new-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To install the Windows Subsystem for Linux (WSL) on Windows 11, run Terminal as administrator, then enter "wsl --install" into the window. Run "wsl --install -d Distro", replacing "Distro" with the name of a Linux distro, to install a specific distribution instead of Ubuntu. You can install additional Linux distros from the Terminal or the Microsoft Store.
@@ -24,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  The Windows Subsystem for Linux (WSL) lets you run Linux software on your Windows 11 PC. When you enable WSL, Windows will install a custom-built Linux kernel. You can then install Ubuntu or another Linux distribution of your choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How WSL Works on Windows 11
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  You can also run graphical Linux apps out of the box (Just install them in the Linux command-line environment and run the command). Windows 11 also includes support for running Linux apps with GPU access, making GPU-accelerated Linux computing workloads run well on Windows.
 
  It is also worth noting that most new, interesting developments for WSL are shifting to Windows 11—Windows 10 users won't be able to use them. 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Install WSL through Windows Terminal
 
@@ -61,6 +75,13 @@ wsl --install
  When the process is complete, Windows will ask you to reboot your PC. Restart your computer by entering **shutdown /r /t 0** into the Terminal. You'll be able to use your Linux system after you do. (You can right-click the Start menu and click Shut Down or Sign Out > Restart to quickly reboot.)
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
@@ -82,31 +103,11 @@ wsl --install -d Debian
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
 
  If you don't see the Linux distribution that you installed in the Windows Terminal, launch it from your Start menu first. After it completes its first-run setup process, it will appear here.
 
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
 
@@ -128,13 +129,6 @@ wsl --install -d Debian
 
 ![Search for "Ubuntu," then click "Get."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ubuntu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now launch it from your Start menu just as if it were installed from the command above. 
 
  New Linux distros are occasionally added to the Microsoft Store, and you can find the currently available distros by searching for "Linux" rather than a specific distro. If your preferred Linux flavor isn't available, you can always import your preferred distro into WSL manually.
@@ -154,18 +148,20 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-shot-selection-mastery-making-every-frame-count-on-youtube/"><u>[Updated] 2024 Approved Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-channel-art-make-banners-icons-and-thumbnails/"><u>[Updated] In 2024, YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laughterlink-join-now-and-start-your-journey/"><u>[Updated] LaughterLink Join Now & Start Your Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cant-delete-temporary-files-in-windows-try-these-fixes/"><u>Can’t Delete Temporary Files in Windows? Try These Fixes</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y36-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y36 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-itel-p55-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel P55 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-11x-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11X 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-upgrade-your-mac-with-macos-sierra-simplified-for-2024/"><u>How to Upgrade Your Mac with macOS Sierra Simplified for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-accessing-your-subscriber-details-directly/"><u>In 2024, Accessing Your Subscriber Details Directly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-nubia-red-magic-8s-proplus-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Nubia Red Magic 8S Pro+ Phone? Unlock It Now</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-c110-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia C110 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transfiere-archivo-pgm-a-formato-png-sin-coste-metodo-online-de-convertir-imagenes/"><u>Transfiere Archivo PGM a Formato PNG Sin Coste: Método Online De Convertir Imágenes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-a-social-storytellers-playbook-maximizing-video-impact-on-fb/"><u>[New] In 2024, A Social Storyteller’s Playbook Maximizing Video Impact on FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-tracks-for-a-professional-unboxing-presentation/"><u>[New] Top Tracks for a Professional Unboxing Presentation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhanced-team-collaboration-with-slack-plus-filmora-timelines-for-2024/"><u>[Updated] Enhanced Team Collaboration with Slack + Filmora Timelines for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-loom-essentials-perfecting-the-art-of-screen-recording/"><u>[Updated] Loom Essentials Perfecting the Art of Screen Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-role-of-b-roll-in-cinematic-storytelling/"><u>[Updated] The Role of B-Roll in Cinematic Storytelling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-advances-in-computer-components-at-toms-hardware/"><u>Exploring the Latest Advances in Computer Components at Tom's Hardware</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-to-downloading-rainierland-films-in-mp4avi-formats-successfully/"><u>Guide to Downloading Rainierland Films in MP4/AVI Formats Successfully</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-itel-s23plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel S23+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c300-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C300 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c33-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C33 2023 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-finding-cost-effective-graphics/"><u>In 2024, Mastering the Art of Finding Cost-Effective Graphics</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-tecno-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Tecno on Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-infinix-hot-40-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-xiaomi-redmi-12-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Xiaomi Redmi 12 5G without backup.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-a-new-world-in-depth-insights-into-watch-dogs-legion-gameplay-and-setting-changeover/"><u>Unpacking a New World: In-Depth Insights Into Watch Dogs: Legion Gameplay and Setting Changeover</u></a></li>
 </ul></div>
 

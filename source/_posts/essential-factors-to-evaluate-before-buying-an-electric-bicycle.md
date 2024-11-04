@@ -1,7 +1,7 @@
 ---
 title: Essential Factors to Evaluate Before Buying an Electric Bicycle
-date: 2024-10-26T16:26:38.737Z
-updated: 2024-10-29T16:31:50.672Z
+date: 2024-10-27T18:29:21.940Z
+updated: 2024-11-04T04:05:11.149Z
 tags:
   - cutting-edge
 categories:
@@ -33,6 +33,13 @@ Sarah Chaney / How-To Geek
 
  If you need a more in depth explainer on [what the different electric bike classes mean](https://extra-skills.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/), we've got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Mid-Drive Motor vs Rear-Hub Motor
 
  An electric bike will either have a mid-drive motor or a hub-drive motor. Mid-drive motors are positioned between the pedals in the middle of a bike, whereas hub-drive motors are situated in the middle of one of the bike’s wheels, typically the rear wheel.
@@ -46,13 +53,6 @@ Sarah Chaney / How-To Geek
  Hub-drive motors are less complicated to fit into a bike’s design, which makes them an easier, cheaper choice for manufacturers. However, hub-drive motors aren’t as efficient as mid-drive motors, and they’re much heavier. Adding extra weight to one end of the bike can make turns while riding feel less natural.
 
  Ebike motors come in various sizes, usually somewhere between 250 to 750 watts. A 750-watt motor compared to a 250-watt motor will be more powerful, more expensive, and (generally) less battery-efficient. The average commuter ebike has either a 250-watt or 350-watt motor paired with a 500Wh battery, both of which offer a good balance of power and range at an affordable price.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Cadence Sensor vs Torque Sensor
 
@@ -68,9 +68,23 @@ Sarah Chaney / How-To Geek
 
  It's also worth noting that an ebike with a throttle kind of negates the torque sensor vs cadence sensor debate—that is, if you plan to primarily use the throttle over the pedals. Using only the throttle and never the pedals will result in less total range, but you'll never experience the resistance from a torque sensor or the jerky nature of a cadence sensor.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Gearing System: Do You Want a Traditional Bike Feel?
 
 ![gearing system on fiido x ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/spedometer-on-fiido-x-ebike.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
 
@@ -91,10 +105,10 @@ Sarah Chaney / How-To Geek
 ![battery on priority ecoast ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/battery-on-priority-ecoast-ebike.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
@@ -106,6 +120,13 @@ Sarah Chaney / How-To Geek
  If you live three to five miles away from school, you could probably commute every day and only charge the bike once a week. If you want to get to school faster and don’t mind charging your ebike more often, a longer battery range won’t be as worth it as a more powerful motor on a Class 3 ebike.
 
  Some ebikes, like the [Fiido E-Gravel](https://extra-support.techidaily.com/in-2024-quick-start-making-professional-gifs/), offer riders the choice of buying an extra battery to extend their overall range. However, the larger your overall battery capacity is, the heavier your ebike will be.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step-Through Frames vs Step-Over Frames
 
@@ -119,38 +140,17 @@ Sarah Chaney / How-To Geek
 
 ![headlight on fiido egravel c22 pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/headlight-on-fiido-egravel-c22-pro.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sarah Chaney / How-To Geek
 
  Many ebike manufacturers will offer free accessories with an ebike purchase as a promotional tactic. Free accessories could include front or rear lights, fenders, cargo racks, baskets, or a water bottle holder. While these bonus accessories are great, they shouldn't be the reason you choose an ebike because they're usually inexpensive, and you can add them to any ebike afterward.
 
  The same thought can be extended to built-in features, like a cargo rack or water bottle holder built into the frame. If you're specifically looking for an ebike with a cargo rack that's sturdier and built directly into the frame, or an ebike with an integrated front light, that's a different story. This advice serves more as a warning to not choose one ebike over another only because of its bonus accessories or built-ins.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which Type of Electric Bike Should You Get?
 
  There's a lot of jargon in the ebike world, so it can understandably feel intimidating to start your search for the perfect ebike. If you know you want to try out an ebike, but you don't want to get hung up on the tiny details, try searching for an ebike based on its type.
 
  Before you make the leap, you can check with a local shop to see if an ebike in stock for you to test ride. Not all ebikes will be available to try locally, but it's becoming more likely as ebikes grow in popularity.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Commuter Ebike
 
@@ -162,13 +162,6 @@ Cory Gunther / How-To Geek
 
  You'll often see the terms "commuter ebike" and "city ebike" used interchangeably, but they generally sport the same design and features. Although commuter ebikes come in Class 1, 2, and 3 variants, most people will go for a Class 3 commuter to maximize speed and reach their destination faster.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Cruiser Ebike
 
 ![white priority bicycles ecoast in front of brick wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/9edbd9e5.jpg) 
@@ -178,10 +171,10 @@ Sarah Chaney / How-To Geek
  If you're after a super comfortable, recreational ride, look no further than cruisers. A cruiser ebike, like the [eCoast](https://tech-recovery.techidaily.com/how-to-properly-incorporate-source-code-into-a-microsoft-word-file/), has a wider, cushier seat than you'll find on a commuter ebike, as well as a suspension system and fatter tires for a smoother ride. Many cruisers are designated as Class 2 or 3, which means they come with a throttle and don't require any pedaling from you if you're just trying to enjoy a relaxing day outside.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Cargo Ebike
@@ -191,6 +184,13 @@ Sarah Chaney / How-To Geek
 Cory Gunther / How-To Geek
 
  A cargo ebike, as the name implies, is handy for hauling a lot of stuff around. These ebikes are generally heavier and larger than other ebikes before adding your own cargo. A cargo ebike, like the [RadWagon 4](https://youtube-docs.techidaily.com/024-approved-avoiding-strikes-youtube-edition/), is defined by its fat tires, built-in racks or extra seats (or both), and thicker frame. Although commuter ebikes might be more common, many people prefer cargo ebikes for their commute to work because it offers so much storage space.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Folding Ebike
 
@@ -227,22 +227,16 @@ Sarah Chaney / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-video-scaling-for-perfect-mac-display/"><u>[New] 2024 Approved Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-perfect-pace-a-comprehensive-guide-to-slow-movies-on-hero-10/"><u>[New] Capturing Perfect Pace A Comprehensive Guide to Slow Movies on Hero 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-excellence-in-gaming-graphics-at-4k-speeds-for-2024/"><u>[New] Excellence in Gaming Graphics at 4K Speeds for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-review-the-ultimate-4k-action-recorder/"><u>[Updated] 2024 Approved Review The Ultimate 4K Action Recorder</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-soft-melodies-pcos-guide/"><u>[Updated] In 2024, Mastering Soft Melodies PC/OS Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>2024 Approved Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-discovering-the-ultimate-set-of-text-tools-for-ae-artistry/"><u>2024 Approved Discovering the Ultimate Set of Text Tools for AE Artistry</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/colombias-caregiving-organization-fundacion-danny/"><u>Colombia’s Caregiving Organization - Fundacion Danny</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-xs-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone XS Space | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/hasten-your-vimeo-watch-time/"><u>Hasten Your Vimeo Watch Time</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edgeplus-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge+ (2023) in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-7-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF File using PDF Repair Tool | Stellar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-app-audit-by-az-recorder/"><u>[New] Comprehensive App Audit by AZ Recorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mobiledesktop-seamless-fb-video-downloading-2023/"><u>2024 Approved Mobile/Desktop Seamless FB Video Downloading, 2023</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-13-pro-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 13 Pro 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevating-your-websites-visibility-through-advanced-cookiebot-tools/"><u>Elevating Your Website's Visibility Through Advanced Cookiebot Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-tips-for-enhanced-kinemaster-frame-focus/"><u>Expert Tips for Enhanced Kinemaster Frame Focus</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-insights-on-saving-smartphone-moments/"><u>In 2024, Expert Insights on Saving Smartphone Moments</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-pova-5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316955-9781401941864-the-only-thing-that-matters/"><u>The Only Thing That Matters | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avi-3gp-movavi/"><u>웹에서 무료 AVI 파일을 바인드하기 위해 자이오티를 구성하기 위한 3GP로의 전환 - MOVAVI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package"
-date: 2024-10-28T19:23:56.803Z
-updated: 2024-10-29T18:42:14.449Z
+date: 2024-11-01T05:22:52.270Z
+updated: 2024-11-04T06:37:25.686Z
 tags:
   - desktop
 categories:
@@ -49,10 +49,10 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Price and Availability
@@ -135,6 +135,13 @@ Expand
 
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Lenovo ThinkBook 13x Gen 4 is a sleek, familiar build that most people who've used a ThinkBook will recognize. Encased in a premium aluminum chassis, I found its minimalist design exuded professionalism but looked contemporary and sleek. Whereas Lenovo might've gone a bit more experimental with the [ThinkBook Plus Gen 4 2-in-1 laptop](https://video-capture.techidaily.com/in-2024-streamline-communications-with-these-best-5-capture-tools/), they've stuck to basics for the 13x Gen 4\. Its build reminded me of the basic yet sleek [ThinkPad Z13 Gen 2 laptop](https://youtube-tips.techidaily.com/024-approved-quick-steps-to-quality-content-via-studio-editor/); it even had some similar specs.
@@ -146,10 +153,10 @@ Jerome Thomas / How-To Geek
  The keyboard is a 10keyless chiclet affair that takes up about half of the laptop's base, and the buttonless touchpad rests underneath it in a nearly central location.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Ports: Just the Basics** 
@@ -178,6 +185,13 @@ Jerome Thomas / How-To Geek
 
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Display and Graphics: Beautiful 2.8K Stands Out
 
 ![The Lenovo ThinkBook 13x Gen 4 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-on-a-table-2_53755755605_o-1.jpg) 
@@ -199,16 +213,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance: Excellent Computing Within Limits
@@ -235,23 +243,9 @@ Jerome Thomas / How-To Geek
 
  When I ran a benchmark with 3DMark's Time Spy, the ThinkBook 13x scored an overall 3,456\. The CPU scored 7,876, while the graphics scored significantly lower at 3,145\. Playing "Red Dead Redemption 2" at 1080p would give a frame rate of 40FPS, while the ThinkBook 13x could eke out up to 120FPS during Apex Legends at 1080p.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Speakers, Camera, and Microphones
 
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -270,24 +264,24 @@ Close
  Singing or speaking at louder volumes also triggered the noise cancellation to come on rather strongly, and it drowned out particular high tones of speech or voice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### 
-
-### 
 
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 
+
+### 
 
 ##  Battery and Charging: Decent Battery Gain and Drain
 
@@ -299,13 +293,6 @@ Jerome Thomas / How-To Geek
 
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
 
  If you're looking for an ultra-portable laptop that's powerful enough to handle many tasks at once and serve as a primary device for consuming and creating media, you won't need to look further than the [Lenovo ThinkBook 13x Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036). But it does have its limits—a smaller screen size won't be for everyone, the integrated graphics do well but aren't as powerful for gamers, and the keyboard could be better.
@@ -313,6 +300,13 @@ Jerome Thomas / How-To Geek
  Those looking for a more gaming-centric setup might consider a [gaming laptop](https://youtube-zero.techidaily.com/ed-gamers-galaxy-100plus-spaces-of-play/) or if you want the best of both worlds, something with a little more oomph, an upgraded [Dell XPS 16 (9640)](https://desktop-recording.techidaily.com/updated-in-2024-hone-your-talks-expert-insights-into-google-meet-chats/).
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -339,19 +333,24 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-fusionslideshow-crafting-video-plus-image-narratives/"><u>[Updated] 2024 Approved FusionSlideshow Crafting Video + Image Narratives</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques/"><u>[Updated] In 2024, Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/al-dollars-crafting-an-online-wealth-journey-for-2024/"><u>Digital Dollars Crafting an Online Wealth Journey for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782406-9781591438229-ecstatic-body-postures/"><u>Ecstatic Body Postures | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-audio-glitches-repair-the-astro-a40s-nonfunctional-mic/"><u>Fixing Audio Glitches: Repair the Astro A40's Nonfunctional Mic</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-successfully-retry-and-complete-an-interrupted-ios-system-update/"><u>How to Successfully Retry and Complete an Interrupted iOS System Update</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-sony-xperia-5-v-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Sony Xperia 5 V Through Google Earth?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-methods-for-time-loop-illusions-for-2024/"><u>Innovative Methods for Time Loop Illusions for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-tecno-camon-20-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Tecno Camon 20</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-itel-a05s-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Itel A05s</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia without backup.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-decreasing-decibents-deliberately-logic-pros-volume-techniques/"><u>[New] 2024 Approved Decreasing Decibents Deliberately Logic Pro's Volume Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-and-user-friendly-voice-editing-apps/"><u>[Updated] 2024 Approved Innovative and User-Friendly Voice Editing Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-basic-guide-to-windows-voice-modification-clowns-for-2024/"><u>[Updated] Basic Guide to Windows Voice Modification - Clowns for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-canvas-audio-guide-adding-tweaking-and-refining-sounds/"><u>2024 Approved Canva's Audio Guide Adding, Tweaking, & Refining Sounds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook/"><u>2024 Approved Gopro Expertise Unleashed Livestreams Directed at Periscope & Facebook</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-steps-to-stop-windows-11-from-constantly-rebooting/"><u>Effortless Steps to Stop Windows 11 From Constantly Rebooting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-new-samsung-galaxy-z-flip-6-find-out-about-its-features-market-price-and-upcoming-availability/"><u>Explore the New Samsung Galaxy Z Flip 6: Find Out About Its Features, Market Price & Upcoming Availability</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-6-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-pro-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 12 Pro Max to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-hot-40i-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Hot 40i phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-radiant-spectrum-enhancer/"><u>In 2024, Radiant Spectrum Enhancer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-facebook-ad-success-with-these-3-adapted-writing-techniques/"><u>In 2024, Unlock Facebook Ad Success with These 3 Adapted Writing Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/new-and-improved-bioshock-2-say-goodbye-to-game-interruptions/"><u>New and Improved BioShock 2 - Say Goodbye to Game Interruptions!</u></a></li>
+<li><a href="https://techidaily.com/samsung-cant-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung can't play MP4 video files</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi Redmi K70</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-note-30-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Note 30.</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung ?</u></a></li>
 </ul></div>
 

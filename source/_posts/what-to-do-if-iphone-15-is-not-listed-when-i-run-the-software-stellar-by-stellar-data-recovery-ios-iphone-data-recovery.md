@@ -1,7 +1,7 @@
 ---
 title: What to do if iPhone 15 is not listed when I run the software? | Stellar
-date: 2024-09-17T20:31:35.118Z
-updated: 2024-09-23T20:32:40.330Z
+date: 2024-10-30T17:13:12.025Z
+updated: 2024-11-04T08:44:31.658Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -54,22 +54,16 @@ Other methods such as photo recovery from 'Recently Deleted' folder or turning o
 
 These methods can be applied on all iPhone models including series of iPhone 15, 14, 13, 12, 11, XS, XS Max, XR, X, 8 Plus, 8, 7 Plus, 7, 6S Plus, 6S, 6 Plus, 6, 5S, 5c, 5, 4S and 4.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Recover photos from 'Recently Deleted' on iPhone
 
 ![Recover photos from Recently Deleted](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The 'Recently Deleted' folder on iPhone keeps all the deleted photos for 30 days. Beyond this duration, the photos are automatically deleted from iPhone and this time permanently.
 
@@ -116,13 +110,6 @@ Step-by-step: Recover deleted photos from iPhone
 ![Stellar data recovery for iPhone - Click Next](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen3.png)
 
 - Click Save
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Recover from iCloud backup
 
@@ -181,13 +168,6 @@ Steps to restore photos from iTunes backup:
 
 All your lost and deleted photos will be restored on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to recover Photos from iTunes without losing the existing iPhone data
 
 Use Stellar Data Recovery for iPhone to protect your current data on iPhone. The software allows you to select and recover only the lost photos from iTunes. With this method, you can prevent unnecessary data recovery on your iOS device.
@@ -200,16 +180,16 @@ Follow the below steps to recover only the lost/deleted photos via iTunes:
 
 ![Stellar Data Recovery for iPhone - Recover photos from iTunes](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/Screenshot%20(40).png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - From the list of the iTunes backup files, select the relevant iTunes backup from which you want to restore photos.
 
 ![Stellar Data Recovery for iPhone - iTunes backup](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/iTunes%20backup%202.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - If your iTunes backup is encrypted, a dialog box will open prompting you to enter the password. Enter the password and click OK.
 - From the backup files list in the left pane, click Camera Roll and Photo Stream. Preview the existing and deleted photos or search for a specific photo by typing a keyword in the search box. Click Deep Scan at the bottom left side, if your desired photos are not in the list.
@@ -238,13 +218,6 @@ To turn on iCloud Photos on Mac
 - Go to System Preferences > iCloud.
 
 ![To turn on iCloud Photos on Mac](https://www.stellarinfo.com/image/catalog/article/recover_photos_iphone/10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Next to Photos, click Options
 
@@ -289,13 +262,6 @@ Before starting, it’s crucial to [back up your iPhone data](https://www.stella
 
 Next, follow the step-by-step instructions on resetting an iPhone using iPhone Settings, iPhone erasure software, and iTunes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 1: Reset iPhone Without Losing Data via Settings**
 
 To reset iPhone without losing data, you need to use the **‘Reset’** feature in your iPhone. This feature has different options on how you would like to reset- whether through the **‘Reset All Settings’** or the **‘Reset Network Settings’** option.
@@ -311,6 +277,13 @@ Moreover, no data or media is deleted from iPhone when choosing the Reset All Se
 - Click **Reset** options.
 
 ![reset iPhone via Settings app](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Next, click the **Reset All Settings** option.
 - Then enter the iPhone **passcode**.
@@ -352,9 +325,23 @@ Stellar Toolkit for iPhone is compatible with the latest iPhone 14, 13, 12, and 
 
 ![Stellar Toolkit for iPhone - click Repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/Stellar-Toolkit-for-iPhone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 7:** Once you receive the message —The repairing process of the selected iOS device is completed, click **OK**.
 
 ![Stellar Toolkit for iPhone -repair process gets completed](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/Stellar-Toolkit-for-iPhone-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your iPhone to see if the iOS issues are resolved.
 
@@ -375,9 +362,29 @@ To reset your iPhone, you can use iTunes or Finder app. You need to use Mac or W
 
 ![reset iphone via itunes - click Restore iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/reset-iphone-via-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Click **Restore** to confirm. It might take a while for your iPhone to reset; don’t disconnect your device from the computer until the reset process is completed.
 
 ![reset iphone via itunes - click Restore](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/09/reset-iphone-via-itunes-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Once the restore process is complete, set up your iPhone as new or restore it from a backup.
 
@@ -410,6 +417,13 @@ Use an [iCloud backup to restore](https://www.stellarinfo.com/blog/restore-iphon
 _Is it possible to recover deleted iPhone text messages? Can I restore text messages deleted from my iPhone?_
 
 These are some questions that are quite common among iPhone users. Smartphones, especially iPhones, have become an inseparable part of our lives. We use them to stay connected with our friends and family, stay up to date with the latest trends, stream media, and store a huge amount of photos and videos. While the newer iPhones come preloaded with a host of intelligent features to keep our data safe and backed up in a difficult situation, they are still vulnerable to data loss. We have curated a list of the 8 best iPhone data recovery software, which anyone can use to restore and recover iPhone text messages and data deleted from an iPhone or another iOS device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Factors to Consider While Choosing a Deleted iPhone Texts Recovery Software
 
@@ -500,13 +514,6 @@ Dr. Fone for iOS is an iPhone data recovery software that allows its users to re
 - $59.95 for 1-Year License
 - $69.95 for a Perpetual license
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4. EaseUS Mobisaver
 
 EaseUS Mobisaver is an iOS data recovery software that allows users to restore iPhone text messages and recover common data like photos, videos, etc. It is supported by both Mac and Windows OS and can be used to recover data in case of jailbreak damage.
@@ -527,13 +534,6 @@ EaseUS Mobisaver is an iOS data recovery software that allows users to restore i
 - Free (with limited data recovery)
 - Pro Edition for $59.95/month
 - $79.95/Year or $99.95 for Lifetime Upgrades
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5. Joyoshare iPhone Data Recovery
 
@@ -643,5 +643,20 @@ Absolutely. Stellar iPhone Recovery can easily recover and restore deleted text 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-post-resurrecting-made-simple/"><u>[New] In 2024, Post Resurrecting Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-eye-catching-fb-ad-content/"><u>[Updated] 2024 Approved Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-video-conversion-save-vimeo-videos-as-mp4/"><u>[Updated] Mastering Video Conversion Save Vimeo Videos as MP4</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-from-novice-to-pro-transforming-videos-using-vida/"><u>2024 Approved From Novice to Pro Transforming Videos Using Vida</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-setting-up-zoom-like-a-pro/"><u>In 2024, Setting Up Zoom Like a Pro</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-x50-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor X50.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-hevc-video-transcoder-premium-h2/"><u>Ultimate HEVC Video Transcoder: Premium H.2</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme V30T? | Dr.fone</u></a></li>
+</ul></div>
 

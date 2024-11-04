@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB"
-date: 2024-10-24T20:37:16.488Z
-updated: 2024-10-29T17:34:47.326Z
+date: 2024-11-03T09:15:22.277Z
+updated: 2024-11-04T12:41:12.505Z
 tags:
   - deals
 categories:
@@ -19,26 +19,12 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * [How to Copy Files Using Copy and Paste](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [What to Do If You Run out of Space on the Flash Drive](https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-bootloader-easily-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Connect the USB flash drive to your Windows 10 PC by plugging it into a USB port. Open File Explorer and locate the drive under "Devices And Drives" in the "This PC" window.
 * To copy files to the drive, either drag and drop them directly into the USB drive window or right-click and select "Copy" on the files, then right-click within the USB drive window and select "Paste".
 
  If you'd like to copy files to a [USB flash drive](https://screen-recording.techidaily.com/updated-innovative-methods-to-log-gaming-sessions/) on Windows 10 — perhaps to back them up or transfer them to another computer — it's easy to do using File Explorer. Here's how.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  First, Locate the USB Drive on Your PC
 
@@ -49,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Searching for "This PC" in the Windows 10 Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/launch-this-pc.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the window that pops up, locate the section called "Devices And Drives." If necessary, click the small carat-shaped arrow to the left of the section header to reveal a list of the drives.
@@ -65,13 +51,20 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Our example USB drive is has been assigned the letter K.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/usb-drive.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the USB drive doesn't show up in your "Devices And Drives" list, you'll have to perform some in-depth sleuthing with [our guide to finding missing USB drives](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/) to figure out what's going on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find the Files You Want to Copy
@@ -106,24 +99,24 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Right-click empty space in the destination drive and select "Paste."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/select-paste.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The files you "copied" to the Clipboard earlier will be copied onto the USB flash drive.
 
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What to Do If You Run out of Space on the Flash Drive
@@ -131,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  If you're copying files to your USB flash drive and you receive a message such as "There is not enough space" or "There is insufficient disk space to complete the operation," then you've run out of free space on your flash drive.
 
 ![An insufficient space message in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_not_enough_space.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are three basic solutions. The first is to explore the contents of your USB flash drive and see if it already contains data that you can delete to free up space. Be careful that you don't delete anything that you haven't already backed up somewhere else.
 
@@ -153,20 +153,17 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-roadmap-to-crafting-high-quality-srt-files/"><u>[Updated] The Ultimate Roadmap to Crafting High-Quality SRT Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-video-editing-tools-convert-dvr-files-to-avi-format-on-your-windows-pc/"><u>Best Video Editing Tools: Convert DVR Files to AVI Format on Your Windows PC</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V27 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209975751-9781439667842-haunted-flint/"><u>Haunted Flint | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-redmi-note-12-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Redmi Note 12 4G Is Unlocked</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to others devices? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-c50-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco C50 Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-insights-boosting-your-follower-count/"><u>In 2024, Instagram Insights Boosting Your Follower Count</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-virtual-forum-transcription/"><u>In 2024, Virtual Forum Transcription</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-persuasion-writing-compelling-proposals-with-chatgpt/"><u>Mastering the Art of Persuasion: Writing Compelling Proposals with ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-c51-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of C51</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Hot 40</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-yuva-2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Yuva 2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-guide-to-saving-screen-captures-in-windows-8-for-2024/"><u>[New] Quick Guide to Saving Screen Captures in Windows 8 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-youtube-sounds-4-top-budget-friendly-apps/"><u>[Updated] Mastering YouTube Sounds - 4 Top Budget-Friendly Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-official-acer-monitor-drivers-step-by-step-tutorial/"><u>Find and Install Official Acer Monitor Drivers – Step by Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2023-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Tecno Spark Go (2023) Phone Without Password?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovative-economical-switch-replicas/"><u>In 2024, Innovative Economical Switch Replicas</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-personalize-vr-gear-with-homemade-google-headgear/"><u>In 2024, Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-13-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi 13 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-ultimate-guide-to-overcome-the-red-screen-error/"><u>Resolved: Ultimate Guide to Overcome the Red Screen Error</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-y200-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo Y200 without backup.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-fb-seo-potential-with-keyword-rich-strategies/"><u>Unlock FB SEO Potential with Keyword-Rich Strategies</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
 

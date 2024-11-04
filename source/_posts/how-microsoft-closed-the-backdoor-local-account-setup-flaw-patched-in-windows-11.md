@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-10-23T18:59:34.757Z
-updated: 2024-10-29T18:43:55.644Z
+date: 2024-10-28T10:40:37.401Z
+updated: 2024-11-04T01:29:28.483Z
 tags:
   - deals
 categories:
@@ -40,27 +40,29 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>[New] 2024 Approved Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-best-apps-to-transform-your-vertical-igtv-footage-for-2024/"><u>[Updated] Best Apps to Transform Your Vertical IGTV Footage for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-backup-solutions-efficiently-saving-your-data-on-a-lenovo-notebook-with-windows-11/"><u>1. Backup Solutions: Efficiently Saving Your Data on a Lenovo Notebook with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-windows-7-headphone-not-working-issue/"><u>Fix Windows 7 Headphone Not Working Issue</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-decides-against-issuing-product-recalls-for-faulty-processors/"><u>Intel Decides Against Issuing Product Recalls for Faulty Processors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-pro-7s-flickering-display/"><u>Solving Pro 7'S Flickering Display</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-server-connection-woes-heres-how-you-can-restore-access/"><u>Steam Server Connection Woes? Here’s How You Can Restore Access</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-15-funny-youtube-channels-to-watch-when-youre-bored-for-2024/"><u>Top 15 Funny YouTube Channels to Watch When You're Bored for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-v30-by-fonelab-android-recover-data/"><u>Undelete lost data from V30</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-itel-s23plus-by-fonelab-android-recover-music/"><u>Undelete lost music from Itel S23+</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-a1-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo A1 5G</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211166571-9781396323119-wisdom-of-the-ages/"><u>Wisdom of the Ages | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-free-windows-software-perfect-tv-recording-techniques-for-2024/"><u>[Updated] Free Windows Software Perfect TV Recording Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-top-10-hd-webcams-reviewed/"><u>[Updated] The Essential Top 10 HD Webcams Reviewed</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comment-resoudre-les-problemes-de-transfert-de-fichiers-sur-windows-11-sujets-daide-et-conseils-rapides/"><u>Comment Résoudre Les Problèmes De Transfert De Fichiers Sur Windows 11? Sujets D'Aide Et Conseils Rapides</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a15-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A15 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-solving-realtek-hd-audio-player-startup-problems/"><u>Comprehensive Guide to Solving Realtek HD Audio Player Startup Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-visual-content-with-macos-preview-your-guide-to-a-hidden-tool-for-perfect-pictures/"><u>Enhancing Visual Content with macOS Preview - Your Guide to a Hidden Tool for Perfect Pictures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-advanced-features-in-microsoft-onenote-with-onetastic-plugin-review/"><u>Exploring Advanced Features in Microsoft OneNote with Onetastic Plugin Review</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to others devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Civi 3 Phone Without Password?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insights-and-analysis-of-the-amazon-fire-hd-8-gen-8-striking-value-in-an-affordable-user-friendly-tablet/"><u>Insights and Analysis of the Amazon Fire HD 8 Gen 8: Striking Value in an Affordable, User-Friendly Tablet</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2019-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2019</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-xiaomi-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Xiaomi without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-play-7t-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Play 7T</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-v30t-by-fonelab-android-recover-messages/"><u>Undelete lost messages from V30T</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

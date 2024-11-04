@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu User Guide: Personalizing Your Folders with Unique Icons"
-date: 2024-10-27T17:38:27.287Z
-updated: 2024-10-29T18:00:17.978Z
+date: 2024-10-28T00:28:51.889Z
+updated: 2024-11-03T20:48:21.677Z
 tags:
   - desktop
 categories:
@@ -42,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![Ubuntu background screen showing various applications on the dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ubuntuhome-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, right-click on the folder you want to customize. Then, click the "Properties" option.
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Inside the "Properties" section, click on the default folder icon.
 
@@ -61,16 +61,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![A window for selecting a custom icon to set it as a folder icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it, the icon for the selected folder will be changed.
 
 ![Folder icon with new look](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Give a Unique Color to Your Folder Icons on Ubuntu
 
@@ -93,27 +93,41 @@ nautilus -q
 ![A window showing the main context menu along with the color tool sub-menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The folder icon color will be changed to blue.
 
 ![Nautilus file manager showing home directory after changing color to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Similarly, you can also add emblems to your folder icon.
 
 ![Nautilus file manager shows the home directory after adding an emblem to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can change the color of multiple folders at once. Select all the folders, then right-click and choose a suitable color for the folders.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Restore a Folder's Icon to Its Default Look
@@ -124,27 +138,20 @@ nautilus -q
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Within the properties, click on the currently used custom icon shown in the "Basic" section of folder properties.
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lastly, tap the "Revert" option to restore the custom icon to its default look.
 
 ![A window for reverting a custom icon to its default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You have successfully restored the folder icon to its original look.
 
@@ -155,13 +162,6 @@ nautilus -q
  To restore the default folder color, right-click the folder icon and navigate to the "Color" option. From there, click on the "Default" option.
 
 ![A window showing the main context menu along with the color tool submenu with the default option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The folder icon with the default color will be restored successfully.
 
@@ -190,22 +190,18 @@ nautilus -q
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flipping-filmmaking-on-your-android-device/"><u>[New] Flipping Filmmaking on Your Android Device</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y02t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y02T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-social-gameplay-sharing-fun-on-the-sony-ps5-console/"><u>Enhance Your Social Gameplay: Sharing Fun on the Sony PS5 Console</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebooks-ultimate-guide-selective-downloader-addons-and-extensions-for-firefox-for-2024/"><u>Facebook's Ultimate Guide Selective Downloader Addons & Extensions for Firefox for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-retrieving-lost-iphone-application-icons-with-simple-tips/"><u>Guide to Retrieving Lost iPhone Application Icons with Simple Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-7-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 7 Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Pro Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-13c-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi 13C? Fixed | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-youtube-shorts-investments/"><u>Navigating YouTube Shorts Investments</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-bless-unleashed-lag-spike-fixes-on-pc-platforms/"><u>Step-by-Step Troubleshooting for Bless Unleashed Lag Spike Fixes on PC Platforms</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-100-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor 100 without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://solve-info.techidaily.com/wie-man-heic-bilder-von-google-photos-effektiv-in-das-verbreitetere-jpeg-format-konvertiert/"><u>Wie Man HEIC Bilder Von Google Photos Effektiv in Das Verbreitetere JPEG-Format Konvertiert</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-efficiently-saving-your-screen-the-dell-approach/"><u>[Updated] 2024 Approved Efficiently Saving Your Screen The Dell Approach</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-selfie-to-world-stage-mastering-the-art-of-instagram-captions/"><u>[Updated] Selfie to World Stage Mastering the Art of Instagram Captions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>[Updated] The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unveiling-the-secrets-of-superior-tiktok-captions-top-5-strategies/"><u>[Updated] Unveiling the Secrets of Superior TikTok Captions (Top 5 Strategies)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ai-name-magic-selecting-the-best-tools-for-your-podcast-titles/"><u>AI Name Magic Selecting the Best Tools for Your Podcast Titles</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-8-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 8 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Plus Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-12-proplus-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme 12 Pro+ 5G Device</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-blaze-2-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Blaze 2 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/surviving-heatwaves-and-frostbite-the-durability-of-evs-againnst-drastic-weather-conditions/"><u>Surviving Heatwaves & Frostbite: The Durability of EVs Againnst Drastic Weather Conditions</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo .</u></a></li>
 </ul></div>
 

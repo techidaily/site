@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs"
-date: 2024-10-27T18:44:53.103Z
-updated: 2024-10-29T20:37:29.302Z
+date: 2024-10-31T10:27:44.856Z
+updated: 2024-11-03T17:50:57.064Z
 tags:
   - cutting-edge
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 ![ChatGPT Humanize Plugin Runnin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-11-00-49.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, plugins are still a beta feature, and at the time of writing, the Humanize plugin seemed to have issues, although I've had good results with it in the past. There are also many other plugins in the store (with more added frequently) that promise to rephrase or otherwise humanize text for you, so have a browse of what's on offer.
 
 ##  Method 3: Just Ask for Humanized Text
@@ -51,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 ![ChatGPT 4 offers to natively humanize text without a plugin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-13-00-35.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After asking GPT-4 to humanize its text, we get a full endorsement from GPT Zero, but also the actual text reads _much_ better than before.
@@ -62,17 +69,10 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 ![GPT Zero result showing confidence in full human text origin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-11-06-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 4: Prompt Specific Author Styles
@@ -81,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 ![Prompt reading "Rewrite this in the style of Sydney Butler, writer for how-to geek"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-14-07-59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're a ChatGPT Plus subscriber, you can use the [Custom Instructions](https://facebook-video-content.techidaily.com/new-mastering-monetization-a-beginners-guide-to-facebook-revenue-for-2024/) to make permanent changes to how ChatGPT responds in every chat, as long as those instruction are active.
 
  Again, we get a result for human, with a few single sentences flagged as potentially AI-generated.
 
 ![Low perplexity sentences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-12-16-18.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also add additional flavor to your prompt, such as asking for the tone to be casual, friendly, etc., and in many cases, this will result in GPT Zero reporting with confidence that the text is human.
 
@@ -117,16 +117,18 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-asmr-benefits-unveiled-your-mental-gain/"><u>[New] ASMR Benefits Unveiled – Your Mental Gain</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-10-best-gba-emulators-for-android/"><u>[Updated] 2024 Approved The 10 Best GBA Emulators for Android</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-smart-8-plus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Smart 8 Plus without App | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y28-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-s17e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S17e without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unlock-your-dvds-a-beginners-guide-to-converting-to-digital-video-formats-for-2024/"><u>New Unlock Your DVDs A Beginners Guide to Converting to Digital Video Formats for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/secure-your-logitech-k350-performance-with-newest-available-drivers/"><u>Secure Your Logitech K350 Performance with Newest Available Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-capturing-your-hearthstone-matches-on-windows-pc/"><u>Step-by-Step Guide: Capturing Your Hearthstone Matches on Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-reestablish-cloud-sync-in-steam-decks/"><u>Steps to Reestablish Cloud Sync in Steam Decks</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-strategic-approach-to-advertising-on-spotify/"><u>[New] The Strategic Approach to Advertising on Spotify</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unveiling-the-simplicity-of-storytelling/"><u>[New] Unveiling the Simplicity of Storytelling</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-which-gopro-is-better-max-360-or-hero-11/"><u>[Updated] Which GoPro Is Better, Max 360 or Hero 11?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-art-of-making-youtube-thumbnails-on-the-go-mobile/"><u>2024 Approved The Art of Making YouTube Thumbnails on the Go (Mobile)</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-g24-power-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola G24 Power Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-libre-de-wmv-en-3gp-en-ligne-mouvavi/"><u>Conversion Libre De WMV en 3GP en Ligne - Mouvavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y78plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y78+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-app-for-android-complete-review/"><u>In 2024, KineMaster App for Android - Complete Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-your-path-to-superior-hdr-imagery/"><u>In 2024, Your Path to Superior HDR Imagery</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Galaxy Z Fold 5</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-realme-c67-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Realme C67 5G.</u></a></li>
 </ul></div>
 

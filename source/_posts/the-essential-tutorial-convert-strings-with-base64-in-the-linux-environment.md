@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial: Convert Strings with Base64 in the Linux Environment"
-date: 2024-10-23T17:57:39.929Z
-updated: 2024-10-29T17:20:03.157Z
+date: 2024-10-27T23:32:12.594Z
+updated: 2024-11-04T09:08:28.657Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,13 @@ echo -n 'I love Linux' | base64
 
 ![The Linux terminal displaying the process of encoding a string using base64 omitting the newline character](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can notice, the output is different from the previous one. You can also do this using the printf command which doesn't automatically append a newline character to the string. The format is given below:
 
 printf 'I love Linux' | base64
@@ -49,7 +56,21 @@ base64 <<< 'I love Linux'
 
 ![The Linux terminal showcases how to encode a string using the base64 command with the help of here string operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Similar to the echo command, here-strings also add a newline character at the end of the string.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Encoding Files Using the base64 Command
 
@@ -61,6 +82,13 @@ base64 base.txt
 
 ![The Linux terminal displaying the process of encoding a file to base64 using the base64 command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Remember to replace base.txt with your file name. The above command only displays the output in the terminal. It doesn't save the encoded string anywhere. However, you can easily do that by redirecting the output to a new file. I've created another file called output.txt. This time I'll save the output to that empty file. Here's the command for that:
 
 base64 base.txt > output.txt
@@ -68,20 +96,13 @@ base64 base.txt > output.txt
 ![The Linux terminal showcasing the process of encoding the content of a file to base64 and saving it to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, the terminal didn't display the output. This command saved it to another file instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Decoding a base64 String Using the base64 Command
 
@@ -97,6 +118,13 @@ base64 -d <<< SG93VG9HZWVrCg==
 
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of here-strings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes, there might be non-alphanumeric characters in a string. You can ignore those while decoding the string by using the "-i" option.
 
 ##  Using Python to Encode and Decode a base64 String
@@ -109,52 +137,31 @@ echo 'I love Linux' | python3 -m base64 # Using the echo commandpython3 -m base6
 
 ![The Linux terminal displays the process of encoding a string to base64 using Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To decode a base64 string, all you need to do is use the "-d" flag as seen previously with the base64 command. The syntax is below:
 
 echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​​​​​​python3 -m base64 -d <<< 'SSBsb3ZlIExpbnV4Cg==' # Using here-strings
 
 ![The Linux terminal showing the process of decoding a base64 string using the Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, the convenient way is to create a Python program that can handle the encoding and decoding by taking user input. First, let's create a program that will encode a string. Here's the encoding code:
 
         `import base64  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get input string from the user  
 input_string = input("Enter the string to encode: ")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Encode the string using base64  
 encoded_string = base64.b64encode(input_string.encode('utf-8'))  
 
 ## Decode the encoded string to ensure it's correct (optional)  
 decoded_string = base64.b64decode(encoded_string).decode('utf-8')  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Print the encoded and decoded strings  
 print("Encoded string:", encoded_string.decode('utf-8'))  
@@ -170,13 +177,6 @@ python3 base64_encoder.py
  You can also create a program to decode a base64 string. Here's a code snippet you can use:
 
         `import base64  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get input base64 string from the user  
 encoded_string = input("Enter the Base64 string to decode: ")  
@@ -215,20 +215,18 @@ python3 base64_decoder.py
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/usion-of-youtube-beats-and-imovie-editing-magic/"><u>[New] Fusion of YouTube Beats and iMovie Editing Magic</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mov-storage-solutions-maximizing-capacity-on-windows/"><u>[Updated] 2024 Approved .mov Storage Solutions Maximizing Capacity on Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-ace-advertising-and-analytics-youtubes-universal-monetization-techniques-for-2024/"><u>[Updated] Ace Advertising and Analytics YouTube's Universal Monetization Techniques for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-copyright-free-audio-treasury-for-gamers-online/"><u>[Updated] Copyright-Free Audio Treasury for Gamers Online</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-pro-video-recording-on-iphone-meets-instant-photos/"><u>[Updated] Pro Video Recording on iPhone Meets Instant Photos</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/windows-781011-ghost/"><u>對Windows 7/8/10/11系統進行無損傷 Ghost硬碟操作：一站式指南解析</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-creativity-in-writing-unmatched-by-algorithms/"><u>Human Creativity in Writing Unmatched by Algorithms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unlock-multi-window-video-experience-in-edge/"><u>In 2024, Unlock Multi-Window Video Experience in Edge</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-nubia-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Nubia</u></a></li>
-<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11 & 10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/user-friendly-singing-machine-sml385btbk-top-rated-multicolor-karaoke-device-for-instant-entertainment/"><u>User-Friendly Singing Machine SML385BTBK - Top Rated, Multicolor Karaoke Device for Instant Entertainment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-zero-to-hero-establishing-a-new-social-media-presence-facebook/"><u>[New] In 2024, From Zero to Hero Establishing a New Social Media Presence (Facebook)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-your-passport-to-popularity-9-essential-instagram-secrets-for-success/"><u>[New] Your Passport to Popularity 9 Essential Instagram Secrets for Success</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-a-symphony-of-surroundings-to-silent-solitude-the-pathway-to-muting-background-noise/"><u>2024 Approved From a Symphony of Surroundings to Silent Solitude The Pathway to Muting Background Noise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-enterprise-explained-what-makes-it-stand-out-in-professional-settings/"><u>ChatGPT Enterprise Explained: What Makes It Stand Out in Professional Settings?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-pro-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a79-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A79 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo Reno 10 5G Phone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-sound-to-storage-logging-online-broadcasts-efficiently/"><u>In 2024, From Sound to Storage Logging Online Broadcasts Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-what-is-youtube-tag-and-how-to-find-great-tags-for-your-videos/"><u>In 2024, What Is YouTube Tag and How to Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-gt-5-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme GT 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-10-v-music-recovery-recover-deleted-music-from-sony-xperia-10-v-by-fonelab-android-recover-music/"><u>Sony Xperia 10 V Music Recovery - Recover Deleted Music from Sony Xperia 10 V</u></a></li>
 </ul></div>
 

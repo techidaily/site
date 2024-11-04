@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment"
-date: 2024-09-28T02:58:41.872Z
-updated: 2024-10-01T03:52:31.517Z
+date: 2024-10-30T17:06:39.477Z
+updated: 2024-11-04T00:45:28.360Z
 tags:
   - cutting-edge
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  Want to use the ChatGPT in a terminal window on your Ubuntu Linux PC? ShellGPT lets you use all the features of the famous AI chatbot, on the command line. Here's how to set ShellGPT up and start using it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is ShellGPT?
 
 [ShellGPT](https://github.com/TheR1D/shell%5Fgpt) is a Python program that lets you access [OpenAI's ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/) from the command line of a terminal window. It sends your text prompts and your ChatGPT [API](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) key to ChatGPT and prints out ChatGPT's response.
@@ -50,13 +57,6 @@ Related: [How to Run a ChatGPT-like AI on Your Own PC](https://tech-revival.tech
 python --version
 
 ![Checking the version of Python in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/1-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Python isn't installed, you can install it using this command.
 
@@ -83,10 +83,10 @@ sudo apt install python3-venv
 ![Installing the Python virtual environment module on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Prepare a Python Virtual Environment
@@ -131,7 +131,21 @@ source shellgpt/bin/activate
 
 ![providing a name for the API key, with the "Create secret key" button highlghited](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/9-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your new key is displayed to you. **You only get to see your key this one time**. If you log out and back in, you'll see an entry for the key, but you won't be able to view the entire key string. So, copy the key and paste it into an editor, and save the file with an obvious name.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 4: Export the API Key
 
@@ -143,13 +157,6 @@ export OPENAI_API_KEY=<your secret API key>
 
 ![Exporting the ChatGPT API key on the command line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/10-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To put the export command in your ".bashrc" file, use your favorite editor and add the command to your file.
 
 gedit ~/.bashrc
@@ -157,10 +164,10 @@ gedit ~/.bashrc
 ![Adding the export ChatGPT line to the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/11-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Save your changes and close the editor. To force your terminal session to reread your ".bashrc" file, use the `source` command.
@@ -168,13 +175,6 @@ gedit ~/.bashrc
  source \~/.bashrc
 
 ![Using source to force the shell to read the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/12-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 5: Install ShellGPT
 
@@ -185,10 +185,16 @@ python pip shell-gpt
 ![Using pip to install the shell-gpt module](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/13-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The installation will begin, and a variety of package names will scroll by in your terminal window.
@@ -229,6 +235,13 @@ chatgpt
 
 ![Using the chatgpt alias to access ShellGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/19-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Learning ShellGPT Commands
 
  The [ShellGPT GitHub page](https://github.com/TheR1D/shell%5Fgpt) has much more information on using ShellGPT and its command line options.
@@ -248,10 +261,10 @@ sgpt --code "Show me an example of a recursive function in C"
  ShellGPT, through ChatGPT, can also generate [syntax-correct Bash commands and shell scripts](https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  "In Conclusion"
@@ -261,13 +274,6 @@ sgpt --code "Show me an example of a recursive function in C"
  Or at least, that's what it says.
 
 ![Using ShellGPT and ChatGPT yto write the closing paragraph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/22-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -284,20 +290,24 @@ sgpt --code "Show me an example of a recursive function in C"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>[Updated] Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[Updated] In 2024, GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-significant-20-public-domain-pubg-snapshot-packs/"><u>[Updated] In 2024, Significant 20 Public Domain PUBG Snapshot Packs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/achieving-tech-savvy-comfort-with-my-smart-home-project-launched-during-this-years-prime-day-sales/"><u>Achieving Tech-Savvy Comfort with My Smart Home Project Launched During This Year's Prime Day Sales</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/al-dominance-top-youtube-watch-count-chronicles-for-2024/"><u>Digital Dominance Top YouTube Watch Count Chronicles for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-starts-in-blackness-heres-how-to-restore-your-quest-beginning/"><u>Elden Ring Starts in Blackness? Here’s How to Restore Your Quest Beginning!</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/1725286974482-gpu-powered-winxvideo-ai/"><u>GPU-Powered WinxVideo AI：超快速影音转换解析方法</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-itel-a60-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel A60 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-easily-by-drfone-android/"><u>How To Unlock a Vivo Easily?</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-edge-40-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Edge 40</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-galaxy-a05-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Galaxy A05 password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/will-xiaomi-civi-3-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi Civi 3 play AVCHD mts files?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-virtual-realms-on-screen-comprehensive-techniques-for-gameplay-recording/"><u>[New] 2024 Approved Virtual Realms on Screen Comprehensive Techniques for Gameplay Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhancing-your-iphones-screen-recording-skills/"><u>[Updated] 2024 Approved Enhancing Your Iphone's Screen Recording Skills</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tunes-to-timelapse-crafting-mobile-music-videos/"><u>[Updated] Tunes to Timelapse Crafting Mobile Music Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/distance-desired-ending-facebook-connections/"><u>Distance Desired: Ending Facebook Connections</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-se-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone SE Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-find-x6-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Find X6 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro iOS System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-m14-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy M14 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-find-n3-flip-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Find N3 Flip Lock Screen Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-a38-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo A38 to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-lava-blaze-2-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Lava Blaze 2 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-linking-your-pc-with-bluetooth-audio-devices/"><u>Ultimate Guide: Linking Your PC with Bluetooth Audio Devices</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-pro-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Pro screen lock without password</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11/10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows
-date: 2024-09-30T06:51:05.227Z
-updated: 2024-10-05T22:52:17.599Z
+date: 2024-11-02T13:23:51.791Z
+updated: 2024-11-04T00:09:12.895Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
@@ -105,26 +105,26 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-achieving-soft-sound-effects-in-audacity/"><u>[New] Achieving Soft Sound Effects in Audacity</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-directscreen-a-streamlined-windows-recorder/"><u>[New] DirectScreen A Streamlined Windows Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-pathway-to-perfection-a-pro-guide-to-instagram-photos/"><u>[New] The Pathway to Perfection A Pro Guide to Instagram Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-capture-save-and-share-mastering-playstation-4-recordings/"><u>2024 Approved Capture, Save & Share Mastering PlayStation 4 Recordings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-moto-g34-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola Moto G34 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-note-30i-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Note 30i?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xs-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-shots-to-boost-circular-vignette-features-for-2024/"><u>Transform Shots to Boost Circular Vignette Features for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-x-flip-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from X Flip.</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-8-plus-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 8 Plus using icloud website</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-lgs-retail-and-wholesale-avenues/"><u>Unlocking the Secrets of LG’s Retail and Wholesale Avenues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>[New] 2024 Approved Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-5-best-sites-for-quick-templates-on-youtube/"><u>[New] In 2024, 5 Best Sites for Quick Templates on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[Updated] 2024 Approved Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cost-free-webm-viewing-a-list-of-industry-standouts/"><u>[Updated] In 2024, Cost-Free WebM Viewing A List of Industry Standouts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-ultimate-mkv-video-player-for-windows-8-and-81-64-bit-32-bit-download-now/"><u>Free Ultimate MKV Video Player for Windows 8 & 8.1 (64-Bit / 32-Bit) - Download Now!</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-f5-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco F5 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-sonic-canvas-painting-sounds-on-a-mac/"><u>In 2024, Sonic Canvas Painting Sounds on a Mac</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-v29-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo V29 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-docm-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .docm file Documents Online for Free</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-art-of-seamless-editing-mastering-the-filmora-experience-for-2024/"><u>The Art of Seamless Editing Mastering the Filmora Experience for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-itel-p55-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Itel P55 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-zero-30-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Zero 30 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/wattpad-stars-moments-on-snapchat/"><u>Wattpad Stars Moments on Snapchat</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

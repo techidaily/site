@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings"
-date: 2024-10-27T17:25:55.782Z
-updated: 2024-10-29T18:20:29.385Z
+date: 2024-11-01T07:01:29.461Z
+updated: 2024-11-04T03:12:26.092Z
 tags:
   - deals
 categories:
@@ -16,26 +16,12 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 * [Check the Key That Turns Off the Caps Lock](https://vp-tips.techidaily.com/updated-unlock-picture-perfection-compreenhensive-facetune-review/)
 * [Ensure the Caps Lock Key Isn't Faulty](https://tech-haven.techidaily.com/how-do-these-apps-harness-gpt-4s-power/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Check that the Shift key is not set to disable the Caps Lock. Navigate to Settings > Time and Language > Typing > Advanced Keyboard Settings > Language Bar Options. Go to the "Advanced Key Settings" tab and check the circle beside the "Press the Caps Lock Key" option. Apply the changes and click "OK."
 * Use a keyboard testing website to ensure the Caps Lock key is working fine. If the key is faulty, either disable or remap it.
 
  Are you unable to deactivate the Caps Lock on your keyboard? This problem might occur if your keyboard settings are configured to turn off the lock when the Shift key is pressed. Another possible culprit could be a faulty Caps Lock key. Below, we have outlined the steps to identify the underlying cause and fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the Key That Turns Off the Caps Lock
 
@@ -44,21 +30,35 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Opening the typing settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-opening-the-typing-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, go to "Advanced Keyboard Settings" and click the "Language Bar Options" link. In the Text Services and Input Languages window, navigate to the "Advanced Key Settings" tab. Check the circle beside "Press the Caps Lock Key" option under "To Turn Off Caps Lock" if "Press the Shift Key" is selected. Apply the changes, then click "OK."
 
 ![Changing the key that turns off the Caps Lock in the advanced keyboard settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-changing-the-key-that-turns-off-the-caps-lock-in-the-advanced-keyboard-settings-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Ensure the Caps Lock Key Isn't Faulty
 
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the key registers and the testing window starts to type letters in lowercase, the key is not faulty. However, if the key doesn't register and fails to change the case, it indicates a defective key. It is possible there is debris inside the keyboard, causing keypresses to not register correctly. You can try [cleaning your keyboard](https://some-approaches.techidaily.com/accelerate-operations-master-document-handling-through-automation-technology-in-the-finance-sector/) to see if that solves the issue. If that doesn't work, you can either have your keyboard (or laptop) inspected or [disable and remap the Caps Lock key](https://extra-information.techidaily.com/constructing-premium-canon-timelapse-movies-for-2024/).
@@ -94,18 +94,21 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>[New] Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467603043-are-your-iphone-pictures-really-gone-forever-discover-8-solutions/"><u>Are Your iPhone Pictures Really Gone Forever? Discover 8 Solutions!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-missing-opencl-dll-files/"><u>Dealing with Missing OpenCL DLL Files</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme GT 5 Pro?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-total-control-guide-powerdirector-user-manual/"><u>In 2024, Total Control Guide PowerDirector User Manual</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-daily-productivity-a-complete-guide-to-managing-lifes-tasks-with-trello/"><u>Mastering Daily Productivity: A Complete Guide to Managing Life's Tasks with Trello</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/resolving-cannot-reinstall-windows-partitions-easy-steps-and-solutions/"><u>Resolving 'Cannot Reinstall Windows Partitions': Easy Steps and Solutions</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2021-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2021 | Stellar</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-17-applications-de-screenshot-gratuites-en-2024-une-selection-exhaustive-avec-movavi/"><u>Top 17 Applications De Screenshot Gratuites en 2024: Une Sélection Exhaustive Avec Movavi</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-itel-s23-by-fonelab-android-recover-music/"><u>Undelete lost music from Itel S23</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>[New] In 2024, Optimizing Your FB Video Ads 20 Best Tips for Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-transform-your-instagram-strategy-with-precision-metrics-monitoring-tools/"><u>[New] Transform Your Instagram Strategy with Precision Metrics Monitoring Tools</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-curve-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze Curve 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-mini-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 mini with a Broken Screen?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/expert-tips-on-retrieving-data-when-your-ssd-refuses-to-start/"><u>Expert Tips on Retrieving Data When Your SSD Refuses to Start</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-novice-to-expert-crafting-top-tier-reddit-posts/"><u>From Novice to Expert Crafting Top-Tier Reddit Posts</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-gpu-spendback-three-big-regrets-here/"><u>High-End GPU Spendback: Three Big Regrets Here</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-se-2020-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone SE (2020) Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/secure-backup-strategies-fur-die-datenbank-mit-sql-server-management-studio/"><u>Secure Backup Strategies Für Die Datenbank Mit SQL Server Management Studio</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s24-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S24 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vidma-screen-recorder-review-for-2024/"><u>Vidma Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-y78-5g-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo Y78 5G</u></a></li>
 </ul></div>
 

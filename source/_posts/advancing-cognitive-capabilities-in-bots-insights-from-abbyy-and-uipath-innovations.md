@@ -1,7 +1,7 @@
 ---
 title: "Advancing Cognitive Capabilities in Bots: Insights From ABBYY and UiPath Innovations"
-date: 2024-09-29T12:15:38.112Z
-updated: 2024-10-06T11:55:39.847Z
+date: 2024-10-30T23:27:33.623Z
+updated: 2024-11-04T11:39:08.005Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473b14b1614804e43117d93320.jpg
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ## Advancing Cognitive Capabilities in Bots: Insights From ABBYY and UiPath Innovations
 
 ## 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ABBYY | UiPath
 
@@ -31,13 +24,20 @@ UiPathのテクノロジーパートナーとして、ABBYYは、UiPathのお客
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-document-archiving/drawer-image.jpg?h=392&iar=0&w=696)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### ABBYYとUiPathがどう連携するか 
 
@@ -49,10 +49,10 @@ UiPathのためにABBYYソリューションで実現できること：
 * 文書、画像やテキストを含むコンテンツ中心の処理作業を自動化するためにRPAの使用範囲を拡大できます。これにより、戦略的なDX（デジタルトランスフォーメーション）の活動をサポートすることができます。
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 連携するメリット 
@@ -82,10 +82,10 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/uipath_logo_rev_120px.png?h=43&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 専門家に相談してみませんか？
@@ -107,24 +107,24 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-dynamic-musical-journeys-with-crossfading/"><u>[Updated] Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-universal-guide-hulu-recording-on-pc-apple-ios-and-android-for-2024/"><u>[Updated] Universal Guide Hulu Recording on PC, Apple, iOS & Android for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-poco-f5-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco F5 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y78plus-t1-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y78+ (T1) Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972142977-download-and-update-amd-radeon-rx-580-graphics-driver-simple-steps/"><u>Download & Update AMD Radeon RX 580 Graphics Driver - Simple Steps!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-poco-m6-pro-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Poco M6 Pro 5G.</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a14-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A14 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24+ Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oppo-find-n3-flip-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Oppo Find N3 Flip Phone Pattern Lock</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-oneplus-nord-ce-3-lite-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-galaxy-a54-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Galaxy A54 5G</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/splice-video-editor-on-mac-download-guide-and-best-alternative/"><u>Splice Video Editor on Mac Download Guide and Best Alternative</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streamline-your-screens-the-benefits-of-using-showmore/"><u>Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-walkthrough-to-establish-yourself-on-the-revamped-x-network/"><u>The Complete Walkthrough to Establish Yourself on the Revamped X Network</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-trimming-videos-will-almost-always-result-in-quality-loss-here-are-the-three-best-video-cutters-you-can-use-to-edit-videos-without-losing-qu/"><u>Updated In 2024, Trimming Videos Will Almost Always Result in Quality Loss. Here Are the Three Best Video Cutters You Can Use to Edit Videos without Losing Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-palette-power-skillful-color-adjustment/"><u>[New] 2024 Approved Palette Power Skillful Color Adjustment</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-innovative-tactics-for-cutting-edge-macro-video-creation-for-2024/"><u>[New] Innovative Tactics for Cutting-Edge Macro Video Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-high-quality-video-transfer-from-fb-to-mp4-no-cost-online-method/"><u>[Updated] In 2024, High-Quality Video Transfer From FB to MP4 – No Cost Online Method</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-omni-directional-vision-and-its-distinctive-features/"><u>[Updated] Omni-Directional Vision and Its Distinctive Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavirawjpg/"><u>利用Movavi在線自由改變RAW成JPG - 無損影像編碼器</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-world-in-motion-discover-14-text-animation-creations-for-2024/"><u>A World in Motion Discover 14 Text Animation Creations for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-13-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 13 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-90-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 90 phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-m6-pro-4g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco M6 Pro 4G Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-p55-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel P55 Phone Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2016-online-add-signature-to-word-2016-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2016 Online - Add Signature to Word 2016 for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-x50-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor X50</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-the-oversized-pagefilesys-dilemma-a-comprehensive-guide/"><u>Tackling the Oversized Pagefile.sys Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-itel-p55plus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Itel P55+</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-the-infamous-tfla0002-finals-issue/"><u>Ultimate Guide: Resolving the Infamous TFLA0002 Finals Issue</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-hot-40-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Hot 40.</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-huawei-nova-y91-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Huawei Nova Y91?</u></a></li>
 </ul></div>
 

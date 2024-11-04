@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating Full-System Colour Selection on Windows 10 PCs"
-date: 2024-10-27T17:08:59.197Z
-updated: 2024-10-29T19:13:13.356Z
+date: 2024-11-02T22:17:20.125Z
+updated: 2024-11-04T09:50:18.012Z
 tags:
   - deals
 categories:
@@ -31,10 +31,16 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
@@ -59,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
@@ -68,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 ![In Color Picker, click the color bar to adjust the color values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/click_color_bar.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After clicking the color bar, you'll see another screen with sliders that allow you to adjust the color with your mouse or by entering values with your keyboard.
@@ -79,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 ![The Color Picker color adjustment window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_adjust_window.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you're done, click "OK," and then the color will be added to your saved color palette, which is the vertical column of boxes along the left side of the window. If you need to remove a color from the palette on the side of the window, right-click the color square and select "Remove."
@@ -90,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
 
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
@@ -119,24 +125,17 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-become-a-pro-at-snap-ad-development-hacks-and-strategies/"><u>[New] 2024 Approved Become a Pro at Snap Ad Development - Hacks and Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2023s-guide-to-ios-iphoneipad-screen-capture-effortlessly-for-2024/"><u>[Updated] 2023'S Guide to iOS (iPhone/iPad) Screen Capture Effortlessly for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-9-fitness-trends-to-captivate-your-online-audience-with-action/"><u>[Updated] 2024 Approved 9 Fitness Trends to Captivate Your Online Audience with Action</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-collection-best-zero-price-photo-editing-software/"><u>[Updated] The Ultimate Collection Best Zero-Price Photo Editing Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mirth-machines-zombie-comedy-constructors/"><u>2024 Approved Mirth Machines Zombie Comedy Constructors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723864254809-flash-deal-alert-the-4tb-ssd-by-crucial-is-now-a-steal-only-005-per-gb-but-hurry-limited-stock-available/"><u>Flash Deal Alert! The 4TB SSD by Crucial Is Now a Steal - Only $0.05 per GB, But Hurry, Limited Stock Available</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-15-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 15 Plus Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-google-pixel-fold-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-the-steps-to-shut-down-your-linkdnug-account/"><u>Mastering the Steps to Shut Down Your LinkDnug Account</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pioneering-digital-expression-with-these-6-best-nft-makers/"><u>Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ost-reliable-7-free-tools-to-extract-video-tags-on-youtube/"><u>The Most Reliable 7 Free Tools to Extract Video Tags on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-ultimate-guide-to-text-preset-mastery/"><u>The Ultimate Guide to Text Preset Mastery</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-y77t-by-fonelab-android-recover-music/"><u>The way to get back lost music from Y77t</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Xiaomi 14 Pro</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-6-plus-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 6 Plus without itunes or icloud</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-direct-engagement-syncing-instagram-with-facebook/"><u>[New] 2024 Approved Direct Engagement Syncing Instagram with Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-mac-apps-the-leading-alternatives-to-bandicam/"><u>[Updated] Essential Mac Apps The Leading Alternatives to Bandicam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-motivational-lens-capturing-stirring-scenes-on-ig/"><u>[Updated] The Motivational Lens Capturing Stirring Scenes on IG</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-opening-doors-to-collective-listening-on-youtube/"><u>2024 Approved Opening Doors to Collective Listening on YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-find-and-update-your-ch34-g-chip-drivers-for-seamless-windows-11-integration/"><u>Easy Setup: Find & Update Your CH34^ G Chip Drivers for Seamless Windows 11 Integration</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-c65-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C65 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-crashes-and-booting-issues-in-amd-radeon-graphic-drivers/"><u>How To Resolve Crashes and Booting Issues in AMD Radeon Graphic Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/key-russian-greetings-for-easy-language-conversations/"><u>Key Russian Greetings for Easy Language Conversations</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic-6-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic 6 on Mac</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f34-5g-messages-recovery-recover-deleted-messages-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-messages/"><u>Samsung Galaxy F34 5G Messages Recovery - Recover Deleted Messages from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-xs-max-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone XS Max lock with Apple ID</u></a></li>
 </ul></div>
 

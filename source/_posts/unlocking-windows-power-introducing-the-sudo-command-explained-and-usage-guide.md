@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2024-10-27T20:51:33.653Z
-updated: 2024-10-29T16:40:12.735Z
+date: 2024-11-03T05:14:56.872Z
+updated: 2024-11-03T18:54:48.114Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Is sudo So Revered?
@@ -33,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
@@ -57,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable sudo in Windows 11
@@ -73,18 +67,18 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft
 
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
 
@@ -113,16 +107,19 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-enhancing-your-listening-experience-the-essentials-of-recording-with-audacity-on-mac/"><u>[New] Enhancing Your Listening Experience The Essentials of Recording with Audacity on Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-streamlined-techniques-for-sharing-your-desktopmobile-screen-for-2024/"><u>[New] Streamlined Techniques for Sharing Your Desktop/Mobile Screen for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-end-uavs-purchase-without-delay/"><u>[Updated] High-End UAVs Purchase Without Delay</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-x50-gt-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor X50 GT Phone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-9-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 9 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2010-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2010 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/samsungs-latest-virtual-reality-breakthrough-announced-at-july-2024-unpacked-zdnet-insights/"><u>Samsung's Latest Virtual Reality Breakthrough Announced at July 2024 Unpacked | ZDNET Insights</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-galaxy-m34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Galaxy M34 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-notch-passport-pictures-create-and-save-with-our-free-tool/"><u>Top-Notch Passport Pictures - Create and Save with Our Free Tool</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S24?</u></a></li>
-<li><a href="https://techidaily.com/will-xiaomi-civi-3-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi Civi 3 play AVCHD mts files?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[New] 2024 Approved The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-instantly-engage-in-video-talks-using-whatsapp-web-from-your-laptop/"><u>[Updated] 2024 Approved Instantly Engage in Video Talks Using WhatsApp Web From Your Laptop</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-future-earnings-gaming-geeks-on-youtube/"><u>[Updated] Future Earnings Gaming Geeks on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-video-perfection-in-progress-edits-after-uploading-on-youtube/"><u>2024 Approved Video Perfection in Progress Edits After Uploading on YouTube</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-14-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 14 With 7 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/polishing-old-videos-windows-madvr-techniques-unveiled/"><u>Polishing Old Videos: Windows MadVR Techniques Unveiled</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/programdata-windows-10windows-11/"><u>ProgramDataフォルダを表示する - Windows 10およびWindows 11の解決策</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a78-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A78 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-taking-apart-an-xbox-360-slim/"><u>Step-by-Step Guide to Taking Apart an Xbox 360 Slim</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
 

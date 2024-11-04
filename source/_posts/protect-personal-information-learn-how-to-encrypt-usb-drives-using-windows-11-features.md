@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features"
-date: 2024-10-28T18:09:55.009Z
-updated: 2024-10-29T19:34:44.434Z
+date: 2024-10-27T22:48:17.355Z
+updated: 2024-11-03T20:00:29.865Z
 tags:
   - deals
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 * [How to Decrypt a USB Flash Drive in Windows 10 or 11](https://extra-resources.techidaily.com/the-ultimate-platform-showdown-podcast-vs-youtube/)
 * [Third-Party Encryption Options](https://tech-hub.techidaily.com/how-to-harness-the-power-of-gpt-3-in-your-openai-experiments/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Windows 10 and 11 Pro users can easily encrypt and decrypt flash drives using the built-in BitLocker feature, providing a convenient way to protect sensitive information.
@@ -33,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
  Flash drives are convenient, but they're also easy to lose and often contain sensitive information you don't want in the wrong hands. Luckily, Windows 10 and 11 Pro users can easily encrypt and decrypt flash drives with no additional software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is BitLocker (And Why Use It)?
 
  BitLocker is a powerful encryption feature in Windows 10 and 11 Pro that protects the data on your drives so that no one can read their contents without the encryption key. The default level of encryption is AES-128, which would take millions or even billions of years to crack using current supercomputers.
@@ -47,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
  To use BitLocker, in addition to having the right version of Windows, your computer must be equipped with a TPM (Trusted Platform Module) of at least version 1.2\. If your computer doesn't have one, you'll need to [create a startup USB key](https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/). However, this is only relevant to internal system drives, and here we're discussing removable media. Likewise, encrypting the drive that contains Windows has special requirements regarding how the drive must be partitioned, but these requirements don't apply to secondary internal drives or removable, non-bootable drives.
 
  Full disk encryption isn't something everyone needs to do, but if your computer has sensitive information on it that could harm you if the drive were stolen, BitLocker is a good way to protect yourself. It's particularly useful for portable computers, since these have a much higher chance of being lost or stolen than a desktop system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Encrypt a USB Flash Drive in Windows 10 or 11
 
@@ -64,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![Window showing the startup sequence for BitLocker Drive Encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5\. Choose a password.
 
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
@@ -78,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
@@ -91,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![The BitLocker Ready screen with a 'Start Encrypting' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the process was successful, your drive is now protected by strong encryption and can only be accessed using its password.
 
 ##  How to Decrypt a USB Flash Drive in Windows 10 or 11
@@ -110,24 +96,44 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![A right-click context menu showing the option to manage BitLocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the BitLocker management Windows, choose "Turn off BitLocker" for the drive in question.
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then simply confirm as you did when first encrypting the drive.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Third-Party Encryption Options
 
@@ -156,21 +162,22 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-camera-control-tips-for-unshakable-images/"><u>[New] 2024 Approved Camera Control Tips for Unshakable Images</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-uncover-the-top-12-best-flip-screen-vlogging-tools/"><u>2024 Approved Uncover the Top 12 Best Flip-Screen Vlogging Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-viral-visions-top-ig-story-filters/"><u>2024 Approved Viral Visions Top IG Story Filters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-premier-android-collage-crafting-tools/"><u>Discover the Premier Android Collage Crafting Tools</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12r-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12R without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-narzo-60-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Narzo 60 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y27-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y27 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2020-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2020) to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-brilliance-essential-lighting-hacks-for-iphone/"><u>In 2024, Capture Brilliance Essential Lighting Hacks for IPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stop-unknown-numbers-guide-to-disable-no-caller-id-on-your-iphone/"><u>Stop Unknown Numbers: Guide to Disable 'No Caller ID' On Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a56s-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A56s 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-netgear-c3000-how-does-this-old-school-modemrouter-hold-up-now/"><u>Unboxing the Netgear C3000 – How Does This Old-School Modem/Router Hold Up Now?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/web-video-upload-and-download-tutorial-how-to-convert-and-edit-your-content/"><u>Web Video Upload & Download Tutorial: How to Convert and Edit Your Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/bes-twist-rearranging-queue-from-end-to-beginning-for-2024/"><u>YouTube's Twist Rearranging Queue From End to Beginning for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-designing-aplus-cover-photos-for-your-insta-highlights/"><u>[Updated] 2024 Approved Step-by-Step Designing A+ Cover Photos for Your Insta Highlights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-8t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 8T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210580394-9781647553043-ghostly-tales-of-iowa-2nd-ed/"><u>Ghostly Tales of Iowa (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-google-pixel-8-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Google Pixel 8 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-razr-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Razr 40 FRP Bypass</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/master-the-art-of-cutting-a-video-editors-handbook-for-instagram/"><u>Master the Art of Cutting A Video Editor's Handbook for Instagram</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-zero-30-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speedy-mkv-to-mp4-file-conversion-the-ultimate-guide-with-the-speedy-mkv-to-mp4-converter-app/"><u>Speedy MKV to MP4 File Conversion: The Ultimate Guide with the Speedy MKV to MP4 Converter App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-existent-files-warning-in-windows-11/"><u>Tackling Non-Existent Files Warning in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-arctic-freezer-36-upgrades-entry-level-air-conditioner-standards/"><u>The Ultimate Review: Arctic Freezer 36 Upgrades Entry-Level Air Conditioner Standards</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-x50iplus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - X50i+</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-hidden-details-in-asmr-recordings-for-2024/"><u>Unveiling Hidden Details in ASMR Recordings for 2024</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-wont-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi won’t play MKV movies</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced User Experience with the Latest Cookiebot Technology
-date: 2024-10-02T08:23:45.291Z
-updated: 2024-10-06T02:54:52.446Z
+date: 2024-10-30T01:35:02.043Z
+updated: 2024-11-04T10:30:07.938Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33cafa8864cd2873a58b515ce.png
@@ -20,16 +20,16 @@ Legal | BPO and Shared Services | eDiscovery | Document Processing
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## eDiscovery Leader Adds Advanced Intelligent Document Processing with ABBYY
@@ -39,10 +39,10 @@ BPO and Shared Services | Document Processing
 ![Costain Transforms Its Finance Department Using ABBYY Content Intelligence](https://static4.abbyy.com/abbyycommedia/36085/abbyy-nuix-556x303.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Customer Overview
@@ -50,10 +50,10 @@ BPO and Shared Services | Document Processing
 ![Nuix](https://static1.abbyy.com/abbyycommedia/36096/nuix-logo_117x56.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 | Name         | Nuix                                  |
@@ -115,16 +115,10 @@ For Nuix, too, the benefits are multiple. “The added value that ABBYY brings i
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
@@ -148,20 +142,20 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-easy-routine-reverse-playback-on-vlc-platform/"><u>[New] Easy Routine Reverse Playback on VLC Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44cm55s75yop44kt44oj44ox44ob44oj44o844ov44kh44kk44or44gu5yih44kk5yplusw44kk44go57eo6zug5oml6acg44cn/"><u>「画像キャプチャーファイルの切り取りと編集手順」</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-nokia-c02-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia C02 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-n3-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find N3 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode Screen?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-moto-g13-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola Moto G13 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/thaw-out-with-five-inviting-winterscapes-for-video-filming-for-2024/"><u>Thaw Out with Five Inviting Winterscapes for Video Filming for 2024</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-google-pixel-8-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Google Pixel 8 Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-freeze-time-a-step-by-step-guide-to-pausing-videos/"><u>Updated 2024 Approved Freeze Time A Step-by-Step Guide to Pausing Videos</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-14-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on 14 Pro ?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-characters-animation-basics-in-wmm/"><u>[New] In 2024, Crafting Characters Animation Basics in WMM</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[Updated] 2024 Approved The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>[Updated] Sky-High Quality Unveiling the Best 4K Video Converters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-lg-65-inch-oled-c9-tv-a-visual-treat-for-enthusiasts/"><u>Expert Analysis of the LG 65-Inch OLED C9 TV - A Visual Treat for Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-70-lite-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor 70 Lite 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y55s-5g-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y55s 5G (2023) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigate-with-ease-selecting-the-perfect-mice-for-your-mac-this-year/"><u>Navigate with Ease: Selecting the Perfect Mice for Your Mac This Year</u></a></li>
+<li><a href="https://facebook.techidaily.com/sheryl-sandberg-and-social-media-dynamics/"><u>Sheryl Sandberg and Social Media Dynamics</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2016-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2016 Online for Free</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2016-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2016</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-13-pro-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 13 Pro failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-apple-watch-skin-guards-ultimate-shields-for-your-devices-in-2/"><u>Top-Rated iPhone and Apple Watch Skin Guards - Ultimate Shields for Your Devices in 2</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo Y78 5G</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/yokus-island-express-critic-the-unexpected-twists-and-turns-of-grand-escapades/"><u>Yoku's Island Express Critic: The Unexpected Twists and Turns of Grand Escapades</u></a></li>
 </ul></div>
 

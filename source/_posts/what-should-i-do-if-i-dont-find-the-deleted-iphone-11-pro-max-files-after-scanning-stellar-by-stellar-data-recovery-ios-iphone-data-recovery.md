@@ -1,7 +1,7 @@
 ---
 title: What should I do if I dont find the deleted iPhone 11 Pro Max files after scanning? | Stellar
-date: 2024-09-18T07:07:58.974Z
-updated: 2024-09-24T05:21:20.770Z
+date: 2024-11-03T03:52:15.727Z
+updated: 2024-11-03T18:24:30.273Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -82,13 +82,6 @@ There are multiple types of IP ratings, but IP67 and IP68 are mainly applied to 
 
 Most iPhones offer certain level of water resistance, but it doesn’t mean an iPhone dropped in swimming pool or a bucket full of water is immune to any damage. Moreover, not every repair step will help you fix water-damaged iPhone; and some can complicate things further. Before, we start on potential steps to save your water-damaged iPhone, let’s first look at some absolute things that worsen the cause and should be avoided at all costs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Don’t turn on your iPhone**
 
 Your iPhone will turn off automatically after being dropped in water. However, you should manually turn it off if it doesn’t turn off. Turn your phone on only if you are sure water or moisture content from the exterior and interior is completely dry. Turning on the water-damaged iPhone might cause water to reach inside the device, causing it to malfunction.
@@ -104,6 +97,13 @@ Blow-drying your iPhone with hot air can damage your device further. Hot air may
 ## **Steps You Can Take to Potentially Save Your Water-Damaged iPhone**
 
 If you drop your iPhone in water, the following methods can save your iPhone from potential damage.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **1\. Take it out and turn it off immediately**
 
@@ -135,13 +135,6 @@ If your hair dryer has a cool wind setting, you can use it to dry wet iPhone. Wh
 
 Or, you can keep your iPhone under a cool air fan to dry it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **4\.** **Disassemble the phone and let it air dry**
 
 If drying the iPhone via uncooked rice method or silica gel packet doesn’t work, consider dismantling it as your last resort. You can use DIY repair tips to open the device to dry it out or go to any trusted tech expert.
@@ -154,9 +147,23 @@ Dismantle your iPhone carefully, air dry its interior, and assemble it back afte
 
 If all the above efforts fail to fix the iPhone from water damage, you must check if the device’s warranty is still valid. If it is, call your manufacturer and request a repair or replacement. If it is invalid, visit an Apple Genius bar to repair your cell phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\.** **Take the phone to an approved repair shop**
 
 The longer you wait to take your iPhone to an Apple Genius bar, the more damage it incurs. If you cannot dry the wet iPhone by following the manual methods mentioned above, rush to an Apple Genius bar to get it repaired and minimize the chances of further damage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **How To Find Out If Your iPhone Has Water Damage?**
 
@@ -167,10 +174,10 @@ See the table to learn where the indicators are planted in your respective iPhon
 ![LCI planted on various iPhone models](https://www.stellarinfo.com/image/article/upload/65a73c4da141f_Save-A-Water-Damaged-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **How To Recover Data From Water-Damaged iPhone?**
@@ -211,6 +218,19 @@ FAQs
 
 If there is water in your iPhone speaker, it may not work. In such a situation, try drying your iPhone and turning it on to take a backup of your data before testing the speaker. You can even visit Apple Genius Bar to get the help of a tech expert to fix your iPhone.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Factory Reset iPhone and iPad Without Apple ID
 
 **Summary:** This post guides you to the best methods to factory reset the iPhone without the Apple ID and password. It also shares a professional tool — Stellar iPhone Eraser that can help wipe iPhone without using Apple ID.
@@ -225,6 +245,13 @@ Apple ID is not just required to sign in to iCloud account, App store, etc., but
 
 Lets’ explore the methods to reset iPhone without Apple ID and password. Also, levarn how you can recover your Apple ID password and then attempt a factory reset on your iPhone or iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Methods to Reset iPhone Without Apple ID Password**
 
 You can utilize iPhone Recovery Mode and iTunes on your computer to reset the iOS device without Apple ID. Another easier method to permanently delete everything on iPhone that doesn’t require your Apple ID is by using Stellar iPhone Eraser software.
@@ -238,13 +265,6 @@ While you can also choose to reset the forgotten Apple ID and password and then 
 **Important:** As Factory Reset deletes everything on iPhone, always backup your data before reset. If you haven’t and already reset your iOS device, you can download [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) on your computer to restore the lost data due to factory reset.
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 1: Use Recovery Mode to reset iPhone without Apple ID**
 
@@ -277,6 +297,13 @@ _Source: [Apple support](https://support.apple.com/en-in/HT201263)_
 
 ![ Restore iPhone option iTunes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2020/12/image-53.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Figure: Restore iPhone option iTunes_
 
 **Step 7:** Click **Restore** to confirm.
@@ -307,13 +334,6 @@ It sets the iOS device to the original factory settings. The software works with
 
 ![ Erase iPhone Data screen](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2020/12/image-55.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Figure: Erase iPhone Data screen_
 
 **Step 4:** Connect your iPhone to the computer when prompted.
@@ -329,6 +349,13 @@ _Figure: Erase button in software_
 **Step 7:** In **Data Erase Completes** dialog box, click **OK**.
 
 All the data gets erased permanently beyond recovery from your iPhone or iPad.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 3: Recover forgotten Apple ID and Password to reset iPhone**
 
@@ -353,13 +380,6 @@ _Figure: Reset option in iPhone_
 
 **Also read: <u><a href="https://www.stellarinfo.com/blog/does-factory-reset-deletes-everything-on-iPhone/" target="_blank" rel="noreferrer noopener">Does factory reset deletes everything on iPhone?</a></u>**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Conclusion**
 
 Without the Apple ID and password, you cannot reset your iOS device through the traditional ‘Erase All Content and Settings’ method. Either you recover the forgotten Apple ID and password or use any of the two methods shared above to factory reset the iPhone without Apple ID.
@@ -367,13 +387,6 @@ Without the Apple ID and password, you cannot reset your iOS device through the 
 You can put the iPhone to Recovery Mode and use iTunes on your computer to reset the iOS device without Apple ID. Other than this, a simpler way to permanently delete everything on your iPhone is by using Stellar iPhone Eraser software. The software doesn’t ask for Apple ID through the process. It quickly resets your iPhone or iPad and brings it to original settings by erasing complete data on it.
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Recover Deleted Videos from iPhone Without Backup?
 
@@ -411,13 +424,6 @@ The videos you capture with your iPhone 11 Pro Max gets stored in either the me
 
 ![Stellar Data Recovery for iPhone - Save Files](https://www.stellarinfo.com/screenshots/data-ios/win/5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  _(i)_ Chose the option **‘Save to Computer’** if you want to save the recovered videos to your computer. Click Browse and select a destination for saving the recovered files and click OK.
 
 _(ii)_ Choose the option **‘Save to iPhone’** if you want to save the recovered files to your iPhone 11 Pro Max. From the drop-down menu, select the iPhone 11 Pro Max to which you want to save the recovered videos.
@@ -436,5 +442,19 @@ _(ii)_ Choose the option **‘Save to iPhone’** if you want to save the recove
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>[Updated] Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-practical-steps-to-remove-the-cluttered-background-in-figma/"><u>2024 Approved Practical Steps to Remove the Cluttered Background in Figma</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-note-30-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Note 30 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-configuring-safe-area-mode-and-pip-in-modern-macos/"><u>In 2024, Configuring Safe Area Mode & PIP in Modern MacOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-connection-problems-here-are-proven-fixes-for-a-smooth-gameplay-experience/"><u>Minecraft Connection Problems? Here Are Proven Fixes for a Smooth Gameplay Experience!</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/secure-your-system-swiftly-master-the-art-of-windows-defender-full-customized-quiet-mode-scanning/"><u>Secure Your System Swiftly: Master the Art of Windows Defender Full Customized Quiet Mode Scanning</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-itel-a70-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel A70 Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

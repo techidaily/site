@@ -1,7 +1,7 @@
 ---
 title: What to do if iPhone 12 is not listed when I run the software? | Stellar
-date: 2024-09-17T08:18:35.799Z
-updated: 2024-09-24T09:54:51.596Z
+date: 2024-11-01T19:24:27.479Z
+updated: 2024-11-04T07:08:29.151Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -45,6 +45,13 @@ Here we share various methods to restore FaceTime call history on iPhone 14, 13,
 
 ## **How to recover the lost or deleted FaceTime call history?**
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Restore FaceTime call history without iTunes/ iCloud backup**
 
 Deleted FaceTime history can be recovered by using Stellar Data Recovery for iPhone software. The software can restore lost FaceTime call history after accidental deletion, factory reset, app crash, jailbreak, and other issues.
@@ -62,24 +69,10 @@ In contrast to iTunes and iCloud backup, Stellar iPhone data recovery software l
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/recover-lost-facetime-calls-from-iPhone-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **Next**
 - Preview and choose the FaceTime calls you want to restore from the list. **Note:** All the calls marked in red color are the deleted calls
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/recover-lost-facetime-calls-from-iPhone-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click You can save the call history either on your computer or iPhone.
 
@@ -117,13 +110,6 @@ Stellar Data Recovery for iPhone can also restore FaceTime calls from iCloud bac
 
 ![restore facetime from iCloud Backup 1](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/restore-facetime-from-iCloud-Backup-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - On **Apps & Data** screen, tap **Restore from iCloud Backup**
 
 ![restore facetime from iCloud Backup 2.png](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/restore-facetime-from-iCloud-Backup-2.png.jpg)
@@ -137,6 +123,13 @@ Stellar Data Recovery for iPhone can also restore FaceTime calls from iCloud bac
 **Note –** The drawback of this method is that it deletes all your existing data from the iPhone.
 
 **Recover FaceTime calls from iTunes Backup**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3\. Recover FaceTime calls from iTunes Backup**
 
@@ -164,6 +157,13 @@ The software protects your current data on iPhone and recovers only the call his
 - Click Next. From the list of the iTunes backup files, select the relevant iTunes backup
 
 ![Recover from iTunes Backup 2](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/Recover-from-iTunes-Backup-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Click **Scan**
 - Click **Call History.** Preview the existing and deleted FaceTime calls. Click **Deep Scan,** if you don’t find your required calls.
@@ -245,21 +245,7 @@ This software is powerful and easy-to-use when retrieving lost data, and you can
 
 ![Preview and Save](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2022/11/Preview-and-Save.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - After following the instructions, the lost files are accessible on the storage device you selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do I Prevent Data Loss on iPhones?
 
@@ -291,14 +277,14 @@ Follow these steps to utilize iCloud:
 
 ![iCloud backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/iCloud-backup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can use this iCloud backup to restore iPhone data when needed. To know more, read: How to [Restore iPhone from iCloud backup](https://www.stellarinfo.com/blog/restore-iphone-from-icloud-backup/).
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -307,6 +293,13 @@ Data loss in iPhone can occur due to various reasons including accidental deleti
 The best way to prevent such scenarios is by taking regular backups of your iPhone. So, in an emergency, you can restore all your data from the backups you created earlier.
 
 If you need help keeping healthy backups or utilizing recovery software to restore your information, seek a professional assistant to provide more instructions.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -350,13 +343,6 @@ If you lose access to your notes for some reason, you can use Stellar Data Recov
 
 Although you can [restore an iTunes backup](https://www.stellarinfo.com/iphone-data-recovery/extract-iphone-data-itunes-backup.php) from your computer, Stellar Data Recovery for iPhone also lets you retrieve only the preferred files from your iTunes files.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Recover Data from Broken iPhone Screen
 
 **Summary:** Struggling to recover data after your iPhone’s screen broke? Stellar Data Recovery for iPhone can help restore data efficiently from an iPhone with a broken screen.
@@ -368,6 +354,13 @@ These days, though there are plenty of best ways to back up your data, users oft
 The real problem was not the broken iPhone but to recover data from iPhone as it was not synced with iTunes and iCloud Backup. As a result, he couldn’t access his files, more importantly, his pictures.
 
 You might have dropped your iPhone several times, and luckily, the excellent cover has saved it on all occasions. However, any drop could cause potential damage putting your data at stake; therefore, leverage iTunes or iCloud backup to recover data from the [damaged iPhone](https://www.stellarinfo.com/blog/how-to-fix-retrieve-pictures-videos-from-water-damaged-iphone/) screen.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bringing Back Your Data From Backup**
 
@@ -381,6 +374,13 @@ Watch how to recover photos from a broken iPhone:
 
 <iframe title="How to Recover Photos from Broken iPhone" width="750" height="422" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" nitro-og-src="https://www.youtube.com/embed/jUbXhJT0wJ8?feature=oembed&amp;autoplay=1" nitro-lazy-src="data:text/html;https://www.youtube.com/embed/jUbXhJT0wJ8?feature=oembed&amp;autoplay=1;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1YmUuY29tL3ZpL2pVYlhoSlQwd0o4LzAuanBnKSBjZW50ZXIvMTAwJSBuby1yZXBlYXQnPjxzdHlsZT5ib2R5ey0tYnRuQmFja2dyb3VuZDpyZ2JhKDAsMCwwLC42NSk7fWJvZHk6aG92ZXJ7LS1idG5CYWNrZ3JvdW5kOnJnYmEoMCwwLDApO2N1cnNvcjpwb2ludGVyO30jcGxheUJ0bntkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7Y2xlYXI6Ym90aDt3aWR0aDoxMDBweDtoZWlnaHQ6NzBweDtsaW5lLWhlaWdodDo3MHB4O2ZvbnQtc2l6ZTo0NXB4O2JhY2tncm91bmQ6dmFyKC0tYnRuQmFja2dyb3VuZCk7dGV4dC1hbGlnbjpjZW50ZXI7Y29sb3I6I2ZmZjtib3JkZXItcmFkaXVzOjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3Bvc2l0aW9uOmFic29sdXRlO3RvcDo1MCU7bGVmdDo1MCU7bWFyZ2luLWxlZnQ6LTUwcHg7bWFyZ2luLXRvcDotMzVweH0jcGxheUFycm93e3dpZHRoOjA7aGVpZ2h0OjA7Ym9yZGVyLXRvcDoxNXB4IHNvbGlkIHRyYW5zcGFyZW50O2JvcmRlci1ib3R0b206MTVweCBzb2xpZCB0cmFuc3BhcmVudDtib3JkZXItbGVmdDoyNXB4IHNvbGlkICNmZmY7fTwvc3R5bGU+PGRpdiBpZD0ncGxheUJ0bic+PGRpdiBpZD0ncGxheUFycm93Jz48L2Rpdj48L2Rpdj48c2NyaXB0PmRvY3VtZW50LmJvZHkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpe3dpbmRvdy5wYXJlbnQucG9zdE1lc3NhZ2Uoe2FjdGlvbjogJ3BsYXlCdG5DbGlja2VkJ30sICcqJyk7fSk7PC9zY3JpcHQ+PC9ib2R5Pg=="></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Recover your data from iTunes Backup**
 
 Here’s how to recover your iTunes backup using Stellar Data Recovery for iPhone.
@@ -388,13 +388,6 @@ Here’s how to recover your iTunes backup using Stellar Data Recovery for iPhon
 1\. Select the ‘**Recover from iTunes Backup**’ option.
 
 ![Recover from iTunes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2022/07/Presentation1-1024x697.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. List of your iTunes backup files appears. Select the relevant iTunes backup
 
@@ -426,6 +419,13 @@ To import your recovered files, follow these steps:
 3. Click ‘**OK**’ to preview the selected files.
 4. Click ‘**Transfer to iPhone**’ to transfer recovered files to your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **To Sum Up**
 
 When your iPhone is damaged, try the basics, i.e., restart it; if that works, back up as much data as possible. You can also restore your files from iTunes or iCloud Backup if there are any. Else, make an appointment with the genius bar and get your iPhone fixed. They might also help you recover data from the damaged iPhone, which comes with an asterisk. Therefore, turn to Stellar Data Recovery and save time and energy for efficient recovery of your data.
@@ -442,5 +442,18 @@ When your iPhone is damaged, try the basics, i.e., restart it; if that works, ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-fbx-gaming-record-your-adventure/"><u>[New] FBX Gaming Record Your Adventure</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-installation-instructions-for-snapchat-on-a-mac/"><u>[Updated] In 2024, Installation Instructions for Snapchat on a Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-smallscreenvid-recorder-critique/"><u>2024 Approved SmallScreenVid Recorder Critique</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/4k-visionary-review-blades-spectrum-expansion-for-2024/"><u>4K Visionary Review Blade's Spectrum Expansion for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-12-pro-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 12 Pro 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v29-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V29 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-troubles-in-windows-10-diagnosis-and-solutions/"><u>MPOW Microphone Troubles in Windows 10: Diagnosis and Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-auditory-marvel-of-logitech-g533-wireless-earbuds/"><u>The Auditory Marvel of Logitech G533 Wireless Earbuds</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 11 & 10 & 7</u></a></li>
+</ul></div>
 

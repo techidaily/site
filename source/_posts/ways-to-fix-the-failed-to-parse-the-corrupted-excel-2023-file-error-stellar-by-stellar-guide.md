@@ -1,7 +1,7 @@
 ---
 title: Ways to Fix the Failed to Parse the Corrupted Excel 2023 File Error | Stellar
-date: 2024-09-17T10:09:09.759Z
-updated: 2024-09-23T22:20:12.679Z
+date: 2024-10-28T11:39:19.464Z
+updated: 2024-11-03T19:41:56.795Z
 tags: 
   - repair
   - repair excel
@@ -76,6 +76,13 @@ When the calculation mode is set to automatic, Excel automatically recalculates 
 
 ![Select Manual On Excel Options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/05/select-manual-on-excel-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 4: Use Open and Repair Utility**
 
 You can try repairing the corrupted Excel file with Excel’s inbuilt tool – [Open and Repair](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). To use the tool, follow the steps cited below:
@@ -95,13 +102,6 @@ You can try repairing the corrupted Excel file with Excel’s inbuilt tool – [
 
 - Click **Close**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **What If None of the Above Methods Works?**
 
 The above methods may fail to work if the Excel file is severely damaged. In such a case, we recommend using an efficient [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as Stellar Repair for Excel. It can quickly repair corrupted Excel (.XLS/.XLSX) files. It can recover all the objects from the file, including charts, tables, formulas, etc. You can download the free trial version of the tool to preview the recoverable data.
@@ -111,6 +111,19 @@ The above methods may fail to work if the Excel file is severely damaged. In suc
 Above, we have discussed some tried and tested methods to fix the “Failed to parse the corrupted Excel file” error. If the Excel file is severely damaged or corrupted, you can try repairing it using a third-party Excel repair software, like [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It can repair multiple Excel files without affecting the original formatting. The tool is compatible with all Excel versions.
 
 
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Fix a Corrupted .xls File? The Everything Guide
 
@@ -318,6 +331,13 @@ End Sub
 
 **Note:** To write these code you need to have basic understading of VBA (make sure [check out this guide](https://excelchamps.com/learn-vba/) for this).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use a File Recovery Application
 
 Recently we asked a quick question to our readers on ExcelChamps that if they have ever faced a situation where they got a corruption message in Excel.
@@ -325,13 +345,6 @@ Recently we asked a quick question to our readers on ExcelChamps that if they ha
 You’ll be astonied to hear that 50% percent of the people said “YES” they faced this thing in the past.
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/yesr.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, this is alarming, if you are heading a team or you have a bunch of people in your company who use Excel…
 
@@ -346,13 +359,6 @@ With **STELLAR REPAIR FOR EXCEL,** you just need a few clicks, yes that’s righ
 - After that, open the app and click on the “Browse” and simply select the file which is corrupted.
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/stellar-home.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - In the end, click on the REPAIR to let the Excel repair software fix your file (it takes a few seconds).
 
@@ -380,23 +386,9 @@ Quick Solution: Performing 2007, 2010 Excel repair or recovery process manually 
 
 ![](https://www.stellarinfo.com/image/catalog/article/Quick-Way-to-Fix-MS-Excel-2007---2010%20(1).jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **How to Fix** **Microsoft Excel 2010 & 2007 Files Corruption?**
 
 Microsoft Excel comes with an inbuilt repair utility, called ‘Open and Repair’, that helps fix and recover corrupted Excel files.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to Repair MS Excel 2010 Files Manually**
 
@@ -413,13 +405,6 @@ The detailed steps to open and repair Excel 2010 are as follows:
 - Browse the corrupt Excel 2010 file on your computer and select it in the Open dialog.
 
 ![Browse Corrupt Excel 2010 File](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/img3.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click the arrow next to the **Open** button and choose **Open and Repair**.
 
@@ -608,9 +593,23 @@ If personal macro workbook is hidden, you may unable to see and open the Persona
 
 ![unhide personal workbook window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/unhide-personalworkbook.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - The **Unhide** dialog box is displayed. Click PERSONAL and then **OK**.
 
 ![unhide window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/unhide-window.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 3: Enable the Macro Add-ins**
 
@@ -623,6 +622,13 @@ You may unable to open the previously recorded macros in your personal macro wor
 ![Access Option to Disable Items](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/access-option-to-disableitems.png)
 
 - The **Disabled Items** dialog box appears. Click on the disabled item and then click **Enable**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 4: Change the Trusted Location**
 
@@ -764,13 +770,6 @@ The repaired file gets saved at the preferred location.
 
 ![Adding corrupt pdf files](https://www.stellarinfo.com/screenshots/pdf-repair/1-Stellar-Phoenix-Repair-for-PDF-main-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
                                             _<small>Figure 11 - Illustrates adding of corrupt PDF Files</small>_
 
 - A screen with recently added PDF file is displayed. Select the file and click **Repair** to start repairing it.
@@ -850,6 +849,13 @@ When the Autofit column widths option is enabled, Excel automatically resizes th
 
     ![select autofit column widths in pivot table options](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivottable/select-autofit-column-widths-in-pivottable-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Click on the **OK.**
 
 ### **4\. Check the Workbook.RefreshAll Method**
@@ -868,13 +874,6 @@ You may also encounter the “A PivotTable Report cannot Overlap” error if the
 - In the displayed message, click **Close**.
 
 If the “Open and Repair” utility fails to fix the issue, then it means there is high level of corruption in the Excel file. To tackle this, you can take the help of a professional Excel file repair tool, such as Stellar Repair for Excel. The tool can easily repair severely corrupted Excel file and recover all the objects of the file, such as pivot tables, macros, charts, etc. with 100% integrity. You can download the free trial version of the tool to check its functionality.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -915,6 +914,13 @@ Watch our short video for a quick overview of the solutions to fix "Excel found 
 You may encounter the 'Excel file unreadable content' error due to corruption of complete Excel file or corruption in certain areas (like Pivot Table, Formulas, Styles, or other objects) in the file. According to Microsoft, you may find it difficult to determine the root cause behind Excel file corruption. Corruption could occur in different scenarios, like power surge, a network glitch, copying and pasting corrupted data from another file, etc.
 
 **Also Read**: [<u>How to recover data from&nbsp;corrupt or damaged&nbsp;Excel file 2010 &amp; 2007</u>](https://www.stellarinfo.com/article/recover-corrupted-excel-file-2010-2007.php)?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Workarounds to Resolve the 'Excel found unreadable content in filename.xls' Error
 
@@ -1013,5 +1019,22 @@ If none of the workarounds mentioned above works for you, use a professional [<u
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-5-innovative-apps-to-design-stunning-openings/"><u>[New] 2024 Approved 5 Innovative Apps to Design Stunning Openings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[New] 2024 Approved Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-secure-again-combating-2023s-facebook-vulnerability/"><u>[New] 2024 Approved Secure Again Combating 2023'S Facebook Vulnerability</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adding-videos-to-written-work-a-budget-friendly-way/"><u>[New] In 2024, Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfect-moment-for-podcast-debuts/"><u>[Updated] In 2024, Perfect Moment for Podcast Debuts</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixelpilot-studio-plus-advanced-os-recorder/"><u>In 2024, PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix GT 10 Pro</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-spark-20-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Spark 20</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-zte-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from ZTE</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-non-functional-shift-in-windows/"><u>Troubleshoot Non-Functional Shift in Windows</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Tecno</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-nvidia-rtx-2070-super-gpu-drivers-easy-guide-for-windows-10-and-11-devices/"><u>Update NVIDIA RTX 2070 Super GPU Drivers - Easy Guide for Windows 10 and 11 Devices</u></a></li>
+</ul></div>
 

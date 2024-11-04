@@ -1,7 +1,7 @@
 ---
 title: What should I do if I dont find the deleted iPhone 8 files after scanning? | Stellar
-date: 2024-09-21T00:01:19.141Z
-updated: 2024-09-23T21:37:52.952Z
+date: 2024-11-02T11:44:24.021Z
+updated: 2024-11-03T21:13:49.833Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -88,6 +88,13 @@ The software can be activated using the Activation Key, which you receive via em
 
 ![activate stellar iphone data recovery](https://www.stellarinfo.com/images/kb/Activation-iPhone-Data-Recovery-6-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. The Activation window appears. Enter the Activation Key you received in your email after purchasing the software.
 
 ![insert activation key- stellar iphone data recovery](https://www.stellarinfo.com/images/kb/Activation-iPhone-Data-Recovery-6-2.jpg)
@@ -105,13 +112,6 @@ In case you don’t have an Activation Key, follow the below steps:
 
 ![](https://www.stellarinfo.com/images/kb/Activation-iPhone-Data-Recovery-6-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - The software directs you to the buy page. Next, click on Windows or Mac tab, as per your system.
 - Click on **Buy Now** button to purchase the software
 - Fill in your details as asked
@@ -128,10 +128,10 @@ Stellar Data Recovery for iPhone® Stellar Data Recovery for iPhone® is the bes
 [![Buy Now](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/EN-BUY-NOW.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Buy Now")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iPhone factory reset is essential when you want to sell off your old iPhone or troubleshoot the iOS device issues, such as [iPhone freeze](https://www.stellarinfo.com/blog/iphone-ipad-app-freezes-or-crashes/), iPhone stuck at booting loop, [stuck at Apple logo](https://www.stellarinfo.com/blog/how-to-fix-an-iphone-stuck-on-the-apple-logo/), etc. But what if you have forgotten your Apple ID?
@@ -141,13 +141,6 @@ Apple ID is not just required to sign in to iCloud account, App store, etc., but
 **So how to reset iPhone without Apple ID?**
 
 Lets’ explore the methods to reset iPhone without Apple ID and password. Also, levarn how you can recover your Apple ID password and then attempt a factory reset on your iPhone or iPad.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Methods to Reset iPhone Without Apple ID Password**
 
@@ -162,6 +155,13 @@ While you can also choose to reset the forgotten Apple ID and password and then 
 **Important:** As Factory Reset deletes everything on iPhone, always backup your data before reset. If you haven’t and already reset your iOS device, you can download [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) on your computer to restore the lost data due to factory reset.
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 1: Use Recovery Mode to reset iPhone without Apple ID**
 
@@ -194,18 +194,18 @@ _Source: [Apple support](https://support.apple.com/en-in/HT201263)_
 
 ![ Restore iPhone option iTunes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2020/12/image-53.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Figure: Restore iPhone option iTunes_
 
 **Step 7:** Click **Restore** to confirm.
 
 iTunes factory resets your iPhone without Apple ID. This will delete all your photos, videos, contacts, messages, chats and other data, same as in normal factory reset process using iPhone settings, which requires Apple ID.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Reset iPhone without Apple ID via Stellar iPhone Eraser**
 
@@ -219,6 +219,13 @@ It sets the iOS device to the original factory settings. The software works with
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Steps to reset iPhone without Apple ID using software:**
 
 **Step 1:** Download and run Stellar Toolkit for iPhone on PC/Mac.
@@ -228,10 +235,10 @@ It sets the iOS device to the original factory settings. The software works with
 ![Steps to reset iPhone without Apple ID using software](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/12/Home-Screen-Erase-Data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:** On **Erase iPhone Data** screen, click **Next**.
@@ -253,13 +260,6 @@ _Figure: Erase button in software_
 **Step 7:** In **Data Erase Completes** dialog box, click **OK**.
 
 All the data gets erased permanently beyond recovery from your iPhone or iPad.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 3: Recover forgotten Apple ID and Password to reset iPhone**
 
@@ -284,6 +284,13 @@ _Figure: Reset option in iPhone_
 
 **Also read: <u><a href="https://www.stellarinfo.com/blog/does-factory-reset-deletes-everything-on-iPhone/" target="_blank" rel="noreferrer noopener">Does factory reset deletes everything on iPhone?</a></u>**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Conclusion**
 
 Without the Apple ID and password, you cannot reset your iOS device through the traditional ‘Erase All Content and Settings’ method. Either you recover the forgotten Apple ID and password or use any of the two methods shared above to factory reset the iPhone without Apple ID.
@@ -291,13 +298,6 @@ Without the Apple ID and password, you cannot reset your iOS device through the 
 You can put the iPhone to Recovery Mode and use iTunes on your computer to reset the iOS device without Apple ID. Other than this, a simpler way to permanently delete everything on your iPhone is by using Stellar iPhone Eraser software. The software doesn’t ask for Apple ID through the process. It quickly resets your iPhone or iPad and brings it to original settings by erasing complete data on it.
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -311,5 +311,17 @@ You can put the iPhone to Recovery Mode and use iTunes on your computer to reset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elite-6-software-solutions-for-flawless-signature-hiding/"><u>[New] 2024 Approved Elite 6 Software Solutions for Flawless Signature Hiding</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagrams-finest-frames-iphone-plus-android-edition/"><u>[New] 2024 Approved Instagram's Finest Frames IPhone + Android Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premium-audio-devices-for-online-recording-reviewed-2023-for-2024/"><u>[Updated] Premium Audio Devices for Online Recording Reviewed 2023 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-skys-dynamic-range-masterpieces-website-roundup/"><u>[Updated] Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficiently-trim-unwanted-segments-from-your-videos-expert-tutorial-on-splitting-videoclips-accurately/"><u>Efficiently Trim Unwanted Segments From Your Videos - Expert Tutorial on Splitting Videoclips Accurately</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a38-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A38 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nord-n30-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nord N30 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 14 Pro?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-pinnacle-tools-studio-vs-next-gen-beta/"><u>YouTube's Pinnacle Tools Studio Vs. Next-Gen Beta</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What to do if iPhone 6 is not listed when I run the software? | Stellar
-date: 2024-09-17T17:48:50.695Z
-updated: 2024-09-24T02:07:32.304Z
+date: 2024-11-02T20:04:46.891Z
+updated: 2024-11-04T10:16:10.101Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -36,10 +36,10 @@ Every time you buy a new iPhone, restoring backup becomes a vital necessity to f
 The problem arises at setting up a new iPhone with existing iCloud backup. Possibility of getting stuck on Restore in Progress: An estimated storage (XXGB) required to finish restoring your apps and data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Why is my new iPhone 14 stuck at restore from iCloud?**
@@ -52,17 +52,17 @@ Before finding your options to overcome the problem and learn how to restore an 
 
 ![iPhone 14 - iCloud Backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/02/1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Slow or unstable WiFi connection.
 - Numerous unwanted backup files stored on iCloud.
 
 Generally, restoring in progress doesn’t take more than 20 to 60 minutes for an iPhone to restart. Nonetheless, if restoring is stuck beyond that time, then be wary that it might take hours to finish. Anyhow, iPhone offers you ample options to get around a stuck iCloud backup.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to restart an iPhone stuck at “Restore from iCloud- Time Remaining: Estimating”**
 
@@ -76,6 +76,13 @@ Stop the **‘Restore from iCloud’** process and start afresh after giving res
 
 ![Reboot iPhone 14](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/02/Reboot-iPhone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Drag the slider to your right and wait for 30-seconds to turn off the device.
 
 ![iPhone 14 reboot](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/02/Reboot-iPhone-2.jpg)
@@ -83,6 +90,13 @@ Stop the **‘Restore from iCloud’** process and start afresh after giving res
 - To turn the iPhone back on, press and hold the side button until the Apple logo appears on screen.
 
 ![](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/02/Apple-Logo-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Restart Restoring iCloud Backup**
 
@@ -99,10 +113,10 @@ Once your iPhone 14 restarts, follow these steps to restore iCloud backup:
 If your new iPhone 14 continues getting stuck at iCloud restore progress, then you need to check your internet connection. Also, make sure the iOS device has adequate space to handle large volume of data you are trying to copy in it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Check the iCloud System Status**
@@ -158,24 +172,18 @@ Not only the tool provides the benefit to recover data from iPhone device, but y
 - Saving iPhone data to iCloud offers an ease of accessing data contents from anywhere, even if the data is deleted from your device.
 - In addition to online backups, it is beneficial to retain a replica of existing data on another device such as a system hard drive or external storage media.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Recover Whatsapp Chat History From iPhone
 
 **Summary:** Losing the WhatsApp chat history from iPhone can be annoying. It may contain important details, photos, videos, and audio recordings. This post brings easy and quick methods to recover lost or deleted WhatsApp chat on iPhone using Stellar Data Recovery for iPhone.
 
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 With social media engulfing our lives, it becomes all the more important to keep track of people close to us through various social media apps, not only personally but professionally as well.
 
@@ -199,13 +207,6 @@ Losing the chat history which also contains your priceless photos, videos, and a
 
 ![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/1-Mui.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2- Now after connecting the iPhone, click on Recover from iPhone option. Select the file type you want to recover and click “Next”. The scan will initiate thereafter.
 
 3- Select Only Show Deleted option on the top to focus only on the deleted data. Then select the conversations you want to save. Then click Save.
@@ -214,22 +215,21 @@ Losing the chat history which also contains your priceless photos, videos, and a
 
 ![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/5recover-file6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/9.jpg)
 
 After a wait of 5-10 minutes, the lost data will be saved within form of a HTML page which can be opened using any browser.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Restore Deleted WhatsApp Messages from iTunes Backup**
@@ -244,13 +244,6 @@ If you face any difficulty to [recover your data from iTunes backup](https://www
 
 ![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/iTunes-backup-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Restore Deleted WhatsApp Messages from iCloud Backup**
 
 Just like iTunes, you can even back up your files and WhatsApp chats on iCloud present in your iPhone. However, before getting started, make sure that the data and chats are securely backed up in the app from which you have to recover.  
@@ -259,6 +252,13 @@ Just like iTunes, you can even back up your files and WhatsApp chats on iCloud p
 3- Select the files and data that you wish to backup and then click on the restore button and let the system restore all the backed up data into your phone.
 
 ![HOW TO RECOVER WHATSAPP CHAT HISTORY FROM IPHONE](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you face any difficulty to [recover your data from iCloud](https://www.stellarinfo.com/support/kb/index.php/article/recover-deleted-lost-icloud-data) backup then use **Stellar Data Recovery** for iPhone to recover lost or deleted Contacts, Call history, Voice Memo, Messages, Notes, Reminders, Calendar, Safari Bookmarks from iOS device iCloud backup file.
 
@@ -280,5 +280,16 @@ Losing chats and other data from WhatsApp may lead to a situation of despair. Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-avoid-breaches-the-pre-upload-guide-to-copyright-on-tiktok/"><u>[Updated] Avoid Breaches The Pre-Upload Guide to Copyright on TikTok</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-realtime-hd-uplift-for-pc-mac-and-online-devices/"><u>[Updated] In 2024, RealTime HD Uplift for PC, Mac & Online Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-note-30-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-techniques-for-salvaging-flawed-hevc-footage/"><u>Advanced Techniques for Salvaging Flawed HEVC Footage</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-moto-g23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guia-facil-para-crear-una-copia-de-seguridad-total-con-aomei-onekey-recovery-pro/"><u>Guía Fácil Para Crear Una Copia De Seguridad Total Con AOMEI OneKey Recovery Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-a70-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A70 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-13-pro-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Redmi Note 13 Pro 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S17 Pro | Dr.fone</u></a></li>
+</ul></div>
 

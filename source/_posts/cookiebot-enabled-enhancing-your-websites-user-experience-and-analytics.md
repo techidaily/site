@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing Your Website's User Experience and Analytics"
-date: 2024-10-01T03:51:35.305Z
-updated: 2024-10-06T01:19:20.387Z
+date: 2024-11-02T02:52:17.330Z
+updated: 2024-11-04T07:49:54.587Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e7739a5c0ead2c07ab91e735b6.png
@@ -31,13 +31,6 @@ Optical character recognition (OCR) is primarily focused on recognizing characte
 
 Prior to OCR you would need to manually type text to input data into a computer system. OCR software analyzes the characters in an image, extracts them, and translates them into machine-readable, editable text. IDP incorporates OCR to recognize the characters and uses artificial intelligence (AI) and machine learning to read and interpret the text and extract valuable information and process that information like a human to complete a business process, for example review an invoice and forward it for payment. IDP can handle a wider variety of content including structured and unstructured information to automate a whole range of document-based workflows to take companies through digital transformation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is OCR?
 
 **OCR stands for [optical character recognition](https://tools.techidaily.com/abbyy/products/). OCR technology is used to analyze, read, and extract text in scanned documents or images and convert it into machine-readable text.** It is often used to digitize printed books and articles, or in business processes involving physical documents, such as invoices and receipts, so that the text content can be edited, searched, and stored electronically. OCR technology is typically integrated with other applications, such as IDP, as one step of a larger process of intelligent automation.
@@ -45,17 +38,10 @@ Prior to OCR you would need to manually type text to input data into a computer 
 ![](https://static1.abbyy.com/abbyycommedia/37740/ds-66-ocr-idp-image-1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How it works
@@ -65,10 +51,10 @@ OCR starts with the file that you want to extract information from, which may be
 The extracted data is then matched against a set of predefined patterns or templates representing known characters and symbols. To do this, it may incorporate technologies such as machine learning and neural networks to improve recognition accuracy and handle different fonts and languages, or complicated layouts such as tables and lists or barcodes. If it encounters a problem, it may flag it for human evaluation. Once the character recognition process has been completed, you may need to check for errors or improve accuracy by using spell-check, context analysis or language modeling. The OCR software will then produce the final machine-readable text that can be integrated into your company’s computer system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Benefits of OCR
@@ -90,6 +76,13 @@ Common use cases for OCR solutions can include organizations to facilitate compl
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How it works
 
 IDP incorporates optical character recognition (OCR) to convert printed or handwritten text into typed text/machine-readable format. IDP also applies artificial intelligence (AI) and machine learning (ML) techniques to read, understand and process structured, semi-structured, and unstructured data in documents like a human.
@@ -99,13 +92,6 @@ IDP uses machine learning models to classify documents into different categories
 By incorporating natural language processing (NLP) the technology is also able to interpret the context of the information it is reading. For example, is the word “jaguar” referring to a large cat or a car? Or is the word ‘Sue’ referring to a person or a legal action? By applying NLP, an unprecedented recognition of unstructured data is identified and extracted, and can operate like a human brain, quickly adapting to changing input, and generating the best possible result. This sort of advanced level of technology is known as intelligent automation or hyper automation.
 
 The [IDP platform](https://tools.techidaily.com/abbyy/products/) can be easily integrated into a variety of different business systems, such as ERP, or CRM. With new low-code/ no-code platforms, citizen developers can deploy IDP technology in a matter of days without need for massive IT infrastructure support and maintenance on client’s side.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Benefits of IDP
 
@@ -140,6 +126,13 @@ For example, it may read an invoice, take its content to be compared to a corres
 | **Technology**        | Image enhancement Object detection OCR / ICR                                                                                                                                                                                          | Classification Deep Machine Learning Fast Machine Learning Extraction rules Segmentation Named Entity Recognition (NER) Natural Language Processing (NLP)                                                                                                                          |
 | **Typical use cases** | Provides access to machine-readable text as basis for: PDF conversion Digital archiving / Search eDiscovery Advanced search / Digital forensics Data analysis Intelligent document processing (IDP)                                   | Automation of any document-centric business process: Accounts payable automation Customer onboarding / KYC Loan processing Automation of transportation & logistics documentation Insurance claims processing                                                                      |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Examples of OCR and IDP in business processes
 
 #### Invoice processing
@@ -157,6 +150,13 @@ It eliminates costly, time-consuming, and error-prone manual data entry, improve
 Research shows that 90 percent of organizations see potential customers abandon the digital registration process–with the top complaints from applicants being that it takes too long and there is too much data input.
 
 With intelligent document processing, you can take away the bottlenecks that lead to abandonment. [Businesses can leverage IDP technology for identity proofing](https://tools.techidaily.com/abbyy/products/) and identity affirmation, which make it easier for customers and more secure for businesses. IDP can capture and classify ID documents like driving licenses or passports, or supporting documents like bank statements or utility bills, that are needed for proof of address. For example, it can be used by the department of motor vehicles (DMV) for a driver license renewal or a bank for mortgage applications.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## OCR vs. IDP: Which is best for your business?
 
@@ -277,16 +277,22 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-heart-of-video-magic-10-key-edits-in-filmora/"><u>[Updated] In 2024, The Heart of Video Magic 10 Key Edits in Filmora</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger/"><u>[Updated] In 2024, Transforming Trips Into Tales The Roadmap to Becoming a Travel Blogger</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-no-fee-all-the-music-top-10-sites-for-coprwyfree-soundtracks/"><u>[Updated] No Fee, All the Music Top 10 Sites for Coprwyfree Soundtracks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-issues-with-tiktok-videos-finding-the-fixes/"><u>2024 Approved Issues with TikTok Videos? Finding the Fixes</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-c12-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-edge-2023-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Edge 2023 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme Narzo 60x 5G?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/premier-9-social-media-screen-grabs/"><u>Premier 9 Social-Media Screen Grabs</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-key-elements-in-transforming-your-youtube-channels-visibility/"><u>The Key Elements in Transforming Your YouTube Channels' Visibility</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-poco-m6-pro-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Poco M6 Pro 5G.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-7-pulse-pounding-workouts-that-gain-traction-on-social-media-for-2024/"><u>[New] 7 Pulse-Pounding Workouts That Gain Traction on Social Media for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/complete-mastery-over-picsart-the-ultimate-users-guide/"><u>Complete Mastery over PicsArt The Ultimate User's Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-motion-evaluation-2023-for-2024/"><u>Complete Motion Evaluation 2023 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-forwarding-copy-and-paste-custom-hotkeys-for-text-snaps-in-win11/"><u>Fast-Forwarding Copy & Paste: Custom Hotkeys for Text Snaps in Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g633-microphone-issues-solutions-and-tips/"><u>Fixing Logitech G633 Microphone Issues: Solutions & Tips</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-12-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 12 mini Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-15-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 15 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/phoenix-point-stability-issues-heres-how-you-can-solve-them/"><u>Phoenix Point Stability Issues? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y27s-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y27s on Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2519327--the-life-of-a-warrior/"><u>The Life of a Warrior | Free Book</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/ubersetzungen-zum-migrationsprozess-von-windows-10-umstellung-von-bios-hardware-auf-uefi-mit-secure-boot-fur-den-effizienten-betrieb/"><u>Übersetzungen Zum Migrationsprozess Von Windows 10 – Umstellung Von BIOS-Hardware Auf UEFI Mit Secure Boot Für Den Effizienten Betrieb</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G Stylus (2023)</u></a></li>
 </ul></div>
 

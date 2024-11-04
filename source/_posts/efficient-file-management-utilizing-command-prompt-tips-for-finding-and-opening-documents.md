@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents"
-date: 2024-10-26T18:04:57.052Z
-updated: 2024-10-29T19:41:25.854Z
+date: 2024-10-29T13:37:28.000Z
+updated: 2024-11-04T00:41:48.958Z
 tags:
   - deals
 categories:
@@ -31,20 +31,13 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![Run CMD from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-cmd-start.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the Command Prompt opened, you’re ready to find and open your file.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Find Files Using Command Prompt
 
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![A file with "example" in the file name, the path to the file, and some basic attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that we've found our file, let's open it.
 
 ##  Open Files Using Command Prompt
@@ -74,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Using the cd command to change the directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cd-doc-ex.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have inputted your command, press the Enter key. You’ll now be in that folder.
 
 ![We have successfully changed directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-changed-directory-successfully-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s now time to open the [file within that folder](https://remote-screen-capture.techidaily.com/new-mastering-iphone-screen-recording-with-minimal-fuss-for-2024/). Our file is named “Example File.”
 
@@ -103,9 +103,23 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
     
 ![Opening the file directly without navigating to the folder first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-the-file-directly.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The only difference is you don’t add the cd command and the entire path is in quotations. It doesn't strictly need to be, though. You can also just put the quotes around the portion of the path that has a space.
 
 ![File path with quotes on the file name only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-example-file-with-quotes.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are a couple of other important things to keep in mind.
 
@@ -113,29 +127,9 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Some examples of paths you can use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-examples-of-paths.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The second is that you can open files with unknown file extensions, you just have to manually specify which program to use first. This isn't any different from trying to open an unknown file format with File Explorer.
 
 ![Opening a file with an unknown format, in this case ".abc123" as an example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-abc123-unknown-format.png) 
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This isn't just applicable to the Command Prompt, either. PowerShell behaves the same way as Command Prompt for most jobs, and that is especially true if you're talking about something simple.
 
@@ -154,20 +148,18 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-seeking-optimal-video-player-vlc-meets-mx/"><u>[New] Seeking Optimal Video Player VLC Meets MX</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transition-techniques-decreasing-volume-gradually-in-pp/"><u>[New] Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-audio-conversion-made-simple-youtube-to-mp3-mac-edition/"><u>[Updated] Audio Conversion Made Simple YouTube to MP3, Mac Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-faceoff-determining-the-superior-choice-between-chatgpt-plus-and-perplexity/"><u>Chatbot Faceoff: Determining the Superior Choice Between ChatGPT Plus and Perplexity</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-g24-power-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola G24 Power Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capture-every-moment-the-premier-8-free-screen-capture-apps-for-android/"><u>In 2024, Capture Every Moment The Premier 8 Free Screen Capture Apps for Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-key-digital-platforms-enhance-your-youtube-traffic/"><u>In 2024, Key Digital Platforms Enhance Your YouTube Traffic</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-legacy-linkup-software/"><u>In 2024, Legacy Linkup Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-verifying-realness-in-instagrams-visual-identity-expressions/"><u>In 2024, Verifying Realness in Instagram's Visual Identity Expressions</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-infinix-zero-5g-2023-turbo-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Zero 5G 2023 Turbo ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-y78t-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Y78t</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-13-pro-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 13 Pro by restoring it to default settings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-uncovering-illegal-gain-from-false-subscriber-sales/"><u>[New] In 2024, Uncovering Illegal Gain From False Subscriber Sales</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>[Updated] Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12T Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-vyncs-link-service-effective-surveillance-with-enigmastic-subscriptions/"><u>Comprehensive Guide to Vyncs Link Service: Effective Surveillance with Enigmastic Subscriptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafted-perfection-discover-the-1e-custom-ai-models-elevating-beyond-basic-chatgpt/"><u>Crafted Perfection: Discover the 1E Custom AI Models Elevating Beyond Basic ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-12-pro-max-5-ways-to-get-into-a-locked-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Locked Out of iPhone 12 Pro Max? 5 Ways to get into a Locked iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-destiny-2s-silent-streets-reactivating-voice-chat-for-gaming-communication/"><u>Solving Destiny 2'S Silent Streets: Reactivating Voice Chat for Gaming Communication</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-11r-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus 11R</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-poco-m6-pro-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Poco M6 Pro 5G.</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/uninstalling-video-libraries-from-youtube-for-2024/"><u>Uninstalling Video Libraries From YouTube for 2024</u></a></li>
 </ul></div>
 

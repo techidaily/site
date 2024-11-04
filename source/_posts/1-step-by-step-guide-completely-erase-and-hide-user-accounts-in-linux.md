@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux"
-date: 2024-10-22T16:31:27.467Z
-updated: 2024-10-29T16:12:40.622Z
+date: 2024-10-29T18:11:11.355Z
+updated: 2024-11-04T03:17:13.556Z
 tags:
   - desktop
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  If you just want to delete a user account from your system and aren't concerned about ending any running processes and other cleanup tasks, follow the steps in the "Deleting the User Account" section below. You'll need the `deluser` command on Debian-based distributions and the `userdel` command on other Linux distributions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  User Accounts on Linux
 
  Ever since the [first time-sharing systems appeared in the early 1960s](https://en.wikipedia.org/wiki/Compatible%5FTime-Sharing%5FSystem) and brought with them the capability for multiple users to work on a single computer, there's been a need to isolate and compartmentalize the files and data of each user from all the other users. And so user accounts—[and passwords—](https://en.wikipedia.org/wiki/Fernando%5FJ.%5FCorbat%C3%B3)were born.
@@ -54,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  Everything's set. All eyes are on you.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check the Login
 
  Let's see if he really is logged in and, if he is, how many sessions he's working with. The `who` command [will list active sessions](http://man7.org/linux/man-pages/man1/who.1.html).
@@ -76,20 +56,13 @@ who
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Eric is logged in once. Let's see what processes he's running.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Reviewing The User's Processes
 
@@ -98,6 +71,13 @@ who
 ps -u eric
 
 ![ps -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We can see the same processes with more information using the `top` command. `top` also has an `-U` (user) option to restrict the output to the processes owned by a single user. Note that this time it is an uppercase "U."
 
@@ -110,26 +90,13 @@ top -U eric
 ![Output from top -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It doesn't look like he's doing much, just using `less` to view a file. We're safe to proceed. But before we kill his processes, we'll freeze the account by locking the password.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Locking the Account
 
@@ -151,6 +118,19 @@ sudo passwd -l eric
 
 ![sudo passwd -l eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/18.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If we check the `/etc/passwd` file again, we'll see what's happened.
 
 sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
@@ -170,10 +150,10 @@ sudo pkill -KILL -u eric
 ![sudo pkill -KILL -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You're returned to the command prompt in a decidedly anti-climactic fashion. To make sure something happened let's check `who` again:
@@ -181,13 +161,6 @@ sudo pkill -KILL -u eric
 who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  His session is gone. He's been logged off and his processes have been stopped. That's taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric's desk.
 
@@ -214,6 +187,13 @@ ls -lh eric-20200802.tar.bz
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A file of 722 MB has been created. This can be copied somewhere safe for later review.
 
 ##  Removing cron Jobs
@@ -231,6 +211,13 @@ sudo crontab -r -u eric
 ![sudo crontab -r -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png) 
 
  The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Removing Print Jobs
 
@@ -282,6 +269,13 @@ sudo less /etc/group | grep eric
 
 ![sudo less /etc/group | grep eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It's a Wrap
 
  Eric, for his sins, is gone. Security is still walking him out of the building and you've already secured and archived his files, deleted his account, and purged the system of any remnants.
@@ -303,14 +297,24 @@ sudo less /etc/group | grep eric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>[New] [Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-firefox-video-capture-utilities-for-2024/"><u>[New] Firefox Video Capture Utilities for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-navigating-like-a-pro-with-telegram-web/"><u>[New] Navigating Like a Pro with Telegram Web</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-comprehensive-guide-to-10-best-meme-patterns-for-2024/"><u>[Updated] The Comprehensive Guide to #10 Best Meme Patterns for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/complete-step-by-step-manual-on-implementing-transaction-log-backups-in-sql-server/"><u>Complete Step-by-Step Manual on Implementing Transaction Log Backups in SQL Server</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-htc-u23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-quickly-stop-live-feed-capture-with-quicktime/"><u>[New] 2024 Approved Quickly Stop Live Feed Capture with QuickTime</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-superior-console-emulation-best-ps1-games-for-your-pc-for-2024/"><u>[New] Superior Console Emulation Best PS1 Games for Your PC for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimizing-nintendo-switch-controller-for-steam-games/"><u>[Updated] 2024 Approved Optimizing Nintendo Switch Controller for Steam Games</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/discover-a-world-of-creative-slide-show-patterns-at-no-cost/"><u>Discover a World of Creative Slide Show Patterns at No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-techkey-bluetooth-support-software-for-windows-10s-and-older-versions/"><u>Get Techkey Bluetooth Support Software for Windows 10S and Older Versions</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-itel-p55plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel P55+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 12 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-a59-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo A59 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nokia-c300-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nokia C300 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-oppo-find-n3-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Oppo Find N3</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-gionee-f3-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Gionee F3 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Infinix Hot 40i</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-audience-behind-your-youtube-viewer-statistics/"><u>Unveiling the Audience Behind Your YouTube Viewer Statistics</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-k11x-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo K11x</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209970967-9780253043696-weird-wild-west/"><u>Weird Wild West | Free Book</u></a></li>
 </ul></div>
 

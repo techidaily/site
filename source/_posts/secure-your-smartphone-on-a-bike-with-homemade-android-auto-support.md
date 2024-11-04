@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-10-23T18:02:36.259Z
-updated: 2024-10-29T18:02:06.250Z
+date: 2024-11-01T06:21:15.159Z
+updated: 2024-11-04T12:27:42.315Z
 tags:
   - mobile
 categories:
@@ -28,10 +28,10 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
@@ -39,16 +39,10 @@ Bone
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -64,10 +58,10 @@ Joe Fedewa / How-To Geek
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -79,10 +73,10 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -108,19 +102,15 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ioneer-productions-leading-free-editors-on-android-for-2024/"><u>[New] Pioneer Productions Leading Free Editors on Android for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-audio-curated-list-of-top-mac-friendly-recorders-for-2024/"><u>[Updated] Elevate Your Audio Curated List of Top Mac-Friendly Recorders for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-assessing-the-riches-of-mr-beast/"><u>[Updated] In 2024, Assessing the Riches of Mr. Beast</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-frameforge-review-the-ultimate-guide-to-capturing-tech/"><u>2024 Approved FrameForge Review The Ultimate Guide to Capturing Tech</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-easily-install-kyocera-printer-drivers-in-windows/"><u>How to Easily Install KYOCERA Printer Drivers in Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-12-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-poco-x5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco X5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-y78-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo Y78 5G)</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy S23 Ultra can’t play AVCHD .mts video</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-slow-motion-mastery-in-phantom-cameras-for-2024/"><u>Step-by-Step Slow Motion Mastery in Phantom Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-avi-videos-top-5-methods-for-converting-online-and-offline/"><u>Transform Your AVI Videos: Top 5 Methods for Converting Online & Offline</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-11-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-ace-3-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Ace 3 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-12-proplus-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12 Pro+ 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mastering-client-communication-strategies-for-managing-comments-on-contact-us/"><u>Mastering Client Communication: Strategies for Managing 'Comments on Contact Us'</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/sd-kartenwiederherstellung-prozessverstandnis-und-anleitung-zur-wiederholung-geloschter-dateien-uber-die-eingabeaufforderung-cmd/"><u>SD-Kartenwiederherstellung: Prozessverständnis Und Anleitung Zur Wiederholung Gelöschter Dateien Über Die Eingabeaufforderung (CMD)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-resolve-instagram-story-upload-failures/"><u>Step by Step Guide to Resolve Instagram Story Upload Failures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-fabrication-at-rapid-and-tct-2024-spotlight-on-cutting-edge-printers-materials-and-tech/"><u>Unveiling the Future of Fabrication at Rapid & TCT 2024: Spotlight on Cutting-Edge Printers, Materials & Tech</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728484270134-windows-11-usb/"><u>Windows 11 イメージのUSBからの展開方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-dead-laptop-mousepads-on-windows-10-8-and-7-expert-hacks-unveiled/"><u>Winning the Battle Against Dead Laptop Mousepads on Windows 10, 8 & 7 - Expert Hacks Unveiled</u></a></li>
 </ul></div>
 

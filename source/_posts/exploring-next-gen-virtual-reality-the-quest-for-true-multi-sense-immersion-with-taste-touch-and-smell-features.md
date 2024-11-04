@@ -1,7 +1,7 @@
 ---
 title: "Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features"
-date: 2024-10-24T17:02:39.339Z
-updated: 2024-10-29T21:21:18.043Z
+date: 2024-10-29T07:07:21.127Z
+updated: 2024-11-03T22:40:23.396Z
 tags:
   - cutting-edge
 categories:
@@ -31,13 +31,6 @@ Related: [What Is "Presence" in VR, and Why Is it So Important?](https://change-
 
  It's not as if the idea of adding these sensory channels to media is new. Movie theaters have experimented with releasing smells during certain scenes. There have been video games known as "[feelies](https://www.pcgamer.com/boxes-feelies-and-the-good-old-days-of-pc-gaming/)" where you'd get items in the box that you're supposed to touch when instructed. It may have been largely a gimmick in the past, but many people hold that opinion of VR itself as well, so there's certainly a market for more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Simulated Taste: All Flavor, No Calories
 
 ![Woman in a kitchen wearing a virtual reality headset and eating a bowl of food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-eating-food.jpg) 
@@ -50,16 +43,16 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
 
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Next-Generation Haptics
 
 ![Man wearing a virtual reality headset and exoskeleton gloves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/man-virtual-reality-headset-gloves-touch.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo/medium-shot-man-lying-bed-using-1367032724)_
 
@@ -74,15 +67,22 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
  In other words, we're on track to create technology that can reliably recreate many types of touch sensations that current consumer VR can't. Getting the cost and complexity down so that it can reach the masses, however, will take time.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Smelling the Virtual Roses
 
 ![Woman wearing virtual reality headset and enjoying the smell of a bouquet of flowers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-flower-bouquet.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-vr-glasses-headset-enjoying-1780967699)_
 
@@ -97,10 +97,10 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Holy Grail: Direct Brain Stimulation
@@ -124,24 +124,24 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/anking-the-top-16-youtube-intros-to-amplify-views/"><u>[New] Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ethical-implications-recording-whatsapp-calls-responsibly/"><u>[Updated] Ethical Implications Recording WhatsApp Calls Responsibly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-5-video-monitors-for-ps5-players/"><u>2024 Approved Excellent 5 Video Monitors for PS5 Players</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-buyers-guide-to-premium-document-and-image-scanners-top-picks-for-2e-2024/"><u>A Buyer's Guide to Premium Document & Image Scanners: Top Picks for 2E 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-top-10-applications-every-windows-11-user-needs/"><u>Essential Top 10 Applications Every Windows 11 User Needs</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-m54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy M54 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2020-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2020) System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-creating-smooth-time-lapses-with-samsung-mobile/"><u>In 2024, Creating Smooth Time-Lapses with Samsung Mobile</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-15-pro-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 15 Pro? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-ideas-into-engaging-youtube-video-plans/"><u>In 2024, Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-samsung-galaxy-m54-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/seamless-mac-screen-record-with-audio-device/"><u>Seamless Mac Screen Record with Audio Device</u></a></li>
-<li><a href="https://techidaily.com/tecno-spark-10c-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Spark 10C Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-svd-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .svd file documents online</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-full-hd-cameras-for-stunts-and-sports/"><u>[New] Affordable Full HD Cameras for Stunts and Sports</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-key-to-quick-and-effective-small-image-generation/"><u>[New] The Key to Quick and Effective Small Image Generation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-vocal-variety-ventures-in-free-fire-play/"><u>2024 Approved Vocal Variety Ventures in Free Fire Play</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-lava-agni-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Agni 2 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo S17e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-note-30-vip-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Note 30 VIP Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immerse-yourself-the-top-15-dolby-atmos-films-that-elevate-home-cinema-to-new-heights/"><u>Immerse Yourself: The Top 15 Dolby Atmos Films That Elevate Home Cinema to New Heights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y200-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y200 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-fix-for-binkw32dll-missing-a-user-friendly-approach/"><u>The Complete Fix for 'Binkw32.dll Missing' - A User-Friendly Approach</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-go-anywhere-tp-link-travel-router-stylish-and-powerful-wi-fi-companion/"><u>The Go-Anywhere TP-Link Travel Router: Stylish and Powerful Wi-Fi Companion</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-rog-phone-7-ultimate-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on ROG Phone 7 Ultimate without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s18-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S18 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/typingspeed-surge-with-typingaid-tools/"><u>TypingSpeed Surge with TypingAid Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-comprehensive-insights/"><u>Unveiling the Latest Gadgets with Tom - Comprehensive Insights</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-xiaomi-redmi-13c-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-sub4sub-does-it-really-work/"><u>YouTube Sub4Sub Does It Really Work?</u></a></li>
 </ul></div>
 

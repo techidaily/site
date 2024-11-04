@@ -1,7 +1,7 @@
 ---
 title: "AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude"
-date: 2024-10-24T20:12:26.877Z
-updated: 2024-10-29T16:03:37.826Z
+date: 2024-10-31T16:16:53.302Z
+updated: 2024-11-03T23:33:09.923Z
 tags:
   - cutting-edge
 categories:
@@ -49,6 +49,19 @@ Hannah Stryker / How-To Geek
 
  The Pro version gives you access to GPT-4 and Claude, too. It's important to note that there is no original Perplexity LLM. The platform uses preexisting LLMs, not its own.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Availability and Price
 
  ChatGPT is available in most countries worldwide, though it has been banned in North Korea, China, Iran, Cuba, Syria and Nepal. You can use ChatGPT for free, which gives you access to GPT-3.5, or you can use [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/). This premium version gives you access to OpenAI's latest LLM version, GPT-4, for $20 monthly.
@@ -62,10 +75,10 @@ Hannah Stryker / How-To Geek
 ![A person texting on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53216035228_58695ed0f7_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -103,10 +116,10 @@ Hannah Stryker / How-To Geek
 ![screenshot of chatgpt prompt response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-response-job.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT gave a longer response with more bullet points and information. The language was very conversational and natural.
@@ -114,13 +127,6 @@ Hannah Stryker / How-To Geek
  Here are the results from Claude:
 
 ![Screenshot of Claude's response to an interview advice request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-job-request.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Though Claude gave a shorter response, the language used was just as conversational and natural as that provided by ChatGPT.
 
@@ -140,11 +146,25 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of ChatGPT prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-calendar-code.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided a brief but effective code excerpt which worked successfully when tested, providing a simple text-based Python monthly calendar.
 
  From Claude, we got the following result:
 
 ![Screenshot of Claude chabot response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-calendar-response.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Claude gave a slightly longer code excerpt that provided the same result when tested.
 
@@ -153,10 +173,10 @@ Hannah Stryker / How-To Geek
 ![Screenshot of Perplexity.ai prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-calendar-response.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Perplexity also provided a code excerpt that worked successfully when tested, again giving the same result.
@@ -169,31 +189,11 @@ Hannah Stryker / How-To Geek
 
 ![screenshot of chatgpt maths problem solution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-maths-response.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT gave the correct answer, and demonstrated how to solve the equation.
 
  Here's Claude response:
 
 ![Screenshot of Claude's response to an algebraic problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-math-problem.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Claude also gave the correct answer, along with the solution process.
 
@@ -201,16 +201,16 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Perplexity's response to algebraic equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-math-response.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perplexity also gave the correct answer, as well as the solution process.
 
  It's important to note that no AI chatbot should be totally trusted with math equations, as they do have room for error. Check out our piece on [why you shouldn't use ChatGPT for mathematics](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/) to learn more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Choosing an AI Chatbot Can Be Challenging
 
@@ -231,22 +231,14 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-maximizing-efficiency-with-azures-audio-transcription/"><u>[New] Maximizing Efficiency with Azure's Audio Transcription</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-social-sea-identifying-unfollowers-on-instagram-for-2024/"><u>[Updated] Navigating the Social Sea Identifying Unfollowers on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlined-collaborations-amplifying-your-video-impact/"><u>[Updated] Streamlined Collaborations Amplifying Your Video Impact</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-microphone-combinations-for-superior-4k-audio-and-visuals/"><u>Best Microphone Combinations for Superior 4K Audio and Visuals</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-for-easy-zebra-zp450-driver-installation-and-update-process/"><u>Guide for Easy Zebra ZP450 Driver Installation & Update Process</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-14-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 14 Ultra Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-curve-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze Curve 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A05 Phone Without Password?</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-defenders-protection-to-use-other-avs/"><u>Overcoming Windows Defender's Protection to Use Other AVs</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-x8b-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on X8b without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-v29e-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo V29e.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-11x-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme 11X 5G</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-x-fold-2-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo X Fold 2</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-snapchat-strategies-the-ultimate-list/"><u>[Updated] 2024 Approved Innovative Snapchat Strategies The Ultimate List</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-x-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo X Flip Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-note-12-proplus-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi Note 12 Pro+ 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-v30-lite-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo V30 Lite 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G73 5G Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-dawns-good-morning-versions-from-10-different-cultures/"><u>International Dawns: Good Morning Versions From 10 Different Cultures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/manual-de-uso-facil-y-completo-para-el-programa-winxdvd-una-guia-paso-a-paso/"><u>Manual De Uso Fácil Y Completo Para El Programa WinXDVD: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-a1-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo A1 5G</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-caption-implementation-essentials/"><u>YouTube Caption Implementation Essentials</u></a></li>
 </ul></div>
 

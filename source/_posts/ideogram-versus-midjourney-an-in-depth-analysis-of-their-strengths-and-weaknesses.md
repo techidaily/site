@@ -1,7 +1,7 @@
 ---
 title: Ideogram versus Midjourney - An In-Depth Analysis of Their Strengths and Weaknesses
-date: 2024-10-23T19:42:22.624Z
-updated: 2024-10-29T16:24:46.671Z
+date: 2024-10-28T16:01:44.438Z
+updated: 2024-11-04T05:44:48.966Z
 tags:
   - cutting-edge
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That being said, as I write this, MidJourney has rolled out an alpha version of their web interface, which is open to subscribers who have made more than 1000 images. I've been using it extensively, and it's far more polished than the Discord interface for MidJourney. Still, it has a long way to go and still relies on text commands for some features.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing: Ideogram Is Generous
 
  Ideogram has a [free and $8/mo basic plan](https://docs.ideogram.ai/ideogram-plus/available-plans) in addition to the aforementioned Plus plan. Compare that to Midjourney's $10/mo Basic, $30/mo standard, $60/mo Pro, and $120/mo Mega plans, and Ideogram is more attractive from a pricing standpoint. Especially since MidJourney no longer has a free option.
@@ -42,13 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Ideogram is generally more generous. For example, the $30 standard plan offers 15 hours of "fast" server time, which should be around 1000 prompts of four images output based on my experience. Ideogram offers 1000 prompts resulting in 4000 images of "priority" time. So about the same, but 33% less expensive on the Ideogram side of things. Don't forget that this tier includes private generations, so it's great value for money. Both offer unlimited standard speed generation at this tier.
 
  The two basic tiers are priced similarly, with Ideogram costing $8 and Midjourney $10, but the value of Ideogram is far better. You get twice as many prompts and images in fast time as MidJourney, and unlike MidJourney that has a hard cap on this tier, you can do 100 prompts a day at no additional cost at standard speeds.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Prompt Adherence: Six of One, Half Dozen of the Other
 
@@ -69,10 +69,10 @@ Sydney Louw Butler/How-To Geek/ MidJourney
 ![Four robots drawn by Ideogram using the prompt 'Painting of a robot looking directly at the viewer. In the robot's left hand is an apple. In the robot's right hand is an orange. The robot is purple and green.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ideogram-robots.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek/ Ideogram
@@ -87,6 +87,13 @@ Sydney Louw Butler/How-To Geek/ Ideogram
 
  Midjourney also has an inpainting function known as "vary region" where you can mark areas of an otherwise perfect image to try and re-generate a new section. So if a hand came out wrong, mark it and try again. Most likely it will look right the second time around, and you get to keep the image you liked. In general, Midjourney lets you do more things after an image has been generated, with Ideogram offering a "remix" option where you can use an existing image as a starting point, but no inpainting function that I could find.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Text Accuracy: Ideogram Nails It
 
  For a long time, asking an AI image generator to add text to the image was a fool's errand, and you'd just get garbled text that meant nothing. With modern generators, this is a feature that's been explicitly added. However, the success rate is never 100%, and for MidJourney this is a major weakness compared to Ideogram. Ideogram gets it right about 80% of the time and MidJourney around 20% of the time based on my attempts. Of course, your mileage may vary, but I have no doubt that Ideogram is better in this regard, which makes it perfect to generate graphic art like stickers. Here I asked both systems to write some text on a coffee mug. First Midjourney:
@@ -94,16 +101,10 @@ Sydney Louw Butler/How-To Geek/ Ideogram
 ![Four coffe mugs generated by MidJourney with an attempt at writing 'Tested by HTG' on them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-25-at-12-32-24.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek/MidJourney
@@ -113,13 +114,6 @@ Sydney Louw Butler/How-To Geek/MidJourney
 ![Four cups attempted by Ideogram mean to have the text 'Tested by HTG' written on them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-25-at-12-33-06.png) 
 
 Sydney Louw Butler/How-To Geek/Ideogram
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  MidJourney or Ideogram: Which Should You Use?
 
@@ -140,20 +134,16 @@ Sydney Louw Butler/How-To Geek/Ideogram
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-switching-views-iphone-video-retrospect-for-2024/"><u>[New] Switching Views IPhone Video Retrospect for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevate-your-mobile-game-skills-a-deep-dive-into-kinemaster-review/"><u>[Updated] In 2024, Elevate Your Mobile Game Skills A Deep Dive Into KineMaster Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-leveraging-videos-with-text-a-cost-free-approach/"><u>[Updated] In 2024, Leveraging Videos with Text A Cost-Free Approach</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-top-free-backup-software-ultimate-guide-and-best-picks-for-windows-users/"><u>1. Top Free Backup Software: Ultimate Guide & Best Picks for Windows Users</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-a60-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A60 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-poco-f5-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco F5 Pro 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-x5-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y36i-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y36i phone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/iniciar-tu-manual-de-botones-del-reloj-digital/"><u>Iniciar Tu Manual De Botones Del Reloj Digital</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-magic-6-lite-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor Magic 6 Lite Screen | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-meizu-21-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Meizu 21 Pro</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-lenovo-ideapad-100-freshest-drivers-compatible-with-windows-10/"><u>Update Lenovo IdeaPad 100: Freshest Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-effortless-no-cost-screening-of-android-gadgets-for-2024/"><u>[New] Effortless, No-Cost Screening of Android Gadgets for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-personalized-settings-not-responding/"><u>[SOLVED] Personalized Settings (Not Responding)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-kinemaster-zoom-mastery-guide-a-filmmakers-toolkit/"><u>[Updated] Kinemaster Zoom Mastery Guide A Filmmaker's Toolkit</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevate-your-filmmaking-top-strategies-for-gopro-timelapses/"><u>Elevate Your Filmmaking Top Strategies for GoPro Timelapses</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-liberated-escaping-platform-chains/"><u>Gaming Liberated: Escaping Platform Chains</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 3 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-experience-8-expert-solutions-to-counteract-vrchat-issues-on-pcs/"><u>Revamp Your Gaming Experience - 8 Expert Solutions to Counteract VRChat Issues on PCs</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy Z Flip 5 won’t play MP4 files</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-play-40c-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Play 40C</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-narzo-60-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme Narzo 60 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-huawei-nova-y71-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Huawei Nova Y71</u></a></li>
 </ul></div>
 

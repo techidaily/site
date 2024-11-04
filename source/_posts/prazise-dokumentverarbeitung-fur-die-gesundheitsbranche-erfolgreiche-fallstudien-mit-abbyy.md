@@ -1,7 +1,7 @@
 ---
 title: "Präzise Dokumentverarbeitung Für Die Gesundheitsbranche: Erfolgreiche Fallstudien Mit ABBYY"
-date: 2024-10-03T09:14:31.579Z
-updated: 2024-10-06T06:38:22.966Z
+date: 2024-10-30T22:00:52.608Z
+updated: 2024-11-04T08:22:01.199Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce78f830a62381ffd05e1b2e3.jpg
@@ -19,6 +19,13 @@ Healthcare & Pharmaceuticals | Digital Archiving
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detaillierte Dokumenten­erfassung im Dienste der Gesundheit
 
 Gesundheitswesen und Pharmazie | Digitale Archivierung 
@@ -26,10 +33,10 @@ Gesundheitswesen und Pharmazie | Digitale Archivierung
 ![](https://static1.abbyy.com/abbyycommedia/15248/4208e_images_cs_bankstream556x303.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Über den Kunden
@@ -37,10 +44,10 @@ Gesundheitswesen und Pharmazie | Digitale Archivierung
 ![Boehringer Ingelheim](https://static5.abbyy.com/abbyycommedia/16276/boeringer-ingelheim-155x69.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 | Name        | Boehringer Ingelheim                                                |
@@ -96,22 +103,15 @@ Die Installation bei Boehringer Ingelheim umfasst einen ABBYY Recognition Server
 
 [![10-Healthcare](https://static2.abbyy.com/abbyycommedia/14360/10-healthcare.jpg)](https://tools.techidaily.com/abbyy/products/) [Gesundheitswesen](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![cs-fraunhofernzz-360x162](https://static3.abbyy.com/abbyycommedia/17083/cs-fraunhofernzz-360x162.jpg)](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") [PDF-Version](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Zum Dokument](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
@@ -145,22 +145,18 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-price-guide-for-cloud-storage-services/"><u>2024 Approved Ultimate Price Guide for Cloud Storage Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-pathways-to-revitalize-a-dying-windows-services-console/"><u>7 Pathways to Revitalize a Dying Windows Services Console</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-toshiba-55lf711u20-55-fire-tv-edition-guide-a-top-pick-for-prime-subscribers/"><u>Comprehensive Toshiba 55LF711U20 55 Fire TV Edition Guide - A Top Pick for Prime Subscribers</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-x100-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo X100 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y100-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y100? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-se-2022-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone SE (2022) After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1x-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1x 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimize-your-playstation-10-best-ssds-hdds/"><u>Optimize Your PlayStation 10 Best SSDs, HDDs</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2007-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2007 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-zero-30-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Zero 30 5G</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-reversing-video-order-on-vlc-platform-for-2024/"><u>Step-by-Step Reversing Video Order on VLC Platform for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m54-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-stuck-on-size-errors-in-win11-discord-with-ease/"><u>Troubleshooting Stuck-On-Size Errors in Win11 Discord with Ease</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-top-10-best-android-video-editors/"><u>Updated FREE Top 10 Best Android Video Editors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-engaging-narratives-a-compreehensive-guide-to-adding-emojis-to-instagram-stories-for-2024/"><u>Crafting Engaging Narratives A Compreehensive Guide to Adding Emojis to Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/discover-the-top-8-budget-friendly-apps-for-professional-looking-product-photos-at-home/"><u>Discover the Top 8 Budget-Friendly Apps for Professional-Looking Product Photos at Home!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-guide-to-best-visual-voicemail-apps/"><u>Discover The Ultimate Guide to Best Visual Voicemail Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ditching-google-maps-in-favor-of-waze-understanding-my-motivation-behind-the-change/"><u>Ditching Google Maps in Favor of Waze: Understanding My Motivation Behind the Change</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-copy-paste-made-simple-with-apple-vision-pros-gestural-commands-cnet-reviews/"><u>Effortless Copy-Paste Made Simple with Apple Vision Pro's Gestural Commands | CNET Reviews</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-z-flip-5-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy Z Flip 5 Phone Screen?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-80-pro-straight-screen-edition-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 80 Pro Straight Screen Edition in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Tecno ?</u></a></li>
 </ul></div>
 

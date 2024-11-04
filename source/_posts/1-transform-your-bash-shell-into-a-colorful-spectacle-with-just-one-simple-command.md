@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2024-10-22T17:20:38.845Z
-updated: 2024-10-29T19:37:15.307Z
+date: 2024-10-28T13:19:09.648Z
+updated: 2024-11-03T16:51:34.016Z
 tags:
   - desktop
 categories:
@@ -81,13 +81,6 @@ lolcat --help
 
 man lolcat
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Get Colored Terminal Output
 
  Now that you're familiar with the lolcat command and its options, let's see how you can use it to get colored terminal output. One of the easiest ways to use lolcat is to [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) of another Linux command through lolcat. For instance, if you want to colorize the output of the [ls command](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/), you can run this:
@@ -95,6 +88,13 @@ man lolcat
 ls | lolcat
 
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
 
@@ -104,18 +104,18 @@ lolcat file.txt
 
 ![Displaying file content in colored output on Linux terminal using lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolcat-file-output.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Want to see your system information using [neofetch](https://facebook-videos.techidaily.com/updated-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/) in rainbow glory? Try running this:
 
 neofetch | lolcat
 
 ![Getting system information in rainbow colored format using neofetch and lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/neofetch-lolcat.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also [create a permanent alias](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/) for a frequently used command to automatically output in vibrant colors. For example, you can permanently set up an alias for the ls -l command by adding the following line to the [\~/.bashrc file](https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nokia-xr21-drfone-by-drfone-reset-android-reset-android/):
 
@@ -127,6 +127,19 @@ vim ~/.bashrc
 
 ![Setting up an alias for the ls -l command in the ~/.bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/alias-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After creating the alias, don’t forget to log out and back in to apply the changes.
 
  Now, when you type **lolls**, the system will execute the command ls -l and pipe its output to lolcat for a colorful display.
@@ -136,10 +149,17 @@ lolls
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Animate Your Text Using lolcat
@@ -161,19 +181,6 @@ echo "Welcome to HTG" | lolcat --animate -d 500
 echo "Welcome to HTG" | lolcat --animate -s 5
 
  This command slows down the animation, giving you a more relaxed visual experience.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create Colorful ASCII Text Banner
 
@@ -203,13 +210,6 @@ figlet -f slant "Welcome to HTG" | lolcat
 
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Make Things Interesting With cowsay
 
  Want to make things more funny? Let's combine lolcat with [cowsay](https://github.com/cowsay-org/cowsay). This fun command allows you to create speech bubbles with cute animal characters that display a message you provide.
@@ -233,10 +233,10 @@ cowsay "Linux is Funny" | lolcat
 ![Displaying a rainbow-colored cow in the terminal window with some text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But why stop at cows? Cowsay comes with a whole menagerie of ASCII animals. Let's see what a rainbow tux has to say:
@@ -266,17 +266,17 @@ cowsay -f tux "Linux is cool" | lolcat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nvigorating-channel-content-best-video-concepts-to-inspire-viewers-for-2024/"><u>[New] Invigorating Channel Content Best Video Concepts to Inspire Viewers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-solo-spotlight-crafting-a-chart-topping-podcast/"><u>[New] Solo Spotlight Crafting a Chart-Topping Podcast</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-vive-headset-review-the-gateway-to-ultimate-virtuality/"><u>[Updated] In 2024, Vive Headset Review The Gateway to Ultimate Virtuality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-infuse-rhythm-to-instagram-music-guide-for-2024/"><u>[Updated] Infuse Rhythm to Instagram Music Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guida-completa-ai-convertitori-mp4-perfetti-per-iphone-idee-fai-da-te-per-cambiare-mov-mkv-o-youtube-in-mp4-senza-problemi/"><u>Guida Completa Ai Convertitori MP4 Perfetti per iPhone: Idee Fai-Da-Te per Cambiare MOV, MKV O YouTube in MP4 Senza Problemi</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/moviemakermag-comprehensive-editor-review-for-2024/"><u>MovieMakerMag Comprehensive Editor Review for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x9a-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-samsung-galaxy-s23plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Samsung Galaxy S23+.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-smart-8-hd-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Smart 8 HD.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-enrich-social-media-content-with-auto-generated-speech/"><u>[Updated] 2024 Approved How to Enrich Social Media Content with Auto-Generated Speech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-crafting-dynamic-web-pages-with-php-and-html/"><u>[Updated] In 2024, Crafting Dynamic Web Pages with PHP and HTML</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stream-smart-10-must-know-rules-for-regular-vlogging/"><u>[Updated] Stream Smart 10 Must-Know Rules for Regular Vlogging</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-12-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 12 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-a2plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi A2+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-zoom-calls-on-an-android-device/"><u>In 2024, Navigating the World of Zoom Calls on an Android Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-in-cross-device-input-sharing-with-barrier-technique/"><u>Precision in Cross-Device Input Sharing with Barrier Technique</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/leshooting-why-are-your-shorts-thumbnails-hiding-in-2024/"><u>Troubleshooting Why Are Your Shorts' Thumbnails Hiding, In 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: What can you do with Face ID on iPhone 11 Pro Max?
-date: 2024-09-17T04:49:27.324Z
+date: 2024-10-30T21:26:27.296Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -60,6 +60,13 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/9.avif)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up Face ID on Your iPhone 11 Pro Max
 
 Sometimes, you may just want to disable Face ID temporarily or the issue gets solved, and want to activate Face ID again. Setting up a Face ID on your iPhone 11 Pro Max is easy. To set up Face ID, sit in a comfortable spot with adequate lighting and follow these steps:
@@ -100,24 +107,18 @@ As an authentication mechanism, Face ID enables you to unlock your iPhone 11 Pro
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
 
 ![What is Face ID?](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/5.avif)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Setting up and using Attention Aware features is easy:
 
@@ -144,16 +145,10 @@ Step 3: Look at your iPhone to authenticate yourself with Face ID and Safari wil
 Face ID is also used for authenticating you for third-party apps that support Face ID. This means you can use Face ID to authenticate yourself for banking apps, password managers, and other apps that support Face ID.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Animojis and Memojis
@@ -161,13 +156,6 @@ Face ID is also used for authenticating you for third-party apps that support Fa
 Up until now, we saw how Face ID enables productivity features and how convenient it is to use it. Now, we come to the fun part - Animojis. Apple launched Face ID in 2017 on the iPhone X with much fanfare and a huge part of that fanfare was Animojis. Over time, Apple brought new capabilities to the iPhone and added Memojis alongside Animojis.
 
 ![Animojis and Memojis](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/6.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Animojis are animated emojis. These are made possible with advanced algorithms enabled by the TrueDepth camera in Face ID. Animated emojis or Animojis can mimic your facial expressions and you can use them in your message conversations in apps.
 
@@ -204,28 +192,15 @@ Face ID is not just for unlocking your iPhone, but it is also used for authentic
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bypassing Activation Lock using official methods (iPhone 11 Pro Max)
 
 An Activation Lock is not the end of the world, as Apple might have you believe. Nothing in the world is perfect, except for the world itself. As such, there are ways to bypass Activation Lock on an Apple device that you bought used, and the previous owner forgot to unlock or did so intentionally and is now trying to fleece you for more money to unlock it. Or an employee who just left the job surrendered their iPhone 11 Pro Max but forgot to erase the device before submitting and consequently, the device is still associated with their Apple ID, and you need to bypass Activation Lock for that iPhone 11 Pro Max to make it useable again. There are a few ways you can go about it.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bypassing Activation Lock Using Apple ID
@@ -260,10 +235,10 @@ If you are an IT administrator and are using Microsoft services, you may have gi
 ![Bypassing Activation Lock Using Microsoft Intune](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/4.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 1**: Sign in to the admin center on Microsoft Endpoint Manager.
@@ -301,6 +276,13 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 11 
 
 Your iPhone 11 Pro Max will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone 11 Pro Max prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Reasons for Locked Apple ID
 
 There can be a few reasons why your Apple ID is locked. You forgot the password and now it is locked since you entered the wrong password too many times. A scarier prospect, albeit a real one, is that some malicious actor attempted to login into your Apple ID account but failed. Had they succeeded, you would have gotten a message that 'your Apple ID is being used on another device' now.
@@ -312,13 +294,6 @@ All of these will result in a locked Apple ID that users will have to reset thei
 ## How to Unlock Apple ID on iPhone 11 Pro Max
 
 ![How to Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/3.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
@@ -342,6 +317,19 @@ If you have another device associated with the Apple ID and it is a trusted devi
 
 ![Two-factor code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/6.avif)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4**: Use that code to unlock your Apple ID using two-factor authentication.
 
 ### Unlock Apple ID Via a third party tool
@@ -359,13 +347,6 @@ Dr.Fone is a collection of carefully crafted modules that helps you when most ne
 - **Step 3**: Click Unlock Apple ID to start the process.
 
 ![Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/8.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4**: Connect your device to the computer and wait for Dr.Fone - Screen Unlock (iOS) to detect it. You must know the passcode of your device.
 
@@ -398,6 +379,13 @@ Here is how to use Dr.Fone - Screen Unlock (iOS) to quickly circumvent Activatio
 - **Step 3**: Select iCloud Activation Lock Removal.
 
 ![Select iCloud Activation Lock Removal](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/5.avif)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4**: Then select Start to initiate unlocking the iOS device's Activation Lock.
 
@@ -441,5 +429,23 @@ The disabled iPhone will be wiped and reset to factory settings. You can then se
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-chronoscape-controls-rewinding-iphone-footage-efficiently-for-2024/"><u>[New] Chronoscape Controls Rewinding iPhone Footage Efficiently for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mini-stories-decoded-whats-inside/"><u>[New] Mini Stories Decoded What's Inside?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-ringtones-leading-download-pages-for-2024/"><u>[New] Perfect Ringtones Leading Download Pages for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-essential-tools-every-new-creator-needs/"><u>[New] The Essential Tools Every New Creator Needs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-res-gaming-the-best-screen-capture-options/"><u>[Updated] High-Res Gaming The Best Screen Capture Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-q/"><u>Break Free From Q</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-instructions-for-swapping-out-your-phones-display-guardian-film/"><u>Complete Instructions for Swapping Out Your Phone's Display Guardian Film</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-13-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 13 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-smart-8-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Smart 8 Pro unlock screen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-a59-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo A59 5G</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy S23 Tactical Edition</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Seminar: Navigating Post-Pandemic Success After Business Automation Amidst COVID-19"
-date: 2024-10-04T06:38:51.758Z
-updated: 2024-10-06T09:41:05.880Z
+date: 2024-10-28T20:40:45.440Z
+updated: 2024-11-04T14:13:21.664Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f80c7ae4dc1f76086ad70935.jpg
@@ -19,14 +19,20 @@ English
 
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/33102/83-richardrabin-198x198.png)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Richard Rabin
 
@@ -35,19 +41,26 @@ Product Marketing Manager, **ABBYY**
 ![Reggietwigg 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Reggietwigg 198X198](https://static2.abbyy.com/abbyycommedia/31957/reggietwigg-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reginald J. Twigg, Ph.D.
@@ -56,14 +69,14 @@ Director, Enterprise Solutions Marketing, **ABBYY**
 
 ![Webinar: You have automated to survive COVID-19, but what now?](https://static1.abbyy.com/abbyycommedia/33287/79-youve-automated-to-survive-covid-360x232.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 COVID-19 forced mass adoption of digital transformation technologies, mainly to keep businesses running when the workforce, customers, and partners at once became virtual and relied on automation that was readily available. Now, a year into this new paradigm of work, we’ve learned that merely automating a process is not digital transformation; rather, processes must be re-imagined as experience management — especially those processes around employee and customer service.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### This session highlights:
 
@@ -72,13 +85,6 @@ COVID-19 forced mass adoption of digital transformation technologies, mainly to 
 * The role of unstructured content as decision, compliance, and risk points in employee and customer interactions and making them work for, not against, your digitization goals
 
 Watch this insightful session and walk away with answers you need.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fill in the form to register for the webinar now
 
@@ -160,21 +166,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-for-flipping-video-courses-on-instagram/"><u>[Updated] Expert Tips for Flipping Video Courses on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-school-based-videography-crafting-quality-content/"><u>2024 Approved School-Based Videography Crafting Quality Content</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-c67-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C67 4G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/effortlessly-run-windows-programs-on-linux-using-the-ultimate-single-tool/"><u>Effortlessly Run Windows Programs on Linux Using the Ultimate Single Tool</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-14-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 14 Pro Max Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c110-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C110 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-z-flip-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy Z Flip 5 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x9a-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone XR?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ry-in-motion-selecting-top-video-editors/"><u>Mastery in Motion Selecting Top Video Editors</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-device-connection-failures-when-casting-from-windows-11-expert-advice/"><u>Resolving Device Connection Failures When Casting From Windows 11 [Expert Advice]</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-tecno-spark-10c-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Tecno Spark 10C</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-portable-dream-handhelds-vs-nintendo-switch-20/"><u>The Portable Dream: Handhelds vs Nintendo Switch 2.0?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>[New] Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-harnessing-new-trends-transmitting-fb-videos-through-whatsapp/"><u>[Updated] 2024 Approved Harnessing New Trends Transmitting FB Videos Through WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upside-down-visuals-unraveling-instagram-video-confusion/"><u>[Updated] Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-se-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone SE by Name | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-s24plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy S24+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-incompatible-device-drivers-on-your-system-detected-solutions/"><u>Resolved: Incompatible Device Drivers on Your System Detected - Solutions!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-problems-the-ultimate-guide-for-an-unopenable-epic-games-launcher/"><u>Resolving Problems: The Ultimate Guide for an Unopenable Epic Games Launcher</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-apple-watch-series-9-evaluation/"><u>The Ultimate Guide to Choosing Your Perfect Apple Watch - Series 9 Evaluation</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-vivo-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Vivo without backup.</u></a></li>
+<li><a href="https://techidaily.com/vivo-y56-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo Y56 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
 

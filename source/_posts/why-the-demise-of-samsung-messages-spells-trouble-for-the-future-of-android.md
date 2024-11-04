@@ -1,7 +1,7 @@
 ---
 title: Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-date: 2024-10-22T19:42:07.637Z
-updated: 2024-10-29T20:05:14.455Z
+date: 2024-11-01T18:59:17.269Z
+updated: 2024-11-04T07:38:44.853Z
 tags:
   - mobile
 categories:
@@ -21,15 +21,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Samsung Messages has long been the text messaging app that comes on Samsung phones. Now, it's gone in favor of Google Messages. While Google Messages may be the better app, that doesn't mean this change is a good thing. In many ways, it's a step backward.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  RCS Was Supposed to Replace SMS, Not Become Another Walled Garden
 
 ![Samsung Messages recommending the user of Google Messages instead.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060161.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the surface, Google Messages is a texting app like any other. On the backend, though, it's not an online instant messaging app like WhatsApp or Signal. [It's built on RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), a protocol meant to serve as a replacement for SMS.
 
@@ -44,10 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There is now only one RCS app on Android: Google Messages. Samsung Messages used to have RCS support, but that feature was retired, and [now the app as a whole is following suit](https://youtube-tips.techidaily.com/ow-to-keep-unwanted-content-away-from-your-computer-and-phone/). There are absolutely valid reasons to [prefer Google Messages over Samsung Messages](https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/). The sad part is, for all practical purposes, using RCS on Android now means everyone has to consolidate around the same app.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google Messages Feels, First and Foremost, Like a Google App
@@ -59,13 +66,6 @@ Close
  The result is that you aren't just "texting." It isn't even immediately obvious that you're using RCS instead of SMS. What you're doing is using Google Messages, just like iPhone users use iMessage.
 
  Most Android phones now come with Google Messages installed. It doesn't matter if your phone comes from Samsung, Motorola, OnePlus, Sony, or HTC. The text messaging app that once was simply part of the infrastructure of a phone, much like a dialer app, is now yet another Google app joining the likes of Gmail, Google Calendar, Google Maps, and the Play Store itself.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Samsung Messages Integrates With Other Samsung Apps
 
@@ -88,10 +88,10 @@ Close
  I used to prefer for phones to ship with [stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/). Now, I actually appreciate the distinctions Samsung has made with its devices. Samsung's One UI interface is not the garish affair that the company's former TouchWiz interface once was, and there is a lot of functionality baked into Samsung's system that I miss when using other Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There's Now Less Competition Pushing Google to Innovate
@@ -131,18 +131,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-laughter-ledger-twittersphere-tales/"><u>[New] 2024 Approved Laughter Ledger Twittersphere Tales</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unwanted-tiktok-reset-regain-access-and-videos/"><u>[New] 2024 Approved Unwanted TikTok Reset – Regain Access and Videos</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-x9a-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X9a in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-a1x-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A1x 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-lite-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 Lite in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719207064707-ifas-hottest-laptops-unveiled/"><u>IFA's Hottest Laptops Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-moto-g04-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Moto G04 Phones? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-seamless-linktree-addition-in-your-tiktok-profile-for-2024/"><u>Unlocking Seamless Linktree Addition in Your TikTok Profile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formatting-youtubes-auto-subscribe-page-easily/"><u>[New] In 2024, Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-avoid-risks-secure-paths-to-get-gratis-vlc-for-mac-os-x/"><u>[Updated] Avoid Risks Secure Paths to Get Gratis VLC for Mac OS X</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamlining-visual-storytelling-with-youtube-videos/"><u>[Updated] In 2024, Streamlining Visual Storytelling with YouTube Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tips-to-prevent-frame-skipping-in-obs-studio-for-2024/"><u>[Updated] Tips to Prevent Frame Skipping in OBS Studio for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/classic-collection-finding-yesteryears-social-media-gems-for-2024/"><u>Classic Collection Finding Yesteryear's Social Media Gems for 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m14-5g-cant-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy M14 5G can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://discover-able.techidaily.com/streamlining-audio-workflows-automate-the-process-of-turning-mxf-into-wav-with-batch-operations/"><u>Streamlining Audio Workflows: Automate the Process of Turning MXF Into WAV with Batch Operations</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a34-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A34 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-6s-plus-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 6s Plus files after scanning? | Stellar</u></a></li>
 </ul></div>
 

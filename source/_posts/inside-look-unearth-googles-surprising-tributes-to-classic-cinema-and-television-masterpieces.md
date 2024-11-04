@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-10-25T16:46:53.073Z
-updated: 2024-10-29T18:57:34.931Z
+date: 2024-11-02T06:36:04.761Z
+updated: 2024-11-03T17:15:55.942Z
 tags:
   - web
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  Google has several fun Easter eggs squirreled away in obscure corners of Search. But did you know that some of them reference your favorite TV shows and movies? From classics to new releases, Google’s got a bit of everything. Here are some of the best ones we’ve managed to unearth.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hang Out With Your Favorite “Friends” Character
 
  Name a TV show with a bigger global pop culture impact than "Friends." Go on, I'll wait.
@@ -39,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google Search Result pagefor Ross Geller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-screenshot-of-the-google-search-result-pagefor-ross-geller.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Each Friends character has a custom Easter egg attached to their name. This is your cue to find out what they all are.
 
  Once you've explored each of the friends’ Easter eggs, you can further amuse yourself by checking out the Friends Glossary—a collection of fun words (most of them coined by Joey) and phrases made popular by the show. Simply search for the **Friends Glossary**, and you'll see a word, its part of speech, definition, and an example of how to use it in a sentence. My favorite is “On a Break.”
@@ -46,10 +60,17 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make Your Search Results Fabulous With “Legally Blonde”
@@ -62,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Recreate the Burn Book From “Mean Girls”
 
  “Mean Girls” is another classic that has been blessed with its own Google Easter egg. In the movie, the girls have a pink journal called the "Burn Book" where they write mean things about their classmates. Google plays off this by letting you create your very own Burn Book right there in search.
@@ -76,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  If you search **Mean Girls** in Google, you’ll see a lipstick print. Clicking it turns the screen pink (the color of the Burn Book), and clicking anywhere on the screen creates doodles in the style of the original book. 
 
 ![A transparent pink background with kiss and scribble designs on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-transparent-pink-background-with-kiss-and-scribble-designs-on-it.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
 
@@ -94,19 +101,33 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
 
  Unlike the [other Easter eggs](https://youtube-zero.techidaily.com/rt-of-youtube-channels-crafting-brands-that-attract-viewers-for-2024/) I've mentioned, this one is so subtle even die-hard fans could miss it. When you search for **war in Ba Sing Se**, Google asks, "Did you mean there is no war in Ba Sing Se?"
 
 ![The Google search results for 'war in Ba Sing Se'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-google-search-results-for-war-in-ba-sing-se.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fill up Your Coin Purse With “Super Mario Bros”
@@ -115,20 +136,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Solve Time Travel Puzzles With “Doctor Who”
 
 [If you live in the US](https://video-screen-grab.techidaily.com/new-academic-anchors-identifying-top-10-lecture-preservation-tools-for-2024/), you might not be familiar with Doctor Who, but in England, it's all the rage. The show features the Doctor and his trusty companion, and together, they travel through space and time in their time machine/spacecraft called the TARDIS, which masquerades as a police box.
@@ -136,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Google allows you to join in on all the time-traveling fun with a cool mini-game. When you search for **Doctor Who**, a spinning blue police box appears. Click on it, hit play, choose your character, and the game begins. Your goal is to obtain all the letters that spell Google and return to the TARDIS without getting zapped by the robots.
 
 ![A minigame with buildings and robots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-minigame-with-buildings-and-robots.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
@@ -146,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Apparently, the folks at Google agree that Baby Yoda is unbelievably cute too, because they gave him his own Easter egg. When you activate it, Baby Yoda uses the Force to pull down elements on your search page, starting with the search bar. 
 
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
 
@@ -175,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Travel to the World of Oz
 
@@ -214,17 +214,22 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-20-moments-of-laughter-best-fb-jail-gems-for-a-sunny-outlook/"><u>[New] 2024 Approved Top 20 Moments of Laughter Best FB Jail Gems for a Sunny Outlook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-razer-kiyo-webcam-review/"><u>2024 Approved Razer Kiyo Webcam Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/erhohen-sie-mit-winxvideo-ai-die-professionalitat-und-attraktivitat-ihrer-videomaterialien/"><u>Erhöhen Sie Mit Winxvideo AI Die Professionalität Und Attraktivität Ihrer Videomaterialien</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-troubleshooting-steps-when-back-4-blood-wont-start-on-pcs-with-windows-11-10-and-7/"><u>Fixing the Issue: Troubleshooting Steps When 'Back 4 Blood' Won't Start on PCs with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-iphone-15-pro-max-for-only-one-cent-on-amazon-the-surprising-deal-inside-zdnet/"><u>Get Your iPhone 15 Pro Max for Only One Cent on Amazon – The Surprising Deal Inside | ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-usb-mouse-working-again-on-your-laptop-expert-advice/"><u>How to Get Your USB Mouse Working Again on Your Laptop – Expert Advice</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-missing-or-lost-msvbvm50dll-error-with-easy-fixes/"><u>Solve Missing or Lost msvbvm50.dll Error with Easy Fixes</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-g42-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from G42 5G</u></a></li>
-<li><a href="https://techidaily.com/today-i-configure-mt4-and-mt5-accounts-by-mt4copier-guide/"><u>Today I Configure MT4 and MT5 Accounts</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c67-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C67 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>[New] The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-webcam-advancements-revolutionizing-video-capture-at-home/"><u>2024 Approved WebCam Advancements Revolutionizing Video Capture at Home</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-s18e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo S18e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-free-alternatives-to-skype/"><u>Discover the Ultimate Free Alternatives to Skype</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-honor-magic-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor Magic 5 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-c55-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-8-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 8 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-90-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 90 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-s23-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel S23 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-metadata-the-power-of-accurate-video-tags-for-2024/"><u>Mastering Metadata The Power of Accurate Video Tags for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/methodes-de-restauration-des-donnees-perdues-sous-windows-xp-blog-dassistance-informatique/"><u>Méthodes De Restauration Des Données Perdues Sous Windows XP - Blog D'assistance Informatique</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-moto-g04-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Moto G04 unlock screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-overcome-the-windows-10-error-0x800f0922-during-updates/"><u>Top Solutions: Overcome the Windows 10 Error 0X800F0922 During Updates</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-galaxy-f34-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Galaxy F34 5G.</u></a></li>
 </ul></div>
 

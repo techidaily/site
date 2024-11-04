@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to Moving Your Files with Windows Backup & Restore
-date: 2024-10-28T16:05:44.124Z
-updated: 2024-10-29T19:35:12.545Z
+date: 2024-10-28T07:23:52.774Z
+updated: 2024-11-04T13:57:07.672Z
 tags:
   - deals
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 1: Sign in to Your Microsoft Account
 
  Microsoft uses its cloud storage to hold your data during the transfer process, so you need to sign in to your Microsoft account (or [sign up for one](http://account.microsoft.com/account) if you haven't already).
@@ -41,22 +34,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -64,13 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -80,6 +59,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Use Windows Backup
 
  So, we recommend you use Windows Backup to make the transfer, as this lets you copy more things—from your folders (the same ones that OneDrive would have backed up) to your personal settings and preferences—to your new computer.
@@ -88,11 +74,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
@@ -108,16 +108,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 4: Restore to Your New PC
@@ -149,24 +143,24 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-slideshow-feature/"><u>[New] In 2024, Instagram Slideshow Feature</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-audio-dramatic-writing/"><u>[New] Innovative Audio Dramatic Writing</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028360556-7/"><u>「最適なビデオ寸法変更サイト・上位7推奨」</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g24-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G24 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-underwater-photographys-leading-seven-cams/"><u>In 2024, Underwater Photography's Leading Seven Cams</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-xr21-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia XR21 Device</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-using-inshot-for-laptoppc-and-other-video-editing-alternatives/"><u>In 2024, Using Inshot for Laptop/PC and Other Video Editing Alternatives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-your-youtube-yields-small-channel-sponsorship-strategies/"><u>Maximize Your YouTube Yields Small Channel Sponsorship Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/origami-homes-in-minecraft-japanese-vistas/"><u>Origami Homes in Minecraft Japanese Vistas</u></a></li>
-<li><a href="https://win11.techidaily.com/rav-antivirus-popping-up-origin-and-safely-uninstalling/"><u>Rav Antivirus Popping Up: Origin & Safely Uninstalling</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-v30t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from V30T</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y36-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y36</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-a58-4g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have A58 4G fingerprint</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-realme-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Realme password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/vivo-y100i-power-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo Y100i Power 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-virtual-experiences-unveiled-googles-cardboard-meets-samsung-vr/"><u>[New] Virtual Experiences Unveiled Google's Cardboard Meets Samsung VR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-integration-getting-snapchat-on-macos/"><u>[Updated] Seamless Integration Getting Snapchat on macOS</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-razr-40-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Razr 40 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-13-pro-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-updated-drivers-for-your-hp-officejet-pro-e8610-on-windows-systems/"><u>How to Get and Install Updated Drivers for Your HP Officejet Pro E8610 on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-130-music-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia 130 Music Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/odins-progeny-clash-of-titans-for-2024/"><u>Odin’s Progeny Clash of Titans for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016566028-pc-microphone-silent-on-zoom-heres-how-you-can-rectify-the-problem/"><u>PC Microphone Silent on Zoom? Here's How You Can Rectify the Problem!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photopony-pro-exploring-affordable-filters-for-2024/"><u>PhotoPony Pro Exploring Affordable Filters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/picture-perfect-best-apps-for-framing-your-memories-for-2024/"><u>Picture Perfect Best Apps for Framing Your Memories for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-asus-rog-phone-8-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Asus ROG Phone 8</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 15? | Stellar</u></a></li>
 </ul></div>
 

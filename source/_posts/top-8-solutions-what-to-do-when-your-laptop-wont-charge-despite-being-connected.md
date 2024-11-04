@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-10-23T16:25:58.599Z
-updated: 2024-10-29T19:43:41.311Z
+date: 2024-10-31T10:19:28.115Z
+updated: 2024-11-04T00:18:12.558Z
 tags:
   - desktop
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -37,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
@@ -51,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
@@ -62,15 +48,22 @@ Aman Kumar / How-To Geek
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -98,16 +91,16 @@ Aman Kumar / How-To Geek
 
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. Allow Your Laptop to Cool Down
 
@@ -123,6 +116,13 @@ Aman Kumar / How-To Geek
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. Reinstall the Battery Drivers
 
  Windows relies on the battery driver to maintain proper communication with your laptop's battery. If the battery driver becomes corrupted due to software conflicts, hardware issues, or other factors, Windows will lose communication with the battery, leading to the problem you're experiencing.
@@ -131,16 +131,16 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
@@ -187,21 +187,21 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-finding-the-perfect-recorders-outside-microsofts-ecosystem/"><u>[New] In 2024, Finding the Perfect Recorders Outside Microsoft's Ecosystem</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>[New] Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-primer-on-aerial-robots-drone-dynamics-demystified/"><u>[Updated] In 2024, A Primer on Aerial Robots Drone Dynamics Demystified</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-boosting-your-video-income-on-youtube-essentials/"><u>[Updated] In 2024, Boosting Your Video Income on Youtube - Essentials</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-straightforward-strategies-for-podcast-streaming-for-2024/"><u>[Updated] Straightforward Strategies for Podcast Streaming for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-ultimate-gameplay-modifications-in-terraria/"><u>[Updated] Ultimate Gameplay Modifications in Terraria</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-connecting-and-disconnecting-your-google-tv-remote-with-ease/"><u>Guide: Connecting & Disconnecting Your Google TV Remote with Ease</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-smart-8-hd-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Smart 8 HD Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-a78-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A78 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/macos-sierra-enhancement-guide-step-by-step-upgrades-for-2024/"><u>MacOS Sierra Enhancement Guide Step-by-Step Upgrades for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-poco-c65-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Poco C65</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo</u></a></li>
-<li><a href="https://techidaily.com/vivo-y36-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo Y36 support - Forgotten screen lock.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facilitating-instant-sharing-tiktok-videos-on-facebook/"><u>[Updated] 2024 Approved Facilitating Instant Sharing TikTok Videos on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-master-the-charm-of-darker-digital-images/"><u>[Updated] Master the Charm of Darker Digital Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/26-premier-complimentary-registry-maintenance-programs-for-pc-year-2024/"><u>26 Premier Complimentary Registry Maintenance Programs for PC (Year 2024)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782514-9781591438533-affinity/"><u>Affinity | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-wwe-2k22-constant-pc-game-crashes-effective-techniques-explored/"><u>Fixing WWE 2K22 Constant PC Game Crashes - Effective Techniques Explored</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-poco-f5-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco F5 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-accidentally-erased-items-on-your-iphone-with-this-superior-mac-data-recovery-application/"><u>Revive Accidentally Erased Items on Your iPhone with This Superior Mac Data Recovery Application</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-photography-with-lightzone-a-cross-platform-free-darkroom-application/"><u>Revolutionize Your Photography with LightZone - A Cross-Platform, FREE Darkroom Application!</u></a></li>
+<li><a href="https://techidaily.com/sign-ott-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .ott file Online with DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-n30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
 

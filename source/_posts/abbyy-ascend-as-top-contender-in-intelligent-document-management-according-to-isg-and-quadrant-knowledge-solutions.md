@@ -1,7 +1,7 @@
 ---
 title: ABBYY Ascend as Top Contender in Intelligent Document Management , According to ISG & Quadrant Knowledge Solutions
-date: 2024-10-04T04:02:05.081Z
-updated: 2024-10-05T21:46:58.710Z
+date: 2024-10-28T23:03:35.214Z
+updated: 2024-11-04T06:39:20.464Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e1bd3691a250a97186a2df74.jpg
@@ -42,10 +42,10 @@ La reconnaissance d’ABBYY en tant que leader de l’IDP intervient après le l
 * [Rapport Quadrant Knowledge Solutions SPARK Matrix for IDP 2021](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### À propos d’ABBYY
@@ -53,10 +53,10 @@ La reconnaissance d’ABBYY en tant que leader de l’IDP intervient après le l
 ABBYY permet aux entreprises d’appréhender de manière précise leurs process et contenus via sa plateforme d'[intelligence digitale](https://tools.techidaily.com/abbyy/products/). Les technologies d'ABBYY équipent plus de 5 000 entreprises, dont un grand nombre figurent dans le classement Fortune 500\. L’entreprise est reconnue pour ses solutions de pointe dans les domaines du [Content Intelligence](https://tools.techidaily.com/abbyy/products/) et du [Process Intelligence](https://tools.techidaily.com/abbyy/products/) qui ont pour vocation d’améliorer l'efficacité, la rentabilité et la compétitivité des entreprises ainsi que l’expérience client. ABBYY possède des bureaux dans 14 pays. Pour davantage d'informations, veuillez consulter le site <https://www.abbyy.com/fr/>.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Contact presse :
@@ -64,10 +64,10 @@ ABBYY permet aux entreprises d’appréhender de manière précise leurs process
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Bianca Stupp
@@ -93,18 +93,20 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-instas-music-guide-essentials-for-2024/"><u>[Updated] Insta's Music Guide Essentials for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>2024 Approved Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/amplify-igtv-audiences-5-effective-ways-for-a-larger-following/"><u>Amplify IGTV Audiences 5 Effective Ways for a Larger Following</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Plus Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-play-7t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Play 7T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-smart-8-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Smart 8 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-installation-problems-for-football-manager-2023-on-pc-and-consoles/"><u>Overcoming Installation Problems for Football Manager 2023 on PC and Consoles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-up-video-standards-choose-among-top-9-webcam-filters/"><u>Step Up Video Standards Choose Among Top 9 Webcam Filters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-slow-motion-spectrum-comprehensive-slomo-app-review-2024/"><u>The Slow Motion Spectrum Comprehensive SloMo App Review, 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y77t-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y77t.</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-enrolling-in-the-apple-podcast-network/"><u>[Updated] 2024 Approved Enrolling in the Apple Podcast Network</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhancing-your-profile-with-high-quality-videos/"><u>2024 Approved Enhancing Your Profile With High-Quality Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-silent-voices-in-the-social-media-arena-ig-live-edition/"><u>2024 Approved Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-editing-excellence-with-youtube-studio-toolset/"><u>2024 Approved Step Into Editing Excellence with YouTube Studio Toolset</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-m34-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy M34 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-update-warnings-with-these-4-tips/"><u>Bypass Update Warnings with These 4 Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic5-ultimate-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic5 Ultimate without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-lens-catalog-for-4k-industry-leaders/"><u>The Ultimate Lens Catalog for 4K Industry Leaders</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-7-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 7 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-xiaomi-redmi-a2plus-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Xiaomi Redmi A2+</u></a></li>
 </ul></div>
 

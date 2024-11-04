@@ -1,7 +1,7 @@
 ---
 title: Sharing Strategies for Interactions with Bard AI – Tips and Techniques
-date: 2024-10-25T19:44:58.241Z
-updated: 2024-10-29T17:57:44.281Z
+date: 2024-10-28T22:42:07.183Z
+updated: 2024-11-04T10:01:33.072Z
 tags:
   - cutting-edge
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Bard chatbot interface highlighting various share options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/share-chat-on-bard.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you click "Share," choose whether you only want to share "This Prompt & Response" or the "Entire Chat" and review the auto-generated headline for the share. You can edit this (by clicking the pencil icon) or generate new options if needed. The headline helps provide context for anyone opening the link. Once you're ready, click "Create Public Link."
@@ -40,6 +40,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Bard AI created public link for chat sharing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/share-options-for-bard-s-chat-public-link.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you share the entire chat history, others can continue the conversation with Bard using the public link. So avoid sharing anything too personal or sensitive. Also, remember that if you included images in the chat, these will be visible and downloadable to anyone with the link.
 
  When accessing a shared link from someone else, you can pick up where they left off and continue chatting with Bard. This new conversation will be stored in your own Bard Activity if you have that enabled.
@@ -47,17 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Continue this chat button on Bard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/continue-shared-bard-chat.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Manage Your Shared Links to Bard Chats
@@ -68,18 +68,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![View all your Bard's shared public links](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/view-bard-s-shared-public-links.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To revoke access to all previously shared links to your Bard conversations, click "Remove All Links." If you need to remove access to a specific chat, click "Remove Public Link" (the bin icon) next to the conversation. None of the people you have previously shared the links with will be able to access the chat(s) anymore. However, you can still find the chats saved in your Bard history.
 
 ![Bard's public links management page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/revoke-access-to-bard-ai-s-shared-links.jpg) 
 
  All shared links expire automatically after 6 months. So, any very old links likely won't work anymore.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Is Sharing Google Bard Chats Safe?
 
@@ -112,24 +112,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-viral-visions-top-ig-story-filters/"><u>[Updated] 2024 Approved Viral Visions Top IG Story Filters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-augment-your-audibility-the-leading-android-tools-for-voice-recording-change/"><u>[Updated] Augment Your Audibility The Leading Android Tools for Voice Recording Change</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-easy-guide-to-entering-google-meet-on-devices/"><u>[Updated] Easy Guide to Entering Google Meet on Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-examining-splitcam-top-video-recorder-for-2024/"><u>[Updated] Examining SplitCam Top Video Recorder for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-larger-visuals-elevating-your-youtube-footage/"><u>2024 Approved Larger Visuals Elevating Your YouTube Footage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-repairing-haldll-errors-in-windows-xp-systems/"><u>A Comprehensive Guide to Repairing Hal.dll Errors in Windows XP Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/delving-into-on-demand-tv-insights-on-web-integration/"><u>Delving Into On-Demand TV: Insights on Web Integration</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-pova-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Pova 5 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a24-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A24 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 13? Heres the Best Fixes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 15</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-cache-management-erase-browsing-data-from-chrome-and-safari-on-your-ipad-effortlessly/"><u>Mastering Cache Management: Erase Browsing Data From Chrome & Safari on Your iPad Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60 on Windows</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-google-pixel-7a-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Google Pixel 7a</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-13-mini-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 mini Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-tecno-spark-20-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Tecno Spark 20 Pro.</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2020-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2020) is not listed when I run the software? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-11-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 11 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-transformative-strategies-for-effective-use-of-zoom-on-win11/"><u>[New] 2024 Approved Transformative Strategies for Effective Use of Zoom on Win11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-closed-captions-on-vimeo/"><u>[New] 2024 Approved Unlocking the Power of Closed Captions on Vimeo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-precisionsync-analyst-perspectives-for-2024/"><u>[New] PrecisionSync Analyst Perspectives for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-video-capture-expert-tips-for-obs-on-android/"><u>[Updated] Effortless Video Capture Expert Tips for OBS on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximize-your-mobile-top-10-free-image-enhancement-tools/"><u>2024 Approved Maximize Your Mobile Top 10 Free Image Enhancement Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-friendly-alternatives-to-premium-vr-headsets-for-2024/"><u>Budget-Friendly Alternatives to Premium VR Headsets for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-fictional-worldbuilding/"><u>How to Use ChatGPT for Fictional Worldbuilding</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamline-your-screens-the-essential-online-record-guide/"><u>Streamline Your Screens The Essential Online Record Guide</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme 11 5G.</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-13-pro-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 Pro lock with iTunes</u></a></li>
 </ul></div>
 

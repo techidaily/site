@@ -1,7 +1,7 @@
 ---
 title: "Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide"
-date: 2024-10-23T20:23:23.997Z
-updated: 2024-10-29T19:24:41.494Z
+date: 2024-10-28T01:21:36.428Z
+updated: 2024-11-03T18:39:48.452Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
  Using DALL-E to generate images with AI has become an invaluable service for many, whether for work or fun. However, now you can generate images with DALL-E directly through ChatGPT, allowing you the best of both worlds. So, how does this work?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is ChatGPT's DALL-E Feature?
 
  Both ChatGPT and DALL-E are products of OpenAI, so it's no surprise that the two tools have been merged in the ChatGPT interface. If you're using GPT-4 (which is accessible through a [ChatGPT Plus subscription](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/)), you can access the DALL-E plugin by default.
@@ -33,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  While both DALL-E and ChatGPT use AI, the former focuses entirely on image generation. DALL-E uses either text-based prompts to generate media, or offers the option to upload an image from the user's device. From this information, DALL-E creates a range of media to fit the user's preferences.
 
 ![Cyberpunk scene of robot woman buying a fruit from a robot man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/cybepun-fruit.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DALL-E / Sydney Butler / How-To Geek
 
@@ -52,6 +38,19 @@ DALL-E / Sydney Butler / How-To Geek
  It's worth noting that there are certain kinds of images ChatGPT cannot generate, as you can see in the response below.
 
 ![ChatGPT's list of DALL-E restrictions on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-restricted-images.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you may expect, sexually explicit and hateful images are prohibited, as well as images depicting real people or deepfakes. Images depicting violence and illegal activity and the use of copyright content is also off-limits. [DALL-E is also available in Bing](https://fox-direct.techidaily.com/advanced-speed-adjustment-techniques-in-media-editing-for-2024/) at no charge.
 
@@ -69,32 +68,26 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT's response to DALL-E prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While ChatGPT can generate some visually stunning images with the DALL-E plugin, it's very difficult to make small changes to a previous image without other things being changed, too.
 
  We requested that the image above be kept the same, but that a blanket was added to the cat's lap, and the cat looked sleepy. Instead of fulfilling this request, ChatGPT created an entirely new image. When we stressed that we wanted it the same but with the two minor changes, ChatGPT did little to help, again creating a new image.
 
 ![ChatGPT DALL-E updated image result on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-dalle-cat3.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is because ChatGPT can't keep the previous image exactly the same upon each new request. This is a very limiting aspect, as you can't make small changes to an image that you already like for the most part.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Mobile
@@ -108,6 +101,13 @@ Close
  You can request additional images with some changes, but note that there will likely be some other things changed in the new image, too.
 
  To download an image, tap on it, and you'll get a full-screen view with a download option at the top-right of the screen. You can also share the image via the platform of your choice such as Gmail, Instagram, WhatsApp, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  ChatGPT Offers Yet Another Useful Feature
 
@@ -128,19 +128,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-basics-to-expertise-the-quantum-hdr-journey/"><u>[New] From Basics to Expertise The Quantum HDR Journey</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screencaptureelite-the-5-star-apeaksoft-evaluation/"><u>[New] In 2024, ScreenCaptureElite – The 5-Star Apeaksoft Evaluation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-switchs-prime-capture-technology-picks/"><u>[Updated] Switch's Prime Capture Technology Picks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>Chill Music Playlist 20 Relaxing Country Melodies (TikTok Version)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/expert-review-of-bandicams-efficacy-in-multimedia-projects-for-2024/"><u>Expert Review of Bandicam's Efficacy in Multimedia Projects for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-g2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo G2 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c02-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C02 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-samsung-gear-vr-playlist/"><u>In 2024, Premiere Samsung Gear VR Playlist</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/las-top-10-apps-de-slow-motion-camera-una-guia-completa/"><u>Las Top 10 Apps De Slow Motion Camera: Una Guía Completa</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-oppo-reno-9a-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Oppo Reno 9A</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-asus-rog-phone-8-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-financial-freedom-from-viewing-videos-effective-monetization-tactics-for-fb/"><u>[New] 2024 Approved Financial Freedom From Viewing Videos Effective Monetization Tactics for FB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-to-enhancing-youtube-content-post-upload/"><u>[Updated] 2024 Approved Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-film-swapping-ideas-best-replacements-1-7-for-2024/"><u>[Updated] Film Swapping Ideas Best Replacements #1-7 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-key-games-for-every-sandbox-enthusiast/"><u>[Updated] Key Games for Every Sandbox Enthusiast</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/face-id-malfunction-on-iphone-find-relief-through-this-comprehensive-guide-of-14-fixes/"><u>Face ID Malfunction on iPhone: Find Relief Through This Comprehensive Guide of 14 Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-hot-40-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Hot 40 Phone that is Locked?</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-c65-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from C65</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-keyboard-mastery-with-typingaid/"><u>Swift Keyboard Mastery with TypingAid</u></a></li>
+<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/vocalvoyage-listening-and-recording-expedition/"><u>VocalVoyage Listening & Recording Expedition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Art: Not Everything Is Created By An Algorithm"
-date: 2024-10-23T19:12:05.984Z
-updated: 2024-10-29T16:57:09.826Z
+date: 2024-10-31T02:29:41.788Z
+updated: 2024-11-04T01:51:31.603Z
 tags:
   - web
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
 
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
 
@@ -50,23 +57,9 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
 
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
 
@@ -83,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Meta’s AI Labeling Is Not Foolproof
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
 
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
 
@@ -124,22 +124,20 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/erfect-start-leading-free-video-openers-listed-for-2024/"><u>[New] Perfect Start Leading Free Video Openers Listed for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlock-content-insights-7-premier-free-tag-extraction-tools/"><u>[Updated] 2024 Approved Unlock Content Insights 7 Premier Free Tag Extraction Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-top-rated-windows-10-video-capture-software/"><u>[Updated] Explore Top-Rated Windows 10 Video Capture Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-complete-annihilation-of-youtube-shorts-accessibility/"><u>2024 Approved Complete Annihilation of YouTube Shorts Accessibility</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimizing-screen-captures-expert-techniques-for-hp-laptops/"><u>2024 Approved Optimizing Screen Captures Expert Techniques for HP Laptops</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-top-28-youtube-music-splitters-for-easy-audio-extraction/"><u>2024 Approved Top 28 YouTube Music Splitters for Easy Audio Extraction</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-go-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-the-latest-sound-blaster-z-drivers-compatible-with-windows-11/"><u>Easy Steps to Get the Latest Sound Blaster Z Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-12-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Asus ROG Phone 7 Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-vivo-s17-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Vivo S17 Pro without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-11-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 11 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-itel-p55plus-by-fonelab-android-recover-data/"><u>Undelete lost data from Itel P55+</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager in Windows 7</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-stellar-data-recovery/"><u>Windows向けの有料なしデータ回復ソフト - Stellar Data Recovery(ステラデータリカバリー)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-stardew-experience-discovering-the-top-7-modifications-for-2024/"><u>[Updated] Enhancing Stardew Experience Discovering the Top 7 Modifications for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-reveal-the-disenchanted-instagrams-unfollowers/"><u>[Updated] In 2024, Reveal the Disenchanted Instagram's Unfollowers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-and-selfies-unite-our-top-8-gear-guide/"><u>[Updated] Iphone and Selfies Unite - Our Top #8 Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-to-a-digital-transformation-my-two-week-journey-with-remarkables-colorful-e-ink-tablet/"><u>Adapting to a Digital Transformation: My Two-Week Journey with Remarkable's Colorful E-Ink Tablet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/grasping-the-visionary-shift-to-4k-resolution/"><u>Grasping the Visionary Shift to 4K Resolution</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xs-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XS Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y78plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y78+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a18-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A18 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-12-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 12 Pro 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-for-device-not-available-when-casting-in-windows-10/"><u>Master the Fix for 'Device Not Available' When Casting in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-itel-by-fonelab-android-recover-data/"><u>Recover lost data from Itel</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme Device</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-messages-recovery-recover-deleted-messages-from-xiaomi-redmi-a2-by-fonelab-android-recover-messages/"><u>Xiaomi Redmi A2 Messages Recovery - Recover Deleted Messages from Xiaomi Redmi A2</u></a></li>
 </ul></div>
 

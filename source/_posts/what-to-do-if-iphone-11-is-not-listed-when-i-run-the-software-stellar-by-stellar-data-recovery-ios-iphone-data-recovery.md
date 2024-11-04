@@ -1,7 +1,7 @@
 ---
 title: What to do if iPhone 11 is not listed when I run the software? | Stellar
-date: 2024-09-21T00:36:51.980Z
-updated: 2024-09-24T02:01:39.172Z
+date: 2024-10-28T12:14:33.578Z
+updated: 2024-11-04T14:06:52.737Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -35,13 +35,6 @@ If you have forgotten your Apple ID password and you wish to reset your iPhone, 
 
 In this blog post, we will explain how to reset your iPhone without password using iTunes or Finder or by using the [iPhone Eraser tool](https://www.stellarinfo.com/erase-iphone-data.php).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **How to Factory Reset iPhone without a password?**
 
 Let’s explore the [methods to reset your iPhone](https://www.stellarinfo.com/blog/how-to-reset-iphone-without-losing-data/) without an Apple ID password.
@@ -68,22 +61,15 @@ To reset your iPhone without using an Apple ID password, you can use iTunes or F
 ![reset iPhone via iTunes - Restore iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/reset-iphone-via-itunes-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Click **Restore** to confirm and then follow the prompts to complete the restore process. This will erase all your iPhone data and install the latest iOS version.
 
 ![reset iPhone via iTunes - click Restore](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/reset-iphone-via-itunes-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Once the restore process is complete, set up your iPhone as new or restore it from a backup.
 
@@ -96,13 +82,6 @@ Using the iPhone Eraser software like [Stellar Eraser for iPhone](https://www.st
 Stellar Data Eraser Software is supported by all versions of iOS from the latest 16, 15, 14, 12, and below. It even erases content from all variants of iPhone, iPad, and iPod Touch. This tool erases the data permanently from your iOS devices making it unrecoverable by any data recovery software.
 
 [![Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/image/catalog/buy_icon/EN.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Steps – How to reset iPhone without password using Stellar Eraser for iPhone**
 
@@ -123,20 +102,27 @@ Stellar Data Eraser Software is supported by all versions of iOS from the latest
 
 ![Stellar Toolkit for iPhone - Click Yes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-select-device-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Once the iPhone is completely wiped, click **Yes** in the **Data Erase Complete** dialog box.
 
 ![Stellar Toolkit for iPhone - Data Erase Complete](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-erasing-completed-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 If you forgot your Apple password and want to reset your iPhone, you can use any of the two methods mentioned above in the blog. You can reset your iPhone with iTunes/ Finder or by using a professional tool, such as Stellar Eraser for iPhone. However, make sure to backup up your iPhone data before proceeding to reset your device.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **FAQ**
 
@@ -172,6 +158,13 @@ While the new iPhones have good water resistant capabilities, this doesn’t mea
 
 This article shares several best practices that can help you save a water-damaged iPhone. But first, let’s understand how water resistant your iPhone is.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Is my iPhone water resistant?**
 
 The water resistance of the smartphones is rated by the “ingress protection” code, also called IP rating.
@@ -197,6 +190,13 @@ There are multiple types of IP ratings, but IP67 and IP68 are mainly applied to 
 
 Most iPhones offer certain level of water resistance, but it doesn’t mean an iPhone dropped in swimming pool or a bucket full of water is immune to any damage. Moreover, not every repair step will help you fix water-damaged iPhone; and some can complicate things further. Before, we start on potential steps to save your water-damaged iPhone, let’s first look at some absolute things that worsen the cause and should be avoided at all costs.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Don’t turn on your iPhone**
 
 Your iPhone will turn off automatically after being dropped in water. However, you should manually turn it off if it doesn’t turn off. Turn your phone on only if you are sure water or moisture content from the exterior and interior is completely dry. Turning on the water-damaged iPhone might cause water to reach inside the device, causing it to malfunction.
@@ -205,23 +205,9 @@ Your iPhone will turn off automatically after being dropped in water. However, y
 
 Moreover, don’t charge your iPhone battery as it can result in an electrical short circuit or even combustion, resulting in a fire. No matter how water resistant the iPhone is, it’s better to not plug it in when wet or water-damaged.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Don’t use hot air to blow dry your iPhone**
 
 Blow-drying your iPhone with hot air can damage your device further. Hot air may heat your iPhone to an unbearable degree, making it unsuitable for device hardware. Also, avoid using a space heater or furnace sidewall exhaust to dry your iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Steps You Can Take to Potentially Save Your Water-Damaged iPhone**
 
@@ -265,13 +251,6 @@ _**Caution**: We wouldn’t recommend dismantling the iPhone using DIY tips as i
 
 Dismantle your iPhone carefully, air dry its interior, and assemble it back after a few hours. Also, if the Liquid Contact Indicators inside the iPhone have already detected water damage, opening the phone invalidates your warranty coverage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5.** **Check if your warranty is still valid**
 
 If all the above efforts fail to fix the iPhone from water damage, you must check if the device’s warranty is still valid. If it is, call your manufacturer and request a repair or replacement. If it is invalid, visit an Apple Genius bar to repair your cell phone.
@@ -288,6 +267,13 @@ See the table to learn where the indicators are planted in your respective iPhon
 
 ![LCI planted on various iPhone models](https://www.stellarinfo.com/image/article/upload/65a73c4da141f_Save-A-Water-Damaged-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **How To Recover Data From Water-Damaged iPhone?**
 
 Once you have powered on your water-damaged iPhone after drying, it is possible to recover data from it. There are two ways to recover lost data from water-damaged iPhones: backup services or professional [iPhone data recovery software](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/).
@@ -299,6 +285,13 @@ Let’s see various scenarios where you can recover data from a water-damaged iP
 If your iPhone won’t turn on even after drying the wet iPhone using the tips mentioned above, it has short-circuited or water has eroded some of its internal components. In such a situation, use any backup service to recover your iPhone data.
 
 If you have enabled iCloud backup on your iPhone, you can easily restore your data. You can visit the official iCloud website and log into your account to save the lost data on your computer. Or, set up your new iPhone using the existing iCloud credentials to restore the data of your previous iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **iPhone starts but data is lost**
 
@@ -325,6 +318,13 @@ FAQs
 [What do I do if my iPhone speaker doesn’t work after falling into water?](https://www.stellarinfo.com/article/save-a-water-damaged-iphone.php#collapseOne)
 
 If there is water in your iPhone speaker, it may not work. In such a situation, try drying your iPhone and turning it on to take a backup of your data before testing the speaker. You can even visit Apple Genius Bar to get the help of a tech expert to fix your iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What should I do if I don’t find the deleted iPhone files after scanning?
 
@@ -364,5 +364,26 @@ Stellar Data Recovery for iPhone® Stellar Data Recovery for iPhone® is the bes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-going-against-the-grain-instagram-video-reversal/"><u>[New] In 2024, Going Against the Grain Instagram Video Reversal</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-prime-presenter-prefix-planner/"><u>[New] Prime Presenter Prefix Planner</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-revolutionizing-your-viewing-the-zoom-effectiveness/"><u>2024 Approved Revolutionizing Your Viewing The Zoom Effectiveness</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-magic-5-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor Magic 5 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-12-pro-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 12 Pro 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-f54-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy F54 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-z50s-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Z50S Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-smart-8-plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Smart 8 Plus FRP Without Computer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-privacy-first-reader-of-facebook-snapshots/"><u>In 2024, Privacy-First Reader of Facebook Snapshots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instagram-live-maintaining-privacy-while-streaming/"><u>Instagram Live Maintaining Privacy While Streaming</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-edge-40-neo-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Edge 40 Neo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-music-creation-apple-enhances-logic-pro-with-ai-powered-band-members-for-ipad-and-mac-devices-insights/"><u>Revolutionizing Music Creation: Apple Enhances Logic Pro with AI-Powered Band Members for iPad & Mac Devices - Insights</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2003-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2003 Read Only Documents | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-enabling-night-shift-on-ios-devices/"><u>Step-by-Step Tutorial: Enabling Night Shift on iOS Devices</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-c110-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia C110.</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Pro support - Forgotten screen lock.</u></a></li>
+</ul></div>
 

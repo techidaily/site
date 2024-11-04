@@ -1,7 +1,7 @@
 ---
 title: Innovative Strides at ABBYY with Patrick Jean's Recent Promotion to CPO and CTO Roles
-date: 2024-10-02T02:39:31.511Z
-updated: 2024-10-06T04:50:55.920Z
+date: 2024-10-29T14:22:17.982Z
+updated: 2024-11-04T09:25:08.901Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b1393331c870e52c284f342d82b8ac.jpeg
@@ -33,10 +33,10 @@ Patrick Jean to Chief Product & Technology Officer at ABBYY
 For more information about ABBYY intelligent automation solutions, visit [www.abbyy.com](https://tools.techidaily.com/abbyy/products/).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -46,10 +46,16 @@ ABBYY puts your information to work. We combine innovation and experience to tra
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ABBYY Editorial Contact
@@ -57,10 +63,10 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Gina Ray
@@ -87,22 +93,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2023s-top-no-cost-fb-photo-and-video-crafting-for-2024/"><u>[New] 2023'S Top No-Cost FB Photo & Video Crafting for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-power-players-handbook-secrets-of-successful-instagram-advertising/"><u>[New] In 2024, The Power Players' Handbook Secrets of Successful Instagram Advertising</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-pace-setter-pc-titles/"><u>[Updated] In 2024, Elite Pace-Setter PC Titles</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-playlist-best-sandbox-game-choices/"><u>[Updated] In 2024, The Ultimate Playlist Best Sandbox Game Choices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>2024 Approved Mastering Visual Clarity Blur Your Meeting Backgrounds</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-meizu-21-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Meizu 21 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-curve-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze Curve 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 to iPad? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-navigating-education-without-the-video-element/"><u>In 2024, Navigating Education without the Video Element</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus 12 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-crafting-the-perfect-anime-story-best-ideas-for-viral-videos/"><u>[New] Crafting the Perfect Anime Story Best Ideas for Viral Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoiding-pitfalls-the-9-must-consider-features-for-an-optimal-dash-cam-purchase/"><u>Avoiding Pitfalls: The 9 Must-Consider Features for an Optimal Dash Cam Purchase</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-reno-10-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Reno 10 5G</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209642330-9780750990189-devon-ghost-tales/"><u>Devon Ghost Tales | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-bmp-image-conversion-use-movavi/"><u>Free Online BMP Image Conversion - Use Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-camon-30-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Camon 30 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a79-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A79 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-elevate-your-online-presence-a-guide-to-thriving-youtube-branding/"><u>In 2024, Elevate Your Online Presence A Guide to Thriving YouTube Branding</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210790657-9781685266189-they-profess-to-know-god-but-their-actions-deny-him/"><u>They Profess to Know God, but Their Actions Deny Him | Free Book</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-11-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme 11 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-must-watch-tv-series-streaming-on-max/"><u>Top Picks: Must-Watch TV Series Streaming on Max</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-apple-watch-series-se-an-accessible-piece-of-tech-brilliance-on-a-budget/"><u>Unveiling the Apple Watch Series SE: An Accessible Piece of Tech Brilliance on a Budget</u></a></li>
 </ul></div>
 

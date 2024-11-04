@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-10-25T17:51:33.667Z
-updated: 2024-10-29T20:39:28.561Z
+date: 2024-10-30T02:23:28.605Z
+updated: 2024-11-04T06:34:37.547Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Ubuntu isn’t your only option for reviving old PCs through Linux. Xubuntu is a lighter version of Ubuntu capable of running on moderately old hardware. Let’s see how well it delivers the Ubuntu experience on an older laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is Xubuntu?
 
 [Xubuntu](https://xubuntu.org/) is a flavor of Ubuntu featuring the XFCE desktop environment (hence the “X” in the name). It’s supposed to strip down Ubuntu for a more minimalist (yet super configurable and supported) experience.
@@ -35,10 +42,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
@@ -63,13 +76,6 @@ Close
 
  I tested Xubuntu and Ubuntu one by one on this machine.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Running Xubuntu
 
  While Windows 10 and 11 are unusable on this laptop, Xubuntu not only boots up but does so surprisingly fast. I did notice some lag while it was loading the interface after the first login. But it was smooth sailing afterward.
@@ -87,25 +93,19 @@ Close
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
@@ -143,22 +143,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-every-story-stand-out-6-top-rated-apps-for-android-and-iphone/"><u>[New] 2024 Approved Make Every Story Stand Out 6 Top-Rated Apps for Android & iPhone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-google-meet-setup-and-scheduling-guide/"><u>[New] 2024 Approved Mastering Google Meet Setup and Scheduling Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-behind-the-scenes-mastering-the-craft-of-streaming-archiving/"><u>[New] In 2024, Behind the Scenes Mastering the Craft of Streaming Archiving</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ending-quicktime-capture-immediate-steps/"><u>[New] In 2024, Ending QuickTime Capture Immediate Steps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[Updated] Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
-<li><a href="https://blog-min.techidaily.com/efficient-leesoverblijven-mit-movavi-practische-guides-and-hetplaatse-adviezen/"><u>Efficiënt Leesoverblijven Mit Movavi: Practische Guides & Hetplaatse Adviezen</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12r-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12R phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-master-the-art-of-live-sound-capture-on-the-internet/"><u>In 2024, Master the Art of Live Sound Capture on the Internet</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-13-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 13 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-itel-p40-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P40 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-stylus-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G Stylus (2023) fingerprint</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-ussd-a-comprehensive-overview-of-unstructured-service-data-technology/"><u>Unveiling USSD: A Comprehensive Overview of Unstructured Service Data Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-11-audio-recording-tools-guide/"><u>[New] In 2024, Leading 11 Audio Recording Tools Guide</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c12-plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C12 Plus Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-artificial-intelligence-chatbots-replicate-real-conversational-interactions/"><u>How Do Artificial Intelligence Chatbots Replicate Real Conversational Interactions?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-v-purse-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor V Purse without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/innovative-approaches-for-enhancing-audience-interaction-through-fb-lives-multi-view-features-for-2024/"><u>Innovative Approaches for Enhancing Audience Interaction Through FB Live's Multi-View Features for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-sound-separation-techniques-for-isolating-audio-from-videos-for-2024/"><u>New Mastering Sound Separation Techniques for Isolating Audio From Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-5-best-free-mpeg-video-splitters-for-2024/"><u>New Top 5 Best Free MPEG Video Splitters for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-8-android-tools-elevating-your-studio-sound/"><u>New Top 8 Android Tools Elevating Your Studio Sound</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-say-goodbye-to-watermarks-filmora-removal-techniques/"><u>Updated In 2024, Say Goodbye to Watermarks Filmora Removal Techniques</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-se-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone SE takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-k70-pro-video-recovery-recover-deleted-videos-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-video/"><u>Xiaomi Redmi K70 Pro Video Recovery - Recover Deleted Videos from Xiaomi Redmi K70 Pro</u></a></li>
 </ul></div>
 

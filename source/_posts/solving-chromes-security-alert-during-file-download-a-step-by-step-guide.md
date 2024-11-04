@@ -1,7 +1,7 @@
 ---
 title: "Solving Chrome's Security Alert During File Download: A Step-by-Step Guide"
-date: 2024-10-26T20:03:51.113Z
-updated: 2024-10-29T19:08:19.998Z
+date: 2024-10-31T10:24:49.213Z
+updated: 2024-11-04T05:28:52.739Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 * [Temporarily Disable the Security Program](https://fox-boxes.techidaily.com/2024-approved-photography-tips-for-iphone/)
 * [Disable Virus Scanning for Downloads](https://extra-approaches.techidaily.com/updated-mobile-mastery-high-shots-with-your-smartphone/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The best way to avoid the "Failed - Virus Detected" message in Chrome is to download your files straight from the official website, not some random third-party site.
@@ -41,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Failed - Virus Detected messages in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/failed-virus-detected-messages-in-chrome.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It is important to note that the "Failed - Virus Detected" message doesn't mean that your PC has been infected with malware; quite the opposite. It means that Google Chrome or your system's antivirus has identified and blocked a potential threat.
@@ -59,7 +52,21 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![VirusTotal result page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virustotal-result-page.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In such a case, you can proceed with downloading the file. Unfortunately, there isn't any one-click button to ignore this message and download the file. You'll need to make a few important changes to bypass this message.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Bypass Chrome's "Failed - Virus Detection" Message
 
@@ -82,26 +89,38 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![No Protection option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/no-protection-option-in-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Turn Off" in the confirmation that appears.
 
 ![Turn Off option in the Turn off Safe Browsing prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/turn-off-option-in-the-turn-off-safe-browsing-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Chrome's security settings were responsible for the message, you should be able to download the file now. Make sure to turn Safe Browsing back on after downloading. To do that, go to the Safe Browsing section and choose "Standard Protection" or "[Enhanced Protection](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/)," depending on your security needs.
 
 ![Standard Protection option Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/standard-protection-option-chrome-settings-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Temporarily Disable the Security Program
 
@@ -111,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Typing Windows Security in the Start Menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-windows-defender-in-the-start-menu-search-bar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Virus & Threat Protection" from the left sidebar, then turn off the switch next to "Real-Time Protection." If User Account Control (UAC) appears, click "Yes" to confirm.
 
 ![Real-time Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-in-the-windows-security-app.jpg) 
@@ -118,19 +144,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  This will temporarily [disable Windows Defender](https://tech-renaissance.techidaily.com/what-is-the-difference-between-an-ipad-and-a-tablet/). If you're using a different security program, check its user manual for instructions on temporarily turning it off.
 
  After disabling your security software, try downloading the file again. If the download succeeds, it means your security program was indeed blocking it. Make sure to re-enable your security software immediately after downloading, as leaving it disabled leaves your device vulnerable.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Disable Virus Scanning for Downloads
 
@@ -161,10 +174,16 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Typing 1 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-1-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) for the changes to take effect. Upon restart, you'll be able to download the file without any problems.
@@ -172,13 +191,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  Once the download is finished, you must disable the registry edit so your browser (Chrome, in this case) can keep scanning files for viruses during downloads. To disable it, double-click the "ScanWithAntiVirus," type **0** in the Value data field, and click "OK." Then, restart your computer again to apply the changes.
 
 ![Typing 0 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-0-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -203,17 +215,18 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-samsung-bd-j5900-review-2023-update/"><u>[New] 2024 Approved Samsung BD-J5900 Review - 2023 Update</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlock-the-potential-of-your-camera-creating-stunning-slow-motion-videos-for-instagram-for-2024/"><u>[New] Unlock the Potential of Your Camera Creating Stunning Slow-Motion Videos for Instagram for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-sunset-symphony-cinematic-darkening-in-pro/"><u>[Updated] Sunset Symphony Cinematic Darkening in Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/collaborations-with-major-companies-like-microsoft-google-and-ibm-that-signify-growing-trust-in-the-platformamoebas-ether-dapps/"><u>Collaborations with Major Companies Like Microsoft, Google, and IBM that Signify Growing Trust in the Platform'amoebas': ['Ether', 'DApps'],</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 12 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-stealth-mode-tips-for-secret-internet-exploration/"><u>Mastering Stealth Mode: Tips for Secret Internet Exploration</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-switch-time-join-the-3-leading-stream-services/"><u>Maximize Your Switch Time: Join the 3 Leading Stream Services</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-your-windows-environment-for-seamless-vbox-use/"><u>Optimizing Your Windows Environment for Seamless VBox Use</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A25 5G won’t play AVCHD .mts files</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-samsung-galaxy-s23-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Samsung Galaxy S23</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-olympic-ice-showdown-highlights-of-speed-skating-short-track/"><u>[New] 2024 Approved Olympic Ice Showdown Highlights of Speed Skating Short Track</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>[New] In 2024, Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-joke-factory-imgur-edition/"><u>[New] In 2024, Joke Factory Imgur Edition</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210061650-9781949661255-akashic-records-seminar-series-guided-practices-two-complete-seminars/"><u>Akashic Records Seminar Series - Guided Practices - Two Complete Seminars | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-insights-ranking-the-best-21-hdmi-monitor-models/"><u>Expert Insights Ranking the Best 2.1 HDMI Monitor Models</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-12-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 12 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-a15-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy A15 4G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-creativity-top-10-yt-reaction-hacks-for-2024/"><u>Mastering Creativity Top 10 YT Reaction Hacks for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-lava-blaze-2-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/what-languages-does-santa-claus-speak-find-out-now/"><u>What Languages Does Santa Claus Speak? Find Out Now</u></a></li>
 </ul></div>
 

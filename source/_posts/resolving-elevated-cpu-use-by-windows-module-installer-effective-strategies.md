@@ -1,7 +1,7 @@
 ---
 title: "Resolving Elevated CPU Use by Windows Module Installer: Effective Strategies"
-date: 2024-10-22T20:23:15.470Z
-updated: 2024-10-29T16:39:26.937Z
+date: 2024-11-03T00:11:26.604Z
+updated: 2024-11-03T18:16:03.760Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 
  Windows Modules Installer Worker (TiWorker.exe) is a normal Windows process related to your PC’s updates and maintenance. However, if it uses up a lot of CPU for an extended period it may be due to an error. Here are some things you can do to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Wait for It to Finish Running
 
  Windows launches the Windows Modules Installer Worker when there’s an update to install or a PC maintenance task to run. You should generally let the process finish running, even if it’s using up a lot of CPU.
@@ -26,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
  When the update or maintenance task has finished, the process will stop running.
 
  If it continues to run for an extended period or you want to perform other tasks, use the troubleshooting tips below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Run Windows Update Troubleshooter
 
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
  On Windows 10, head to Settings > Update & Security > Troubleshoot > Additional Troubleshooters. Select "Windows Update" and click "Run the Troubleshooter."
 
 !['Run the Troubleshooter' highlighted for 'Windows Update' troubleshooter in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-windows-update-troubleshooter-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions in the tool to resolve any update issues.
 
@@ -80,33 +87,26 @@ C:\Windows\SoftwareDistribution\
 
 !['Delete' highlighted for Windows Update cache.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-delete-windows-update-cache.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that your update cache is deleted, pause the updates. [On Windows 11](https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/), navigate to Settings > Windows Update. On the right pane, next to "Pause Updates," click the drop-down menu and choose how long to pause the updates.
 
 !['Pause Updates' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-pause-updates-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [On Windows 10](https://instagram-video-recordings.techidaily.com/climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/), go to Settings > Update & Security > Windows Update. On the right pane, click "Advanced Options." In the "Pause Updates" section, click the "Pause Until" drop-down menu and select a time duration.
 
 !['Pause Until' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-pause-updates-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Run Computer Maintenance at Your Specified Time
@@ -118,10 +118,10 @@ C:\Windows\SoftwareDistribution\
 !['Change Maintenance Settings' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-change-windows-maintenance-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the "Run Maintenance Tasks Daily at" drop-down menu and select when you want your PC to run the maintenance tasks. This should be when you aren’t working on important tasks on your PC. Then, select "OK."
@@ -145,19 +145,18 @@ C:\Windows\SoftwareDistribution\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hunters-picks-best-video-recorders-reviewed/"><u>2024 Approved Hunters' Picks Best Video Recorders Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974628784-effortless-setup-for-thrustmaster-t150-racing-gear-faster-driver-downloads-await/"><u>Effortless Setup for ThrustMaster T150 Racing Gear - Faster Driver Downloads Await</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oneplus-nord-n30-se-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Nord N30 SE in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/infinix-smart-8-hd-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 HD Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/motorola-one-showdown-can-it-hold-its-own-against-the-iphone/"><u>Motorola One Showdown: Can It Hold Its Own Against the iPhone?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-ai-mp3/"><u>Movaviでスマートな AI MP3フォーマット変換サービス: 免責金無し</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/reviving-unresponsive-obs-camera-integration/"><u>Reviving Unresponsive OBS Camera Integration</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-taming-the-turbulence-of-fighter-collisions-solved-techniques-revealed/"><u>Star Wars: Taming the Turbulence of Fighter Collisions - Solved Techniques Revealed</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-complete-mac-powered-guide-to-ootd-videography/"><u>The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-htc-u23-by-fonelab-android-recover-photos/"><u>Undelete lost photos from HTC U23.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/zoom-perfection-the-ultimate-top-6-camera-guide/"><u>Zoom Perfection – The Ultimate Top 6 Camera Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>[New] In 2024, Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-intrinsic-insights-for-instant-identification-in-fb/"><u>[New] Intrinsic Insights for Instant Identification in FB</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-obs-vs-wirecast-which-should-you-trust-for-live/"><u>2024 Approved OBS Vs. Wirecast - Which Should You Trust for Live?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/camera-compendium-best-in-class-filmmaking-gear/"><u>Camera Compendium Best in Class Filmmaking Gear</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-smart-8-hd-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Smart 8 HD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016724597-headphone-noise-troubles-clear-audio-fixes-in-a-flash/"><u>Headphone Noise Troubles? Clear Audio Fixes in a Flash</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c32-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C32 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-hot-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic-5-lite-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic 5 Lite? Try These Fixes</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 11/10</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
 

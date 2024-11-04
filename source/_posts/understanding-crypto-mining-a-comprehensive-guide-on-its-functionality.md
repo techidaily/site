@@ -1,7 +1,7 @@
 ---
 title: "Understanding Crypto Mining: A Comprehensive Guide on Its Functionality"
-date: 2024-10-24T16:33:25.037Z
-updated: 2024-10-29T18:44:01.243Z
+date: 2024-10-30T08:30:46.174Z
+updated: 2024-11-04T02:54:11.859Z
 tags:
   - cutting-edge
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Crypto Mining?
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
  In short, crypto mining is how new units of [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/)\---usually called coins---are created. As you can imagine, this type of mining doesn't involve callused hands gripping pickaxe handles. Instead, it's computer processors that do all the hard work, chipping away at complex math problems.
 
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  The Blockchain
 
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) 
 
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  The Ledger
 
@@ -65,16 +65,16 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  DIY Supercomputers
@@ -96,16 +96,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Future of Mining
@@ -129,18 +123,16 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-making-the-most-out-of-your-films-b-roll/"><u>[New] Making the Most Out of Your Film's B-Roll</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-complete-roadmap-to-online-tiktok-streaming-from-desktop/"><u>[New] The Complete Roadmap to Online TikTok Streaming From Desktop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-with-polaroid-camplus-ultimate-action-footage-for-2024/"><u>Exploring with Polaroid Cam+ Ultimate Action Footage for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y02t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y02T Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quadcopters-unveiled-decoding-their-mechanism-and-functions/"><u>In 2024, Quadcopters Unveiled Decoding Their Mechanism and Functions</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-poco-f5-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Poco F5 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-razor-kraken-headset-mic-wont-work-heres-why-and-how-to-fix-it/"><u>Solution Found: Razor Kraken Headset Mic Won't Work - Here's Why and How to Fix It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-36-unbeatable-apple-offers-still-on-offer-during-prime-day-your-essential-guide-zdnet/"><u>Top 36 Unbeatable Apple Offers Still on Offer During Prime Day: Your Essential Guide - ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-steps-to-prevent-rogue-company-from-freezing-on-your-computer/"><u>Troubleshooting Steps to Prevent Rogue Company From Freezing on Your Computer</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-play-40c-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Play 40C</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-building-a-solid-base-for-higher-instagram-video-view-counts/"><u>[New] 2024 Approved Building a Solid Base for Higher Instagram Video View Counts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-investigating-changes-over-time-in-windows-movie-maker/"><u>[New] 2024 Approved Investigating Changes Over Time in Windows Movie Maker</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-find-n3-flip-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Find N3 Flip in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y17s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y17s in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-saving-pc-views-with-a-single-click-win/"><u>In 2024, Saving PC Views with a Single Click (Win)</u></a></li>
+<li><a href="https://techidaily.com/solved-microsoft-excel-2016-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2016 File Error The document cannot be saved</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-transferring-your-favorite-songs-onto-a-usb-stick-for-pc-and-mac-users-by-experts-at-movavi/"><u>Step-by-Step Guide: Transferring Your Favorite Songs Onto a USB Stick for PC and Mac Users by Experts at Movavi</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unparalleled-video-quality-the-ultimate-18-list/"><u>Unparalleled Video Quality - The Ultimate #18 List</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-x-flip-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo X Flip Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

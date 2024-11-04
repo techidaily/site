@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dark Display Issue: Repairing a Black Screen Problem in Windows 11 Pre and Post Login"
-date: 2024-10-28T21:19:10.642Z
-updated: 2024-10-29T19:00:55.860Z
+date: 2024-10-29T04:16:29.867Z
+updated: 2024-11-04T09:19:20.195Z
 tags:
   - deals
 categories:
@@ -26,19 +26,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
  Common contributing factors to a black screen include a loose HDMI connection, a buggy Windows update, or issues with the graphics driver. Here's how to fix the problem.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Fix a Black Screen That Appears Before You Log In
 
  If the black screen appears before you sign in to your computer, run through these fixes.
@@ -50,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
  Make sure your monitor is turned on and connected to a power source. Next, check the monitor is set to the right video source (like HDMI or DisplayPort) and ensure the cable is firmly connected to the monitor and your computer.
 
  Try another port, then try another cable, as one of these might be broken. If possible, test the monitor on another computer—if this works, you know the monitor is functional, so you can rule out replacing it.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. Ensure Your Primary Display Is Correctly Set
 
@@ -72,14 +52,14 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Settings App Multiple Display Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-app-multiple-display-settings-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that you can sign in, [troubleshoot your second monitor for connection issues](https://hardware-tips.techidaily.com/level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. Run Startup Repair
 
@@ -102,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 ![Windows 11 Recovery Menu Advanced Options Startup Repair Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-advanced-options-startup-reapirscreen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows will now analyze your PC and try to repair any startup issues causing the black screen.
@@ -130,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Recovery Menu Advanced Options System Restore Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-advanced-options-system-restore-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the System Restore dialog, click "Next."
 
 ![Windows 11 Recovery Menu System Restore Initial Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-system-restore-intial-screen-1.jpg) 
@@ -142,33 +129,20 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Recovery Menu System Restore Affected Programs Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-system-restore-affected-programs-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "Next" when you are ready.
 
 ![Windows Select System Restore Point Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-select-system-restore-point-screen.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the restore point confirmation screen, click "Finish." System Restore informs that once started, it cannot be interrupted, and also, you won't be able to undo the restoration. Click "Yes" to continue.
 
 ![Windows 11 Recovery Menu System Restore Finish Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-system-restore-finish-option-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  System Restore will restart your computer and initialize the process. This process may take a few minutes to complete, so wait until your computer boots normally. If it fails, try again with a different restore point.
 
@@ -181,10 +155,10 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 ![Windows 11 Recovery Menu Advanced Options Startup Settings Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-advanced-options-startup-settings-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Restart."
@@ -199,15 +173,22 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-in-safe-mode.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Fix a Black Screen That Appears After You Log In
 
  Fixing a blank screen that occurs after signing in is relatively straightforward. If you see a black screen after signing in, here are a few fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. Wake Your Screen Using Keyboard Shortcuts
@@ -238,6 +219,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Device Manager Scan For Hardware Changes Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-device-manager-scan-for-hardware-changes-option-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  A black screen is the easiest to fix if it occurs after logging in. If you are unable to sign in, the tools in the Windows Recovery Environment should come in handy and help resolve the black screen. However, if all else fails, [clean installing Windows 11](https://instagram-video-files.techidaily.com/new-2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/) may be necessary to get your PC working again.
@@ -257,19 +245,24 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extended-review-straightforward-implementation-of-hdr/"><u>[New] Extended Review Straightforward Implementation of HDR</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-why-testimonial-videos-are-essential-for-brands-today/"><u>[New] In 2024, Why Testimonial Videos Are Essential for Brands Today</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-eco-visuals-cost-free-download-for-2024/"><u>[Updated] Eco Visuals, Cost-Free Download for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-minefield-suddenly-banned-videos-on-social-media-for-2024/"><u>[Updated] Navigating the Minefield Suddenly Banned Videos on Social Media for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-edm-game-with-free-state-of-the-art-beat-detectors/"><u>2024 Approved Elevate Your EDM Game with FREE, State-of-the-Art Beat Detectors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-gaming-glitches-resolving-persistent-crash-issues-in-new-world-on-pc/"><u>Beat Gaming Glitches: Resolving Persistent Crash Issues in New World on PC</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a14-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A14 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/decisive-action-plan-for-banishing-flashing-screens-on-windows/"><u>Decisive Action Plan for Banishing Flashing Screens on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Plus Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-tweeters-choice-youtube-to-twitter-for-2024/"><u>Leading Tweeters' Choice YouTube to Twitter for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lullabies-and-lightheartedness-asmr-sleep-helpers-for-2024/"><u>Lullabies and Lightheartedness ASMR Sleep Helpers for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-13-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premier-mac-programming-options-excluding-bandicam/"><u>[Updated] 2024 Approved Premier Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-yourself-from-paywalls-with-these-subtitle-getters-for-2024/"><u>[Updated] Free Yourself From Paywalls with These Subtitle Getters for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-celebrated-selections-honorable-websites-for-securing-snapchat-alerts/"><u>2024 Approved Celebrated Selections Honorable Websites for Securing Snapchat Alerts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-podcasts-reach-with-advanced-seo-strategies-for-2024/"><u>Elevate Your Podcast's Reach with Advanced SEO Strategies for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-pro-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 13 Pro Max to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-best-mobile-and-desktop-video-player/"><u>In 2024, Best Mobile and Desktop Video Player</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-huawei-p60-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Huawei P60 Phone that is Locked?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-professional-thumbnails-for-engaging-igtv-posts/"><u>In 2024, Professional Thumbnails for Engaging IGTV Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/performance-and-features-breakdown-of-the-updated-apple-tv-gen-3-4k/"><u>Performance and Features Breakdown of the Updated Apple TV (Gen 3) 4K</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-galaxy-s24-ultra-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Galaxy S24 Ultra</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-v-purse-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor V Purse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-your-system-for-effortless-file-disposal-in-windows/"><u>Set Your System for Effortless File Disposal in Windows</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE Suddenly | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-14-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-generative-ais-role-in-tech/"><u>Understanding Generative AI's Role in Tech</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-ace-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Ace 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 15 Pro Max? | Stellar</u></a></li>
 </ul></div>
 

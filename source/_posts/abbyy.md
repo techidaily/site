@@ -1,7 +1,7 @@
 ---
 title: "「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」"
-date: 2024-10-04T00:05:46.148Z
-updated: 2024-10-06T07:47:17.534Z
+date: 2024-10-31T08:08:23.689Z
+updated: 2024-11-03T19:31:24.669Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d85277a374a3a1037690eb16.jpg
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 日本の従業員における42%は「AIで業務負担の軽減になる」と回答  
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 [![](https://static1.abbyy.com/abbyycommedia/34771/infographic-for-survey-jp.jpg)](https://www.abbyy.com/media/34771/infographic-for-survey-jp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 【調査方法】
@@ -97,17 +97,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>[New] In 2024, Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adventure-in-sync-reviewing-the-panasonic-hx-a1-cam-for-2024/"><u>Adventure in Sync Reviewing the Panasonic HX-A1 Cam for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-lava-yuva-3-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Yuva 3 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-2-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze 2 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-xiaomi-13t-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi 13T Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-pinnacle-of-live-tweeting-on-social-media/"><u>In 2024, The Pinnacle of Live Tweeting on Social Media</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-a2plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi A2+ Phone Pattern Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/shop-now-and-save-big-exclusive-offer-on-85-inch-tcl-tv-up-to-25-off-ending-labor-day-zdnet-shops/"><u>Shop Now and Save Big – Exclusive Offer on 85-Inch TCL TV, Up to 25% Off Ending Labor Day | ZDNET Shops.</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Motorola Moto G73 5G</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/form-your-life-top-10-premium-yoga-streams-unleashed-for-2024/"><u>Transform Your Life Top 10 Premium Yoga Streams Unleashed for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-edit-like-a-pro-setting-up-your-computer-for-premiere-pro/"><u>Updated Edit Like a Pro Setting Up Your Computer for Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immaculatepixels-prograde-background-elimination/"><u>[New] ImmaculatePixels Prograde Background Elimination</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-audio-alternatives-weighing-the-pros-of-podcasts-and-youtube/"><u>2024 Approved Audio Alternatives Weighing the Pros of Podcasts and YouTube</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/depanner-et-restaurer-des-photos-sur-un-vieux-disque-dur-methodes-eprouvees/"><u>Dépanner Et Restaurer Des Photos Sur Un Vieux Disque Dur : Méthodes Éprouvées</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-endless-cycle-overcome-windows-11s-constant-restart-issue-with-ease/"><u>End the Endless Cycle: Overcome Windows 11'S Constant Restart Issue with Ease</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-8-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-shift-your-apple-music-playlists-tofrom-youtube-music-with-ease-digital-trends/"><u>How to Shift Your Apple Music Playlists To/From YouTube Music with Ease | Digital Trends</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-10-proplus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 10 Pro+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-job-at-risk-exploring-the-impact-of-chatgpt-in-various-workplace-scenarios/"><u>Is Your Job at Risk? Exploring the Impact of ChatGPT in Various Workplace Scenarios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mejora-tus-videos-en-mac-introduccion-al-editor-de-video-movavi-experto/"><u>Mejora Tus Videos en Mac: Introducción Al Editor De Video Movavi Experto</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-y36-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo Y36</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-m6-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from M6 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-take-your-videos-to-the-next-level-top-10-fcpx-plugins-you-need-now-for-2024/"><u>Updated Take Your Videos to the Next Level Top 10 FCPX Plugins You Need Now for 2024</u></a></li>
+<li><a href="https://techidaily.com/x5-pro-video-recovery-recover-deleted-videos-from-x5-pro-by-fonelab-android-recover-video/"><u>X5 Pro Video Recovery - Recover Deleted Videos from X5 Pro</u></a></li>
 </ul></div>
 

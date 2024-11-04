@@ -1,7 +1,7 @@
 ---
 title: "Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users"
-date: 2024-10-28T16:08:15.188Z
-updated: 2024-10-29T16:33:11.591Z
+date: 2024-10-28T03:56:56.144Z
+updated: 2024-11-03T20:58:33.954Z
 tags:
   - deals
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * To change the system sounds, open the sound settings, pick the Windows event, and switch it with the appropriate one in the sound pack.
 
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Get Sound Packs of Old Windows Sounds
 
@@ -54,25 +61,11 @@ Close
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change System Sounds in Settings
 
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
 
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
 
@@ -89,10 +82,10 @@ Close
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable Changing the Login Sound
@@ -106,6 +99,13 @@ Close
 Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
 
@@ -136,18 +136,16 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-insight-into-highlighted-video-discussion-threads/"><u>[New] 2024 Approved Insight Into Highlighted Video Discussion Threads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-deep-dive-into-whatsapps-vocal-communication-tools/"><u>[Updated] A Deep Dive Into WhatsApp's Vocal Communication Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-cutting-edge-tools-for-windows-11-videographers/"><u>[Updated] Ultimate Cutting-Edge Tools for Windows 11 Videographers</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-upkeep-package-for-enhancing-your-kodi-indigo-xmb-channel-experience/"><u>Comprehensive Upkeep Package for Enhancing Your Kodi Indigo XMB Channel Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-computer-screens-that-no-longer-show/"><u>Fixing Computer Screens that No Longer Show</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-capturing-the-horizon-expert-techniques-in-drone-filmmaking/"><u>In 2024, Capturing the Horizon Expert Techniques in Drone Filmmaking</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-add-text-to-youtube-video-before-or-after-uploading/"><u>In 2024, How to Add Text to YouTube Video Before or After Uploading</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-vivo-x-flip-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Vivo X Flip</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-0x80072fed-issue-step-by-step-solutions/"><u>Resolving Windows 10'S 0X80072FED Issue: Step-by-Step Solutions</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor password or pattern lock</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-maximizing-reach-sharing-twitters-vids-via-snapchat/"><u>[New] 2024 Approved Maximizing Reach Sharing Twitters' Vids via Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-comedy-classics-a-curated-15-channel-collection-for-humor-for-2024/"><u>[Updated] Comedy Classics A Curated 15-Channel Collection for Humor for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lava-blaze-2-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lava Blaze 2 5G Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/making-voice-overhaul-easy-the-ultimate-tiktok-guide/"><u>Making Voice Overhaul Easy The Ultimate TikTok Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-non-facebook-direct-message-apps/"><u>Mastering Non-Facebook Direct Message Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/most-cost-effective-wireless-routers-the-2024-guide/"><u>Most Cost-Effective Wireless Routers: The 2024 Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-resolving-stability-problems-in-the-updated-yakuza-e3/"><u>PC Users! Resolving Stability Problems in the Updated Yakuza E3</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-realme-c67-4g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Realme C67 4G</u></a></li>
 </ul></div>
 

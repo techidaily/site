@@ -1,7 +1,7 @@
 ---
 title: How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
-date: 2024-10-25T19:29:44.638Z
-updated: 2024-10-29T16:58:40.340Z
+date: 2024-10-30T06:45:32.339Z
+updated: 2024-11-03T23:51:48.951Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Laptops and [mining crypto](https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/) don't mix. Even a [gaming laptop](https://facebook-video-share.techidaily.com/updated-premium-notebooks-select-the-best-for-professional-edits/) doesn't have the hardware to go all-out 24/7\. Using your laptop as a mining rig is a good way to damage the hardware---and it won't be able to mine well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Crypto Mining Does to a Computer
 
  Whether you're mining [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/), [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/), or any other [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) that uses proof-of-work, "mining" works a bit like guessing the combination to a lock. On a three-tumbler lock, you'd definitely get the right combination within 1000 tries, because there are only 1000 combinations of numbers between 000 and 999\. Add one digit and that list of combinations goes up an order of magnitude with 10000 possibilities.
@@ -34,10 +41,10 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  This isn't necessarily a problem for desktop GPUs. [A GPU used for mining may still have a good lifespan ahead of it if it was properly cooled](https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/). However, a laptop is very different from a mining rig.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Laptops Are Not Designed For This
@@ -48,22 +55,15 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  There are laptops that are designed as number-crunching workstations, but these computers are better described as "portable" rather than mobile computers. Some of these workstation laptops have socketed desktop CPUs, which are designed to suck power from a wall outlet and really push those thermal limits. Unless you have one of these behemoths, your laptop probably wasn't made to handle the stresses of mining.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fans Wear Out
 
 ![A fan on the motherboard inside a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1294339672.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Color4260/Shutterstock.com](https://www.shutterstock.com/image-photo/close-on-printed-circuit-main-motherboard-1294339672)
@@ -75,10 +75,10 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  Modern laptops dynamically adjust fan speeds to match the thermal load, with some even switching them off when the system is only under a light load. If you're mining cryptocurrency, they'll be screaming headlong towards the end.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Thermal Battery Aging
@@ -108,16 +108,18 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>[New] An Easy Guide for How to Add Photos on Instagram</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-use-supplemental-video-sequences-effectively/"><u>[Updated] How to Use Supplemental Video Sequences Effectively</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-zte-blade-a73-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-se-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone SE Without a Home Button</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-asmr-experience-into-proficiently-produced-videos/"><u>In 2024, Transform Your ASMR Experience Into Proficiently Produced Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/maximizing-recording-4-strategies-for-facebook-live-for-2024/"><u>Maximizing Recording 4 Strategies for Facebook Live for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-t2x-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo T2x 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-itel-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Itel</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-and-fantastic-the-best-flv-video-editors/"><u>Updated 2024 Approved Free and Fantastic The Best FLV Video Editors</u></a></li>
-<li><a href="https://techidaily.com/will-redmi-note-12t-pro-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Redmi Note 12T Pro play AVCHD mts files?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-reviewing-bandicams-effectiveness-in-professional-video-editing-for-2024/"><u>[New] Reviewing Bandicam's Effectiveness in Professional Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-increasing-viewership-with-facebook-mobile-broadcasts/"><u>2024 Approved Step-by-Step Increasing Viewership with Facebook Mobile Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-gaming-monitors-to-perfect-ps5-and-xbox-experience/"><u>2024 Approved Top 5 Gaming Monitors to Perfect PS5 and Xbox Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-ai-demystified-why-its-a-must-have-in-tech-innovation/"><u>Claude AI Demystified: Why It’s a Must-Have in Tech Innovation</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-hot-30-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 30 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-c12-plus-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on C12 Plus</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-n53-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo N53 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-a60-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel A60</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/realtek-hdac-9500-chipset-drivers-for-windows-11-instant-setup/"><u>Realtek HD/AC-9500 Chipset Drivers for Windows 11: Instant Setup</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-lock-screen-without-password-infinix-hot-40-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Lock Screen without Password(Infinix Hot 40 Pro)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy A24</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-asus-rog-phone-7-ultimate-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Asus ROG Phone 7 Ultimate without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-y27s-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo Y27s</u></a></li>
 </ul></div>
 

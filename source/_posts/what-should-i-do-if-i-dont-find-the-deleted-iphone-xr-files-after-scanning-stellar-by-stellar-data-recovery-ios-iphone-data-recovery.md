@@ -1,7 +1,7 @@
 ---
 title: What should I do if I dont find the deleted iPhone XR files after scanning? | Stellar
-date: 2024-09-19T11:30:49.703Z
-updated: 2024-09-24T02:14:51.028Z
+date: 2024-10-28T06:37:55.510Z
+updated: 2024-11-03T16:46:34.595Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -49,13 +49,6 @@ You may want to backup iPhone data or transfer favorite photos, music, or videos
 
 No worries. There are methods, which can fix the issue and let you again access your iPhone on Mac. But, first you should be aware why Mac fails to recognize your iPhone as this helps in troubleshooting the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Why your iPhone not detected by Mac computer?**
 
 Mac does not detect your iPhone due to many reasons, such as
@@ -71,10 +64,10 @@ Mac does not detect your iPhone due to many reasons, such as
 ![Mac Doesn't Recognize my iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Featured-Methods-to-fix-Mac-Doesnt-Recognize-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **1\. Check your iPhone**
@@ -85,9 +78,29 @@ Before you connect your iPhone to Mac, make sure the iOS device is unlocked and 
 
 When **Mac computer doesn’t recognize iPhone**, first check your USB connection. The USB cable or the port can be faulty. Try to connect iPhone to Mac using another Apple USB 2.0 cable. If that doesn’t work try with the different port. Plus, disconnect other USB devices from Mac except your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Restart your iPhone**
 
 Restarting the iOS device would resolve any issue between your iPhone programs and iTunes. To restart hold volume/side/ top button depending on your iPhone model. Slide the red power off slider on your iPhone. Wait for your iPhone to turn off. After a few seconds, again restart iPhone. Now Mac should recognize your iPhone.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Restart your Mac**
 
@@ -121,13 +134,6 @@ Now, check if your Mac recognizes the iPhone or not.
 
 One of the reason cited for **iPhone not detected by Mac** is anti-virus or firewall protection on your system. So disable the antivirus or firewall and then try to connect your iPhone to Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **8\. Enable iOS device in Mac Preferences**
 
 When iPhone is not showing on Mac Finder, check if your Mac Preferences allows to view iOS devices in Finder. To enable iOS device in Finder follow the below steps:
@@ -141,6 +147,13 @@ When iPhone is not showing on Mac Finder, check if your Mac Preferences allows t
 <sub>Figure: Finder Preferences</sub>
 
 This should **fix iPhone not showing up in Finder** on Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **9\. Connect iPhone to a different Mac machine**
 
@@ -227,13 +240,6 @@ Just get on to the below steps to recover deleted photos from iCloud:
 
 ![ Restore from iCloud Backup on iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2022/03/iphone11-ios14-apps-data-restore-from-icloud-backup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Sign in to your iCloud account.
 - Select the recent backup from the list that has the deleted pictures. Click **Restore** to get back the deleted photos on your iPhone.
 
@@ -248,16 +254,16 @@ Below are the quick steps:
 
 ![recover deleted photos from itunes](https://www.stellarinfo.com/blog/wp-content/uploads/2018/05/2-768x276.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **Restore Backup.**
 
 That’s it. You get back the deleted photos on your iPhone.  However, this will replace the current data on the iPhone with the old backup data.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Recover recently deleted photos from cloud storage
 
@@ -284,6 +290,13 @@ Here are the steps to recover deleted photos after deleting them from the Recent
 
 ![select recover photo from iphone, icloud or itunees in software](https://www.stellarinfo.com/screenshots/data-ios/win/1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Check-in **Camera Roll** and **Photo Stream** and click **Next.**
 
 ![](https://www.stellarinfo.com/screenshots/data-ios/win/4.png)
@@ -298,13 +311,6 @@ Take the free trial and ensure that Stellar Data Recovery for iPhone can retriev
 
 [![iPhone Data Recovery](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) [![iPhone Data Recovery Mac](https://www.stellarinfo.com/image/catalog/article/Free-Download-Mac-Blue-button.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ___
 
 ## How to Put iPhone or iPad on Recovery mode? (Step by Step Tutorial)
@@ -313,13 +319,6 @@ ___
 
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When you run out of solutions to troubleshoot your iPhone, Recovery Mode or DFU Mode comes as a rescue. Whether iPhone stops booting or fails to restore, you can use the functions in iPhone and fix the issue.
 
 But the method to bring an iPhone in DFU or Recovery Mode varies in each iPhone model and iPad.
@@ -327,6 +326,13 @@ But the method to bring an iPhone in DFU or Recovery Mode varies in each iPhone 
 This post will guide you on how to enter and exit Recovery and DFU Modes in different iPhone and iPad variants. But first, understand what these iPhone functions are and their uses.
 
 ![How to Put iPhone or iPad on recovery mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Reamp_How-to-Enter-Recovery-or-DFU-Mode_edited-Clean.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What is Recovery Mode and its use?**
 
@@ -359,13 +365,6 @@ Follow the below steps to enter Recovery Mode on iPhone 6, iPhone 6s, iPhone 6s 
 - Press and hold down the **Home** and **Power** button to turn the iPhone.
 
 ![put iPhone 6 in Recovery Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/restart-iphon6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Then connect the USB cable to iPhone and turn it on by holding the Home button.
 - Continue to hold the **Home** button until a pop-up appears informing ‘an iPhone has been detected in recovery mode’ on your system.
@@ -504,6 +503,13 @@ Whenever your iPhone and its variants show problems like being stuck at the Appl
 
 However, in any unfortunate incident of data loss while performing the functions, trust Stellar Data Recovery for iPhone – a software that brings back lost data on your iPhone securely.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **FAQ**
 
 **1\. **Does DFU Mode delete iPhone data?****
@@ -530,5 +536,20 @@ A computer is not necessary to enter the recovery mode on an iPhone. You only ne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-watch-facebook-live/"><u>[New] 2024 Approved How to Watch Facebook Live?</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y27-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y27 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013257884-grand-theft-auto-v-audio-fix-say-goodbye-to-stutters-and-lags/"><u>Grand Theft Auto V Audio Fix - Say Goodbye to Stutters & Lags</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-xr21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia XR21 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-m6-pro-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco M6 Pro 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-g2-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo G2 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimizing-your-businesss-profile-with-multilingual-posts/"><u>Optimizing Your Business's Profile with Multilingual Posts</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60s-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60s on Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-11-endless-restart-glitch-with-ease/"><u>Solve Your Windows 11 Endless Restart Glitch with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-by-toms-experts/"><u>Unveiling the Latest in Computer Hardware by Tom's Experts</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+</ul></div>
 

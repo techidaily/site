@@ -1,7 +1,7 @@
 ---
 title: What should I do if I dont find the deleted iPhone XS Max files after scanning? | Stellar
-date: 2024-09-18T01:00:12.427Z
-updated: 2024-09-24T02:11:16.572Z
+date: 2024-10-28T12:35:01.026Z
+updated: 2024-11-03T20:48:00.372Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -69,17 +69,23 @@ The attempting to data recovery failed problem usually occurs when iOS is update
 - Downgrading from iOS 16 to 15 or below
 - Updating iOS after jailbreak
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **<u>How to&nbsp;fix iPhone stuck at the ‘Attempting Data Recovery’ loop</u>**
 
 1. Force Restart iPhone
 2. Put iPhone into Recovery Mode
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 1: Force Restart iPhone**
 
@@ -112,14 +118,14 @@ _**\[Caution\]**:_ Recovery Mode erases the iPhone data, which can be restored w
 
 ![Fix iPhone stuck on recovery mode- Restore or Update](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/02/456.png)
 
-5\. After the Update process completes, set up your iPhone.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5\. After the Update process completes, set up your iPhone.
 
 ### **Fixed** **‘attempting data recovery’ failed problem. Further, how to restore data on iPhone**
 
@@ -137,13 +143,6 @@ Additionally, Stellar Data Recovery for iPhone also restores the data lost and d
 - Connect iPhone to the computer
 - Select **iTunes** from the software screen
 - Follow the simple on-screen instructions
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Wrapping Up**
 
@@ -178,10 +177,10 @@ The videos you capture with your iPhone XS Max gets stored in either the memory
 ![Stellar Data Recovery for iPhone - Scanning Process](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 6)** All deleted videos will be listed in red, while the rest will be listed in black color as shown in the image placed below.
@@ -235,13 +234,6 @@ Since it is usually, regarded as a hardware issue, you should begin with hardwar
 6. Use Recovery Mode to Fix iTunes Error 9
 7. Choose to update iPhone wirelessly
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Solution 1: Check USB cable and port**
 
 Make sure your iPhone USB cable and port are properly connected and working fine. Do the below checks and fix:
@@ -253,6 +245,13 @@ Make sure your iPhone USB cable and port are properly connected and working fine
 ###  **Solution 2: Restore iPhone with iTunes on another computer**
 
 iTunes error 9 is generally regarded as a hardware-related problem. Sometimes it is difficult to detect the issue. The easier way out is to restore iPhone using iTunes on another computer or laptop. If still the error persists, move on to the other workarounds.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Solution 3:** **Force restart your device**
 
@@ -266,9 +265,23 @@ Apple suggests trying once force a restart of iPhone to fix iTunes error 9.
 
 Antivirus or Firewalls in your computer may prevent iTunes to connect with Apple server.  Check the security software settings, and tweak them if required to allow iTunes to access the network servers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Solution 5:** **Update iTunes to the latest version**
 
 Updates usually bring in new features, fix existing bugs and make the application smarter. If the iTunes error 9 is due to outdated iTunes, installing the latest version may help to fix the error.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to update iTunes to the latest version?**
 
@@ -281,6 +294,13 @@ After updating iTunes, reboot your computer and check if the iTunes error 9 is f
 ### **Solution 6: Use Recovery Mode to fix iTunes Error 9**
 
 ![iPhone in Recovery Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/06/error-9-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _iPhone in Recovery Mode_
 
@@ -302,33 +322,19 @@ Stellar **[iPhone data recovery software](https://tools.techidaily.com/stellarda
 
 [![iPhone Data Recovery](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) [![iPhone Data Recovery Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Solution 7: Choose to update iPhone wirelessly**
 
 ![Select Software Update in Settings on iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/06/error-9-3-300x266.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Select Software Update in Settings on iPhone_
 
 Alternatively update iPhone wirelessly, without using iTunes.  Make sure you have a continuous Internet connection. Go to Settings > General > Software Update. If an update is available, tap on Download and Install.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Conclusion**
@@ -351,5 +357,24 @@ _One of the above methods is surely going to help you out. Also do not forget to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-identify-8-proven-video-promotion-tactics-for-success/"><u>[New] 2024 Approved Identify 8 Proven Video Promotion Tactics for Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-phone-knowledge-for-expanded-gear-vr-experiences/"><u>[New] Essential Phone Knowledge for Expanded Gear VR Experiences</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagrams-video-chatting-compendium/"><u>[Updated] 2024 Approved Instagram's Video Chatting Compendium</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-social-giants-facebook-twitter-instagram-and-youtube/"><u>Engage with Social Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-gionee-f3-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Gionee F3 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-g42-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia G42 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-snappy-satire-iphone-memes/"><u>In 2024, Snappy Satire IPhone Memes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-adobe-cloud-essentials-and-top-alternatives/"><u>Mastering Adobe Cloud Essentials & Top Alternatives</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-c65-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from C65</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-magic-vs-2-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor Magic Vs 2</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi 13T can’t play AVCHD .mts video</u></a></li>
+</ul></div>
 

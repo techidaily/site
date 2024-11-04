@@ -1,7 +1,7 @@
 ---
 title: "Introducing Gemma: The New Open-Source Artificial Intelligence Solution From Google"
-date: 2024-10-28T19:32:44.150Z
-updated: 2024-10-29T17:21:00.544Z
+date: 2024-10-30T01:34:50.378Z
+updated: 2024-11-04T10:51:32.725Z
 tags:
   - cutting-edge
 categories:
@@ -42,29 +42,31 @@ Google is now offering [Gemma 2B and 7B](https://blog.google/technology/develope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-10-premier-vimeo-extraction-programs-reviewed-for-2024/"><u>[New] 10 Premier Vimeo Extraction Programs Reviewed for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-parrot-prowess-in-bebop-an-in-depth-critique/"><u>[New] Parrot Prowess in Bebop – An In-Depth Critique</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-streaming-social-feeds-on-your-smart-tv-whats-next-for-2024/"><u>[New] Streaming Social Feeds on Your Smart TV What's Next for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-real-time-monitoring-and-archiving-of-facebook-chats/"><u>[Updated] In 2024, Real-Time Monitoring & Archiving of Facebook Chats</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>2024 Approved Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-hot-40-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Hot 40 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g-stylus-2023-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G Stylus (2023) Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-12-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 12 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/karaoke-fun-on-a-budget-find-your-perfect-ktv-spot-under-150-dollars/"><u>Karaoke Fun on a Budget: Find Your Perfect KTV Spot Under 150 Dollars</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/samsung-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung won’t play AVCHD .mts files</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-6s-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 6s failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-finest-picks-top-8-web-sites-with-rich-3d-and-gold-lined-texts/"><u>The Finest Picks Top 8 Web Sites with Rich 3D & Gold-Lined Texts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhanced-mac-technology-video-plus-sound-record/"><u>[New] 2024 Approved Enhanced Mac Technology Video + Sound Record</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enhancing-youtube-presence-with-strategic-banners/"><u>[New] Enhancing YouTube Presence with Strategic Banners</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-tailoring-a-triad-of-topical-youtube-tracks/"><u>[New] In 2024, Tailoring a Triad of Topical YouTube Tracks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-sky-hdr-perfection-top-website-reviews/"><u>2024 Approved Sky HDR Perfection - Top Website Reviews</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-m14-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy M14 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-13-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extended-physical-action-survey/"><u>In 2024, Extended Physical Action Survey</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-step-by-step-guide-using-nvidia-recorder/"><u>In 2024, Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289714476-mts/"><u>MTSファイルのクオリティ保ちたまえ!最高レベルの変換ツールをご紹介します</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/no-distractions-just-high-quality-webcam-recording/"><u>No Distractions, Just High-Quality Webcam Recording</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Max Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-realme-gt-3-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Realme GT 3</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-desired-upgrades-for-the-next-generation-gpt-5-model/"><u>Top 4 Desired Upgrades for the Next Generation GPT-5 Model</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlock-high-definition-pics-effective-no-cost-tactics/"><u>Unlock High Definition Pics Effective, No-Cost Tactics</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

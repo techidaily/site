@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2024-10-27T20:57:44.502Z
-updated: 2024-10-29T18:34:06.777Z
+date: 2024-11-03T06:57:05.055Z
+updated: 2024-11-03T22:56:06.199Z
 tags:
   - web
 categories:
@@ -19,22 +19,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Over the past few months I've noticed a worrying trend in my Facebook feed. People I know in real life are pushing a variety of very sketchy "investment" opportunities with "evidence" of the enormous payouts they've received. It shouldn't have to be said, but please don't fall for this!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Facebook Accounts Are Getting Hacked
 
 [Facebook account hacking](https://youtube-sure.techidaily.com/ed-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/) is a pernicious issue, and even tech-savvy users can get caught out since these attacks are so relentless. You need to be lucky all the time, but the hacker only has to be lucky once. If nothing else, this means you should always treat anything posted by your friends on Facebook as potentially suspicious. Most importantly, if you have another way of contacting someone besides Facebook, you should confirm any information they post on a separate channel. Give them a call, or call someone who lives with them, and confirm the information before acting on it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Criminals Know You Trust Your Friends More Than Strangers
@@ -60,10 +53,10 @@ An example of a trading offer. Note how the text invites users to send direct me
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-usa-january-5-2021-1887366490)_
@@ -72,20 +65,27 @@ _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-us
 
  The most obvious question you should be asking yourself, is why this person is so desperate to share this "investment" opportunity in the first place? What do they stand to gain? Either the account is hacked, or the person is complicit and is taking money in exchange for roping more people into the scam,
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI Technology Can Make It Worse
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
  At first, I was convinced that all of these accounts were simply hacked, but then some of them started posting testimonial videos. It occurred to me that these could be [AI deepfakes](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/), but looking closely at them for the telltale signs, it doesn't seem that way. Which suggests that some of these people may be complicit in the scams. However, deepfake technology has advanced to the point where this is also a totally plausible answer. Either way, you should find these videos equally unconvincing regardless of whether they are faked or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Never Invest Money Without Licensed Help
 
@@ -108,16 +108,20 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/comprehensive-mac-user-manual-for-installing-and-configuring-movavi-software/"><u>Comprehensive Mac User Manual for Installing and Configuring Movavi Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-install-guide-downloading-and-setting-up-logitech-driving-software-for-windows-os/"><u>Easy Install Guide: Downloading and Setting Up Logitech Driving Software for Windows OS</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/ignite-your-narratives-complimentary-fb-apps-for-everyday-users/"><u>Ignite Your Narratives Complimentary FB Apps for Everyday Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-100-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 100 Phones? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-7-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 7 In Different Conditionsin</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-year-end-roundup-top-youtube-music-reaction-videos/"><u>In 2024, Year-End Roundup Top YouTube Music Reaction Videos</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-7-dslr-cameras-for-vlogging/"><u>[New] 2024 Approved Best 7 DSLR Cameras for Vlogging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-feed-top-10-instagram-hashtags-for-success/"><u>[Updated] 2024 Approved Elevate Your Feed Top 10 Instagram Hashtags for Success</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-poco-x6-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco X6 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-moto-g13-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Moto G13 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-bluetooth-pairings-a-comprehensive-fix-guide/"><u>Resolving Silent Bluetooth Pairings - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-5-top-reaction-video-creators/"><u>The Cream of the Crop 5 Top Reaction Video Creators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mart-way-to-enhance-your-youtube-presence-legally-for-2024/"><u>The Smart Way to Enhance Your YouTube Presence Legally for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tutoriel-facile-installer-handbrake-libdvdcss-sur-macwindows-10-pour-extraire-des-contenu-de-video-dvd/"><u>Tutoriel Facile : Installer HandBrake Libdvdcss Sur Mac/Windows 10 Pour Extraire Des Contenu De Vidéo DVD</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-c02-by-fonelab-android-recover-music/"><u>Undelete lost music from C02</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-civi-3-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Civi 3 won’t play MP4 files</u></a></li>
 </ul></div>
 

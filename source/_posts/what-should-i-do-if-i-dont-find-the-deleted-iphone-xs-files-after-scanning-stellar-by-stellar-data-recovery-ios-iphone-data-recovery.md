@@ -1,7 +1,7 @@
 ---
 title: What should I do if I dont find the deleted iPhone XS files after scanning? | Stellar
-date: 2024-09-17T23:30:32.833Z
-updated: 2024-09-24T00:36:22.482Z
+date: 2024-11-01T22:28:27.616Z
+updated: 2024-11-03T17:30:41.014Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -63,29 +63,9 @@ Mac does not detect your iPhone due to many reasons, such as
 
 ![Mac Doesn't Recognize my iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Featured-Methods-to-fix-Mac-Doesnt-Recognize-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Check your iPhone**
 
 Before you connect your iPhone to Mac, make sure the iOS device is unlocked and on the Home screen.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Fix USB connection**
 
@@ -94,13 +74,6 @@ When **Mac computer doesn’t recognize iPhone**, first check your USB connectio
 ### **3\. Restart your iPhone**
 
 Restarting the iOS device would resolve any issue between your iPhone programs and iTunes. To restart hold volume/side/ top button depending on your iPhone model. Slide the red power off slider on your iPhone. Wait for your iPhone to turn off. After a few seconds, again restart iPhone. Now Mac should recognize your iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Restart your Mac**
 
@@ -118,6 +91,19 @@ To check the USB Device Tree on Mac follow the below steps:
 
 ![USB Device Tree](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Mac-USB-tree-Image-2-1024x709.png)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <sub>Figure: USB Device Tree</sub>
 
 - On the right pane, you will see **USB Device Tree**. If you see your iPhone in the list, then update to the latest macOS.
@@ -133,13 +119,6 @@ Now, check if your Mac recognizes the iPhone or not.
 ### **7\. Disable antivirus on Mac**
 
 One of the reason cited for **iPhone not detected by Mac** is anti-virus or firewall protection on your system. So disable the antivirus or firewall and then try to connect your iPhone to Mac.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **8\. Enable iOS device in Mac Preferences**
 
@@ -164,10 +143,10 @@ Try by connecting your iPhone to another Mac. If you receive a message asking to
 [![](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-mac-1.png)](https://cloud.stellarinfo.com/StellarToolkitforiPhone-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **FAQ**
@@ -201,6 +180,19 @@ No, you won’t lose data by syncing iPhone to Mac. Syncing helps to access your
 **Wrapping Up**
 
 Syncing iOS device to macOS has so many advantages but if Mac is not recognizing your iPhone, you cannot transfer, back up, or access iPhone data on Mac. This post has shared 9 methods to fix the syncing issue of Mac and iPhone. One of them should resolve Mac not detecting your iPhone.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple will delete your photos in July. Here’s what you should do
 
@@ -260,6 +252,13 @@ For **iOS 16, iPadOS 16, or later** versions: Toggle on the '**Sync this \[devic
 
 ![setup icloud photos on iPhone](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/apple-iphone-permanently-delete-photos/setup-icloud.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For **iOS 15, iPadOS 15, or earlier** versions: Turn on the **iCloud Photos**
 
 #### **How to set up iCloud Photos on your Mac?**
@@ -272,6 +271,13 @@ For **iOS 15, iPadOS 15, or earlier** versions: Turn on the **iCloud Photos**
 
 ![setup icloud on Mac](https://www.stellarinfo.com/public/image/catalog//article/data-recovery/apple-iphone-permanently-delete-photos/icloud-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **
 
 ## **Don't want to use iCloud Photos?**
@@ -279,13 +285,6 @@ For **iOS 15, iPadOS 15, or earlier** versions: Turn on the **iCloud Photos**
 While iCloud Photos is a convenient option for many Apple users, it's important to acknowledge that it is not the best fit for everyone. Limited free storage of 5GB or lack of cross-platform compatibility can compel Apple users to look for other alternatives.
 
 Storage options, such as Google Photos, Microsoft OneDrive, Dropbox, external hard drives, etc., are available to ensure your iPhone Photos are safe and easily accessible.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **The Bottom Line**
 
@@ -338,6 +337,13 @@ You can recover all your lost photos, videos, contacts, messages, Safari bookmar
 
 It also offers a Deep Scan if your desired iPhone information is not recovered after the first scan. A deep scan does a comprehensive scan of the selected device or backup to recover every bit of lost or deleted backup information.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Benefits of Stellar iPhone Data Recovery**
 
 - Recovery of deleted or lost backup files
@@ -354,16 +360,10 @@ It also offers a Deep Scan if your desired iPhone information is not recovered a
 ![Stellar Data Recovery for iPhone- how to find iPhone backup on Windows](https://www.stellarinfo.com/blog/wp-content/uploads/2018/06/1-Mui.png)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:** After scanning, all the files on your iPhone are listed.
@@ -379,10 +379,10 @@ If you do not see the required files in the list, choose **Deep Scan**. It will 
 ![Stellar Data Recovery for iPhone - Save recovered files at your desire location - where to find iphone backup on Windows](https://www.stellarinfo.com/blog/wp-content/uploads/2018/06/5recover-file6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Wrapping Up**
@@ -405,5 +405,24 @@ You can download the free trial version to evaluate its performance. It is undou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-guardians-of-the-screen-the-best-webcam-cover-options/"><u>[New] 2024 Approved Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-learn-to-craft-striking-pfps-on-discord-with-ease-for-2024/"><u>[New] Learn to Craft Striking Pfps on Discord with Ease for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-adjust-twitter-video-excerpt/"><u>[Updated] Adjust Twitter Video Excerpt</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-10-volume-enhancers-windows-apple-android/"><u>[Updated] Premium 10 Volume Enhancers Windows, Apple, Android</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a79-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A79 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-x6-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find X6 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5with/without a PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/reviewing-multiple-cameras-are-there-upgrades/"><u>Reviewing Multiple Cameras Are There Upgrades?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-powerdirector-2024-users-handbook/"><u>The Complete PowerDirector 2024 User's Handbook</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-proplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 Pro+ on Windows?</u></a></li>
+</ul></div>
 
