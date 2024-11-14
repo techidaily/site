@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Adjust Image Dimensions on Your iPhone/iPad
-date: 2024-10-31T20:04:36.738Z
-updated: 2024-11-04T04:13:03.712Z
+date: 2024-11-09T16:12:52.190Z
+updated: 2024-11-13T16:26:59.521Z
 tags:
   - mobile
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The editor in the Photos app is quite feature-rich, but you can't change the file size of photos. Luckily, you can use a shortcut or a third-party app to resize or reduce photo size on iPhone and iPad. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Resize a Photo Using Shortcuts
 
  If you need to reduce a photo's resolution or file size, look no further [than the Shortcuts app](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/). Shortcuts is Apple's built-in automation tool that helps you create your own tools and simplify multi-step processes that you perform frequently.
@@ -25,13 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  On a Mac? You can resize a photo in a couple of seconds [using the built-in Preview app](https://fox-cloud.techidaily.com/new-in-2024-unlocking-studio-secrets-extensive-xvideoreview/).
 
  Just looking to crop a photo, rather than make the entire image smaller? You can [crop images in the Photos app](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) itself by tapping the "Edit" button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Creating an Image Resize Shortcut
 
@@ -52,13 +52,20 @@ Close
 ![The 'Resize' function followed by a 'Save' function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/8saveimage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Adding the Shortcut to the Share Sheet
 
@@ -69,13 +76,6 @@ Close
  Then, on the shortcut screen, tap the "Done" button again to save the shortcut.
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Using the Shortcut to Resize an Image
 
@@ -88,10 +88,10 @@ Close
  If you tried increasing the size of an image and it came out blurry or pixelated, you can [try a free or paid AI tool to upscale it](https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y36i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Resize a Photo Using a Third-Party App
@@ -129,19 +129,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-how-to-for-multi-snapping-with-snapchat-for-2024/"><u>[New] The Ultimate How-To for Multi-Snapping with Snapchat for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a38-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A38 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-print-secured-pdf-free-easy-and-fast/"><u>How to Print Secured PDF - Free, Easy & Fast</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>In 2024, Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-filmora-on-a-budget-how-to-get-it-without-breaking-the-law/"><u>In 2024, Filmora on a Budget How to Get It Without Breaking the Law</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screencapture-pro-tips-your-guide-to-free-recording-options/"><u>In 2024, ScreenCapture Pro Tips – Your Guide to FREE Recording Options</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-s24-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy S24? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726225634008-movavijpegpng/"><u>Movaviで簡単な無料オンラインJPEGからPNGへの画像変換 - 自宅でできる手順</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/recuperacion-de-datos-con-testdisk-una-guia-completa-para-restaurar-particiones-danadas/"><u>Recuperación De Datos Con TestDisk: Una Guía Completa Para Restaurar Particiones Dañadas</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-x5-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from X5 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-14-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi 14 Pro without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-f14-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy F14 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-razr-40-ultra-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Razr 40 Ultra</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-implement-xps-video-editing-suite-instantly/"><u>[New] Implement XP's Video Editing Suite Instantly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cut-to-perfection-editing-video-duration-on-youtube/"><u>[Updated] Cut to Perfection Editing Video Duration on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discover-best-hd-video-players-on-android/"><u>[Updated] Discover Best Hd Video Players on Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-m34-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy M34 5G Unlock Without Password</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-x100-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo X100 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-lava-yuva-2-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Lava Yuva 2 Pro Phone Screen?</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50i Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-a60-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel A60 phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unique-identification-making-your-youtube-url-stand-out/"><u>In 2024, Unique Identification Making Your YouTube URL Stand Out</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-video-response-rate-how-to-increase-it-for-2024/"><u>Instagram's Video Response Rate How to Increase It for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-spark-20-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 20 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-13c-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 13C Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from ZTE Blade A73 5G</u></a></li>
 </ul></div>
 

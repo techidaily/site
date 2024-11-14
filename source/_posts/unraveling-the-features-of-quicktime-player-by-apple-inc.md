@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Features of QuickTime Player by Apple Inc.
-date: 2024-11-03T06:30:34.901Z
-updated: 2024-11-04T06:16:47.625Z
+date: 2024-11-11T16:16:42.500Z
+updated: 2024-11-13T16:30:39.258Z
 tags:
   - deals
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Apple's QuickTime technology used to be one of the main ways to watch videos across web browsers, Macs, and Windows PCs. Those days are over, but QuickTime Player is still a core application on Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Origins of QuickTime
 
  QuickTime might be most recognizable as a media player, but it was originally an all-encompassing framework for digital media. There was a QuickTime Player application for Mac and Windows, a QuickTime plug-in for web browsers, a PictureViewer tool for viewing photos, and other components.
@@ -36,10 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Apple website screenshot with text explaining What is Quicktime 7.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard-feb-26-2024-at-5-45-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Apple / Internet Archive](https://web.archive.org/web/20110826055111/http://www.apple.com/quicktime/what-is/)
@@ -52,13 +59,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Apple continued supporting QuickTime on Windows for a while, but the [final update was QuickTime 7.7.9 in 2016](https://vimeo-videos.techidaily.com/new-vimeo-decoded-an-in-depth-look-at-video-hosting-for-2024/), and it is no longer supported.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  QuickTime Isn't Dead (Yet)
 
  Even though the QuickTime framework and file formats have been replaced by newer and better technology, some components are still around to this day. The MOV file format is still used for video and screen recordings on Apple devices, as well as some online videos, typically using the H.264 or HEVC/H.265 video codec, similar to most MP4 files.
@@ -68,10 +68,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Screenshot of QuickTime Player with a clip from Tron: Legacy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard-feb-13-2024-at-4-05-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  QuickTime Player can also record video or audio files from a mix of input devices, or mirror and record the screen from a connected iPhone or iPad. There's also an option to record your Mac's screen, but the same capture and record tool is available with the Command+Shift+5 keyboard shortcut without opening QuickTime.
@@ -79,10 +85,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Even though QuickTime Player is still present on macOS, it's much more basic than the old QuickTime Player 7 and its Pro edition. The only editing capabilities are removing video or audio tracks from files (the entire track, not sections), trimming the file, and rotating. The file conversion options are also limited.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to QuickTime Player
@@ -108,18 +114,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-gold-standard-gabbing-prime-performances-by-google/"><u>[Updated] Gold-Standard Gabbing Prime Performances by Google</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/convenient-and-quality-passport-images-top-free-tools-listed-here-for-2024/"><u>Convenient & Quality Passport Images - Top Free Tools Listed Here for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pova-6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-bluetooth-headphones-with-connection-but-no-audio/"><u>How to Fix Bluetooth Headphones with Connection but No Audio</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Android? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-mastering-vector-editing-without-acid-pro/"><u>In 2024, Mastering Vector Editing without ACID Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prioritize-quality-and-ease-the-top-12-videophones-for-2024/"><u>Prioritize Quality and Ease The Top 12 Videophones for 2024</u></a></li>
-<li><a href="https://techidaily.com/sony-xperia-5-v-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 5 V Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 11/10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capture-the-skyline-horizontal-photos-in-a-phone-for-2024/"><u>[New] Capture the Skyline Horizontal Photos in a Phone for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premier-recorder-clean-and-clear-android-edition/"><u>[Updated] 2024 Approved Premier Recorder Clean and Clear Android Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-abletons-art-of-softening-soundscapes-for-2024/"><u>[Updated] Ableton's Art of Softening Soundscapes for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-the-limitations-the-top-8-flaws-in-chatgpt/"><u>Exposing the Limitations: The Top 8 Flaws in ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-c33-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme C33 2023 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-14-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-100-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 100 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-5-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic 5 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-link-and-leverage-your-fb-story-for-greater-impact/"><u>In 2024, Link & Leverage Your FB Story for Greater Impact</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-strategies-for-optimal-spotify-ad-reach-and-engagement/"><u>In 2024, Strategies for Optimal Spotify Ad Reach and Engagement</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/network-adapter-driver-missing-in-windows-10-solved/"><u>Network Adapter Driver Missing in Windows 10 [Solved]</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-honor-play-40c-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor Play 40C</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-web-top-rated-free-online-video-combiners-for-2024/"><u>Updated Best of the Web Top-Rated Free Online Video Combiners for 2024</u></a></li>
 </ul></div>
 

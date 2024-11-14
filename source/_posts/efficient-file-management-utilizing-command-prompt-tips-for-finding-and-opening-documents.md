@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents"
-date: 2024-10-29T13:37:28.000Z
-updated: 2024-11-04T00:41:48.958Z
+date: 2024-11-10T16:20:56.022Z
+updated: 2024-11-13T16:40:17.296Z
 tags:
   - deals
 categories:
@@ -24,20 +24,27 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  Once you’ve learned how to [navigate directories](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/) on Windows 10, the next step is learning how to find and open files using the Command Prompt. It’s just as easy as navigating through and opening a file in File Explorer. Here’s how it’s done.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Open Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by typing “cmd” in the Windows Search bar and then selecting “Command Prompt” from the search results. You may also enter "cmd" into a Run box (Windows + R) if you prefer that.
 
 ![Run CMD from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-cmd-start.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the Command Prompt opened, you’re ready to find and open your file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Find Files Using Command Prompt
 
@@ -52,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  Command Prompt will now search and find all instances of the search term you entered. It will (1) show you the file path, and (2) give you the file name and extension.
 
 ![A file with "example" in the file name, the path to the file, and some basic attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that we've found our file, let's open it.
 
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![Using the cd command to change the directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cd-doc-ex.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have inputted your command, press the Enter key. You’ll now be in that folder.
@@ -103,23 +103,9 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
     
 ![Opening the file directly without navigating to the folder first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-the-file-directly.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The only difference is you don’t add the cd command and the entire path is in quotations. It doesn't strictly need to be, though. You can also just put the quotes around the portion of the path that has a space.
 
 ![File path with quotes on the file name only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-example-file-with-quotes.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are a couple of other important things to keep in mind.
 
@@ -127,9 +113,23 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Some examples of paths you can use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-examples-of-paths.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The second is that you can open files with unknown file extensions, you just have to manually specify which program to use first. This isn't any different from trying to open an unknown file format with File Explorer.
 
 ![Opening a file with an unknown format, in this case ".abc123" as an example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-abc123-unknown-format.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This isn't just applicable to the Command Prompt, either. PowerShell behaves the same way as Command Prompt for most jobs, and that is especially true if you're talking about something simple.
 
@@ -148,18 +148,15 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-uncovering-illegal-gain-from-false-subscriber-sales/"><u>[New] In 2024, Uncovering Illegal Gain From False Subscriber Sales</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>[Updated] Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12T Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-vyncs-link-service-effective-surveillance-with-enigmastic-subscriptions/"><u>Comprehensive Guide to Vyncs Link Service: Effective Surveillance with Enigmastic Subscriptions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafted-perfection-discover-the-1e-custom-ai-models-elevating-beyond-basic-chatgpt/"><u>Crafted Perfection: Discover the 1E Custom AI Models Elevating Beyond Basic ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-12-pro-max-5-ways-to-get-into-a-locked-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Locked Out of iPhone 12 Pro Max? 5 Ways to get into a Locked iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-destiny-2s-silent-streets-reactivating-voice-chat-for-gaming-communication/"><u>Solving Destiny 2'S Silent Streets: Reactivating Voice Chat for Gaming Communication</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-11r-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus 11R</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-poco-m6-pro-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Poco M6 Pro 5G.</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/uninstalling-video-libraries-from-youtube-for-2024/"><u>Uninstalling Video Libraries From YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-strategic-advantages-in-business-with-vr-tech/"><u>[New] Strategic Advantages in Business with VR Tech</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas/"><u>[Updated] In 2024, Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-videographers-playbook-for-sims-games/"><u>[Updated] The Videographer's Playbook for Sims Games</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100a-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y100A Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>In 2024, 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-agile-yet-pricey-swagtron-swagboard-t1/"><u>In-Depth Analysis of the Agile Yet Pricey Swagtron Swagboard T1</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
 </ul></div>
 

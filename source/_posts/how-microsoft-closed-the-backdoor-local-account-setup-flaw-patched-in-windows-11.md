@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-10-28T10:40:37.401Z
-updated: 2024-11-04T01:29:28.483Z
+date: 2024-11-12T16:11:54.613Z
+updated: 2024-11-13T16:38:54.675Z
 tags:
   - deals
 categories:
@@ -40,29 +40,32 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-free-windows-software-perfect-tv-recording-techniques-for-2024/"><u>[Updated] Free Windows Software Perfect TV Recording Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-top-10-hd-webcams-reviewed/"><u>[Updated] The Essential Top 10 HD Webcams Reviewed</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/comment-resoudre-les-problemes-de-transfert-de-fichiers-sur-windows-11-sujets-daide-et-conseils-rapides/"><u>Comment Résoudre Les Problèmes De Transfert De Fichiers Sur Windows 11? Sujets D'Aide Et Conseils Rapides</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a15-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A15 4G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-solving-realtek-hd-audio-player-startup-problems/"><u>Comprehensive Guide to Solving Realtek HD Audio Player Startup Problems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhancing-visual-content-with-macos-preview-your-guide-to-a-hidden-tool-for-perfect-pictures/"><u>Enhancing Visual Content with macOS Preview - Your Guide to a Hidden Tool for Perfect Pictures</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-advanced-features-in-microsoft-onenote-with-onetastic-plugin-review/"><u>Exploring Advanced Features in Microsoft OneNote with Onetastic Plugin Review</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to others devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Civi 3 Phone Without Password?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insights-and-analysis-of-the-amazon-fire-hd-8-gen-8-striking-value-in-an-affordable-user-friendly-tablet/"><u>Insights and Analysis of the Amazon Fire HD 8 Gen 8: Striking Value in an Affordable, User-Friendly Tablet</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2019-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2019</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-xiaomi-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Xiaomi without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-play-7t-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Play 7T</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-v30t-by-fonelab-android-recover-messages/"><u>Undelete lost messages from V30T</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-transformative-voice-techniques-enhance-your-oratory-with-these-tools/"><u>[Updated] In 2024, Transformative Voice Techniques – Enhance Your Oratory with These Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/boosting-mobile-slow-mo-top-app-picks/"><u>Boosting Mobile Slow Mo Top App Picks</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g34-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G34 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726224016837-ogm-movavi/"><u>OGMファイルを自由に変換! 今すぐ始める、Movaviオンラインでの無料コーナー</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-storm-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Storm 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ready-your-pc-for-windows-11s-tactile-interface/"><u>Ready Your PC for Windows 11'S Tactile Interface</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-c51-by-fonelab-android-recover-data/"><u>The way to get back lost data from C51</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-rated-font-creation-tools-for-discord-on-devices-for-2024/"><u>Top-Rated Font Creation Tools for Discord on Devices for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-desk-area-into-a-productive-haven-cumuluspro-mat-insights-revealed/"><u>Transform Your Desk Area Into a Productive Haven - CumulusPRO Mat Insights Revealed</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-find-n3-flip-by-fonelab-android-recover-music/"><u>Undelete lost music from Find N3 Flip</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-honor-magic5-ultimate-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-video-platform-suits-you-better-tiktok-or-youtube-shorts/"><u>Which Video Platform Suits You Better TikTok or YouTube Shorts?</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-data-retrieval-tool-restore-lost-data-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-data/"><u>Xiaomi Data Retrieval tool – restore lost data from Xiaomi Redmi Note 12 Pro 4G</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Learning From My Experience: Avoiding Risks While Shopping Through TikTok"
-date: 2024-10-29T00:34:59.284Z
-updated: 2024-11-03T20:15:52.266Z
+date: 2024-11-07T16:30:37.382Z
+updated: 2024-11-13T16:09:16.926Z
 tags:
   - web
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  TikTok Shop opened for business in November 2022, and the operation now generates more than $17 billion per year. Almost anyone can monetize their TikTok account using Shopify—which is how I got burned. Here's what you need to know to make sure it doesn't happen to you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Tale of Two TikTok Purchases
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  But who can resist the siren song of clothing and criss-cross chairs? Not me, apparently. Since I signed up for TikTok, I've made two purchases: a [viral oversized desk chair](https://www.amazon.com/Legged-Office-Armless-Computer-Adjustable/dp/B0CZLHFWL8/ref=sr%5F1%5F5?dib=eyJ2IjoiMSJ9.EYKqMjOnndRP7MShUqmOzZBgiPBKdwLlhpHETWBE2TO1s4a%5FiOHgexUu2sVrgA9MXTSiXV9ZdJx0%5Ftrvxq5caahoQAsYRLYi1BqnuR8KPv35286n7TBo0LYhksIhy3XgMIel5N1KvOUD7n8u4vry3KKSwTnmVF1hNHd3BEsWLqNX8EkeCC4%5FBjv5DF9jhNY1WTa3V8UDQdjPom8JEs26qD90ov-JewAEEIkAhYjz9JF7y621lAtnYpU8pQ6DqLNLTffBvck5gF8mtuNbr2vY0MxZPB3gRpnRf6LJ1teMrFM.fAmGlb014eQcxe5m1moZZ8MJENJo-Do1bOpdVSR6rb4&dib%5Ftag=se&hvadid=665639400447&hvdev=c&hvlocphy=1013462&hvnetw=g&hvqmt=e&hvrand=6948836597444604577&hvtargid=kwd-2162749065788&hydadcr=7665%5F13469258&keywords=viral+criss+cross+chair&qid=1718305400&sr=8-5&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003634&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-got-burned-shopping-on-tiktok-but-you-can-learn-from-my-mistake%2F&asc%5Fcampaign=Short-Term) and a [belted black jumpsuit](https://mccoyn.com/products/womens-sleeveless-wide-leg-jumpsuit). I sit upon my huge quilted throne as we speak, but the jumpsuit is lost to time and space (I got scammed out of $20).
 
  While the chair sale went through the typical TikTok Shop Shopify pipeline, at some point when purchasing the jumpsuit I was apparently lured to a third-party site. When the item never arrived and I requested a refund, I was met with radio silence. I'm not holding my breath.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How TikTok Shop Works
 
@@ -53,15 +46,22 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 ![Select 'Shop' in the bottom bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-_profile_-in-the-bottom-bar-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or, you can click the Shop link in a video to shop for the product that they're talking about:
 
 ![Click the TikTok shop link in a post to buy the item shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tiktok-shop-link.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Red Flags When Buying on TikTok
 
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  Lastly, avoid products with little description. Don't buy anything with little to no product specs or descriptions. Legit sellers will outline what you're getting and how you can return it. Look for contact info, too.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Practices for TikTok Shopping
@@ -103,21 +103,24 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-see-your-subscribers-on-youtube/"><u>[New] 2024 Approved How to See Your Subscribers on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-leading-editing-pros-in-dev-device-content/"><u>[New] 2024 Approved Leading Editing Pros in Dev Device Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-brief-scene-structure-summary/"><u>[New] Brief Scene Structure Summary</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-delve-into-youtube-metrics-using-the-power-of-social-blade/"><u>[New] Delve Into YouTube Metrics Using the Power of Social Blade</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-convenient-iphone-method-for-live-screen-capture/"><u>[Updated] In 2024, Convenient iPhone Method for Live Screen Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-infinite-snaps-ensuring-a-lasting-snapchat-connection/"><u>2024 Approved Infinite Snaps Ensuring a Lasting Snapchat Connection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-iphone-gps-apps-according-to-us/"><u>Discover the Best iPhone GPS Apps According to Us</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-the-game-day-magic-from-home-connect-espn-plus-to-your-lg-television-now/"><u>Enjoy the Game Day Magic From Home: Connect ESPN Plus to Your LG Television Now</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-y200e-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y200e 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-aspers-methodology-for-sleep-success/"><u>Navigating Asper's Methodology for Sleep Success</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-y200e-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Y200e 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-edge-40-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Edge 40 fingerprint</u></a></li>
-<li><a href="https://techidaily.com/you-must-know-how-to-configure-mt4-and-mt5-accounts-for-running-a-local-trade-copier-tm-together-with-any-other-forex-ea-by-mt4copier-guide/"><u>You must know how to Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-setting-up-facebook-live-your-roku-route/"><u>[New] In 2024, Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/remier-producer-a-choreography-of-colors-and-tones/"><u>[New] Premier Producer A Choreography of Colors & Tones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturing-your-cameras-magic-review-and-best-free-options/"><u>[Updated] In 2024, Capturing Your Camera's Magic – Review & Best FREE Options</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-zte-blade-a73-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For ZTE Blade A73 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creative-teaching-incorporating-youtube-into-your-curriculum-for-2024/"><u>Creative Teaching Incorporating YouTube Into Your Curriculum for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-ace-3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Ace 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-inception-to-innovation-unpacking-the-history-and-development-of-ios-versions-10-180/"><u>From Inception to Innovation: Unpacking the History and Development of iOS Versions 1.0-18.0</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-8-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 8 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 mini Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-skycheap-fileserver-economical-efficient-large-data/"><u>In 2024, SkyCheap Fileserver Economical, Efficient Large Data</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y55s-5g-2023-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y55s 5G (2023) Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-leading-microsoft-business-applications-of-2e3-for-the-modern-professional-featured/"><u>Top 10 Leading Microsoft Business Applications of 2E3| For the Modern Professional - Featured</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-huawei-nova-y91-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Huawei Nova Y91 | Dr.fone</u></a></li>
 </ul></div>
 

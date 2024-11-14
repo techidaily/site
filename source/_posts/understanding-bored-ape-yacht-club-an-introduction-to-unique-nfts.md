@@ -1,7 +1,7 @@
 ---
 title: "Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs"
-date: 2024-10-27T21:30:03.236Z
-updated: 2024-11-04T09:48:08.096Z
+date: 2024-11-12T16:06:46.322Z
+updated: 2024-11-13T16:07:56.632Z
 tags:
   - cutting-edge
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
  If you're scratching your head at the deluge of Gorillaz-style monkey avatars everywhere on the web, congratulations! You've just had your first encounter with the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and it might make even less sense than you imagine.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  NFT Avatars in a Nutshell
@@ -46,13 +46,6 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 ![NFTs on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nft-avatars.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Rokas Tenys/Shutterstock.com](https://www.shutterstock.com/image-photo/vilnius-lithuania-march-8-2021-nonfungible-1932205373)
 
  The Bored Ape avatars are a type of NFT image known as a "generative" image. There are various takes on this and NFT pioneers [Larvalabs](https://www.larvalabs.com/), famous for their similar [Cryptopunks avatars](https://www.larvalabs.com/cryptopunks), are possibly the earliest example before the boom.
@@ -61,6 +54,13 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
  Once the initial run of NFTs is purchased from the creators of the set, the monkey-trading begins. Owners of these NFTs can put them up for sale and see if there are any takers, and boy have there been some takers. Bored Ape Yacht Club NFT sales have totaled over [1 billion dollars](https://markets.businessinsider.com/news/currencies/bored-ape-yacht-club-nft-sales-1-billion-opensea-bayc-2022-1) alone. The current record for a [Bored Ape NFT is $3.4 million](https://hypebeast.com/2021/10/bored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse), although more typically they sell in the hundreds of thousands.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  OK, But Why Are They Worth Anything?
 
  The simplest answer to this is because people say they are worth something. This might sound a little trite, but the truth is that value is subjective. Humans tend to value things that are scarce or unique more than things that are commonplace and plentiful. We have irrational attachments to certain things too. A perfect replica of Elvis Presley's white jumpsuit might be worth a few hundred bucks, but the one that Elvis actually wore is worth more than a [million dollars](https://parade.com/1258636/lindsaylowe/elvis-presley-white-jumpsuit-outfit-sold-at-auction-find-out-price/).
@@ -68,10 +68,16 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  The real-world examples of things that have little intrinsic value (e.g. Issue 1 of Action Comics), but then sell for [insane amounts](https://www.supermanhomepage.com/action-comics-1-sells-for-record-price/). NFTs are worth what people are willing to pay for them, the hard part was convincing people to buy them in the first place, which is easier if you have a little help from a famous friend!
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Celebrities Are Going Bananas for Bored Apes
@@ -87,10 +93,10 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  Celebrity involvement in NFTs, especially the Bored Ape Yacht Club, also makes sense thanks to extra perks that come with Yacht Club membership. For example, there's an exclusive Discord server, and you might get invited to [exclusive parties](https://www.theverge.com/22824387/bored-ape-yacht-club-nft-party-new-york) where you might run into famous Bored Ape owners such as [Eminem](https://fortune.com/2022/01/03/eminem-nft-bored-ape-yacht-club/) (who spent $462 000 on his Bored Ape) or [Snoop Dogg](https://boardroom.tv/bored-ape-nft-celebrity-owners/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Are NFTs Exploding?
@@ -118,22 +124,20 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/uick-tips-to-create-dynamic-gifs-using-youtube-media/"><u>[New] Quick Tips to Create Dynamic GIFs Using YouTube Media</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-list-facebooks-top-10-vids-for-2024/"><u>[New] The Ultimate List Facebook's Top 10 Vids for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-video-formats-face-off-determining-the-best-av1-or-vp9-for-2024/"><u>[New] Video Formats Face Off Determining the Best, AV1 or VP9 for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-full-evaluation-what-makes-theta-s-special-for-2024/"><u>[Updated] Full Evaluation What Makes Theta S Special for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-the-obstacle-fixing-c1900101-during-win10-install/"><u>Bypassing the Obstacle: Fixing C1900101 During Win10 Install</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/establishing-reliability-through-email-campaigns-a-guide-with-massmail/"><u>Establishing Reliability Through Email Campaigns: A Guide with MassMail</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a34-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A34 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-smart-8-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Smart 8 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 7 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-11-proplus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 11 Pro+ phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-whatsapp-ringtones-for-iphone-and-android-users/"><u>Perfect WhatsApp Ringtones for iPhone & Android Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pitch-preservation-monitoring-microphones/"><u>Pitch Preservation Monitoring Microphones</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-reno-9a-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Reno 9A</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-infinix-hot-40-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-c12-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia C12.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-transformation-of-user-interaction-understanding-the-update/"><u>[New] 2024 Approved The Transformation of User Interaction Understanding the Update</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-secrets-of-successful-unboxing-reels-a-compreenasium-guide/"><u>[New] Secrets of Successful Unboxing Reels A Compreenasium Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transform-footage-into-stunning-ig-images/"><u>[New] Transform Footage Into Stunning IG Images</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-unlocking-hope-and-healing-discover-the-essentials-of-smart-recovery-program/"><u>1. Unlocking Hope and Healing: Discover the Essentials of Smart Recovery Program</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-screen-time-for-peaceful-phone-puzzles/"><u>2024 Approved Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-obtain-and-install-gigabyte-ethernet-drivers/"><u>Easy Guide: How to Obtain and Install Gigabyte Ethernet Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v29e-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V29e Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-xcover-7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy XCover 7 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-hot-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 30 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-blurring-techniques-for-cleaner-image-edits/"><u>In 2024, Blurring Techniques for Cleaner Image Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-tecno-spark-20-proplus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Tecno Spark 20 Pro+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-xiaomi-redmi-note-13-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Xiaomi Redmi Note 13 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-80-pro-straight-screen-edition-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 10 & 7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pc/"><u>ストリーム配信をキャプチャし、PCやスマホで安全に保管するためのテクニック</u></a></li>
 </ul></div>
 

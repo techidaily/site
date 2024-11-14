@@ -1,7 +1,7 @@
 ---
 title: "Mastering Login Names: How to Update Your Username in Windows 11/10 Efficiently"
-date: 2024-10-30T00:47:00.527Z
-updated: 2024-11-03T23:13:21.603Z
+date: 2024-11-06T16:01:22.574Z
+updated: 2024-11-13T16:13:51.278Z
 tags:
   - deals
 categories:
@@ -17,6 +17,19 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 * [How to Change a Local Account Name with Control Panel](https://youtube-tips.techidaily.com/024-approved-unlock-the-power-of-referrals-how-to-build-effective-youtube-links/)
 * [How to Change a Local Account Name With netplwiz](https://screen-mirroring-recording.techidaily.com/updated-in-2024-balancing-bitrate-in-obs-broadcasts/)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To change the user name of a Microsoft account, log in to your Microsoft Account, click on your name, and then click "Edit name."
@@ -24,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 * Alternatively, you can change the user name using netplwiz. Press Windows+R, type "netplwiz," select the user name you want to change, click "Properties," and then enter the new user name.
 
  If you want to change the user name associated with your Windows user account, you can — but there are different ways to change it depending on what kind of account you have. Here's how you do it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Change a Microsoft Account Name
 
@@ -42,20 +48,33 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![Click your name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-your-name.png) 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then look towards the bottom-right side of the first section — click "Edit name."
 
 ![Click "edit name."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-edit-name.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fill in your desired user name and the captcha in the popup, then click "Save."
 
 ![Fill out your name and captcha; then click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/fill-out-first-name-last-name-captcha-then-click-Save.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Change a Local Account Name with Control Panel
 
@@ -69,16 +88,22 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![Click &quot;User Accounts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-user-accounts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "User Accounts" again.
 
 ![Click &quot;User Accounts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-user-accounts.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on "Change your account name" in the list.
 
@@ -98,27 +123,26 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![Enter "netplwiz" in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the user name you want to change, and then click "Properties."
 
 ![Select the user account you want to change, and then click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/click-name-then-click-properties.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the new user name in the box, click "Apply," and then click "Ok."
 
 ![Enter name in box, click "Apply", then click "Ok."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/enter-name-then-click-apply-then-click-ok.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whether you're using a Microsoft account or a local account, you should restart your PC to make sure the changes stick.
 
@@ -139,24 +163,20 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-high-definition-devices-top-15-for-uhd-video/"><u>[New] 2024 Approved High-Definition Devices Top 15 for UHD Video</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-your-facebook-cover-leading-websites-for-professionals-for-2024/"><u>[New] Enhancing Your Facebook Cover Leading Websites for Professionals for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-integrating-visuals-into-windows-10-with-finesse/"><u>[New] Ultimate Guide Integrating Visuals Into Windows 10 with Finesse</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-the-power-of-facebook-slideshows-in-digital-marketing/"><u>[Updated] In 2024, Unlocking the Power of Facebook Slideshows in Digital Marketing</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze 2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/daenerys-dialer-leading-online-picks-to-download-game-ringtones/"><u>Daenerys' Dialer Leading Online Picks to Download Game Ringtones</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-creating-intriguing-movie-summaries/"><u>In 2024, Creating Intriguing Movie Summaries</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-14-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 14 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-itel-s23-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel S23 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-launch-issues-top-troubleshooting-strategies/"><u>League of Legends Launch Issues: Top Troubleshooting Strategies</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-poco-m6-pro-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/transform-your-video-footage-with-advanced-screen-recording-tech/"><u>Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-magic5-ultimate-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Magic5 Ultimate.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Xiaomi .</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-6s-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 6s is not listed when I run the software? | Stellar</u></a></li>
-<li><a href="https://win-web.techidaily.com/windows-11-takes-the-lead-amongst-engineering-circles-insights-from-microsoft-on-latest-os-trend-zdnet-news/"><u>Windows 11 Takes the Lead Amongst Engineering Circles - Insights From Microsoft on Latest OS Trend | ZDNet News</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-top-10-facebook-video-players-for-2024/"><u>[Updated] Top 10 Facebook Video Players for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unplugged-thrills-10-best-screen-free-gaming-on-android-devices/"><u>[Updated] Unplugged Thrills 10 Best Screen-Free Gaming on Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-resolved-troubleshooting-video-playback-issues-in-the-reddit-application-across-both-android-and-ios-platforms/"><u>1. Resolved: Troubleshooting Video Playback Issues in the Reddit Application Across Both Android and iOS Platforms</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-a60s-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel A60s Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y200e-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y200e 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y55s-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y55s 5G (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-moto-g04-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Moto G04 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/instant-social-interaction-tweetplusfb-guide/"><u>Instant Social Interaction Tweet+FB Guide</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-magic-vs-2-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor Magic Vs 2.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-ocidll-file-couldnt-be-loaded-issue/"><u>Ultimate Guide: Resolving the Oci.dll File Couldn't Be Loaded Issue</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-oculus-quest-potential-outstanding-vr-adventure-for-great-savings/"><u>Unlocking the Oculus Quest Ⅱ Potential - Outstanding VR Adventure for Great Savings!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-computing-a-tour-of-toms-gadget-world/"><u>Unveiling the Latest in Computing - A Tour of Tom's Gadget World</u></a></li>
 </ul></div>
 

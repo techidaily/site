@@ -1,7 +1,7 @@
 ---
 title: The Evolution From VR to XR - Understanding How Extended Reality Could Dominate the Market.
-date: 2024-11-01T21:47:44.246Z
-updated: 2024-11-04T01:52:19.930Z
+date: 2024-11-07T16:35:01.255Z
+updated: 2024-11-13T16:24:20.474Z
 tags:
   - cutting-edge
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Extended Reality (XR) is a term that encompasses several technologies but also describes a spectrum of reality-changing methods including Virtual Reality (VR), [Augmented Reality](https://article-knowledge.techidaily.com/2024-approved-elevate-your-entertainment-perfecting-the-art-of-using-netflixs-floating-window-feature/) (AR), and Mixed Reality (MR). XR brings all of these ideas under a single umbrella.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ingredient 1: Virtual Reality
 
  Virtual Reality is probably the component of XR that most people are familiar with. Within the XR spectrum, VR stands alone as the only technology that completely disconnects you from reality. At the very least, VR replaces your vision and hearing of the world around you with a simulates virtual world. More advanced forms of VR also include [haptic feedback](https://instagram-video-files.techidaily.com/orientation-overhaul-instagrams-video-rotation-secret-for-2024/), which is the term used for the various forms of touch feedback.
@@ -34,15 +27,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 [VR headsets](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) like the Oculus Quest 2 let you instantly travel to somewhere else entirely, letting you feel "presence" in a virtual world separate from the one you're actually occupying.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ingredient 2: Augmented Reality
 
 ![A smartphone showing the Pokemon Go mobile game in an outdoor setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/pokemon-go-augmented-reality.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Matthew Corley/Shutterstock.com](https://www.shutterstock.com/image-photo/santa-cruz-california-july-12-2016-451598275)_
 
@@ -56,16 +56,16 @@ Related: [What Is Machine Learning?](https://some-tips.techidaily.com/new-unleas
 
  AR is a broad concept and it also includes some things many people wouldn't expect. For example, a heads-up display (HUD) found in fighter planes and some modern cars would qualify as AR. As long as digital information is being projected on your view of the real world, it's AR.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ingredient 3: Mixed Reality
 
 ![Business-people using MR headsets to examine and discuss a miniature city-scape.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/mr-headsets-cityscape.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/two-business-persons-developing-project-using-390162811)_
 
@@ -78,10 +78,10 @@ _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/
  That being said, MR is already mainstream with headsets that have external cameras for motion tracking also integrate basic MR features. For example, the [Oculus Quest](https://extra-guidance.techidaily.com/revolutionize-your-designs-incorporating-3d-text-psx-for-2024/) can use its monochrome external tracking cameras to bring objects such as your real-world couch or keyboard into VR. Turning it into an MR experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Will XR Replace VR?
@@ -105,24 +105,18 @@ _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-cutting-edge-excellence-top-editors-for-videos/"><u>[New] 2024 Approved Cutting Edge Excellence Top Editors for Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero4-vs-gopro-hero5-showdown/"><u>[New] GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-full-potential-saving-and-playing-gifs-on-iphones/"><u>[Updated] Unlocking Full Potential Saving & Playing GIFs on iPhones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-ppt-video-flow-rates/"><u>2024 Approved Optimizing PPT Video Flow Rates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-top-six-troubleshooting-tips-fixing-the-most-common-gaffes/"><u>ChatGPT's Top Six Troubleshooting Tips: Fixing the Most Common Gaffes</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-k11x-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo K11x Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-7-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 7 Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro Max System Issues? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y17s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y17s Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a54-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A54 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-app-dev-editors-top-15-selection-for-2024/"><u>Superior App Dev Editors Top 15 Selection for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-zte-by-fonelab-android-recover-video/"><u>The way to get back lost videos from ZTE</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nubia-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nubia</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-find-n3-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo Find N3</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-reimagining-team-call-backdrops-beforeafter-chats/"><u>[New] In 2024, Reimagining Team Call Backdrops Before/After Chats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-site-visibility-using-cookiebots-advanced-tracking-solutions/"><u>Elevate Your Site Visibility Using Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/emulating-success-how-this-exceptional-tea-timer-inspires-superior-app-design/"><u>Emulating Success: How This Exceptional Tea Timer Inspires Superior App Design</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-picks-for-best-timelapse-tools-for-2024/"><u>Expert Picks for Best Timelapse Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-11-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme 11 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/les-5-facons-magistrales-de-nettoyer-entierement-vos-fichiers-sur-un-ordinateur-avec-windows-11/"><u>Les 5 Façons Magistrales De Nettoyer Entièrement Vos Fichiers Sur Un Ordinateur Avec Windows 11</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v12-files-on-my-mac-using-tool-by-stellar-guide/"><u>Repair corrupt PDF v1.2 files on my Mac using tool</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-6s-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 6s</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-nubia-red-magic-9-proplus-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Nubia Red Magic 9 Pro+ password or pattern lock</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-camon-20-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-11sfc-scannow/"><u>Windows 11で「sfc /Scannow」コマンドの実行方法 - ステップバイステップガイド</u></a></li>
 </ul></div>
 

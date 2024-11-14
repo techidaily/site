@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2024-10-31T01:11:47.554Z
-updated: 2024-11-03T19:38:27.491Z
+date: 2024-11-12T16:10:54.105Z
+updated: 2024-11-13T16:19:07.548Z
 tags:
   - deals
 categories:
@@ -18,10 +18,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Turn Off Sleep Mode on Your Windows PC](https://hardware-help.techidaily.com/get-the-newest-hp-officejet-pro-8720-windows-driver-software-free-of-charge/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * To prevent your PC from automatically entering sleep mode, navigate to Control Panel > Hardware and Sound > Power Options > Change When the Computer Sleeps, select "Never" from the "Put the Computer to Sleep" drop-down menus, and choose "Save Changes".
 
  Does Windows 11 or Windows 10 continue your file downloads when your PC enters sleep mode? Do you want to download a file but are worried sleep mode will interrupt that download? We’ll answer those questions as well as give you some relevant tips here in this guide. Let’s dive in.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Can You Keep Downloads Running While Windows Is in Sleep Mode?
 
@@ -52,10 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Hardware and Sound' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/1-hardware-sound-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the following screen, select "Power Options".
@@ -70,14 +69,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['When I Close the Lid' and 'Save Changes' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-do-nothing-close-lid-control-panel.jpg) 
 
- All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
 
 ##  How to Turn Off Sleep Mode on Your Windows PC
 
@@ -90,6 +89,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  On the following screen, in the "Put the Computer to Sleep" drop-down menus, select "Never" for both. Then, click "Save Changes".
 
 !["Put the Computer to Sleep" and "Save Changes" highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/6-disable-windows-sleep.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -110,18 +116,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-100-safe-sources-for-legitimate-tiktok-growth/"><u>[New] 2024 Approved 100% Safe Sources for Legitimate TikTok Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/799-apple-m2-macbook-air-release-sets-new-standard-before-prime-day-latest-news/"><u>$799 Apple M2 MacBook Air Release Sets New Standard Before Prime Day - Latest News</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-every-angle-samsungs-pro-versus-lgs/"><u>Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-italys-recent-decision-to-halt-access-to-chatgpt-effectively-and-abruptly/"><u>Decoding Italy's Recent Decision to Halt Access to ChatGPT Effectively and Abruptly</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/y-hitlist-the-leading-youtube-videos-by-watch-time-for-2024/"><u>Hourly Hitlist The Leading YouTube Videos by Watch Time for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/iphone-image-transfer-methods-explained/"><u>IPhone Image Transfer Methods Explained</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/preserving-past-a-guide-to-digitally-archiving-faded-prints-for-2024/"><u>Preserving Past A Guide to Digitally Archiving Faded Prints for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-c51-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from C51</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-x-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone X lock with iTunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-3-best-ways-to-get-pinterest-video-to-mp3-downloaded/"><u>[New] 3 Best Ways to Get Pinterest Video to MP3 Downloaded</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-visibility-popularize-your-youtube-short-videos-for-2024/"><u>[New] Enhancing Visibility Popularize Your YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-focus-on-yourself-insta-stylezoom-techniques-explained/"><u>[New] Focus on Yourself Insta Style—Zoom Techniques Explained</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unveiling-the-mystery-of-private-storymaking-in-snapchat/"><u>[New] In 2024, Unveiling the Mystery of Private Storymaking in Snapchat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>2024 Approved Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/playlist-passport-traveling-tunes-throughout-platforms-for-2024/"><u>Playlist Passport Traveling Tunes Throughout Platforms for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-find-n3-flip-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Find N3 Flip</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-edge-2023-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Edge 2023 password or pattern lock</u></a></li>
+<li><a href="https://techidaily.com/y78plus-video-recovery-recover-deleted-videos-from-y78plus-by-fonelab-android-recover-video/"><u>Y78+ Video Recovery - Recover Deleted Videos from Y78+</u></a></li>
 </ul></div>
 

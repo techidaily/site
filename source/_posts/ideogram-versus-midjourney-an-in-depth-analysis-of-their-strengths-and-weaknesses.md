@@ -1,7 +1,7 @@
 ---
 title: Ideogram versus Midjourney - An In-Depth Analysis of Their Strengths and Weaknesses
-date: 2024-10-28T16:01:44.438Z
-updated: 2024-11-04T05:44:48.966Z
+date: 2024-11-09T16:02:32.827Z
+updated: 2024-11-13T16:04:42.841Z
 tags:
   - cutting-edge
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That being said, as I write this, MidJourney has rolled out an alpha version of their web interface, which is open to subscribers who have made more than 1000 images. I've been using it extensively, and it's far more polished than the Discord interface for MidJourney. Still, it has a long way to go and still relies on text commands for some features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pricing: Ideogram Is Generous
@@ -49,6 +49,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Ideogram is generally more generous. For example, the $30 standard plan offers 15 hours of "fast" server time, which should be around 1000 prompts of four images output based on my experience. Ideogram offers 1000 prompts resulting in 4000 images of "priority" time. So about the same, but 33% less expensive on the Ideogram side of things. Don't forget that this tier includes private generations, so it's great value for money. Both offer unlimited standard speed generation at this tier.
 
  The two basic tiers are priced similarly, with Ideogram costing $8 and Midjourney $10, but the value of Ideogram is far better. You get twice as many prompts and images in fast time as MidJourney, and unlike MidJourney that has a hard cap on this tier, you can do 100 prompts a day at no additional cost at standard speeds.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Prompt Adherence: Six of One, Half Dozen of the Other
 
@@ -68,13 +75,6 @@ Sydney Louw Butler/How-To Geek/ MidJourney
 
 ![Four robots drawn by Ideogram using the prompt 'Painting of a robot looking directly at the viewer. In the robot's left hand is an apple. In the robot's right hand is an orange. The robot is purple and green.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ideogram-robots.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sydney Louw Butler/How-To Geek/ Ideogram
 
  However, Ideogram did interpret the prompt as meaning my left rather than the robot's left, whereas MidJourney's two correct images also got the perspective right. Apart from this example, I've run hundreds of images through both, and on average you'll get more images from Ideogram that stick closer to your prompt, with MidJourney taking more creative liberties. Of course, this could change at any time as the two models are tweaked and updated.
@@ -87,13 +87,6 @@ Sydney Louw Butler/How-To Geek/ Ideogram
 
  Midjourney also has an inpainting function known as "vary region" where you can mark areas of an otherwise perfect image to try and re-generate a new section. So if a hand came out wrong, mark it and try again. Most likely it will look right the second time around, and you get to keep the image you liked. In general, Midjourney lets you do more things after an image has been generated, with Ideogram offering a "remix" option where you can use an existing image as a starting point, but no inpainting function that I could find.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Text Accuracy: Ideogram Nails It
 
  For a long time, asking an AI image generator to add text to the image was a fool's errand, and you'd just get garbled text that meant nothing. With modern generators, this is a feature that's been explicitly added. However, the success rate is never 100%, and for MidJourney this is a major weakness compared to Ideogram. Ideogram gets it right about 80% of the time and MidJourney around 20% of the time based on my attempts. Of course, your mileage may vary, but I have no doubt that Ideogram is better in this regard, which makes it perfect to generate graphic art like stickers. Here I asked both systems to write some text on a coffee mug. First Midjourney:
@@ -101,10 +94,10 @@ Sydney Louw Butler/How-To Geek/ Ideogram
 ![Four coffe mugs generated by MidJourney with an attempt at writing 'Tested by HTG' on them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-25-at-12-32-24.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek/MidJourney
@@ -112,6 +105,13 @@ Sydney Louw Butler/How-To Geek/MidJourney
  Here's Ideogram's attempt, which was far more successful:
 
 ![Four cups attempted by Ideogram mean to have the text 'Tested by HTG' written on them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-25-at-12-33-06.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek/Ideogram
 
@@ -134,16 +134,18 @@ Sydney Louw Butler/How-To Geek/Ideogram
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-effortless-no-cost-screening-of-android-gadgets-for-2024/"><u>[New] Effortless, No-Cost Screening of Android Gadgets for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-personalized-settings-not-responding/"><u>[SOLVED] Personalized Settings (Not Responding)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-kinemaster-zoom-mastery-guide-a-filmmakers-toolkit/"><u>[Updated] Kinemaster Zoom Mastery Guide A Filmmaker's Toolkit</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevate-your-filmmaking-top-strategies-for-gopro-timelapses/"><u>Elevate Your Filmmaking Top Strategies for GoPro Timelapses</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-liberated-escaping-platform-chains/"><u>Gaming Liberated: Escaping Platform Chains</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 3 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-experience-8-expert-solutions-to-counteract-vrchat-issues-on-pcs/"><u>Revamp Your Gaming Experience - 8 Expert Solutions to Counteract VRChat Issues on PCs</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy Z Flip 5 won’t play MP4 files</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-play-40c-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Play 40C</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-narzo-60-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme Narzo 60 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-huawei-nova-y71-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Huawei Nova Y71</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-flair-in-your-makeup-routine-top-tutorial-insights/"><u>[New] 2024 Approved Flair in Your Makeup Routine Top Tutorial Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-screen-casting-on-your-phone-for-2024/"><u>[New] The Ultimate Guide to Screen Casting on Your Phone for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transform-ordinary-to-outstanding-creating-captivating-square-videos-on-fb/"><u>[Updated] Transform Ordinary to Outstanding Creating Captivating Square Videos on FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ae-text-excellence-discover-our-best-10-ideas/"><u>AE Text Excellence Discover Our Best 10 Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/benevolent-algorithms-is-ai-truly-sensitive-to-human-feelings/"><u>Benevolent Algorithms: Is AI Truly Sensitive to Human Feelings?</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-mix-fold-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Mix Fold 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-x50i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X50i in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c32-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C32 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-proplus-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 Pro+ 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-profitability-on-yt-post-monetization-financial-steps/"><u>In 2024, Streamline Profitability on YT – Post-Monetization Financial Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-i-opt-for-windows-11s-modern-features-and-performance/"><u>Should I Opt for Windows 11'S Modern Features and Performance?</u></a></li>
 </ul></div>
 

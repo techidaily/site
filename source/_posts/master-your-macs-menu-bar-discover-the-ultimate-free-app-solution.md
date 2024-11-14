@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mac's Menu Bar: Discover the Ultimate Free App Solution"
-date: 2024-10-30T16:00:43.885Z
-updated: 2024-11-03T19:48:05.926Z
+date: 2024-11-08T16:17:37.716Z
+updated: 2024-11-13T16:05:08.886Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
  MacOS is a generally well-thought-out, intuitive, and user-friendly operating system, but the user interface falls short in one place: the menu bar. Here's how to wrangle all of your menu bar icons using the free Hidden Bar app.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Is Your macOS Menu Bar Getting Crowded?
 
  Just to be clear, we're talking about the menu bar in the top-right of the screen, where the battery meter, clock and icons for running background apps are found. By default, it's pretty sparse and well-organized.
@@ -26,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 ![iPhone notifications on a MacBook in iPhone Mirroring mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/macos-sequoia-iphone-mirroring-iphone-notifications.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -47,19 +48,19 @@ Apple
 ![A messy macOS menu bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  My macOS menu bar. It's a total mess.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Hidden Bar to the Rescue
@@ -67,13 +68,6 @@ Apple
 [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12 "https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12") is a free (that is, completely free, without in-app purchases) app that solves this. All you have to do is install it, and it hides all of your lesser-used menu bar icons behind a little arrow, like this:
 
 ![Hidden Bar for macOS showing a cleaned up menu bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  My macOS menu bar, now showing only the icons I use.
 
@@ -96,22 +90,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-no-fee-budget-friendly-screen-reader-pro/"><u>[New] 2024 Approved No-Fee Budget-Friendly Screen Reader Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-simplifying-screen-views-during-google-meet-chats/"><u>[New] In 2024, Simplifying Screen Views During Google Meet Chats</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-creating-captivating-thumbnails-for-youtube/"><u>[Updated] Creating Captivating Thumbnails for YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-future-of-cloud-storages-top-picks-to-consider/"><u>2024 Approved The Future of Cloud Storages Top Picks to Consider</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-huawei-nova-y91-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Huawei Nova Y91 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X6 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m34-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M34 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-razr-40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Razr 40 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-game-strategies-for-stellar-gaming-youtube-banners/"><u>In 2024, Elevate Your Game Strategies for Stellar Gaming YouTube Banners</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-loops-crafting-comical-content-for-brevity-based-videos/"><u>Laugh Loops Crafting Comical Content for Brevity-Based Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metaverse-matchmakers-top-friend-focused-ventures/"><u>Metaverse Matchmakers Top Friend-Focused Ventures</u></a></li>
-<li><a href="https://win-web3.techidaily.com/passo-a-passo-crie-um-disco-de-inicializacao-com-windows-pe-linux-ou-ubuntu-em-usuarioiso/"><u>Passo a Passo: Crie Um Disco De Inicialização Com Windows PE, Linux Ou Ubuntu Em Usuário/ISO</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y27s-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y27s on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/showcasing-the-best-of-image-integration-in-frames-for-24/"><u>Showcasing the Best of Image Integration in Frames for '24</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-infinix-hot-30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-razer-manowar-mic-not-working/"><u>[SOLVED] Razer ManO’War Mic Not Working</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-acclaimed-software-rankings-top-10-phonepc-video-calls-for-2024/"><u>[Updated] Acclaimed Software Rankings Top 10 Phone/PC Video Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-practical-steps-for-immediate-deletion-on-youtube-platform/"><u>[Updated] Practical Steps for Immediate Deletion on Youtube Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/einfachheit-perfekt-machen-einstellen-von-handbrake-fur-hevch265-kodierung/"><u>Einfachheit Perfekt Machen: Einstellen Von HandBrake Für HEVC/H.265-Kodierung</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-note-12-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi Note 12 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-20-proplus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 20 Pro+ Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-10-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 10 Pro 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-realme-narzo-60-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/resmi-tutorial-mengenai-cara-gunakan-recovery-file-windows-microsoft-untuk-menyelesaikan-masalah-dalam-windows-1011/"><u>Resmi Tutorial Mengenai Cara Gunakan Recovery File Windows Microsoft Untuk Menyelesaikan Masalah Dalam Windows 10/11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stability-strategies-ensuring-smooth-gaming-experience-for-fallout-3-on-windows-11-computers/"><u>Stability Strategies: Ensuring Smooth Gaming Experience for Fallout 3 on Windows 11 Computers</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-crashing-on-windows-computers/"><u>Top 8 Solutions to Prevent Marvel's Guardians of the Galaxy From Crashing on Windows Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Power of Desktop Widgets Unleashed: Time to Get On Board!"
-date: 2024-11-03T12:29:54.831Z
-updated: 2024-11-04T14:06:59.609Z
+date: 2024-11-12T16:41:28.344Z
+updated: 2024-11-13T16:01:40.470Z
 tags:
   - deals
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  Widgets on a desktop computer have always seemed like more of a nuisance than a helpful feature to me, but over the years widgets have become both more useful and more usable—which is why I'm finally buying in to them.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  macOS Sonoma Finally Sold Me on Widgets
@@ -38,13 +38,20 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ![The MacOS Sonoma Widget Gallery showing several widgets and widget categories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-13-at-11-05-13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, it also helps that I recently got back on the [ultrawide monitor](https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-130-music-drfone-by-drfone-virtual-android/) train, which provides even more room to tuck away useful widgets, but even on my MacBook's native 13-inch screen, Sonoma gets them right.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About Widgets in Windows 11?
@@ -54,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 ![The Windows 11 Widget Bar showing a weather, photo, and map widget along with several news items.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This bit of friction (and other [ways Microsoft ruined widgets](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/)) means that I hardly bother with Windows 11 widgets. If they aren't visible at a glance, I don't think they're particularly useful. However, you can have always-visible widgets on the Windows 11 desktop by using third-party software such as [Widget Launcher](https://apps.microsoft.com/detail/widget-launcher/9WZDNCRDQFBT).
@@ -67,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  I'm hopeful that Microsoft will eventually give us native widgets closer to what macOS Sonoma now offers, but for now you'll need to do a little customization with third-party tools to get something similar to what macOS offers.
 
  If you're a Linux user, you have even more latitude, but perhaps a little more effort is required. With the latest [KDE Plasma desktop](https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/), widgets have also received significant improvements and are just as easy to use as on macOS, so that's well worth checking out if you're a Linux fan.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why You Should Consider Desktop Widgets
 
@@ -101,18 +107,18 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-simple-routines-for-saving-instagram-stories-efficiently-for-2024/"><u>[New] Simple Routines for Saving Instagram Stories Efficiently for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-good-to-great-elevate-your-tiktok-edits/"><u>[Updated] From Good to Great Elevate Your TikTok Edits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-microsoft-unveils-future-a-3d-reality-with-hololens/"><u>[Updated] In 2024, Microsoft Unveils Future A 3D Reality With HoloLens</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elite-anonymity-in-story-consumption-top-5-apps/"><u>2024 Approved Elite Anonymity in Story Consumption, Top 5 Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-amazon-prime-day-savings-in-october-2024-exclusive-deals-and-discounts-zdnets-guide/"><u>Best Amazon Prime Day Savings in October 2024 - Exclusive Deals & Discounts | ZDNet's Guide</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-x-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone X Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-nubia-z50s-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nubia Z50S Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hasty-and-hassle-free-images-on-windows-11/"><u>Hasty & Hassle-Free Images on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2020-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2020) iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y27-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y27 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-gt-5-240w-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme GT 5 (240W) PC | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-y78plus-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo Y78+ password or pattern lock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-key-elements-in-constructing-a-podcast-rss-feed-for-2024/"><u>[Updated] Key Elements in Constructing a Podcast RSS Feed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-for-gaining-access-to-the-best-clip-art/"><u>[Updated] Step by Step for Gaining Access to the Best Clip Art</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>2024 Approved Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-most-favored-5-iphones-podcast-apps/"><u>2024 Approved Most Favored 5 iPhones Podcast Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-6-bargains-for-your-homes-ultimate-viewing/"><u>2024 Approved Prime 6 Bargains for Your Home's Ultimate Viewing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tless-guide-to-secure-and-free-youtube-music-downloads-for-2024/"><u>Effortless Guide to Secure and Free YouTube Music Downloads for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-overcoming-common-televisual-malfunctions/"><u>Essential Tips for Overcoming Common Televisual Malfunctions</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-13c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi 13C Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>In 2024, Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-12-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme 12 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-edgeplus-2023-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Edge+ (2023) without backup.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-reno-9a-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Reno 9A to Gmail | Dr.fone</u></a></li>
 </ul></div>
 
