@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Text Insights: Best FREE AI Applications for PDF Examination"
-date: 2024-11-06T16:40:45.894Z
-updated: 2024-11-13T16:05:27.690Z
+date: 2024-11-13T00:11:49.448Z
+updated: 2024-11-14T10:27:19.390Z
 tags:
   - cutting-edge
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![ChatGPT logo with some circuits on the sides and a man programming on a desktop in the background with some codes on the left side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chat-gpt-hero-image.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In May 2024, OpenAI introduced several [cutting-edge features to the free version](https://buynow-info.techidaily.com/in-depth-review-on-apples-compact-audio-genius-the-homepod-mini-experience-with-music-and-ai-capabilities/), including document upload capabilities inside [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/). This means you no longer need to register for a premium plan to sift through your lengthy documents. With its advanced data analysis model, you can now analyze, combine, reshape, or retrieve information from your uploaded documents.
 
  Simply, log in to [ChatGPT](https://chatgpt.com/) using your OpenAI, Google, or Microsoft account. After logging in, click the paperclip icon next to the text box and upload your PDF file directly from your computer. You can also connect to your Microsoft OneDrive or Google Drive accounts and import your PDF file from there.
@@ -39,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 ![Upload document to ChatGPT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/upload-document-to-chatgpt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the document is uploaded, you can ask ChatGPT to summarize it, answer questions, or perform more complex tasks like extracting action items and formatting them into an email. In essence, you can not "chat" with your PDF, since the information and knowledge inside it is also now inside ChatGPT, at least for the duration of this particular chat.
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![Perplexity AI on a smartphone screen with a notebook screen in the background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/perplexity-ai-on-a-smartphone-screen-with-a-notebook-screen-in-the-background.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lucas Gouveia / Shutterstock / How-To Geek
 
 [Perplexity AI](https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-recording-on-your-macbook/), launched in 2022, is a [conversational search engine](https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-live-tweeting-tactics/) designed to give you concise and accurate answers using various advanced language models like GPT-4o, [Llama](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/), or Claude. Unlike typical chatbots, it emphasizes providing reliable information backed by citations, making it an excellent tool for research.
@@ -78,16 +78,10 @@ Lucas Gouveia / Shutterstock / How-To Geek
 ![Upload document to Perplexity AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/upload-document-to-perplexity-ai.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've uploaded your document, you can summarize key points, proofread, clarify complex topics, and explore related areas of interest. You can also ask follow-up questions, as Perplexity remembers the context, allowing the conversation to flow smoothly and stay on track.
@@ -106,22 +100,15 @@ Microsoft
 
 ![Using Copilot in Microsoft Edge to generate summary of opened PDF file.-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/using-copilot-in-microsoft-edge-to-generate-summary-of-opened-pdf-file-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For more accurate results, you can also manually choose the opened PDF as a source.
 
 ![Changing input source of Copilot from web to 'This Page' in Microsoft Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/changing-input-source-of-copilot-from-web-to-this-page-in-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microsoft Copilot can handle queries up to 18,000 to 20,000 words long. However, the PDF should contain at least 300 words of text for the tool to generate meaningful summaries. Without this minimum, the Copilot might struggle to provide accurate insights, which could impact your document analysis.
@@ -139,6 +126,19 @@ Katie Rees/HowtoGeek
  To begin, simply visit the official [HuggingChat website](https://huggingface.co/chat/) and create an account. Next, log in to your account and upload the PDF file by clicking on the "Upload File" button.
 
 ![Upload document to HuggingChat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/upload-document-to-huggingchat.png) 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To ensure you get results from your PDF, keep its size under 1MB; otherwise, it might not work. Furthermore, you can also switch your default LLM to different available models, such as Llama 70B, Llama 3.1 405B, or Mistral 7B by opening your HuggingChat model setting.
 
@@ -163,17 +163,16 @@ Katie Rees/HowtoGeek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-diving-into-instagrams-visual-story-segments/"><u>[Updated] 2024 Approved Diving Into Instagram's Visual Story Segments</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] 2024 Approved Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-15-essential-skills-for-recording-digital-music/"><u>[Updated] Explore 15 Essential Skills for Recording Digital Music</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-perfecting-your-hulu-capture-pc-macios-android-tips/"><u>2024 Approved Perfecting Your Hulu Capture PC, Mac/iOS, Android Tips</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-v30t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme V30T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-tecno-spark-20-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Spark 20 Pro+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-13-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 13 Pro or iPad?</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g73-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G73 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 4G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-must-have-video-invite-tools-for-ios-and-android-users/"><u>New 2024 Approved Must-Have Video Invite Tools for iOS and Android Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-downloading-and-upgrading-brother-mfc-7prise-drivers-in-windows-1087/"><u>Step-by-Step Tutorial for Downloading & Upgrading Brother MFC-7prise Drivers in Windows 10/8/7</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-dotm-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .dotm file documents online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-cutting-edge-tools-for-instagrams-most-trendy-reels/"><u>[New] 2024 Approved Cutting-Edge Tools for Instagram's Most Trendy Reels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elegant-architecture-top-6-sleek-mc-houses/"><u>[New] 2024 Approved Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-channel-cash-flow-management-for-youtubers-for-2024/"><u>[New] Channel Cash Flow Management for YouTubers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-legends-unite-battle-for-midgard/"><u>[New] In 2024, Legends Unite Battle for Midgard</u></a></li>
+<li><a href="https://techidaily.com/solved-oculus-quest-2-not-connecting-to-pc/"><u>[SOLVED] Oculus Quest 2 Not Connecting to PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bug-fix-update-for-p3-reloaded-no-more-pc-game-disruptions/"><u>Bug Fix Update for P3 Reloaded: No More PC Game Disruptions!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-crack-the-code-4-easy-ways-to-get-filmora-discounts-and-promotions/"><u>New In 2024, Crack the Code 4 Easy Ways to Get Filmora Discounts and Promotions</u></a></li>
+<li><a href="https://techidaily.com/quick-guide-seamlessly-linking-bluetooth-speaker-and-laptop-together/"><u>Quick Guide: Seamlessly Linking Bluetooth Speaker and Laptop Together</u></a></li>
+<li><a href="https://techidaily.com/quickly-find-out-how-much-ram-you-have-in-windows-easy-tutorial-inside/"><u>Quickly Find Out How Much RAM You Have in Windows – Easy Tutorial Inside</u></a></li>
+<li><a href="https://techidaily.com/solving-gameplay-interruptions-a-guide-to-handling-fps-drops-in-beyond-light/"><u>Solving Gameplay Interruptions: A Guide to Handling FPS Drops in BEYOND LIGHT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-lava-blaze-2-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Lava Blaze 2 Pro Location | Dr.fone</u></a></li>
 </ul></div>
 

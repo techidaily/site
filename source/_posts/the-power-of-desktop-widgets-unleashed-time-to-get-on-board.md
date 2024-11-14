@@ -1,7 +1,7 @@
 ---
 title: "The Power of Desktop Widgets Unleashed: Time to Get On Board!"
-date: 2024-11-12T16:41:28.344Z
-updated: 2024-11-13T16:01:40.470Z
+date: 2024-11-07T02:48:30.884Z
+updated: 2024-11-14T03:27:10.043Z
 tags:
   - deals
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  Widgets on a desktop computer have always seemed like more of a nuisance than a helpful feature to me, but over the years widgets have become both more useful and more usable—which is why I'm finally buying in to them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  macOS Sonoma Finally Sold Me on Widgets
 
  I'm a stickler for a minimalist and clean desktop. When I wrote that it was time to [stop using desktop icons](https://video-screen-grab.techidaily.com/in-2024-professional-tips-for-efficient-screen-casting-in-meet/), it certainly ruffled the feathers of people who seem to enjoy the clutter. I argued that, while I wasn't a fan of widgets, they were still a better use of desktop real estate than shortcut icons or file folders, both of which can be accessed more quickly via other means.
@@ -39,19 +32,19 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 ![The MacOS Sonoma Widget Gallery showing several widgets and widget categories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-13-at-11-05-13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, it also helps that I recently got back on the [ultrawide monitor](https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-130-music-drfone-by-drfone-virtual-android/) train, which provides even more room to tuck away useful widgets, but even on my MacBook's native 13-inch screen, Sonoma gets them right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About Widgets in Windows 11?
@@ -61,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 ![The Windows 11 Widget Bar showing a weather, photo, and map widget along with several news items.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This bit of friction (and other [ways Microsoft ruined widgets](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/)) means that I hardly bother with Windows 11 widgets. If they aren't visible at a glance, I don't think they're particularly useful. However, you can have always-visible widgets on the Windows 11 desktop by using third-party software such as [Widget Launcher](https://apps.microsoft.com/detail/widget-launcher/9WZDNCRDQFBT).
@@ -80,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  I'm hopeful that Microsoft will eventually give us native widgets closer to what macOS Sonoma now offers, but for now you'll need to do a little customization with third-party tools to get something similar to what macOS offers.
 
  If you're a Linux user, you have even more latitude, but perhaps a little more effort is required. With the latest [KDE Plasma desktop](https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/), widgets have also received significant improvements and are just as easy to use as on macOS, so that's well worth checking out if you're a Linux fan.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why You Should Consider Desktop Widgets
 
@@ -107,18 +101,22 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-key-elements-in-constructing-a-podcast-rss-feed-for-2024/"><u>[Updated] Key Elements in Constructing a Podcast RSS Feed for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-for-gaining-access-to-the-best-clip-art/"><u>[Updated] Step by Step for Gaining Access to the Best Clip Art</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>2024 Approved Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-most-favored-5-iphones-podcast-apps/"><u>2024 Approved Most Favored 5 iPhones Podcast Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-6-bargains-for-your-homes-ultimate-viewing/"><u>2024 Approved Prime 6 Bargains for Your Home's Ultimate Viewing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tless-guide-to-secure-and-free-youtube-music-downloads-for-2024/"><u>Effortless Guide to Secure and Free YouTube Music Downloads for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-overcoming-common-televisual-malfunctions/"><u>Essential Tips for Overcoming Common Televisual Malfunctions</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-13c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi 13C Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>In 2024, Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-12-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme 12 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-edgeplus-2023-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Edge+ (2023) without backup.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-reno-9a-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Reno 9A to Gmail | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hannel-name-wizardry-brainstorm-and-create/"><u>[New] Channel Name Wizardry Brainstorm & Create</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-game-away-your-worries-the-coolest-titles/"><u>[New] In 2024, Game Away Your Worries The Coolest Titles</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-easy-process-how-to-save-twitter-videos-on-an-android-device/"><u>[Updated] 2024 Approved Easy Process How to Save Twitter Videos on an Android Device</u></a></li>
+<li><a href="https://techidaily.com/amd-driver-woes-be-gone-master-the-art-of-uninstallation-on-windows-devices/"><u>AMD Driver Woes Be Gone: Master the Art of Uninstallation on Windows Devices</u></a></li>
+<li><a href="https://techidaily.com/banishing-delays-efficient-solutions-for-fast-booting-windows-11-systems/"><u>Banishing Delays: Efficient Solutions for Fast-Booting Windows 11 Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cut-the-redundancy-a-step-by-step-to-adding-times-in-your-videos-for-2024/"><u>Cut the Redundancy A Step-by-Step to Adding Times in Your Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-steps-to-get-your-ibooks-onto-your-ios-device/"><u>Easy Steps to Get Your iBooks Onto Your iOS Device</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/efficient-hyper-v-data-protection-on-different-windows-servers-windows-server-2022201920162012/"><u>Efficient Hyper-V Data Protection on Different Windows Servers (Windows Server 2022/2019/2016/2012)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/elite-tale-weaving-resource-for-2024/"><u>Elite Tale Weaving Resource for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-ai-safety-concerns-and-impending-challenges/"><u>Exploring AI Safety Concerns and Impending Challenges</u></a></li>
+<li><a href="https://techidaily.com/1723808290812-how-to-connect-ps4-controller-to-ps3-easily/"><u>How to Connect PS4 Controller to PS3. Easily</u></a></li>
+<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
+<li><a href="https://techidaily.com/1723808310103-installing-your-epson-printer-made-simple-follow-these-steps/"><u>Installing Your Epson Printer Made Simple: Follow These Steps!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multi-speaker-connections-via-bluetooth-easy-steps-for-superior-audio-experience/"><u>Mastering Multi-Speaker Connections via Bluetooth: Easy Steps for Superior Audio Experience</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-eliminating-low-fps-issues-in-minecraft-on-high-end-systems-tips/"><u>Ultimate Guide: Eliminating Low FPS Issues in Minecraft on High-End Systems - Tips</u></a></li>
+<li><a href="https://techidaily.com/1723808226582-unlock-the-power-of-advanced-startup-in-windows-11-easy-methods-revealed/"><u>Unlock the Power of Advanced Startup in Windows 11: Easy Methods Revealed</u></a></li>
+<li><a href="https://techidaily.com/wireless-gameplay-on-ps4-integrating-a-keyboard-and-mouse-into-your-setup/"><u>Wireless Gameplay on PS4: Integrating a Keyboard and Mouse Into Your Setup</u></a></li>
 </ul></div>
 

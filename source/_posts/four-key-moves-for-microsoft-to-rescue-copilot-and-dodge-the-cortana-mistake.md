@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2024-11-08T16:28:26.244Z
-updated: 2024-11-13T16:20:47.010Z
+date: 2024-11-12T09:19:38.812Z
+updated: 2024-11-14T01:30:59.776Z
 tags:
   - deals
 categories:
@@ -30,10 +30,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 ![Clippy, a paperclip with googly eyes and eyebrows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/clippy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Clippy debuted in Microsoft Office 97 and gave tips to help new users familiarize themselves with the software. Things were all well and good, except for one key detail that Microsoft forgot to consider when building Clippy: humans learn.
@@ -50,24 +50,18 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![Cortana on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/07/img_55bc11439921b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It also didn't help that Cortana just wasn't a very good assistant. Simple requests like “Play some music” or “What’s the time” triggered a web search half the time, and you could probably do whatever Cortana could in less time with your keyboard and mouse.
 
  These challenges meant that Cortana struggled to amass a sizable user base. Even Microsoft didn't believe in Cortana’s future, gradually diminishing it until it was finally killed off in 2023.
 
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
 
@@ -94,10 +88,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Copilot, Respect My Boundaries
@@ -109,10 +103,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Microsoft's already had a poor start in this regard. [Recall](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/)–which was supposed to be a huge selling point for the Copilot+ PCs has been [beset by privacy concerns](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/) since its announcement. Even though Recall is different from Copilot, they are so closely intertwined in the new Copilot+ PCs that Copilot can't help but be tainted by association.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Copilot, I Need to Know I Can Trust You
@@ -140,24 +134,21 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-take-screenshots-on-windows-5-methods/"><u>[New] 2024 Approved How to Take Screenshots on Windows [5 Methods]</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-use-zoom-breakout-rooms/"><u>[New] 2024 Approved How to Use Zoom Breakout Rooms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers-for-2024/"><u>[New] Make Your Own VR Gear DIY Guide for Google Cardboard Viewers for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-connoisseurs-guide-to-whatsapp-mastery/"><u>[Updated] The Connoisseur's Guide to WhatsApp Mastery</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/enhancing-discord-communication-addition-of-emoji-based-statues-for-2024/"><u>Enhancing Discord Communication Addition of Emoji-Based Statues for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-5-lite-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 5 Lite Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-s23-tactical-edition-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy S23 Tactical Edition Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g84-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G84 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y100a-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100A without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-evaluating-tseries-business-model-with-youtube-viewership-metrics/"><u>In 2024, Evaluating TSeries' Business Model with YouTube Viewership Metrics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971869299-install-epson-wf-7710-printing-software-on-windows-get-your-latest-driver-here/"><u>Install Epson WF-7710 Printing Software on Windows - Get Your Latest Driver Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-windows-10s-persistent-restart-cycle-with-these-simple-troubleshooting-tips/"><u>Stop Windows 10'S Persistent Restart Cycle with These Simple Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-micromobility-universe-key-events-breaking-news-speculations-and-more/"><u>The Micromobility Universe: Key Events, Breaking News, Speculations & More</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-lava-blaze-pro-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-c67-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme C67 5G</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevate-your-mobile-photography-with-ios-11-tweaks/"><u>[New] 2024 Approved Elevate Your Mobile Photography with iOS 11 Tweaks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scene-reduction-unveiling-imovies-cropping-logic/"><u>[New] Scene Reduction Unveiling iMovie's Cropping Logic</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-social-media-savvy-turning-friends-into-customers-and-coins/"><u>[Updated] In 2024, Social Media Savvy Turning Friends Into Customers and Coins</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>[Updated] The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-list-of-leading-sites-for-buying-youtube-tones/"><u>2024 Approved List of Leading Sites for Buying YouTube Tones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210254263-9781398701977-astrosex-taurus/"><u>Astrosex: Taurus | Free Book</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-videos-the-best-free-4k-video-conversion-tools-for-2024/"><u>Elevate Your Videos The Best Free 4K Video Conversion Tools for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-x90s-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo X90S Phone Screen?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-torrents/"><u>Step-by-Step Guide: Mastering the Art of Downloading Torrents</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-performing-a-complete-system-restore-on-windows-11/"><u>Step-by-Step Guide: Performing a Complete System Restore on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-removing-your-printers-drivers-from-windows-computers/"><u>Step-by-Step Guide: Removing Your Printer's Drivers From Windows Computers</u></a></li>
+<li><a href="https://techidaily.com/the-complete-guide-to-dualplusmonitor-configurations-for-enhanced-productivity/"><u>The Complete Guide to Dual+Monitor Configurations for Enhanced Productivity</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-gameplay-display-issues-resolving-screen-latency-in-dual-setup-with-windows-11/"><u>Troubleshooting Gameplay Display Issues: Resolving Screen Latency in Dual Setup with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-top-five-ways-to-restart-non-functioning-chatgpt/"><u>Troubleshooting Guide: Top Five Ways to Restart Non-Functioning ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-for-reducing-tiworkerexes-extensive-disk-activity-on-windows-10-systems/"><u>Troubleshooting Tips for Reducing tiWorker.exe's Extensive Disk Activity on Windows 10 Systems</u></a></li>
 </ul></div>
 

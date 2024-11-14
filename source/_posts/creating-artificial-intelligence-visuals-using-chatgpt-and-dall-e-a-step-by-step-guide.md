@@ -1,7 +1,7 @@
 ---
 title: "Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide"
-date: 2024-11-08T16:05:57.093Z
-updated: 2024-11-13T16:40:10.812Z
+date: 2024-11-13T01:52:35.978Z
+updated: 2024-11-13T16:51:38.678Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  Using DALL-E to generate images with AI has become an invaluable service for many, whether for work or fun. However, now you can generate images with DALL-E directly through ChatGPT, allowing you the best of both worlds. So, how does this work?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is ChatGPT's DALL-E Feature?
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  While both DALL-E and ChatGPT use AI, the former focuses entirely on image generation. DALL-E uses either text-based prompts to generate media, or offers the option to upload an image from the user's device. From this information, DALL-E creates a range of media to fit the user's preferences.
 
 ![Cyberpunk scene of robot woman buying a fruit from a robot man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/cybepun-fruit.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DALL-E / Sydney Butler / How-To Geek
 
@@ -46,20 +53,13 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT's list of DALL-E restrictions on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-restricted-images.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you may expect, sexually explicit and hateful images are prohibited, as well as images depicting real people or deepfakes. Images depicting violence and illegal activity and the use of copyright content is also off-limits. [DALL-E is also available in Bing](https://fox-direct.techidaily.com/advanced-speed-adjustment-techniques-in-media-editing-for-2024/) at no charge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Desktop
@@ -68,13 +68,6 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT processing DALL-E image request on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After sending your DALL-E prompt, ChatGPT will spend a few seconds generating the image. This may take longer if your internet connection is poor, or if ChatGPT is experiencing high user demand.
 
 ![ChatGPT DALL-E image generation response on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat1.jpg) 
@@ -82,6 +75,13 @@ DALL-E / Sydney Butler / How-To Geek
  Simply hover your mouse over the image, and you'll see a download option at the top-left. If you're not satisfied with the first result, you can make additional requests.
 
 ![ChatGPT's response to DALL-E prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While ChatGPT can generate some visually stunning images with the DALL-E plugin, it's very difficult to make small changes to a previous image without other things being changed, too.
 
@@ -122,24 +122,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-creating-content-from-home-macbook-cam-guide-for-2024/"><u>[Updated] Creating Content From Home MacBook Cam Guide for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-beginners-guide-to-inshot-and-laptop-editing/"><u>[Updated] In 2024, A Beginner's Guide to Inshot and Laptop Editing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-7-plus-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 7 Plus is off? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-for-the-new-era-upcoming-launch-of-central-bank-electronic-money-systems/"><u>Get Ready for the New Era: Upcoming Launch of Central Bank Electronic Money Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-fixing-silent-hp-toner-units/"><u>Guide to Fixing Silent HP Toner Units</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-g310-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia G310 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-13-mini-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 13 mini SIM Lock?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personalized-music-collection-enhancement-from-spotify-to-youtube-music/"><u>In 2024, Personalized Music Collection Enhancement From Spotify to YouTube Music</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-vivo-v27-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Vivo V27</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-the-nsp4rdll-not-found-error/"><u>Step-by-Step Guide: Fixing the 'nsp4r.dll Not Found' Error</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-path-to-perfect-visuals-an-advanced-course-in-vce-22-for-2024/"><u>The Path to Perfect Visuals An Advanced Course in VCE 2.2 for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-magic5-ultimate-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-3-key-oversights-with-ml-algorithms/"><u>Top 3 Key Oversights with ML Algorithms</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-sony-xperia-10-v-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Sony Xperia 10 V</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-11-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 11 files after scanning? | Stellar</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>[New] 2024 Approved Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-snappify-your-macs-viewport/"><u>[New] In 2024, How To Snappify Your Mac's Viewport</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nline-video-hubs-picking-between-vimeo-youtube-and-dailymotion-for-2024/"><u>[New] Online Video Hubs Picking Between Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-masterpiece-scenes-to-perfect-your-edits/"><u>[Updated] 10 Masterpiece Scenes to Perfect Your Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-lgs-27ud68-4k-freesync-tv-reviews/"><u>[Updated] Exploring LG's 27UD68 4K FreeSync TV Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-rising-to-fame-creating-the-ultimate-facebook-song-video/"><u>[Updated] In 2024, Rising to Fame Creating the Ultimate Facebook Song Video</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earnings-expertise-on-streaming-services-the-ultimate-guide-for-2024/"><u>Earnings Expertise on Streaming Services The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-to-executing-pre-windows-11-applications-via-compatibility-mode-in-windows-11/"><u>Guide to Executing Pre-Windows 11 Applications via Compatibility Mode in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-eradicate-ghosting-effects-on-your-television-with-basic-tips/"><u>How to Eradicate Ghosting Effects on Your Television with Basic Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-play-fallout-3-on-windows-10/"><u>How to Play Fallout 3 on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-gmail-password-with-verification-code-2022-tips/"><u>How to RESET Your Gmail Password with Verification Code - 2022 Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-speed-up-your-slow-performing-frequently-freezing-pc-expert-tips/"><u>How to Speed Up Your Slow-Performing, Frequently Freezing PC - Expert Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-torrent-safely-without-getting-caught-without-virus/"><u>How to Torrent Safely [Without Getting Caught, Without Virus]</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-windows-10-drivers-if-you-cant-find-them-on-manufacturers-website/"><u>How to Update Windows 10 Drivers if You Can’t Find Them on Manufacturer’s Website</u></a></li>
+<li><a href="https://techidaily.com/improve-your-listening-experience-mastering-windows-10s-built-in-equalizer-features/"><u>Improve Your Listening Experience: Mastering Windows 10'S Built-In Equalizer Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-nord-3-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Nord 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/master-your-visuals-customizing-3d-settings-on-nvidias-dashboard/"><u>Master Your Visuals: Customizing 3D Settings on NVIDIA's Dashboard</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-samsung-galaxy-watch3-timeless-elegance-meets-cutting-edge-features/"><u>Review of Samsung Galaxy Watch3: Timeless Elegance Meets Cutting-Edge Features</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/ultimate-winxdvd-mastery-step-by-step-installation-and-usage-tutorial/"><u>Ultimate WinXDVD Mastery: Step-by-Step Installation & Usage Tutorial</u></a></li>
 </ul></div>
 

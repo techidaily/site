@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2024-11-09T16:20:25.349Z
-updated: 2024-11-13T16:12:46.650Z
+date: 2024-11-11T09:16:05.853Z
+updated: 2024-11-14T01:25:32.750Z
 tags:
   - desktop
 categories:
@@ -17,19 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 * [Use the Command Prompt to Bypass the Internet Requirement](https://vp-tips.techidaily.com/updated-2024-approved-ranking-relaxing-front-row-activities-that-arent-sports/)
 * [End the Network Connection Flow Process](https://win11.techidaily.com/tackling-blank-screen-issues-after-attempting-to-connect/)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * If Windows 11 installation gets stuck at the "Let's connect to a network" screen, double-check that your internet is working. Restarting your router might fix the issue, or you can use your mobile hotspot as a temporary solution.
@@ -38,18 +25,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Connection
 
  On the "Let's connect you to a network" screen, you'll see the names of available connections. However, if you can't connect to any of them, whether it's Wi-Fi or your wired connection, there's probably a problem with the connection itself.
 
 ![Let's connect you to a network screen during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/let-s-connect-you-to-a-network.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm that the problem lies with your Wi-Fi, not your Windows computer, try connecting your smartphone or another device to the Wi-Fi and check if you can access the internet on it. If the internet doesn't work on that device either, then it confirms that the issue resides with your Wi-Fi. The solution, in this case, is to [restart the router](https://extra-information.techidaily.com/updated-chuckle-centric-ringtone-websites-guide/). You can even contact your ISP for further assistance.
 
@@ -75,13 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  3\. End the Network Connection Flow Process
 
  The network connection flow is an essential Windows process that detects and configures network connections on your computer. This process runs during Windows 11 installation and ensures your computer has an internet connection for downloading critical updates.
@@ -93,19 +73,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![Taskmgr command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/taskmgr-command.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Task Manager, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) the "Network Connection Flow" process in the Processes tab and select "End task" from the context menu.
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **exit** in the Command Prompt window and press Enter.
 
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
 
@@ -128,19 +122,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-guide-to-youtube-seo-techniques/"><u>[New] 2024 Approved The Ultimate Guide to YouTube SEO Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-storystitcher-compelling-collage-for-instagram-users/"><u>[Updated] In 2024, StoryStitcher Compelling Collage for Instagram Users</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-cutting-edge-editing-meets-online-video-sharing/"><u>2024 Approved Cutting-Edge Editing Meets Online Video Sharing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/converting-avian-videos-avi-into-graphic-images-gif-using-filmora-for-2024/"><u>Converting Avian Videos (AVI) Into Graphic Images (GIF) Using Filmora for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-s17-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo S17 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-experience-the-future-of-video-top-4k-samples/"><u>New Experience the Future of Video Top 4K Samples</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/shop-the-sale-32-gs32q-qhd-display-with-rapid-refresh-rate-of-170hz-from-gigabyte-for-199/"><u>Shop the Sale - 32 GS32Q QHD Display with Rapid Refresh Rate of 170Hz From Gigabyte for $199</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-itel-s23-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Itel S23</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-samsung-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Samsung</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nubia-red-magic-9-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-chill-vibes-at-the-beijing-winter-olympics-2022/"><u>[New] 2024 Approved Chill Vibes at the Beijing Winter Olympics 2022</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-fourteen-full-frame-photography-devices/"><u>[New] Leading Fourteen Full Frame Photography Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-tips-for-unlocking-youtube-video-comments/"><u>[Updated] In 2024, Tips for Unlocking YouTube Video Comments</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comment-reinitialiser-un-ordinateur-perdu-dans-le-menu-options-de-restauration/"><u>Comment Réinitialiser Un Ordinateur Perdu Dans Le Menu Options De Restauration ?</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g-stylus-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G Stylus (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertly-convert-subtitles-to-srt-our-picks-for-the-best-8-tools-on-windowsmac/"><u>Expertly Convert Subtitles to SRT - Our Picks for the Best 8 Tools on Windows/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guia-completo-como-configurar-o-fortnite-no-seu-pc-utilizando-as-dicas-do-movavi-etapa-a-etapa/"><u>Guia Completo: Como Configurar O Fortnite No Seu PC Utilizando as Dicas Do Movavi – Etapa a Etapa</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 8 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-triggered-meme/"><u>New 2024 Approved How to Make a Triggered Meme?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/staying-online-uninterrupted-anywhere/"><u>Staying Online Uninterrupted, Anywhere</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor 90 Lite</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-steps-to-create-ai-twitch-streamer-with-animated-avatars/"><u>Updated In 2024, Easy Steps to Create AI Twitch Streamer with Animated Avatars</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
 

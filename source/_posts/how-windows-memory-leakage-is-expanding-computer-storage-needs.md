@@ -1,7 +1,7 @@
 ---
 title: How Windows Memory Leakage Is Expanding Computer Storage Needs
-date: 2024-11-09T16:14:01.901Z
-updated: 2024-11-13T16:22:45.142Z
+date: 2024-11-09T04:45:32.566Z
+updated: 2024-11-13T16:21:39.598Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows Recall comes at a cost—and it's measured in gigabytes! As Copilot+ PCs hit the market, users may face a storage crunch, with the feature consuming up to 150 GB. But, practically speaking, how much space will you actually lose if you enable Recall to navigate your digital past?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is Windows Recall?
 
  Microsoft is releasing a new line of AI-powered laptops called [Copilot+ PCs](https://instagram-videos.techidaily.com/optimize-your-instagram-media-flow-desktopmobile-for-2024/) and one of its features is called [Windows Recall](https://youtube-help.techidaily.com/2024-approved-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization/). It automatically captures snapshots of your screen activity, and then allows you to find or "recall" what you were doing using AI. For example, you can search for "Goat Cheese Pizza" and Recall will contextually scan through all the snapshots and showcase the website or app where there were instances matching your search query.
@@ -26,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Microsoft Recall demonstration searching for Goat Chesse Pizza](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-recall-demonstration-searching-for-goat-chesse-pizza.png) 
 
 [Microsoft](https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Windows Recall: An Overview of Storage Requirements
 
@@ -53,16 +53,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So, you need to allocate at least 25 GB to Recall if you wish to enable the feature—unless you own a 256 GB device, in which case, you can allocate just 10 GB. But wait, this is just the storage allocation for the snapshots—you’re actually losing a few more gigabytes to the systems powering Recall.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The True Weight of Windows Recall on System Storage
 
  Windows Recall isn’t just about allocating space for the automatic snapshots. It also uses locally installed AI to analyze the snapshots and create a timeline of your activity. This means even if you disable Recall and don’t allocate any storage to it, you’ll still lose a chunk of your storage to the [local AI](https://eaxpv-info.techidaily.com/new-in-2024-guide-to-idevice-based-youtube-content-sharing/), including the Recall app.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Usable Storage Space on Recall-Compatible Copilot+ PCs
 
@@ -77,13 +77,6 @@ Close
  So, if you’re buying a Copilot+ PC, note that the operating system is going to be bulkier as it needs to allocate space for all the new AI features, including Recall. Also, if you intend to use the feature, you’ll need to allocate anywhere between 10-150 GB for storing the snapshots.
 
  The total amount of space you allocate will determine how many snapshots you can store, equating to how far back you can “recall.” I personally doubt that 10 GB of storage allocation will give you a meaningful amount of Recall history. Practically, I think people will want to have access to at least 30 days of activity. So I ran the numbers, and you’d be surprised at just how much space the snapshots can eat up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How Much Storage for 1 Hour of Recall
 
@@ -108,6 +101,13 @@ Close
 
  Recall only saves a snapshot if the content on the screen is different from the previous snapshot. So it won’t bulk up your storage when you aren’t using your PC or if you’ve paused the feature. You can also stop Recall from taking snapshots by [following this guide](https://mondly-stories.techidaily.com/enlightening-the-future-one-language-at-a-time/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  So, How Much Storage Do You Have For Yourself?
 
  A 256 GB SSD usually has [238 GB of available space](https://www.emtec-international.com/en/faq/external-ssd/what-usable-capacity-my-ssd), whereas a 512 GB SSD has 476 GB.
@@ -129,16 +129,10 @@ Close
  Considering these numbers and how large modern apps are getting, a 256 GB Copilot+ PC is just impractical and a 512 GB model debatable—only recommended if you don’t run heavy apps or play games.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy a Higher Storage Model of a Copilot+ PC?
@@ -164,24 +158,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-quick-fixes-for-stopped-fb-live-broadcasts/"><u>[New] 2024 Approved Quick Fixes for Stopped FB Live Broadcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>[Updated] Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-superior-approaches-to-record-phone-usage-for-2024/"><u>[Updated] Superior Approaches to Record Phone Usage for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a15-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A15 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-se-2022-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone SE (2022)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-gt-10-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix GT 10 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ng-audio-to-text-online-solutions-for-2024/"><u>Leading Audio-to-Text Online Solutions for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-90-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor 90 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-vivo-x90s-by-fonelab-android-recover-data/"><u>The way to get back lost data from Vivo X90S</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-k11-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo K11 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2021-file-not-opening-error-stellar-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2021 File Not Opening Error | Stellar</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-video-hevc-in-formato-mp4-senza-compromettere-la-qualita-visiva/"><u>Trasforma I Tuoi Video HEVC in Formato MP4 Senza Compromettere La Qualità Visiva</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tip-semaphore-timeout-limit-resolved-say-goodbye-to-error-0x80070079/"><u>Troubleshooting Tip: Semaphore Timeout Limit Resolved, Say Goodbye to Error 0X80070079</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-prevent-and-mend-streaming-hiccups-in-fb-livestran/"><u>[New] 2024 Approved How to Prevent and Mend Streaming Hiccups in FB Livestran</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-expert-tips-for-effortless-green-screening-in-kinemaster-software/"><u>[New] In 2024, Expert Tips for Effortless Green Screening in KineMaster Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-digital-conversion-old-photos-to-video-for-2024/"><u>[Updated] Mastering Digital Conversion Old Photos to Video for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-methodology-to-purging-your-youtube-watch-later-playlist/"><u>[Updated] Methodology to Purging Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-touchpad-scrolling-in-windows-11-a-step-by-step-troubleshooting-guide/"><u>How to Restore Touchpad Scrolling in Windows 11: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-snap-game-with-pro-level-boomerang-expertise/"><u>In 2024, Elevate Your Snap Game with Pro-Level Boomerang Expertise</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Prevention & Solution</u></a></li>
+<li><a href="https://techidaily.com/kodi-superrepo-install-superrepo-on-kodi-step-by-step/"><u>Kodi SuperRepo – Install SuperRepo on Kodi Step by Step</u></a></li>
+<li><a href="https://techidaily.com/mastering-performance-troubleshooting-and-improving-elder-scrolls-online-frame-rate/"><u>Mastering Performance: Troubleshooting and Improving Elder Scrolls Online Frame Rate</u></a></li>
+<li><a href="https://techidaily.com/mastering-system-recovery-the-definitive-4-step-process-for-a-clean-windows-10-installation/"><u>Mastering System Recovery: The Definitive 4-Step Process for a Clean Windows 10 Installation</u></a></li>
+<li><a href="https://techidaily.com/mastering-window-10-screen-shot-techniques-using-simple-shortcuts/"><u>Mastering Window 10 Screen Shot Techniques Using Simple Shortcuts</u></a></li>
+<li><a href="https://techidaily.com/miracast-in-windows-7-everything-you-need-to-know/"><u>Miracast in Windows 7 - Everything You Need to Know</u></a></li>
+<li><a href="https://techidaily.com/obs-dropped-frame-troubleshooting-guide-latest-tips-and-techniques/"><u>OBS Dropped Frame Troubleshooting Guide - Latest Tips & Techniques</u></a></li>
+<li><a href="https://techidaily.com/overcome-slowness-in-windows-11-with-these-effective-8-step-solutions/"><u>Overcome Slowness in Windows 11 with These Effective 8-Step Solutions</u></a></li>
+<li><a href="https://techidaily.com/overcoming-format-errors-in-windows-ensuring-a-successful-drive-preparation/"><u>Overcoming Format Errors in Windows: Ensuring a Successful Drive Preparation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleashing-video-potential-the-imovie-blueprint-for-youtube-editors-for-2024/"><u>Unleashing Video Potential The iMovie Blueprint for YouTube Editors for 2024</u></a></li>
 </ul></div>
 

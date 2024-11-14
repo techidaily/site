@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents"
-date: 2024-11-10T16:20:56.022Z
-updated: 2024-11-13T16:40:17.296Z
+date: 2024-11-09T01:23:25.133Z
+updated: 2024-11-13T22:11:56.128Z
 tags:
   - deals
 categories:
@@ -24,26 +24,26 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  Once you’ve learned how to [navigate directories](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/) on Windows 10, the next step is learning how to find and open files using the Command Prompt. It’s just as easy as navigating through and opening a file in File Explorer. Here’s how it’s done.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by typing “cmd” in the Windows Search bar and then selecting “Command Prompt” from the search results. You may also enter "cmd" into a Run box (Windows + R) if you prefer that.
 
 ![Run CMD from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-cmd-start.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With the Command Prompt opened, you’re ready to find and open your file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find Files Using Command Prompt
@@ -74,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Using the cd command to change the directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cd-doc-ex.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have inputted your command, press the Enter key. You’ll now be in that folder.
 
 ![We have successfully changed directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-changed-directory-successfully-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’s now time to open the [file within that folder](https://remote-screen-capture.techidaily.com/new-mastering-iphone-screen-recording-with-minimal-fuss-for-2024/). Our file is named “Example File.”
 
@@ -107,28 +107,34 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![File path with quotes on the file name only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-example-file-with-quotes.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are a couple of other important things to keep in mind.
 
  The first is that Windows paths are not case sensitive. You could write "EXAMPLE file.docx" or "eXaMpLe FiLe.dOcX" and Command Prompt wouldn't care.
 
 ![Some examples of paths you can use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-examples-of-paths.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The second is that you can open files with unknown file extensions, you just have to manually specify which program to use first. This isn't any different from trying to open an unknown file format with File Explorer.
 
 ![Opening a file with an unknown format, in this case ".abc123" as an example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-abc123-unknown-format.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This isn't just applicable to the Command Prompt, either. PowerShell behaves the same way as Command Prompt for most jobs, and that is especially true if you're talking about something simple.
@@ -148,15 +154,20 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-strategic-advantages-in-business-with-vr-tech/"><u>[New] Strategic Advantages in Business with VR Tech</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas/"><u>[Updated] In 2024, Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-videographers-playbook-for-sims-games/"><u>[Updated] The Videographer's Playbook for Sims Games</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100a-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y100A Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>In 2024, 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-agile-yet-pricey-swagtron-swagboard-t1/"><u>In-Depth Analysis of the Agile Yet Pricey Swagtron Swagboard T1</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-comprehensive-picsart-insight-for-enhanced-creativity/"><u>[New] Comprehensive PicsArt Insight for Enhanced Creativity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023-guide-selecting-no-charge-fb-video-and-photo-artists/"><u>[New] In 2024, 2023 Guide Selecting No-Charge FB Video & Photo Artists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-joining-forces-in-video-marketing-on-youtube/"><u>[New] Joining Forces in Video Marketing on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ersonalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move/"><u>[New] Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-livestream-providers-the-ultimate-list/"><u>[Updated] 2024 Approved Essential Livestream Providers The Ultimate List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[Updated] 2024 Approved Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+<li><a href="https://techidaily.com/75-discount-and-10-off-nordvpn-coupon/"><u>75% Discount & $10 Off - NordVPN Coupon</u></a></li>
+<li><a href="https://techidaily.com/boosting-the-load-time-of-your-windows-11-operating-system-efficiently/"><u>Boosting the Load Time of Your Windows 11 Operating System Efficiently</u></a></li>
+<li><a href="https://techidaily.com/choosing-the-ideal-chrome-vpn-top-picks-and-effortless-installation-tips/"><u>Choosing the Ideal Chrome VPN: Top Picks and Effortless Installation Tips</u></a></li>
+<li><a href="https://techidaily.com/comprehensive-instructions-how-to-take-out-nvidia-drivers-in-windows-11/"><u>Comprehensive Instructions: How to Take Out Nvidia Drivers in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-beginner-to-expert-with-a-complete-fcp-guidebook-for-2024/"><u>From Beginner to Expert with a Complete FCP Guidebook for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone SE?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-recording-and-sharing-your-voice-on-iphone/"><u>Step-by-Step Instructions to Recording & Sharing Your Voice On iPhone</u></a></li>
+<li><a href="https://techidaily.com/1723808332581-what-are-random-password-generators-discover-their-purpose-and-usage-tips-for-enhanced-online-security/"><u>What Are Random Password Generators? Discover Their Purpose & Usage Tips for Enhanced Online Security</u></a></li>
+<li><a href="https://techidaily.com/1723808338427-why-isnt-my-logitech-mouse-working-diagnosis-and-fixes-revealed/"><u>Why Isn't My Logitech Mouse Working? Diagnosis & Fixes Revealed</u></a></li>
 </ul></div>
 

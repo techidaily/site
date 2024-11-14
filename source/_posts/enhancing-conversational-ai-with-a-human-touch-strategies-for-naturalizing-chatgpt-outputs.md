@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs"
-date: 2024-11-08T16:28:01.042Z
-updated: 2024-11-13T16:04:37.428Z
+date: 2024-11-09T23:03:51.145Z
+updated: 2024-11-13T19:43:42.903Z
 tags:
   - cutting-edge
 categories:
@@ -20,18 +20,24 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  We're using a popular AI text detector here as a way to demonstrate that these methods make a real difference to the text, but it's important to note that AI text-detection tools are not a reliable way to [tell if the text is AI-generated or not](https://facebook-clips.techidaily.com/in-2024-a-compreehers-path-to-aspect-ratio-mastery-in-facebook-videos/). These tools have [fundamental problems](https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/) that make them unsuitable for determining whether text is human-written. On top of this, while text may pass a detector, it might still obviously read as nonsense to a human reader. So use your own judgment on whether the humanized output is good enough for your needs or not.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 1: Use ChatGPT-4
 
  If you're a ChatGPT Plus subscriber, you'll have access to [GPT-4](https://extra-support.techidaily.com/new-pictorial-perfection-proven-techniques-for-stunning-photos/), which is [much more capable and sophisticated than the standard GPT 3.5 Turbo model](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/) that's on by default. Just left to its own devices, GPT-4 produces much more natural text, and in my testing using the popular GPT Zero service is much less likely to trigger a result that's confident of AI text. Here I've asked GPT-4 to write an opinion piece on why manual transmissions are better than automatic (because they are).
 
 ![Portion of ChatGPT Output writing on how manual transmissions are better in cars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-12-47-36.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this case, on the second re-roll of the prompt, we get a good result and manually editing the few low-perplexity sentences is no big deal.
 
@@ -42,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
  The detector uses the results of these two measurements to estimate how likely a text is to be AI-generated. Different AI detectors might use different algorithms or measurements, but the principle is broadly the same. If we put the text from this article into GPT Zero we get the result "Your text is most likely human written" (phew!) and this is what the perplexity and burstiness scores look like.
 
 ![Burstines and Perplexity scores for the article you're reading right now with perplexity. at 1904.558 and Burstiness at 11030.752](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-10-at-09-52-01.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 2: Use The "Humanize" Plugin
 
@@ -64,22 +63,22 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 ![ChatGPT 4 offers to natively humanize text without a plugin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-13-00-35.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After asking GPT-4 to humanize its text, we get a full endorsement from GPT Zero, but also the actual text reads _much_ better than before.
 
 ![GPT Zero result showing confidence in full human text origin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-11-06-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 4: Prompt Specific Author Styles
@@ -93,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
  Again, we get a result for human, with a few single sentences flagged as potentially AI-generated.
 
 ![Low perplexity sentences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-12-16-18.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also add additional flavor to your prompt, such as asking for the tone to be casual, friendly, etc., and in many cases, this will result in GPT Zero reporting with confidence that the text is human.
 
@@ -117,24 +123,17 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition/"><u>[New] 2024 Approved Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlock-the-power-of-pinterest-top-5-free-extractors-at-hand/"><u>[New] 2024 Approved Unlock the Power of Pinterest Top 5 Free Extractors at Hand</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-essential-guide-prime-auto-camera-systems/"><u>[Updated] Essential Guide Prime Auto Camera Systems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-redefining-your-twitter-vibe-with-dynamic-video-thumbnails/"><u>[Updated] In 2024, Redefining Your Twitter Vibe with Dynamic Video Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-convenient-way-to-mute-youtube-channels-on-pcmobile/"><u>[Updated] The Convenient Way to Mute Youtube Channels on PC/Mobile</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gps-companions-top-10-drones-that-stay-close/"><u>2024 Approved GPS Companions Top 10 Drones That Stay Close</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-windows-11-heres-how-to-verify/"><u>Activating Windows 11? Here's How to Verify</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G04 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ver-the-best-11-no-fee-name-crafting-for-channels-for-2024/"><u>Discover the Best 11 No-Fee Name Crafting for Channels for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-huawei-nova-y91-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Huawei Nova Y91 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-oppo-k11x-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Oppo K11x</u></a></li>
-<li><a href="https://games-able.techidaily.com/performance-metrics-original-vs-aib-graphic-processors/"><u>Performance Metrics: Original vs AIB Graphic Processors</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-nokia-105-classic-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nokia 105 Classic</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-x7b-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor X7b</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-k11-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo K11 5G</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-huawei-nova-y91-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Huawei Nova Y91 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-sony-by-fonelab-android-recover-data/"><u>Undelete lost data from Sony</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-imagination-into-reality-with-top-animation-software/"><u>[New] Transform Your Imagination Into Reality with Top Animation Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-sound-problems-resolved-heres-how-to-restore-game-audio/"><u>Apex Legends Sound Problems Resolved? Here's How to Restore Game Audio</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-saber-stability-issues-a-guide-to-preventing-game-crashes/"><u>Beat Saber Stability Issues – A Guide to Preventing Game Crashes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-printer-drivers-compatible-with-windows-11-latest-updates-and-installation-guide/"><u>Download HP Printer Drivers Compatible with Windows 11: Latest Updates and Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-ch3e40g-usb-to-serial-drivers-compatible-with-windows-10/"><u>Download Updated CH3e40G USB-to-Serial Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-alternatives-what-if-apples-ios-event-feature-doesnt-work/"><u>Finding Alternatives: What If Apple's iOS Event Feature Doesn't Work?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-rated-avi-video-rotators-free-solutions-for-all-platforms-for-2024/"><u>New Top-Rated AVI Video Rotators Free Solutions for All Platforms for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210376297-9781637109250-the-ego-has-landed/"><u>THE EGO HAS LANDED | Free Book</u></a></li>
+<li><a href="https://techidaily.com/1723808275190-trouble-with-chatgpt-fix-it-in-five-simple-steps/"><u>Trouble with ChatGPT? Fix It in Five Simple Steps</u></a></li>
+<li><a href="https://techidaily.com/1723808212540-trouble-with-windows-10-booting-up-discover-simple-solutions-now/"><u>Trouble with Windows 10 Booting Up? Discover Simple Solutions Now!</u></a></li>
+<li><a href="https://techidaily.com/unlock-your-browsing-guide-to-unblocking-sites-in-chrome/"><u>Unlock Your Browsing: Guide to Unblocking Sites in Chrome</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-secrets-of-disk-management-a-beginners-tutorial-for-windows-11-users/"><u>Unlocking the Secrets of Disk Management: A Beginner's Tutorial for Windows 11 Users</u></a></li>
 </ul></div>
 

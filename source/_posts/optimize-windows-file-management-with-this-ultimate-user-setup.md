@@ -1,7 +1,7 @@
 ---
 title: Optimize Windows File Management with This Ultimate User Setup
-date: 2024-11-12T16:34:45.496Z
-updated: 2024-11-13T16:30:17.008Z
+date: 2024-11-09T19:26:56.824Z
+updated: 2024-11-14T08:52:11.155Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Even with the addition of tabs, the file browsing experience on Windows is still lackluster. The search is as broken as ever. I’m still waiting for bulk renaming, file locks, a bookmarks bar, or secure deletion. Panes have limited file previews and organization is bare bones. Let’s fix it all.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Search Anything With Everything
 
  The default file indexing is painfully slow on Windows, and it always has been. That’s why looking up files in Explorer can take such a long time. On occasion, I have manually located a file faster than Explorer search. That’s why I switched to [Everything](https://www.voidtools.com/downloads/).
@@ -30,10 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Filer options in Everything Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-024646.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever you update or add a file, Everything indexes it right away. It builds its database within seconds of the first installation, and it scans for changes in real time. It’s so fast that you don’t even have to complete the query to retrieve a file or folder. It pulls up files as you type. No progress bars.
@@ -50,13 +57,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Customizing FancyZones settings in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pt-fancyzones-multimon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft
 
  Preview panes on Windows show the contents of a file without opening it. Sadly, it’s mostly limited to image previews. With PowerToys, you can preview more than 150 types of files, including PDF files, source code files, [markdowns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c12-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), and more. If your workflow involves jumping between files often, PowerToys can save you some time.
@@ -68,6 +68,19 @@ Microsoft
  Ever run into the error “you can’t delete this file because it’s being used by another process?” You have to manually scroll through the list of active processes in the Task Manager to find which program is using the file you’re trying to modify or delete. It can be time-consuming and might not always work. Let the File Locksmith utility in PowerToys automatically find and terminate that program for you.
 
 ![Ending an open task in File Locksmith](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/powertoys-file-locksmith.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -94,10 +107,10 @@ Close
 ![Explorer++ bookmark manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Explorer++
@@ -120,22 +133,15 @@ Explorer++
 
 ![Eraser dashboard for scheduling deletions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240806-140116.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Eraser is a freeware utility that deletes files by overwriting them multiple times. Once you’ve deleted a file like that, it’s impossible to recover it. It’s so effective, in fact, that the United States government recommends it for wiping devices.
 
 ![Eraser context menu launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240806-135856.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can delete a file with Eraser from the right-click context menu. It might take a little longer than regular deletion though (especially for bigger files). You can [download Eraser](https://eraser.heidi.ie/download/) from the official website.
@@ -155,24 +161,21 @@ Explorer++
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-and-save-your-favorite-fb-videos-for-2024/"><u>[New] Unlock and Save Your Favorite FB Videos for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-how-to-revive-a-stuck-obs-fullscreen/"><u>[Updated] In 2024, How to Revive a Stuck OBS Fullscreen</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>[Updated] Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-incorporate-your-podcast-into-app-store/"><u>2024 Approved How To Incorporate Your Podcast Into App Store</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-honor-x8b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor X8b Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hers-for-digital-content-creators-youtubes-keyword-techniques-for-2024/"><u>Deciphers for Digital Content Creators YouTube's Keyword Techniques for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-15-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 15 Pro Max Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s24plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S24+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-13t-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi 13T Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps/"><u>In 2024, Top 8 Mobile Mosaics Best Blend of Affordable and Premium Android Videomosaic Apps</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-realme-11x-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Realme 11X 5G</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/steering-through-social-streams-youtube-content-in-fb/"><u>Steering Through Social Streams YouTube Content in FB</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-htc-u23-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About HTC U23 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-offline-hp-xp-paper-issue/"><u>Troubleshooting Offline HP XP Paper Issue</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-galaxy-s24-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Galaxy S24</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-your-game-cabinet-with-broad-bold-framing/"><u>Upgrade Your Game Cabinet with Broad, Bold Framing!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-5-high-end-drones-for-professionals/"><u>[New] Best 5 High-End Drones for Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mac-windows-vmx-substitute/"><u>[Updated] Mac-Windows VMX Substitute</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-uploading-basics-for-2024/"><u>[Updated] Twitter Video Uploading Basics for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blueprint-for-a-thriving-portfolio-in-graphics/"><u>2024 Approved Blueprint for a Thriving Portfolio in Graphics</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-8t-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 8T 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-online-deals-top-11-budget-friendly-gaming-purchases/"><u>Best Online Deals: Top 11 Budget-Friendly Gaming Purchases</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-moto-g73-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Moto G73 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-n53-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo N53 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-narzo-60x-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme Narzo 60x 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 Phone without Google Account?</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-honor-70-lite-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Honor 70 Lite 5G</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy M34 5G won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-lava-blaze-2-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Lava Blaze 2</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-the-top-10-ai-avatar-generators/"><u>Updated The Top 10 AI Avatar Generators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-you-should-consider-apples-new-ipad-air-a-closer-look-at-its-irresistible-features-and-advantages/"><u>Why You Should Consider Apple's New iPad Air: A Closer Look at Its Irresistible Features and Advantages</u></a></li>
 </ul></div>
 
